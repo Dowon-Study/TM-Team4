@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196048",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[헬스벨] 살 빼려면 유산균 섭취하세요",
+    "newsSubTitle": "",
+    "newsContent": "올해만큼은 꼭 살을 빼고 건강한 몸을 만들 계획이라면 챙겨야 할 것이 있다.\n바로 장내 유익균인 ‘유산균’이다.\n자극적인 음식·음주·흡연 등으로 장 속에 유해균이 쌓이면 그에 따른 독소가 증가한다.\n이는 내장지방의 흡수를 증가시켜 복부 비만의 원인이 된다.\n이때 유산균을 섭취하면 소장에서 지방 흡수를 돕는 담즙산 분비를 감소시켜 지방 축적을 줄일 수 있다.\n하지만 식품을 통한 유산균 섭취에는 한계가 있다.\n간편하게 유산균을 섭취할 수 있는 프로바이오틱스 제품이 인기를 끌고 있는 이유다.\n건강기능식품 전문 쇼핑몰인 헬스벨쇼핑몰(www.healthbell.net)에서는 새해를 맞아 종근당건강의 ‘헬스벨 프로바이오틱스’ 3세트 할인 이벤트를 진행한다. 1월 12~19일까지 25% 할인된 가격인 4만2600원에 판매한다. ‘헬스벨 프로바이오틱스’는 위산에 강한 일곱 가지 건강한 유산균 1억 마리와 면역기능을 돕는 아연이 포함됐다.\n장내 환경을 깨끗이 하고 지방 축적을 막아 몸의 균형을 유지하는 데 효과적이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "올해만큼은 꼭 살을 빼고 건강한 몸을 만들 계획이라면 챙겨야 할 것이 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "바로 장내 유익균인 ‘유산균’이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "자극적인 음식·음주·흡연 등으로 장 속에 유해균이 쌓이면 그에 따른 독소가 증가한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이는 내장지방의 흡수를 증가시켜 복부 비만의 원인이 된다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이때 유산균을 섭취하면 소장에서 지방 흡수를 돕는 담즙산 분비를 감소시켜 지방 축적을 줄일 수 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 식품을 통한 유산균 섭취에는 한계가 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "간편하게 유산균을 섭취할 수 있는 프로바이오틱스 제품이 인기를 끌고 있는 이유다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "건강기능식품 전문 쇼핑몰인 헬스벨쇼핑몰(www.healthbell.net)에서는 새해를 맞아 종근당건강의 ‘헬스벨 프로바이오틱스’ 3세트 할인 이벤트를 진행한다. 1월 12~19일까지 25% 할인된 가격인 4만2600원에 판매한다. ‘헬스벨 프로바이오틱스’는 위산에 강한 일곱 가지 건강한 유산균 1억 마리와 면역기능을 돕는 아연이 포함됐다.",
+        "sentenceSize": 191
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "장내 환경을 깨끗이 하고 지방 축적을 막아 몸의 균형을 유지하는 데 효과적이다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "[헬스벨] 살 빼려면 꼭 섭취해야 할 것이 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

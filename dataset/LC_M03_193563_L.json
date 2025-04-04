@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193563",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 이제는 ‘제2의 코로나 진단키트’ 준비할 때",
+    "newsSubTitle": "[전문가 칼럼]",
+    "newsContent": "신종 코로나바이러스 감염증(코로나19)의 확산 상황에서 우리나라는 세계적인 방역 모범 국가로 우뚝 섰다.\n민간기업들은 코로나19 진단키트 개발에 발 빠르게 착수했고 ‘K방역’에서 ‘K바이오’로 국가 위상을 높이는 데 결정적인 기여를 했다.\n한국산 진단키트의 양적·질적 향상은 우리 정부와 산업계의 체계적 준비와 투자가 있었기에 가능했다.\n2009년 신종플루 사태를 계기로 공산품으로 관리되던 진단 시약이 비로소 의료기기로 분류됐고, 2015년 식품의약품안전처에 ‘체외진단기기과’가 정식으로 신설됐다.\n체외진단 시약의 적절한 관리와 투자가 이뤄지면서 품질 향상과 함께 체외진단 시장의 저변이 확대됐다.\n다수의 전문가가 코로나19 사태 이후 사회·경제적 대변혁이 일어날 것이라고 입을 모은다.\n인공지능(AI)·빅데이터 등 4차 산업혁명 기술과 결합한 비대면 의료서비스(원격의료) 산업도 주목받고 있다.\n감염의 위험과 고령화 추세 속에 비대면 의료서비스는 필수로 자리 잡을 가능성이 높을 수밖에 없다.\n우리나라도 최근 국무회의에서 비대면 의료서비스를 강조하는 등 정부 차원에서 원격의료를 차세대 먹거리 산업으로 육성하려는 움직임이 일고 있다.\n비대면 의료서비스에는 환자의 혈압·심전도·혈당 등을 측정·분석하는 디지털 기반의 모바일 앱과 인공지능 의료기기 등이 필수적이다.\n이 때문에 원격의료 시장 성장과 더불어 정보통신기술(ICT)·인공지능을 활용하는 의료기기 개발이 가속화되는 추세다.\n디지털 헬스 기기는 기술 발전 속도에 따라 3주~3개월로 개발 주기가 짧고 제품 변경이 빈번하다.\n제품을 빠르게 출시할수록 시장을 선점·선도할 확률이 높다.\n즉 시간이 곧 비용이다.\n신속한 허가·심사가 관건이다.\n디지털 헬스 기기 대부분이 식약처의 허가품목이지만 현재 식약처에는 혁신 제품이라고 할 수 있는 디지털 헬스 기기를 담당하는 전담 조직이 없을뿐더러 전문인력도 부족하다.\n겨우 7명의 인원으로 출범했던 체외진단기기과는 국가적 위기를 기회로 만들고 한국의 위상을 높였다.\n이제는 디지털 헬스 기기 허가 부서를 신설해 국민 건강을 지키고 산업을 지원할 때다.\n새로운 의료 환경에 대비하기 위해선 전문 부서 신설이 반드시 선행돼야 한다.\n대한민국의 새로운 미래를 위해 ‘제2의 코로나 진단키트’를 준비하고 혁신해야 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신종 코로나바이러스 감염증(코로나19)의 확산 상황에서 우리나라는 세계적인 방역 모범 국가로 우뚝 섰다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "민간기업들은 코로나19 진단키트 개발에 발 빠르게 착수했고 ‘K방역’에서 ‘K바이오’로 국가 위상을 높이는 데 결정적인 기여를 했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국산 진단키트의 양적·질적 향상은 우리 정부와 산업계의 체계적 준비와 투자가 있었기에 가능했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2009년 신종플루 사태를 계기로 공산품으로 관리되던 진단 시약이 비로소 의료기기로 분류됐고, 2015년 식품의약품안전처에 ‘체외진단기기과’가 정식으로 신설됐다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "체외진단 시약의 적절한 관리와 투자가 이뤄지면서 품질 향상과 함께 체외진단 시장의 저변이 확대됐다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다수의 전문가가 코로나19 사태 이후 사회·경제적 대변혁이 일어날 것이라고 입을 모은다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "인공지능(AI)·빅데이터 등 4차 산업혁명 기술과 결합한 비대면 의료서비스(원격의료) 산업도 주목받고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "감염의 위험과 고령화 추세 속에 비대면 의료서비스는 필수로 자리 잡을 가능성이 높을 수밖에 없다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "우리나라도 최근 국무회의에서 비대면 의료서비스를 강조하는 등 정부 차원에서 원격의료를 차세대 먹거리 산업으로 육성하려는 움직임이 일고 있다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "비대면 의료서비스에는 환자의 혈압·심전도·혈당 등을 측정·분석하는 디지털 기반의 모바일 앱과 인공지능 의료기기 등이 필수적이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 때문에 원격의료 시장 성장과 더불어 정보통신기술(ICT)·인공지능을 활용하는 의료기기 개발이 가속화되는 추세다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "디지털 헬스 기기는 기술 발전 속도에 따라 3주~3개월로 개발 주기가 짧고 제품 변경이 빈번하다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "제품을 빠르게 출시할수록 시장을 선점·선도할 확률이 높다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "즉 시간이 곧 비용이다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "신속한 허가·심사가 관건이다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "디지털 헬스 기기 대부분이 식약처의 허가품목이지만 현재 식약처에는 혁신 제품이라고 할 수 있는 디지털 헬스 기기를 담당하는 전담 조직이 없을뿐더러 전문인력도 부족하다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "겨우 7명의 인원으로 출범했던 체외진단기기과는 국가적 위기를 기회로 만들고 한국의 위상을 높였다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "이제는 디지털 헬스 기기 허가 부서를 신설해 국민 건강을 지키고 산업을 지원할 때다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "새로운 의료 환경에 대비하기 위해선 전문 부서 신설이 반드시 선행돼야 한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "대한민국의 새로운 미래를 위해 ‘제2의 코로나 진단키트’를 준비하고 혁신해야 한다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방역 성공한 대한민국··· 제2의 '코시국' 진단키트 준비하고 혁신할 때",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

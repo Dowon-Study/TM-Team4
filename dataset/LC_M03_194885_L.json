@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194885",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "영화 속 이탈리아 꼼꼼하게 안내",
+    "newsSubTitle": "〈문화와 예술로 보는 이탈리아 기행〉",
+    "newsContent": "'조상의 음덕' 으로 잘 사는 나라는 단연 이탈리아. 어느 도시를 가나 고대 로마시대의 영광을 생생하게 체험할 수 있는 곳, 그게 이탈리아다.\n때문에 세계의 시인묵객들이 이곳을 노래했고, 적당히 이곳을 '팔았다'. 시오노 나나미는 이탈리아의 뭇 도시와 인물들에 영광의 월계관을 씌워 오늘의 것으로 되살려 내는 데 천재성을 발휘했다.\n이 책은 만국에서 통하는 보편적 미디어인 영화라는 캔버스 위에 이탈리아 도시를 앉혔다.\n사실 영화는 도시 곳곳에 관한 이해를 돕는 '양념' 일 뿐, 중요한 것은 그 공간이다.\n오드리 헵번이 영화 〈로마의 휴일〉에서 놀던 트레비 분수는 유명하다 못해 오히려 식상하다.\n피렌체.나폴리 등지를 돌며 영화의 배경을 꼼꼼히 살폈다. 〈다나카 치세코 지음, 정선이 옮김, 예담, 1만5천원〉",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'조상의 음덕' 으로 잘 사는 나라는 단연 이탈리아. 어느 도시를 가나 고대 로마시대의 영광을 생생하게 체험할 수 있는 곳, 그게 이탈리아다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "때문에 세계의 시인묵객들이 이곳을 노래했고, 적당히 이곳을 '팔았다'. 시오노 나나미는 이탈리아의 뭇 도시와 인물들에 영광의 월계관을 씌워 오늘의 것으로 되살려 내는 데 천재성을 발휘했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 책은 만국에서 통하는 보편적 미디어인 영화라는 캔버스 위에 이탈리아 도시를 앉혔다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사실 영화는 도시 곳곳에 관한 이해를 돕는 '양념' 일 뿐, 중요한 것은 그 공간이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오드리 헵번이 영화 〈로마의 휴일〉에서 놀던 트레비 분수는 유명하다 못해 오히려 식상하다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "피렌체.나폴리 등지를 돌며 영화의 배경을 꼼꼼히 살폈다. 〈다나카 치세코 지음, 정선이 옮김, 예담, 1만5천원〉",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "오드리 헵번도 다녀간 `조상의 음덕`으로 잘 사는 나라는 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

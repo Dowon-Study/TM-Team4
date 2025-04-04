@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197085",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "꼿꼿한 허리, 바른 자세에 달렸죠",
+    "newsSubTitle": "",
+    "newsContent": "한국형 가사노동 디스크를 예방하기 위해서는 허리에 부담을 줄 수 있는 가사노동 자세를 피하고 바른 자세를 취하는 것이 최선이다.\n새내기 주부 L씨를 통해 허리 건강을 위한 올바른 자세를 배워보자.\n청소 가사노동의 부담을 덜어주는 청소기도 제대로 사용해야 그 효과를 누릴 수 있다.\n청소기를 사용할 때는 연장관을 늘리고 상체를 세워 허리에 가해지는 부담을 덜어준다.\n바닥 걸레질 걸레질을 할 때는 엉금엉금 기어다니며 바닥을 닦는 것보다 무릎을 꿇어 허리를 펴고 청소하는 것이 좋다.\n다림질 다림질을 할 때는 바닥에 앉아 쭈그리고 하지 말고 식탁 위에 다림질 판을 올려 놓고 서서 다림질하는 것이 좋다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국형 가사노동 디스크를 예방하기 위해서는 허리에 부담을 줄 수 있는 가사노동 자세를 피하고 바른 자세를 취하는 것이 최선이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "새내기 주부 L씨를 통해 허리 건강을 위한 올바른 자세를 배워보자.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "청소 가사노동의 부담을 덜어주는 청소기도 제대로 사용해야 그 효과를 누릴 수 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "청소기를 사용할 때는 연장관을 늘리고 상체를 세워 허리에 가해지는 부담을 덜어준다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "바닥 걸레질 걸레질을 할 때는 엉금엉금 기어다니며 바닥을 닦는 것보다 무릎을 꿇어 허리를 펴고 청소하는 것이 좋다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다림질 다림질을 할 때는 바닥에 앉아 쭈그리고 하지 말고 식탁 위에 다림질 판을 올려 놓고 서서 다림질하는 것이 좋다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "잘못된 자세에 신음하는 허리, 이렇게 바꾸자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

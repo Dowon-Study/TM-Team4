@@ -1,0 +1,231 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194363",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[편집자레터] ‘아까운 책’은 출판기자의 반성문",
+    "newsSubTitle": "",
+    "newsContent": "연말이면 늘 그랬듯이 ‘올해의 책’을 뽑았습니다.\n과연 어떤 의미가 있는지, 제대로 선정됐는지 여러 가지 말들이 나오는 기획이기도 합니다.\n그래도 책을 좋아하는 독자들께 올 한 해 나왔던 책들을 정리한 정보를 제공한다는 의미가 있다고 판단했습니다.\n고르는 데 두 가지를 신경 썼습니다.\n우선 명망가들이 아니라 출판 현장에서 활동하는 편집자들에게 물었습니다.\n아무래도 책에 대한 관심이 크고 출판 흐름을 세심히 관찰하는 분들이라 여긴 때문입니다.\n조금이라도 객관성을 확보하기 위해 선정위원도 늘렸습니다.\n한 해 동안 ‘행복한 책 읽기’의 첫 면에 실렸던 책을 낸 출판사를 중심으로, 10년 이상 책을 만든 분들에게 인문· 사회 등 5개 분야에서 한 권씩 추천을 받았습니다.\n그 결과 대표에서 팀장까지, 37명의 편집자들이 참여했으니 나름대로 공정성과 전문성을 담보한다고 자부합니다.\n또 처음으로 ‘아까운 책’을 골라봤습니다.\n출간 당시 제대로 소개 못한 좋은 책을 뒤늦게라도 소개하자는 뜻입니다.\n기자의 눈이 어두워서, 혹은 소화할 능력이 모자라서 아니면 같은 출판사 책을 연속 소개하기가 껄끄러워서 등 아쉽게 소개하지 못한 책이 여럿일 겝니다.\n아닌 게 아니라 다양한 책이 거론됐습니다.\n결국 지면사정으로 한 권만 택했습니다.\n출판기자의 ‘반성문’이기도 한 이 책을, 눈 여겨 봐주기 바랍니다.\n그런데 추천도서 목록을 보니 아쉬운 감이 들었습니다.\n번역서가 절반을 넘어서입니다.\n물론 OECD 회원국 중 우리나라가 번역도서 비율이 가장 높다고 합니다.\n그래도 절반까지는 되지 않는데 이번 목록에선 영 딴판이었습니다.\n문학 분야를 제외하면 국내 저작물 비율이 30% 미만이고, 문학을 포함해도 40%를 밑돌았습니다.\n당초 번역할 때부터 좋은 책, 팔릴 만한 책을 골라서일까요.\n지식의 ‘생산’이 아니라 ‘유통’에만 급급한 우리 지식인들, 세월의 침식을 견딜 책이 아니라 팔릴 책만 만들려는 편집자들 탓은 없을까요.\n부디 ‘2008년의 책’에는 국내 저자들의 노작(勞作)·역저(力著)가 많이 선정되기를 바랍니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 23,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "연말이면 늘 그랬듯이 ‘올해의 책’을 뽑았습니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과연 어떤 의미가 있는지, 제대로 선정됐는지 여러 가지 말들이 나오는 기획이기도 합니다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그래도 책을 좋아하는 독자들께 올 한 해 나왔던 책들을 정리한 정보를 제공한다는 의미가 있다고 판단했습니다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "고르는 데 두 가지를 신경 썼습니다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "우선 명망가들이 아니라 출판 현장에서 활동하는 편집자들에게 물었습니다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아무래도 책에 대한 관심이 크고 출판 흐름을 세심히 관찰하는 분들이라 여긴 때문입니다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "조금이라도 객관성을 확보하기 위해 선정위원도 늘렸습니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한 해 동안 ‘행복한 책 읽기’의 첫 면에 실렸던 책을 낸 출판사를 중심으로, 10년 이상 책을 만든 분들에게 인문· 사회 등 5개 분야에서 한 권씩 추천을 받았습니다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그 결과 대표에서 팀장까지, 37명의 편집자들이 참여했으니 나름대로 공정성과 전문성을 담보한다고 자부합니다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또 처음으로 ‘아까운 책’을 골라봤습니다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "출간 당시 제대로 소개 못한 좋은 책을 뒤늦게라도 소개하자는 뜻입니다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "기자의 눈이 어두워서, 혹은 소화할 능력이 모자라서 아니면 같은 출판사 책을 연속 소개하기가 껄끄러워서 등 아쉽게 소개하지 못한 책이 여럿일 겝니다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "아닌 게 아니라 다양한 책이 거론됐습니다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "결국 지면사정으로 한 권만 택했습니다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "출판기자의 ‘반성문’이기도 한 이 책을, 눈 여겨 봐주기 바랍니다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "그런데 추천도서 목록을 보니 아쉬운 감이 들었습니다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "번역서가 절반을 넘어서입니다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "물론 OECD 회원국 중 우리나라가 번역도서 비율이 가장 높다고 합니다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "그래도 절반까지는 되지 않는데 이번 목록에선 영 딴판이었습니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "문학 분야를 제외하면 국내 저작물 비율이 30% 미만이고, 문학을 포함해도 40%를 밑돌았습니다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "당초 번역할 때부터 좋은 책, 팔릴 만한 책을 골라서일까요.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "지식의 ‘생산’이 아니라 ‘유통’에만 급급한 우리 지식인들, 세월의 침식을 견딜 책이 아니라 팔릴 책만 만들려는 편집자들 탓은 없을까요.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "부디 ‘2008년의 책’에는 국내 저자들의 노작(勞作)·역저(力著)가 많이 선정되기를 바랍니다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "출판 현장에서 활동하는 편집자들에게 물었다, '올해의 책'은 무엇인가요?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

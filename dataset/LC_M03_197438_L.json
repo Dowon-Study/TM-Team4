@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197438",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[스타일] 의사·간호사 옷 매일 다른 컬러로…장기 입원환자 시간 감각 일깨우는 일본 병원",
+    "newsSubTitle": "",
+    "newsContent": "색은 제품을 아름답게 꾸며주고 유행을 만들어내는 데만 쓰이는 건 아니다.\n우리 생활에 필요한 실질적인 기능도 한다.\n팬톤 컬러를 활용한 의료진 유니폼으로 병원에 입원한 노인 환자의 돌봄 기능을 개선하려는 노력이 한 예다.\n일본의 유니폼 제조업체 FOLK는 팬톤과 라이선스 계약을 맺고 ‘팬톤 컬러 병원복’을 만들어 판매한다.\n빨강·파랑·노랑·보라·오렌지 등 다양한 팬톤 컬러 원단으로 의사 가운, 간호복, 수술복 등 수십 종류를 만드는데 일선 병원, 특히 노인 환자가 많은 전문 병원이 주요 수요처다.\n의사, 간호사, 기술직 등 근무자들이 매일 다른 색 유니폼을 입음으로써 장기 입원 환자들이 시간 가는 것을 인지하도록 도와준다는 원리다.\n제조업체 측은 회사 설명 자료에서 “지금까지 의료 현장에는 ‘백의’가 당연했고 색이라는 개념이 거의 없었는데 우리는 색의 힘에 주목해 컬러 유니폼을 도입했다”며 “의료 현장에서 실제로 색이 어떤 효과가 있는지 과학적인 방면에서 연구하고 있다”고 밝혔다.\n애초에 수술복은 색상 보정이라는 기능을 했다.\n수술할 때 장시간 붉은색의 혈액을 보기 때문에 시각 보정을 위해 보색인 초록색·파란색 수술복이 태어났다고 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "색은 제품을 아름답게 꾸며주고 유행을 만들어내는 데만 쓰이는 건 아니다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우리 생활에 필요한 실질적인 기능도 한다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "팬톤 컬러를 활용한 의료진 유니폼으로 병원에 입원한 노인 환자의 돌봄 기능을 개선하려는 노력이 한 예다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "일본의 유니폼 제조업체 FOLK는 팬톤과 라이선스 계약을 맺고 ‘팬톤 컬러 병원복’을 만들어 판매한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "빨강·파랑·노랑·보라·오렌지 등 다양한 팬톤 컬러 원단으로 의사 가운, 간호복, 수술복 등 수십 종류를 만드는데 일선 병원, 특히 노인 환자가 많은 전문 병원이 주요 수요처다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "의사, 간호사, 기술직 등 근무자들이 매일 다른 색 유니폼을 입음으로써 장기 입원 환자들이 시간 가는 것을 인지하도록 도와준다는 원리다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "제조업체 측은 회사 설명 자료에서 “지금까지 의료 현장에는 ‘백의’가 당연했고 색이라는 개념이 거의 없었는데 우리는 색의 힘에 주목해 컬러 유니폼을 도입했다”며 “의료 현장에서 실제로 색이 어떤 효과가 있는지 과학적인 방면에서 연구하고 있다”고 밝혔다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "애초에 수술복은 색상 보정이라는 기능을 했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "수술할 때 장시간 붉은색의 혈액을 보기 때문에 시각 보정을 위해 보색인 초록색·파란색 수술복이 태어났다고 한다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일본 병원의 파격적인 선택... 매일 달라지는 의료진 옷으로 장기 입원환자 시간 감각 돕는다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

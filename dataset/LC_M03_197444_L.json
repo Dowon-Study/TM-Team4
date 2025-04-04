@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197444",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "한화제약, 지역 소외계층에 따뜻한 김장김치 나눔",
+    "newsSubTitle": "",
+    "newsContent": "[이민영 기자] 한화제약이 13일 ‘사랑은 김장과 함께’ 봉사활동을 진행했다.\n지역 내 어려운 이웃에게 직접 담근 김장김치를 전달했다.\n이번 김장 나눔 행사는 한화제약의 자원봉사모임인 한나눔회 회원들과 서울 성북구에 위치한 ‘생명의 전화 종합사회복지관’이 함께 진행했다.\n오후 2시부터 직접 담근 김장김치 33상자를 지역 내 아동가정과 저소득 가정에 전달했다.\n김장 비용은 올 한 해 동안 한화제약 임직원들이 커피자판기를 이용해 모은 기부금으로 마련됐다.\n멀티비타민 얼라이브를 판매하는 자회사 네츄럴라이프는 건강기능식품을 지원하며 나눔에 동참했다.\n한화제약 한나눔회는 작지만 따뜻한 나눔 활동을 지속적으로 펼치고 있다.\n지난 여름, 지역 어르신 250명을 초청해 삼계탕을 대접했고 9월에는 지역 아동 90여 명이 참가하는 과학교실을 개최했다",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[이민영 기자] 한화제약이 13일 ‘사랑은 김장과 함께’ 봉사활동을 진행했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지역 내 어려운 이웃에게 직접 담근 김장김치를 전달했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 김장 나눔 행사는 한화제약의 자원봉사모임인 한나눔회 회원들과 서울 성북구에 위치한 ‘생명의 전화 종합사회복지관’이 함께 진행했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오후 2시부터 직접 담근 김장김치 33상자를 지역 내 아동가정과 저소득 가정에 전달했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김장 비용은 올 한 해 동안 한화제약 임직원들이 커피자판기를 이용해 모은 기부금으로 마련됐다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "멀티비타민 얼라이브를 판매하는 자회사 네츄럴라이프는 건강기능식품을 지원하며 나눔에 동참했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한화제약 한나눔회는 작지만 따뜻한 나눔 활동을 지속적으로 펼치고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난 여름, 지역 어르신 250명을 초청해 삼계탕을 대접했고 9월에는 지역 아동 90여 명이 참가하는 과학교실을 개최했다",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한화제약, 김장 나눔 행사 진행... 이웃 사랑도 함께 후끈 달아오른다!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

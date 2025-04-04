@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194648",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "20여년의 세월 … 무르익은 필치",
+    "newsSubTitle": "김창동 서전 27일부터",
+    "newsContent": "서예가 김창동씨가 27일부터 10월 2일까지 서울 조선일보미술관에서 '창석 김창동 서전'을 연다. 23년만에 여는 이번 전시에선 그간 정진해 온 그의 땀과 노력을 느낄 수 있다.\n중국 불후의 명저인 굴원의 '이소경'을 비롯해 우리 선현들의 시문, 금강경 등을 소재로 다양한 필치를 선보인다. '침상에 기대어 달을 보니/서리가 내린듯이 하얗고나/산에 솟은 달을 바라보다가/머리를 숙여 고향을 생각한다'는 이백(李白)의 시 등 마음을 움직이는 글들이 곳곳에 자리한다.\n김씨는 한학자이자 서예가였던 고 김규태 선생의 아들이다.\n다섯살 때부터 부친에게 한문과 서예를 배웠다.\n지난 해에는 10년 동안 수집한 부친의 유작 500여 점을 예술의전당에서 전시하기도 했다.\n그는 휘호를 쓰기위해 서예를 배워야하는 프로기사들의 대표적인 스승이다.\n이창호.최철한.박영훈.조한승.원성진.안조영 9단 등이 제자다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서예가 김창동씨가 27일부터 10월 2일까지 서울 조선일보미술관에서 '창석 김창동 서전'을 연다. 23년만에 여는 이번 전시에선 그간 정진해 온 그의 땀과 노력을 느낄 수 있다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "중국 불후의 명저인 굴원의 '이소경'을 비롯해 우리 선현들의 시문, 금강경 등을 소재로 다양한 필치를 선보인다. '침상에 기대어 달을 보니/서리가 내린듯이 하얗고나/산에 솟은 달을 바라보다가/머리를 숙여 고향을 생각한다'는 이백(李白)의 시 등 마음을 움직이는 글들이 곳곳에 자리한다.",
+        "sentenceSize": 159
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김씨는 한학자이자 서예가였던 고 김규태 선생의 아들이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다섯살 때부터 부친에게 한문과 서예를 배웠다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 해에는 10년 동안 수집한 부친의 유작 500여 점을 예술의전당에서 전시하기도 했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 휘호를 쓰기위해 서예를 배워야하는 프로기사들의 대표적인 스승이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이창호.최철한.박영훈.조한승.원성진.안조영 9단 등이 제자다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "23년 만에 선보이는 땀과 노력... 무르익은 서예가 김창동의 필치는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194576",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[week&] 여기 아세요? '낭만 포토 클럽'이 권하는 명소",
+    "newsSubTitle": "",
+    "newsContent": "초보자들은 혼자 사진을 배우기보다 동호회에 참가하면 많은 도움을 얻을 수 있다.\n사진 테크닉을 배울 수 있고 실시간 올라오는 우리 땅 곳곳의 사진들을 보며 희망 촬영지의 상황을 사전 점검할 수 있다.\n인터넷에서 활동하는 풍경사진 동호회 중 '낭만 포토 클럽'(dicalove.com)은 단연 돋보인다. 2000여 명의 회원들이 매일 다양한 사진을 사이트에 올리고 사진여행 모임도 자주 갖는다. '낭만 포토 클럽'에서 '처거'란 아이디로 활발히 활동하고 있는 이종건(63)님의 추천 포인트는 호명산과 철원이다.\n18겹 동양화 호명산 눈앞에 펼쳐지는 18겹의 산 능선 사이로 운해가 흐르면 한 폭의 동양화가 펼쳐진다.\n또 겨울엔 운해가 나무에 얼어붙어 상고대로 피어나는 장관을 볼 수 있다.\n서울에서 한 시간 이내 거리에다 차로 쉽게 오를 수 있어 좋다.\n■가는 길 = 46번 국도를 타고 신청평대교를 지나 춘천 방면으로 직진. 청평댐을 지나 삼거리에서 호명리 이정표를 따라가면 된다.\n두루미의 춤터 철원 겨울의 진객 두루미가 춤을 춘다.\n하얀 설원에 펼쳐지는 학춤. 호흡마저 멈춘 정적 속에 울리는 셔터소리가 마음을 울린다.\n하지만 여기는 민간인 통제지역이라 철원의 '철의삼각전적지 관리사무소'(033-450-5558,9)에서 안보관광 신청을 한 뒤 인솔자의 안내를 받아야 한다.\n고배율의 망원렌즈를 사용하는 것이 유리하지만 운이 좋으면 200mm 정도로도 촬영이 가능하다.\n■ 가는 길 = 서울에서 동부간선도로를 타고 의정부.포천.운천을 지나 동송을 경유해 대마리나 양지리로 접근한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "초보자들은 혼자 사진을 배우기보다 동호회에 참가하면 많은 도움을 얻을 수 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사진 테크닉을 배울 수 있고 실시간 올라오는 우리 땅 곳곳의 사진들을 보며 희망 촬영지의 상황을 사전 점검할 수 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "인터넷에서 활동하는 풍경사진 동호회 중 '낭만 포토 클럽'(dicalove.com)은 단연 돋보인다. 2000여 명의 회원들이 매일 다양한 사진을 사이트에 올리고 사진여행 모임도 자주 갖는다. '낭만 포토 클럽'에서 '처거'란 아이디로 활발히 활동하고 있는 이종건(63)님의 추천 포인트는 호명산과 철원이다.",
+        "sentenceSize": 172
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "18겹 동양화 호명산 눈앞에 펼쳐지는 18겹의 산 능선 사이로 운해가 흐르면 한 폭의 동양화가 펼쳐진다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 겨울엔 운해가 나무에 얼어붙어 상고대로 피어나는 장관을 볼 수 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서울에서 한 시간 이내 거리에다 차로 쉽게 오를 수 있어 좋다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "■가는 길 = 46번 국도를 타고 신청평대교를 지나 춘천 방면으로 직진. 청평댐을 지나 삼거리에서 호명리 이정표를 따라가면 된다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "두루미의 춤터 철원 겨울의 진객 두루미가 춤을 춘다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하얀 설원에 펼쳐지는 학춤. 호흡마저 멈춘 정적 속에 울리는 셔터소리가 마음을 울린다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "하지만 여기는 민간인 통제지역이라 철원의 '철의삼각전적지 관리사무소'(033-450-5558,9)에서 안보관광 신청을 한 뒤 인솔자의 안내를 받아야 한다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "고배율의 망원렌즈를 사용하는 것이 유리하지만 운이 좋으면 200mm 정도로도 촬영이 가능하다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "■ 가는 길 = 서울에서 동부간선도로를 타고 의정부.포천.운천을 지나 동송을 경유해 대마리나 양지리로 접근한다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서울에서 1시간, 한 폭의 동양화가 펼쳐진다... 풍경 사진 명소는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

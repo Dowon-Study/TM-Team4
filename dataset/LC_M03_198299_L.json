@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198299",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[알림] 직접 찍은 동영상 올리면 선물(DVD플레이어·커피메이커…) 펑~펑",
+    "newsSubTitle": "팟찌닷컴 '나도PD' 서비스 시작",
+    "newsContent": "여성포털 NO.1 팟찌닷컴(www.patzzi.com)이 '나도PD(http://www.patzzi.com/iampd)' 서비스를 시작합니다.\n캠코더.디지털 카메라.휴대전화 카메라 등을 이용해 직접 찍은 동영상을 별도의 프로그램 다운로드 없이 누구나 쉽게 올릴 수 있는 서비스입니다.\n동영상 중 원하는 부분만 잘라 따로 보관할 수 있고, 싸이월드 미니홈피처럼 일촌에게만 공개할 수도 있습니다. '영상에 자막 넣기'와 같은 기능도 곧 추가할 예정입니다.\n직접 PD가 돼 요리.육아.여행.인테리어.애완동물 키우기 등 소중한 일상을 한편의 짧은 드라마로 만들어 보세요.\n지금 팟찌닷컴을 찾으시면 '나도PD' 서비스 오픈 기념 이벤트에도 참가할 수 있습니다.\n당첨되신 분들께는 DVD플레이어.커피메이커.필립스제모기.향수 등 푸짐한 선물을 드립니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "여성포털 NO.1 팟찌닷컴(www.patzzi.com)이 '나도PD(http://www.patzzi.com/iampd)' 서비스를 시작합니다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "캠코더.디지털 카메라.휴대전화 카메라 등을 이용해 직접 찍은 동영상을 별도의 프로그램 다운로드 없이 누구나 쉽게 올릴 수 있는 서비스입니다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "동영상 중 원하는 부분만 잘라 따로 보관할 수 있고, 싸이월드 미니홈피처럼 일촌에게만 공개할 수도 있습니다. '영상에 자막 넣기'와 같은 기능도 곧 추가할 예정입니다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "직접 PD가 돼 요리.육아.여행.인테리어.애완동물 키우기 등 소중한 일상을 한편의 짧은 드라마로 만들어 보세요.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지금 팟찌닷컴을 찾으시면 '나도PD' 서비스 오픈 기념 이벤트에도 참가할 수 있습니다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "당첨되신 분들께는 DVD플레이어.커피메이커.필립스제모기.향수 등 푸짐한 선물을 드립니다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "나도 '이것' 될 수 있다... 팟찌 닷컴 서비스 오픈",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

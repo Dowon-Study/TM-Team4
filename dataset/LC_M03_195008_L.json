@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195008",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[틴틴/키즈] '나의 사직동'",
+    "newsSubTitle": "잃어버린 옛 사직동 정취, 사실적 그림으로 일깨워",
+    "newsContent": "나의 사직동/김서정.한성옥 글/한성옥 그림, 보림, 9천원 세월과 함께 옛 모습을 잃어가는 서울 한복판의 동네를 그림책으로 묶었다.\n무대는 사직동. 광화문 바로 옆 동네다.\n자그마한 한옥들이 오밀조밀 모여 살았던 곳. 하지만 도심 재개발 사업이 추진되면서 지금은 옛 자취를 거의 찾을 수 없다.\n하루가 다르게 높이가 올라가는 서울의 도심에서 잃어버렸던 사람살이의 따뜻함을 일깨워준다.\n아이들은 좁은 골목길에서 재잘대며 장난치고, 나물 할머니는 무.호박.가지.\n버섯 등을 양지 바른 곳에서 말리고, 해장국 아줌마는 하하하 웃으며 손님을 맞이했던 곳. 지금은 네모 반듯한 아파트가 들어서고 분수가 춤추는 작은 공원도 있지만, 어쩐지 허전한 게 많다.\n컹컹 짖는 개 소리도 들을 수 없고, 가위바위보를 외며 높은 계단을 올라가던 아이들도 찾을 수 없다.\n그림은 꽤 사실적이다.\n우선 동네 풍경을 사진으로 찍고, 나중에 연필과 수채 물감으로 매만졌다.\n그림을 그린 한성옥씨는 사직동에서 30년 넘게 살았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "나의 사직동/김서정.한성옥 글/한성옥 그림, 보림, 9천원 세월과 함께 옛 모습을 잃어가는 서울 한복판의 동네를 그림책으로 묶었다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "무대는 사직동. 광화문 바로 옆 동네다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "자그마한 한옥들이 오밀조밀 모여 살았던 곳. 하지만 도심 재개발 사업이 추진되면서 지금은 옛 자취를 거의 찾을 수 없다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하루가 다르게 높이가 올라가는 서울의 도심에서 잃어버렸던 사람살이의 따뜻함을 일깨워준다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아이들은 좁은 골목길에서 재잘대며 장난치고, 나물 할머니는 무.호박.가지.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "버섯 등을 양지 바른 곳에서 말리고, 해장국 아줌마는 하하하 웃으며 손님을 맞이했던 곳. 지금은 네모 반듯한 아파트가 들어서고 분수가 춤추는 작은 공원도 있지만, 어쩐지 허전한 게 많다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "컹컹 짖는 개 소리도 들을 수 없고, 가위바위보를 외며 높은 계단을 올라가던 아이들도 찾을 수 없다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그림은 꽤 사실적이다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "우선 동네 풍경을 사진으로 찍고, 나중에 연필과 수채 물감으로 매만졌다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그림을 그린 한성옥씨는 사직동에서 30년 넘게 살았다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그림책 '나의 사직동'... 도시에서 잃어버렸던 사람살이 따뜻함을 느끼고 싶다면?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196133",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "연말연시 송년회, 직장인 스트레스 ‘숙취 막는 음식’ 인기인 이유…",
+    "newsSubTitle": "",
+    "newsContent": "연말연시가 다가오면서 간이나 위에 부담이 되지 않는 ‘숙취 막는 음식’이 눈길을 끌고 있다.\n미국 인터넷 신문 '허핑턴포스트'는 달걀,아몬드, 우유, 아스파라거스, 피클 등이 숙취 막는 음식이라고 전했다.\n달걀에는 알코올의 독소를 없애주는 아미노산인 시스테인이 있다.\n술자리에 가기 전에 한두 개를 먹고 가면 숙취를 덜 수 있다.\n아몬드와 우유 섭취도 권장된다.\n아몬드 한 줌은 인디언들이 오래전부터 애용한 해독제다.\n취하기 전에 아몬드 버터와 꿀 등으로 만든 샌드위치를 먹으면 좋다.\n또 우유는 알코올 흡수를 늦춰주기 때문에 술에 약한 사람들은 미리 먹어두는 게 권장된다.\n이밖에 아스파라거스나 피클도 숙취를 덜어주는 음식에 속한다.\n아스파라거스에 있는 아미노산은 알코올의 대사를 돕고 간세포를 보호한다.\n피클의 소금물은 몸에서 전해질이 빠져나가게 해 숙취를 막아준다.\n온라인 중앙일보 '연말 송년회' '숙취 막는 음식' [사진 tvN '미생' 방송 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "연말연시가 다가오면서 간이나 위에 부담이 되지 않는 ‘숙취 막는 음식’이 눈길을 끌고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미국 인터넷 신문 '허핑턴포스트'는 달걀,아몬드, 우유, 아스파라거스, 피클 등이 숙취 막는 음식이라고 전했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "달걀에는 알코올의 독소를 없애주는 아미노산인 시스테인이 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "술자리에 가기 전에 한두 개를 먹고 가면 숙취를 덜 수 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아몬드와 우유 섭취도 권장된다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아몬드 한 줌은 인디언들이 오래전부터 애용한 해독제다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "취하기 전에 아몬드 버터와 꿀 등으로 만든 샌드위치를 먹으면 좋다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 우유는 알코올 흡수를 늦춰주기 때문에 술에 약한 사람들은 미리 먹어두는 게 권장된다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이밖에 아스파라거스나 피클도 숙취를 덜어주는 음식에 속한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "아스파라거스에 있는 아미노산은 알코올의 대사를 돕고 간세포를 보호한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "피클의 소금물은 몸에서 전해질이 빠져나가게 해 숙취를 막아준다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "온라인 중앙일보 '연말 송년회' '숙취 막는 음식' [사진 tvN '미생' 방송 캡처]",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "연말연시 송년회, ‘숙취 막는 음식’ 어떤 게 있나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

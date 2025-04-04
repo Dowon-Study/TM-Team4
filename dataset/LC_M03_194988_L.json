@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194988",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[리메이크] 원주민 눈에 비친 현대인의 뒷모습 '빠빠라기'",
+    "newsSubTitle": "",
+    "newsContent": "빠빠라기는 남태평양 사모아 제도 원주민이 백인을 부르는 말이다.\n무소유의 자연에서 멀어져 탐욕과 경쟁에 사로잡힌 백인을 가리킨다.\n범주를 넓히면, 현대인 전체를 지칭한다고 볼 수 있다.\n어린 시절 서양 문물에 눈떴던 사모아의 추장 투이아비가 백인, 이른바 문명인의 허울을 벗겨낸 이 책은 속도전에 매몰된 오늘의 우리를 돌아보는 데도 적합하다. '빠빠라기'에는 어려운 비유가 등장하지 않는다.\n옛날 우화를 듣는 것처럼 친근하게 다가온다.\n물질에 오염되지 않은, 아니 그것을 거부하는 투이아비는 둥근 쇠붙이나 묵직한 종이(화폐)를 하느님으로 여기고, 항상 시간이 없다고 불평하는 우리들의 '비정상적' 행태를 꿰뚫고 있다.\n1920년 독일에서 처음 소개됐으며, 국내에선 90년 정식 저작권 계약을 맺고 출간됐다.\n3년 만에 디자인.번역 등을 매만졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "빠빠라기는 남태평양 사모아 제도 원주민이 백인을 부르는 말이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "무소유의 자연에서 멀어져 탐욕과 경쟁에 사로잡힌 백인을 가리킨다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "범주를 넓히면, 현대인 전체를 지칭한다고 볼 수 있다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "어린 시절 서양 문물에 눈떴던 사모아의 추장 투이아비가 백인, 이른바 문명인의 허울을 벗겨낸 이 책은 속도전에 매몰된 오늘의 우리를 돌아보는 데도 적합하다. '빠빠라기'에는 어려운 비유가 등장하지 않는다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "옛날 우화를 듣는 것처럼 친근하게 다가온다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "물질에 오염되지 않은, 아니 그것을 거부하는 투이아비는 둥근 쇠붙이나 묵직한 종이(화폐)를 하느님으로 여기고, 항상 시간이 없다고 불평하는 우리들의 '비정상적' 행태를 꿰뚫고 있다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "1920년 독일에서 처음 소개됐으며, 국내에선 90년 정식 저작권 계약을 맺고 출간됐다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "3년 만에 디자인.번역 등을 매만졌다.",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "물질에 오염되지 않은 원주민들 눈에 비친 현대인들은 어떨까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197317",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "\\\"국왕은 마피아 두목\\\", 스페인 왕실모독 래퍼 수감되자 보름째 시위",
+    "newsSubTitle": "",
+    "newsContent": "왕실을 모독하고 테러를 미화한 래퍼가 수감되자 이에 반대하는 시위가 스페인 곳곳에서 보름째 계속되고 있다.\n스페인 카탈루냐 출신 래퍼 파블로 하셀(33)이 지난 16일 수감되자 표현의 자유와 그의 석방을 요구하는 시위가 이어지고 있다.\n하셀은 도피 중이던 북부 레리다에서 체포됐다.\n그는 보안법 위반 혐의로 2018년 징역 2년형을 선고받은 후 9개월로 감형받았지만, 그간 체포되지 않았다.\n하셀은 노래 가사와 트윗에서 고속철 사업과 관련해 뇌물을 받은 후안 카를로스 전 국왕(83)을 ‘마피아 두목’ ‘도둑’이라고 비판하고 아들인 펠리페 6세 현 국왕(53)은 ‘폭군’으로 칭했다.\n스페인은 2015년 종교 및 왕실 비판을 금지하는 보안법을 제정했다.\n이 법으로 하셀 외에도 2018, 2019년에만 약 70명이 유죄 판결을 받았다.\n카탈루냐 분리 독립주의자인 하셀의 체포가 스페인의 지역 갈등을 격화시킬 조짐도 보인다.\n하셀의 석방을 요구하는 시위 또한 카탈루냐 최대 도시 바르셀로나에서 가장 격렬하게 벌어지고 있다.\n시위대는 경찰을 향해 돌을 던지고, 상점을 약탈하고 차량에 불을 질렀다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "왕실을 모독하고 테러를 미화한 래퍼가 수감되자 이에 반대하는 시위가 스페인 곳곳에서 보름째 계속되고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "스페인 카탈루냐 출신 래퍼 파블로 하셀(33)이 지난 16일 수감되자 표현의 자유와 그의 석방을 요구하는 시위가 이어지고 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하셀은 도피 중이던 북부 레리다에서 체포됐다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 보안법 위반 혐의로 2018년 징역 2년형을 선고받은 후 9개월로 감형받았지만, 그간 체포되지 않았다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하셀은 노래 가사와 트윗에서 고속철 사업과 관련해 뇌물을 받은 후안 카를로스 전 국왕(83)을 ‘마피아 두목’ ‘도둑’이라고 비판하고 아들인 펠리페 6세 현 국왕(53)은 ‘폭군’으로 칭했다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "스페인은 2015년 종교 및 왕실 비판을 금지하는 보안법을 제정했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 법으로 하셀 외에도 2018, 2019년에만 약 70명이 유죄 판결을 받았다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "카탈루냐 분리 독립주의자인 하셀의 체포가 스페인의 지역 갈등을 격화시킬 조짐도 보인다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하셀의 석방을 요구하는 시위 또한 카탈루냐 최대 도시 바르셀로나에서 가장 격렬하게 벌어지고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "시위대는 경찰을 향해 돌을 던지고, 상점을 약탈하고 차량에 불을 질렀다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"국왕은 마피아 두목\" 래퍼의 충격적인 표현에 스페인 들썩… 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

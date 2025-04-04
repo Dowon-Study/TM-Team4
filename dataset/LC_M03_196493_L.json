@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196493",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[이책과주말을] 당신의 주말을 낚아챌 낚시책",
+    "newsSubTitle": "",
+    "newsContent": "인간은 왜 낚시를 하는가?\n폴 퀸네트 지음, 황정하 옮김, 바다출판사, 288쪽, 1만2000원 임상심리학자이자 낚시광인 저자의 낚시 심리학 3부작 중 마지막 편. 저자에게 낚시는 언어보다도 먼저 생겨난 행위다.\n네안데르탈인의 동굴벽화 속에서 그는 \\\"너는 낚싯줄을 들어라. 나는 막대를 들겠다\\\"는 메시지를 읽어낸다.\n그럴 법도 하다.\n인간의 조상은 수다를 떨기 앞서 먼저 주린 배를 채웠을 테니.\n그들은 생존을 위해 낚싯대를 던졌지만 오늘날 후손들은 낚시 자체를 즐긴다.\n하지만 심리적으로 그 행위는 같은 것이라는 게 저자의 주장이다.\n반짝이는 수면에서 그가 낚싯대로 건져 올리는 것은 물고기가 아니라 인생에 대한 통찰이다.\n좌대에 앉아 빈 낚시바늘만 바라보며 '공수래 공수거(空手來空手去)'를 외치는 게 분명 신나는 일은 아닐 터다.\n그러나 낚시란 바로 희망을 품는 행위이기 때문에 기다릴 수 있는 것이다.\n인생처럼 말이다.\n낚시를 하며 저자는 소소한 삶의 진리들을 발견한다.\n\\\"축구와는 달리 낚시는 물고기한테 져도 심판 탓을 하지 않는다\\\" \\\"젊을 때 송어를 낚는 것이 사랑을 나누는 것보다 나을지도 모른다고 생각했는데 나이를 먹고 보니 확실히 그렇다\\\" \\\"무지한 낚시꾼과 입씨름을 벌이지 마라. 그대는 얻을 게 없고 그는 잃을 게 없다\\\". 이 책이 분명 낚시에 관한 책이지만 이걸 읽는다고 해서 낚시하는 법을 배우지는 못한다.\n대신 자신에 대한 성찰과 인생의 여유를 알게 될 것이다.\n한가지 더, 주말에 방안을 뒹구는 일은 없어질지도 모른다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "인간은 왜 낚시를 하는가?",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "폴 퀸네트 지음, 황정하 옮김, 바다출판사, 288쪽, 1만2000원 임상심리학자이자 낚시광인 저자의 낚시 심리학 3부작 중 마지막 편. 저자에게 낚시는 언어보다도 먼저 생겨난 행위다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "네안데르탈인의 동굴벽화 속에서 그는 \\\"너는 낚싯줄을 들어라. 나는 막대를 들겠다\\\"는 메시지를 읽어낸다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그럴 법도 하다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "인간의 조상은 수다를 떨기 앞서 먼저 주린 배를 채웠을 테니.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그들은 생존을 위해 낚싯대를 던졌지만 오늘날 후손들은 낚시 자체를 즐긴다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 심리적으로 그 행위는 같은 것이라는 게 저자의 주장이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "반짝이는 수면에서 그가 낚싯대로 건져 올리는 것은 물고기가 아니라 인생에 대한 통찰이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "좌대에 앉아 빈 낚시바늘만 바라보며 '공수래 공수거(空手來空手去)'를 외치는 게 분명 신나는 일은 아닐 터다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그러나 낚시란 바로 희망을 품는 행위이기 때문에 기다릴 수 있는 것이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "인생처럼 말이다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "낚시를 하며 저자는 소소한 삶의 진리들을 발견한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "\\\"축구와는 달리 낚시는 물고기한테 져도 심판 탓을 하지 않는다\\\" \\\"젊을 때 송어를 낚는 것이 사랑을 나누는 것보다 나을지도 모른다고 생각했는데 나이를 먹고 보니 확실히 그렇다\\\" \\\"무지한 낚시꾼과 입씨름을 벌이지 마라. 그대는 얻을 게 없고 그는 잃을 게 없다\\\". 이 책이 분명 낚시에 관한 책이지만 이걸 읽는다고 해서 낚시하는 법을 배우지는 못한다.",
+        "sentenceSize": 201
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "대신 자신에 대한 성찰과 인생의 여유를 알게 될 것이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "한가지 더, 주말에 방안을 뒹구는 일은 없어질지도 모른다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "폴 퀸네트 \"낚시를 좋아하면 성인군자의 반열에 오를 수 있다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198366",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[week&CoverStory] 머피의 법칙 왜?",
+    "newsSubTitle": "나를 추월한 차가 더 오래 보이기 때문",
+    "newsContent": "'저만치 앞질러간 옆 차로 차량은 나보다 10~20분 정도 먼저 도착했겠지?' 예상과 달리, 실제 시간 차는 1~2분에 불과했습니다.\n어째서 내 차로만 한참 뒤처지는 느낌을 받는 걸까요.\n교통 흐름을 연구하는 과학자들에 의하면 이는 일반적인 현상입니다.\n실제로 옆 차로가 더 느린 경우에도 많은 운전자가 자기 차로가 더 느리다고 느낍니다.\n일종의 '착시현상'입니다.\n캐나다 토론토 의대와 미국 스탠퍼드 대학 연구팀이 실험으로 이런 현상을 확인해 봤습니다(과학전문지 네이처 1999년 9월호). 차량에 비디오 카메라를 설치해 옆 차선의 교통 흐름을 촬영하고 먼 거리에서 실제 두 차로의 평균 속도를 각각 기록했습니다.\n즉 실제 속도와 체감 속도를 따로 측정한 것이지요.\n이 중 기준 차로보다 옆 차로가 더 느린 상황을 담은 필름만 골라 일반 운전자들에게 보여줬습니다.\n그랬더니 전체 응답자의 70%가 \\\"옆 차로가 더 빠르다\\\"고 답했습니다.\n대다수가 옆 차로의 차량 속도를 과대평가한다는 것이죠.\n우선은 '내가 남을 추월하는 경우'보다 '남이 나를 추월하는 경우'에 민감한 심리적인 원인 때문입니다.\n또 운전자의 시야가 전방을 향해 있기 때문에 자신이 추월한 차보다 자신을 추월한 차를 더 오래 보고 있게 되는 것도 이유입니다.\n물리적인 설명도 가능합니다.\n내 차로가 잘 빠지는 구간에서는 차량 속도가 빨라 그 구간에 머무는 시간이 짧은 반면, 내 차로가 막히는 구간에서는 차량 속도가 느리기 때문에 걸리는 시간도 더딥니다.\n결과적으로 비슷한 시간.거리를 이동하더라도 '내 차로가 더 느리다고 느껴지는 시간'이 '더 빠르다고 느껴지는 시간'보다 길기 때문이라는 것이죠.\n※참고='정재승의 과학콘서트(정재승, 동아시아, 2003)'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'저만치 앞질러간 옆 차로 차량은 나보다 10~20분 정도 먼저 도착했겠지?' 예상과 달리, 실제 시간 차는 1~2분에 불과했습니다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "어째서 내 차로만 한참 뒤처지는 느낌을 받는 걸까요.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "교통 흐름을 연구하는 과학자들에 의하면 이는 일반적인 현상입니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "실제로 옆 차로가 더 느린 경우에도 많은 운전자가 자기 차로가 더 느리다고 느낍니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "일종의 '착시현상'입니다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "캐나다 토론토 의대와 미국 스탠퍼드 대학 연구팀이 실험으로 이런 현상을 확인해 봤습니다(과학전문지 네이처 1999년 9월호). 차량에 비디오 카메라를 설치해 옆 차선의 교통 흐름을 촬영하고 먼 거리에서 실제 두 차로의 평균 속도를 각각 기록했습니다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "즉 실제 속도와 체감 속도를 따로 측정한 것이지요.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 중 기준 차로보다 옆 차로가 더 느린 상황을 담은 필름만 골라 일반 운전자들에게 보여줬습니다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그랬더니 전체 응답자의 70%가 \\\"옆 차로가 더 빠르다\\\"고 답했습니다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "대다수가 옆 차로의 차량 속도를 과대평가한다는 것이죠.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "우선은 '내가 남을 추월하는 경우'보다 '남이 나를 추월하는 경우'에 민감한 심리적인 원인 때문입니다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "또 운전자의 시야가 전방을 향해 있기 때문에 자신이 추월한 차보다 자신을 추월한 차를 더 오래 보고 있게 되는 것도 이유입니다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "물리적인 설명도 가능합니다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "내 차로가 잘 빠지는 구간에서는 차량 속도가 빨라 그 구간에 머무는 시간이 짧은 반면, 내 차로가 막히는 구간에서는 차량 속도가 느리기 때문에 걸리는 시간도 더딥니다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "결과적으로 비슷한 시간.거리를 이동하더라도 '내 차로가 더 느리다고 느껴지는 시간'이 '더 빠르다고 느껴지는 시간'보다 길기 때문이라는 것이죠.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "※참고='정재승의 과학콘서트(정재승, 동아시아, 2003)'",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'왜 내가 있는 차선이 제일 느릴까'... 사실은 '이것' 때문에 느끼는 기분이다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195517",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 면역체계 균형 지키는 녹용 영양소",
+    "newsSubTitle": "",
+    "newsContent": "면역기능 개선 부문 엔지켐생명과학 ‘록피드’ 면역력을 조절하는 면역기능 개선 부문에는 엔지켐생명과학의 면역 조절 건강기능식품인 ‘록피드’(사진)가 선정됐다.\n록피드는 녹용의 유효성분 중 하나인 피엘에이지(PLAG)를 주성분으로 한다.\n녹용에 0.002% 정도만 존재하는 미량 물질이다.\n스트레스·노화·환경오염 등으로 깨지기 쉬운 면역체계 균형을 유지하는 데 도움을 준다.\n서울아산병원 종양내과 과장을 역임한 김상희 교수가 1989년 녹용의 다양한 성분을 분석하던 과정에서 처음 발견했다.\n우리 몸의 면역을 담당하는 총사령관 역할을 하는 T면역세포는 Th1 면역과 Th2 면역체계로 나뉜다.\n두 면역체계의 균형이 깨지면 류머티스성 관절염이나 알레르기·아토피·천식 같은 자가면역질환을 앓을 수 있다.\n록피드는 면역체계 균형이 깨졌을 때 활성화되는 과민성 면역활성 인자인 인터루킨4(IL4)은 줄이고, 염증성 사이토카인을 조절한다.\n이 같은 작용기전을 활용한 건강기능식품은 록피드가 유일하다.\n2012년 가톨릭관동대 김상환 교수팀은 건강한 성인 47명을 두 그룹으로 나눠 4주 동안 한 그룹은 록피드의 주성분인 PLAG 1g을 매일 복용케 하고, 다른 그룹은 가짜약을 먹게 한 다음 인터루킨4의 발현양 변화를 관찰했다.\n그 결과 복용 전 인터루킨4 농도가 262.1pg/ml에서 4주 후 98.0pg/ml로 줄었다.\n같은 기간 가짜약 복용군은 204.8pg/ml에서 116.5pg/ml로 큰 변화가 없었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "면역기능 개선 부문 엔지켐생명과학 ‘록피드’ 면역력을 조절하는 면역기능 개선 부문에는 엔지켐생명과학의 면역 조절 건강기능식품인 ‘록피드’(사진)가 선정됐다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "록피드는 녹용의 유효성분 중 하나인 피엘에이지(PLAG)를 주성분으로 한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "녹용에 0.002% 정도만 존재하는 미량 물질이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "스트레스·노화·환경오염 등으로 깨지기 쉬운 면역체계 균형을 유지하는 데 도움을 준다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서울아산병원 종양내과 과장을 역임한 김상희 교수가 1989년 녹용의 다양한 성분을 분석하던 과정에서 처음 발견했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "우리 몸의 면역을 담당하는 총사령관 역할을 하는 T면역세포는 Th1 면역과 Th2 면역체계로 나뉜다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두 면역체계의 균형이 깨지면 류머티스성 관절염이나 알레르기·아토피·천식 같은 자가면역질환을 앓을 수 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "록피드는 면역체계 균형이 깨졌을 때 활성화되는 과민성 면역활성 인자인 인터루킨4(IL4)은 줄이고, 염증성 사이토카인을 조절한다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이 같은 작용기전을 활용한 건강기능식품은 록피드가 유일하다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "2012년 가톨릭관동대 김상환 교수팀은 건강한 성인 47명을 두 그룹으로 나눠 4주 동안 한 그룹은 록피드의 주성분인 PLAG 1g을 매일 복용케 하고, 다른 그룹은 가짜약을 먹게 한 다음 인터루킨4의 발현양 변화를 관찰했다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그 결과 복용 전 인터루킨4 농도가 262.1pg/ml에서 4주 후 98.0pg/ml로 줄었다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "같은 기간 가짜약 복용군은 204.8pg/ml에서 116.5pg/ml로 큰 변화가 없었다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "면역기능 개선 및 면역력 조절에 탁월한 성분은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

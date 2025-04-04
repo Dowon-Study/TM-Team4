@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193160",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "무지외반증 진단…'하이힐 병'이라고 불리는 이유는?",
+    "newsSubTitle": "",
+    "newsContent": "일명 '하이힐 병'으로 불리는 무지외반증에 걸리는 남성 환자가 최근 크게 늘어났다.\n1일 국민건강보험공단(이사장 성상철)은 여성에게서 흔히 발생했던 엄지발가락 변형 증상인 무지외반증 증상을 앓는 남성환자가 증가했다고 밝혔다.\n국민건강보험공단이 2009년부터 2013년까지 건강보험 진료비 지급자료를 분석한 내용에 따르면 무지외반증의 건강보험 진료인원이 2009년 4만 1,657명에서 2013년 5만 5,931명으로 최근 5년간 연평균 7.6% 증가했다.\n여성이 84.7%를 차지해 남성보다 많았지만, 연평균 증가율은 여성 6.8%, 남성 13.1%로 남성이 2배가량 높았다.\n무지외반증이란 엄지발가락이 둘째 발가락 쪽으로 휘어져 통증이 발생하는 질병으로, 엄지발가락 뼈의 힘줄이 정상에서 이탈하거나 관절을 감싸는 관절낭이 늘어나 관절이 변형되는 증상이다.\n무지외반증은 가족력이 있으면 높게 나타난다.\n또한 발볼이 좁고 꽉 끼는 신발을 신거나 외상에 의해서 발생할 수 있다.\n따라서 가족 중 무지외반증 환자가 있거나, 높은 굽에 발볼이 좁은 신발을 신고 오래 서서 일하는 경우 주의해야 한다.\n무지외반증 치료를 위해서는 굽이 낮고 발볼이 넉넉한 신발을 신어야 하며, 최근에는 발가락이 자극받지 않도록 교정용 깔창이나 보조기 등이 치료에 이용되고 있다.\n온라인 중앙일보 ‘무지외반증 진단’. [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일명 '하이힐 병'으로 불리는 무지외반증에 걸리는 남성 환자가 최근 크게 늘어났다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1일 국민건강보험공단(이사장 성상철)은 여성에게서 흔히 발생했던 엄지발가락 변형 증상인 무지외반증 증상을 앓는 남성환자가 증가했다고 밝혔다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국민건강보험공단이 2009년부터 2013년까지 건강보험 진료비 지급자료를 분석한 내용에 따르면 무지외반증의 건강보험 진료인원이 2009년 4만 1,657명에서 2013년 5만 5,931명으로 최근 5년간 연평균 7.6% 증가했다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여성이 84.7%를 차지해 남성보다 많았지만, 연평균 증가율은 여성 6.8%, 남성 13.1%로 남성이 2배가량 높았다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "무지외반증이란 엄지발가락이 둘째 발가락 쪽으로 휘어져 통증이 발생하는 질병으로, 엄지발가락 뼈의 힘줄이 정상에서 이탈하거나 관절을 감싸는 관절낭이 늘어나 관절이 변형되는 증상이다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "무지외반증은 가족력이 있으면 높게 나타난다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 발볼이 좁고 꽉 끼는 신발을 신거나 외상에 의해서 발생할 수 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "따라서 가족 중 무지외반증 환자가 있거나, 높은 굽에 발볼이 좁은 신발을 신고 오래 서서 일하는 경우 주의해야 한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "무지외반증 치료를 위해서는 굽이 낮고 발볼이 넉넉한 신발을 신어야 하며, 최근에는 발가락이 자극받지 않도록 교정용 깔창이나 보조기 등이 치료에 이용되고 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 ‘무지외반증 진단’. [사진 중앙포토]",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "최근 남성 환자 급증... 주로 가족력이나 외상에 의해 발생",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

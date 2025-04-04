@@ -1,0 +1,258 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193075",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "소화 안되고 헛배 부르는 폐경 여성, 이 암 의심해야",
+    "newsSubTitle": "난소암 환자 1만6172명, 국내 두번째 여성암 5년 생존율 62%… 악화 전까진 별 증상 없어 소화불량· 복통 있으면 이미 3, 4기일 가능성 가족력·유방암 경험 폐경 여성 매해 검사해야",
+    "newsContent": "오는 8일은 '세계 난소암의 날'이다.\n여성에게 난소암 예방과 치료 중요성을 알리기 위해 지정된 날이다.\n난소암은 국내에서 두 번째로 많은 여성암이다.\n지난해 환자 수는 1만6172명으로 자궁경부암(5만4603명) 다음으로 많았다.\n초기엔 뚜렷한 증상이 없어 조기 발견이 어렵다.\n환자의 5년 생존율은 61.9%로 자궁경부암(80.3%)보다 낮다.\n난소암이 악화하면 복통과 복부팽만, 소화불량, 질 출혈 같은 증상이 나타난다.\n이럴 땐 암세포가 난소를 넘어 이미 다른 곳으로 퍼진 3, 4기인 경우가 많다.\n난소암은 환자의 절반 이상이 40~50대(53%)다. 40~50대는 난소암 증상이 나타나도 단순히 소화가 잘 안 되거나 노화로 신체 기능이 떨어진 것으로 여기는 경향이 있다.\n이 때문에 암 발견이 더 늦어지는 경우도 많다.\n난소암을 ‘침묵의 살인자’로 부르는 이유다.\n김윤환 이대여성암병원 재발성부인암센터장은 \\\"국내 난소암 환자 중에선 종양이 다른 기관으로 퍼지는 3기 이후에 난소암을 발견하는 비율이 70% 이상\\\"이라고 말했다.\n이 시기에 발견되면 5년 생존율은 30%도 채 되지 않는다.\n난소암 3기 이상의 환자들은 수술해서 종양을 최대한 없앤 뒤 항암제나 방사선 치료로 남은 종양을 제거한다.\n환자의 건강 상태와 임신 계획 여부에 따라 치료법은 달라진다.\n난소는 골반 안쪽에 있다.\n위내시경이나 자궁경부암 검사처럼 장기를 들여다보고 바로 조직을 채취해 암 여부를 알 수 있는 방법이 아직 없다.\n증상이 없더라도 가족력이나 유방암 발병 경험이 있는 고위험군, 40세 이상의 폐경 후 여성은 연 1회 정기적으로 초음파 검사를 받는 것이 필요하다.\n조기에 발견하면 완치율이 높아진다.\n김윤환 암센터장은 \\\"암이 난소에만 있는 1·2기에는 70~90%에 가까운 완치율을 보인다\\\"고 말했다.\n완치 이후에도 조심해야 한다. 2년 이내에 재발하는 경우가 약 80%다.\n완치 판정을 받더라도 지속적으로 검진을 받아야 한다.\n최근에는 환자의 통증과 부작용을 최소화하기 위해 온열항암화학치료법·고주파온열치료법 같은 새로운 치료법이 도입되고 있다.\n난소암 표적 항암 치료제도 꾸준히 개발되고 있다.\n김 센터장은“난소암이 재발하더라도 적절한 치료를 받으면 생존율이 높아진다.\n환자 본인의 강한 의지와 가족을 비롯한 주변인의 격려가 필요하다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 26,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오는 8일은 '세계 난소암의 날'이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여성에게 난소암 예방과 치료 중요성을 알리기 위해 지정된 날이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "난소암은 국내에서 두 번째로 많은 여성암이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난해 환자 수는 1만6172명으로 자궁경부암(5만4603명) 다음으로 많았다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "초기엔 뚜렷한 증상이 없어 조기 발견이 어렵다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "환자의 5년 생존율은 61.9%로 자궁경부암(80.3%)보다 낮다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "난소암이 악화하면 복통과 복부팽만, 소화불량, 질 출혈 같은 증상이 나타난다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이럴 땐 암세포가 난소를 넘어 이미 다른 곳으로 퍼진 3, 4기인 경우가 많다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "난소암은 환자의 절반 이상이 40~50대(53%)다. 40~50대는 난소암 증상이 나타나도 단순히 소화가 잘 안 되거나 노화로 신체 기능이 떨어진 것으로 여기는 경향이 있다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 때문에 암 발견이 더 늦어지는 경우도 많다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "난소암을 ‘침묵의 살인자’로 부르는 이유다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "김윤환 이대여성암병원 재발성부인암센터장은 \\\"국내 난소암 환자 중에선 종양이 다른 기관으로 퍼지는 3기 이후에 난소암을 발견하는 비율이 70% 이상\\\"이라고 말했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이 시기에 발견되면 5년 생존율은 30%도 채 되지 않는다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "난소암 3기 이상의 환자들은 수술해서 종양을 최대한 없앤 뒤 항암제나 방사선 치료로 남은 종양을 제거한다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "환자의 건강 상태와 임신 계획 여부에 따라 치료법은 달라진다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "난소는 골반 안쪽에 있다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "위내시경이나 자궁경부암 검사처럼 장기를 들여다보고 바로 조직을 채취해 암 여부를 알 수 있는 방법이 아직 없다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "증상이 없더라도 가족력이나 유방암 발병 경험이 있는 고위험군, 40세 이상의 폐경 후 여성은 연 1회 정기적으로 초음파 검사를 받는 것이 필요하다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "조기에 발견하면 완치율이 높아진다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "김윤환 암센터장은 \\\"암이 난소에만 있는 1·2기에는 70~90%에 가까운 완치율을 보인다\\\"고 말했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "완치 이후에도 조심해야 한다. 2년 이내에 재발하는 경우가 약 80%다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "완치 판정을 받더라도 지속적으로 검진을 받아야 한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "최근에는 환자의 통증과 부작용을 최소화하기 위해 온열항암화학치료법·고주파온열치료법 같은 새로운 치료법이 도입되고 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "난소암 표적 항암 치료제도 꾸준히 개발되고 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "김 센터장은“난소암이 재발하더라도 적절한 치료를 받으면 생존율이 높아진다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "환자 본인의 강한 의지와 가족을 비롯한 주변인의 격려가 필요하다\\\"고 말했다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소화 안되고 헛배 부르는 폐경 여성이라면 의심해봐야",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195015",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "강유미, 결혼 3년만에 파경 \\\"뼈아픈 상처…힘든 시간이었다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "비연예인 남편과 결혼 3년 만에 파경을 맞은 개그우먼 강유미가 “뼈아픈 상처였고 힘든 시간이었다”는 심경을 밝혔다.\n강유미는 이혼 소식이 전해진 7일 유튜브 채널 커뮤니티에 “저의 개인적인 소식으로 놀라셨을 많은 분들께 기사보다 먼저 알려드리고 싶은 마음이 항상 있었지만 쉽게 용기내 말씀드릴 수 없는 개인적 아픔이어서 먼저 말씀드리지 못했다”며 이같이 말했다.\n이어 “개인적으로 가까운 분들에게만 밝혀왔던 이혼이었고, 아직 모든 분께 미리 인사드리지 못해서 이런 기회로 알리게 된 점 죄송스럽다”며 “뼈아픈 상처였고 힘든 시간이었지만 구독자분들의 응원 덕분에 일적으로 만큼은 바쁘게 지내올 수 있었던 점 이 기회에 정말 감사드린다”고 했다.\n그는 “앞으로도 변함없이 재밌는 콘텐트로 최선을 다하여 좋은 모습 보여드리도록 노력하겠다”고 덧붙였다.\n강유미는 최근 비연예인 남편과 이혼에 합의했다.\n앞서 강유미는 지인의 소개로 남편을 만나 2019년 8월 결혼식을 올렸다.\n강유미는 지난 2004년 KBS 19기 공채 개그맨으로 데뷔한 뒤 KBS2 ‘개그콘서트’에서 ‘사랑의 카운슬러’ ‘분장실의 강선생님’ 등 코너를 통해 인기를 얻었다.\n이후 tvN ‘SNL코리아’ ‘코미디 빅리그’ 등에서 활약했으며, 최근에는 유튜브 채널을 통해 활발한 활동을 이어가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "비연예인 남편과 결혼 3년 만에 파경을 맞은 개그우먼 강유미가 “뼈아픈 상처였고 힘든 시간이었다”는 심경을 밝혔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "강유미는 이혼 소식이 전해진 7일 유튜브 채널 커뮤니티에 “저의 개인적인 소식으로 놀라셨을 많은 분들께 기사보다 먼저 알려드리고 싶은 마음이 항상 있었지만 쉽게 용기내 말씀드릴 수 없는 개인적 아픔이어서 먼저 말씀드리지 못했다”며 이같이 말했다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “개인적으로 가까운 분들에게만 밝혀왔던 이혼이었고, 아직 모든 분께 미리 인사드리지 못해서 이런 기회로 알리게 된 점 죄송스럽다”며 “뼈아픈 상처였고 힘든 시간이었지만 구독자분들의 응원 덕분에 일적으로 만큼은 바쁘게 지내올 수 있었던 점 이 기회에 정말 감사드린다”고 했다.",
+        "sentenceSize": 156
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 “앞으로도 변함없이 재밌는 콘텐트로 최선을 다하여 좋은 모습 보여드리도록 노력하겠다”고 덧붙였다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "강유미는 최근 비연예인 남편과 이혼에 합의했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 강유미는 지인의 소개로 남편을 만나 2019년 8월 결혼식을 올렸다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "강유미는 지난 2004년 KBS 19기 공채 개그맨으로 데뷔한 뒤 KBS2 ‘개그콘서트’에서 ‘사랑의 카운슬러’ ‘분장실의 강선생님’ 등 코너를 통해 인기를 얻었다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이후 tvN ‘SNL코리아’ ‘코미디 빅리그’ 등에서 활약했으며, 최근에는 유튜브 채널을 통해 활발한 활동을 이어가고 있다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "개그우먼 강유미, 결혼 3년 만에 파경?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

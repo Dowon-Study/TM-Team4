@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199141",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "명지병원, 생체이식 포함 간이식 4연속 성공",
+    "newsSubTitle": "몽골인 생체 이식 성공으로 해외 이식환자 유치 청신호",
+    "newsContent": "서남의대 명지병원(병원장 김형수)이 최근 몽골인 모녀의 생체 간이식에 성공했다.\n명지병원 간센터 이건욱 교수팀은 지난 6월 간경화 환자인 몽골인 홍 첵메드(56)씨에게 친딸의 생체 간을 이식하는 데 성공했다고 밝혔다.\n간 이식 수술을 받은 홍 첵메드씨는 최근 건강을 되찾아 자신에게 간을 공여해 준 딸과 함께 건강한 모습으로 몽골로 돌아갔다.\n▲ 명지병원 생체 간이식 수술 장면. 홍 첵메드씨는 2012년 울란바토르에서 건강검진을 받고 C형간염 보균자란 사실을 처음으로 알았다.\n몽골에서 받을 수 있는 모든 치료를 받았으나 별 효과가 없었다.\n2015년 간경화로 악화돼 3개월 안에 간 이식 수술을 받아야 한다는 진단을 받았다.\n홍 첵메드씨의 딸(34)과 아들(29)은 자진해서 정밀 검사를 받았고 딸이 엄마에게 딱 맞는 공여자라는 결과가 나왔다.\n딸은 망설임 없이 이식수술을 결정했다.\n몽골에서는 수술이 불가능해 수술할 병원을 수소문한 끝에 명지병원 간센터 이효석 교수와 이건욱 교수의 상담을 받고 지난 5월 한국행 비행기에 올랐다.\n고향으로 돌아간 홍 첵메드씨는 편지를 통해 “수준 높은 장비와 의료진을 만나 감사하다”며 만족감을 표시했다.\n명지병원은 지난해 9월 말 이건욱 교수(외과), 이효석 교수(내과), 박재형 교수(인터벤션 영상의학과) 등 ‘간 명의’ 3인방을 주축으로 한 간센터를 열었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서남의대 명지병원(병원장 김형수)이 최근 몽골인 모녀의 생체 간이식에 성공했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "명지병원 간센터 이건욱 교수팀은 지난 6월 간경화 환자인 몽골인 홍 첵메드(56)씨에게 친딸의 생체 간을 이식하는 데 성공했다고 밝혔다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "간 이식 수술을 받은 홍 첵메드씨는 최근 건강을 되찾아 자신에게 간을 공여해 준 딸과 함께 건강한 모습으로 몽골로 돌아갔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "▲ 명지병원 생체 간이식 수술 장면. 홍 첵메드씨는 2012년 울란바토르에서 건강검진을 받고 C형간염 보균자란 사실을 처음으로 알았다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "몽골에서 받을 수 있는 모든 치료를 받았으나 별 효과가 없었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2015년 간경화로 악화돼 3개월 안에 간 이식 수술을 받아야 한다는 진단을 받았다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "홍 첵메드씨의 딸(34)과 아들(29)은 자진해서 정밀 검사를 받았고 딸이 엄마에게 딱 맞는 공여자라는 결과가 나왔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "딸은 망설임 없이 이식수술을 결정했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "몽골에서는 수술이 불가능해 수술할 병원을 수소문한 끝에 명지병원 간센터 이효석 교수와 이건욱 교수의 상담을 받고 지난 5월 한국행 비행기에 올랐다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "고향으로 돌아간 홍 첵메드씨는 편지를 통해 “수준 높은 장비와 의료진을 만나 감사하다”며 만족감을 표시했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "명지병원은 지난해 9월 말 이건욱 교수(외과), 이효석 교수(내과), 박재형 교수(인터벤션 영상의학과) 등 ‘간 명의’ 3인방을 주축으로 한 간센터를 열었다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "몽골인 모녀 생체 간이식에 성공한 '이 병원'... 수술 후 고국으로 돌아가",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

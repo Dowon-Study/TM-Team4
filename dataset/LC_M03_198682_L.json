@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198682",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스신간 『몸 은 얼굴부터 늙는다』外",
+    "newsSubTitle": "",
+    "newsContent": "『몸 은 얼굴부터 늙는다』 KRDNihombashi메디컬팀 지음 갈매나무, 232쪽 염증은 노화에 큰 영향을 미치는 요인이다.\n작은 불씨와 같은 염증이 만성화하면 각종 질환과 노화를 일으켜 전신에 화를 입힌다. 『몸은 얼굴부터 늙는다』는 100세 시대에 필요한 노화 방지 솔루션을 담았다.\n저자는 만성 염증의 원인이며 노화에 영향을 미치는 물질로 ‘AGE’를 지목한다.\n단백질과 당이 결합해 생긴 물질인 AGE를 의학적으로 분석하며 이를 줄이기 위한 생활 습관을 제언한다. 『코로나 팬데믹』 슈샤리트 박티·카리나 레이스 지음 더봄, 192쪽 신종 코로나바이러스 감염증(코로나19) 확산이 전 세계에 영향을 미치고 있다.『코로나 팬데믹』은 혼란스러운 상황을 명쾌하게 정리함으로써 감염병 대유행을 어떻게 극복할지 해답을 찾는다.\n코로나19가 사회·경제·공중보건에 끼친 영향을 과학적인 사실에 기초해 설명한다.\n바이러스의 정체부터 적절한 대응 전략은 뭔지, 코로나 팬데믹 이후의 삶과 사회는 어떻게 변해야 하는지를 상세히 다룬다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "『몸 은 얼굴부터 늙는다』 KRDNihombashi메디컬팀 지음 갈매나무, 232쪽 염증은 노화에 큰 영향을 미치는 요인이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "작은 불씨와 같은 염증이 만성화하면 각종 질환과 노화를 일으켜 전신에 화를 입힌다. 『몸은 얼굴부터 늙는다』는 100세 시대에 필요한 노화 방지 솔루션을 담았다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "저자는 만성 염증의 원인이며 노화에 영향을 미치는 물질로 ‘AGE’를 지목한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "단백질과 당이 결합해 생긴 물질인 AGE를 의학적으로 분석하며 이를 줄이기 위한 생활 습관을 제언한다. 『코로나 팬데믹』 슈샤리트 박티·카리나 레이스 지음 더봄, 192쪽 신종 코로나바이러스 감염증(코로나19) 확산이 전 세계에 영향을 미치고 있다.『코로나 팬데믹』은 혼란스러운 상황을 명쾌하게 정리함으로써 감염병 대유행을 어떻게 극복할지 해답을 찾는다.",
+        "sentenceSize": 198
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "코로나19가 사회·경제·공중보건에 끼친 영향을 과학적인 사실에 기초해 설명한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "바이러스의 정체부터 적절한 대응 전략은 뭔지, 코로나 팬데믹 이후의 삶과 사회는 어떻게 변해야 하는지를 상세히 다룬다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신간 <몸은 얼굴부터 늙는다>... '이것' 만성화되면 각종 질환과 노화 일으켜",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

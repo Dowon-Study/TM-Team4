@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195463",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "독감으로 인한 사망자 매년 5천명… 예방접종 꼭 하세요",
+    "newsSubTitle": "GSK '플루아릭스 테트라 커뮤니티‘ 개최",
+    "newsContent": "[신윤애 기자] 독감이 본격적으로 유행하는 10월을 앞두고 독감 백신 접종을 권장하는 목소리가 커지고 있다.\nGSK도 26일 퓨어아레나에서 ‘플루아릭스 테트라 커뮤니티’ 행사를 열어 독감 백신의 필요성을 홍보, 접종을 권장하는 자리를 가졌다.\n이날 발표를 맡은 GSK 학술부 장현갑 본부장은 “독감은 증상이 비슷한 감기와 다르게 심각한 결과를 초래할 수 있다”며 “영유아·노인·만성질환자가 독감에 걸리면 합병증으로 사망하기도 한다”고 말했다.\n실제 미국에서 독감으로 사망하는 사람이 매년 3~4만 명에 이른다.\n세계적으로는 약 30~50만 명 국내는 4~5천 명이 독감으로 인해 사망하는 것으로 보인다.\n장현갑 본부장은 “독감이 사망의 단일원인이 된다는 측면으로 보면 사망자가 많은 편이다”고 말했다.\n그럼에도 국내 독감 백신 접종률은 높은 편이 아니다.\n특히 만성질환자가 많은 50대에서 접종률이 현저히 낮다.\n대한감염학회(KSID) 자료에 따르면 백신 접종률이 50~59세는 27.7%, 60~69세는 58.4%, 65세 이상은 81.7%다. 50대 접종률이 무료 접종 대상자인 65세 이상 노인에 비해 3배가량 낮은 수치다.\n장 본부장은 “50대는 만성질환을 하나씩은 갖고 있다고 봐도 무방한 나이”라며 “무료 접종 대상자 사각지대에 있는 50대부터 64이하 연령에게도 백신 접종을 적극 권장해야 한다”고 강조했다.\n하지만 예방접종을 한다고 아예 독감에 안 걸리는 것은 아니다.\n세계보건기구(WHO)에서 매년 유행할 독감 바이러스를 예측하면 각국의 제약사에서 백신을 만드는데 이 예측이 빗나가면 백신도 무용지물이 된다.\nWHO에서는 A형 2종과 B형 1종을 예방하는 3가 백신용 바이러스를 예측해왔다.\n하지만 독감 바이러스 중 인체에 해가 되는 것은 A형 바이러스 2종과 B형 바이러스 2종이다.\nB형에서 1종만 선택해 예측하다 보니 예측이 빗나가는 해가 많았다.\n실제 미국, 유럽에서 B형 예측이 빗나간 확률이 50%에 달했다.\n따라서 예측의 정확성을 높이기 위해 2013년부터 세계적으로 A형 2종, B형 2종 바이러스를 모두 막아주는 4가 백신 접종을 권장하고 있다.\n국내에서는 2015년 GSK의 ‘플루아릭스 테트라’ 출시를 선두로 2016년부터 본격적으로 4가 백신이 접종되고 있다. ‘플루아릭스 테트라’는 세계 최초 FDA를 받고 2016년 국내 판매 1위를 달성한 4가 백신이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[신윤애 기자] 독감이 본격적으로 유행하는 10월을 앞두고 독감 백신 접종을 권장하는 목소리가 커지고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "GSK도 26일 퓨어아레나에서 ‘플루아릭스 테트라 커뮤니티’ 행사를 열어 독감 백신의 필요성을 홍보, 접종을 권장하는 자리를 가졌다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 발표를 맡은 GSK 학술부 장현갑 본부장은 “독감은 증상이 비슷한 감기와 다르게 심각한 결과를 초래할 수 있다”며 “영유아·노인·만성질환자가 독감에 걸리면 합병증으로 사망하기도 한다”고 말했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "실제 미국에서 독감으로 사망하는 사람이 매년 3~4만 명에 이른다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세계적으로는 약 30~50만 명 국내는 4~5천 명이 독감으로 인해 사망하는 것으로 보인다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "장현갑 본부장은 “독감이 사망의 단일원인이 된다는 측면으로 보면 사망자가 많은 편이다”고 말했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그럼에도 국내 독감 백신 접종률은 높은 편이 아니다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히 만성질환자가 많은 50대에서 접종률이 현저히 낮다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "대한감염학회(KSID) 자료에 따르면 백신 접종률이 50~59세는 27.7%, 60~69세는 58.4%, 65세 이상은 81.7%다. 50대 접종률이 무료 접종 대상자인 65세 이상 노인에 비해 3배가량 낮은 수치다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "장 본부장은 “50대는 만성질환을 하나씩은 갖고 있다고 봐도 무방한 나이”라며 “무료 접종 대상자 사각지대에 있는 50대부터 64이하 연령에게도 백신 접종을 적극 권장해야 한다”고 강조했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하지만 예방접종을 한다고 아예 독감에 안 걸리는 것은 아니다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "세계보건기구(WHO)에서 매년 유행할 독감 바이러스를 예측하면 각국의 제약사에서 백신을 만드는데 이 예측이 빗나가면 백신도 무용지물이 된다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "WHO에서는 A형 2종과 B형 1종을 예방하는 3가 백신용 바이러스를 예측해왔다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "하지만 독감 바이러스 중 인체에 해가 되는 것은 A형 바이러스 2종과 B형 바이러스 2종이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "B형에서 1종만 선택해 예측하다 보니 예측이 빗나가는 해가 많았다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "실제 미국, 유럽에서 B형 예측이 빗나간 확률이 50%에 달했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "따라서 예측의 정확성을 높이기 위해 2013년부터 세계적으로 A형 2종, B형 2종 바이러스를 모두 막아주는 4가 백신 접종을 권장하고 있다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "국내에서는 2015년 GSK의 ‘플루아릭스 테트라’ 출시를 선두로 2016년부터 본격적으로 4가 백신이 접종되고 있다. ‘플루아릭스 테트라’는 세계 최초 FDA를 받고 2016년 국내 판매 1위를 달성한 4가 백신이다.",
+        "sentenceSize": 122
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "독감 예방접종, 꼭 해야 하는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

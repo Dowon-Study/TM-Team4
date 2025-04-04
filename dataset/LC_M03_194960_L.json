@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194960",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[독자마당] 웰빙의 참 의미 일깨워 줘 外",
+    "newsSubTitle": "",
+    "newsContent": "*** 웰빙의 참 의미 일깨워 줘 우리 음식을 자주 먹고, 산책을 하고 줄넘기와 걷기운동을 하고, 스트레스 받지 않고 마음의 여유를 누리는 것이 진정한 웰빙이 아닐까.\n무조건 따라 하는 것이 아니라 자신과 가족이 처한 형편을 고려해 건강한 삶을 설계하는 것이 진정한 웰빙이리라.\n그런 의미에서 『행복을 찾아가는 나만의 삶, 웰빙』은 바람직한 웰빙의 길을 안내하고 있다.\n최인아(전남 광양시 중동) *** 곧 둘째 갖는 내게 딱 10월이면 둘째가 태어나는 나로서는 ‘앗 큰일났네. 내 동생이래’라는 제목이 눈에 딱 들어왔다.\n23개월짜리 아들놈이 둘째를 과연 잘 받아들일까?\n지금 나에게 가장 궁금한 문제가 북리뷰에서 다뤄져 유익했다.\n한지영(경기도 의정부시 호원2동) *** 독서 길라잡이 된 북리뷰 북리뷰에 실린 연도별 주요 베스트셀러를 보고 나는 과연 몇 권이나 읽었을까 싶어 세어 보았다.\n57권중22권이었다.\n그리고 책꽂이에서 잡은 책이 『부자 아빠 일등국민』이었다.\n경제가 어려워서 그랬을까.\n어쨌든 느긋한 마음으로 나머지 베스트셀러도 다 읽어봐야겠다.\n이미경(대구시 수성구 신매동)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "*** 웰빙의 참 의미 일깨워 줘 우리 음식을 자주 먹고, 산책을 하고 줄넘기와 걷기운동을 하고, 스트레스 받지 않고 마음의 여유를 누리는 것이 진정한 웰빙이 아닐까.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "무조건 따라 하는 것이 아니라 자신과 가족이 처한 형편을 고려해 건강한 삶을 설계하는 것이 진정한 웰빙이리라.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그런 의미에서 『행복을 찾아가는 나만의 삶, 웰빙』은 바람직한 웰빙의 길을 안내하고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최인아(전남 광양시 중동) *** 곧 둘째 갖는 내게 딱 10월이면 둘째가 태어나는 나로서는 ‘앗 큰일났네. 내 동생이래’라는 제목이 눈에 딱 들어왔다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "23개월짜리 아들놈이 둘째를 과연 잘 받아들일까?",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지금 나에게 가장 궁금한 문제가 북리뷰에서 다뤄져 유익했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한지영(경기도 의정부시 호원2동) *** 독서 길라잡이 된 북리뷰 북리뷰에 실린 연도별 주요 베스트셀러를 보고 나는 과연 몇 권이나 읽었을까 싶어 세어 보았다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "57권중22권이었다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그리고 책꽂이에서 잡은 책이 『부자 아빠 일등국민』이었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "경제가 어려워서 그랬을까.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "어쨌든 느긋한 마음으로 나머지 베스트셀러도 다 읽어봐야겠다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이미경(대구시 수성구 신매동)",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "나의 독서량 쉽게 확인할 수 있는 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

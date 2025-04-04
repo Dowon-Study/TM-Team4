@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195724",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "WHO 소시지 햄 1급 발암물질…\\\"뭘 먹고 살아야 하는거지\\\"",
+    "newsSubTitle": "",
+    "newsContent": "햄이 1군 발암 물질…\\\"가공육 암 일으킨다는 증거 있다\\\" 소시지나 햄 같은 가공육이 암을 유발할 수 있어 담배나 석면 같은 1군 발암물질로 분류됐다.\n세계보건기구(WHO) 산하 국제암연구소(IARC)는 육식과 암의 상관 관계에 대한 800여건의 연구를 검토한 결과 “가공육이 암을 일으킨다는 충분한 증거가 있다”며 이같은 결론을 내렸다고 26일 발표했다.\n가공육은 소금에 절이거나 발효·훈제한 고기 등을 의미하며 핫도그, 소시지, 햄 등이 대표적이다.\nIARC는 “가공육을 섭취하면 직장암이나 대장암 발병 위험이 높아질 수 있다”고 밝혔다.\n매일 50g의 가공육을 먹으면 대장암 등이 발병할 확률이 18% 높아진다는 것이다.\nIARC는 또 소·양·돼지 등 붉은 고기도 암을 유발할 가능성이 있는 것으로 보고 이를 2군 발암물질로 분류했다.\n이 연구소는 가급적 육류 섭취를 제한하는 게 바람직하다고 권장했다.\n다만 “가공육이 담배나 석면 만큼 위험한 것은 아니며, 붉은 고기가 건강에 긍정적인 면도 있다”고 덧붙였다.\n한편 정윤숙 강북삼성병원 교수팀은 담배를 많이, 그리고 장기간 피우면 대장암 위험도가 최대 두 배까지 높아진다는 연구 결과를 이날 발표했다.\n2010~2011년 이 병원에서 대장내시경을 받은 30세 이상 3만1714명을 대상으로 조사한 결과다.\n연구에 따르면 음주보다는 흡연이 대장암 발병에 더 큰 영향을 미치는 것으로 나타났다.\n정 교수는 “젊을 때부터 흡연을 삼가야 노년기에 많이 걸리는 대장암을 피할 수 있다”고 말했다.\n온라인 중앙일보 '햄이 1군 발암물질'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "햄이 1군 발암 물질…\\\"가공육 암 일으킨다는 증거 있다\\\" 소시지나 햄 같은 가공육이 암을 유발할 수 있어 담배나 석면 같은 1군 발암물질로 분류됐다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "세계보건기구(WHO) 산하 국제암연구소(IARC)는 육식과 암의 상관 관계에 대한 800여건의 연구를 검토한 결과 “가공육이 암을 일으킨다는 충분한 증거가 있다”며 이같은 결론을 내렸다고 26일 발표했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "가공육은 소금에 절이거나 발효·훈제한 고기 등을 의미하며 핫도그, 소시지, 햄 등이 대표적이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "IARC는 “가공육을 섭취하면 직장암이나 대장암 발병 위험이 높아질 수 있다”고 밝혔다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "매일 50g의 가공육을 먹으면 대장암 등이 발병할 확률이 18% 높아진다는 것이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "IARC는 또 소·양·돼지 등 붉은 고기도 암을 유발할 가능성이 있는 것으로 보고 이를 2군 발암물질로 분류했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 연구소는 가급적 육류 섭취를 제한하는 게 바람직하다고 권장했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "다만 “가공육이 담배나 석면 만큼 위험한 것은 아니며, 붉은 고기가 건강에 긍정적인 면도 있다”고 덧붙였다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 정윤숙 강북삼성병원 교수팀은 담배를 많이, 그리고 장기간 피우면 대장암 위험도가 최대 두 배까지 높아진다는 연구 결과를 이날 발표했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "2010~2011년 이 병원에서 대장내시경을 받은 30세 이상 3만1714명을 대상으로 조사한 결과다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "연구에 따르면 음주보다는 흡연이 대장암 발병에 더 큰 영향을 미치는 것으로 나타났다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "정 교수는 “젊을 때부터 흡연을 삼가야 노년기에 많이 걸리는 대장암을 피할 수 있다”고 말했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "온라인 중앙일보 '햄이 1군 발암물질'",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "WHO 산하 국제암연구소, 햄 등 가공육은 담배나 석면과 같아… 도대체 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

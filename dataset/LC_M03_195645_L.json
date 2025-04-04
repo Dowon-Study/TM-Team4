@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195645",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "폐암 환자, 치료 후에도 사망위험 2배",
+    "newsSubTitle": "서울대병원 연구결과…신체 기능 떨어져 사망위험 높아",
+    "newsContent": "폐암은 암 중에서도 치료 성적이 가장 나쁜 암이다.\n가까스로 치료에 성공했다고 해도 남은 삶의 질이 크게 떨어지는 것으로 나타났다.\n서울대병원 암통합케어센터 윤영호 교수팀은 19일 폐암 치료 후 신체 기능이 떨어진 환자의 사망위험이 2.4배 높은 것으로 나타났다고 밝혔다.\n연구팀은 2001년부터 2006년까지 국립암센터와 삼성서울병원에서 폐암 수술 후 완치를 판정받은 폐암 환자 809명을 5년간 추적 관찰했다.\n그 결과 수술 후 신체 기능이 떨어져 일반인보다 사망위험이 2.4배 높은 것으로 나타났다.\n호흡곤란을 겪는 비율도 1.6배 높았다.\n저체중(1.7배)이거나 수술 후 운동 부족(1.5배) 등이 사망위험을 높이는 데 영향을 끼쳤다.\n폐암 생존자들은 정신적으로도 건강하지 못한 삶을 살고 있었다.\n정신적 충격을 이겨내는 내적 역량이 저하되거나(2.4배) 불안한 경우(2.1배)가 많았다.\n윤 교수는 “국내 암경험자가 130만 명을 넘어섰으나, 대부분의 환자는 치료 후 적절한 관리를 받지 못해, 암 재발이나 사망에 대한 막연한 불안을 가지고 있다”고 말했다.\n그는 “암 치료 후 재발 감시뿐 아니라 운동, 식이 등과 함께 삶의 질을 평가하고 체계적으로 관리하는 진료 시스템을 갖추는 것이 시급하다”며 “이에 대한 보험수가 인정 등 국가 차원의 지원이 반드시 이뤄져야 한다”고 강조했다.\n한편, 이번 연구는 윤 교수팀 외에도 국립암센터 흉부외과 이종목·김문수 교수팀, 삼성서울병원 흉부외과 조재일·심영목 교수팀이 함께했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "폐암은 암 중에서도 치료 성적이 가장 나쁜 암이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "가까스로 치료에 성공했다고 해도 남은 삶의 질이 크게 떨어지는 것으로 나타났다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서울대병원 암통합케어센터 윤영호 교수팀은 19일 폐암 치료 후 신체 기능이 떨어진 환자의 사망위험이 2.4배 높은 것으로 나타났다고 밝혔다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연구팀은 2001년부터 2006년까지 국립암센터와 삼성서울병원에서 폐암 수술 후 완치를 판정받은 폐암 환자 809명을 5년간 추적 관찰했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 결과 수술 후 신체 기능이 떨어져 일반인보다 사망위험이 2.4배 높은 것으로 나타났다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "호흡곤란을 겪는 비율도 1.6배 높았다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "저체중(1.7배)이거나 수술 후 운동 부족(1.5배) 등이 사망위험을 높이는 데 영향을 끼쳤다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "폐암 생존자들은 정신적으로도 건강하지 못한 삶을 살고 있었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정신적 충격을 이겨내는 내적 역량이 저하되거나(2.4배) 불안한 경우(2.1배)가 많았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "윤 교수는 “국내 암경험자가 130만 명을 넘어섰으나, 대부분의 환자는 치료 후 적절한 관리를 받지 못해, 암 재발이나 사망에 대한 막연한 불안을 가지고 있다”고 말했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그는 “암 치료 후 재발 감시뿐 아니라 운동, 식이 등과 함께 삶의 질을 평가하고 체계적으로 관리하는 진료 시스템을 갖추는 것이 시급하다”며 “이에 대한 보험수가 인정 등 국가 차원의 지원이 반드시 이뤄져야 한다”고 강조했다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "한편, 이번 연구는 윤 교수팀 외에도 국립암센터 흉부외과 이종목·김문수 교수팀, 삼성서울병원 흉부외과 조재일·심영목 교수팀이 함께했다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"치료 받으래서 받았는데… 죽음 코앞이라니\" 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

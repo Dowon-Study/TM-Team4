@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198281",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[알림] 정신건강, 간단하게 알아보세요 外",
+    "newsSubTitle": "",
+    "newsContent": "◆정신건강, 간단하게 알아보세요 조인스닷컴 멘탈홈(mentalhome.joins.com)은 서울대 정신과 권준수 교수와 함께 정신건강 문제를 자가 점검할 수 있는 프로그램을 제공합니다.\n참여자들이 '예, 아니요'로 간단히 답할 수 있는 17개 문항으로 만들어져 있으며, 결과에 따라 전문의 상담을 받을 수 있습니다.\n정신질환의 조기 발견을 위한 이 프로그램에 많은 참여를 바랍니다.\n응모하신 분 중 3명을 추첨해 국내여행 상품권을 제공합니다.\n◆'힘찬이 대회' 응모작품 즐기세요 대한소아청소년정신의학회와 조인스닷컴은 최근 주의력 결핍 과다행동 장애(ADHD) 아동을 대상으로 그림 및 부모 수기를 모집, 조인스닷컴(mentalhome.joins.com/adhdpainting)에 소개하고 있습니다.\nADHD 치료에 대한 일반인의 이해를 돕기 위해 마련된 이번 공모전을 많이 관람해 주세요.\n작품에 대한 최종 심사 결과는 22일 발표되며, 으뜸상.버금상 등 우수작에 총 1000만원 상당의 상품과 상장이 수여됩니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆정신건강, 간단하게 알아보세요 조인스닷컴 멘탈홈(mentalhome.joins.com)은 서울대 정신과 권준수 교수와 함께 정신건강 문제를 자가 점검할 수 있는 프로그램을 제공합니다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "참여자들이 '예, 아니요'로 간단히 답할 수 있는 17개 문항으로 만들어져 있으며, 결과에 따라 전문의 상담을 받을 수 있습니다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정신질환의 조기 발견을 위한 이 프로그램에 많은 참여를 바랍니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "응모하신 분 중 3명을 추첨해 국내여행 상품권을 제공합니다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◆'힘찬이 대회' 응모작품 즐기세요 대한소아청소년정신의학회와 조인스닷컴은 최근 주의력 결핍 과다행동 장애(ADHD) 아동을 대상으로 그림 및 부모 수기를 모집, 조인스닷컴(mentalhome.joins.com/adhdpainting)에 소개하고 있습니다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "ADHD 치료에 대한 일반인의 이해를 돕기 위해 마련된 이번 공모전을 많이 관람해 주세요.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "작품에 대한 최종 심사 결과는 22일 발표되며, 으뜸상.버금상 등 우수작에 총 1000만원 상당의 상품과 상장이 수여됩니다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'힘찬이 대회' 공모전... '이 아동' 대상으로 수기 모집 중!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195597",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 고품질 비타민C 체내 흡수율 두 배",
+    "newsSubTitle": "",
+    "newsContent": "━ 항산화 부문 대상 솔가 ‘에스터C’ 미국 건강기능식품 제조업체인 솔가는 혁신적인 기술력, 깐깐한 제조 공정, 품질 관리 등으로 유명하다.\n최상의 원료만 사용하기 때문에 소량 생산을 고집한다.\n이 업체가 내놓은 ‘에스터C’(사진)는 고품질 비타민C가 500㎎ 함유된 건강기능식품이다.\n피로 회복, 면역력 향상, 노화방지 개선 효과를 기대할 수 있다.\n에스터C가 인기 있는 이유로 우선 높은 체내 흡수율이 꼽힌다.\n시중에 나온 대부분의 비타민은 같은 500㎎을 섭취해도 흡수율이 50%에 불과하다.\n에스터C는 1989년 특허받은 특수 공법으로 일반 비타민C에 비해 흡수율은 2배, 생체이용률은 4배 높다. 24시간 이상 몸 밖으로 배출되지 않고 체내에서 이용된다.\n일반 비타민C는 4~6시간 정도면 체내 농도가 크게 떨어져 6시간마다 복용해야 비타민C의 효과를 충분히 볼 수 있지만 에스터C는 하루 한 번만 복용해도 건강 개선 효과를 충분히 볼 수 있다.\n중성비타민이라는 점도 높은 평가를 받고 있다.\n비타민C는 산성이 강해 섭취했을 때 속이 쓰리다는 사람이 많지만 에스터C는 비타민C의 산성을 중화시켜 공복에도 섭취할 수 있다.\n비타민C는 특성상 보관되는 곳의 온도와 산소 및 빛 노출 정도에 따라 유효 성분의 함량 변화가 생긴다.\n에스터C는 미국 특허청에서 인증받은 중성비타민 원료로 제조돼 안정성이 뛰어나다.\n실온에서 2년 이상 보관해도 90% 이상의 비타민C 함량이 보장된다.\n코셔(Kosher) 인증을 받은 점도 눈에 띈다.\n코셔는 유대인 청결식품 인증제도로, 원료의 깨끗함과 안전성을 꼼꼼하게 따진다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ 항산화 부문 대상 솔가 ‘에스터C’ 미국 건강기능식품 제조업체인 솔가는 혁신적인 기술력, 깐깐한 제조 공정, 품질 관리 등으로 유명하다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최상의 원료만 사용하기 때문에 소량 생산을 고집한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 업체가 내놓은 ‘에스터C’(사진)는 고품질 비타민C가 500㎎ 함유된 건강기능식품이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "피로 회복, 면역력 향상, 노화방지 개선 효과를 기대할 수 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "에스터C가 인기 있는 이유로 우선 높은 체내 흡수율이 꼽힌다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "시중에 나온 대부분의 비타민은 같은 500㎎을 섭취해도 흡수율이 50%에 불과하다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "에스터C는 1989년 특허받은 특수 공법으로 일반 비타민C에 비해 흡수율은 2배, 생체이용률은 4배 높다. 24시간 이상 몸 밖으로 배출되지 않고 체내에서 이용된다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "일반 비타민C는 4~6시간 정도면 체내 농도가 크게 떨어져 6시간마다 복용해야 비타민C의 효과를 충분히 볼 수 있지만 에스터C는 하루 한 번만 복용해도 건강 개선 효과를 충분히 볼 수 있다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "중성비타민이라는 점도 높은 평가를 받고 있다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "비타민C는 산성이 강해 섭취했을 때 속이 쓰리다는 사람이 많지만 에스터C는 비타민C의 산성을 중화시켜 공복에도 섭취할 수 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "비타민C는 특성상 보관되는 곳의 온도와 산소 및 빛 노출 정도에 따라 유효 성분의 함량 변화가 생긴다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "에스터C는 미국 특허청에서 인증받은 중성비타민 원료로 제조돼 안정성이 뛰어나다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "실온에서 2년 이상 보관해도 90% 이상의 비타민C 함량이 보장된다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "코셔(Kosher) 인증을 받은 점도 눈에 띈다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "코셔는 유대인 청결식품 인증제도로, 원료의 깨끗함과 안전성을 꼼꼼하게 따진다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "솔가 ‘에스터C’... 다른 비타민과 어떤 차이점이 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

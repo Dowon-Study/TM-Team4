@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198227",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "네덜란드 '국보급' 실내악단 내한공연",
+    "newsSubTitle": "",
+    "newsContent": "지난해 프랑스 음악전문잡지 '르 몽드 드 라 뮈지크'의 설문조사가 화제가 된 것은 2위 때문이었다. '그라모폰'(영국), '무지카'(이탈리아) 등 유럽의 대표적인 음악전문지의 편집장 10명에게 유럽 최고의 교향악단을 물은 결과 은메달은 네덜란드의 '콘서트헤보우 오케스트라'가 차지했다.\n1위 빈필하모닉에 3표(85표)뒤졌지만, 베를린필(79표), 런던심포니(55표)보다 좋은 평가였다.\n이 '숨은 진주' 오케스트라를 이끄는 악장.부악장.수석단원 등으로 구성된 현악 4중주단이 '암스테르담 로열 콘서트헤보우 스트링 콰르텟'(사진)이다.\n2000년 창단 연주였던 슈베르트의 피아노 5중주 '송어'(피아니스트 엠마누엘 액스 협연)는 짜임새 있는 앙상블로 호평을 받았다.\n이 실내악단의 내한공연이 28일 서울 예술의전당에서 열린다.\n서울대 음대의 최희연(피아노) 교수와 함께 슈만의 피아노 5중주 Op.44 등을 연주한다. '로열'은 자국 여왕에게 받은 칭호. 네덜란드에서 '국보'로 통하는 오케스트라의 축소판이 선보일 음악 호흡이 관심을 모으고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지난해 프랑스 음악전문잡지 '르 몽드 드 라 뮈지크'의 설문조사가 화제가 된 것은 2위 때문이었다. '그라모폰'(영국), '무지카'(이탈리아) 등 유럽의 대표적인 음악전문지의 편집장 10명에게 유럽 최고의 교향악단을 물은 결과 은메달은 네덜란드의 '콘서트헤보우 오케스트라'가 차지했다.",
+        "sentenceSize": 159
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1위 빈필하모닉에 3표(85표)뒤졌지만, 베를린필(79표), 런던심포니(55표)보다 좋은 평가였다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 '숨은 진주' 오케스트라를 이끄는 악장.부악장.수석단원 등으로 구성된 현악 4중주단이 '암스테르담 로열 콘서트헤보우 스트링 콰르텟'(사진)이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2000년 창단 연주였던 슈베르트의 피아노 5중주 '송어'(피아니스트 엠마누엘 액스 협연)는 짜임새 있는 앙상블로 호평을 받았다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 실내악단의 내한공연이 28일 서울 예술의전당에서 열린다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서울대 음대의 최희연(피아노) 교수와 함께 슈만의 피아노 5중주 Op.44 등을 연주한다. '로열'은 자국 여왕에게 받은 칭호. 네덜란드에서 '국보'로 통하는 오케스트라의 축소판이 선보일 음악 호흡이 관심을 모으고 있다.",
+        "sentenceSize": 123
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "네덜란드 실내악단 '이것' 예정... 대중의 기대감 커",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

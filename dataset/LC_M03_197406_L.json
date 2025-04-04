@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197406",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[한 끗 리빙] 옷에 밴 고기 냄새 초간단 제거법",
+    "newsSubTitle": "",
+    "newsContent": "옷에 밴 음식 냄새를 없앨 때는 옷에 물을 뿌린 후 따뜻한 바람을 쏘이면 냄새가 잘 빠진다.\n물이 섬유에 달라붙어 있던 냄새 분자를 흡수한 채 증발하기 때문에 그냥 통풍시키는 것보다 효과가 좋다.\n분무기로 골고루 물을 뿌리거나 샤워할 때 욕실 안에 옷을 걸어 습기를 머금게 한다.\n이 옷을 세탁소 비닐커버로 씌운 뒤 헤어드라이어를 사용해 따뜻한 바람을 아래서 위로 쏘여 준다.\n이때 바람은 옷을 들고 안쪽으로 넣어 줘야 골고루 냄새가 빠지고 비닐이 녹지 않는다.\n1분 정도 하고 놔뒀다가 어느 정도 식으면 다시 한번 30초에서 1분가량 반복한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "옷에 밴 음식 냄새를 없앨 때는 옷에 물을 뿌린 후 따뜻한 바람을 쏘이면 냄새가 잘 빠진다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "물이 섬유에 달라붙어 있던 냄새 분자를 흡수한 채 증발하기 때문에 그냥 통풍시키는 것보다 효과가 좋다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "분무기로 골고루 물을 뿌리거나 샤워할 때 욕실 안에 옷을 걸어 습기를 머금게 한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 옷을 세탁소 비닐커버로 씌운 뒤 헤어드라이어를 사용해 따뜻한 바람을 아래서 위로 쏘여 준다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이때 바람은 옷을 들고 안쪽으로 넣어 줘야 골고루 냄새가 빠지고 비닐이 녹지 않는다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1분 정도 하고 놔뒀다가 어느 정도 식으면 다시 한번 30초에서 1분가량 반복한다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "옷에 밴 고기 냄새 없애려면? 이마를 탁 칠 정도로 간단한 세탁 비결 전수",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

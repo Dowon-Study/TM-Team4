@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198916",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "아내의 주름살, 남편 탓? 세월 탓?",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 마눌님! 마눌님!(3) \\\"아~ 이 주름살을 어떻게 해? 성형해준다고 했잖아! 언제 해줄 건데?\\\" \\\"결국 요 모양, 요 꼴로 내 인생 끝내려고?\\\" \\\"아~ 몰라, 몰라. 내 인생 물어내!\\\" 여자들은 이상하다.\n내 아내 역시 마찬가지다.\n하루에도 수십 번씩 거울 들여다보면서 한숨을 푹푹 쉬며 토해내는 혼잣말들이다.\n사람이 늙는다는 것은 당연한 자연의 이치다.\n그런데도 자신이 늙은 것에 대해 왜 아내라는 여자들은 그 원인을 모두 남편 탓으로 돌릴까?\n설령, 아내를 공주처럼 모신다 해도 늙어 주름지는 것이야 어쩔 수 없지 않은가?\n남자인 나 역시도 늙는다.\n내가 늙는 이유는 오로지 모진 세월 탓이라 아내에게 그 책임을 막무가내로 돌리진 않는다.\n아내야! 아니, 마눌님! 그렇게도 늙는 것이 억울하면 나한테 바가지 씌우세요.\n그리해서 속이 후련하면 달게 받겠습니다.\n이 마당에 누구처럼 돈 팡팡 질러 아내 소원인 성형수술 못 해주는 남편이 남편 자격이 있나요.\n어휴~! 지지리도 못난 남편입니다요.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 마눌님! 마눌님!(3) \\\"아~ 이 주름살을 어떻게 해? 성형해준다고 했잖아! 언제 해줄 건데?\\\" \\\"결국 요 모양, 요 꼴로 내 인생 끝내려고?\\\" \\\"아~ 몰라, 몰라. 내 인생 물어내!\\\" 여자들은 이상하다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "내 아내 역시 마찬가지다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하루에도 수십 번씩 거울 들여다보면서 한숨을 푹푹 쉬며 토해내는 혼잣말들이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사람이 늙는다는 것은 당연한 자연의 이치다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그런데도 자신이 늙은 것에 대해 왜 아내라는 여자들은 그 원인을 모두 남편 탓으로 돌릴까?",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "설령, 아내를 공주처럼 모신다 해도 늙어 주름지는 것이야 어쩔 수 없지 않은가?",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "남자인 나 역시도 늙는다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "내가 늙는 이유는 오로지 모진 세월 탓이라 아내에게 그 책임을 막무가내로 돌리진 않는다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아내야! 아니, 마눌님! 그렇게도 늙는 것이 억울하면 나한테 바가지 씌우세요.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그리해서 속이 후련하면 달게 받겠습니다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 마당에 누구처럼 돈 팡팡 질러 아내 소원인 성형수술 못 해주는 남편이 남편 자격이 있나요.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "어휴~! 지지리도 못난 남편입니다요.",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "내 인생 물어내... 아내의 '이것'은 누구 탓일까",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

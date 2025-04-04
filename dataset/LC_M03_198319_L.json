@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198319",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK즐겨읽기] 골라 먹는 재미 쏠쏠한 철학 선물세트",
+    "newsSubTitle": "",
+    "newsContent": "철학? 거기다 사전? 겁낼 필요 없다.\n이 이야기들은 무겁지 않다.\n학문이 상아탑에만 갇혀 있어선 안된다는 신념에서 철학 대중화에 앞장선 런던대 교수가 영국 가디언지에 기고했던 칼럼 61개를 모았다.\n대개 두 세 페이지, 길어야 10쪽 남짓의 에세이들이다.\n갓 구워낸 식빵이 결대로 부드럽게 찢어지듯 무난하게 읽힌다.\n책은 세 개의 묶음으로 나뉜다.\n먼저 '성찰해야 할 것들'. 도덕주의.사랑.행복 같은 키워드에 저자의 생각을 담았다.\n글마다 앞머리에 짤막한 명언을 얹었다.\n예컨대 \\\"도덕을 말하는 사람은 대개 위선자다\\\"(오스카 와일드)와 같은 풍자도 기억해 두면 어느 순간에 멋지게 써먹을 수 있을 법한 말이다.\n다음으로 '버려야 할 것들'이란 묶음에는 우울.무절제.순결 등의 이야기가 담겼다.\n자유주의적 논지를 펼치는 저자는 '민족주의'도 '버려야 할 것'에 포함시킨다.\n여기서는 \\\"문화의 수준이 가장 낮을 때 민족주의적 감정이 가장 강하고 격렬하다\\\"며 괴테를 인용한다.\n거부감이 드는 독자라면 '민족주의' 항목을 '성찰해야 할 것들'에 포함시키면 되겠다.\n끝으로 '아껴야 할 것들'에는 평화.야망.리더십 등의 항목이 나온다.\n\\\"지도자는 희망을 다루는 사람\\\"(나폴레옹), \\\"노예에게는 주인이 한 명 뿐이지만 야망을 품은 사람에게는 자신이 필요하다고 생각하는 모든 사람이 주인\\\"(라 브뤼예르.17세기 프랑스의 수필가), \\\"인간이 걸려 넘어지는 것은 산이 아니라 돌이다\\\"(힌두스탄 속담) 등의 인용이 넘쳐난다.\n아주 짧은 글에도 인용구가 대여섯 개쯤은 등장한다.\n물론 그런 따옴표의 범람이 지나쳐 때론 낯간지러운 느낌도 있다.\n그러나 '독서의 계절' 가을을 가볍게 준비하는 데는 맞춤이다.\n대가들의 사상적 편린을 '사전'처럼 손쉽게 골라 맛보는 재미가 쏠쏠하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "철학? 거기다 사전? 겁낼 필요 없다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 이야기들은 무겁지 않다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "학문이 상아탑에만 갇혀 있어선 안된다는 신념에서 철학 대중화에 앞장선 런던대 교수가 영국 가디언지에 기고했던 칼럼 61개를 모았다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대개 두 세 페이지, 길어야 10쪽 남짓의 에세이들이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "갓 구워낸 식빵이 결대로 부드럽게 찢어지듯 무난하게 읽힌다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "책은 세 개의 묶음으로 나뉜다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "먼저 '성찰해야 할 것들'. 도덕주의.사랑.행복 같은 키워드에 저자의 생각을 담았다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "글마다 앞머리에 짤막한 명언을 얹었다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "예컨대 \\\"도덕을 말하는 사람은 대개 위선자다\\\"(오스카 와일드)와 같은 풍자도 기억해 두면 어느 순간에 멋지게 써먹을 수 있을 법한 말이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "다음으로 '버려야 할 것들'이란 묶음에는 우울.무절제.순결 등의 이야기가 담겼다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "자유주의적 논지를 펼치는 저자는 '민족주의'도 '버려야 할 것'에 포함시킨다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "여기서는 \\\"문화의 수준이 가장 낮을 때 민족주의적 감정이 가장 강하고 격렬하다\\\"며 괴테를 인용한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "거부감이 드는 독자라면 '민족주의' 항목을 '성찰해야 할 것들'에 포함시키면 되겠다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "끝으로 '아껴야 할 것들'에는 평화.야망.리더십 등의 항목이 나온다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "\\\"지도자는 희망을 다루는 사람\\\"(나폴레옹), \\\"노예에게는 주인이 한 명 뿐이지만 야망을 품은 사람에게는 자신이 필요하다고 생각하는 모든 사람이 주인\\\"(라 브뤼예르.17세기 프랑스의 수필가), \\\"인간이 걸려 넘어지는 것은 산이 아니라 돌이다\\\"(힌두스탄 속담) 등의 인용이 넘쳐난다.",
+        "sentenceSize": 162
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "아주 짧은 글에도 인용구가 대여섯 개쯤은 등장한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "물론 그런 따옴표의 범람이 지나쳐 때론 낯간지러운 느낌도 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "그러나 '독서의 계절' 가을을 가볍게 준비하는 데는 맞춤이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "대가들의 사상적 편린을 '사전'처럼 손쉽게 골라 맛보는 재미가 쏠쏠하다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "쉽게 읽히는 철학 이야기… 글 앞머리에 '이것'도 있어 유용",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

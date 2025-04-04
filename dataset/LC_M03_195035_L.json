@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195035",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "‘우크라 돕자’ 1억 작품 산 이충희·최란 부부",
+    "newsSubTitle": "",
+    "newsContent": "이충희 대한민국농구협회 부회장·배우 최란 부부가 우크라이나를 위한 구호기금 마련 전시에 나온 1억원 상당의 작품을 구매했다.\n유럽에 거점을 둔 갤러리 타데우스로팍과 소속 작가들은 러시아 침공을 받은 우크라이나를 위해 런던, 파리, 잘츠부르크, 서울 등 4개 도시 5개 갤러리에서 구호 기금 마련 자선 전시를 열고 있다고 30일 밝혔다.\n갤러리 소속 작가들이 기부한 회화, 조각 등의 작품을 각 지점에서 소개하는 형식으로 온라인 전시를 통해서도 볼 수 있다.\n수익금은 재난긴급위원회(DEC), 국경없는의사회, 오스트리아 적십자사에 전액 기부된다.\n타데우스로팍 서울은 현재 국내 첫 개인전을 열고 있는 영국 작가 제이슨 마틴의 ‘무제’(사진)를 이번 자선 전시에 출품했고, 이충희 농구협회 부회장·배우 최란 부부가 이를 구입했다.\n타데우스로팍 서울 관계자는 “미술애호가인 이충희·최란 부부가 전시의 좋은 취지를 듣고 선뜻 작품을 구입했다”며 “가격은 약 1억원 상당”이라고 전했다.\n1983년 설립된 타데우스로팍에는 앤서니 곰리, 안젤름 키퍼, 게오르그 바젤리츠 등 세계적인 작가들이 소속돼 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이충희 대한민국농구협회 부회장·배우 최란 부부가 우크라이나를 위한 구호기금 마련 전시에 나온 1억원 상당의 작품을 구매했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유럽에 거점을 둔 갤러리 타데우스로팍과 소속 작가들은 러시아 침공을 받은 우크라이나를 위해 런던, 파리, 잘츠부르크, 서울 등 4개 도시 5개 갤러리에서 구호 기금 마련 자선 전시를 열고 있다고 30일 밝혔다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "갤러리 소속 작가들이 기부한 회화, 조각 등의 작품을 각 지점에서 소개하는 형식으로 온라인 전시를 통해서도 볼 수 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "수익금은 재난긴급위원회(DEC), 국경없는의사회, 오스트리아 적십자사에 전액 기부된다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "타데우스로팍 서울은 현재 국내 첫 개인전을 열고 있는 영국 작가 제이슨 마틴의 ‘무제’(사진)를 이번 자선 전시에 출품했고, 이충희 농구협회 부회장·배우 최란 부부가 이를 구입했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "타데우스로팍 서울 관계자는 “미술애호가인 이충희·최란 부부가 전시의 좋은 취지를 듣고 선뜻 작품을 구입했다”며 “가격은 약 1억원 상당”이라고 전했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "1983년 설립된 타데우스로팍에는 앤서니 곰리, 안젤름 키퍼, 게오르그 바젤리츠 등 세계적인 작가들이 소속돼 있다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이충희-최란 부부, 1억 상당의 작품 구매한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

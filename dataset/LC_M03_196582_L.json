@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196582",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강 신간] '아가야 어디가 아프니' 外",
+    "newsSubTitle": "",
+    "newsContent": "*** '아가야 어디가 아프니' 아이가 아파 당황할 때 부모의 곁에서 길잡이가 되어주는 '아가야 어디가 아프니'가 출판됐다.\n네이브키즈 연세 소아과의원 손영모.양창현.이종균 공동원장이 낸 이 책은 아이가 잘 먹고, 잘 싸고, 잘 자는 육아 노하우를 부모 입장에서 꼼꼼히 담았다.\n모유와 수유, 식욕부진과 어린이 비만.예방접종 정보, 아이에게 흔한 증상 33가지와 아이를 괴롭히는 대표질환 67가지, 그리고 훌륭한 소아과 의사 찾기, 의사와 효과적으로 상담하기, 응급상황 대처법, 아이들의 나쁜 생활습관 교정 등을 소개했다.\n중앙 M&B출판, 4백80쪽, 1만9천8백원. *** '인문사회의학과 의학교육의 미래' '의사란 어떤 직업이며, 올바른 의학교육을 위해선 학생들을 어떻게 지도해야 할 것인가'라는 근본적인 질문에 답을 주는 책이 소개됐다.\n연세대 의대 정신과 전우택 교수와 의학교육과 전임강사로 재직 중인 양은배 박사가 공동으로 '인문사회의학과 의학교육의 미래'를 펴냈다.\n95% 이상이 생물학적 지식을 가르치는 교과과정 속에서 참된 인간성과 가치관을 가진 의사를 어떻게 키워내야 할 것인지에 대한 교육자로서의 고민과 새로운 교육방법, 외국의 교과과정 등이 담겨 있다.\n연세대 출판부, 278쪽, 1만원.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "*** '아가야 어디가 아프니' 아이가 아파 당황할 때 부모의 곁에서 길잡이가 되어주는 '아가야 어디가 아프니'가 출판됐다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "네이브키즈 연세 소아과의원 손영모.양창현.이종균 공동원장이 낸 이 책은 아이가 잘 먹고, 잘 싸고, 잘 자는 육아 노하우를 부모 입장에서 꼼꼼히 담았다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "모유와 수유, 식욕부진과 어린이 비만.예방접종 정보, 아이에게 흔한 증상 33가지와 아이를 괴롭히는 대표질환 67가지, 그리고 훌륭한 소아과 의사 찾기, 의사와 효과적으로 상담하기, 응급상황 대처법, 아이들의 나쁜 생활습관 교정 등을 소개했다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "중앙 M&B출판, 4백80쪽, 1만9천8백원. *** '인문사회의학과 의학교육의 미래' '의사란 어떤 직업이며, 올바른 의학교육을 위해선 학생들을 어떻게 지도해야 할 것인가'라는 근본적인 질문에 답을 주는 책이 소개됐다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연세대 의대 정신과 전우택 교수와 의학교육과 전임강사로 재직 중인 양은배 박사가 공동으로 '인문사회의학과 의학교육의 미래'를 펴냈다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "95% 이상이 생물학적 지식을 가르치는 교과과정 속에서 참된 인간성과 가치관을 가진 의사를 어떻게 키워내야 할 것인지에 대한 교육자로서의 고민과 새로운 교육방법, 외국의 교과과정 등이 담겨 있다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연세대 출판부, 278쪽, 1만원.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이가 아플 땐 '아가야 어디가 아프니' 한 권이면 끝",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

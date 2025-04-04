@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196160",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "10월부터 기증제대혈 이식환자 진료비 대폭 감소",
+    "newsSubTitle": "400만원 → 10만 3000만원, 백혈병-중증재생불량성빈혈 환자 혜택",
+    "newsContent": "다음달 16일 제대혈이식 수술을 받는 유영란(가명, 여, 43세, 조혈모세포이식 요양급여대상자). 유씨의 병명은 급성림프구성 백혈병이다.\n항암치료로는 재발가능성이 있어 조혈모세포 이식을 받아야 완치가 가능하다.\n때마침 유씨의 수술시기와 맞물려 10월 1일자로 제대혈제제 비용이 건강보험으로 적용된다.\n본인부담금이 400만원에서 최대 10만 3000원으로 인하된다.\n보건복지부(장관 문형표)는 ‘4대 중증질환 보장성 강화 계획’에 따라 다음달부터 백혈병, 중증재생불량성빈혈, 골수이형성증후군 등 난치성 혈액질환 및 암질환의 치료에 사용되는 기증제대혈제제(1unit)의 비용을 현행 400만원에서 206만원으로 인하하고, 건강보험을 적용하기로 했다.\n제대혈 이식은 수술비용을 제외하고 제대혈제제 비용은 환자가 부담해야한다.\n정부가 지난해 7월 제대혈제제비용 인하 정책을 추진했지만 수 백만원의 비용은 환자에게 여전히 적지 않은 부담이었다.\n제대혈제제비용은 제대혈이식환자가 제대혈제제를 보관하고 있는 제대혈은행에 지불하는 비용으로 제대혈제제 채취․검사․보관 등 관리에 소요된 비용이다.\n난치성 혈액질환 환자의 경제적 부담 완화를 위해 정부는 제대혈 관리비용 단가 분석을 실시, 금년 9월에 적정 공급비용 단가를 206만원으로 조정하고, 제대혈제제 비용에 대하여 건강보험에서 지원하기로 결정했다.\n이에 백혈병이나 중증 재생불량성빈혈 등 난치성 혈액질환자, 심장부정맥 수술환자의 진료비 부담이 대폭 감소한다.\n기증제대혈제제 1unit에 대하여 조혈모세포(제대혈)이식 요양급여대상자는 10만 3000원~20만 6000원의 비용을, 요양급여대상자로 인정받지 못한 자(진료비 전액본인부담)는 206만원의 비용을 부담하면 된다.\n지금까지 제대혈을 사용한 조혈모세포이식의 경우, 제대혈이식을 위한 직접적인 행위(주입료 등)는 건강보험이 적용되었으나, 제대혈제제 비용은 비급여로 환자가 전액 부담해 왔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "다음달 16일 제대혈이식 수술을 받는 유영란(가명, 여, 43세, 조혈모세포이식 요양급여대상자). 유씨의 병명은 급성림프구성 백혈병이다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "항암치료로는 재발가능성이 있어 조혈모세포 이식을 받아야 완치가 가능하다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "때마침 유씨의 수술시기와 맞물려 10월 1일자로 제대혈제제 비용이 건강보험으로 적용된다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "본인부담금이 400만원에서 최대 10만 3000원으로 인하된다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "보건복지부(장관 문형표)는 ‘4대 중증질환 보장성 강화 계획’에 따라 다음달부터 백혈병, 중증재생불량성빈혈, 골수이형성증후군 등 난치성 혈액질환 및 암질환의 치료에 사용되는 기증제대혈제제(1unit)의 비용을 현행 400만원에서 206만원으로 인하하고, 건강보험을 적용하기로 했다.",
+        "sentenceSize": 157
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "제대혈 이식은 수술비용을 제외하고 제대혈제제 비용은 환자가 부담해야한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "정부가 지난해 7월 제대혈제제비용 인하 정책을 추진했지만 수 백만원의 비용은 환자에게 여전히 적지 않은 부담이었다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "제대혈제제비용은 제대혈이식환자가 제대혈제제를 보관하고 있는 제대혈은행에 지불하는 비용으로 제대혈제제 채취․검사․보관 등 관리에 소요된 비용이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "난치성 혈액질환 환자의 경제적 부담 완화를 위해 정부는 제대혈 관리비용 단가 분석을 실시, 금년 9월에 적정 공급비용 단가를 206만원으로 조정하고, 제대혈제제 비용에 대하여 건강보험에서 지원하기로 결정했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이에 백혈병이나 중증 재생불량성빈혈 등 난치성 혈액질환자, 심장부정맥 수술환자의 진료비 부담이 대폭 감소한다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "기증제대혈제제 1unit에 대하여 조혈모세포(제대혈)이식 요양급여대상자는 10만 3000원~20만 6000원의 비용을, 요양급여대상자로 인정받지 못한 자(진료비 전액본인부담)는 206만원의 비용을 부담하면 된다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "지금까지 제대혈을 사용한 조혈모세포이식의 경우, 제대혈이식을 위한 직접적인 행위(주입료 등)는 건강보험이 적용되었으나, 제대혈제제 비용은 비급여로 환자가 전액 부담해 왔다.",
+        "sentenceSize": 96
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "기증제대혈 이식환자들에게 전해진 희소식은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

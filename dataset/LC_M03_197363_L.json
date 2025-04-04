@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197363",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 정부 손길 절실한 만성림프구성백혈병 환자",
+    "newsSubTitle": "전문의 칼럼 - 김진석 세브란스병원 혈액내과 교수",
+    "newsContent": "백혈병은 종류에 따라 유병률이나 발병 연령, 질병 특성, 치료제가 모두 다른 질병이다.\n그중 국내에서 전체 백혈병의 0.4~0.5%만 차지할 정도로 극히 드문 백혈병이 있다.\n한해 국내 신규 환자가 100~150명에 불과해 희귀 질환으로 분류된 ‘만성림프구성백혈병’이다.\n이 질환의 특징은 대부분 65세 이상에서 주로 발생한다는 점이다.\n환자 수가 적고 환자 대부분이 고령이라는 질병 특성 때문에 다른 백혈병에 비해 오랫동안 인지도나 관심도 측면에서 소외돼 왔다.\n또 다른 특징은 지속해서 재발이 반복된다는 것이다.\n반복적 재발을 치료하기 위해 다양한 치료 약제가 필수적이다.\n치료 실패 이후 다음 치료제로 쓸 수 있는 약제가 승인된 환경이 중요하다.\n국내 치료 환경은 아직 개선돼야 할 점이 많다.\n미국·유럽의 경우 오래전부터 신약 도입으로 치료 기회를 보장해 왔으나 국내에서는 2010년 이후에야 신약이 도입되고 건강보험 적용이 진행됐다.\n2018년에는 2차 치료 이상에서 B세포 수용체 경로 저해제인 경구용 표적치료제에 건강보험이 적용되면서 재발해도 치료 기회를 이어나갈 수 있게 됐다.\n그러나 이 약을 통한 치료에 실패하거나 부작용이 생겨 치료를 지속할 수 없는 환자들이 지속해서 생기고 있다.\n새로운 기전의 후속 치료제가 필요한 상황이다.\n다행히 최근 국내에도 기존 화학면역요법이나 B세포 수용체 경로 저해제에 반응이 없거나 이미 두 번 재발한 환자에게 쓸 수 있는 새로운 기전의 약제 사용을 허가받았다.\n해외에서는 독성이 낮고 우수한 효능을 보이는 해당 신약을 이미 널리 사용하고 있다.\n국내 만성림프구성백혈병 환자도 신약으로 치료받을 수 있도록 환경이 개선돼야 한다.\n이번 신약의 빠른 건강보험 적용에 대해 의료진이나 환자들의 기대가 매우 크다.\n기대여명이 2년 이하일 정도로 심각한 질환이라는 점에서 두 번 이상 재발한 환자에서 3차 치료 이상의 약제로 사용될 이번 치료제에 대한 보험 급여 승인은 매우 중요하다.\n또한 희귀 질환에 사용되는 약제고, 추가로 3차 이상의 단계에서 사용하므로 정부가 부담해야 할 사회·경제적 비용 또한 크지 않으리라 생각한다.\n의료진 입장에서 비용적인 문제로 환자에게 적절한 치료 방법을 제시하지 못하게 되거나 환자가 치료 비용을 감당하지 못해 치료를 중단하는 일이 발생하지 않기를 희망한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "백혈병은 종류에 따라 유병률이나 발병 연령, 질병 특성, 치료제가 모두 다른 질병이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그중 국내에서 전체 백혈병의 0.4~0.5%만 차지할 정도로 극히 드문 백혈병이 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한해 국내 신규 환자가 100~150명에 불과해 희귀 질환으로 분류된 ‘만성림프구성백혈병’이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 질환의 특징은 대부분 65세 이상에서 주로 발생한다는 점이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "환자 수가 적고 환자 대부분이 고령이라는 질병 특성 때문에 다른 백혈병에 비해 오랫동안 인지도나 관심도 측면에서 소외돼 왔다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 다른 특징은 지속해서 재발이 반복된다는 것이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "반복적 재발을 치료하기 위해 다양한 치료 약제가 필수적이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "치료 실패 이후 다음 치료제로 쓸 수 있는 약제가 승인된 환경이 중요하다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "국내 치료 환경은 아직 개선돼야 할 점이 많다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "미국·유럽의 경우 오래전부터 신약 도입으로 치료 기회를 보장해 왔으나 국내에서는 2010년 이후에야 신약이 도입되고 건강보험 적용이 진행됐다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "2018년에는 2차 치료 이상에서 B세포 수용체 경로 저해제인 경구용 표적치료제에 건강보험이 적용되면서 재발해도 치료 기회를 이어나갈 수 있게 됐다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그러나 이 약을 통한 치료에 실패하거나 부작용이 생겨 치료를 지속할 수 없는 환자들이 지속해서 생기고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "새로운 기전의 후속 치료제가 필요한 상황이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "다행히 최근 국내에도 기존 화학면역요법이나 B세포 수용체 경로 저해제에 반응이 없거나 이미 두 번 재발한 환자에게 쓸 수 있는 새로운 기전의 약제 사용을 허가받았다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "해외에서는 독성이 낮고 우수한 효능을 보이는 해당 신약을 이미 널리 사용하고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "국내 만성림프구성백혈병 환자도 신약으로 치료받을 수 있도록 환경이 개선돼야 한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이번 신약의 빠른 건강보험 적용에 대해 의료진이나 환자들의 기대가 매우 크다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "기대여명이 2년 이하일 정도로 심각한 질환이라는 점에서 두 번 이상 재발한 환자에서 3차 치료 이상의 약제로 사용될 이번 치료제에 대한 보험 급여 승인은 매우 중요하다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "또한 희귀 질환에 사용되는 약제고, 추가로 3차 이상의 단계에서 사용하므로 정부가 부담해야 할 사회·경제적 비용 또한 크지 않으리라 생각한다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "의료진 입장에서 비용적인 문제로 환자에게 적절한 치료 방법을 제시하지 못하게 되거나 환자가 치료 비용을 감당하지 못해 치료를 중단하는 일이 발생하지 않기를 희망한다.",
+        "sentenceSize": 92
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "치명적인 죽음의 질병인 만성림프구성백혈병... 정부 지원 절실",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

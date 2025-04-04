@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194734",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[World클릭] 환자 골수 '도둑질'한 중국 병원",
+    "newsSubTitle": "",
+    "newsContent": "중국의 한 의사가 수술받으러 온 환자의 골수를 몰래 뽑아내 줄기세포 실험에 썼다가 발각됐다.\n중국 랴오닝(遼寧)성 선양(瀋陽)시에 있는 선양의학원 펑톈(奉天)병원 소속 한 의사는 2004년 초 교통사고로 다리에 중상을 입고 입원한 린(林)모가 전신마취 상태로 수술을 받는 동안 골수를 무단 채취했다.\n이 같은 사실은 중국 '화상신보(華商晨報)'의 보도를 통해 밝혀졌다.\n린은 입원 뒤 수십 차례에 걸쳐 수술을 받았으며, 이 중 지난해 2월 수술 당시 골수를 '빼앗긴' 것으로 추정된다.\n뒤늦게 이 사실을 알게 된 그는 주치의 등 병원 관계자들과 협상을 벌여 지난해 8월 50만 위안(약 6000만원)의 합의금을 받았다.\n이 병원의 한 관계자는 \\\"병원 측이 여러 경로를 통해 '누구든 이 사실을 외부에 알릴 경우 징계할 것'이라고 경고했다\\\"고 털어놨다.\n중국의 상당수 대형 의료기관들은 현재 골수 줄기세포 체외 배양 실험에 열을 올리고 있다.\n현지 언론들은 '중화골수은행' 관계자의 말을 인용해 \\\"골수 도둑질이 과연 이 병원만의 일일지 의심스럽다\\\"고 보도했다. [베이징=연합뉴스]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중국의 한 의사가 수술받으러 온 환자의 골수를 몰래 뽑아내 줄기세포 실험에 썼다가 발각됐다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "중국 랴오닝(遼寧)성 선양(瀋陽)시에 있는 선양의학원 펑톈(奉天)병원 소속 한 의사는 2004년 초 교통사고로 다리에 중상을 입고 입원한 린(林)모가 전신마취 상태로 수술을 받는 동안 골수를 무단 채취했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 같은 사실은 중국 '화상신보(華商晨報)'의 보도를 통해 밝혀졌다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "린은 입원 뒤 수십 차례에 걸쳐 수술을 받았으며, 이 중 지난해 2월 수술 당시 골수를 '빼앗긴' 것으로 추정된다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "뒤늦게 이 사실을 알게 된 그는 주치의 등 병원 관계자들과 협상을 벌여 지난해 8월 50만 위안(약 6000만원)의 합의금을 받았다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 병원의 한 관계자는 \\\"병원 측이 여러 경로를 통해 '누구든 이 사실을 외부에 알릴 경우 징계할 것'이라고 경고했다\\\"고 털어놨다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "중국의 상당수 대형 의료기관들은 현재 골수 줄기세포 체외 배양 실험에 열을 올리고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현지 언론들은 '중화골수은행' 관계자의 말을 인용해 \\\"골수 도둑질이 과연 이 병원만의 일일지 의심스럽다\\\"고 보도했다. [베이징=연합뉴스]",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "골수 줄기세포 실험 열 올리는 중국... 아무리 그래도 실험 위해 도둑질까지 한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196404",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BookBriefing] 자동차의 역사 外",
+    "newsSubTitle": "",
+    "newsContent": "◆자동차 120년의 역사를 풍부한 사진과 함께 설명한 『자동차의 역사』(마이클 볼러 외 지음, 하윤숙 옮김, 예담, 632쪽, 10만원)가 출간됐다.\n이탈리아의 전문가 3명이 자동차 발달에 큰 발자취를 남긴 인물, 기념비적 자동차 모델은 물론 자동차 경주를 세계적 행사로 키운 사람들까지 생생하게 보여준다.\n◆『대학·중용(大學·中庸)』(이세동 옮김, 을유문화사, 300쪽, 1만3000원)이 ‘을유세계사상고전’ 시리즈의 하나로 새롭게 완역돼 나왔다.\n이상적인 지도자가 되기 위한 세 가지 목표와 이를 이루는 8단계 과정을 설명한 ‘대학’과 세계의 본질과 삶의 자세를 깊이 있게 제시한 ‘중용’은 사서오경에 포함된 유학의 핵심서로 꼽힌다.\n◆베스트셀러 ‘스케치 쉽게 하기’시리즈의 저자인 김충원 교수가 ‘채색의 시간’시리즈의 첫 권으로 『채색의 시간-채색의 기초』(진선출판사, 72쪽, 9800원)를 선보였다.\n성인을 위한 색연필 채색 교재로, 초보자들이 채색 과정을 단계별로 직접 따라 할 수 있도록 구성한 점이 돋보인다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆자동차 120년의 역사를 풍부한 사진과 함께 설명한 『자동차의 역사』(마이클 볼러 외 지음, 하윤숙 옮김, 예담, 632쪽, 10만원)가 출간됐다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이탈리아의 전문가 3명이 자동차 발달에 큰 발자취를 남긴 인물, 기념비적 자동차 모델은 물론 자동차 경주를 세계적 행사로 키운 사람들까지 생생하게 보여준다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "◆『대학·중용(大學·中庸)』(이세동 옮김, 을유문화사, 300쪽, 1만3000원)이 ‘을유세계사상고전’ 시리즈의 하나로 새롭게 완역돼 나왔다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이상적인 지도자가 되기 위한 세 가지 목표와 이를 이루는 8단계 과정을 설명한 ‘대학’과 세계의 본질과 삶의 자세를 깊이 있게 제시한 ‘중용’은 사서오경에 포함된 유학의 핵심서로 꼽힌다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◆베스트셀러 ‘스케치 쉽게 하기’시리즈의 저자인 김충원 교수가 ‘채색의 시간’시리즈의 첫 권으로 『채색의 시간-채색의 기초』(진선출판사, 72쪽, 9800원)를 선보였다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "성인을 위한 색연필 채색 교재로, 초보자들이 채색 과정을 단계별로 직접 따라 할 수 있도록 구성한 점이 돋보인다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘채색의 시간’ 시리즈, 책 한 권으로 전문가 수준의 채색 도달할 수 있어",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194893",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "이동희〈사진으로 보는 서양철학기행 1〉",
+    "newsSubTitle": "",
+    "newsContent": "서양철학이라고 하는 큰 덩어리에 대한 접근 방식으로 이 책은 답사기 형식을 빌었다는 점이 특이하다.\n게다가 저자가 직접 발품을 팔면서 찍은 풍부한 사진을 곁들여 철학서의 딱딱함을 피한 흔적이 짙다.\n이번 기행의 범위는 '트로이에서 에페소스까지' . 만약 철학적 이론에 초점을 맞춘 책이었다면 시작은 그리스 철학의 비조(鼻祖) 탈레스였을 것이다.\n그러나 작가는 그리스 신화와 주요한 유적지의 역사와 문화에 초점을 맞춘 '생활 속의 철학' 으로 관점을 바꿨다.\n트로이 전쟁의 영웅 아가멤논의 도시 미케네와 그리스 문화의 요람 그레타, 피타고라스의 고향 사모스 등이 무대다.\n저자는 한신대 강사로 헤겔 철학 연구자다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서양철학이라고 하는 큰 덩어리에 대한 접근 방식으로 이 책은 답사기 형식을 빌었다는 점이 특이하다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "게다가 저자가 직접 발품을 팔면서 찍은 풍부한 사진을 곁들여 철학서의 딱딱함을 피한 흔적이 짙다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 기행의 범위는 '트로이에서 에페소스까지' . 만약 철학적 이론에 초점을 맞춘 책이었다면 시작은 그리스 철학의 비조(鼻祖) 탈레스였을 것이다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러나 작가는 그리스 신화와 주요한 유적지의 역사와 문화에 초점을 맞춘 '생활 속의 철학' 으로 관점을 바꿨다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "트로이 전쟁의 영웅 아가멤논의 도시 미케네와 그리스 문화의 요람 그레타, 피타고라스의 고향 사모스 등이 무대다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "저자는 한신대 강사로 헤겔 철학 연구자다.",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "트로이에서 에페소스까지, 저자의 발품에 풍부한 사진도… 알고 보니?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

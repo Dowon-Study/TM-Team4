@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193147",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "외상후스트레스장애 'PTSD' 노화 촉진, 염색체 말단 세포 노화 가속화 '이럴수가'",
+    "newsSubTitle": "",
+    "newsContent": "'PTSD 노화 촉진' PTSD 노화 촉진 소식이 전해져 화제를 모으고 있다.\n지난 9일 미국 샌디에이고 캘리포니아 대학 의과대학 정신과전문의 제임스 로어 박사가 PTSD의 영향을 다룬 64편의 연구논문을 종합분석한 결과 이 같은 사실이 밝혀졌다고 한 매체가 보도했다.\n로어 박사는 PTSD는 염색체의 말단부인 텔로미어가 세포가 노화되면서 점점 짧아지는 속도를 가속화시키는 것으로 나타났다고 설명했다.\n텔로미어란 구두끈 끝을 풀어지지 않도록 플라스틱으로 싸매는 것처럼 세포의 염색체 말단부가 풀어지지 않게 보호하는 부분이다.\n이 말단부는 세포가 한 번 분열할 때마다 점점 풀리면서 그 길이가 조금씩 짧아지며 그에 따라 세포는 점차 노화돼 죽게 된다.\n이와 함께 노화와 관련된 염증표지인 C-반응성 단백질(CRP)과 종양괴사인자 알파(TNAα)를 증가시키고 노화와 관련된 질환인 심혈관질환, 2형(성인)당뇨병, 치매 위험도 높이는 것으로 밝혀졌다.\nPTSD는 또 조기사망과도 어느 정도 연관성이 있는 것으로 나타났다.\n이에 대해 로어 박사는 PTSD가 심한 우울증, 식이장애, 불면증, 약물남용 같은 이미 잘 알려진 정신적 부작용만이 아니라 생물학적 노화도 촉진시킨다는 사실을 보여주는 것이라고 설명했다.\n우리나라에서도 PTSD 환자가 늘고 있다.\nPTSD는 큰 사고나 재난·전쟁 등을 경험한 후 공포와 불안을 떨치지 못해 정상적인 생활을 못하는 질환으로 외상후스트레스장애이다.\n지난해 건강보험심사평가원에 따르면 2009년 5929명이던 PTSD 환자는 2013년 6741명으로 늘었다.\n한림대 한강성심병원 PTSD클리닉 이병철 교수는 “평범한 사람의 80~90%가 일상 생활을 하다 끔찍한 일을 경험하는데, 이 중에서 10~20%는 PTSD를 겪는다”고 말한다.\nPTSD 환자는 남자보다는 여자가 더 많다. 2013년 PTSD 환자 중 여자는4099명으로 남자(2642명)의 1.5배에 달한다.\n전문가들은 PTSD를 예방하고 잘 관리하기 위해선 초기에 적극적인 대응이 필요하다고 입을 모은다.\n하규섭 원장은 “사고 직후 1~2달을 어떻게 보내느냐에 따라 PTSD 여부가 갈린다”며 “증상이 나타난 후에 치료하는 건 늦을 수 있다”고 말했다.\n온라인 중앙일보 'PTSD 노화 촉진'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'PTSD 노화 촉진' PTSD 노화 촉진 소식이 전해져 화제를 모으고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 9일 미국 샌디에이고 캘리포니아 대학 의과대학 정신과전문의 제임스 로어 박사가 PTSD의 영향을 다룬 64편의 연구논문을 종합분석한 결과 이 같은 사실이 밝혀졌다고 한 매체가 보도했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "로어 박사는 PTSD는 염색체의 말단부인 텔로미어가 세포가 노화되면서 점점 짧아지는 속도를 가속화시키는 것으로 나타났다고 설명했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "텔로미어란 구두끈 끝을 풀어지지 않도록 플라스틱으로 싸매는 것처럼 세포의 염색체 말단부가 풀어지지 않게 보호하는 부분이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 말단부는 세포가 한 번 분열할 때마다 점점 풀리면서 그 길이가 조금씩 짧아지며 그에 따라 세포는 점차 노화돼 죽게 된다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이와 함께 노화와 관련된 염증표지인 C-반응성 단백질(CRP)과 종양괴사인자 알파(TNAα)를 증가시키고 노화와 관련된 질환인 심혈관질환, 2형(성인)당뇨병, 치매 위험도 높이는 것으로 밝혀졌다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "PTSD는 또 조기사망과도 어느 정도 연관성이 있는 것으로 나타났다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 대해 로어 박사는 PTSD가 심한 우울증, 식이장애, 불면증, 약물남용 같은 이미 잘 알려진 정신적 부작용만이 아니라 생물학적 노화도 촉진시킨다는 사실을 보여주는 것이라고 설명했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "우리나라에서도 PTSD 환자가 늘고 있다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "PTSD는 큰 사고나 재난·전쟁 등을 경험한 후 공포와 불안을 떨치지 못해 정상적인 생활을 못하는 질환으로 외상후스트레스장애이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "지난해 건강보험심사평가원에 따르면 2009년 5929명이던 PTSD 환자는 2013년 6741명으로 늘었다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "한림대 한강성심병원 PTSD클리닉 이병철 교수는 “평범한 사람의 80~90%가 일상 생활을 하다 끔찍한 일을 경험하는데, 이 중에서 10~20%는 PTSD를 겪는다”고 말한다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "PTSD 환자는 남자보다는 여자가 더 많다. 2013년 PTSD 환자 중 여자는4099명으로 남자(2642명)의 1.5배에 달한다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "전문가들은 PTSD를 예방하고 잘 관리하기 위해선 초기에 적극적인 대응이 필요하다고 입을 모은다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "하규섭 원장은 “사고 직후 1~2달을 어떻게 보내느냐에 따라 PTSD 여부가 갈린다”며 “증상이 나타난 후에 치료하는 건 늦을 수 있다”고 말했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "온라인 중앙일보 'PTSD 노화 촉진'",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "염색체 말단부 텔로미어 짧아지는 속도 점점 빨라진다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

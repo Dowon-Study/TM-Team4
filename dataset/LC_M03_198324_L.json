@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198324",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[이책과주말을] 진짜 웃기나 안 웃기나 만원 빵!",
+    "newsSubTitle": "",
+    "newsContent": "새참 성석제.윤대녕 외 지음 북스토리,168쪽, 8500원 #1 아내가 물어온다.\n당신, 요즘 다른 여자 사귀고 있지.\n남편, 뜨끔하다(사실 그는 매달 한 번씩 젊은 여성을 만나고 있다). 그러나 목숨 걸고 부인한다.\n성철 스님 같은 나를 속인(俗人) 취급 말라고. 아내, 증거가 확실하다고 다그친다.\n그가 명동에서 다른 여자와 팔짱 끼고 가는 걸 본 사람이 있다면서.\n남편이 '백기'를 들 순간, 아내가 섭섭한 마음을 전한다.\n자기 여동생과 멋진 곳에서 밥 먹지 말라며. 휴~. #2 파리에 사는 한국인 주부. TV 켜기가 민망하다.\n비누.향수 등의 광고에 남녀의 노골적 정사 장면이 등장한다.\n극장 앞에선 중년의 남녀가 무아지경의 키스에 빠진다.\n파리지앵의 성개방 풍조에 심드렁해질 쯤, 유치원에 다니던 아이가 엉뚱한 요구를 한다.\n이웃 프랑스 남자와 '무엇'을 하란다.\n인형 같이 예쁜 서양 아이를 동생을 갖고 싶다나.\n아이의 계속되는 '협박'이 여간 고민되는 게 아니다.\n소설가 16명이 웃음보따리를 풀었다.\n콩트 형식의 짧은 글로 일상의 구석구석을 유쾌하게 풀어놓았다.\n수다가 넘치는 TV 토크쇼의 '문학판'쯤 될까.\n결혼.섹스.아파트.낚시.목욕탕.여행.외도.영화 등 소재도 자유롭다.\n출출할 때 간단히 허기를 면해주는 새참처럼 세상사 무거울 때 한쪽 한쪽 넘기는 재미가 색다르다.\n옴니버스 만화책을 펼친 듯한 느낌도 준다.\n우리 시대 작가들의 재치와 유머로 열대야의 짜증을 시원스럽게 날려 보낼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "새참 성석제.윤대녕 외 지음 북스토리,168쪽, 8500원 #1 아내가 물어온다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "당신, 요즘 다른 여자 사귀고 있지.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "남편, 뜨끔하다(사실 그는 매달 한 번씩 젊은 여성을 만나고 있다). 그러나 목숨 걸고 부인한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "성철 스님 같은 나를 속인(俗人) 취급 말라고. 아내, 증거가 확실하다고 다그친다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그가 명동에서 다른 여자와 팔짱 끼고 가는 걸 본 사람이 있다면서.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "남편이 '백기'를 들 순간, 아내가 섭섭한 마음을 전한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "자기 여동생과 멋진 곳에서 밥 먹지 말라며. 휴~. #2 파리에 사는 한국인 주부. TV 켜기가 민망하다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "비누.향수 등의 광고에 남녀의 노골적 정사 장면이 등장한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "극장 앞에선 중년의 남녀가 무아지경의 키스에 빠진다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "파리지앵의 성개방 풍조에 심드렁해질 쯤, 유치원에 다니던 아이가 엉뚱한 요구를 한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이웃 프랑스 남자와 '무엇'을 하란다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "인형 같이 예쁜 서양 아이를 동생을 갖고 싶다나.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "아이의 계속되는 '협박'이 여간 고민되는 게 아니다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "소설가 16명이 웃음보따리를 풀었다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "콩트 형식의 짧은 글로 일상의 구석구석을 유쾌하게 풀어놓았다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "수다가 넘치는 TV 토크쇼의 '문학판'쯤 될까.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "결혼.섹스.아파트.낚시.목욕탕.여행.외도.영화 등 소재도 자유롭다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "출출할 때 간단히 허기를 면해주는 새참처럼 세상사 무거울 때 한쪽 한쪽 넘기는 재미가 색다르다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "옴니버스 만화책을 펼친 듯한 느낌도 준다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "우리 시대 작가들의 재치와 유머로 열대야의 짜증을 시원스럽게 날려 보낼 수 있다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인형 같이 예쁜 '이것' 갖고 싶다며 엄마를 조르는 아이…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

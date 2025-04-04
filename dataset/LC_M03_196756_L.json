@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196756",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "수술 까다로운 간암 ‘혈관 차단 주사’로 간단히",
+    "newsSubTitle": "암세포 영양공급 통로 차단하는 간동맥 화학색전술",
+    "newsContent": "[김진구 기자] 간암은 치료방법이 비교적 많다.\n초기에 발견됐다면 다양한 치료를 시도할 수 있다.\n간 절제술이나 고주파 열치료는 완치를 기대할 정도로 예후가 좋다.\n하지만 조건이 있다.\n예전에 간질환을 앓았던 적이 없어야 한다.\n가장 이상적인 방법은 간 이식이다.\n다만, 적합한 기증자를 찾을 때까지 기다려야 한다는 단점이 있다.\n질병관리본부 장기이식관리센터에 따르면 뇌사자 간을 이식받는 데까지 평균 267일이 걸린다.\n이도저도 안 될 땐 ‘간동맥 화학색전술’을 쓴다.\n간암세포에 영양을 공급하는 동맥혈관에 항암제를 투여하는 방법이다.\n항암제가 혈관을 막아 간암세포의 사멸을 유도한다.\n완치는 힘들지만 달느 치료와 달리 간암이 진행된 환자에게도 적용할 수 있다.\n이 치료법은 사타구니에 위치한 대동맥에 얇은 관을 삽입해 간동맥까지 이동시키는 방법으로 진행된다.\n시술 부위에 국소마취만 하기 때문에 전신마취나 개복에 대한 부담이 적다는 게 장점이다.\n관이 간동맥에 들어가면 혈관 조영제를 주사해 암의 위치와 크기를 파악한다.\n암으로 향하는 동맥을 찾아 항암제와 색전물질을 넣으면 시술은 마무리된다.\n강동경희대병원 소화기내과 신현필 교수는 “간동맥 화학색전술은 이식을 포함한 수술이나 고주파열치료 등이 어려운 환자에서 생존률을 높이는 방법”이라며 “마취나 수술 없이 평균 3일 단기간 입원으로 할 수 있다”고 말했다.\n그는 “간이식을 포함해 완치할 수 있는 치료를 당장 받을 수 없다면 생존기간을 늘리기 위해 자주 사용된다”고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 간암은 치료방법이 비교적 많다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "초기에 발견됐다면 다양한 치료를 시도할 수 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "간 절제술이나 고주파 열치료는 완치를 기대할 정도로 예후가 좋다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 조건이 있다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예전에 간질환을 앓았던 적이 없어야 한다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "가장 이상적인 방법은 간 이식이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다만, 적합한 기증자를 찾을 때까지 기다려야 한다는 단점이 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "질병관리본부 장기이식관리센터에 따르면 뇌사자 간을 이식받는 데까지 평균 267일이 걸린다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이도저도 안 될 땐 ‘간동맥 화학색전술’을 쓴다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "간암세포에 영양을 공급하는 동맥혈관에 항암제를 투여하는 방법이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "항암제가 혈관을 막아 간암세포의 사멸을 유도한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "완치는 힘들지만 달느 치료와 달리 간암이 진행된 환자에게도 적용할 수 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이 치료법은 사타구니에 위치한 대동맥에 얇은 관을 삽입해 간동맥까지 이동시키는 방법으로 진행된다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "시술 부위에 국소마취만 하기 때문에 전신마취나 개복에 대한 부담이 적다는 게 장점이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "관이 간동맥에 들어가면 혈관 조영제를 주사해 암의 위치와 크기를 파악한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "암으로 향하는 동맥을 찾아 항암제와 색전물질을 넣으면 시술은 마무리된다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "강동경희대병원 소화기내과 신현필 교수는 “간동맥 화학색전술은 이식을 포함한 수술이나 고주파열치료 등이 어려운 환자에서 생존률을 높이는 방법”이라며 “마취나 수술 없이 평균 3일 단기간 입원으로 할 수 있다”고 말했다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "그는 “간이식을 포함해 완치할 수 있는 치료를 당장 받을 수 없다면 생존기간을 늘리기 위해 자주 사용된다”고 설명했다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "기증자 찾을 때까지 오매불망 기다려야 하는 간 이식, 초간단 ‘혈관 차단 주사’로 극복",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

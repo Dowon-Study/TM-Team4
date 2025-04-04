@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196793",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "유방암치료제 '할라벤' FDA 지방육종 적응증 획득",
+    "newsSubTitle": "대조군 대비 7개월 이상 생존기간 길어",
+    "newsContent": "전이성 유방암치료제 ‘할라벤(성분명 에리불린메실산염)’이 최근 미국 식품의약국(FDA)로부터 연부조직육종 중 하나인 지방육종에 적응증을 획득했다고 한국에자이가 2일 밝혔다.\n한국에자이에 따르면 구체적인 적응증은 안트라사이클린 계열 약물을 포함한 항암치료 경험이 있으면서 수술 제거가 불가하거나 전이성인 지방육종 환자 치료다.\n이번 FDA 승인은 할라벤의 생존기간 연장 효과를 입증한 대규모 임상연구 결과가 바탕이 됐다.\n연부조직육종에 흔히 사용하는 항암제 ‘다카바진’의 효과·안전성을 대조한 3상 임상연구에서 할라벤은 전반적 생존기간을 통계적으로 유의하게 개선시키는 것으로 나타났다.\n국부 진행성 또는 전이성 지방육종 성인 환자 143명을 분석한 실험에서 할라벤 치료군(71명)의 생존기간 중간값은 15.6개월로 다카바진 치료군(72명) 8.4개월 대비 7개월 이상 길었다.\n또한 무진행생존율 역시 할라벤 치료군의 중앙값은 2.9개월로 다카바진 치료군의 1.7개월보다 1.2개월 높았다.\n할라벤 치료를 받은 환자 중에 나타난 가장 흔한 이상반응은 피로, 메스꺼움, 탈모증, 변비, 말초신경증, 복통, 발열이며 이는 할라벤의 알려진 부작용 프로파일과 일치했다.\n에자이는 할라벤의 연부조직육종 치료 용도 승인신청서를 유럽과 일본에도 제출했으며, 국내 승인신청도 검토 중이다.\n한국에자이 고홍병 대표는 “이번 적응증 추가는 할라벤의 생존기간 연장 효과를 다시 한 번 증명한 것”이라며 “전이성 유방암 환자를 비롯한 국내 암 환자들이 더 나은 치료혜택을 볼 수 있도록 최선의 노력을 다할 것”이라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전이성 유방암치료제 ‘할라벤(성분명 에리불린메실산염)’이 최근 미국 식품의약국(FDA)로부터 연부조직육종 중 하나인 지방육종에 적응증을 획득했다고 한국에자이가 2일 밝혔다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국에자이에 따르면 구체적인 적응증은 안트라사이클린 계열 약물을 포함한 항암치료 경험이 있으면서 수술 제거가 불가하거나 전이성인 지방육종 환자 치료다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 FDA 승인은 할라벤의 생존기간 연장 효과를 입증한 대규모 임상연구 결과가 바탕이 됐다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연부조직육종에 흔히 사용하는 항암제 ‘다카바진’의 효과·안전성을 대조한 3상 임상연구에서 할라벤은 전반적 생존기간을 통계적으로 유의하게 개선시키는 것으로 나타났다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "국부 진행성 또는 전이성 지방육종 성인 환자 143명을 분석한 실험에서 할라벤 치료군(71명)의 생존기간 중간값은 15.6개월로 다카바진 치료군(72명) 8.4개월 대비 7개월 이상 길었다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 무진행생존율 역시 할라벤 치료군의 중앙값은 2.9개월로 다카바진 치료군의 1.7개월보다 1.2개월 높았다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "할라벤 치료를 받은 환자 중에 나타난 가장 흔한 이상반응은 피로, 메스꺼움, 탈모증, 변비, 말초신경증, 복통, 발열이며 이는 할라벤의 알려진 부작용 프로파일과 일치했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "에자이는 할라벤의 연부조직육종 치료 용도 승인신청서를 유럽과 일본에도 제출했으며, 국내 승인신청도 검토 중이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한국에자이 고홍병 대표는 “이번 적응증 추가는 할라벤의 생존기간 연장 효과를 다시 한 번 증명한 것”이라며 “전이성 유방암 환자를 비롯한 국내 암 환자들이 더 나은 치료혜택을 볼 수 있도록 최선의 노력을 다할 것”이라고 말했다.",
+        "sentenceSize": 127
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유방암치료제 할라벤, '지방육종 적응증' 획득… 생존기간 늘려주는 것으로 확인됐다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

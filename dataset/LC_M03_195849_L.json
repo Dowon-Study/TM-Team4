@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195849",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "올림푸스한국, 의료 트레이닝 센터 건립 발표",
+    "newsSubTitle": "올림푸스한국-인천시 투자협정 체결. 2017년 완공 예정",
+    "newsContent": "▲ 올림푸스한국은 12일 인천 송도에 위치한 쉐라톤 호텔에서 인천광역시 경제자유구역청과 투자협약을 체결하고, ‘올림푸스한국 의료 트레이닝 센터(Olympus Korea Training & Education Center)’ 건립을 공식 발표했다.\n인천경제자유구역청 차장 조동암(사진 왼쪽)과 올림푸스한국 오카다 나오키 사장(우)가 투자 협약을 체결한 뒤 기념사진을 찍고 있다. [올림푸스 한국] 올림푸스한국은 12일 인천 송도 쉐라톤 호텔에서 인천광역시 경제자유구역청과 투자협약을 체결하고‘올림푸스한국 의료 트레이닝 센터(Olympus Korea Training & Education Center)’ 건립을 공식 발표했다.\n오는 2017년까지 총 사업비 363억 원이 투입되며, 5056.6㎡(1530평) 부지에 연면적 약 6611㎡(2,000평), 지하 1층, 지상 4층 규모로 건립된다.\n올핌푸스한국 관계자는 \\\"올림푸스가 세계 6번째로 건립하는 한국 의료 트레이닝 센터는 중국 광저우 다음으로 세계 두 번째로 큰 규모로, 외국계 메디컬 기업의 트레이닝 센터 건립 금액으로는 역대 최고\\\"라고 밝혔다.\n의료 트레이닝 센터에는 실험실, 대강당, 신제품 쇼룸, 의료기기 서비스 센터 등 다양한 시설이 들어선다.\n연간 방문객은 1만 여명에 달할 것으로 전망된다.\n전문적인 제품 교육과 시연 기회를 제공하면서 의료진과 임직원의 전문성 강화, 기술 향상의 두 마리 토끼를 잡을 수 있을 것이라 올림푸스 측은 기대하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "▲ 올림푸스한국은 12일 인천 송도에 위치한 쉐라톤 호텔에서 인천광역시 경제자유구역청과 투자협약을 체결하고, ‘올림푸스한국 의료 트레이닝 센터(Olympus Korea Training & Education Center)’ 건립을 공식 발표했다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "인천경제자유구역청 차장 조동암(사진 왼쪽)과 올림푸스한국 오카다 나오키 사장(우)가 투자 협약을 체결한 뒤 기념사진을 찍고 있다. [올림푸스 한국] 올림푸스한국은 12일 인천 송도 쉐라톤 호텔에서 인천광역시 경제자유구역청과 투자협약을 체결하고‘올림푸스한국 의료 트레이닝 센터(Olympus Korea Training & Education Center)’ 건립을 공식 발표했다.",
+        "sentenceSize": 210
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오는 2017년까지 총 사업비 363억 원이 투입되며, 5056.6㎡(1530평) 부지에 연면적 약 6611㎡(2,000평), 지하 1층, 지상 4층 규모로 건립된다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "올핌푸스한국 관계자는 \\\"올림푸스가 세계 6번째로 건립하는 한국 의료 트레이닝 센터는 중국 광저우 다음으로 세계 두 번째로 큰 규모로, 외국계 메디컬 기업의 트레이닝 센터 건립 금액으로는 역대 최고\\\"라고 밝혔다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "의료 트레이닝 센터에는 실험실, 대강당, 신제품 쇼룸, 의료기기 서비스 센터 등 다양한 시설이 들어선다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연간 방문객은 1만 여명에 달할 것으로 전망된다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "전문적인 제품 교육과 시연 기회를 제공하면서 의료진과 임직원의 전문성 강화, 기술 향상의 두 마리 토끼를 잡을 수 있을 것이라 올림푸스 측은 기대하고 있다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "올림푸스 한국, 인천 송도에 의료 트레이닝 센터 건립… 규모와 시설은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

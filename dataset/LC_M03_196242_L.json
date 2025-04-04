@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196242",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "뭐든 잘 먹고도 날씬한 친구 있으면 다이어트 실패 확률 높다",
+    "newsSubTitle": "",
+    "newsContent": "뭐든 닥치는대로 잘 먹는데도 살이 안 찌고 날씬한 사람이 있다.\n이런 친구를 둔 사람은 다이어트에 실패할 가능성이 높다는 연구가 나왔다.\n캐나다 브리티시 컬럼비아대 브렌트 맥페런 교수가 이끄는 연구팀이 210명의 여자 대학생들을 대상으로 실시한 연구 결과다.\n연구팀은 설문 조사 결과의 정확성을 높이기 위해 영화 관람에 대한 조사인 것처럼 꾸몄다.\n여학생과 팀원이 2인 1조를 이뤄 영화를 보면서 간식을 먹게했다.\n연구원이 먼저 1인분을 먹었다.\n조사 결과 여학생들은 옆에 날씬한 동료가 간식을 많이 먹을 때 간식을 따라서 많이 먹었다.\n뚱뚱한 동료가 간식을 많이 먹을 때는 이에 비해 덜 먹었다.\n날씬한 동료가 사탕 30개를 먹었을 때 참가 여학생은 평균 10개의 사탕을 먹었으며 뚱뚱한 동료가 사탕 30개를 먹을 때는 평균 6개를 먹는 데 그쳤다.\n연구팀은 “식사 습관에는 사회적 압력이 개입한다”며 “주변 환경에 따라 무엇을 얼마나 먹는지가 달라진다”고 말했다.\n또 “하지만 그렇다고 앞으로 날씬한 친구와의 저녁 약속을 취소하라는 얘기는 아니다”라고 덧붙였다.\n사람마다 운동 습관이나 신진 대사 작용이 다르기 때문에 친구의 식습관을 무조건 따라할 게 아니라 자신이 세워 놓은 목표에 충실해야 한다는 것이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "뭐든 닥치는대로 잘 먹는데도 살이 안 찌고 날씬한 사람이 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이런 친구를 둔 사람은 다이어트에 실패할 가능성이 높다는 연구가 나왔다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "캐나다 브리티시 컬럼비아대 브렌트 맥페런 교수가 이끄는 연구팀이 210명의 여자 대학생들을 대상으로 실시한 연구 결과다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연구팀은 설문 조사 결과의 정확성을 높이기 위해 영화 관람에 대한 조사인 것처럼 꾸몄다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여학생과 팀원이 2인 1조를 이뤄 영화를 보면서 간식을 먹게했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구원이 먼저 1인분을 먹었다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "조사 결과 여학생들은 옆에 날씬한 동료가 간식을 많이 먹을 때 간식을 따라서 많이 먹었다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "뚱뚱한 동료가 간식을 많이 먹을 때는 이에 비해 덜 먹었다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "날씬한 동료가 사탕 30개를 먹었을 때 참가 여학생은 평균 10개의 사탕을 먹었으며 뚱뚱한 동료가 사탕 30개를 먹을 때는 평균 6개를 먹는 데 그쳤다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "연구팀은 “식사 습관에는 사회적 압력이 개입한다”며 “주변 환경에 따라 무엇을 얼마나 먹는지가 달라진다”고 말했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "또 “하지만 그렇다고 앞으로 날씬한 친구와의 저녁 약속을 취소하라는 얘기는 아니다”라고 덧붙였다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "사람마다 운동 습관이나 신진 대사 작용이 다르기 때문에 친구의 식습관을 무조건 따라할 게 아니라 자신이 세워 놓은 목표에 충실해야 한다는 것이다.",
+        "sentenceSize": 81
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "많이 먹는데도 날씬한 친구··· 내 다이어트에는 악영향?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

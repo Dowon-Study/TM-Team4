@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198486",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[날씨] 8일 전국 흐리고 비",
+    "newsSubTitle": "",
+    "newsContent": "◇ 8일 = 중부지방은 북쪽을 지나는 기압골의 영향을 점차 받겠고, 제주도와 남부지방은 남해상을 지나는 저기압의 영향을 받겠다.\n제주도 지방은 흐리고 가끔 비 (강수확률 70~90%) 가 온 후 밤에 개겠고 남부지방은 흐리고 한때 비 (강수확률 30~70%) 가 온 후 밤에 서쪽지방으로부터 차차 개겠다.\n중부지방은 차차 흐려져 오후 늦게 한때 비 (강수확률 30%) 가 조금 오는 곳이 있겠다.\n낮 최고기온은 23~26도로 어제와 비슷하겠다.\n바다의 물결은 남해 먼바다에서 2~4m로 점차 높게 일고 그 밖의 해상도 1~3m로 다소 높게 일겠다.\n해상에 짙은 안개 끼는 곳이 많고, 돌풍과 함께 천둥번개 치는 곳도 있겠으니 항해 및 조업하는 선박들의 주의가 필요하다 (예상 강수량) 제주도.경상남도.북한지방 = 5~20㎜ 전남 남해안 지방 = 5~10㎜ ◇ 9일 = 중부지방은 기압골의 영향에서 점차 벗어나겠고 남부지방은 고기압의 영향을 받겠다.\n서울.경기.강원 영서지방은 흐린 후 차차 맑아지겠고 강원 영동지방은 구름 많겠다.\n충청이남 지방은 구름조금 끼다 한때 구름 많겠다.\n아침에 짙은 안개끼는 곳이 많겠다.\n아침 최저기온은 11~18도, 낮 최고기온은 22~25도의 분포가 되겠다.\n바다의 물결은 먼바다에서 1.5~2.5m, 앞바다에서 1~2m로 일겠다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◇ 8일 = 중부지방은 북쪽을 지나는 기압골의 영향을 점차 받겠고, 제주도와 남부지방은 남해상을 지나는 저기압의 영향을 받겠다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "제주도 지방은 흐리고 가끔 비 (강수확률 70~90%) 가 온 후 밤에 개겠고 남부지방은 흐리고 한때 비 (강수확률 30~70%) 가 온 후 밤에 서쪽지방으로부터 차차 개겠다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "중부지방은 차차 흐려져 오후 늦게 한때 비 (강수확률 30%) 가 조금 오는 곳이 있겠다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "낮 최고기온은 23~26도로 어제와 비슷하겠다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "바다의 물결은 남해 먼바다에서 2~4m로 점차 높게 일고 그 밖의 해상도 1~3m로 다소 높게 일겠다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해상에 짙은 안개 끼는 곳이 많고, 돌풍과 함께 천둥번개 치는 곳도 있겠으니 항해 및 조업하는 선박들의 주의가 필요하다 (예상 강수량) 제주도.경상남도.북한지방 = 5~20㎜ 전남 남해안 지방 = 5~10㎜ ◇ 9일 = 중부지방은 기압골의 영향에서 점차 벗어나겠고 남부지방은 고기압의 영향을 받겠다.",
+        "sentenceSize": 167
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "서울.경기.강원 영서지방은 흐린 후 차차 맑아지겠고 강원 영동지방은 구름 많겠다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "충청이남 지방은 구름조금 끼다 한때 구름 많겠다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아침에 짙은 안개끼는 곳이 많겠다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "아침 최저기온은 11~18도, 낮 최고기온은 22~25도의 분포가 되겠다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "바다의 물결은 먼바다에서 1.5~2.5m, 앞바다에서 1~2m로 일겠다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "8일 날씨, 중부지방은 기압골의 영향을 받겠고 '이 지역'은 저기압 영향받겠다 예측…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

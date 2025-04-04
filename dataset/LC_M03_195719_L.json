@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195719",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "가공육 발암물질 파문…식약처 실태조사 나서",
+    "newsSubTitle": "첨가물·제조과정 상 위해성 평가…농림부와 TF구성 본격 조사 착수",
+    "newsContent": "가공육이 1군 발암물질로 지정돼 파문이 일고 있는 가운데 식품당국이 자체 조사에 나서기로했다.\n27일 식품의약품안전처는 WHO의 발암물질 규정에 따라 소시지나 햄 등의 가공육과 붉은 고기의 위해성을 평가한다고 밝혔다.\n첨가물이나 제조 과정에서 위해성이 있는지 면밀하게 들여다 보며 평가할 계획이다.\n또한 1인당 섭취량과 조리법 등의 가이드라인을 만들어 배포할 예정이다.\n이를 위해 식약처는 농림축산식품부 등 관계부처와 협의해 태스크포스를 구성하고 전문가 자문단을 꾸려 본격적인 조사에 착수할 방침이다.\n식약처 관계자는 \\\"이 문제는 전 세계적인 현안인 만큼, WHO의 발표내용을 분석하고 각국 대응도 주시하면서 자체 위해평가 작업을 벌이는 방안을 추진할 것\\\"이라고 말했다.\n앞서 WHO 산하 국제암연구소(IARC)는 가공육을 담배나 석면과 같은 1군 발암물질로, 쇠고기·돼지고기 등 붉은 고기는 2A군 발암물질로 분류했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가공육이 1군 발암물질로 지정돼 파문이 일고 있는 가운데 식품당국이 자체 조사에 나서기로했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 식품의약품안전처는 WHO의 발암물질 규정에 따라 소시지나 햄 등의 가공육과 붉은 고기의 위해성을 평가한다고 밝혔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "첨가물이나 제조 과정에서 위해성이 있는지 면밀하게 들여다 보며 평가할 계획이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 1인당 섭취량과 조리법 등의 가이드라인을 만들어 배포할 예정이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이를 위해 식약처는 농림축산식품부 등 관계부처와 협의해 태스크포스를 구성하고 전문가 자문단을 꾸려 본격적인 조사에 착수할 방침이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "식약처 관계자는 \\\"이 문제는 전 세계적인 현안인 만큼, WHO의 발표내용을 분석하고 각국 대응도 주시하면서 자체 위해평가 작업을 벌이는 방안을 추진할 것\\\"이라고 말했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 WHO 산하 국제암연구소(IARC)는 가공육을 담배나 석면과 같은 1군 발암물질로, 쇠고기·돼지고기 등 붉은 고기는 2A군 발암물질로 분류했다.",
+        "sentenceSize": 83
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가공육 1군 발암물질 파문… 식약처 실태조사 결과는 언제쯤?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196070",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "혈관성 치매? '중풍을 앓고 난 후 갑자기…' 원인은?",
+    "newsSubTitle": "",
+    "newsContent": "혈관성 치매가 눈길을 끌고 있다.\n혈관성 치매는 뇌혈관 질환에 의해 뇌조직이 손상을 입어 치매가 발생하는 경우이다.\n1672년 토마스 윌리스에 의해 뇌졸중 후 치매 증례가 처음 보고된 후 17세기 말경부터 혈관성 치매의 용어가 사용되기 시작했다.\n혈관성 치매는 알츠하이머병에 의한 치매와는 달리 초기부터 한쪽 마비, 구음 장애, 안면마비, 연하곤란, 한쪽 시력상실, 시야장애, 보행장애, 소변 실금 등 신경학적 증상을 동반하는 경우가 많다.\n혈관성 치매는 갑자기 발생하거나 급격히 상태가 악화되는 경우가 흔하며 '중풍을 앓고 난 후 갑자기 인지기능이 떨어졌다'고 하는 경우 혈관성 치매의 가능성이 높다.\n모든 혈관성 치매가 이러한 경과를 보이는 것은 아니다.\n뇌의 실핏줄이라고 할 수 있는 소혈관들이 점진적으로 좁아지거나 막히는 원인에 의한 경우 점진적인 경과를 보이기도 한다.\n그러나 뇌혈관질환 혹은 뇌졸중 있다고 해서 반드시 혈관성 치매가 나타나는 것은 아니며 손상 받는 뇌의 부위, 크기, 손상 횟수에 따라 혈관성 치매 발병 여부와 심각도가 결정이 된다.\n혈관성 치매를 예방하려면 는 우선 고혈압, 당뇨, 심장병, 높은 콜레스테롤을 치료해야 한다.\n과음, 흡연을 삼가하고 체력에 맞게 하루 30분 이상 적절한 운동을 하며 건강한 식생활을 유지해야 한다.\n온라인 중앙일보 ‘혈관성 치매, 혈관성 치매, 혈관성 치매, 혈관성 치매, 혈관성 치매, 혈관성 치매, 혈관성 치매’",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "혈관성 치매가 눈길을 끌고 있다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "혈관성 치매는 뇌혈관 질환에 의해 뇌조직이 손상을 입어 치매가 발생하는 경우이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1672년 토마스 윌리스에 의해 뇌졸중 후 치매 증례가 처음 보고된 후 17세기 말경부터 혈관성 치매의 용어가 사용되기 시작했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "혈관성 치매는 알츠하이머병에 의한 치매와는 달리 초기부터 한쪽 마비, 구음 장애, 안면마비, 연하곤란, 한쪽 시력상실, 시야장애, 보행장애, 소변 실금 등 신경학적 증상을 동반하는 경우가 많다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "혈관성 치매는 갑자기 발생하거나 급격히 상태가 악화되는 경우가 흔하며 '중풍을 앓고 난 후 갑자기 인지기능이 떨어졌다'고 하는 경우 혈관성 치매의 가능성이 높다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "모든 혈관성 치매가 이러한 경과를 보이는 것은 아니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "뇌의 실핏줄이라고 할 수 있는 소혈관들이 점진적으로 좁아지거나 막히는 원인에 의한 경우 점진적인 경과를 보이기도 한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러나 뇌혈관질환 혹은 뇌졸중 있다고 해서 반드시 혈관성 치매가 나타나는 것은 아니며 손상 받는 뇌의 부위, 크기, 손상 횟수에 따라 혈관성 치매 발병 여부와 심각도가 결정이 된다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "혈관성 치매를 예방하려면 는 우선 고혈압, 당뇨, 심장병, 높은 콜레스테롤을 치료해야 한다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "과음, 흡연을 삼가하고 체력에 맞게 하루 30분 이상 적절한 운동을 하며 건강한 식생활을 유지해야 한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인 중앙일보 ‘혈관성 치매, 혈관성 치매, 혈관성 치매, 혈관성 치매, 혈관성 치매, 혈관성 치매, 혈관성 치매’",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "혈관성 치매의 다양한 원인과 예방법은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

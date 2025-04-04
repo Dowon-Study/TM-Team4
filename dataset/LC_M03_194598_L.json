@@ -1,0 +1,231 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194598",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[황세희의건강예보] '술 권하는 연말'",
+    "newsSubTitle": "과음 뒤 사흘 금주 식사 전에는 마시지 말아야",
+    "newsContent": "송년회가 시작됐다.\n과음.과식과의 전쟁도 함께 치러야 한다.\n우선 술자리에 참석하기 전 다음 4가지 항목(CAGE 검사)을 점검해 보자.\n① 주량을 줄여야 된다고 느낀 적이 있다 ② 술마시는 데 대해 남이 간섭하면 싫다 ③ 과음 후 죄책감을 느낀 적이 있다 ④ 해장술을 마신 적이 있다.\n순전히 의학적으로만 말할 때 이 중 하나에 해당되면 당신은 음주에 문제가 있는 것이다.\n두 개 이상이면 알코올 중독 전문가 상담이 필요하다.\n현재 국내 성인 중 알코올 남용자는 16%, 알코올 중독자는 10%다.\n알코올 남용은 술을 마신 뒤 주정.폭력, 지각이나 결석.의처증.질병(간염 등)의 경험이 있는데도 술을 마시는 경우다.\n술을 안 마실 때 금단증상(불안.초조.땀.피로.무력감.구역질 등)이 나타나면 알코올 중독이다.\n이는 뇌의 마약 체계가 작동하는 일종의 뇌 질환이다.\n의학계에선 마약 중독과 같이 취급한다.\n연말이 되면 한국은 술 권하는 사회가 된다.\n알코올 장애자가 양산될 가능성도 그만큼 커진다.\n그렇다면 그나마 현명하게 술을 마시는 방법은 뭘까.\n우선 식전엔 단 한 잔도 마시지 말아야 한다.\n빈속에 술을 마시면 식후보다 혈중 알코올 농도가 2배 증가한다.\n안주는 삼겹살처럼 기름진 고기보다는 단백질.비타민.무기질 등이 많은 생선.두부.과일 등이 좋다.\n알코올은 탈수 촉진제다.\n따라서 음주 전, 음주 중, 음주 후 물을 충분히 마시는 게 좋다.\n커피.사우나 등은 탈수 촉진제다.\n중추신경계 마비를 촉진시키는 해장술 등은 금해야 한다.\n의학적 건강 음주량은 하루에 석 잔 이하(여성은 절반)다.\n부득불 과음한 다음엔 3일간 금주해야 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 23,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "송년회가 시작됐다.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과음.과식과의 전쟁도 함께 치러야 한다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "우선 술자리에 참석하기 전 다음 4가지 항목(CAGE 검사)을 점검해 보자.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "① 주량을 줄여야 된다고 느낀 적이 있다 ② 술마시는 데 대해 남이 간섭하면 싫다 ③ 과음 후 죄책감을 느낀 적이 있다 ④ 해장술을 마신 적이 있다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "순전히 의학적으로만 말할 때 이 중 하나에 해당되면 당신은 음주에 문제가 있는 것이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "두 개 이상이면 알코올 중독 전문가 상담이 필요하다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "현재 국내 성인 중 알코올 남용자는 16%, 알코올 중독자는 10%다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "알코올 남용은 술을 마신 뒤 주정.폭력, 지각이나 결석.의처증.질병(간염 등)의 경험이 있는데도 술을 마시는 경우다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "술을 안 마실 때 금단증상(불안.초조.땀.피로.무력감.구역질 등)이 나타나면 알코올 중독이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이는 뇌의 마약 체계가 작동하는 일종의 뇌 질환이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "의학계에선 마약 중독과 같이 취급한다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "연말이 되면 한국은 술 권하는 사회가 된다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "알코올 장애자가 양산될 가능성도 그만큼 커진다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그렇다면 그나마 현명하게 술을 마시는 방법은 뭘까.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "우선 식전엔 단 한 잔도 마시지 말아야 한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "빈속에 술을 마시면 식후보다 혈중 알코올 농도가 2배 증가한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "안주는 삼겹살처럼 기름진 고기보다는 단백질.비타민.무기질 등이 많은 생선.두부.과일 등이 좋다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "알코올은 탈수 촉진제다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "따라서 음주 전, 음주 중, 음주 후 물을 충분히 마시는 게 좋다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "커피.사우나 등은 탈수 촉진제다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "중추신경계 마비를 촉진시키는 해장술 등은 금해야 한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "의학적 건강 음주량은 하루에 석 잔 이하(여성은 절반)다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "부득불 과음한 다음엔 3일간 금주해야 한다.",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "송년회 술자리 시즌에서 현명하게 마시는 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

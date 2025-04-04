@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198846",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스 신간『 잠깐이라도 푹 자고 싶어요』외 1건",
+    "newsSubTitle": "",
+    "newsContent": "━ 『 잠깐이라도 푹 자고 싶어요』 파트릭 르무안 외 5인 지음 위즈덤하우스 236쪽 1만4000원 밤잠을 설치고 낮 동안 피로감에 시달리는 현대인이 많다.\n만성적인 수면장애는 삶의 질을 심각하게 훼손하고 건강에 악영향을 끼친다. 『잠깐이라도 푹 자고 싶어요』는 수면 전문의가 짚어준 숙면법 가이드북이다.\n개인별 정서와 생체리듬에 맞는 수면법을 찾아 최상의 컨디션으로 생활할 수 있도록 안내한다.\n최적의 수면 환경을 만드는 법과 숙면에 도움되는 음식과 자세, 낮잠 활용법을 담았다.\n━ 『직업병에 지친 당신 풀어주고 늘여주고 강화하라』 김경은 지음 북스고 124쪽 1만3500원 직장인이라면 누구나 크고 작은 통증을 달고 산다.\n이런 통증 대부분은 특별한 원인이 없다.\n이때 뭉친 근육을 풀어주는 것만으로도 통증 완화 효과를 얻을 수 있다. 『직업병에 지친 당신 풀어주고 늘여주고 강화하라』는 일상생활에서 따라 하기 쉬운 목·어깨·허리 등 부위별 운동법을 전수한다.\n거북목증후군·손목터널증후군 등에 도움 되는 마사지와 스트레칭, 근육 강화 운동법을 일러스트와 함께 실었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ 『 잠깐이라도 푹 자고 싶어요』 파트릭 르무안 외 5인 지음 위즈덤하우스 236쪽 1만4000원 밤잠을 설치고 낮 동안 피로감에 시달리는 현대인이 많다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "만성적인 수면장애는 삶의 질을 심각하게 훼손하고 건강에 악영향을 끼친다. 『잠깐이라도 푹 자고 싶어요』는 수면 전문의가 짚어준 숙면법 가이드북이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "개인별 정서와 생체리듬에 맞는 수면법을 찾아 최상의 컨디션으로 생활할 수 있도록 안내한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최적의 수면 환경을 만드는 법과 숙면에 도움되는 음식과 자세, 낮잠 활용법을 담았다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "━ 『직업병에 지친 당신 풀어주고 늘여주고 강화하라』 김경은 지음 북스고 124쪽 1만3500원 직장인이라면 누구나 크고 작은 통증을 달고 산다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이런 통증 대부분은 특별한 원인이 없다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이때 뭉친 근육을 풀어주는 것만으로도 통증 완화 효과를 얻을 수 있다. 『직업병에 지친 당신 풀어주고 늘여주고 강화하라』는 일상생활에서 따라 하기 쉬운 목·어깨·허리 등 부위별 운동법을 전수한다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "거북목증후군·손목터널증후군 등에 도움 되는 마사지와 스트레칭, 근육 강화 운동법을 일러스트와 함께 실었다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신간 '잠깐이라도 푹 자고 싶어요', 이것에 시달리는 현대인에 '인기'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

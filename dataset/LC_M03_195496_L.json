@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195496",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "현재 여자 vs. 남자 논란 일어난 휴가철 사진 한장",
+    "newsSubTitle": "",
+    "newsContent": "여름 휴가철, 푸른 바다를 배경으로 한 멋진 '인생 사진'이 SNS에 쏟아진다.\n그런 가운데 현재 휴가 사진 한 장이 온라인 상에서 뜨거운 논란을 일으키고 있다.\n이 사람은 남자일까 여자일까.\n네티즌들은 둘로 나눠져 논쟁 중이다.\n가슴 근육이 발달한 남자라는 의견과 허리 부분에 살색이 보이는 것으로 봐선 '모노키니(상의와 하의가 이어져 있는 비키니 스타일의 수영복, 원피스 수영복과 달리 허리 부분이 드러나 여성스러움을 강조한다.)'를 입은 여자라는 의견이 대표적이다.\n여러 의견이 나오면서 대세는 '남자처럼 보이는 여자'로 가는 듯하다.\n일부 네티즌들이 해당 사진을 거꾸로 뒤집으면서 여자로 보이는 정황이 더 뚜렷해졌기 때문이다.\n사진 찍은 자세, 신체 제모 상태, 수영복의 모습 등이 더욱 여자라는 근거를 더하고 있다.\n현재까지 정확한 사실은 알려지지 않았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "여름 휴가철, 푸른 바다를 배경으로 한 멋진 '인생 사진'이 SNS에 쏟아진다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그런 가운데 현재 휴가 사진 한 장이 온라인 상에서 뜨거운 논란을 일으키고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 사람은 남자일까 여자일까.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "네티즌들은 둘로 나눠져 논쟁 중이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "가슴 근육이 발달한 남자라는 의견과 허리 부분에 살색이 보이는 것으로 봐선 '모노키니(상의와 하의가 이어져 있는 비키니 스타일의 수영복, 원피스 수영복과 달리 허리 부분이 드러나 여성스러움을 강조한다.)'를 입은 여자라는 의견이 대표적이다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "여러 의견이 나오면서 대세는 '남자처럼 보이는 여자'로 가는 듯하다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "일부 네티즌들이 해당 사진을 거꾸로 뒤집으면서 여자로 보이는 정황이 더 뚜렷해졌기 때문이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "사진 찍은 자세, 신체 제모 상태, 수영복의 모습 등이 더욱 여자라는 근거를 더하고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "현재까지 정확한 사실은 알려지지 않았다.",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SNS에 논란을 일으킨 '인생 사진'은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

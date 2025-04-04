@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195802",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[유태우의 서금요법] 햇볕 화상 땐 G7·13, A8·14·16·18, J23 자극",
+    "newsSubTitle": "",
+    "newsContent": "햇볕이 강렬해지고 있다.\n자외선에 의한 피부 손상이 우려된다.\n자외선에 의한 피부광과민증은 교감신경을 항진시켜 모세혈관을 수축시킨다.\n이에 따라 피부가 화끈거리고 붉은 반점이나 좁쌀 모양의 발진이 생긴다.\n이때는 속히 얼음물로 화끈거림을 진정시켜야 한다.\n햇볕에 노출될 때면 얇은 옷이나 자외선 차단제로 피부를 보호해야 한다.\n화상이 심할 때 화장품을 바르면 더욱 악화할 수 있으니 주의한다.\n일광화상도 일종의 열상이므로 속히 해열시키고, 열의 독성을 빼줘야 한다.\n햇볕 화상을 입었을 때는 아드레날린 분비를 억제하고, 부신피질호르몬을 촉진하는 방법을 써야 한다.\n심장의 열이 나는 증상을 억제하기 위해 심기맥의 G7·13과 A8·14·16·18, J23을 자극한다.\n교감신경이 극도로 항진하면 대장에서 긴장과민을 일으켜 혈액순환장애가 나타나므로 이를 억제하는 대장승방인 D2·6, I38, H6과 E22를 공략한다.\n부신피질호르몬 분비를 촉진하기 위해선 L4·5와 I18도 압박한다.\n그러면 부신피질호르몬이 분비돼 소염·진통 반응과 아드레날린 억제로 모세혈관이 확장돼 혈액순환이 좋아진다.\n해독작용을 강화시켜 열 증상을 속히 없애주면 화끈거림이나 염증, 따끔한 증상이 없어지고, 피부가 속히 회복된다.\n압진봉으로 10~30번씩 간헐적인 압박자극을 5~30분간 계속한다.\n그 다음 기마크봉 은색 소형을 위의 치방에 붙이거나 심하면 금봉 은색소형을 붙인다.\n화상 부위는 얼음물로 씻거나, 순한 크림(과민반응이 없는 것)을 바른다.\n손에서 상응점을 찾아 금봉을 붙이면 더욱 좋다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "햇볕이 강렬해지고 있다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "자외선에 의한 피부 손상이 우려된다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "자외선에 의한 피부광과민증은 교감신경을 항진시켜 모세혈관을 수축시킨다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 따라 피부가 화끈거리고 붉은 반점이나 좁쌀 모양의 발진이 생긴다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이때는 속히 얼음물로 화끈거림을 진정시켜야 한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "햇볕에 노출될 때면 얇은 옷이나 자외선 차단제로 피부를 보호해야 한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "화상이 심할 때 화장품을 바르면 더욱 악화할 수 있으니 주의한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "일광화상도 일종의 열상이므로 속히 해열시키고, 열의 독성을 빼줘야 한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "햇볕 화상을 입었을 때는 아드레날린 분비를 억제하고, 부신피질호르몬을 촉진하는 방법을 써야 한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "심장의 열이 나는 증상을 억제하기 위해 심기맥의 G7·13과 A8·14·16·18, J23을 자극한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "교감신경이 극도로 항진하면 대장에서 긴장과민을 일으켜 혈액순환장애가 나타나므로 이를 억제하는 대장승방인 D2·6, I38, H6과 E22를 공략한다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "부신피질호르몬 분비를 촉진하기 위해선 L4·5와 I18도 압박한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그러면 부신피질호르몬이 분비돼 소염·진통 반응과 아드레날린 억제로 모세혈관이 확장돼 혈액순환이 좋아진다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "해독작용을 강화시켜 열 증상을 속히 없애주면 화끈거림이나 염증, 따끔한 증상이 없어지고, 피부가 속히 회복된다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "압진봉으로 10~30번씩 간헐적인 압박자극을 5~30분간 계속한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "그 다음 기마크봉 은색 소형을 위의 치방에 붙이거나 심하면 금봉 은색소형을 붙인다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "화상 부위는 얼음물로 씻거나, 순한 크림(과민반응이 없는 것)을 바른다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "손에서 상응점을 찾아 금봉을 붙이면 더욱 좋다.",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "자외선에 피부가 화끈거리거나 붉은 반점이나 발진 생겼을 때… 진정시키는 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_192853",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "구글, 자동 태그기능에서 \\\"고릴라\\\" 삭제",
+    "newsSubTitle": "",
+    "newsContent": "\\\"내 친구는 고릴라가 아니다\\\" 지난 2015년한 흑인 소프트웨어 개발자가 자신의 트위터 계정에 사진을 게시하며 한 말이다.\n캡쳐 사진에는 구글 자사의 사진 서비스인 \\\"구글 포토스\\\"에서 자신이 친구와 찍은 사진을 \\\"고릴라\\\"로 자동태그 한 것을 보여주고 있다.\n이 사건으로 인해 구글은 인종차별적이라며 많은 비난을 받았었다.\n이 \\\"고릴라\\\" 사건으로 인해 구글은 적지 않은 타격을 입었다.\n이에 대해 구글의 관계자는 곧 \\\"우리는 이 문제가 아주 끔찍하고 진심으로 죄송해하고 있다.\\\" 라며 \\\"우리는 아직 자동 태그 시스템에 대해서 더 나아가야 하며 앞으로 어떻게 이러한 문제를 방지할 것인지에 대해 노력할 것\\\"이라고 말했다.\n3년이 지난 지금, 이에 대한 문제는 사라진 듯했으나 곧 미국 언론사 와이어드(Wired)에서 새로운 조사결과를 발표했다.\n바로 구글은 자동 태그 시스템에서 \\\"고릴라\\\" 라는 분류를 제거했다는 것이다.\n고릴라 외에도 고릴라와 비슷한 침팬지 (chimpanzees) 와 원숭이 (monkeys) 또한 자동 태그 시스템에서 사용되는 알고리즘에서 제외한 것으로 알려졌다.\n구글 포토스에 수많은 영장류 사진을 업로드 한 후 어떤 식으로 분류되는지 관찰했다.\n구글 포토스는 개코원숭이 (baboons), 긴팔원숭이 (gibbons), 마모셋원숭이 (marmosets ) 과 같은 다른 영장류는 정확히 분류해냈으나 고릴라 (gorillas) 나 침팬지 (chimpanzees) 등은 분류 자체가 불가능한 것으로 나타났다.\n많은 사용자들은 구글에서 이러한 인종차별적인 문제를 해결하기 위해서 더 정교하고 복잡한 알고리즘을 개발하는 것이 아닌, 단순히 분류 자체를 삭제했다는 점에서 구글을 비난하고 있다.\n2015년 5월에 발표된 구글 포토스 (Google Photos)는 구글에서 제공하는 사진 서비스이다.\n구글 포토스가 제공하는 서비스 중 한 가지는 자동태그 시스템이다.\n알고리즘을 이용하여 사진들을 사용자 대신 알아서 분류해주는 서비스이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"내 친구는 고릴라가 아니다\\\" 지난 2015년한 흑인 소프트웨어 개발자가 자신의 트위터 계정에 사진을 게시하며 한 말이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "캡쳐 사진에는 구글 자사의 사진 서비스인 \\\"구글 포토스\\\"에서 자신이 친구와 찍은 사진을 \\\"고릴라\\\"로 자동태그 한 것을 보여주고 있다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 사건으로 인해 구글은 인종차별적이라며 많은 비난을 받았었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 \\\"고릴라\\\" 사건으로 인해 구글은 적지 않은 타격을 입었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 대해 구글의 관계자는 곧 \\\"우리는 이 문제가 아주 끔찍하고 진심으로 죄송해하고 있다.\\\" 라며 \\\"우리는 아직 자동 태그 시스템에 대해서 더 나아가야 하며 앞으로 어떻게 이러한 문제를 방지할 것인지에 대해 노력할 것\\\"이라고 말했다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "3년이 지난 지금, 이에 대한 문제는 사라진 듯했으나 곧 미국 언론사 와이어드(Wired)에서 새로운 조사결과를 발표했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "바로 구글은 자동 태그 시스템에서 \\\"고릴라\\\" 라는 분류를 제거했다는 것이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "고릴라 외에도 고릴라와 비슷한 침팬지 (chimpanzees) 와 원숭이 (monkeys) 또한 자동 태그 시스템에서 사용되는 알고리즘에서 제외한 것으로 알려졌다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "구글 포토스에 수많은 영장류 사진을 업로드 한 후 어떤 식으로 분류되는지 관찰했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "구글 포토스는 개코원숭이 (baboons), 긴팔원숭이 (gibbons), 마모셋원숭이 (marmosets ) 과 같은 다른 영장류는 정확히 분류해냈으나 고릴라 (gorillas) 나 침팬지 (chimpanzees) 등은 분류 자체가 불가능한 것으로 나타났다.",
+        "sentenceSize": 145
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "많은 사용자들은 구글에서 이러한 인종차별적인 문제를 해결하기 위해서 더 정교하고 복잡한 알고리즘을 개발하는 것이 아닌, 단순히 분류 자체를 삭제했다는 점에서 구글을 비난하고 있다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "2015년 5월에 발표된 구글 포토스 (Google Photos)는 구글에서 제공하는 사진 서비스이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "구글 포토스가 제공하는 서비스 중 한 가지는 자동태그 시스템이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "알고리즘을 이용하여 사진들을 사용자 대신 알아서 분류해주는 서비스이다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "흑인에게 '고릴라' 인종차별 논란에 졸속 처리",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

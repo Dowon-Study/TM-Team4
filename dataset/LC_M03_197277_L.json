@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197277",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "이근배시인 세번째 시집 \\\"19년이나 걸렸네요\\\"",
+    "newsSubTitle": "",
+    "newsContent": "중견시인 이근배(63)씨가 1985년 장편 서사시집 '한강' 이후 19년 만에 세번째 시집 '사람들이 새가 되고 싶은 까닭을 안다'(문학세계)를 펴냈다.\n시를 쓰고 전달하는 데도 속도와 능률을 무시할 수 없는 요즘 시집 한 권 출간에 20년 가까이 뜸을 들인 이씨의 보폭은 시대의 일반적인 추세를 거스르는 것이라고 할 만하다. 26일 이씨는 \\\"그동안 발표한 시들은 모두 서너 권 분량이지만 그 중 한 권 분량을 우선 추렸다\\\"고 말했다.\n이씨는 정가 7500원의 보급판 시집과 함께 천연가죽 표지로 장정한 정가 3만원의 '한정 100부 특장본'도 만들었다.\n주로 지인들에게 '무료로' 증정되는 특장본 앞부분에 시인은 붓글씨 육필로 각각 다른 시구를 적어 넣는다.\n예를 들어 특장본 23책 앞부분에는 '모래가 山(산)을 이루기까지 地球(지구)는 몇 光年(광년)이나 헛바퀴를 돌았는가 沙泉(사천)'이라는 글귀가 적혀 있다.\n사천은 공초(空超) 오상순이 시인에게 지어준 호다.\n이씨는 \\\"1960~70년대 시집은 장정과 판형이 책마다 판이하게 달랐다. 그에 비하면 요즘 시집들의 모양새는 지나치게 획일적이다. 또 시집 홍수라고 할 만큼 많은 시집이 쏟아져 나오고 있다\\\"며 \\\"그러다 보니 예전에 시집을 보물처럼 아끼던 분위기는 찾아볼 수 없다\\\"고 말했다.\n이씨는 또 \\\"오랜만에 시집을 내놓았지만 내 마음에 쏙 드는 것 같지 않다\\\"고 말했다.\n모국어의 크고 높은 다락에 비해 자신의 시가 마땅치 않다는 것이다.\n그의 이런 마음은 시집 첫 장에 등장하는 '절필'에도 드러나 있다.\n\\\"하늘의 창을 열고/흰 불꽃을 터뜨리는/목련의 한 획\\\"과 \\\"벚꽃의 산화\\\"가 부러운 시인은 '짐승스럽게' 붓대를 한 번 꺾어 봤으면 좋겠다고 노래한다.\n시집에는 모두 61편의 시가 실렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중견시인 이근배(63)씨가 1985년 장편 서사시집 '한강' 이후 19년 만에 세번째 시집 '사람들이 새가 되고 싶은 까닭을 안다'(문학세계)를 펴냈다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "시를 쓰고 전달하는 데도 속도와 능률을 무시할 수 없는 요즘 시집 한 권 출간에 20년 가까이 뜸을 들인 이씨의 보폭은 시대의 일반적인 추세를 거스르는 것이라고 할 만하다. 26일 이씨는 \\\"그동안 발표한 시들은 모두 서너 권 분량이지만 그 중 한 권 분량을 우선 추렸다\\\"고 말했다.",
+        "sentenceSize": 159
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이씨는 정가 7500원의 보급판 시집과 함께 천연가죽 표지로 장정한 정가 3만원의 '한정 100부 특장본'도 만들었다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "주로 지인들에게 '무료로' 증정되는 특장본 앞부분에 시인은 붓글씨 육필로 각각 다른 시구를 적어 넣는다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예를 들어 특장본 23책 앞부분에는 '모래가 山(산)을 이루기까지 地球(지구)는 몇 光年(광년)이나 헛바퀴를 돌았는가 沙泉(사천)'이라는 글귀가 적혀 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사천은 공초(空超) 오상순이 시인에게 지어준 호다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이씨는 \\\"1960~70년대 시집은 장정과 판형이 책마다 판이하게 달랐다. 그에 비하면 요즘 시집들의 모양새는 지나치게 획일적이다. 또 시집 홍수라고 할 만큼 많은 시집이 쏟아져 나오고 있다\\\"며 \\\"그러다 보니 예전에 시집을 보물처럼 아끼던 분위기는 찾아볼 수 없다\\\"고 말했다.",
+        "sentenceSize": 157
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이씨는 또 \\\"오랜만에 시집을 내놓았지만 내 마음에 쏙 드는 것 같지 않다\\\"고 말했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "모국어의 크고 높은 다락에 비해 자신의 시가 마땅치 않다는 것이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그의 이런 마음은 시집 첫 장에 등장하는 '절필'에도 드러나 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "\\\"하늘의 창을 열고/흰 불꽃을 터뜨리는/목련의 한 획\\\"과 \\\"벚꽃의 산화\\\"가 부러운 시인은 '짐승스럽게' 붓대를 한 번 꺾어 봤으면 좋겠다고 노래한다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "시집에는 모두 61편의 시가 실렸다.",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중견시인 이근배, \"요즘 시집은 붕어빵처럼 다 똑같아\" 문단을 향한 난도질",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

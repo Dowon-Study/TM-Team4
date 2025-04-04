@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198310",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK깊이읽기] 미국과 무역협상, 일본은 이렇게…관료가 업계 대표에 큰절까지",
+    "newsSubTitle": "",
+    "newsContent": "'미국과 협상 테이블에 앉기만 하면 왜 온 나라가 시끄러울까? 옛날에는 그렇지 않았는데….' 한창 줄다리기 중인 한.미 자유무역협정(FTA)협상을 지켜보면서 한번쯤 이런 생각을 해봤을 것이다.\n이 책은 그런 궁금증을 풀어 준다.\n도쿄대 교수인 지은이가 대미 통상협상에는 이골이 난 일본의 사례를 분석해 우리에게도 유용한 대응전략을 제시했다.\n\\\"일본은 미국과 협상 때 '안전보장의 우산'을 전제로 했었기 때문에 경제분야에서는 양보하는 분위기였다. 그러나 탈냉전 뒤 이런 인식이 낮아져 협상이 훨씬 복잡해졌고, 타협하기도 그만큼 어려워졌다\\\"(268쪽). 이 대목은 현재 진행 중인 한.미 FTA협상을 이해하는 데 도움이 된다.\n지은이는 시대별로 미국의 통상압력 패턴도 분석했다.\n1980년대는 자유무역을 내세웠지만, 90년대 후반부터는 통계자료와 여론을 근거로 상호평등주의를 앞세운다는 것이다.\n비록 딱딱한 논문 형식으로 엮어졌지만 책에는 예기치 못한 상황 등 협상 뒷얘기도 많다. 79년~81년 벌인 대미 자동차 수출 규제 협상 때의 일화는 곱씹어 볼 만하다.\n대미 협상이 난항을 겪자 일본 정부 관료는 자동차공업협회 대표와 비밀회동을 했다.\n통산성 심의관이 양보를 부탁하며 방바닥에 이마를 조아리자 이에 감복한 자동차업계가 나서 실마리를 풀었다.\n한.미 FTA는 협상 품목만 1만1000개로 단순하게 주고받기식으로만 풀 수 없는 구조다.\n미국의 협상전략이나 속내를 제대로 알고 싶은 이들에게 권한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'미국과 협상 테이블에 앉기만 하면 왜 온 나라가 시끄러울까? 옛날에는 그렇지 않았는데….' 한창 줄다리기 중인 한.미 자유무역협정(FTA)협상을 지켜보면서 한번쯤 이런 생각을 해봤을 것이다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 책은 그런 궁금증을 풀어 준다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "도쿄대 교수인 지은이가 대미 통상협상에는 이골이 난 일본의 사례를 분석해 우리에게도 유용한 대응전략을 제시했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "\\\"일본은 미국과 협상 때 '안전보장의 우산'을 전제로 했었기 때문에 경제분야에서는 양보하는 분위기였다. 그러나 탈냉전 뒤 이런 인식이 낮아져 협상이 훨씬 복잡해졌고, 타협하기도 그만큼 어려워졌다\\\"(268쪽). 이 대목은 현재 진행 중인 한.미 FTA협상을 이해하는 데 도움이 된다.",
+        "sentenceSize": 159
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지은이는 시대별로 미국의 통상압력 패턴도 분석했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1980년대는 자유무역을 내세웠지만, 90년대 후반부터는 통계자료와 여론을 근거로 상호평등주의를 앞세운다는 것이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "비록 딱딱한 논문 형식으로 엮어졌지만 책에는 예기치 못한 상황 등 협상 뒷얘기도 많다. 79년~81년 벌인 대미 자동차 수출 규제 협상 때의 일화는 곱씹어 볼 만하다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "대미 협상이 난항을 겪자 일본 정부 관료는 자동차공업협회 대표와 비밀회동을 했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "통산성 심의관이 양보를 부탁하며 방바닥에 이마를 조아리자 이에 감복한 자동차업계가 나서 실마리를 풀었다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한.미 FTA는 협상 품목만 1만1000개로 단순하게 주고받기식으로만 풀 수 없는 구조다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "미국의 협상전략이나 속내를 제대로 알고 싶은 이들에게 권한다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "협상 품목만 1만 1,000개인 '이것'… 협상 전략이 궁금하다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

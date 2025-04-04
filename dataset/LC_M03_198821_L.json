@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198821",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "88올림픽 탁구 금메달리스트 양영자 ‘금메달보다 멋진 꿈이 있어요’ 발간",
+    "newsSubTitle": "",
+    "newsContent": "우리에겐 88서울올림픽 탁구 금메달리스트로 익숙한 양영자가 이번에는 어린이들을 위한 책 『금메달보다 멋진 꿈이 있어요』를 가지고 돌아왔다.\n올해 초 최고의 탁구 스타에서 몽골 선교사로 변신하기까지의 30년 여정을 그린 자전적 에세이 『주라, 그리하면 채우리라』가 출간된 후 독자들의 호응에 힘입어 어린이를 위한 책으로 재탄생되었다.\n하나님께 자신이 가진 모든 것을 드렸을 때 더 큰 선물로 채우시는 하나님의 사랑을 담고 있다.\n텔레비전 속 화려한 연예인이나 건물주, 그도 아니면 평범한 회사원이 꿈이라는 우리 아이들에게 부모들은 하나님 안에서 어떤 꿈을 갖도록 도와줘야할 지에 관한 내용을 담고 있다.\n초등학생 때부터 탁구 하나만 바라보고 달려온 양영자는 타고난 승부욕과 집념 그리고 두터운 신앙으로 금메달이라는 목표를 달성하지만 은퇴 후 어머니의 죽음과 우울증이란 시련 앞에서 힘든 시간을 마주하게 된다.\n삶의 목표를 잃고 상처와 분노 속에서 모든 걸 포기하려던 자리에서 하나님의 계획이 펼쳐지기 시작했고, 오늘날 양영자는 꿈나무 탁구교실 지도자라는 새로운 사명으로 청소년들을 만나며 하나님의 사랑을 전하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우리에겐 88서울올림픽 탁구 금메달리스트로 익숙한 양영자가 이번에는 어린이들을 위한 책 『금메달보다 멋진 꿈이 있어요』를 가지고 돌아왔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "올해 초 최고의 탁구 스타에서 몽골 선교사로 변신하기까지의 30년 여정을 그린 자전적 에세이 『주라, 그리하면 채우리라』가 출간된 후 독자들의 호응에 힘입어 어린이를 위한 책으로 재탄생되었다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하나님께 자신이 가진 모든 것을 드렸을 때 더 큰 선물로 채우시는 하나님의 사랑을 담고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "텔레비전 속 화려한 연예인이나 건물주, 그도 아니면 평범한 회사원이 꿈이라는 우리 아이들에게 부모들은 하나님 안에서 어떤 꿈을 갖도록 도와줘야할 지에 관한 내용을 담고 있다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "초등학생 때부터 탁구 하나만 바라보고 달려온 양영자는 타고난 승부욕과 집념 그리고 두터운 신앙으로 금메달이라는 목표를 달성하지만 은퇴 후 어머니의 죽음과 우울증이란 시련 앞에서 힘든 시간을 마주하게 된다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "삶의 목표를 잃고 상처와 분노 속에서 모든 걸 포기하려던 자리에서 하나님의 계획이 펼쳐지기 시작했고, 오늘날 양영자는 꿈나무 탁구교실 지도자라는 새로운 사명으로 청소년들을 만나며 하나님의 사랑을 전하고 있다.",
+        "sentenceSize": 116
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "어린이들을 위한 책으로 돌아온 '이 사람', 88서울올림픽 금메달리스트였다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

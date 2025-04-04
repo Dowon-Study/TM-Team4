@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M09_194138",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "방송·연예",
+    "newsTitle": "누가 ‘백구’를 해하려 했나",
+    "newsSubTitle": "null",
+    "newsContent": "티브이 동물농장(에스비에스 일 오전 9시30분) 평택의 한 마을에서 백구 한마리가 철끈에 목이 조여진 채로 마을을 배회한다.\n살점이 떨어져나가 생살이 드러난 목은 피와 진물이 뒤엉켜 검게 변했다.\n구조가 시급한데, 백구는 주민들이 도움의 손길을 내밀면 경계하고 달아난다.\n사람이 백구를 해하려 했던 걸까.\n제작진이 뒤따라가보니 누구의 접근도 허락하지 않던 백구는 검둥이 한마리가 나타나자 경계를 풀고 뒤를 따랐다.\n둘은 새끼도 낳았던 부부라고 한다.\n위험에 처한 백구를 돕고, 곁을 지키는 검둥이와의 사연을 전한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "티브이 동물농장(에스비에스 일 오전 9시30분) 평택의 한 마을에서 백구 한마리가 철끈에 목이 조여진 채로 마을을 배회한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "살점이 떨어져나가 생살이 드러난 목은 피와 진물이 뒤엉켜 검게 변했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "구조가 시급한데, 백구는 주민들이 도움의 손길을 내밀면 경계하고 달아난다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사람이 백구를 해하려 했던 걸까.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "제작진이 뒤따라가보니 누구의 접근도 허락하지 않던 백구는 검둥이 한마리가 나타나자 경계를 풀고 뒤를 따랐다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "둘은 새끼도 낳았던 부부라고 한다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "위험에 처한 백구를 돕고, 곁을 지키는 검둥이와의 사연을 전한다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SBS 동물농장, 철끈에 목이 조여진 백구 방송... 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

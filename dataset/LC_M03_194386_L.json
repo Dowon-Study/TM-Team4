@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194386",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[week&공연] 일교차 심한 요즘 '뇌졸중 주의보'",
+    "newsSubTitle": "",
+    "newsContent": "뇌졸중은 요즘처럼 기온이 낮고 일교차가 심할 때 많이 발병한다.\n날씨가 추워지면서 혈관이 수축하고 혈압이 높아져 뇌혈관이 약해지기 때문이다.\n뇌졸중은 암에 이어 우리나라 사람들의 사망 원인 중 두 번째다.\n특히 노·장년층에서는 사망 원인 1위다.\n과거에는 대표적인 노인병의 하나로 여겼지만 갈수록 발병 연령층이 낮아지고 있다.\n20~30대 젊은 층에서도 심심찮게 발병한다.\n스트레스·고혈압·당뇨·흡연·과음·비만·심장질환 등 뇌졸중 위험인자를 방치하기 때문이다.\n뇌졸증을 예방하는 데는 규칙적인 운동이 필수다.\n미국 하버드대 공공보건학부에서 7만 명을 대상으로 걷기와 뇌졸중의 관계를 조사한 결과 1주일에 20시간 이상 걷는 사람은 응혈(피가 엉기는 것)에 의한 뇌졸중 발생 가능성이 40%나 낮은 것으로 밝혀졌다.\n또 미국의 한 여성병원협회의 연구 결과에 따르면 하루에 20~30분씩 일주일에 2시간 정도만 걸어도 뇌졸중 발병 확률이 눈에 띄게 낮아진다고 한다.\n빠른 걷기로 일주일에 200~600km를 소모한 여성의 경우 운동을 전혀 하지 않은 여성에 비해 발병 확률이 27% 감소했다.\n하루에 30분~1시간, 주당 600~1500km를 소모한 여성들은 32%, 1500km 이상을 소모한 여성들은 발병 확률이 41%로 떨어졌다.\n노인들의 경우 날씨가 추워지면 혈관이 수축하고 혈압이 높아져 뇌혈관이 약해지므로 무리한 운동을 자제하는 것이 낫다.\n산책이나 걷기 운동 정도가 적당하다.\n하루 30분에서 한 시간 정도, 일주일에 3회 이상 꾸준히 해 주는 것이 좋다.\n다만 날씨가 추울 땐 목도리와 모자를 착용해 보온에 유의해야 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "뇌졸중은 요즘처럼 기온이 낮고 일교차가 심할 때 많이 발병한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "날씨가 추워지면서 혈관이 수축하고 혈압이 높아져 뇌혈관이 약해지기 때문이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뇌졸중은 암에 이어 우리나라 사람들의 사망 원인 중 두 번째다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 노·장년층에서는 사망 원인 1위다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "과거에는 대표적인 노인병의 하나로 여겼지만 갈수록 발병 연령층이 낮아지고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "20~30대 젊은 층에서도 심심찮게 발병한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "스트레스·고혈압·당뇨·흡연·과음·비만·심장질환 등 뇌졸중 위험인자를 방치하기 때문이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "뇌졸증을 예방하는 데는 규칙적인 운동이 필수다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "미국 하버드대 공공보건학부에서 7만 명을 대상으로 걷기와 뇌졸중의 관계를 조사한 결과 1주일에 20시간 이상 걷는 사람은 응혈(피가 엉기는 것)에 의한 뇌졸중 발생 가능성이 40%나 낮은 것으로 밝혀졌다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또 미국의 한 여성병원협회의 연구 결과에 따르면 하루에 20~30분씩 일주일에 2시간 정도만 걸어도 뇌졸중 발병 확률이 눈에 띄게 낮아진다고 한다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "빠른 걷기로 일주일에 200~600km를 소모한 여성의 경우 운동을 전혀 하지 않은 여성에 비해 발병 확률이 27% 감소했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "하루에 30분~1시간, 주당 600~1500km를 소모한 여성들은 32%, 1500km 이상을 소모한 여성들은 발병 확률이 41%로 떨어졌다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "노인들의 경우 날씨가 추워지면 혈관이 수축하고 혈압이 높아져 뇌혈관이 약해지므로 무리한 운동을 자제하는 것이 낫다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "산책이나 걷기 운동 정도가 적당하다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "하루 30분에서 한 시간 정도, 일주일에 3회 이상 꾸준히 해 주는 것이 좋다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "다만 날씨가 추울 땐 목도리와 모자를 착용해 보온에 유의해야 한다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일교차 심할 때 발병률이 증가하는 병은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

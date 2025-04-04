@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197661",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "신인그룹 머스트비, 교통사고로 매니저 1명 숨져",
+    "newsSubTitle": "",
+    "newsContent": "7인조 보이그룹 머스트비가 교통사고를 당해 매니저 1명이 숨졌다.\n21일 오전 3시 40분께 서울 올림픽대로 잠실 방향 서울교와 여의교 중간 도로에서 머스트비 멤버들이 탄 승합차가 가드레일을 들이받는 사고가 발생했다.\n이 사고로 승합차를 운전하던 매니저 손모 씨(36)가 크게 다쳐 병원으로 옮겨졌지만 끝내 숨졌다.\n동승했던 머스트비 멤버 4명과 소속사 관계자 1명은 중경상을 입고 병원에서 치료를 받고 있다.\n이들은 대구에서 공연을 마친 뒤 서울에 있는 숙소로 귀가하던 길에 사고를 당했다.\n멤버 3명은 사고가 나기 전 차에서 내린 것으로 알려졌다.\n서울 영등포경찰서는 졸음운전 가능성을 두고 차량 블랙박스 분석과 동승자들을 상대로 조사를 벌이고 있는 상황이다.\n경찰 관계자는 22일 미디어SR에 \\\"아직 사고 경위를 조사하고 있는 단계\\\"라고 짧게 말했다.\n머스트비는 지난 1월 30일 싱글 앨범 'i want u'(아이 원트 유)로 데뷔한 신예 그룹이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "7인조 보이그룹 머스트비가 교통사고를 당해 매니저 1명이 숨졌다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "21일 오전 3시 40분께 서울 올림픽대로 잠실 방향 서울교와 여의교 중간 도로에서 머스트비 멤버들이 탄 승합차가 가드레일을 들이받는 사고가 발생했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 사고로 승합차를 운전하던 매니저 손모 씨(36)가 크게 다쳐 병원으로 옮겨졌지만 끝내 숨졌다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "동승했던 머스트비 멤버 4명과 소속사 관계자 1명은 중경상을 입고 병원에서 치료를 받고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이들은 대구에서 공연을 마친 뒤 서울에 있는 숙소로 귀가하던 길에 사고를 당했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "멤버 3명은 사고가 나기 전 차에서 내린 것으로 알려졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "서울 영등포경찰서는 졸음운전 가능성을 두고 차량 블랙박스 분석과 동승자들을 상대로 조사를 벌이고 있는 상황이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "경찰 관계자는 22일 미디어SR에 \\\"아직 사고 경위를 조사하고 있는 단계\\\"라고 짧게 말했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "머스트비는 지난 1월 30일 싱글 앨범 'i want u'(아이 원트 유)로 데뷔한 신예 그룹이다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "퇴근길 교통사고에 사망자 발생한 이 보이그룹",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

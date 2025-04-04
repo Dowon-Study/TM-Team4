@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195695",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "조성용 교수, 신장결석수술 가이드북 발간",
+    "newsSubTitle": "",
+    "newsContent": "서울대병원이 위탁운영 중인 서울시 보라매병원 비뇨기과 조성용 교수가 서울대병원 정창욱 교수, 분당서울대병원 오종진 교수와 함께 ‘국내 비뇨기과 의사를 위한 연성내시경 이용 최소 침습 신장결석수술 가이드북’을 발간했다.\n연성내시경을 이용한 신장결석제거술은 내시경 끝을 구부러뜨려 신장을 구석구석 살피면서 요로결석을 레이저로 분쇄하여 제거하는 수술법이다.\n미국 등 의료선진국에선 체외충격파쇄석술로 제거가 어렵거나 결석이 크고 단단하면서 여러 개가 있을 때 이 수술법을 1차로 권유하고 있다.\n다만, 수술방법이 다소 까다롭고 기계 고장이 잦아 국내에서는 소수의 비뇨기과 의사들만이 시행하고 있어 10%도 안 되는 환자만이 수술을 받고 있다.\n국내 의사들을 대상으로 한 수술정보도 절대적으로 부족한 실정이다.\n이에 보라매병원 비뇨기과 조성용 교수는 2015년 말까지 국내 최다 수술건수인 600례 이상의 최소 침습 수술을 시행한 경험으로 가이드북을 제작했다.\n책자는 원하는 전국 비뇨기과 병원에 배포될 예정이다.\n국내 최초로 제작한 이 가이드북에서는 △연성내시경술을 시행할 수 있는 결석의 상태 △연성내시경을 이용한 수술의 각 과정 △사용할 수 있는 각종 수술 기구의 종류 및 관리법 등을 상세히 소개한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서울대병원이 위탁운영 중인 서울시 보라매병원 비뇨기과 조성용 교수가 서울대병원 정창욱 교수, 분당서울대병원 오종진 교수와 함께 ‘국내 비뇨기과 의사를 위한 연성내시경 이용 최소 침습 신장결석수술 가이드북’을 발간했다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "연성내시경을 이용한 신장결석제거술은 내시경 끝을 구부러뜨려 신장을 구석구석 살피면서 요로결석을 레이저로 분쇄하여 제거하는 수술법이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "미국 등 의료선진국에선 체외충격파쇄석술로 제거가 어렵거나 결석이 크고 단단하면서 여러 개가 있을 때 이 수술법을 1차로 권유하고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다만, 수술방법이 다소 까다롭고 기계 고장이 잦아 국내에서는 소수의 비뇨기과 의사들만이 시행하고 있어 10%도 안 되는 환자만이 수술을 받고 있다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "국내 의사들을 대상으로 한 수술정보도 절대적으로 부족한 실정이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 보라매병원 비뇨기과 조성용 교수는 2015년 말까지 국내 최다 수술건수인 600례 이상의 최소 침습 수술을 시행한 경험으로 가이드북을 제작했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "책자는 원하는 전국 비뇨기과 병원에 배포될 예정이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "국내 최초로 제작한 이 가이드북에서는 △연성내시경술을 시행할 수 있는 결석의 상태 △연성내시경을 이용한 수술의 각 과정 △사용할 수 있는 각종 수술 기구의 종류 및 관리법 등을 상세히 소개한다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서울대병원 비뇨기과 교수의 수술가이드북이 전국 병원에 배포된다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

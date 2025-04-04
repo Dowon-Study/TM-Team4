@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194540",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[뉴스비타민] 아이 돌보기, 엄마는 11시간 아빠는 1시간",
+    "newsSubTitle": "",
+    "newsContent": "하루종일 아이 돌보느라 저녁이 되면 녹초가 된 엄마들을 많이 보셨지요?\n한국여성개발원이 지난해 8~9월 실시한 조사에 따르면 초등학교 취학 전 아이를 둔 엄마들은 아이 돌보는데 하루 평균 11시간36분이나 소요하는 것으로 나타났습니다.\n반면 아빠들이 아이를 돌보는 시간은 하루 평균 고작 1시간17분밖에 되지 않습니다.\n엄마들의 10분의 1 수준이지요.\n아빠들은 주중에 아이를 돌보는 시간이 45분이고, 주말에도 2시간20분밖에 되지 않았습니다.\n지금처럼 직장에서 일하는 시간이 과도하게 길고 가정보다는 직장이 우선인 문화에서 아빠들에게 오랜 시간 아이 돌보는 것을 기대하긴 어렵겠지요.\n하지만 엄마의 경우는 직장이 있어도 아이 돌보는 일에 많은 시간을 쏟고 있었습니다.\n주말엔 직장이 있는 엄마(13시간17분)와 직장이 없는 엄마(13시간25분) 사이에 별 차이가 없습니다.\n직장이 있는 엄마는 주중에도 하루 평균 7시간17분을 아이 키우는 데 시간을 썼습니다.\n이중노동의 부담을 고스란히 지고 있어 결혼한 여성의 취업에 가장 큰 걸림돌이 자녀 양육이란 사실을 다시 한번 보여준 셈이지요.\n이렇듯 양육 부담이 일방적으로 아내에게 맡겨져 있다 보니 응답자의 절반이 넘는 54%가 갈등을 겪고 있었습니다.\n갈등의 원인은 ▶자녀 양육 분담(50%)▶양육 및 교육방식의 차이(36.2%)▶비용 문제(13.3%) 등이었습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "하루종일 아이 돌보느라 저녁이 되면 녹초가 된 엄마들을 많이 보셨지요?",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국여성개발원이 지난해 8~9월 실시한 조사에 따르면 초등학교 취학 전 아이를 둔 엄마들은 아이 돌보는데 하루 평균 11시간36분이나 소요하는 것으로 나타났습니다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "반면 아빠들이 아이를 돌보는 시간은 하루 평균 고작 1시간17분밖에 되지 않습니다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "엄마들의 10분의 1 수준이지요.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아빠들은 주중에 아이를 돌보는 시간이 45분이고, 주말에도 2시간20분밖에 되지 않았습니다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지금처럼 직장에서 일하는 시간이 과도하게 길고 가정보다는 직장이 우선인 문화에서 아빠들에게 오랜 시간 아이 돌보는 것을 기대하긴 어렵겠지요.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 엄마의 경우는 직장이 있어도 아이 돌보는 일에 많은 시간을 쏟고 있었습니다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "주말엔 직장이 있는 엄마(13시간17분)와 직장이 없는 엄마(13시간25분) 사이에 별 차이가 없습니다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "직장이 있는 엄마는 주중에도 하루 평균 7시간17분을 아이 키우는 데 시간을 썼습니다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이중노동의 부담을 고스란히 지고 있어 결혼한 여성의 취업에 가장 큰 걸림돌이 자녀 양육이란 사실을 다시 한번 보여준 셈이지요.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이렇듯 양육 부담이 일방적으로 아내에게 맡겨져 있다 보니 응답자의 절반이 넘는 54%가 갈등을 겪고 있었습니다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "갈등의 원인은 ▶자녀 양육 분담(50%)▶양육 및 교육방식의 차이(36.2%)▶비용 문제(13.3%) 등이었습니다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "엄마들 아이 돌보기 '평균 11시간'... 아빠는 과연?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

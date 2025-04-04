@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197248",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "장르ㆍ시공 초월한 예술가들의 교감",
+    "newsSubTitle": "이가림 교수의 〈미술과 문학의 만남〉",
+    "newsContent": "예부터 문학과 미술은 '자매 예술' 로서 다른 어떤 장르들 사이보다 친밀한 사이였다.\n특히 프랑스의 예술은 중세에서 현대에 이르기까지 숱한 시인.작가들과 미술가들이 장르의 칸막이를 뛰어넘어 행복한 정신적 교감을 나눠왔다.\n인하대 불문과 이가림교수가 펴낸 〈미술과 문학의 만남-그림속의 문학, 문학속의 그림을 찾아나선 예술기행〉 (월간미술)은 이같은 교류와 교감 16편을 담은 교양서다.\n1998~99년 월간미술에 연재한 같은 제목의 글에 6편을 보태 모두 16쌍의 이야기를 책으로 엮었다.\n책은 〈상징주의 예술의 순교자-르동과 말라르메〉〈인간파괴를 고발한 예술가의 양심-피카소와 엘뤼아르〉〈실존의 고독을 응시하는 깊은 통찰력-자코메티와 사르트르〉〈자유와 무한에 매혹된 파란 영혼-모딜리아니와 콕토〉〈물의 세계와 교감한 몽상가 모네와 바슐라르〉〈리얼리즘의 승리를 향하여-쿠르베와 플로베르〉등을 담고 있다.\n미술과 문학, 양자에 대한 폭넓은 지식을 바탕으로 일화를 많이 인용하며 쉽게 풀어쓴 것이 특징이다.\n거의 모든 페이지에 원색.흑백의 선명한 작품사진을 넣어 해당 작가에 대한 이해를 도왔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "예부터 문학과 미술은 '자매 예술' 로서 다른 어떤 장르들 사이보다 친밀한 사이였다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특히 프랑스의 예술은 중세에서 현대에 이르기까지 숱한 시인.작가들과 미술가들이 장르의 칸막이를 뛰어넘어 행복한 정신적 교감을 나눠왔다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "인하대 불문과 이가림교수가 펴낸 〈미술과 문학의 만남-그림속의 문학, 문학속의 그림을 찾아나선 예술기행〉 (월간미술)은 이같은 교류와 교감 16편을 담은 교양서다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "1998~99년 월간미술에 연재한 같은 제목의 글에 6편을 보태 모두 16쌍의 이야기를 책으로 엮었다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "책은 〈상징주의 예술의 순교자-르동과 말라르메〉〈인간파괴를 고발한 예술가의 양심-피카소와 엘뤼아르〉〈실존의 고독을 응시하는 깊은 통찰력-자코메티와 사르트르〉〈자유와 무한에 매혹된 파란 영혼-모딜리아니와 콕토〉〈물의 세계와 교감한 몽상가 모네와 바슐라르〉〈리얼리즘의 승리를 향하여-쿠르베와 플로베르〉등을 담고 있다.",
+        "sentenceSize": 175
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "미술과 문학, 양자에 대한 폭넓은 지식을 바탕으로 일화를 많이 인용하며 쉽게 풀어쓴 것이 특징이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "거의 모든 페이지에 원색.흑백의 선명한 작품사진을 넣어 해당 작가에 대한 이해를 도왔다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "프랑스에선 밤마다 문학가와 미술가가 만나 은밀하고 뜨거운 교감을 나누었다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

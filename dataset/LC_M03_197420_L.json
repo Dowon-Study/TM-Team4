@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197420",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[간추린 뉴스] 국내 첫 유전자 치료제 등 하반기 신약 대거 출시",
+    "newsSubTitle": "",
+    "newsContent": "올해 하반기 국내 첫 유전자 치료제와 국내 첫 성인용 파상풍·디프테리아(Td) 백신 등이 잇따라 출시된다.\n코오롱그룹이 1998년부터 개발에 매달려온 유전자 치료제 ‘인보사’가 이르면 이달 중 식품의약품안전처로부터 판매 허가를 받을 것으로 보인다.\n유전자 치료제란 유전자 전달체를 인체에 보내 질병을 치료하는 의약품이다.\n인보사는 세계 최초의 퇴행성 관절염 동종 세포 유전자 치료제다.\n정상 연골세포와 형질 전환 연골세포를 3대 1의 비율로 혼합해 퇴행성 관절염을 치료하는데, 효과와 방법이 뛰어나 혁신 신약으로 평가받는다.\n올해에만 국내에서 약 2000명의 환자에게 쓰일 예정이다.\n퇴행성 관절염 환자는 국내 500만 명, 전 세계적으로 4억 명이 넘는다.\n지난해 일본 제약사 미쓰비시타나베에 5000억원의 기술수출을 하는 등 해외 수출전망도 밝다.\n녹십자가 지난해 허가받은 국내 최초 성인용 파상풍·디프테리아(Td) 백신도 하반기 출시를 기다리고 있다.\nSK케미칼이 자체 개발한 대상포진 백신은 하반기 중 허가를 받고 출시된다.\n해당 백신이 나오면 다국적제약사 MSD의 ‘조스타박스’가 독점해온 800억원 규모의 대상포진 백신 시장에도 변화가 생길 것으로 보인다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "올해 하반기 국내 첫 유전자 치료제와 국내 첫 성인용 파상풍·디프테리아(Td) 백신 등이 잇따라 출시된다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "코오롱그룹이 1998년부터 개발에 매달려온 유전자 치료제 ‘인보사’가 이르면 이달 중 식품의약품안전처로부터 판매 허가를 받을 것으로 보인다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "유전자 치료제란 유전자 전달체를 인체에 보내 질병을 치료하는 의약품이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "인보사는 세계 최초의 퇴행성 관절염 동종 세포 유전자 치료제다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정상 연골세포와 형질 전환 연골세포를 3대 1의 비율로 혼합해 퇴행성 관절염을 치료하는데, 효과와 방법이 뛰어나 혁신 신약으로 평가받는다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "올해에만 국내에서 약 2000명의 환자에게 쓰일 예정이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "퇴행성 관절염 환자는 국내 500만 명, 전 세계적으로 4억 명이 넘는다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난해 일본 제약사 미쓰비시타나베에 5000억원의 기술수출을 하는 등 해외 수출전망도 밝다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "녹십자가 지난해 허가받은 국내 최초 성인용 파상풍·디프테리아(Td) 백신도 하반기 출시를 기다리고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "SK케미칼이 자체 개발한 대상포진 백신은 하반기 중 허가를 받고 출시된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "해당 백신이 나오면 다국적제약사 MSD의 ‘조스타박스’가 독점해온 800억원 규모의 대상포진 백신 시장에도 변화가 생길 것으로 보인다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국내 첫 유전자 치료제 출시에 억 소리 나는 기술수출까지... 우리나라 의약품 미래가 밝다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

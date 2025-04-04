@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198810",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "빅데이터 활용한 인공지능 개발에 대한 책 나와",
+    "newsSubTitle": "빅데이터 연구 권위자 송태민·송주영 교수 새 저서 주목",
+    "newsContent": "[배지영 기자] 빅데이터를 활용한 인공지능 개발에 대한 책이 나왔다.\n총 2권으로 이뤄진 책의 제목은 『빅데이터를 활용한 통계분석(1권)』과 『머신러닝을 활용한 인공지능 개발(2권)』이다.\n빅데이터는 형식이 복잡하고 방대할 뿐 아니라 그 생성속도가 빨라 기존의 데이터 처리방식이 아닌 새로운 관리 및 분석 방법을 필요로 한다.\n이에 따라 방대한 데이터를 수집하고 관리하면서 복잡하고 다양한 사회현상을 분석할 수 있는 능력을 지닌 데이터 사이언티스트의 역할은 그 중요성이 더해가고 있다.\n저자는 빅데이터 연구 분야 권위자인 송태민, 송주영 교수다.\n송태민 교수(삼육대 보건관리학과)는 30여년 동안 한국보건사회연구원에서 통계정보연구실장, 건강증진개발센터소장, 사회정신건강연구센터장, 빅데이터 연구센터장 등을 역임했다.\n송주영 교수는 미시간주립대 형사사법대학에서 박사학위를 받고 웨스트조지아 주립대 범죄학과 조교수와 한국형사 정책연구원 부연구위원으로 재직했으며 현재 펜실베이니아 주립대 범죄학과 조교수로 재직 중이다.\n저자들은 그동안 급속히 변화하는 사회현상을 예측해 선제적으로 대응하기 위해 정형화된 빅데이터와 소셜 빅데이터를 활용한 연구에 노력을 기울여왔다.\n이 책 역시 그러한 연구의 결과로, 실제로 공공 빅데이터를 분석해 미래를 예측하기 위한 인공지능을 개발하고 활용하기 위한 전 과정을 자세히 담았다.\n이 책의 1권 『빅데이터를 활용한 통계분석』은 빅데이터를 활용해 인공지능을 개발하기 위해 필요한 지식인 통계분석의 전 과정을 설명했다.\n빅데이터 분석 프로그램인 R과 SPSS의 설치 및 활용 방법을 소개하고 빅데이터 분석을 위해 데이터 사이언티스트가 습득해야 할 과학적 연구설계와 통계분석에 관해 기술했다.\n2권 『머신러닝을 활용한 인공지능 개발』은 인공지능을 개발하기 위해 머신러닝 예측모델링의 전 과정을 설명했다.\n인공지능 개발을 위해 머신러닝 학습데이터를 생성하는 과정을 소개하고 머신러닝 개념과 모델링, 그리고 인공지능의 개발과 활용에 대한 전 과정을 기술했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[배지영 기자] 빅데이터를 활용한 인공지능 개발에 대한 책이 나왔다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "총 2권으로 이뤄진 책의 제목은 『빅데이터를 활용한 통계분석(1권)』과 『머신러닝을 활용한 인공지능 개발(2권)』이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "빅데이터는 형식이 복잡하고 방대할 뿐 아니라 그 생성속도가 빨라 기존의 데이터 처리방식이 아닌 새로운 관리 및 분석 방법을 필요로 한다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 따라 방대한 데이터를 수집하고 관리하면서 복잡하고 다양한 사회현상을 분석할 수 있는 능력을 지닌 데이터 사이언티스트의 역할은 그 중요성이 더해가고 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "저자는 빅데이터 연구 분야 권위자인 송태민, 송주영 교수다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "송태민 교수(삼육대 보건관리학과)는 30여년 동안 한국보건사회연구원에서 통계정보연구실장, 건강증진개발센터소장, 사회정신건강연구센터장, 빅데이터 연구센터장 등을 역임했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "송주영 교수는 미시간주립대 형사사법대학에서 박사학위를 받고 웨스트조지아 주립대 범죄학과 조교수와 한국형사 정책연구원 부연구위원으로 재직했으며 현재 펜실베이니아 주립대 범죄학과 조교수로 재직 중이다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "저자들은 그동안 급속히 변화하는 사회현상을 예측해 선제적으로 대응하기 위해 정형화된 빅데이터와 소셜 빅데이터를 활용한 연구에 노력을 기울여왔다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이 책 역시 그러한 연구의 결과로, 실제로 공공 빅데이터를 분석해 미래를 예측하기 위한 인공지능을 개발하고 활용하기 위한 전 과정을 자세히 담았다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 책의 1권 『빅데이터를 활용한 통계분석』은 빅데이터를 활용해 인공지능을 개발하기 위해 필요한 지식인 통계분석의 전 과정을 설명했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "빅데이터 분석 프로그램인 R과 SPSS의 설치 및 활용 방법을 소개하고 빅데이터 분석을 위해 데이터 사이언티스트가 습득해야 할 과학적 연구설계와 통계분석에 관해 기술했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "2권 『머신러닝을 활용한 인공지능 개발』은 인공지능을 개발하기 위해 머신러닝 예측모델링의 전 과정을 설명했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "인공지능 개발을 위해 머신러닝 학습데이터를 생성하는 과정을 소개하고 머신러닝 개념과 모델링, 그리고 인공지능의 개발과 활용에 대한 전 과정을 기술했다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "빅데이터 시대를 맞아 출간된 이 책, 어떤 내용 담겨있나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

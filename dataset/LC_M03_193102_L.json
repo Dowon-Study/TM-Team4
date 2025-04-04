@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193102",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "유디치과, 몽골 어린이 2000명에게 구강건강용품 전달",
+    "newsSubTitle": "서울시자원봉사센터 연계 사회공헌활동 펼쳐",
+    "newsContent": "유디치과는 최근 서울시자원봉사센터를 통해 몽골 다르항에 어린이 200여 명에게 구강건강용품을 후원했다고 23일 밝혔다.\n서울시자원봉사센터는 지난 8월 2일~11일, 약 10일 간 대학생 봉사단과 함께 몽골 다르항을 방문했다.\n봉사단은 자석놀이, 인체탐험 같은 과학 교육과 전통놀이, 한복 접기, 부채 만들기 등 문화교육, 올바른 양치질과 구강건강을 위한 위생교육 등을 실시했다.\n이 때 학생 200여명에게 필요한 구강 위생용품을 유디치과가 지원한 것. ▲ 봉사단이 몽골 어린이들에게 유디치과에서 후원한 구강용품을 이용해 위생교육을 실시하고 있다. [출처 유디치과] 진세식 유디치과협회장은 “봉사를 통해 몽골과 한국이 서로의 문화를 공유하는 데 유디치과가 도움이 되어 기쁘다”며 “앞으로 더욱 다양한 사회공헌활동을 통해 나눔을 실천하는 의료기관이 될 것”이라 말했다.\n한편 유디치과는 다양한 나눔활동을 위해 해외뿐 아니라 국내 봉사활동에도 적극적으로 후원을 진행 하고 있다.\n지난해 7월 연세대와 고려대 봉사팀의 후원을 통해 국내 교육 소외지역에 있는 아이들에게도 구강건강 교육 및 물품을 전달했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유디치과는 최근 서울시자원봉사센터를 통해 몽골 다르항에 어린이 200여 명에게 구강건강용품을 후원했다고 23일 밝혔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울시자원봉사센터는 지난 8월 2일~11일, 약 10일 간 대학생 봉사단과 함께 몽골 다르항을 방문했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "봉사단은 자석놀이, 인체탐험 같은 과학 교육과 전통놀이, 한복 접기, 부채 만들기 등 문화교육, 올바른 양치질과 구강건강을 위한 위생교육 등을 실시했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 때 학생 200여명에게 필요한 구강 위생용품을 유디치과가 지원한 것. ▲ 봉사단이 몽골 어린이들에게 유디치과에서 후원한 구강용품을 이용해 위생교육을 실시하고 있다. [출처 유디치과] 진세식 유디치과협회장은 “봉사를 통해 몽골과 한국이 서로의 문화를 공유하는 데 유디치과가 도움이 되어 기쁘다”며 “앞으로 더욱 다양한 사회공헌활동을 통해 나눔을 실천하는 의료기관이 될 것”이라 말했다.",
+        "sentenceSize": 216
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 유디치과는 다양한 나눔활동을 위해 해외뿐 아니라 국내 봉사활동에도 적극적으로 후원을 진행 하고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난해 7월 연세대와 고려대 봉사팀의 후원을 통해 국내 교육 소외지역에 있는 아이들에게도 구강건강 교육 및 물품을 전달했다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서울시자원봉사센터 통해 몽골 어린이 200여 명에게 전달",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

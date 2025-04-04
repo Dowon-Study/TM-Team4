@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194346",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "[짤막소식] 임피리얼 팰리스 호텔 뷔페식당 ‘훼밀리아’ 外",
+    "newsSubTitle": "",
+    "newsContent": "■ 임피리얼 팰리스 호텔 뷔페식당 ‘훼밀리아’는 봄나물 페스티벌을 연다. 두릅·돈나물·원추리·달래·냉이 등 봄 내음을 담뿍 머금은 나물을 맛볼 수 있다.\n점심 5만5000원, 저녁 6만3000원(세금·봉사료 포함). 3월 1일부터 5월 31일까지. 3440 - 8000. ■ 메이필드 호텔 중식당 ‘리원’도 봄나물을 이용한 특선 메뉴'채보(菜譜)’를 내놨다.\n봄나물과 해선냉채, 새우와 냉이를 넣은 야채수프, 전가복, 탕수소스의 국화생선, 쇠고기 안심 봄 야채말이 등이 나온다.\n가격 4만7000원(세금·봉사료 별도). 3월 3일부터 4월 30일까지. 02-2660-9080. ■ 노보텔 앰배서더 강남의 레스토랑‘더 비스트로’는 프랑스 샹파뉴·노르망디 지역의 봄 요리를 선보인다.\n감자, 샐러드 알몬드 버터를 곁들인 송어살 구이(2만8000원), 밥과 양송이 사과 크림 소스를 곁들인 송아지 고기 볶음(3만원) 등이다.\n세금·봉사료 별도. 3월 19일부터 6월 18일까지. 02-531-6604 .",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "■ 임피리얼 팰리스 호텔 뷔페식당 ‘훼밀리아’는 봄나물 페스티벌을 연다. 두릅·돈나물·원추리·달래·냉이 등 봄 내음을 담뿍 머금은 나물을 맛볼 수 있다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "점심 5만5000원, 저녁 6만3000원(세금·봉사료 포함). 3월 1일부터 5월 31일까지. 3440 - 8000. ■ 메이필드 호텔 중식당 ‘리원’도 봄나물을 이용한 특선 메뉴'채보(菜譜)’를 내놨다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "봄나물과 해선냉채, 새우와 냉이를 넣은 야채수프, 전가복, 탕수소스의 국화생선, 쇠고기 안심 봄 야채말이 등이 나온다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "가격 4만7000원(세금·봉사료 별도). 3월 3일부터 4월 30일까지. 02-2660-9080. ■ 노보텔 앰배서더 강남의 레스토랑‘더 비스트로’는 프랑스 샹파뉴·노르망디 지역의 봄 요리를 선보인다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "감자, 샐러드 알몬드 버터를 곁들인 송어살 구이(2만8000원), 밥과 양송이 사과 크림 소스를 곁들인 송아지 고기 볶음(3만원) 등이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "세금·봉사료 별도. 3월 19일부터 6월 18일까지. 02-531-6604 .",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "임피리얼 팰리스 호텔 점심 5.5만원? 값비싼 이유가 있다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

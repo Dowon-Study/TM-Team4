@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194728",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[즐겨읽기] 우주도 발버둥친다네 살아남기 위하여 …",
+    "newsSubTitle": "",
+    "newsContent": "생명우주 제임스 가드너 지음 이덕환 옮김, 까치 337쪽, 1만5000원 저자에 따르면 우주론의 수수께끼 중 하나는 우주가 무척 친생명적이다.\n태초의 빅뱅 후 1초가 지났을 때 우주의 팽창 속도를 보자.\n속도가 실제보다 10의 10 제곱분의 1만큼만 더 빠르거나 느렸다면 생명 탄생은 없었다.\n몇 백만년 내에 우주는 수축하거나 텅 비었을 것이기 때문이다.\n생명이 출현할 수 있는 환경이 되도록 우주의 기본상수들은 적절한 값을 취하고 있다.\n우연히 그렇게 될 통계적 확률은 10의 220제곱분의 1. 저자는 이에 대해 '이기적 친생명 우주' 가설을 제시한다.\n지능을 가진 생명의 출현은 우주를 지배하는 물리법칙과 상수들에 의해서 예정된 것이라는 것이다.\n생명이 이기적 유전자를 위해 진화하는 것처럼 우주도 이기적인 우주 코드의 생존을 위해서 진화.번식한다는 주장을 편다.\n다소 어려운 게 흠이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "생명우주 제임스 가드너 지음 이덕환 옮김, 까치 337쪽, 1만5000원 저자에 따르면 우주론의 수수께끼 중 하나는 우주가 무척 친생명적이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "태초의 빅뱅 후 1초가 지났을 때 우주의 팽창 속도를 보자.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "속도가 실제보다 10의 10 제곱분의 1만큼만 더 빠르거나 느렸다면 생명 탄생은 없었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "몇 백만년 내에 우주는 수축하거나 텅 비었을 것이기 때문이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "생명이 출현할 수 있는 환경이 되도록 우주의 기본상수들은 적절한 값을 취하고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "우연히 그렇게 될 통계적 확률은 10의 220제곱분의 1. 저자는 이에 대해 '이기적 친생명 우주' 가설을 제시한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지능을 가진 생명의 출현은 우주를 지배하는 물리법칙과 상수들에 의해서 예정된 것이라는 것이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "생명이 이기적 유전자를 위해 진화하는 것처럼 우주도 이기적인 우주 코드의 생존을 위해서 진화.번식한다는 주장을 편다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다소 어려운 게 흠이다.",
+        "sentenceSize": 13
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'생명우주', 우주론의 수수께끼 중 하나는 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

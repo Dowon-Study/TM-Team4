@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197279",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[인문/지성] '임석재 서양건축사'",
+    "newsSubTitle": "인간이 남긴 흔적 건축으로 역사보기",
+    "newsContent": "역사를 이해하는 방법은 다양하다.\n정치를 통해 인간이 살아온 길을 더듬을 수도 있고, 경제를 통한 역사읽기도 가능하다.\n특히 건축으로 훑는 역사는 실물이나 복원된 실체를 통하기에 이해가 훨씬 쉽다는 장점이 있다.\n건축은 다른 동물과 인간을 차별화하는 가장 결정적인 요소다.\n물론 다른 동물들도 생존을 위한 보금자리를 만든다.\n그러나 인간은 생존을 넘어서는 다양한 이유로 건축활동을 한다.\n신전과 목욕탕.극장 등 다양한 기능의 건축물들이 나타났다 사라지곤 했다.\n임석재(이화여대 건축학과)교수는 건축을 통해 서양의 역사를 풀어내는 방대한 연구를 벌이고 있다.\n인류의 기원에서 19세기까지의 서양건축사를 모두 5권에 엮어내는 작업 중 이번에 1.2권을 출간했다.\n1권 '땅과 인간'은 원시시대에서 로마제국에 이르는 기간을, 2권 '기독교와 인간'은 초기 기독교 건축에서 비잔틴 건축에 이르는 내용을 담았다.\n임교수의 작업은 우선 서양건축사를 번역이 아닌 국내 학자의 눈으로 정리하고 해석했다는 점에서 신선하다.\n저자는 이 책을 위해 10년 동안 10여 차례 유럽을 답사하며 직접 사진을 찍었다.\n임교수는 이 연구를 시작하게 된 배경을 세 가지로 밝혔다.\n첫째, 서양사가들에 의한 서양건축사가 지나치게 서양 우월적 시각을 견지하고 있다는 점이다.\n서양의 건축은 동양과 영향력을 주고받으며 이뤄졌음에도 동양보다 우월하다는 인식에 빠진채 동서양의 상호 관계를 받아들이지 않고 있다는 지적이다.\n둘째는 서양사가들이 내놓는 연구서들이 시대상황에 대한 분석보다 주로 건축의 직선적 발전과정을 추적하는 내용으로 구성된 점을 문제로 삼았다.\n셋째는 고급양식 중심의 엘리트주의로 인해 역사적 가치와 예술적 작품성을 갖는 대상을 공공 건물이나 교회 등 지배층의 기념비적 건축물에 한정했다는 점을 비판했다.\n이런 문제점들을 극복하기 위해 임 교수는 건축을 인간 중심으로 풀어내는데 주력했다.\n더불어 서양 중심의 시각이 아닌 객관적인 시각으로 서양건축사를 읽는다는 데 비중을 두었다.\n1.2권에는 알타미라 동굴벽화에서 시작해 이집트의 피라미드, 그리스의 신전, 로마와 폼페이의 주택, 초기 기독교 교회와 이슬람의 영향을 받은 비잔틴 건축까지 도면과 사진을 곁들여 읽기 쉽게 풀어내고 있다.\n특히 각 시대의 상황과 그런 건축물이 생겨나게 된 배경을 친절하게 설명하고 있어 건축사로서뿐 아니라 서양의 역사를 이해하기 위한 교양서로도 추천할 만하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "역사를 이해하는 방법은 다양하다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정치를 통해 인간이 살아온 길을 더듬을 수도 있고, 경제를 통한 역사읽기도 가능하다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 건축으로 훑는 역사는 실물이나 복원된 실체를 통하기에 이해가 훨씬 쉽다는 장점이 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "건축은 다른 동물과 인간을 차별화하는 가장 결정적인 요소다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "물론 다른 동물들도 생존을 위한 보금자리를 만든다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 인간은 생존을 넘어서는 다양한 이유로 건축활동을 한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "신전과 목욕탕.극장 등 다양한 기능의 건축물들이 나타났다 사라지곤 했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "임석재(이화여대 건축학과)교수는 건축을 통해 서양의 역사를 풀어내는 방대한 연구를 벌이고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "인류의 기원에서 19세기까지의 서양건축사를 모두 5권에 엮어내는 작업 중 이번에 1.2권을 출간했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "1권 '땅과 인간'은 원시시대에서 로마제국에 이르는 기간을, 2권 '기독교와 인간'은 초기 기독교 건축에서 비잔틴 건축에 이르는 내용을 담았다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "임교수의 작업은 우선 서양건축사를 번역이 아닌 국내 학자의 눈으로 정리하고 해석했다는 점에서 신선하다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "저자는 이 책을 위해 10년 동안 10여 차례 유럽을 답사하며 직접 사진을 찍었다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "임교수는 이 연구를 시작하게 된 배경을 세 가지로 밝혔다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "첫째, 서양사가들에 의한 서양건축사가 지나치게 서양 우월적 시각을 견지하고 있다는 점이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "서양의 건축은 동양과 영향력을 주고받으며 이뤄졌음에도 동양보다 우월하다는 인식에 빠진채 동서양의 상호 관계를 받아들이지 않고 있다는 지적이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "둘째는 서양사가들이 내놓는 연구서들이 시대상황에 대한 분석보다 주로 건축의 직선적 발전과정을 추적하는 내용으로 구성된 점을 문제로 삼았다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "셋째는 고급양식 중심의 엘리트주의로 인해 역사적 가치와 예술적 작품성을 갖는 대상을 공공 건물이나 교회 등 지배층의 기념비적 건축물에 한정했다는 점을 비판했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "이런 문제점들을 극복하기 위해 임 교수는 건축을 인간 중심으로 풀어내는데 주력했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "더불어 서양 중심의 시각이 아닌 객관적인 시각으로 서양건축사를 읽는다는 데 비중을 두었다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "1.2권에는 알타미라 동굴벽화에서 시작해 이집트의 피라미드, 그리스의 신전, 로마와 폼페이의 주택, 초기 기독교 교회와 이슬람의 영향을 받은 비잔틴 건축까지 도면과 사진을 곁들여 읽기 쉽게 풀어내고 있다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "특히 각 시대의 상황과 그런 건축물이 생겨나게 된 배경을 친절하게 설명하고 있어 건축사로서뿐 아니라 서양의 역사를 이해하기 위한 교양서로도 추천할 만하다.",
+        "sentenceSize": 86
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "동양 건축을 미개하다며 깔보았던 서양 건축사... 동양인으로 눈으로 재해석한 책 출간",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

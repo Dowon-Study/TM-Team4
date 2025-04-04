@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196162",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "‘렙토스피라증’ 9월~10월 특히 잘 발생, 무심코 감기라고 지나쳤다간…",
+    "newsSubTitle": "",
+    "newsContent": "최근 9월, 10월에 특히 잘 발생하는 질병 ‘렙토스피라증’에 대한 관심이 뜨겁다. 22일 질병관리본부에 따르면 렙토스피라증은 북극과 남극 외의 어느 지역에서나 발생할 수 있는 감염증이다.\n농림업, 어업, 축산업, 광업 종사자 및 수의사 등 관련 업종 종사자의 직업병이며, 업무상 밖에서 활동하는 사람들에게서 흔히 발생한다.\n가축이나 야생 동물의 소변으로 전파되며, 감염된 동물(주로 쥐)의 소변이나 조직으로 오염된 하천이나 호수를 여러 명이 함께 이용할 때 집단 발생할 수 있다. 7월에서 11월 사이, 특히 9, 10월에 잘 발생한다.\n렙토스피라증은 다양한 증상을 일으키는 질환으로, 잠복기는 7~12일 정도다.\n갑자기 시작되는 발열과 두통, 오한, 심한 근육통(특히 종아리와 허벅지), 안결막 충혈이 흔한 증상이다.\n이상한 형태의 발열, 수막염, 발진, 용혈성 빈혈, 피부나 점막의 출혈, 간부전, 황달, 신부전, 심근염, 의식저하, 객혈을 동반하는 호흡기 병리적 증상 등도 나타날 수 있다.\n사망률은 낮지만 연령이 높을수록 사망률이 증가한다.\n황달이나 신장 손상이 있는 경우 주의 깊게 치료하지 않으면 20% 이상의 사망률을 보인다.\n항생제 치료로 사망률을 감소시킨다는 체계적인 연구 결과는 없지만, 발병 5일 내 조기에 항생제를 투여한 경우 발열 기간과 입원 기간을 단축시킬 수 있다.\n중증의 경우에는 페니실린이 가장 좋은 치료제다.\n렙토스피라증 환자는 격리시킬 필요가 없으며 환자와 접촉한 사람에 대해서도 특별한 관리가 필요 없다.\n온라인 중앙일보 ‘렙토스피라증’ http://terms.naver.com/entry.nhn?docId=926589&cid=51007&categoryId=51007",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최근 9월, 10월에 특히 잘 발생하는 질병 ‘렙토스피라증’에 대한 관심이 뜨겁다. 22일 질병관리본부에 따르면 렙토스피라증은 북극과 남극 외의 어느 지역에서나 발생할 수 있는 감염증이다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "농림업, 어업, 축산업, 광업 종사자 및 수의사 등 관련 업종 종사자의 직업병이며, 업무상 밖에서 활동하는 사람들에게서 흔히 발생한다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "가축이나 야생 동물의 소변으로 전파되며, 감염된 동물(주로 쥐)의 소변이나 조직으로 오염된 하천이나 호수를 여러 명이 함께 이용할 때 집단 발생할 수 있다. 7월에서 11월 사이, 특히 9, 10월에 잘 발생한다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "렙토스피라증은 다양한 증상을 일으키는 질환으로, 잠복기는 7~12일 정도다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "갑자기 시작되는 발열과 두통, 오한, 심한 근육통(특히 종아리와 허벅지), 안결막 충혈이 흔한 증상이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이상한 형태의 발열, 수막염, 발진, 용혈성 빈혈, 피부나 점막의 출혈, 간부전, 황달, 신부전, 심근염, 의식저하, 객혈을 동반하는 호흡기 병리적 증상 등도 나타날 수 있다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사망률은 낮지만 연령이 높을수록 사망률이 증가한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "황달이나 신장 손상이 있는 경우 주의 깊게 치료하지 않으면 20% 이상의 사망률을 보인다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "항생제 치료로 사망률을 감소시킨다는 체계적인 연구 결과는 없지만, 발병 5일 내 조기에 항생제를 투여한 경우 발열 기간과 입원 기간을 단축시킬 수 있다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "중증의 경우에는 페니실린이 가장 좋은 치료제다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "렙토스피라증 환자는 격리시킬 필요가 없으며 환자와 접촉한 사람에 대해서도 특별한 관리가 필요 없다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "온라인 중앙일보 ‘렙토스피라증’ http://terms.naver.com/entry.nhn?docId=926589&cid=51007&categoryId=51007",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "감기라고 지나쳤다 사망할 수도... 어느 지역에서나 발생 가능한 렙토스피라증은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

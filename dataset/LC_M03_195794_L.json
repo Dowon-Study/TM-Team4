@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195794",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "163cm 60kg 21세女, 비만도 계산기 측정 결과는…정상!",
+    "newsSubTitle": "",
+    "newsContent": "비만도 계산기가 화제다.\n비만도 계산기가 네티즌들의 주목 받는 가운데, 체질량 지수인 BMI(Body Mass Index) 계산법에 근거해 BMI 지수 = 몸무게(kg) ÷ (신장(m) × 신장(m))의 공식으로 계산된다.\n초고도비만은 질병관리본부에서 제공하고 있는 비만도계산기 체질량 지수인 BMI(Body Mass Index)가 35이상이 되는 것을 말한다.\n비만도 계산기로 나온 BMI 지수가 18.5 이하면 저체중, 18.5~23은 정상, 23~25는 과체중, 25~30은 비만, 30~35는 고도비만으로 분류된다.\n이 계산기로 키 163cm 몸무게 60kg인 만 21세 여성은 BMI 지수가 22.58이 나와 정상 범주에 들어갔다.\n이 여성이 몸무게가 93kg가 넘어가면 BMI 지수가 35인 초고도비만 판정이 내려진다.\nBMI지수는 키가 작을수록, 몸무게가 많이 나갈수록, 나이가 많을수록 커진다.\n이처럼 비만도계산기를 이용하면 현재의 비만 여부뿐만 아니라 얼마의 체중감량이 필요한지 알 수 있다.\n비만도계산기는 네이버 홈페이지에서 비만도계산기를 검색하면 간단하게 찾을 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "비만도 계산기가 화제다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "비만도 계산기가 네티즌들의 주목 받는 가운데, 체질량 지수인 BMI(Body Mass Index) 계산법에 근거해 BMI 지수 = 몸무게(kg) ÷ (신장(m) × 신장(m))의 공식으로 계산된다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "초고도비만은 질병관리본부에서 제공하고 있는 비만도계산기 체질량 지수인 BMI(Body Mass Index)가 35이상이 되는 것을 말한다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "비만도 계산기로 나온 BMI 지수가 18.5 이하면 저체중, 18.5~23은 정상, 23~25는 과체중, 25~30은 비만, 30~35는 고도비만으로 분류된다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 계산기로 키 163cm 몸무게 60kg인 만 21세 여성은 BMI 지수가 22.58이 나와 정상 범주에 들어갔다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 여성이 몸무게가 93kg가 넘어가면 BMI 지수가 35인 초고도비만 판정이 내려진다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "BMI지수는 키가 작을수록, 몸무게가 많이 나갈수록, 나이가 많을수록 커진다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이처럼 비만도계산기를 이용하면 현재의 비만 여부뿐만 아니라 얼마의 체중감량이 필요한지 알 수 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "비만도계산기는 네이버 홈페이지에서 비만도계산기를 검색하면 간단하게 찾을 수 있다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비만 여부뿐만 아니라 체중 감량 수치까지 계산기로 확인?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

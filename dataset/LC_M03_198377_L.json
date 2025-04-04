@@ -1,0 +1,312 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198377",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[손민호 기자의 문학 터치] 하이퍼 픽션, 이야기의 환상을 깨부수다",
+    "newsSubTitle": "'잠자는 미녀' 로버트 쿠버 지음",
+    "newsContent": "이야기에 관해 이야기한다.\n아니 이야기에 관한 이야기를 이야기한다.\n말장난이라 비웃지 말라.\n무릇 이야기란 말을 갖고 노는 장난이다.\n오늘 기쁜 마음으로 비전(秘傳) 하나를 소개한다.\n로버트 쿠버(Robert Coover)의 '잠자는 미녀'(이성원 옮김, 열림원)란 중편이다.\n저자는 미국 브라운대학에서 문학을 가르치는 1932년생 미국인이다.\n21세기형 소설로 불리는 이른바 '하이퍼 픽션(Hyper-Fiction)'의 대가다.\n하이퍼 픽션? 그 전형이 이 책이다.\n제목에서 알 수 있듯, 소설은 숲 속에서 100년간 잠만 잤다는 그 미녀에 관한 이야기다.\n그 이야기이긴 한데 그 이야기가 아니기도 하다.\n일테면 이런 식이다.\n100년이나 이부자리도 갈지 않은 침대에 누워있었다면 공주는 얼마나 지저분할까.\n미녀를 깨운 왕자는 알고 보니 유부남이고, 노인이거나 나병 환자일 수 있다.\n공주를 깨우는 목적을 달성하면 허탈해질까봐 공주를 내버려두고 돌아선 왕자도 있으리라.\n미녀를 겁탈한 왕자도 있을 법하다.\n그렇다면 침대 아래엔 아기들이 기어다닐 것이다.\n어떠한가.\n영화 '슈렉'이 크게 빚지고 있음을 알 수 있다.\n우리에게 익숙한 내러티브는 독일 그림(Grimm) 형제가 유럽에 떠돌던 여러 설화를 어린이용으로 가위질한 것이다.\n유부남 왕자의 모티브는 17세기 찰스 페로의 버전에서도 발견된다.\n동화 다시 쓰기, 혹은 변주의 미학으로 말하자면 우리네 버전도 있다.\n콩쥐 팥쥐 설화의 진짜 결말은 천벌을 받은 팥쥐가 젓갈이 되는 것이다.\n석 달 전 서울국제문학포럼에 참석한 저자는 영화를 틀어놓고선 \\\"이것도 문학이다\\\"고 하더니 \\\"활자만 문학이냐\\\"고 물었다.\n여럿이서 이야기를 이어가는 글쓰기 사이트를 인터넷에 개설하고는 훗날 소설이랍시고 내놓기도 했다.\n원작은 미국에서 96년 발표됐고, 이듬해 '한밭'이란 출판사가 '숲 속의 공주 잠깨다'란 제목으로 번역.출간했다.\n그러나 지금 출판사는 흔적이 없고 책은 절판된 지 오래다. 10년 사이 많은 일이 있었다.\n자신을 '무규칙 이종 소설가'라 지칭하는 박민규가 출현했고, 천명관.백가흠.편혜영.강병융.안보윤 등은 기상천외한 상상력과 전대미문의 내러티브를 소설이라고 우긴다.\n전래 동화의 마지막 문장 'And they lived happily ever after'. 한때 이 문장을 '아들 딸 낳고 잘 살았답니다'로 풀이했었다.\n그러나 이 번역은 오늘날 저주에 가깝다.\n요즘 아들 딸 낳고 기르기가 얼마나 힘든데, 이 무슨 망발이냔 말이다.\n익히 알고 있다 해서 전부는 아니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 32,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이야기에 관해 이야기한다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아니 이야기에 관한 이야기를 이야기한다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "말장난이라 비웃지 말라.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "무릇 이야기란 말을 갖고 노는 장난이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오늘 기쁜 마음으로 비전(秘傳) 하나를 소개한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "로버트 쿠버(Robert Coover)의 '잠자는 미녀'(이성원 옮김, 열림원)란 중편이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "저자는 미국 브라운대학에서 문학을 가르치는 1932년생 미국인이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "21세기형 소설로 불리는 이른바 '하이퍼 픽션(Hyper-Fiction)'의 대가다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하이퍼 픽션? 그 전형이 이 책이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "제목에서 알 수 있듯, 소설은 숲 속에서 100년간 잠만 잤다는 그 미녀에 관한 이야기다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그 이야기이긴 한데 그 이야기가 아니기도 하다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "일테면 이런 식이다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "100년이나 이부자리도 갈지 않은 침대에 누워있었다면 공주는 얼마나 지저분할까.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "미녀를 깨운 왕자는 알고 보니 유부남이고, 노인이거나 나병 환자일 수 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "공주를 깨우는 목적을 달성하면 허탈해질까봐 공주를 내버려두고 돌아선 왕자도 있으리라.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "미녀를 겁탈한 왕자도 있을 법하다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "그렇다면 침대 아래엔 아기들이 기어다닐 것이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "어떠한가.",
+        "sentenceSize": 5
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "영화 '슈렉'이 크게 빚지고 있음을 알 수 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "우리에게 익숙한 내러티브는 독일 그림(Grimm) 형제가 유럽에 떠돌던 여러 설화를 어린이용으로 가위질한 것이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "유부남 왕자의 모티브는 17세기 찰스 페로의 버전에서도 발견된다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "동화 다시 쓰기, 혹은 변주의 미학으로 말하자면 우리네 버전도 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "콩쥐 팥쥐 설화의 진짜 결말은 천벌을 받은 팥쥐가 젓갈이 되는 것이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "석 달 전 서울국제문학포럼에 참석한 저자는 영화를 틀어놓고선 \\\"이것도 문학이다\\\"고 하더니 \\\"활자만 문학이냐\\\"고 물었다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "여럿이서 이야기를 이어가는 글쓰기 사이트를 인터넷에 개설하고는 훗날 소설이랍시고 내놓기도 했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "원작은 미국에서 96년 발표됐고, 이듬해 '한밭'이란 출판사가 '숲 속의 공주 잠깨다'란 제목으로 번역.출간했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "그러나 지금 출판사는 흔적이 없고 책은 절판된 지 오래다. 10년 사이 많은 일이 있었다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "자신을 '무규칙 이종 소설가'라 지칭하는 박민규가 출현했고, 천명관.백가흠.편혜영.강병융.안보윤 등은 기상천외한 상상력과 전대미문의 내러티브를 소설이라고 우긴다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 29,
+        "sentenceContent": "전래 동화의 마지막 문장 'And they lived happily ever after'. 한때 이 문장을 '아들 딸 낳고 잘 살았답니다'로 풀이했었다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 30,
+        "sentenceContent": "그러나 이 번역은 오늘날 저주에 가깝다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 31,
+        "sentenceContent": "요즘 아들 딸 낳고 기르기가 얼마나 힘든데, 이 무슨 망발이냔 말이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 32,
+        "sentenceContent": "익히 알고 있다 해서 전부는 아니다.",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'잠자는 숲 속의 공주'의 반전 이야기! 그녀는 사실.... '이 상태'였을지도?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 29,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 30,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 31,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 32,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

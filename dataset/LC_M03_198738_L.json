@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198738",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[속보]코로나19 신규 환자 49명 발생…수도권·대전 중심으로 확산세 지속",
+    "newsSubTitle": "",
+    "newsContent": "신종코로나바이러스 감염증(코로나19) 신규 환자가 49명 발생하며 수도권·대전 등을 중심으로 확산세가 지속되고 있다.\n질병관리본부 중앙방역대책본부는 19일 0시 현재 지역사회 32명, 해외유입 17명 등 총 49명의 신규 확진자가 발생했다고 밝혔다.\n총 누적 확진자수는 1만2306명이 됐다.\n지역사회 32명은 서울 17명, 경기 9명, 대전 6명 등이다.\n대전 다단계 업체 및 꿈꾸는 교회 발 감염자가 느는 추세다.\n해외유입 17명은 검역단계에서 11명이 확진됐으며, 서울·제주·경기 등에서 1~2명씩 나왔다.\n이날 35명이 격리 해제돼, 현재 1191명이 격리 중이다.\n사망자는 0명으로 누적 사망자는 280명(치명률 2.27%)이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신종코로나바이러스 감염증(코로나19) 신규 환자가 49명 발생하며 수도권·대전 등을 중심으로 확산세가 지속되고 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "질병관리본부 중앙방역대책본부는 19일 0시 현재 지역사회 32명, 해외유입 17명 등 총 49명의 신규 확진자가 발생했다고 밝혔다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "총 누적 확진자수는 1만2306명이 됐다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지역사회 32명은 서울 17명, 경기 9명, 대전 6명 등이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "대전 다단계 업체 및 꿈꾸는 교회 발 감염자가 느는 추세다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해외유입 17명은 검역단계에서 11명이 확진됐으며, 서울·제주·경기 등에서 1~2명씩 나왔다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날 35명이 격리 해제돼, 현재 1191명이 격리 중이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "사망자는 0명으로 누적 사망자는 280명(치명률 2.27%)이다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코로나 신규 환자 49명 발생... '이 지역' 중심으로 확산세 지속",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

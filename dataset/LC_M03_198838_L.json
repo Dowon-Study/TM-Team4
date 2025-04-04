@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198838",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "마음만은 아직 청춘 그대로인 마누라, 귀엽다!",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 웃긴다! 79살이란다(17) 항상 마누라 앞에서만은 죄지은 놈 마냥 기를 펴지 못하고 눈만 내리깔던 나는 오늘은 초저녁부터 마시던 혼술 기운에 힘입어 나 자신도 깜짝 놀랄 정도로 간덩이가 커졌다.\n그리고는 가슴 속 나 자신을 향해 마치 장군처럼 명령했다.\n자! 마누라 앞에서 허리 곧추세우고 가슴 활짝 펴고 어깨 으쓱해 보이란 말이야. 그리고 큰 목소리로 꽥~ 질러봐!\n- 내가 당신 밥 굶겼어? - 당신 옷 벗겼어?\n- 당신 집 없어?\n- 아이들 둘 남부럽지 않게 공부시켜 결혼시켰잖아.\n- 내가 왜 당신 앞에서 기죽어 살아야 해? 후련했다.\n정말로 10년 묵은 체증이 확 뚫리는 것 같았다.\n그리고 마지막으로 쑥스러워 가슴 속 깊이 꽁꽁 싸두었던 마지막 한마디도 이참에 시원하게 내뱉었다.\n- 내가 얼마나 당신을 사랑하는 줄 알아?\n아~! 신파 연극 대사 같았지만 멋있었어.\n하지만 마지막 '사랑한다'는 말은 하지 말았어야 했다.\n마음 단단히 먹고 용감하게 쏟아놓는 내 말이 끝나기도 전에 마누라는 눈을 흘기며 주방 커튼 뒤로 몸을 숨겼다.\n비록 겉은 늙었으나 마음속만은 아직도 새파란 청춘(?)인 마누라. 그래, 그래. 참 다행이다. ㅋ",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 웃긴다! 79살이란다(17) 항상 마누라 앞에서만은 죄지은 놈 마냥 기를 펴지 못하고 눈만 내리깔던 나는 오늘은 초저녁부터 마시던 혼술 기운에 힘입어 나 자신도 깜짝 놀랄 정도로 간덩이가 커졌다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그리고는 가슴 속 나 자신을 향해 마치 장군처럼 명령했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "자! 마누라 앞에서 허리 곧추세우고 가슴 활짝 펴고 어깨 으쓱해 보이란 말이야. 그리고 큰 목소리로 꽥~ 질러봐!",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "- 내가 당신 밥 굶겼어? - 당신 옷 벗겼어?",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "- 당신 집 없어?",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "- 아이들 둘 남부럽지 않게 공부시켜 결혼시켰잖아.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "- 내가 왜 당신 앞에서 기죽어 살아야 해? 후련했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "정말로 10년 묵은 체증이 확 뚫리는 것 같았다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그리고 마지막으로 쑥스러워 가슴 속 깊이 꽁꽁 싸두었던 마지막 한마디도 이참에 시원하게 내뱉었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "- 내가 얼마나 당신을 사랑하는 줄 알아?",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "아~! 신파 연극 대사 같았지만 멋있었어.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "하지만 마지막 '사랑한다'는 말은 하지 말았어야 했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "마음 단단히 먹고 용감하게 쏟아놓는 내 말이 끝나기도 전에 마누라는 눈을 흘기며 주방 커튼 뒤로 몸을 숨겼다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "비록 겉은 늙었으나 마음속만은 아직도 새파란 청춘(?)인 마누라. 그래, 그래. 참 다행이다. ㅋ",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이 사람' 앞에서 항상 기죽은 나... 오늘만은 자신감 있게 말해보자!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

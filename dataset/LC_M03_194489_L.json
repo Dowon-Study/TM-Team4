@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194489",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[짤막소식] 쉐라톤 그랜드 워커힐 外",
+    "newsSubTitle": "",
+    "newsContent": "◆쉐라톤 그랜드 워커힐은 창립 44주년을 맞아 객실 1박과 뮤지컬 하이라이트 쇼 '서브웨이' 관람을 묶은 사은 패키지를 11만원(세금.봉사료 별도)에 내놨다.\n공연은 W석 2인 기준이다.\n공연이 없는 일요일 숙박자에겐 익일 조식(2인)이 제공된다.\n1일당 44실 선착순 판매한다. 02-2022-0000. ◆고인돌답사회는 12일과 19일 구룡산 옛길로 야생화 트레킹을 떠난다.\n구룡산 옛길은 강원도 양양 서면 갈천리와 홍천내면 명개리를 연결하는 아흔아홉구비 산길. 200~300년된 금강송이 울창한 곳이다.\n참가비 3만5000원. 아침 간식과 중식, 왕복버스비가 포함된 가격이다.\n02-745-2626. ◆몰디브.푸켓 등 전 세계 100여 곳에 빌리지를 운영하는 클럽메드코리아는 여름 휴가 성수기와 추석 연휴 조기 예약자에게 1인당 10만원씩을 할인해 준다.\n예약 마감은 이달 20일이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆쉐라톤 그랜드 워커힐은 창립 44주년을 맞아 객실 1박과 뮤지컬 하이라이트 쇼 '서브웨이' 관람을 묶은 사은 패키지를 11만원(세금.봉사료 별도)에 내놨다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "공연은 W석 2인 기준이다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공연이 없는 일요일 숙박자에겐 익일 조식(2인)이 제공된다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "1일당 44실 선착순 판매한다. 02-2022-0000. ◆고인돌답사회는 12일과 19일 구룡산 옛길로 야생화 트레킹을 떠난다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "구룡산 옛길은 강원도 양양 서면 갈천리와 홍천내면 명개리를 연결하는 아흔아홉구비 산길. 200~300년된 금강송이 울창한 곳이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "참가비 3만5000원. 아침 간식과 중식, 왕복버스비가 포함된 가격이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "02-745-2626. ◆몰디브.푸켓 등 전 세계 100여 곳에 빌리지를 운영하는 클럽메드코리아는 여름 휴가 성수기와 추석 연휴 조기 예약자에게 1인당 10만원씩을 할인해 준다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "예약 마감은 이달 20일이다.",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "쉐라톤 그랜드 워커힐, 창립 44주년 기념 세일... 자세한 정보는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195853",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "오가피 구입 요령, 국산 vs 중국산 차이점 색깔…어디를 보면 될까?",
+    "newsSubTitle": "",
+    "newsContent": "'오가피 구입 요령' 오가피 구입 요령에 관심이 집중됐다.\n구입요령은 속이 하얗고 깨끗하게 건조된 것이 좋다 오가피는 국내에도 다량 생산되며 중국에서 많이 생산되고 있는 약재로 나무껍질을 주로 약용으로 사용하는 약재이다.\n오가피는 전체적으로 색이 국산이 중국산에 비해 밝은 황색을 띠고 있으며 중국산의 경우는 국산보다는 짙은 색을 띠고 있으며 겉표면 역시도 거친 편이다.\n오가피는 나무껍질이므로 가지와 같이 섞여져 있는 것은 품질이 양호하지 못하다.\n주로 오가피 차로 즐겨 마시며, 오가피는 혈액순환에 좋으며 기운을 회복하는데 도움을 준다고. 오가피는 해독 작용과 항암효과가 탁월한 아칸토산이 함유되어 있어 고혈압, 당뇨, 관절염 예방에 좋다.\n오가피 구입 요령 소식을 접한 네티즌들은 “오가피 구입 요령? 그렇구나”, “오가피 구입 요령, 깨끗한 것으로”, “오가피 구입 요령, 친구한테 말해줘야겠다” 등의 반응을 보였다.\n온라인 중앙일보 '오가피 구입 요령'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'오가피 구입 요령' 오가피 구입 요령에 관심이 집중됐다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "구입요령은 속이 하얗고 깨끗하게 건조된 것이 좋다 오가피는 국내에도 다량 생산되며 중국에서 많이 생산되고 있는 약재로 나무껍질을 주로 약용으로 사용하는 약재이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오가피는 전체적으로 색이 국산이 중국산에 비해 밝은 황색을 띠고 있으며 중국산의 경우는 국산보다는 짙은 색을 띠고 있으며 겉표면 역시도 거친 편이다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오가피는 나무껍질이므로 가지와 같이 섞여져 있는 것은 품질이 양호하지 못하다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "주로 오가피 차로 즐겨 마시며, 오가피는 혈액순환에 좋으며 기운을 회복하는데 도움을 준다고. 오가피는 해독 작용과 항암효과가 탁월한 아칸토산이 함유되어 있어 고혈압, 당뇨, 관절염 예방에 좋다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오가피 구입 요령 소식을 접한 네티즌들은 “오가피 구입 요령? 그렇구나”, “오가피 구입 요령, 깨끗한 것으로”, “오가피 구입 요령, 친구한테 말해줘야겠다” 등의 반응을 보였다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 '오가피 구입 요령'",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고혈압, 당뇨 예방뿐 아니라 항암효과 탁월한 오가피, 구매 시 주의할 점은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

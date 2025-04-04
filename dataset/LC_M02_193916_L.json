@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193916",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "'음주운전 방조' 오승윤, '호구의 연애'서 통편집 결정",
+    "newsSubTitle": "",
+    "newsContent": "배우 오승윤(28)이 음주운전 방조 혐의에 휩싸인 가운데, 출연 중이던 방송에서 자취를 감출 전망이다.\nMBC '호구의 연애' 제작 관계자는 12일 미디어SR에 \\\"이번 주 방송부터 오승윤 촬영 분량을 최대한 편집한다. 기존 촬영분량 중 타 출연자들의 감정선 등 방송 흐름 상 불가피한 부분 외의 모든 장면들을 편집할 계획\\\"이라고 밝혔다.\n관계자는 이어 \\\"이번 일이 있기 전 촬영이 진행된 상태여서 전면 편집은 프로그램 전체 흐름에 피해를 줄 수 있는 만큼 오승윤이 출연하는 일부 장면들이 있다는 점엔 양해를 바란다\\\"고 덧붙였다.\n그러면서 \\\"오승윤 관련 보도를 접하고 우리도 매우 당황스러운 상태다. 소속사를 통해 상황 파악 후 내부 논의를 통해 결정한 내용\\\"이라고 말했다.\n오승윤은 지난 달 26일 새벽 인천시 서구 청라동의 한 도로에서 자신 소유의 BMW 승용차를 운전한 여성 A씨(22)의 음주운전을 알고도 방조한 혐의로 경찰에 불구속 입건됐다.\nA씨의 혈중 알코올 농도는 0.101%로 면허취소에 해당된다.\nA씨는 오승윤의 여자친구로 알려졌으나 소속사 확인 결과 여성은 지인으로 드러났다.\n오승윤은 소속사를 통해 \\\"말리려고 시도하긴 했지만 A씨의 음주운전을 끝까지 막지 못한 건 전적으로 제 잘못이다. 깊이 뉘우치고 있으며 성실히 경찰 조사를 받은 상태\\\"라고 전했다.\n한편, 오승윤은 지난 1996년 MBC 드라마 '자반고등어'를 통해 데뷔했다.\n이후 아역배우 생활을 하며 SBS 드라마 '여인천하' 복성군 역과 KBS2 어린이 드라마 '매직키드 마수리' 마수리 역을 맡으며 얼굴을 알렸다.\n최근에는 SBS 드라마 '황후의 품격'에 출연해 화제를 모았으며 MBC 예능 '호구의 연애'에 출연 중이었다.\n이에 더해 오는 7월 26일 첫 방송 예정인 드라마 '멜로가 체질'에도 출연을 앞두고 있었으나 이번 음주운전 방조 건으로 제동이 걸렸다. '멜로가 체질' 측은 아직 \\\"확인 중\\\"이라는 답변 외에 공식적으로 입장을 밝히지 않은 상태다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 오승윤(28)이 음주운전 방조 혐의에 휩싸인 가운데, 출연 중이던 방송에서 자취를 감출 전망이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "MBC '호구의 연애' 제작 관계자는 12일 미디어SR에 \\\"이번 주 방송부터 오승윤 촬영 분량을 최대한 편집한다. 기존 촬영분량 중 타 출연자들의 감정선 등 방송 흐름 상 불가피한 부분 외의 모든 장면들을 편집할 계획\\\"이라고 밝혔다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "관계자는 이어 \\\"이번 일이 있기 전 촬영이 진행된 상태여서 전면 편집은 프로그램 전체 흐름에 피해를 줄 수 있는 만큼 오승윤이 출연하는 일부 장면들이 있다는 점엔 양해를 바란다\\\"고 덧붙였다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러면서 \\\"오승윤 관련 보도를 접하고 우리도 매우 당황스러운 상태다. 소속사를 통해 상황 파악 후 내부 논의를 통해 결정한 내용\\\"이라고 말했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오승윤은 지난 달 26일 새벽 인천시 서구 청라동의 한 도로에서 자신 소유의 BMW 승용차를 운전한 여성 A씨(22)의 음주운전을 알고도 방조한 혐의로 경찰에 불구속 입건됐다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "A씨의 혈중 알코올 농도는 0.101%로 면허취소에 해당된다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "A씨는 오승윤의 여자친구로 알려졌으나 소속사 확인 결과 여성은 지인으로 드러났다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오승윤은 소속사를 통해 \\\"말리려고 시도하긴 했지만 A씨의 음주운전을 끝까지 막지 못한 건 전적으로 제 잘못이다. 깊이 뉘우치고 있으며 성실히 경찰 조사를 받은 상태\\\"라고 전했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 오승윤은 지난 1996년 MBC 드라마 '자반고등어'를 통해 데뷔했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이후 아역배우 생활을 하며 SBS 드라마 '여인천하' 복성군 역과 KBS2 어린이 드라마 '매직키드 마수리' 마수리 역을 맡으며 얼굴을 알렸다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "최근에는 SBS 드라마 '황후의 품격'에 출연해 화제를 모았으며 MBC 예능 '호구의 연애'에 출연 중이었다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이에 더해 오는 7월 26일 첫 방송 예정인 드라마 '멜로가 체질'에도 출연을 앞두고 있었으나 이번 음주운전 방조 건으로 제동이 걸렸다. '멜로가 체질' 측은 아직 \\\"확인 중\\\"이라는 답변 외에 공식적으로 입장을 밝히지 않은 상태다.",
+        "sentenceSize": 131
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 오승윤, 방송에서 자취 감췄다... 그 배경은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

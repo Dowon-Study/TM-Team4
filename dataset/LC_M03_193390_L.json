@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193390",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[생각키우기] 3월 12일",
+    "newsSubTitle": "",
+    "newsContent": "① 직접 민주제와 대의제(간접 민주제)의 장단점을 표로 정리하세요.\n② 대의제의 단점을 보완하기 위해 도입한 직접 민주제의 형태를 아는 대로 들어보세요.\n③ UCC의 정치적 순기능과 역기능을 표로 만들어 비교하세요.\n④ UCC를 통해 새롭게 스타로 떠오른 인물과 피해를 본 인물의 예를 기사에서 찾아 내용을 각각 400자로 요약하세요.\n⑤ UCC의 정치적 위력이 나타난 신문기사를 유형별로 다섯 가지만 찾아 정리하세요.\n⑥ 우리나라에서 국가기관이 인터넷으로 여론을 수렴해 정책에 반영한 사례를 세 가지 이상 설명해요.\n그리고 미국.캐나다.영국.브라질의 사례를 한 가지씩만 기사에서 찾으세요.\n⑦ 12월에 있을 대선 후보군 가운데 3명을 골라 UCC에 나타난 모습과 신문기사를 통해 보이는 모습이 어떤 차이를 보이는지 분석해 봐요.\n⑧ UCC는 개인이 정보를 가공하는 것이 대부분이어서 프라이버시 침해나 허위 정보 유포 등 부작용도 낳고 있습니다.\n건전한 UCC 문화 정착을 위한 다섯 가지 원칙을 세워 인터넷에 올리세요.\n⑨ 학생회장 선거를 위해 홍보용 UCC를 만들려고 합니다.\n모둠을 지어 전략회의를 한 뒤 스토리보드를 만들고 UCC를 제작하세요.\n⑩ 인터넷 정치가 실질적인 참여 민주주의의 대안이 되기 위해 갖춰야 할 최소한의 조건은 무엇인가요?\n⑪ UCC가 대의제의 단점을 보완하고 참여 민주주의의 새로운 대안이 될 수 있는지 자신의 생각을 1200자로 논술하세요.\n※참고하세요=2007년 2월 8일자 3면(UCC '인터넷 새 권력'…대선 판도 변수), 35면(UCC 문화와 대선), 14일자 10면('UCC 선거운동' 허용 추진) 등.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "① 직접 민주제와 대의제(간접 민주제)의 장단점을 표로 정리하세요.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "② 대의제의 단점을 보완하기 위해 도입한 직접 민주제의 형태를 아는 대로 들어보세요.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "③ UCC의 정치적 순기능과 역기능을 표로 만들어 비교하세요.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "④ UCC를 통해 새롭게 스타로 떠오른 인물과 피해를 본 인물의 예를 기사에서 찾아 내용을 각각 400자로 요약하세요.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "⑤ UCC의 정치적 위력이 나타난 신문기사를 유형별로 다섯 가지만 찾아 정리하세요.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "⑥ 우리나라에서 국가기관이 인터넷으로 여론을 수렴해 정책에 반영한 사례를 세 가지 이상 설명해요.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그리고 미국.캐나다.영국.브라질의 사례를 한 가지씩만 기사에서 찾으세요.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "⑦ 12월에 있을 대선 후보군 가운데 3명을 골라 UCC에 나타난 모습과 신문기사를 통해 보이는 모습이 어떤 차이를 보이는지 분석해 봐요.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "⑧ UCC는 개인이 정보를 가공하는 것이 대부분이어서 프라이버시 침해나 허위 정보 유포 등 부작용도 낳고 있습니다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "건전한 UCC 문화 정착을 위한 다섯 가지 원칙을 세워 인터넷에 올리세요.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "⑨ 학생회장 선거를 위해 홍보용 UCC를 만들려고 합니다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "모둠을 지어 전략회의를 한 뒤 스토리보드를 만들고 UCC를 제작하세요.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "⑩ 인터넷 정치가 실질적인 참여 민주주의의 대안이 되기 위해 갖춰야 할 최소한의 조건은 무엇인가요?",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "⑪ UCC가 대의제의 단점을 보완하고 참여 민주주의의 새로운 대안이 될 수 있는지 자신의 생각을 1200자로 논술하세요.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "※참고하세요=2007년 2월 8일자 3면(UCC '인터넷 새 권력'…대선 판도 변수), 35면(UCC 문화와 대선), 14일자 10면('UCC 선거운동' 허용 추진) 등.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대선 후보 3명을 골라 UCC에 나타난 보습 보고 '사바사' 분석하기 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

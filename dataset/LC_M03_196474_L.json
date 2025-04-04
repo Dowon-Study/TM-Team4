@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196474",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "비만한 엄마 '모유 수유' 못한다",
+    "newsSubTitle": "",
+    "newsContent": "과체중이고 비만한 산모일수록 정상 여성보다 유아에 대해 6개월 이상 모유 수유를 유지하지 못하는 경향이 있다는 연구결과가 호주 연구팀에 의해 발표됐다.\n호주 텔레톤 연구소 오디박사팀은 1830명의 산모와 아이들을 대상으로 한 대규모 연구를 진행했다.\n이들중 18%의 여성들이 임신전 과체중및 비만한 것으로 나타났다.\n사회경제적 요소및 교육수준등의 인자를 보정한 상태에서 진행된 연구결과 연구팀은 과체중 혹은 비만한 여성들일수록 모유수유를 시도하지 못하거나 하더라도 오래 유지하지 못한다는 사실을 발견했다.\n비만한 여성들은 정상 체중 여성보다 두 달 혹은 네 달 이내 모유수유를 시작할 확률이 두 배 가량 높은 것으로 나타났고 또한 정상 체중 여성에 비해 두 달 혹은 네 달 전 모유수유를 중단할 확률이 각각 52%, 62% 정도 높게 나타났다.\n연구팀은 과체중 혹은 비만 여성들이 유아들이 6개월이 되기 전에 모유숭유를 중단할 확률이 76% 정도 높다고 말했다.\n이와 같은 현상에 대해 연구팀은 과체중이 산모의 호르몬 상태를 변화시켜 지속적인 모유수유를 어렵게 하거나 엄마가 비만할수록 유아들이 엄마의 유방에 붙어 우유를 섭취하는 것이 어려울 수 있다고 추정했다.\n연구팀은 또한 비만한 산모일수록 제왕절개및 임신과 관련된 부작용의 위험이 높다고 말했다. (서울=뉴시스)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "과체중이고 비만한 산모일수록 정상 여성보다 유아에 대해 6개월 이상 모유 수유를 유지하지 못하는 경향이 있다는 연구결과가 호주 연구팀에 의해 발표됐다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "호주 텔레톤 연구소 오디박사팀은 1830명의 산모와 아이들을 대상으로 한 대규모 연구를 진행했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이들중 18%의 여성들이 임신전 과체중및 비만한 것으로 나타났다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사회경제적 요소및 교육수준등의 인자를 보정한 상태에서 진행된 연구결과 연구팀은 과체중 혹은 비만한 여성들일수록 모유수유를 시도하지 못하거나 하더라도 오래 유지하지 못한다는 사실을 발견했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "비만한 여성들은 정상 체중 여성보다 두 달 혹은 네 달 이내 모유수유를 시작할 확률이 두 배 가량 높은 것으로 나타났고 또한 정상 체중 여성에 비해 두 달 혹은 네 달 전 모유수유를 중단할 확률이 각각 52%, 62% 정도 높게 나타났다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구팀은 과체중 혹은 비만 여성들이 유아들이 6개월이 되기 전에 모유숭유를 중단할 확률이 76% 정도 높다고 말했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이와 같은 현상에 대해 연구팀은 과체중이 산모의 호르몬 상태를 변화시켜 지속적인 모유수유를 어렵게 하거나 엄마가 비만할수록 유아들이 엄마의 유방에 붙어 우유를 섭취하는 것이 어려울 수 있다고 추정했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구팀은 또한 비만한 산모일수록 제왕절개및 임신과 관련된 부작용의 위험이 높다고 말했다. (서울=뉴시스)",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "뚱뚱하면 엄마 자격 박탈, 모유 수유는 꿈도 못 꿔...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

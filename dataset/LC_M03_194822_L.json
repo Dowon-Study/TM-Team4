@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194822",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[책과 나] 한비야의 '월든'",
+    "newsSubTitle": "",
+    "newsContent": "대여섯 살 때의 일이다.\n아버지께서 내 스케치북을 보고 깜짝 놀라셨단다.\n페이지마다 아주 그럴듯한 세계지도가 그려져 있어서였다.\n내가 한번 잡으면 죽어도 놓지 않으려던 책이 언니들의 세계지리부도였다니, 어린 내 마음을 사로잡은 첫번째 책은 세계지도 책이었던 것 같다.\n그래서일까 초등학교 때부터 『80일간의 세계일주』 『김찬삼 여행기』 등 여행에 관한 책을 읽으면서 세계 일주를 꿈꾸었다.\n가슴 속에 세계지도 한 장을 넣고 다니면서 말이다.\n세계 여행을 하면서 내가 고추장이나 김치보다 더 아쉬웠던 것은 다름아닌 책이었다.\n눈썹도 빼놓고 가야 하는 판에 배낭 안에 한 권 이상의 책을 가지고 다니는 건 무리였다.\n몇 달씩 한글책은 구경도 하지 못하다가 시사 월간지라도 만나면 애인인 양 끼고 다니며 '보고 또 보고' 했다.\n이런 공백을 메우려는 듯, 잠깐이라도 정착민이 되면 책을 산처럼 쌓아놓고 본다.\n주위 사람들에게 읽어야 할 책 목록을 받는 재미도 짭짤하거니와, 여행 중 영어나 일어 책을 읽을 때와는 비교할 수 없는 속도감이 짜릿하기까지 하다.\n이렇게 폭식성, 잡식성 책읽기를 하는 내게도 늘 곁에 두고 보는 책이 있다.\n헨리 데이비드 소로의 『월든』(이레) 과 마하트마 간디의 『간디 자서전-나의 진리 실험이야기』(한길사) 가 그것이다.\n중요한 결정을 할 때나 새로운 일을 시작할 때면 반드시 다시 읽는 책이다.\n여기에서 소로와 간디는 자유로운 인간의 길, 진리의 길은 이거다라고 말하는 대신, 그곳에 도달하기 위해 어떤 과정을 거쳐야 하고 어떤 노력을 해야 하는가를 몸으로 보여준다.\n해답 대신 공식을 알려주는 것이다.\n더불어 이 두 책은 옳다고 믿는 바를 행동으로 옮기지 않는 것이 얼마나 비겁하고 허망한 일인가도 조용히, 그러나 단호히 얘기하고 있다.\n요즘 나는 이 책을 다시 읽기 시작했다.\n내게 붙어다녔던 오지여행가라는 타이틀을 접고 올 여름부터 국제 비정부기구(NGO) 의 긴급구호 활동가로 일할 계획이기 때문이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대여섯 살 때의 일이다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아버지께서 내 스케치북을 보고 깜짝 놀라셨단다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "페이지마다 아주 그럴듯한 세계지도가 그려져 있어서였다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "내가 한번 잡으면 죽어도 놓지 않으려던 책이 언니들의 세계지리부도였다니, 어린 내 마음을 사로잡은 첫번째 책은 세계지도 책이었던 것 같다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그래서일까 초등학교 때부터 『80일간의 세계일주』 『김찬삼 여행기』 등 여행에 관한 책을 읽으면서 세계 일주를 꿈꾸었다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "가슴 속에 세계지도 한 장을 넣고 다니면서 말이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "세계 여행을 하면서 내가 고추장이나 김치보다 더 아쉬웠던 것은 다름아닌 책이었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "눈썹도 빼놓고 가야 하는 판에 배낭 안에 한 권 이상의 책을 가지고 다니는 건 무리였다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "몇 달씩 한글책은 구경도 하지 못하다가 시사 월간지라도 만나면 애인인 양 끼고 다니며 '보고 또 보고' 했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이런 공백을 메우려는 듯, 잠깐이라도 정착민이 되면 책을 산처럼 쌓아놓고 본다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "주위 사람들에게 읽어야 할 책 목록을 받는 재미도 짭짤하거니와, 여행 중 영어나 일어 책을 읽을 때와는 비교할 수 없는 속도감이 짜릿하기까지 하다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이렇게 폭식성, 잡식성 책읽기를 하는 내게도 늘 곁에 두고 보는 책이 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "헨리 데이비드 소로의 『월든』(이레) 과 마하트마 간디의 『간디 자서전-나의 진리 실험이야기』(한길사) 가 그것이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "중요한 결정을 할 때나 새로운 일을 시작할 때면 반드시 다시 읽는 책이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "여기에서 소로와 간디는 자유로운 인간의 길, 진리의 길은 이거다라고 말하는 대신, 그곳에 도달하기 위해 어떤 과정을 거쳐야 하고 어떤 노력을 해야 하는가를 몸으로 보여준다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "해답 대신 공식을 알려주는 것이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "더불어 이 두 책은 옳다고 믿는 바를 행동으로 옮기지 않는 것이 얼마나 비겁하고 허망한 일인가도 조용히, 그러나 단호히 얘기하고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "요즘 나는 이 책을 다시 읽기 시작했다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "내게 붙어다녔던 오지여행가라는 타이틀을 접고 올 여름부터 국제 비정부기구(NGO) 의 긴급구호 활동가로 일할 계획이기 때문이다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한비야, 눈썹은 빼놓고 가도.... 배낭에 챙기고 싶었던 물건은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

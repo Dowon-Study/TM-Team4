@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198509",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "'오늘의 한국조각 2000' 展",
+    "newsSubTitle": "",
+    "newsContent": "차원(次元)의 관점에서 미술을 이해한다면 회화는 2차원, 조각은 3차원이다.\n여기에 시간성이 도입되면서 현대 미술은 4차원의 세계로 진입했다.\n각종 테크놀로지를 이용한 설치미술은 이런 '차원의 진전'을 잘 보여준다.\n경기도 남양주시 모란미술관(관장 이연수)에서 열리고 있는 '오늘의 한국 조각 2000-새로운 차원을 찾아서'는 3차원의 세계를 넘어 다양한 형태의 조형 작업을 보여주는 작가들을 소개한다.\n박상숙·이용덕·김수자·문주·정현·최재은 등 여섯 명이 출품했다.\n일본에 거주하는 최재은은 성철스님 사리탑이나 경동교회 옥상 대나무 설치 작업 등으로 명성을 떨친 작가. 나무를 강철로 에워싸거나 미생물을 유리병에 넣어 땅에 파묻는 장면을 비디오로 찍어 보여주는 등 같은 시·공간 속에 존재하는 생물과 무생물 간의 상호작용을 탐구한다. '보따리 작가' 김수자는 천을 바느질하거나 보따리로 싸는 예전 작업에서 한 걸음 나아가 자신의 몸을 매개체로 시간과 공간의 흐름을 보여주는 비디오 작업을 시도하고 있다.\n재불작가인 박상숙은 차갑고 도시적인 느낌의 재료로 유대관계의 집약체인 '집'을 만든다. 1985년 중앙미술대전 특선 작가인 정현의 작품은 투박하게 추상화한 얼굴 조각, 대담하게 잘라내 마구 일그러진 형태의 토르소에서 힘차고 역동적인 아름다움이 풍겨나온다.\n이 기획전은 모란미술관에서 한국조각의 현주소를 살펴보기 위해 96년부터 해마다 열고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "차원(次元)의 관점에서 미술을 이해한다면 회화는 2차원, 조각은 3차원이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여기에 시간성이 도입되면서 현대 미술은 4차원의 세계로 진입했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "각종 테크놀로지를 이용한 설치미술은 이런 '차원의 진전'을 잘 보여준다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "경기도 남양주시 모란미술관(관장 이연수)에서 열리고 있는 '오늘의 한국 조각 2000-새로운 차원을 찾아서'는 3차원의 세계를 넘어 다양한 형태의 조형 작업을 보여주는 작가들을 소개한다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박상숙·이용덕·김수자·문주·정현·최재은 등 여섯 명이 출품했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일본에 거주하는 최재은은 성철스님 사리탑이나 경동교회 옥상 대나무 설치 작업 등으로 명성을 떨친 작가. 나무를 강철로 에워싸거나 미생물을 유리병에 넣어 땅에 파묻는 장면을 비디오로 찍어 보여주는 등 같은 시·공간 속에 존재하는 생물과 무생물 간의 상호작용을 탐구한다. '보따리 작가' 김수자는 천을 바느질하거나 보따리로 싸는 예전 작업에서 한 걸음 나아가 자신의 몸을 매개체로 시간과 공간의 흐름을 보여주는 비디오 작업을 시도하고 있다.",
+        "sentenceSize": 244
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "재불작가인 박상숙은 차갑고 도시적인 느낌의 재료로 유대관계의 집약체인 '집'을 만든다. 1985년 중앙미술대전 특선 작가인 정현의 작품은 투박하게 추상화한 얼굴 조각, 대담하게 잘라내 마구 일그러진 형태의 토르소에서 힘차고 역동적인 아름다움이 풍겨나온다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 기획전은 모란미술관에서 한국조각의 현주소를 살펴보기 위해 96년부터 해마다 열고 있다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'오늘의 한국 조각 2000-새로운 차원을 찾아서'… 3차원에 '이것'을 넣어 4차원이 된 현대 조각의 세계",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

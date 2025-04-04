@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194709",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[즐겨읽기] 전체의 절망, 개인의 희망",
+    "newsSubTitle": "",
+    "newsContent": "그러나 개인은 진화한다 남재일 지음, 강, 364쪽, 1만2000원 미전향 장기수로 43년 넘게 수감됐다가 2000년 북한으로 건너간 김선명씨를 다룬 영화 '선택'(감독 홍기선)을 얘기하다가 최근 한국 사회를 벌집으로 만들었던 황우석 박사에 대한 언론의 보도 태도를 따져본다.\n통일 이후 혼란했던 독일의 사회상을 풍자한 영화 '굿바이 레닌'에서 분단 한국의 그늘을 슬퍼했다가 10년 전 베를린의 혼탕에서 직접 겪었던 '알몸의 추억'에 대한 기억을 풀어놓는다. '그러나 개인은 진화한다'는 특정 주제, 특정 소재를 파고든 책이 아니다.\n평균 너댓 페이지의 짧은 글을 모았다.\n그렇다고 '펜 가는 대로'엮어놓은 수필집도 아니다.\n전반적으로는 문화비평서 형태를 띠고 있다.\n국가.민족이란 '전체' 앞에서 개인의 존재 가치를 희생해야 했던 한국인의 어제와 오늘을 돌아본다.\n최루탄 연기가 자욱했던 대학 시절을 보내고 일간지 기자생활을 했다가 지금은 한국언론재단 연구위원으로 일하는 저자는 주로 영화 이야기로 실마리를 풀어가며 20세기 한국 사회에 나타난 전체와 개인의 길항 관계를 캐묻는다.\n\\\"집단에 대한 불신과 개인에 대한 희망\\\"이란 그의 결론은 한국 현대사에 대한 또 다른 질타다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그러나 개인은 진화한다 남재일 지음, 강, 364쪽, 1만2000원 미전향 장기수로 43년 넘게 수감됐다가 2000년 북한으로 건너간 김선명씨를 다룬 영화 '선택'(감독 홍기선)을 얘기하다가 최근 한국 사회를 벌집으로 만들었던 황우석 박사에 대한 언론의 보도 태도를 따져본다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "통일 이후 혼란했던 독일의 사회상을 풍자한 영화 '굿바이 레닌'에서 분단 한국의 그늘을 슬퍼했다가 10년 전 베를린의 혼탕에서 직접 겪었던 '알몸의 추억'에 대한 기억을 풀어놓는다. '그러나 개인은 진화한다'는 특정 주제, 특정 소재를 파고든 책이 아니다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "평균 너댓 페이지의 짧은 글을 모았다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그렇다고 '펜 가는 대로'엮어놓은 수필집도 아니다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "전반적으로는 문화비평서 형태를 띠고 있다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "국가.민족이란 '전체' 앞에서 개인의 존재 가치를 희생해야 했던 한국인의 어제와 오늘을 돌아본다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최루탄 연기가 자욱했던 대학 시절을 보내고 일간지 기자생활을 했다가 지금은 한국언론재단 연구위원으로 일하는 저자는 주로 영화 이야기로 실마리를 풀어가며 20세기 한국 사회에 나타난 전체와 개인의 길항 관계를 캐묻는다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "\\\"집단에 대한 불신과 개인에 대한 희망\\\"이란 그의 결론은 한국 현대사에 대한 또 다른 질타다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'전체' 앞에서 존재하는 '개인'의 의미... 저자가 내린 결론은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

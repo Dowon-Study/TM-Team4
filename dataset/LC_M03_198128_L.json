@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198128",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BookBriefing] 『신곡-지옥편』 外",
+    "newsSubTitle": "",
+    "newsContent": "◆민음사 세계문학전집의 150번째 책 『신곡-지옥편』(단테 알리기에리 지음, 윌리엄 블레이크 그림, 박상진 옮김, 412쪽, 1만원)이 출간됐다.\n151권 『신곡-연옥편』과 152권 『신곡-천국편』도 함께 나왔다.\n1998년 8월 세계문학전집 1권 『변신 이야기』가 출간된 지 꼭 10년 만이다.\n◆인류의 우주 도전사를 일목요연하게 정리한 『우주선의 역사』(팀 퍼니스 지음, 채연석 옮김, 아라크네, 320쪽, 4만8000원)가 나왔다.\n140여장의 사진 자료를 통해 로켓과 우주선의 발사 장면, 우주에서의 임무 활동 모습 등을 볼 수 있다.\n우주 탐사선의 개발 원리와 우주 개발의 성과도 소개했다.\n◆미술의 여러 개념과 현상을 미학적인 관점에서 분석하고 고찰한 『미학으로 읽는 미술』(오병남 외 지음, 월간미술, 272쪽, 1만4000원)이 출간됐다.\n오종환 서울대 미학과 교수, 박일호 이화여대 조형예술학부 교수, 권정임 강원대 미술학과 교수 등 20명의 현직 교육자들이 집필했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆민음사 세계문학전집의 150번째 책 『신곡-지옥편』(단테 알리기에리 지음, 윌리엄 블레이크 그림, 박상진 옮김, 412쪽, 1만원)이 출간됐다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "151권 『신곡-연옥편』과 152권 『신곡-천국편』도 함께 나왔다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1998년 8월 세계문학전집 1권 『변신 이야기』가 출간된 지 꼭 10년 만이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "◆인류의 우주 도전사를 일목요연하게 정리한 『우주선의 역사』(팀 퍼니스 지음, 채연석 옮김, 아라크네, 320쪽, 4만8000원)가 나왔다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "140여장의 사진 자료를 통해 로켓과 우주선의 발사 장면, 우주에서의 임무 활동 모습 등을 볼 수 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "우주 탐사선의 개발 원리와 우주 개발의 성과도 소개했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "◆미술의 여러 개념과 현상을 미학적인 관점에서 분석하고 고찰한 『미학으로 읽는 미술』(오병남 외 지음, 월간미술, 272쪽, 1만4000원)이 출간됐다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오종환 서울대 미학과 교수, 박일호 이화여대 조형예술학부 교수, 권정임 강원대 미술학과 교수 등 20명의 현직 교육자들이 집필했다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인류의 우주 도전사를 일목요연하게 정리한 '이 책'... 우주 마니아라면 필독",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197227",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "극단 연우무대 '제9호 태풍 카라'",
+    "newsSubTitle": "",
+    "newsContent": "창작극의 명가(名家) 극단 연우무대의 신작 '제9호 태풍 카라' 는 이 극단의 주요 사업인 '창작 연구 발표회' 출품작이다.\n뮤지컬과 연극 등을 넘나들며 활동하고 있는 오은희 원작을 신예 김종연이 연출했다.\n태풍 카라의 영향권에 든 남해의 외딴 섬 비천도. 이곳 경찰서 윤서장은 중앙으로 발령받았으나 태풍으로 며칠간 발이 묶이는 신세가 된다.\n그 나른한 일상 속으로 한 낯선 여인이 찾아든다.\n윤서장에게 이 여인은 반가운 존재지만 승진에서 '물먹은' 김순경에겐 성적(性的) 인 대상일 뿐이다.\n이때 머리에 상처를 입은 낯선 남자가 등장하면서 극은 또 다른 국면을 맞는다.\n손기호.유인수 등 출연. 7월 8일까지 연우소극장. 오후 7시30분, 토.일 오후 3시.6시. 02-744-7090.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "창작극의 명가(名家) 극단 연우무대의 신작 '제9호 태풍 카라' 는 이 극단의 주요 사업인 '창작 연구 발표회' 출품작이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "뮤지컬과 연극 등을 넘나들며 활동하고 있는 오은희 원작을 신예 김종연이 연출했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "태풍 카라의 영향권에 든 남해의 외딴 섬 비천도. 이곳 경찰서 윤서장은 중앙으로 발령받았으나 태풍으로 며칠간 발이 묶이는 신세가 된다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 나른한 일상 속으로 한 낯선 여인이 찾아든다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "윤서장에게 이 여인은 반가운 존재지만 승진에서 '물먹은' 김순경에겐 성적(性的) 인 대상일 뿐이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이때 머리에 상처를 입은 낯선 남자가 등장하면서 극은 또 다른 국면을 맞는다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "손기호.유인수 등 출연. 7월 8일까지 연우소극장. 오후 7시30분, 토.일 오후 3시.6시. 02-744-7090.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "나른한 일상 속으로 찾아온 낯선 여인을 김순경은 음흉한 눈빛으로 보는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

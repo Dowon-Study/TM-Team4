@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197198",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[미술계쪽지] 프랑스 파리국제예술공동체의 2007년도 입주 작가를 공모 外",
+    "newsSubTitle": "",
+    "newsContent": "◆도자에 그림을 그리는 '포슬린 페인팅' 화가 황경희(황경희 아틀리에 대표)씨가 세계 포슬린 아티스트 협회(IPAT)의 '2006 컨벤션'에 시범작가로 초대받았다.\n행사는 10일 미국 필라델피아에서 열린다.\n창립 30주년을 맞는 IPAT가 한국 작가를 초대한 것은 처음이다.\n이대 대학원 도예과를 나와 유럽과 일본에서 포슬린 페인팅을 공부한 황씨는 백자 위에 삶의 온기를 불어넣는 화사한 작품세계(사진)로 평가받고 있다.\n018-335-0046. ◆삼성문화재단은 3~28일 프랑스 파리국제예술공동체의 2007년도 입주 작가를 공모한다. 5년 이상의 미술창작 활동경력을 지닌 작가라야 한다.\n선정되면 2007년 4월부터 1년 동안 15평 규모의 아틀리에에 들어가게 된다.\n월 관리비를 지원한다.\n포트폴리오(작품집)와 지원동기 및 작업계획서, 자기 소개서 및 이력서를 서울 용산구 한남동 삼성문화재단 홍보팀으로 보내면 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆도자에 그림을 그리는 '포슬린 페인팅' 화가 황경희(황경희 아틀리에 대표)씨가 세계 포슬린 아티스트 협회(IPAT)의 '2006 컨벤션'에 시범작가로 초대받았다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "행사는 10일 미국 필라델피아에서 열린다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "창립 30주년을 맞는 IPAT가 한국 작가를 초대한 것은 처음이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이대 대학원 도예과를 나와 유럽과 일본에서 포슬린 페인팅을 공부한 황씨는 백자 위에 삶의 온기를 불어넣는 화사한 작품세계(사진)로 평가받고 있다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "018-335-0046. ◆삼성문화재단은 3~28일 프랑스 파리국제예술공동체의 2007년도 입주 작가를 공모한다. 5년 이상의 미술창작 활동경력을 지닌 작가라야 한다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "선정되면 2007년 4월부터 1년 동안 15평 규모의 아틀리에에 들어가게 된다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "월 관리비를 지원한다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "포트폴리오(작품집)와 지원동기 및 작업계획서, 자기 소개서 및 이력서를 서울 용산구 한남동 삼성문화재단 홍보팀으로 보내면 된다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "화가 황경희, IPAT의 '2006 컨벤션'에 시범작가로 초대받아... 한국 작가의 IPAT '첫 경험'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194834",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[저널 리뷰] 25,000원짜리 무광고 잡지",
+    "newsSubTitle": "",
+    "newsContent": "여러 면에서 별난 계잡지『디새집』창간호는 잡지사적으로도 기록을 세운 저널의 등장이다.\n우선 광고를 일절 배제했다. '우리 것' 에 대한 진지한 성찰을 담는 저널의 기본성격상 울긋불긋한 상업광고가 어울리지 않겠다는 판단이다.\n대신 책값은 2만2천원. 잡지사상 거의 최고가인 이런 고가드라이브는 광고 없는 무공해 잡지의 성격 때문이다.\n본문이나 표지 디자인도 요란한 것과는 담을 쌓으면서도 세련된 맛을 가미했다.\n기와집의 순 우리말에서 따온 이 잡지의 창간호 주요 필자는 소설가 박완서.이윤기, 사진작가 김수남, 한양대 국문과 정민교수, 판화작가 이철수 등 일급필자들이다.\n한국의 사람과 자연과 문화 등을 소재로 '우리의 것' 의 새 살림집을 지으려는 시도는 일단 평가할 만하다.\n발행주체는 도서출판 열림원. (02) 337-0700",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "여러 면에서 별난 계잡지『디새집』창간호는 잡지사적으로도 기록을 세운 저널의 등장이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우선 광고를 일절 배제했다. '우리 것' 에 대한 진지한 성찰을 담는 저널의 기본성격상 울긋불긋한 상업광고가 어울리지 않겠다는 판단이다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대신 책값은 2만2천원. 잡지사상 거의 최고가인 이런 고가드라이브는 광고 없는 무공해 잡지의 성격 때문이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "본문이나 표지 디자인도 요란한 것과는 담을 쌓으면서도 세련된 맛을 가미했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "기와집의 순 우리말에서 따온 이 잡지의 창간호 주요 필자는 소설가 박완서.이윤기, 사진작가 김수남, 한양대 국문과 정민교수, 판화작가 이철수 등 일급필자들이다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한국의 사람과 자연과 문화 등을 소재로 '우리의 것' 의 새 살림집을 지으려는 시도는 일단 평가할 만하다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "발행주체는 도서출판 열림원. (02) 337-0700",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "창간호부터 기록 세운 저널 등장… 알고 보니?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

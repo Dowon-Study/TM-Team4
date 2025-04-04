@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194563",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[와글와글e동네] '연인' 팍팍 밀어주기",
+    "newsSubTitle": "",
+    "newsContent": "당신의 인터넷 주소(IP)를 검색해 본 적이 있나요?\n여기, 포털사이트에서 자신의 IP를 검색했다 인터넷 스타로 떠오른 남자가 있습니다.\n그의 아이디는 '킬리'. IP 검색을 하다 그는 크게 당황했습니다.\n찾아낸 글 중 자신이 쓰지 않은 것이 있었기 때문입니다. '킬리'는 글이 올려져 있는 게시판에 들어가 질문을 남겼습니다.\n\\\"제 IP랑 같은 IP를 쓰는 분이 있는 것 같은데, 누구시죠?\\\" 다른 게시물을 통해 응답이 왔습니다.\n\\\"저는 'ㅌㅌ'라고 하는데 저랑 IP가 똑같으시네요. 이럴 수도 있나요?\\\" 이들 남녀의 대화는 게시물로 계속 이어졌고 이색적인 만남을 구경하던 네티즌들 사이에 '이것도 인연인데 사귀어 보라'는 데이트 코치가 이어졌습니다.\n같은 IP의 비밀은 고시원이었습니다.\n두 사람은 같은 고시원 다른 층에서 생활하고 있었던 거죠.\n이에 더욱 재미를 느낀 네티즌들은 패러디 포스터까지 만들어 올리며 둘의 사귐을 부추기고 있습니다.\n남성에게는 '아이피남'이라는 별명까지 생겼고요. '아이피남'은 포털 사이트 인기 검색어 순위에 오르기도 했습니다.\n지하철에서 꿈에 그리던 여성을 만난 뒤 네티즌들의 데이트 코치를 받아 사랑을 이뤘다는 일본의 '전차남'이 부럽지 않겠네요.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "당신의 인터넷 주소(IP)를 검색해 본 적이 있나요?",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여기, 포털사이트에서 자신의 IP를 검색했다 인터넷 스타로 떠오른 남자가 있습니다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그의 아이디는 '킬리'. IP 검색을 하다 그는 크게 당황했습니다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "찾아낸 글 중 자신이 쓰지 않은 것이 있었기 때문입니다. '킬리'는 글이 올려져 있는 게시판에 들어가 질문을 남겼습니다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "\\\"제 IP랑 같은 IP를 쓰는 분이 있는 것 같은데, 누구시죠?\\\" 다른 게시물을 통해 응답이 왔습니다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "\\\"저는 'ㅌㅌ'라고 하는데 저랑 IP가 똑같으시네요. 이럴 수도 있나요?\\\" 이들 남녀의 대화는 게시물로 계속 이어졌고 이색적인 만남을 구경하던 네티즌들 사이에 '이것도 인연인데 사귀어 보라'는 데이트 코치가 이어졌습니다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "같은 IP의 비밀은 고시원이었습니다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "두 사람은 같은 고시원 다른 층에서 생활하고 있었던 거죠.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이에 더욱 재미를 느낀 네티즌들은 패러디 포스터까지 만들어 올리며 둘의 사귐을 부추기고 있습니다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "남성에게는 '아이피남'이라는 별명까지 생겼고요. '아이피남'은 포털 사이트 인기 검색어 순위에 오르기도 했습니다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "지하철에서 꿈에 그리던 여성을 만난 뒤 네티즌들의 데이트 코치를 받아 사랑을 이뤘다는 일본의 '전차남'이 부럽지 않겠네요.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이것도 인연인데 사귀어보라'... 네티즌들 열광한 게시물은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

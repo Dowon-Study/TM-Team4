@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197160",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[살림UP] 얼굴에 각질 일어날 땐 달걀 팩",
+    "newsSubTitle": "누렇게 떴을 땐 포도주 마사지몸에 좋은 게 피부에도 좋아요",
+    "newsContent": "피부가 건성인 사람에게 겨울은 괴로운 계절이다.\n자칫 관리에 소홀하면 얼굴에 하얗게 각질이 일어나고 화장도 안 받을 뿐만 아니라 잔주름까지 는다.\n이럴 때는 달걀 팩이 효과적이다.\n달걀의 흰자와 노른자를 분리해 흰자만 거품을 낸다.\n거꾸로 그릇을 뒤집어도 쏟아지지 않을 정도로 충분히 거품을 내 얼굴에 부드럽게 마사지하듯 바른다.\n피지가 많은 코에는 남은 노른자를 두껍게 바른다.\n달걀은 피부 표면의 피지를 제거할 뿐만 아니라 모공 수축에도 효과적이다.\n10~15분 정도 지나 달걀이 바짝 마르면 미지근한 물로 씻어낸 뒤 찬물로 헹군다.\n또 피부가 누렇게 떴을 때는 포도주 마사지를 해보자.\n평소보다 조금 뜨거운 물로 세안을 한 뒤에 붉은 포도주로 마사지한다.\n가운데 손가락으로 와인을 찍어서 얼굴에 바르면 된다.\n충분히 마사지한 다음 다시 뜨거운 물로 씻어내고 마무리는 찬물로 헹군다.\n피의 흐름이 좋아져 금방 얼굴이 환해지는 것을 느낄 수 있다.\n아이크림을 바르기 전에 포도주를 살짝 바르면 눈가의 주름에도 효과적이라고 한다.\n단 밤에만 바르는 것이 좋다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "피부가 건성인 사람에게 겨울은 괴로운 계절이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "자칫 관리에 소홀하면 얼굴에 하얗게 각질이 일어나고 화장도 안 받을 뿐만 아니라 잔주름까지 는다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이럴 때는 달걀 팩이 효과적이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "달걀의 흰자와 노른자를 분리해 흰자만 거품을 낸다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "거꾸로 그릇을 뒤집어도 쏟아지지 않을 정도로 충분히 거품을 내 얼굴에 부드럽게 마사지하듯 바른다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "피지가 많은 코에는 남은 노른자를 두껍게 바른다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "달걀은 피부 표면의 피지를 제거할 뿐만 아니라 모공 수축에도 효과적이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "10~15분 정도 지나 달걀이 바짝 마르면 미지근한 물로 씻어낸 뒤 찬물로 헹군다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 피부가 누렇게 떴을 때는 포도주 마사지를 해보자.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "평소보다 조금 뜨거운 물로 세안을 한 뒤에 붉은 포도주로 마사지한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "가운데 손가락으로 와인을 찍어서 얼굴에 바르면 된다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "충분히 마사지한 다음 다시 뜨거운 물로 씻어내고 마무리는 찬물로 헹군다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "피의 흐름이 좋아져 금방 얼굴이 환해지는 것을 느낄 수 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "아이크림을 바르기 전에 포도주를 살짝 바르면 눈가의 주름에도 효과적이라고 한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "단 밤에만 바르는 것이 좋다.",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "쩌적쩌적 갈라지는 피부엔… 달걀 팩이 해법",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

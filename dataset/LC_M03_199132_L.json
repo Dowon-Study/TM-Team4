@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199132",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "여름 아직 많이 남았다…내게 맞는 다이어트 성분은?",
+    "newsSubTitle": "",
+    "newsContent": "폭염이 지속되면서 해변을 찾는 젊은이들의 발걸음은 이달 말까지 지속될 전망이다.\n다이어트 보조제를 판매하는 DHC코리아로부터 다이어트 유형별로 어울리는 주요 다이어트 보조제 성분을 알아봤다.\n탄수화물을 많이 섭취하는 사람은 가르니시아 섭취가 추천된다.\n흔히 한국인은 탄수화물 중독이라고 불릴 정도로 탄수화물 섭취가 많다.\n주식인 쌀은 물론이고, 밀로 만든 각종 국수를 즐겨먹기 떄문이다.\n에너지로 쓰고 남은 탄수화물은 지방으로 전환돼 뱃살의 주범이 된다.\n동남아에서 주로 자라는 가르니시아 캄보지아 열매에서 추출한 가르니시아는 탄수화물이 지방으로 전환되는 것을 억제한다.\n체지방 감소를 촉진해 적절히 식이요법과 병행하면 효과적이다.\nDHC 측은 “과자를 즐겨먹는 사람에게 어울리는 성분”이라고 분석했다.\n운동량이 많은 사람에게는 공액리놀레산을 추천하는 경우도 많다.\n여분의 에너지가 지방으로 합성되는 과정을 방해하고, 신진대사를 촉진해 체내 에너지 연소를 늘리는 역할을 한다.\n체지방 수치가 높고 야식을 즐기는 사람에게는 키토산을 다이어트 보조제로 섭취하는 경우도 많다.\n갑각류 껍질 등에서 추출한 물질로 장내 지방을 흡착, 몸 속 과잉 지방을 변과 함께 배출하는 기능이 있다.\n이 때문에 체지방과 혈중 콜레스테롤 수치를 감소시킨다.\n체지방 지수가 높고 특히 야식, 열량이 높은 음식을 즐기는 이들에게 적합하다고 DHC는 봤다.\n최근에는 인도에서 자생하는 허브류 식물인 콜레우스 포스콜리도 눈길을 끌고 있다.\n생리활성기능 2등급 성분으로 체내에서 지방산을 자극해 지방이 연소되도록 하는 역할이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "폭염이 지속되면서 해변을 찾는 젊은이들의 발걸음은 이달 말까지 지속될 전망이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "다이어트 보조제를 판매하는 DHC코리아로부터 다이어트 유형별로 어울리는 주요 다이어트 보조제 성분을 알아봤다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "탄수화물을 많이 섭취하는 사람은 가르니시아 섭취가 추천된다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "흔히 한국인은 탄수화물 중독이라고 불릴 정도로 탄수화물 섭취가 많다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "주식인 쌀은 물론이고, 밀로 만든 각종 국수를 즐겨먹기 떄문이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "에너지로 쓰고 남은 탄수화물은 지방으로 전환돼 뱃살의 주범이 된다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "동남아에서 주로 자라는 가르니시아 캄보지아 열매에서 추출한 가르니시아는 탄수화물이 지방으로 전환되는 것을 억제한다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "체지방 감소를 촉진해 적절히 식이요법과 병행하면 효과적이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "DHC 측은 “과자를 즐겨먹는 사람에게 어울리는 성분”이라고 분석했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "운동량이 많은 사람에게는 공액리놀레산을 추천하는 경우도 많다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "여분의 에너지가 지방으로 합성되는 과정을 방해하고, 신진대사를 촉진해 체내 에너지 연소를 늘리는 역할을 한다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "체지방 수치가 높고 야식을 즐기는 사람에게는 키토산을 다이어트 보조제로 섭취하는 경우도 많다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "갑각류 껍질 등에서 추출한 물질로 장내 지방을 흡착, 몸 속 과잉 지방을 변과 함께 배출하는 기능이 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이 때문에 체지방과 혈중 콜레스테롤 수치를 감소시킨다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "체지방 지수가 높고 특히 야식, 열량이 높은 음식을 즐기는 이들에게 적합하다고 DHC는 봤다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "최근에는 인도에서 자생하는 허브류 식물인 콜레우스 포스콜리도 눈길을 끌고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "생리활성기능 2등급 성분으로 체내에서 지방산을 자극해 지방이 연소되도록 하는 역할이다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "내게 맞는 다이어트 성분은 따로 있다? 탄수화물 매니아라면 '이것' 섭취해야...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194921",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "부크하우트 등 공예미술전",
+    "newsSubTitle": "",
+    "newsContent": "공예미술의 세계적 흐름을 단편으로나마 어림잡아 볼 수 있는 전시회`인체를 위한 디자인'이 16일부터 30일까지 서울 사간동 갤러리 현대에서 열린다.\n출품작가는 네델란드의 오노 부크하우트(55)와 미국의 부르스 멧캐프(50), 그리고 한국의 왕기원(37) 씨 등 3명. 이들은 반지, 브로치, 목걸이 등 액세서리 작품 1백여점을 선보인다.\n영국 왕립미술학교 교수인 부크하우트는 세계적 금속공예작가로서 명성을 얻고있다.\n그는 주로 납 재료를 이용해 백금속의 단아함과 깨끗함을 예술적으로 표현해오고 있다.\n이번 전시에서는 은과 나무로 만든 작품도 다수 출품된다.\n멧캐프는 큼직한 개인전만 13차례나 가져온 중견작가로, 이번 전시에서는 복합재료로 만든 작품이 주로 선보인다.\n그는 등 풍부한 상상력이 동원된 작품에 대중적 가치를 담고자 했다.\n왕씨는 이화여대를 졸업한 뒤 미국에 건너가 대학교육부터 다시 받은 미술가. 뉴욕에서 활동하면서 동서양의 정서를 다양한 재료와 형태, 기법으로 표현하고 있다.\n그는 미국유학 후 15년만에 처음으로 고국에서 전시공간을 마련한다.\n한편 부크하우트와 왕씨는 17일 오후 2시 갤러리 현대에서`국제 공예미술의 흐름'이라는 제목으로 강연회를 갖는다. [연합뉴스]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "공예미술의 세계적 흐름을 단편으로나마 어림잡아 볼 수 있는 전시회`인체를 위한 디자인'이 16일부터 30일까지 서울 사간동 갤러리 현대에서 열린다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "출품작가는 네델란드의 오노 부크하우트(55)와 미국의 부르스 멧캐프(50), 그리고 한국의 왕기원(37) 씨 등 3명. 이들은 반지, 브로치, 목걸이 등 액세서리 작품 1백여점을 선보인다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영국 왕립미술학교 교수인 부크하우트는 세계적 금속공예작가로서 명성을 얻고있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 주로 납 재료를 이용해 백금속의 단아함과 깨끗함을 예술적으로 표현해오고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 전시에서는 은과 나무로 만든 작품도 다수 출품된다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "멧캐프는 큼직한 개인전만 13차례나 가져온 중견작가로, 이번 전시에서는 복합재료로 만든 작품이 주로 선보인다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 등 풍부한 상상력이 동원된 작품에 대중적 가치를 담고자 했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "왕씨는 이화여대를 졸업한 뒤 미국에 건너가 대학교육부터 다시 받은 미술가. 뉴욕에서 활동하면서 동서양의 정서를 다양한 재료와 형태, 기법으로 표현하고 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그는 미국유학 후 15년만에 처음으로 고국에서 전시공간을 마련한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 부크하우트와 왕씨는 17일 오후 2시 갤러리 현대에서`국제 공예미술의 흐름'이라는 제목으로 강연회를 갖는다. [연합뉴스]",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "공예미술의 세계적 흐름을 볼 수 있는 전시회는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

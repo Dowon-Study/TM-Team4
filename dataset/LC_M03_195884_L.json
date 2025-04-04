@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195884",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "비만도 계산기…20~30대 여성, 고도 비만 증가하는 이유는?",
+    "newsSubTitle": "",
+    "newsContent": "‘초고도비만’ 환자가 증가함에 따라 자신의 비만 여부를 알 수 있는 비만도계산기에 대한 관심이 뜨겁다.\n비만도 계산기는 기본적으로 체질량 지수인 BMI(Body Mass Index) 계산법에 근거한 것으로 BMI 지수 = 몸무게(kg) ÷ (신장(m) × 신장(m))의 공식으로 계산되며 간단한 수식에도 신뢰도가 높다는 평가를 받고 있다.\n초고도비만은 질병관리본부에서 제공하고 있는 비만도계산기 체질량 지수인 BMI(Body Mass Index)가 35이상이 되는 것을 말한다.\n비만도 계산기로 나온 BMI 지수가 18.5 이하면 저체중, 18.5~23은 정상, 23~25는 과체중, 25~30은 비만, 30~35는 고도비만으로 분류된다.\n이 계산기로 키 163cm 몸무게 60kg인 만 21세 여성은 BMI 지수가 22.58이 나와 정상 범주에 들어갔다.\n이 여성이 몸무게가 93kg가 넘어가면 BMI 지수가 35인 초고도비만 판정이 내려진다.\nBMI지수는 키가 작을수록, 몸무게가 많이 나갈수록, 나이가 많을수록 커진다.\n이처럼 비만도계산기를 이용하면 현재의 비만 여부뿐만 아니라 얼마의 체중감량이 필요한지 알 수 있다.\n한편 건강보험공단에 따르면 2002∼2013 일반건강검진 자료 1억 여건을 분석한 결과, 초고도비만율은 0.2%에서 0.5%로, 고도비만율은 2.5%에서 4.2%로 증가한 것으로 알려졌다.\n특히 고도 비만율 상승 폭은 30대 여성(3배)·20대 여성(2.8배)·30대 남성(2.3배)·20대 남성(2.2배) 등의 순이었다.\n온라인 중앙일보 ‘비만도 계산기’ [중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘초고도비만’ 환자가 증가함에 따라 자신의 비만 여부를 알 수 있는 비만도계산기에 대한 관심이 뜨겁다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "비만도 계산기는 기본적으로 체질량 지수인 BMI(Body Mass Index) 계산법에 근거한 것으로 BMI 지수 = 몸무게(kg) ÷ (신장(m) × 신장(m))의 공식으로 계산되며 간단한 수식에도 신뢰도가 높다는 평가를 받고 있다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "초고도비만은 질병관리본부에서 제공하고 있는 비만도계산기 체질량 지수인 BMI(Body Mass Index)가 35이상이 되는 것을 말한다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "비만도 계산기로 나온 BMI 지수가 18.5 이하면 저체중, 18.5~23은 정상, 23~25는 과체중, 25~30은 비만, 30~35는 고도비만으로 분류된다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 계산기로 키 163cm 몸무게 60kg인 만 21세 여성은 BMI 지수가 22.58이 나와 정상 범주에 들어갔다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 여성이 몸무게가 93kg가 넘어가면 BMI 지수가 35인 초고도비만 판정이 내려진다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "BMI지수는 키가 작을수록, 몸무게가 많이 나갈수록, 나이가 많을수록 커진다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이처럼 비만도계산기를 이용하면 현재의 비만 여부뿐만 아니라 얼마의 체중감량이 필요한지 알 수 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 건강보험공단에 따르면 2002∼2013 일반건강검진 자료 1억 여건을 분석한 결과, 초고도비만율은 0.2%에서 0.5%로, 고도비만율은 2.5%에서 4.2%로 증가한 것으로 알려졌다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "특히 고도 비만율 상승 폭은 30대 여성(3배)·20대 여성(2.8배)·30대 남성(2.3배)·20대 남성(2.2배) 등의 순이었다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인 중앙일보 ‘비만도 계산기’ [중앙포토]",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비만도 계산기, 간단하지만 신뢰도 높아... BMI 지수로 알아보는 나의 상태는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

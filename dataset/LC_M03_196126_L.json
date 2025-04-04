@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196126",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "우리나라 최초의 라면 '삼양라면'…식량난 해소 위해 개발했다?",
+    "newsSubTitle": "",
+    "newsContent": "우리나라 최초의 라면은 삼양식품에서 1963년 출시한 ‘삼양라면’이다.\n당시 1봉지 가격은 10원이었다.\n삼양라면은 삼양식품의 전신인 삼양식품공업주식회사의 창업주 전중윤 명예회장이 식량난을 해소하기 위해 일본 묘조식품의 기술을 전수받아 출시했다.\n당시 삼양라면은 라면 시장을 선점하면서 ‘국민 라면’으로 자리 잡았다.\n라면이 식사 대용으로 큰 인기를 끌면서 경쟁업체에서도 라면시장에 뛰어들었다.\n롯데공업은 65년 롯데라면을 출시한 데 이어 75년 농심라면을 선보였다.\n당시 코미디언 구봉서와 곽규석이 등장해 “형님 먼저 드시오” “아우 먼저 들게나” 하며 서로 라면을 양보하다가 막판에 본심을 내보이는 TV CF의 인기만큼 농심라면은 큰 히트를 쳤다.\n이를 계기로 롯데공업은 사명을 아예 농심으로 교체했다.\n1970년대가 라면의 도약기였다면 1980년대는 한국 라면산업의 최고 전성기이자 격변기였다.\n한국야쿠르트, 빙그레, 오뚜기 등이 라면 사업을 시작했는가 하면 ‘공업용 우지(牛脂·쇠고기 기름)’ 파동으로 한바탕 시끄러웠다.\n이후 삼양식품은 무죄 선고를 받았지만 큰 피해를 봤다.\n1990년에는 컵라면 전성시대가 펼쳐지면서 해외수출이 본격화됐다.\n한편 한국갤럽이 2013년 11월 조사한 결과(연령별)에 따르면 여전히 우리나라 사람들은 라면을 ‘몸에 좋지 않은 음식’으로 인식하고 있는 것으로 나타났다.\n이 조사에 의하면 젊은층이 장년층보다 라면에 대해 더 ‘부정적인 인식’을 갖고 있었다. ‘라면이 몸에 좋지 않다’고 응답한 비율을 보면 20대의 경우 88%였고 60세 이상은 62%였다.\n30대와 40대, 50대는 각각 77%, 76%, 70%로 나타났다.\n반면 ‘라면이 몸에 좋은 음식’이라고 응답한 비율은 60세 이상이 15%인 반면 20대는 7%에 그쳤다.\n30대와 40대, 50대는 각각 14%, 14%, 15%였다.\n온라인 중앙일보 ‘우리나라 최초의 라면’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우리나라 최초의 라면은 삼양식품에서 1963년 출시한 ‘삼양라면’이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "당시 1봉지 가격은 10원이었다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "삼양라면은 삼양식품의 전신인 삼양식품공업주식회사의 창업주 전중윤 명예회장이 식량난을 해소하기 위해 일본 묘조식품의 기술을 전수받아 출시했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당시 삼양라면은 라면 시장을 선점하면서 ‘국민 라면’으로 자리 잡았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "라면이 식사 대용으로 큰 인기를 끌면서 경쟁업체에서도 라면시장에 뛰어들었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "롯데공업은 65년 롯데라면을 출시한 데 이어 75년 농심라면을 선보였다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당시 코미디언 구봉서와 곽규석이 등장해 “형님 먼저 드시오” “아우 먼저 들게나” 하며 서로 라면을 양보하다가 막판에 본심을 내보이는 TV CF의 인기만큼 농심라면은 큰 히트를 쳤다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 계기로 롯데공업은 사명을 아예 농심으로 교체했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "1970년대가 라면의 도약기였다면 1980년대는 한국 라면산업의 최고 전성기이자 격변기였다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한국야쿠르트, 빙그레, 오뚜기 등이 라면 사업을 시작했는가 하면 ‘공업용 우지(牛脂·쇠고기 기름)’ 파동으로 한바탕 시끄러웠다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이후 삼양식품은 무죄 선고를 받았지만 큰 피해를 봤다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "1990년에는 컵라면 전성시대가 펼쳐지면서 해외수출이 본격화됐다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "한편 한국갤럽이 2013년 11월 조사한 결과(연령별)에 따르면 여전히 우리나라 사람들은 라면을 ‘몸에 좋지 않은 음식’으로 인식하고 있는 것으로 나타났다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이 조사에 의하면 젊은층이 장년층보다 라면에 대해 더 ‘부정적인 인식’을 갖고 있었다. ‘라면이 몸에 좋지 않다’고 응답한 비율을 보면 20대의 경우 88%였고 60세 이상은 62%였다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "30대와 40대, 50대는 각각 77%, 76%, 70%로 나타났다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "반면 ‘라면이 몸에 좋은 음식’이라고 응답한 비율은 60세 이상이 15%인 반면 20대는 7%에 그쳤다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "30대와 40대, 50대는 각각 14%, 14%, 15%였다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "온라인 중앙일보 ‘우리나라 최초의 라면’ [사진 중앙포토]",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "식량난 해소 위해 개발된 우리나라 최초의 라면은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

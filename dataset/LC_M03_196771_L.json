@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196771",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[땅이야기 맛이야기] 서울(1) 통영 토박이의 손맛이 그대로, 충무호동복",
+    "newsSubTitle": "한국국토정보공사 서울지역본부 직원이 추천하는 맛집",
+    "newsContent": "어머니께 배운 요리솜씨로 '충무호동복'의 추선희 대표는 싱싱한 해산물의 고장인 통영에서 자랐다.\n추 대표는 당시 식당을 운영하던 어머니의 일을 도와드리며 해산물을 가까이했다.\n결혼 후, 추 대표는 어머니께 배운 요리솜씨를 기반으로 '충무호동복'을 열었다. '충무호동복'의 ‘복국’은 특유의 깔끔한 맛으로, ‘충무멍게비빔밥’은 담백한 건강식으로 큰 인기를 끌고 있다.\n제철멍게로 만든 비빔밥 '충무호동복'의 대표 메뉴는 ‘충무멍게비빔밥’과 ‘복국’을 함께 즐길 수 있는 세트 메뉴다. ‘충무멍게비빔밥’은 따끈한 밥에 멍게와 참기름, 김가루를 넣고 비빈 음식이다.\n간단해 보이지만 신선한 멍게가 없으면 특유의 담백한 맛을 낼 수 없다.\n이 때문에 '충무호동복'은 5월에 잡은 제철 멍게를 급속 냉동시켜 신선함과 맛을 유지하고 있다.\n개운한 맛이 일품인 ‘복국’ 깔끔한 맛이 일품인 '충무호동복'의 ‘복국’은 참복을 사용하는 다른 식당과 달리, 졸복으로 만든다.\n단백질과 각종 무기질이 풍부한 졸복은 참복보다 쫄깃하고 시원한 국물 맛을 낸다. '충무호동복'의 ‘복국’은 그냥 먹어도 맛있지만, 반찬으로 나온 파래를 넣어먹으면 새콤한 파래 향이 더해져 더욱 개운하다.\n통영에서 매일 올라오는 생선 ‘자연산잡어회’는 '충무호동복'의 별미다.\n계절별로 가장 맛있는 생선만을 올리는 ‘자연산잡어회’는 이름 그대로 다양한 생선을 맛볼 수 있다. '충무호동복'이 여러 종류의 생선을 신선하게 제공할 수 있는 이유는 통영에서 매일 올라오는 싱싱한 생선 덕분이다.\n싱싱한 생선감이 없으면 ‘자연산잡어회’를 팔지 않는데, 이러한 고집이 손님들에게 신뢰를 준다.\n출처.한국국토정보공사, 2016 땅이야기 맛이야기",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "어머니께 배운 요리솜씨로 '충무호동복'의 추선희 대표는 싱싱한 해산물의 고장인 통영에서 자랐다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "추 대표는 당시 식당을 운영하던 어머니의 일을 도와드리며 해산물을 가까이했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "결혼 후, 추 대표는 어머니께 배운 요리솜씨를 기반으로 '충무호동복'을 열었다. '충무호동복'의 ‘복국’은 특유의 깔끔한 맛으로, ‘충무멍게비빔밥’은 담백한 건강식으로 큰 인기를 끌고 있다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "제철멍게로 만든 비빔밥 '충무호동복'의 대표 메뉴는 ‘충무멍게비빔밥’과 ‘복국’을 함께 즐길 수 있는 세트 메뉴다. ‘충무멍게비빔밥’은 따끈한 밥에 멍게와 참기름, 김가루를 넣고 비빈 음식이다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "간단해 보이지만 신선한 멍게가 없으면 특유의 담백한 맛을 낼 수 없다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 때문에 '충무호동복'은 5월에 잡은 제철 멍게를 급속 냉동시켜 신선함과 맛을 유지하고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "개운한 맛이 일품인 ‘복국’ 깔끔한 맛이 일품인 '충무호동복'의 ‘복국’은 참복을 사용하는 다른 식당과 달리, 졸복으로 만든다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "단백질과 각종 무기질이 풍부한 졸복은 참복보다 쫄깃하고 시원한 국물 맛을 낸다. '충무호동복'의 ‘복국’은 그냥 먹어도 맛있지만, 반찬으로 나온 파래를 넣어먹으면 새콤한 파래 향이 더해져 더욱 개운하다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "통영에서 매일 올라오는 생선 ‘자연산잡어회’는 '충무호동복'의 별미다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "계절별로 가장 맛있는 생선만을 올리는 ‘자연산잡어회’는 이름 그대로 다양한 생선을 맛볼 수 있다. '충무호동복'이 여러 종류의 생선을 신선하게 제공할 수 있는 이유는 통영에서 매일 올라오는 싱싱한 생선 덕분이다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "싱싱한 생선감이 없으면 ‘자연산잡어회’를 팔지 않는데, 이러한 고집이 손님들에게 신뢰를 준다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "출처.한국국토정보공사, 2016 땅이야기 맛이야기",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "늘 최고의 신선함과 맛 유지하는 달인, 통영 토박이 손맛 보러 떠나자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

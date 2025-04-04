@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197263",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[편집자 레터] 인문·교양이 다가옵니다",
+    "newsSubTitle": "",
+    "newsContent": "올해 노벨문학상도 한국 작가들을 비켜갔습니다.\n혹시 침체에 빠진 출판계의 주름을 펴줄 소식이 스웨덴에서 날아오지 않나 했는데 …. 그래도 낙담할 필요는 없지요.\n먼저 우리 출판계가 축제의 장을 열 준비를 해야겠습니다.\n최근에는 내년 프랑크푸르트 도서전에서 열릴 주빈국 행사마저 예산 부족 등으로 큰 차질을 빚고 있는 것으로 드러나 독자들에게 실망을 안겨줬지요.\n정부 지원이 부족한 것도 문제지만 아무래도 우리 출판계가 너무 실의에 빠져 있는 듯합니다.\n책의 날(10월 1일)만 해도 그랬습니다.\n상을 주고받는 기념식이 고작이었습니다.\n기회만 주어지면 촛불 들고 나서길 좋아하는 젊은이들을 왜 책으로는 광화문으로 못 끌어들입니까.\n야외로 나가느라 책을 더 읽지 않는다는 이 가을에 프랑스 국민은 문학의 향기에 흠뻑 취한답니다.\n그렇다고 그들이 여행을 안 갑니까.\n그곳 출판계 종사자들에게 9월은 악몽 같은 달이랍니다.\n너무나 많은 작품이 발표되다 보니 비평가들은 눈이 아파 못 살겠다고 비명을 지르고, 편집자들은 매일 집으로 일거리를 한아름씩 안고 들어간답니다.\n지난 한달 동안에만 새로 발표된 소설이 무려 661 작품이었습니다.\n그중 데뷔 작가의 작품이 121편이었고요.\n문학 작품을 9월에 몰아 발표하는 풍토를 감안한다 해도 우리로서는 상상 밖의 일입니다.\n정말로 프랑스 출판계는 살아 펄떡거리지요.\n우리 출판계도 인문·교양에 대한 관심이 되살아나는 기미를 보이고 있다니 여간 반가운 일이 아닙니다.\n책 제목에 ‘교양’을 넣는 것이 유행이랍니다.\n그런데 교양이란 게 어디 책 몇 권으로 얻을 수 있는 것입니까.\n독일과 일본의 대표적인 교양서적 저자들은 세대 간의 갈등이나 토론문화의 부재 등도 깊이 들여다보면 그 뿌리가 교양 부족에 닿는다고 말합니다.\n새겨볼 만한 의견입니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "올해 노벨문학상도 한국 작가들을 비켜갔습니다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "혹시 침체에 빠진 출판계의 주름을 펴줄 소식이 스웨덴에서 날아오지 않나 했는데 …. 그래도 낙담할 필요는 없지요.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "먼저 우리 출판계가 축제의 장을 열 준비를 해야겠습니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최근에는 내년 프랑크푸르트 도서전에서 열릴 주빈국 행사마저 예산 부족 등으로 큰 차질을 빚고 있는 것으로 드러나 독자들에게 실망을 안겨줬지요.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정부 지원이 부족한 것도 문제지만 아무래도 우리 출판계가 너무 실의에 빠져 있는 듯합니다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "책의 날(10월 1일)만 해도 그랬습니다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "상을 주고받는 기념식이 고작이었습니다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "기회만 주어지면 촛불 들고 나서길 좋아하는 젊은이들을 왜 책으로는 광화문으로 못 끌어들입니까.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "야외로 나가느라 책을 더 읽지 않는다는 이 가을에 프랑스 국민은 문학의 향기에 흠뻑 취한답니다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그렇다고 그들이 여행을 안 갑니까.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그곳 출판계 종사자들에게 9월은 악몽 같은 달이랍니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "너무나 많은 작품이 발표되다 보니 비평가들은 눈이 아파 못 살겠다고 비명을 지르고, 편집자들은 매일 집으로 일거리를 한아름씩 안고 들어간답니다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "지난 한달 동안에만 새로 발표된 소설이 무려 661 작품이었습니다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그중 데뷔 작가의 작품이 121편이었고요.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "문학 작품을 9월에 몰아 발표하는 풍토를 감안한다 해도 우리로서는 상상 밖의 일입니다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "정말로 프랑스 출판계는 살아 펄떡거리지요.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "우리 출판계도 인문·교양에 대한 관심이 되살아나는 기미를 보이고 있다니 여간 반가운 일이 아닙니다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "책 제목에 ‘교양’을 넣는 것이 유행이랍니다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "그런데 교양이란 게 어디 책 몇 권으로 얻을 수 있는 것입니까.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "독일과 일본의 대표적인 교양서적 저자들은 세대 간의 갈등이나 토론문화의 부재 등도 깊이 들여다보면 그 뿌리가 교양 부족에 닿는다고 말합니다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "새겨볼 만한 의견입니다.",
+        "sentenceSize": 13
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신음하는 국내 출판계, 노벨문학상은 한국 비켜간다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

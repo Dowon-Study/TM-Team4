@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198566",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[건강단신] 인천 가천의대 중앙길병원 外",
+    "newsSubTitle": "",
+    "newsContent": "◇인천 가천의대 중앙길병원은 3일 오전 10시 치과센터 개원식을 열고 진료를 시작했다.\n지하 1층, 지상 5층, 연면적 6백30평 규모로 치과 치료의 두려움을 덜어주는 특수안정클리닉.미세현미경치료실.턱관절클리닉.주걱턱클리닉.임플란트 연구소 등이 개설됐다.\n032-460-3540. ◇가톨릭의대 의정부성모병원은 9일 오후 2시 병원 2층 임상강의실에서 수족냉증의 진단.치료를 중심으로 건강강좌를 개최한다. 031-820-3179. ◇고려대의대 구로병원 심혈관센터는 고혈압 치료제 '시나롱' 임상4상에 참가할 환자를 모집한다.\n대상은 20~80세의 성인 남녀 40명으로 이완기 혈압이 높아야 한다. 02-818-6891. ◇원자력병원 외과 황대용 과장이 일반인을 위한 대장암 의학서 '1.5미터의 비밀'을 출간했다.\n대장암 환자를 치료한 경험을 살려 증상에서부터 진단.치료법을 상세히 소개했다.\n또 수술과 치료를 받기 전 준비해야 할 사항과 수술 후 재발 및 전이에 대한 설명도 곁들였다.\n이른아침 출판, 2백55쪽, 1만2천원.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◇인천 가천의대 중앙길병원은 3일 오전 10시 치과센터 개원식을 열고 진료를 시작했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지하 1층, 지상 5층, 연면적 6백30평 규모로 치과 치료의 두려움을 덜어주는 특수안정클리닉.미세현미경치료실.턱관절클리닉.주걱턱클리닉.임플란트 연구소 등이 개설됐다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "032-460-3540. ◇가톨릭의대 의정부성모병원은 9일 오후 2시 병원 2층 임상강의실에서 수족냉증의 진단.치료를 중심으로 건강강좌를 개최한다. 031-820-3179. ◇고려대의대 구로병원 심혈관센터는 고혈압 치료제 '시나롱' 임상4상에 참가할 환자를 모집한다.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대상은 20~80세의 성인 남녀 40명으로 이완기 혈압이 높아야 한다. 02-818-6891. ◇원자력병원 외과 황대용 과장이 일반인을 위한 대장암 의학서 '1.5미터의 비밀'을 출간했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "대장암 환자를 치료한 경험을 살려 증상에서부터 진단.치료법을 상세히 소개했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 수술과 치료를 받기 전 준비해야 할 사항과 수술 후 재발 및 전이에 대한 설명도 곁들였다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이른아침 출판, 2백55쪽, 1만2천원.",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인천 가천의대 중앙길병원에서 '이 행사' 드디어 열려...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

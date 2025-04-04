@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196566",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[글로벌 책동네] ‘로봇 도서관 사서’ 개발중 外",
+    "newsSubTitle": "",
+    "newsContent": "*** ‘로봇 도서관 사서’ 개발중 로봇은 지금까지 전자제품·자동차의 조립이나 오락용에 주로 쓰여왔다.\n그래서 로봇의 등장으로 일상생활이 크게 나아지리라는 기대는 충족되지 않고 있다.\n그런데 로봇을 일상으로 끌어들이려는 첫 시험대로 로봇 도서관 사서가 개발되고 있어 관심을 끈다.\nBBC 인터넷판 보도에 따르면, 스페인의 하우메 1대학의 로봇 연구진이 5년후 실용화를 목표로 개발중인 이 로봇 사서는 카메라와 센서, ‘손’을 장착하고 있다.\n카메라로 책의 위치를 정확히 찾아 낸 뒤 손으로 책을 뽑아 이용객에게 전달한다는 아이디어다.\n몇 차례 실험에서 로봇 사서의 ‘손’힘이 너무 세 책에 손상을 입히는 등 문제가 많은 것으로 드러났으나 관계자들은 5년내 로봇 사서의 탄생을 자신하고 있다.\n이 연구진의 앙헬 델 포빌교수는 공장이나 전시장 외의 생활 공간으로 로봇을 끌어내는데 가장 큰 걸림돌은 역시 안전문제라고 설명했다.\n통제되지 않는 환경에서 로봇과 인간이 함께 어울리다 보면 예측하지 못한 사고가 자주 일어날 수 있다는 것이다.\n그래서 포빌 교수팀은 로봇을 공공의 영역으로 소개하는 첫 공간으로, 그래도 어느 정도 질서가 보장되는 도서관이 최적이라고 판단했다고 전했다.\n*** 스타인벡 저작권 집안 싸움 미국 소설가 존 스타인벡(1902~68·사진)이 남긴 명작들의 저작권을 둘러싸고 그의 아들 가족과 아내 가족이 분쟁을 벌이고 있다.\n존 스타인벡의 아들 토머스 스타인벡과 손녀 블레이크 스마일은 최근 스타인벡의 세번째 부인인 일레인 스타인벡의 여동생 2명 등을 상대로 『분노의 포도』등 스타인벡 작품의 저작권료 수입을 속이고 있다며 이 작품들에 대한 저작권 관리권의 반환을 요구하는 소송을 뉴욕 연방지방법원에 제출했다.\n아울러 원고들이 피고인들에게 요구하는 돈은 자그마치 1800만달러다.\n1950년에 스타인벡과 결혼한 일레인은 지난해 세상을 떠났다.\n그녀는 그동안 줄리 앤드루스 등 스타인벡 팬들로부터 스타인벡 가의 대표로 존경받아왔으나 법정에 제출된 서류에는 질투심 많고 이기적인 인물로 그려지고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "*** ‘로봇 도서관 사서’ 개발중 로봇은 지금까지 전자제품·자동차의 조립이나 오락용에 주로 쓰여왔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그래서 로봇의 등장으로 일상생활이 크게 나아지리라는 기대는 충족되지 않고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그런데 로봇을 일상으로 끌어들이려는 첫 시험대로 로봇 도서관 사서가 개발되고 있어 관심을 끈다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "BBC 인터넷판 보도에 따르면, 스페인의 하우메 1대학의 로봇 연구진이 5년후 실용화를 목표로 개발중인 이 로봇 사서는 카메라와 센서, ‘손’을 장착하고 있다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "카메라로 책의 위치를 정확히 찾아 낸 뒤 손으로 책을 뽑아 이용객에게 전달한다는 아이디어다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "몇 차례 실험에서 로봇 사서의 ‘손’힘이 너무 세 책에 손상을 입히는 등 문제가 많은 것으로 드러났으나 관계자들은 5년내 로봇 사서의 탄생을 자신하고 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 연구진의 앙헬 델 포빌교수는 공장이나 전시장 외의 생활 공간으로 로봇을 끌어내는데 가장 큰 걸림돌은 역시 안전문제라고 설명했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "통제되지 않는 환경에서 로봇과 인간이 함께 어울리다 보면 예측하지 못한 사고가 자주 일어날 수 있다는 것이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그래서 포빌 교수팀은 로봇을 공공의 영역으로 소개하는 첫 공간으로, 그래도 어느 정도 질서가 보장되는 도서관이 최적이라고 판단했다고 전했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "*** 스타인벡 저작권 집안 싸움 미국 소설가 존 스타인벡(1902~68·사진)이 남긴 명작들의 저작권을 둘러싸고 그의 아들 가족과 아내 가족이 분쟁을 벌이고 있다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "존 스타인벡의 아들 토머스 스타인벡과 손녀 블레이크 스마일은 최근 스타인벡의 세번째 부인인 일레인 스타인벡의 여동생 2명 등을 상대로 『분노의 포도』등 스타인벡 작품의 저작권료 수입을 속이고 있다며 이 작품들에 대한 저작권 관리권의 반환을 요구하는 소송을 뉴욕 연방지방법원에 제출했다.",
+        "sentenceSize": 159
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "아울러 원고들이 피고인들에게 요구하는 돈은 자그마치 1800만달러다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "1950년에 스타인벡과 결혼한 일레인은 지난해 세상을 떠났다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그녀는 그동안 줄리 앤드루스 등 스타인벡 팬들로부터 스타인벡 가의 대표로 존경받아왔으나 법정에 제출된 서류에는 질투심 많고 이기적인 인물로 그려지고 있다.",
+        "sentenceSize": 86
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "스타인벡 저작권을 둘러싼 집안의 비극",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

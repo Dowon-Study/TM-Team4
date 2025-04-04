@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194546",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[와글와글e동네] 아직도 '뽀샵'하세요 ?",
+    "newsSubTitle": "",
+    "newsContent": "\\\"중앙일보에서 소주도 만드나요? 기자가 이런 사진이나 합성하고 있고 시간이 많은가 보네요.\\\" \\\"천만에요. 시간이라곤 딱 1분 걸렸는 걸요. 그냥 버튼 하나만 누르면 돼요. 요새 누가 이런 사진 만드는 데 포토샵 쓰나요? '이미지 패러디'(www.imageparody.com)가 있는데.\\\" 온라인상에 떠도는 재미있는 사진들을 버튼 하나로 편집할 수 있는 사이트가 인기입니다.\n이미지 패러디와 '안습닷컴'(www.anseup.co) 등의 사이트가 대표격이지요.\n도로 표지판에 내 이름을 새기거나 유명 합성 사진에 친구 이름을 넣는 것도 어렵지 않습니다.\n원하는 글을 넣고 버튼 하나만 누르면 사진 파일이 만들어집니다.\n번역기를 사용하지 않고 외국 사이트의 토론 내용을 엿볼 수 있는 사이트도 있습니다. '개소문닷컴'(www.gesomoon.com)은 미국과 유럽, 일본 등 외국 네티즌들의 댓글들을 번역해 소개하고 있습니다.\n프리미어리그에서 뛰고 있는 한국인 선수들에 대한 현지 네티즌 평가나 얼마 전 베를린 영화제 특별상을 수상한 '사이보그지만 괜찮아'의 해외 감상평도 어렵지 않게 볼 수 있네요.\n인터넷 세상의 진화는 정말 눈부십니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"중앙일보에서 소주도 만드나요? 기자가 이런 사진이나 합성하고 있고 시간이 많은가 보네요.\\\" \\\"천만에요. 시간이라곤 딱 1분 걸렸는 걸요. 그냥 버튼 하나만 누르면 돼요. 요새 누가 이런 사진 만드는 데 포토샵 쓰나요? '이미지 패러디'(www.imageparody.com)가 있는데.\\\" 온라인상에 떠도는 재미있는 사진들을 버튼 하나로 편집할 수 있는 사이트가 인기입니다.",
+        "sentenceSize": 212
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이미지 패러디와 '안습닷컴'(www.anseup.co) 등의 사이트가 대표격이지요.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "도로 표지판에 내 이름을 새기거나 유명 합성 사진에 친구 이름을 넣는 것도 어렵지 않습니다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "원하는 글을 넣고 버튼 하나만 누르면 사진 파일이 만들어집니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "번역기를 사용하지 않고 외국 사이트의 토론 내용을 엿볼 수 있는 사이트도 있습니다. '개소문닷컴'(www.gesomoon.com)은 미국과 유럽, 일본 등 외국 네티즌들의 댓글들을 번역해 소개하고 있습니다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "프리미어리그에서 뛰고 있는 한국인 선수들에 대한 현지 네티즌 평가나 얼마 전 베를린 영화제 특별상을 수상한 '사이보그지만 괜찮아'의 해외 감상평도 어렵지 않게 볼 수 있네요.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "인터넷 세상의 진화는 정말 눈부십니다.",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "버튼 하나만 누르면 사진 합성부터 글귀까지... '포토샵' 대신할 사진 편집 사이트는 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

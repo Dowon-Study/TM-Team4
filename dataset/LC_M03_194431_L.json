@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194431",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK책갈피] 지도 100개에 담긴 정치·예술적 의미 풀어내",
+    "newsSubTitle": "",
+    "newsContent": "지도박물관 존 클라크 지음, 김정은 옮김 웅진지식하우스, 367쪽, 2만원 지도는 단순히 길 안내를 위한 텍스트가 아니다.\n지도는 과학이고 예술이며, 정치이자 역사이기도 하다.\n기원전 24세기 토지 소유권을 표시한 수메르의 진흙판 위의 지도에서 2004년 대재앙을 일으킨 쓰나미 지도까지, 역사상 가장 주목할 만한 100가지 지도를 골라 해설을 붙인 이 책을 보면 이를 실감할 수 있다.\n네모난 종이로 오렌지를 구김살 없이 싸는 것은 불가능하다.\n평평한 종이 위해 둥근 지구의 지표면을 그리는 것도 마찬가지다.\n이를 위해 수많은 지도투영법이 개발 되었지만 모두 한계가 있다. 1973년 독일의 저널리스트 페테르스는 ‘최초의 비인종적 지도’를 소개했다.\n그는 지도제작에 가장 많이 사용되는 메르카토르 도법은 북아메리카와 유라시아 국가 중심이라 비판했다.\n실제 메르카토르지도에선 그린란드와 그보다 13배나 큰 아프리카가 비슷한 크기로 그려진다.\n대신 그는 직사각형의 격자 선에 위도와 경도를 나란히 표기하는 ‘직각투영 등적도법’을 제안했다.\n그러나 “개발도상국들에 더 공정한 이 지도”에도 결함이 나타났다.\n아프리카의 남북 길이가 동서길이보다 두 배 정도로 그렸지만 실제로는 거의 같았기 때문이다.\n이것이 정치적 의도와 관련된 논쟁이라면 1958년 100만 달러로 거래된 고지도도 있다. 1440년 제작된 것으로 추정된 이 지도는 북아메리카 동부 해안까지 보여줘 콜럼버스보다 50년 일찍 유럽인이 아메리카에 발을 디뎠다는 증거로 해석됐다.\n미국 예일 대는 엄청난 값을 치르고 이를 입수했다.\n그러나 얼마 뒤 이 ‘바인랜드 지도’는 진위 논란에 휩싸였다.\n전문가들은 잉크와 지질 분석 결과를 놓고 의견이 갈려 아직까지 논쟁을 벌이고 있다.\n딱딱한 이야기만 싣지는 않았다.\n레오나르도 다빈치가 ‘모나리자’를 그리기 전에 그린 ‘이몰라 지도’도 실렸다.\n이는 유럽 최초의 도시계획도이자, 요새와 방어계획을 담은 군사지도로 꼽힌다.\n팝 아트의 대가 앤디 워홀이 그린 추상화에 가까운 ‘군사지도’도 만날 수 있다.\n모호한 국경선에 어린아이가 그린 것처럼 조잡한 무기 표시가 눈에 띈다.\n지도를 펼쳐 놓고 지명찾기 놀이를 한 경험이 있다면 한동안 빠져들며 세계사의 흐름을 더듬어 볼 수 있는 책이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지도박물관 존 클라크 지음, 김정은 옮김 웅진지식하우스, 367쪽, 2만원 지도는 단순히 길 안내를 위한 텍스트가 아니다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지도는 과학이고 예술이며, 정치이자 역사이기도 하다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "기원전 24세기 토지 소유권을 표시한 수메르의 진흙판 위의 지도에서 2004년 대재앙을 일으킨 쓰나미 지도까지, 역사상 가장 주목할 만한 100가지 지도를 골라 해설을 붙인 이 책을 보면 이를 실감할 수 있다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "네모난 종이로 오렌지를 구김살 없이 싸는 것은 불가능하다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "평평한 종이 위해 둥근 지구의 지표면을 그리는 것도 마찬가지다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 위해 수많은 지도투영법이 개발 되었지만 모두 한계가 있다. 1973년 독일의 저널리스트 페테르스는 ‘최초의 비인종적 지도’를 소개했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 지도제작에 가장 많이 사용되는 메르카토르 도법은 북아메리카와 유라시아 국가 중심이라 비판했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "실제 메르카토르지도에선 그린란드와 그보다 13배나 큰 아프리카가 비슷한 크기로 그려진다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "대신 그는 직사각형의 격자 선에 위도와 경도를 나란히 표기하는 ‘직각투영 등적도법’을 제안했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그러나 “개발도상국들에 더 공정한 이 지도”에도 결함이 나타났다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "아프리카의 남북 길이가 동서길이보다 두 배 정도로 그렸지만 실제로는 거의 같았기 때문이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이것이 정치적 의도와 관련된 논쟁이라면 1958년 100만 달러로 거래된 고지도도 있다. 1440년 제작된 것으로 추정된 이 지도는 북아메리카 동부 해안까지 보여줘 콜럼버스보다 50년 일찍 유럽인이 아메리카에 발을 디뎠다는 증거로 해석됐다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "미국 예일 대는 엄청난 값을 치르고 이를 입수했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그러나 얼마 뒤 이 ‘바인랜드 지도’는 진위 논란에 휩싸였다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "전문가들은 잉크와 지질 분석 결과를 놓고 의견이 갈려 아직까지 논쟁을 벌이고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "딱딱한 이야기만 싣지는 않았다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "레오나르도 다빈치가 ‘모나리자’를 그리기 전에 그린 ‘이몰라 지도’도 실렸다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "이는 유럽 최초의 도시계획도이자, 요새와 방어계획을 담은 군사지도로 꼽힌다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "팝 아트의 대가 앤디 워홀이 그린 추상화에 가까운 ‘군사지도’도 만날 수 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "모호한 국경선에 어린아이가 그린 것처럼 조잡한 무기 표시가 눈에 띈다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "지도를 펼쳐 놓고 지명찾기 놀이를 한 경험이 있다면 한동안 빠져들며 세계사의 흐름을 더듬어 볼 수 있는 책이다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"지도는 과학이고 예술이며, 정치이자 역사,\" 지도를 다른 시각으로 바라본 책은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

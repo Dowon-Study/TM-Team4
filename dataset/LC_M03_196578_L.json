@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196578",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[프리뷰&리뷰] '못의 작가' 귄터 위커 첫 한국전",
+    "newsSubTitle": "마음 아픈 자들이여 오라",
+    "newsContent": "▶ 권터 워커는 못을 박으면서 고통받는 이들의 상처를 함께 느기고 영혼을 치유한다.\n벽에 써붙인 단어들이 상처에서 흐르는 피같다. '뚫다' '할퀴다' '갈다' '토막치다' '토하다'…. 작가는 우리 정신을 고문하려고 작정한 것일까.\n서울 사간동 갤러리 현대에서 열리고 있는 '귄터 위커-고통받는 사람들'은 첫눈에 편안하지 않은 전시임을 몸으로 느끼게 만든다.\n동독에서 태어나 현대 독일미술을 대표하는 작가로 손꼽히는 귄터 위커(74)는 자신의 작품을 고통받는 이들을 위한 진혼곡이라 부른다.\n지난 3일 오후 개막식에 무속인 김금화씨를 초청해 굿판을 벌였던 배경에도 이런 작가의 마음이 담겨 있다.\n그의 손은 아픈 이들의 영혼을 어루만지는 치유의 붓이다.\n귄터 위커는 흔히 '못의 작가'로 알려져 있다.\n92년작 '나무'정수리에는 굵은 대못이 수없이 박혀 있다.\n그는 못, 즉 '쇠로 된 붓'을 쓰면서 인간의 야만과 폭력을 고발하고 동시에 치료해왔다.\n세상을 못으로 박으면서 인식하고 그 문명화가 가져온 고통을 씻는다.\n아마도 20세기에 조국 독일이 저지른 전쟁과 학살에 대한 씻김을 그가 대리하고 있는지도 모른다.\n그는 여성.어린이.이민자.난민 등 소수와 약자들이 당한 참상을 작품의 주제로 삼는다.\n삶과 죽음 사이에서 떠는 그들의 고통을 작가의 몸이 먼저 느끼고 작업에 들어간다.\n귄터 위커가 때로 영매이거나 박수처럼 보이는 까닭이지만, 작가 자신은 그저 예술가일 뿐이라고 말한다.\n\\\"인간에 의한 인간에 대한 학대\\\"를 기록하는 그는 오히려 미술을 빌려 활동하는 인권운동가라 해야 마땅하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "▶ 권터 워커는 못을 박으면서 고통받는 이들의 상처를 함께 느기고 영혼을 치유한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "벽에 써붙인 단어들이 상처에서 흐르는 피같다. '뚫다' '할퀴다' '갈다' '토막치다' '토하다'…. 작가는 우리 정신을 고문하려고 작정한 것일까.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서울 사간동 갤러리 현대에서 열리고 있는 '귄터 위커-고통받는 사람들'은 첫눈에 편안하지 않은 전시임을 몸으로 느끼게 만든다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "동독에서 태어나 현대 독일미술을 대표하는 작가로 손꼽히는 귄터 위커(74)는 자신의 작품을 고통받는 이들을 위한 진혼곡이라 부른다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 3일 오후 개막식에 무속인 김금화씨를 초청해 굿판을 벌였던 배경에도 이런 작가의 마음이 담겨 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그의 손은 아픈 이들의 영혼을 어루만지는 치유의 붓이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "귄터 위커는 흔히 '못의 작가'로 알려져 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "92년작 '나무'정수리에는 굵은 대못이 수없이 박혀 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그는 못, 즉 '쇠로 된 붓'을 쓰면서 인간의 야만과 폭력을 고발하고 동시에 치료해왔다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "세상을 못으로 박으면서 인식하고 그 문명화가 가져온 고통을 씻는다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "아마도 20세기에 조국 독일이 저지른 전쟁과 학살에 대한 씻김을 그가 대리하고 있는지도 모른다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그는 여성.어린이.이민자.난민 등 소수와 약자들이 당한 참상을 작품의 주제로 삼는다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "삶과 죽음 사이에서 떠는 그들의 고통을 작가의 몸이 먼저 느끼고 작업에 들어간다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "귄터 위커가 때로 영매이거나 박수처럼 보이는 까닭이지만, 작가 자신은 그저 예술가일 뿐이라고 말한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "\\\"인간에 의한 인간에 대한 학대\\\"를 기록하는 그는 오히려 미술을 빌려 활동하는 인권운동가라 해야 마땅하다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "첫 한국전 '귄터 워커-고통받는 사람들', 고통에 고통을 더한 불편한 전시일까",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

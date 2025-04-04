@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195793",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "복지위, 메르스 손실보상 1천억→5천억 증액",
+    "newsSubTitle": "예결소위, 여야 만장일치로 증액 의결",
+    "newsContent": "메르스 피해 의료기관에 대한 피해지원액이 종전 1000억원에서 5000억원으로 증액, 의결됐다.\n국회 예산결산위원회와 본회의의 문턱을 넘으면 최종 확정되지만 순탄치 않으리라는 전망이다.\n국회 보건복지위원회 예산결산심의소위원회는 16일 추경예산안을 심의하는 자리에서 메르스 피해 병의원에 대한 피해지원액을 5000억원으로 증액하는 내용을 만장일치로 결정했다.\n메르스 의료기관에 대한 융자액 4000억원은 원안대로 의결했다.\n앞서 보건복지부는 메르스 환자 진료병원 50개소, 집중관리병원 16개소, 경유병원 106개소 등 172곳 가운데 중복된 18곳을 제외한 154곳을 대상으로 1000억원을 지원하겠다고 밝힌 바 있다.\n이는 삼성서울병원과 서울아산병원을 제외한 152개 의료기관의 지난해 월평균 건강보험급여액 4400억원 중 23%에 해당한다는 계산에 따른 것이다.\n그러나 복지위는 1000억원의 산출근거가 미약하고 피해규모에 비해 지나치게 적다며 증액을 요구했다.\n이를 위해 대한병원협회에서 추산한 의료수익 손실 중 일반손실을 제외한 감염병 관리기관 및 메르스 직접피해 병원의 손실 5495억원을 근거자료로 제시했다.\n구체적인 범위, 손실발생 시기, 보상기간 등은 ‘손실보상심의위원회’를 신설, 결정키로 했다.\n이와 함께 인천의료원을 비롯한 19개 국가격리병원에 1인실 기준의 음압병상 설치 예산으로 책정된 234억원 역시 원안 그대로 통과시켰다.\n또 감염병 연구와 교육, 진료를 전문으로 하는 감염병연구병원 1개소와 권역별 감염병환자 치료를 위한 감염병전문병원을 최소 3개소 설립하기로 하고, 이를 위한 설계비로 101억3000만원을 신설했다.\n일단 의료계의 바람대로 피해지원액이 증액되긴 했지만 예결위라는 큰 산을 넘어야 한다.\n국회 각 위원회에서 올린 추경안을 모아 재단하는 과정에서 삭감될 가능성은 얼마든지 있는 것이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "메르스 피해 의료기관에 대한 피해지원액이 종전 1000억원에서 5000억원으로 증액, 의결됐다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국회 예산결산위원회와 본회의의 문턱을 넘으면 최종 확정되지만 순탄치 않으리라는 전망이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국회 보건복지위원회 예산결산심의소위원회는 16일 추경예산안을 심의하는 자리에서 메르스 피해 병의원에 대한 피해지원액을 5000억원으로 증액하는 내용을 만장일치로 결정했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "메르스 의료기관에 대한 융자액 4000억원은 원안대로 의결했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 보건복지부는 메르스 환자 진료병원 50개소, 집중관리병원 16개소, 경유병원 106개소 등 172곳 가운데 중복된 18곳을 제외한 154곳을 대상으로 1000억원을 지원하겠다고 밝힌 바 있다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이는 삼성서울병원과 서울아산병원을 제외한 152개 의료기관의 지난해 월평균 건강보험급여액 4400억원 중 23%에 해당한다는 계산에 따른 것이다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러나 복지위는 1000억원의 산출근거가 미약하고 피해규모에 비해 지나치게 적다며 증액을 요구했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 위해 대한병원협회에서 추산한 의료수익 손실 중 일반손실을 제외한 감염병 관리기관 및 메르스 직접피해 병원의 손실 5495억원을 근거자료로 제시했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "구체적인 범위, 손실발생 시기, 보상기간 등은 ‘손실보상심의위원회’를 신설, 결정키로 했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이와 함께 인천의료원을 비롯한 19개 국가격리병원에 1인실 기준의 음압병상 설치 예산으로 책정된 234억원 역시 원안 그대로 통과시켰다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "또 감염병 연구와 교육, 진료를 전문으로 하는 감염병연구병원 1개소와 권역별 감염병환자 치료를 위한 감염병전문병원을 최소 3개소 설립하기로 하고, 이를 위한 설계비로 101억3000만원을 신설했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "일단 의료계의 바람대로 피해지원액이 증액되긴 했지만 예결위라는 큰 산을 넘어야 한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "국회 각 위원회에서 올린 추경안을 모아 재단하는 과정에서 삭감될 가능성은 얼마든지 있는 것이다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "메르스 피해 의료기관 지원액 5,000억 원으로 증액… 국회 문턱 넘을 수 있나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

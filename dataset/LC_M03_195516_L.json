@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195516",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "옆에서 속삭여도 잘 안 들린다…혹시 나도 최소 난청?",
+    "newsSubTitle": "삼성서울병원 1만6000여 명 분석 결과 국민 10명중 넷가량 '최소 난청' 겪어 속삭임, 새 울음 소리 안 들리는 수준 보청기 등 보조장치 사용 1% 채 안돼 시간 지날수록 치매·학습력 저하 유발 귀먹먹하고 '삐'소리 들리면 진단 받아야",
+    "newsContent": "우리나라 국민 10명 중 4명 가량이 속삭이는 소리가 잘 안 들리는 '최소 난청'을 겪고 있는 것으로 나타났다.\n난청은 시간이 지날수록 악화해 치매 등을 유발할 수 있는데도 보청기 등 청력 보조장치를 이용하는 환자는 채 1%가 되지 않았다.\n삼성서울병원 이비인후과 문일준 교수 연구팀은 8일 \\\"국민건강영양조사(2010~2012년)를 분석한 결과 12세 이상 1만6630명 중 최소난청을 겪는 사람의 비율은 37.4%로 나이가 들수록, 남성에게 더 잘 나타나는 것으로 나타났다\\\"고 밝혔다.\n이번 연구에서 최소난청 환자의 13%는 \\\"소리가 잘 들리지 않아 일상생활에 불편함을 겪었다\\\"고 답했다.\n22.9%는 귀울림(이명) 증상을 겪거나, 겪은 적이 있는 것으로 조사됐다.\n문일준 교수는 \\\"난청 환자는 이명을 자주 겪고 실제 이번 조사에서도 유병률이 정상인에 비해 높았다\\\"고 설명했다.\n최소난청은 순음 청력검사에서 15데시벨(dB) 미만의 소리가 잘 안 들리는 경우 진단한다.\n속삭이는 소리·바람에 흔들리는 나뭇잎 소리·새 울음소리 등이 이 수준이다.\n일반적인 난청은 25dB 미만의 소리를 듣지 못할 때 진단한다.\n최소난청은 일반적인 난청보다 증상이 덜해 치료에 적극적으로 나서지 않은 경우가 많다.\n이번 연구에서도 최소난청 환자 중 1% 미만(0.47%)의 환자만이 보청기 등 청력보조장치를 사용하고 있는 것으로 집계됐다.\n그러나 최소난청은 시간이 지날수록 악화하고, 인지기능 저하와도 관련성이 커 초기 대처가 중요하다.\n미국 존스홉킨스의대가 지난해 발표한 연구논문에 따르면 고령 난청 환자는 정상보다 치매 발생 확률이 2~6배가량 높다.\n또 소아 난청 환자의 37%는 학업성취도·자존감이 일반 청력을 가진 아이보다 상대적으로 낮은 것으로 나타났다.\n문 교수는“젊은층도 이어폰 사용이 증가하면서 난청 환자가 증가하는 추세\\\"라며 \\\"귀가 먹먹하거나 ‘삐’소리가 나는 등 청각 이상이 느껴지면 즉시 병원을 찾고 보청기 등도 적극 활용해야 한다\\\"고 조언했다.\n이번 연구는 국제 학술지 '플로스원' 최근호에 게재됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우리나라 국민 10명 중 4명 가량이 속삭이는 소리가 잘 안 들리는 '최소 난청'을 겪고 있는 것으로 나타났다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "난청은 시간이 지날수록 악화해 치매 등을 유발할 수 있는데도 보청기 등 청력 보조장치를 이용하는 환자는 채 1%가 되지 않았다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "삼성서울병원 이비인후과 문일준 교수 연구팀은 8일 \\\"국민건강영양조사(2010~2012년)를 분석한 결과 12세 이상 1만6630명 중 최소난청을 겪는 사람의 비율은 37.4%로 나이가 들수록, 남성에게 더 잘 나타나는 것으로 나타났다\\\"고 밝혔다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 연구에서 최소난청 환자의 13%는 \\\"소리가 잘 들리지 않아 일상생활에 불편함을 겪었다\\\"고 답했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "22.9%는 귀울림(이명) 증상을 겪거나, 겪은 적이 있는 것으로 조사됐다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "문일준 교수는 \\\"난청 환자는 이명을 자주 겪고 실제 이번 조사에서도 유병률이 정상인에 비해 높았다\\\"고 설명했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최소난청은 순음 청력검사에서 15데시벨(dB) 미만의 소리가 잘 안 들리는 경우 진단한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "속삭이는 소리·바람에 흔들리는 나뭇잎 소리·새 울음소리 등이 이 수준이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "일반적인 난청은 25dB 미만의 소리를 듣지 못할 때 진단한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "최소난청은 일반적인 난청보다 증상이 덜해 치료에 적극적으로 나서지 않은 경우가 많다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이번 연구에서도 최소난청 환자 중 1% 미만(0.47%)의 환자만이 보청기 등 청력보조장치를 사용하고 있는 것으로 집계됐다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그러나 최소난청은 시간이 지날수록 악화하고, 인지기능 저하와도 관련성이 커 초기 대처가 중요하다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "미국 존스홉킨스의대가 지난해 발표한 연구논문에 따르면 고령 난청 환자는 정상보다 치매 발생 확률이 2~6배가량 높다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또 소아 난청 환자의 37%는 학업성취도·자존감이 일반 청력을 가진 아이보다 상대적으로 낮은 것으로 나타났다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "문 교수는“젊은층도 이어폰 사용이 증가하면서 난청 환자가 증가하는 추세\\\"라며 \\\"귀가 먹먹하거나 ‘삐’소리가 나는 등 청각 이상이 느껴지면 즉시 병원을 찾고 보청기 등도 적극 활용해야 한다\\\"고 조언했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "이번 연구는 국제 학술지 '플로스원' 최근호에 게재됐다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국민 10명 중 4명이 겪고 있는 치매 유발 질환은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

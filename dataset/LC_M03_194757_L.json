@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194757",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[데스크 쪽지] 김상봉 교수의 '나르시스의 꿈'",
+    "newsSubTitle": "",
+    "newsContent": "\\\"설상가상(雪上加霜) 이 아니라 설상설상(雪上雪上) 이구먼?\\\" '행복한 책읽기'팀의 동료 한명이 비명을 질렀던 한 주였습니다.\n보통 때보다 갑절 이상 신간이 몰리고, 썩 괜찮은 책들은 그 이상이었으나 행복 팀의 선택은 김상봉 교수의 철학에세이 『나르시스의 꿈』쪽입니다.\n우리 사회가 옹호해야 할 가치를 담고 있는 읽을거리라는 판단 때문이죠.\n내용도 어려울 게 없습니다.\n변산공동체의 농사꾼 윤구병(전 충북대교수) 씨의 말을 예로 들어볼까요□ 벌써 수년 전 그가 토종닭과 토종 돼지, 그리고 볍씨를 구하러 물어물어 오지와 먼 섬, 결국은 옌볜까지를 찾아나섰다고 합니다.\n호고(好古) 취미나 쇼비니즘 때문이 아닙니다.\n병든 땅, 오염된 종자의 홍수 속에서 생물학적 종(種) 의 다양성이 농사짓기에 너무나 절실해서였답니다.\n그렇습니다.\n병든 땅, 오염된 종자란 우리 문화와 정신 상황에 대한 은유(隱喩) 인지도 모릅니다.\n마침 '책이 있는 토크쇼'로 다룬 서울대 윤석철 교수의 『경영학의 진리체계』 역시 크게 보아 닮은꼴이니 흥미롭습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"설상가상(雪上加霜) 이 아니라 설상설상(雪上雪上) 이구먼?\\\" '행복한 책읽기'팀의 동료 한명이 비명을 질렀던 한 주였습니다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보통 때보다 갑절 이상 신간이 몰리고, 썩 괜찮은 책들은 그 이상이었으나 행복 팀의 선택은 김상봉 교수의 철학에세이 『나르시스의 꿈』쪽입니다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "우리 사회가 옹호해야 할 가치를 담고 있는 읽을거리라는 판단 때문이죠.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "내용도 어려울 게 없습니다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "변산공동체의 농사꾼 윤구병(전 충북대교수) 씨의 말을 예로 들어볼까요□ 벌써 수년 전 그가 토종닭과 토종 돼지, 그리고 볍씨를 구하러 물어물어 오지와 먼 섬, 결국은 옌볜까지를 찾아나섰다고 합니다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "호고(好古) 취미나 쇼비니즘 때문이 아닙니다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "병든 땅, 오염된 종자의 홍수 속에서 생물학적 종(種) 의 다양성이 농사짓기에 너무나 절실해서였답니다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그렇습니다.",
+        "sentenceSize": 6
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "병든 땅, 오염된 종자란 우리 문화와 정신 상황에 대한 은유(隱喩) 인지도 모릅니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "마침 '책이 있는 토크쇼'로 다룬 서울대 윤석철 교수의 『경영학의 진리체계』 역시 크게 보아 닮은꼴이니 흥미롭습니다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김상봉 교수가 전하는 우리 사회가 옹호할 가치를 담은 책은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

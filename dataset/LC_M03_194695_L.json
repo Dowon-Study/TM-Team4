@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194695",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[레저정보] '고산자의 후예들' 外",
+    "newsSubTitle": "",
+    "newsContent": "■ 등산지도 전문 제작업체인 '고산자의 후예들'(www.gosanja.com)이 백두대간 산행 지도를 펴냈다.\n1대50000의 축적으로 가로 52㎝, 세로 37㎝의 지도 24장에 남한의 백두대간을 담았다.\n물에 젖지 않고 잘 찢어지지 않는 타이백 종이를 썼다.\n지도 뒷면에 해당 구간을 입체적으로 볼 수 있는 3D 지도를 실었다.\n정가는 5만원이나 전화로 주문하면 10%를 할인해준다.\n구간별로 낱장 구입(장당 3000원)도 가능하다.\n02-858-1618. ■ 경기도 가평의 야생화 수목원 '꽃무지 풀무지'가 피부병이 있는 어린이들을 위해 8일 패랭이꽃 세안 이벤트를 개최한다.\n패랭이 꽃잎과 줄기를 달인 물을 몸과 얼굴에 바르는 행사다.\n저녁에는 오카리나 연주회를 열고 반딧불이를 찾는 행사도 한다.\n참가비는 저녁 식사를 포함해 1인당 1만원이다.\n선착순 10가족에 한해 텐트 야영도 허용한다. 031-585-4875.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "■ 등산지도 전문 제작업체인 '고산자의 후예들'(www.gosanja.com)이 백두대간 산행 지도를 펴냈다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1대50000의 축적으로 가로 52㎝, 세로 37㎝의 지도 24장에 남한의 백두대간을 담았다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "물에 젖지 않고 잘 찢어지지 않는 타이백 종이를 썼다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지도 뒷면에 해당 구간을 입체적으로 볼 수 있는 3D 지도를 실었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정가는 5만원이나 전화로 주문하면 10%를 할인해준다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "구간별로 낱장 구입(장당 3000원)도 가능하다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "02-858-1618. ■ 경기도 가평의 야생화 수목원 '꽃무지 풀무지'가 피부병이 있는 어린이들을 위해 8일 패랭이꽃 세안 이벤트를 개최한다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "패랭이 꽃잎과 줄기를 달인 물을 몸과 얼굴에 바르는 행사다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "저녁에는 오카리나 연주회를 열고 반딧불이를 찾는 행사도 한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "참가비는 저녁 식사를 포함해 1인당 1만원이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "선착순 10가족에 한해 텐트 야영도 허용한다. 031-585-4875.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "백두대간 산행 지도 '고산자의 후예들'... 전문가의 손길 담긴 등산지도의 차별점은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

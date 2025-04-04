@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197410",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "직장 소음, 우울, 흡연, 40세 이상 남성, 난청 위험 30% 높다",
+    "newsSubTitle": "삼성서울병원 조양선 교수팀 12세 이상 1만 845명 분석 40세 이상 국민 10명 중 3.5명 난청 직장 소음, 흡연자 난청 발생 55%까지 높여 우울감, 뇌졸중 경험, 빈혈도 영향",
+    "newsContent": "소음 있는 환경에서 일하고 우울감이 있으며 흡연자인 40세 이상 남성은 난청 위험이 30% 높다는 연구 결과가 나왔다.\n삼성서울병원 이비인후과 조양선 교수팀은 \\\"난청 원인에는 나이뿐 아니라 성별, 작업 환경, 흡연 여부도 영향을 미친다\\\"고 16일 밝혔다.\n연구팀은 12세 이상 청소년·성인 1만 845명의 국민건강영양조사를 분석해 난청 인구를 조사했다.\n그 결과, 10명 중 2명은 난청이었다.\n난청의 가장 큰 원인은 나이다. 40세 이상 35%, 70세 이상 82%가 난청이었다.\n난청은 여성보다 남성에서 더 흔했다.\n40세 이상 남성 40%, 여성 30%가 난청이었다.\n이 외에 난청 원인으로 ▶직장 내 소음 ▶우울감 ▶빈혈 ▶뇌졸중 ▶흡연이 연관 있는 것으로 나타났다.\n다른 조건이 같을 때 소음 있는 환경에서 일하면 그렇지 않은 사람보다 난청 발생 위험이 28% 높다. 2주 이상 우울감이 지속하면 난청 위험이 29%, 뇌졸중이 있으면 72%, 빈혈 환자는 36% 높았다.\n특히 흡연자는 난청 발생 위험이 36% 높고, 20년 이상 피우면 위험이 55%까지 높아졌다.\n수입·학력처럼 난청과 무관해 보이는 환경도 난청과 관련 있었다.\n수입·학력이 낮을수록 난청 비율이 높았다.\n하위소득 계층의 56.8%가 난청인 반면 중위 계층은 32.9%, 상위 계층은 23.1%였다.\n난청은 고졸 미만에서 49.5%로 가장 높았다. 고졸은 26.8%, 전문학사 이상은 18%였다.\n조양선 교수는 \\\"난청을 일으키는 다양한 원인을 고려해 질병을 예방하는 정책이 필요하다”고 말했다.\n연구는 ‘국제청각저널’ 최근호에 실렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "소음 있는 환경에서 일하고 우울감이 있으며 흡연자인 40세 이상 남성은 난청 위험이 30% 높다는 연구 결과가 나왔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "삼성서울병원 이비인후과 조양선 교수팀은 \\\"난청 원인에는 나이뿐 아니라 성별, 작업 환경, 흡연 여부도 영향을 미친다\\\"고 16일 밝혔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구팀은 12세 이상 청소년·성인 1만 845명의 국민건강영양조사를 분석해 난청 인구를 조사했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 결과, 10명 중 2명은 난청이었다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "난청의 가장 큰 원인은 나이다. 40세 이상 35%, 70세 이상 82%가 난청이었다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "난청은 여성보다 남성에서 더 흔했다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "40세 이상 남성 40%, 여성 30%가 난청이었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 외에 난청 원인으로 ▶직장 내 소음 ▶우울감 ▶빈혈 ▶뇌졸중 ▶흡연이 연관 있는 것으로 나타났다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다른 조건이 같을 때 소음 있는 환경에서 일하면 그렇지 않은 사람보다 난청 발생 위험이 28% 높다. 2주 이상 우울감이 지속하면 난청 위험이 29%, 뇌졸중이 있으면 72%, 빈혈 환자는 36% 높았다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "특히 흡연자는 난청 발생 위험이 36% 높고, 20년 이상 피우면 위험이 55%까지 높아졌다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "수입·학력처럼 난청과 무관해 보이는 환경도 난청과 관련 있었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "수입·학력이 낮을수록 난청 비율이 높았다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "하위소득 계층의 56.8%가 난청인 반면 중위 계층은 32.9%, 상위 계층은 23.1%였다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "난청은 고졸 미만에서 49.5%로 가장 높았다. 고졸은 26.8%, 전문학사 이상은 18%였다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "조양선 교수는 \\\"난청을 일으키는 다양한 원인을 고려해 질병을 예방하는 정책이 필요하다”고 말했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "연구는 ‘국제청각저널’ 최근호에 실렸다.",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "직장 소음에 흡연까지 하면 난청 위험 높아진다... 직장인 남성들 건강 위험 폭탄 신호",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

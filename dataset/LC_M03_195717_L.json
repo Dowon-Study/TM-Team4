@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195717",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "간호계, 2년제 학제 놓고 '자중지란' 우려",
+    "newsSubTitle": "오늘(30일) 2년제 간호학제 반대 집회…간협 \\\"간무사 돕는 행위\\\"",
+    "newsContent": "전문대 간호조무과 신설에 반대하는 일선 간호사와 간호대학생들이 오늘(30일) 대대적인 집회를 연다. 2년제 간호학제 신설 반대를 위한 협의체는 “전국간호대학생연합과 공동주관으로 30일 서울역 광장에서 총력투쟁 선포를 실시한다”며 “이번 집회가 우리의 목소리를 들려줄 마지막이 될지도 모른다. 함께해 달라”고 독려했다.\n앞서 협의체는 지난 2월 같은 장소에서 2년제 간호학제 신설에 반대하는 결의대회를 열어 “2년제 간호학제가 도입되면 간호서비스 질이 저하되고 현직 간호사들이 대량 실업자가 될 것”이라며 간호인력 개편안 철회를 촉구한 바 있다.\n직역 대표단체인 간호협회는 좌불안석 분위기다.\n간호사와 간호조무사 업무 구분 등을 골자로 한 신경림 의원의 의료법 개정안이 내달 국회 상정을 앞둔 시점이기 때문이다.\n자칫 다른 현안을 내세워 집회를 강행하는 것은 간호계 내분만 일으킬 소지가 크다는 우려에서다.\n대한간호협회는 최근 회원들에게 “간호계 분열을 조장하는 집회는 간호조무사협회를 돕는 행위”라며 동요하지 말 것을 당부했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전문대 간호조무과 신설에 반대하는 일선 간호사와 간호대학생들이 오늘(30일) 대대적인 집회를 연다. 2년제 간호학제 신설 반대를 위한 협의체는 “전국간호대학생연합과 공동주관으로 30일 서울역 광장에서 총력투쟁 선포를 실시한다”며 “이번 집회가 우리의 목소리를 들려줄 마지막이 될지도 모른다. 함께해 달라”고 독려했다.",
+        "sentenceSize": 177
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "앞서 협의체는 지난 2월 같은 장소에서 2년제 간호학제 신설에 반대하는 결의대회를 열어 “2년제 간호학제가 도입되면 간호서비스 질이 저하되고 현직 간호사들이 대량 실업자가 될 것”이라며 간호인력 개편안 철회를 촉구한 바 있다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "직역 대표단체인 간호협회는 좌불안석 분위기다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "간호사와 간호조무사 업무 구분 등을 골자로 한 신경림 의원의 의료법 개정안이 내달 국회 상정을 앞둔 시점이기 때문이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "자칫 다른 현안을 내세워 집회를 강행하는 것은 간호계 내분만 일으킬 소지가 크다는 우려에서다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "대한간호협회는 최근 회원들에게 “간호계 분열을 조장하는 집회는 간호조무사협회를 돕는 행위”라며 동요하지 말 것을 당부했다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "간호협회 좌불안석, 간호계 내분 일어나… 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

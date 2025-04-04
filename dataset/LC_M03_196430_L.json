@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196430",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[짤막소식] 피아니스트 피터 야블론스키 내한 外",
+    "newsSubTitle": "",
+    "newsContent": "◆한국인에게 인기있는 피아니스트 피터 야블론스키가 내한한다. 29일 오후 8시 고양 어울림극장에서 수원시향(지휘 박은성)이 야블론스키와 그리그 협주곡을 연주한다.\n그리그 서거 100주년, 시벨리우스 서거 50주년을 기념하는 연주회다.\n031-960-9622. ◆제3회 인천국제 악기전시회가 16일까지 코엑스 컨벤션홀에서 열린다.\n국내외 150여개 악기 업체가 참여해 수백년 전 쓰이던 고악기에서부터 피아노.바이올린 등 500억여원 규모의 악기가 전시하며 가수들의 콘서트도 준비돼 있다.\n02-3432-4553. ◆첼리스트 홍성은을 중심으로 한 '홍성은 퀸텟'이 첫 번째 앨범 'Reminiscences'을 발매했다.\n홍성은은 줄리아드 음대와 비엔나 국립음악원을 졸업하고 카네기홀 등에서 연주한 첼리스트다.\n이 앨범에는 모차르트 콰르텟과 드보르자크의 유머레스크 등이 재즈풍으로 연주돼 담겼다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆한국인에게 인기있는 피아니스트 피터 야블론스키가 내한한다. 29일 오후 8시 고양 어울림극장에서 수원시향(지휘 박은성)이 야블론스키와 그리그 협주곡을 연주한다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그리그 서거 100주년, 시벨리우스 서거 50주년을 기념하는 연주회다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "031-960-9622. ◆제3회 인천국제 악기전시회가 16일까지 코엑스 컨벤션홀에서 열린다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "국내외 150여개 악기 업체가 참여해 수백년 전 쓰이던 고악기에서부터 피아노.바이올린 등 500억여원 규모의 악기가 전시하며 가수들의 콘서트도 준비돼 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "02-3432-4553. ◆첼리스트 홍성은을 중심으로 한 '홍성은 퀸텟'이 첫 번째 앨범 'Reminiscences'을 발매했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "홍성은은 줄리아드 음대와 비엔나 국립음악원을 졸업하고 카네기홀 등에서 연주한 첼리스트다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 앨범에는 모차르트 콰르텟과 드보르자크의 유머레스크 등이 재즈풍으로 연주돼 담겼다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "헉 소리 나는 가격의 악기들 다 모였다… '인천 국제 악기 전시회' 개최",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

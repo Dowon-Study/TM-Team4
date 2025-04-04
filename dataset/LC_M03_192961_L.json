@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192961",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[레저정보] 호주탐험대 모집 外",
+    "newsSubTitle": "",
+    "newsContent": "◆ 호주관광청이 호주탐험대를 21일까지 모집한다.\n선정되면 2명이 팀을 이뤄 호주의 대표적 명소와 숨은 명소를 15일간 여행한다. 1차 탐험대는 6월 5~19일 시드니와 케언스를 돌아본다.\n경비는 호주관광청에서 지원. 다음카페(cafe.daum.net/travelaustralia)에서 응모를 받는다. 02-399-6502. ◆ 과천 서울랜드가 26~28일 '제2회 대학문화예술축제'를 연다. 전국 100개 대학 동아리들의 공연을 선보인다.\n대학생은 학생증을 제시하면 서울랜드에 무료 입장할 수 있다.\n붉은 옷을 입은 대학생은 자유이용권을 5000원에 살 수 있다. 02-504-0011. ◆ 가족답사모임 '아빠와추억만들기(www.swdad.com)'는 21일 경기도 양평에서 아빠와 함께 모내기 행사를 한다.\n맨손으로 미꾸라지 잡아 구워먹기, 족대로 송사리 잡기, 맷돌 갈아 순두부 만들기, 젓가락총 사격대회 등의 프로그램을 진행한다.\n참가비는 1인당 4만2500원. 02-575-5569. ◆ 승우여행사(swtour.co.kr)가 8월까지 매주 토.일요일 당일 일정으로 야생화 트레킹 행사를 연다. 행선지는 태백시 분주령, 함백산 은대봉, 화천 비수구미, 인제 연가리골 등이다.\n참가비는 3만8000원. 02-720-8311. ◆ 범한여행 레드캡(www.redcaptour.com)이 알래스카 5일짜리 여행 상품을 만들었다.\n빙하 관광을 하고, 인디언마을을 들르며 한국인 최초로 에베레스트 등정에 성공한 고(故) 고상돈 대원의 묘역을 참배한다. 7월 20, 27일, 8월 3, 10, 17일 출발. 참가비는 220만원.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆ 호주관광청이 호주탐험대를 21일까지 모집한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "선정되면 2명이 팀을 이뤄 호주의 대표적 명소와 숨은 명소를 15일간 여행한다. 1차 탐험대는 6월 5~19일 시드니와 케언스를 돌아본다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "경비는 호주관광청에서 지원. 다음카페(cafe.daum.net/travelaustralia)에서 응모를 받는다. 02-399-6502. ◆ 과천 서울랜드가 26~28일 '제2회 대학문화예술축제'를 연다. 전국 100개 대학 동아리들의 공연을 선보인다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대학생은 학생증을 제시하면 서울랜드에 무료 입장할 수 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "붉은 옷을 입은 대학생은 자유이용권을 5000원에 살 수 있다. 02-504-0011. ◆ 가족답사모임 '아빠와추억만들기(www.swdad.com)'는 21일 경기도 양평에서 아빠와 함께 모내기 행사를 한다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "맨손으로 미꾸라지 잡아 구워먹기, 족대로 송사리 잡기, 맷돌 갈아 순두부 만들기, 젓가락총 사격대회 등의 프로그램을 진행한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "참가비는 1인당 4만2500원. 02-575-5569. ◆ 승우여행사(swtour.co.kr)가 8월까지 매주 토.일요일 당일 일정으로 야생화 트레킹 행사를 연다. 행선지는 태백시 분주령, 함백산 은대봉, 화천 비수구미, 인제 연가리골 등이다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "참가비는 3만8000원. 02-720-8311. ◆ 범한여행 레드캡(www.redcaptour.com)이 알래스카 5일짜리 여행 상품을 만들었다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "빙하 관광을 하고, 인디언마을을 들르며 한국인 최초로 에베레스트 등정에 성공한 고(故) 고상돈 대원의 묘역을 참배한다. 7월 20, 27일, 8월 3, 10, 17일 출발. 참가비는 220만원.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여행 마니아들 자극할 숨은 명소 탐험가 모집한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

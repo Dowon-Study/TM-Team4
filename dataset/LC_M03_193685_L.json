@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193685",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 건선 원인 단백질 막아내는 주사제",
+    "newsSubTitle": "이 약 아세요 - 노바티스 ‘코센틱스’",
+    "newsContent": "건선은 하얀 각질로 덮인 붉은 반점이 피부에 생기는 자가면역질환이다.\n염증반응을 조절하는 면역 기능에 이상이 생겨 피부·관절에 과도한 염증이 생긴다.\n건강보험심사평가원에 따르면 지난해 병원을 찾은 건선 환자는 16만 명에 이른다.\n건선 증상이 약할 땐 주로 바르는 약을 사용한다.\n증상이 심해지면 자외선 광선을 몸에 쪼이는 광선치료법이 사용된다.\n이 단계를 넘어서면 면역조절을 돕는 약을 복용하는 전신요법(약이 전신으로 퍼지는 치료법)으로 치료한다.\n건선을 유발하는 단백질을 막아내는 주사(생물학적제제)요법도 있다.\n최근 건선이 생기기 직전 단계의 단백질인 ‘인터루킨-17A’를 막아내는 ‘항체 단백질’ 주사제가 세계 최초로 개발됐다.\n노바티스의 건선치료제(전문의약품) 코센틱스(사진)다.\n이 제품은 지난해 9월 중등도 및 중증의 판상 건선(병변이 판 모양으로 생기는 건선)을 앓는 성인 대상 치료제로 승인을 받아 올 하반기 출시된다.\n노바티스는 중등도 이상의 판상 건선 환자 676명을 대상으로 한 마지막 임상단계(3상 후기)에서 이 주사제가 건선을 개선한 효과를 입증했다.\n코센틱스 주사로 16주간 치료받은 건선 환자 79%의 병변이 90% 좋아졌다.\n지난 2월엔 자가면역질환인 강직성 척추염과 건선성 관절염에 대해서도 추가로 적응증을 승인받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "건선은 하얀 각질로 덮인 붉은 반점이 피부에 생기는 자가면역질환이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "염증반응을 조절하는 면역 기능에 이상이 생겨 피부·관절에 과도한 염증이 생긴다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "건강보험심사평가원에 따르면 지난해 병원을 찾은 건선 환자는 16만 명에 이른다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "건선 증상이 약할 땐 주로 바르는 약을 사용한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "증상이 심해지면 자외선 광선을 몸에 쪼이는 광선치료법이 사용된다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 단계를 넘어서면 면역조절을 돕는 약을 복용하는 전신요법(약이 전신으로 퍼지는 치료법)으로 치료한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "건선을 유발하는 단백질을 막아내는 주사(생물학적제제)요법도 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최근 건선이 생기기 직전 단계의 단백질인 ‘인터루킨-17A’를 막아내는 ‘항체 단백질’ 주사제가 세계 최초로 개발됐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "노바티스의 건선치료제(전문의약품) 코센틱스(사진)다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 제품은 지난해 9월 중등도 및 중증의 판상 건선(병변이 판 모양으로 생기는 건선)을 앓는 성인 대상 치료제로 승인을 받아 올 하반기 출시된다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "노바티스는 중등도 이상의 판상 건선 환자 676명을 대상으로 한 마지막 임상단계(3상 후기)에서 이 주사제가 건선을 개선한 효과를 입증했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "코센틱스 주사로 16주간 치료받은 건선 환자 79%의 병변이 90% 좋아졌다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "지난 2월엔 자가면역질환인 강직성 척추염과 건선성 관절염에 대해서도 추가로 적응증을 승인받았다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "건선 발병 직전 단계의 단백질 '길막' 해내는 주사제 세계 최초 개발",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

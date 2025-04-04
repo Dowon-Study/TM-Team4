@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198636",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "[쿠킹] 오리 찬 성질, 따뜻한 부추로 보완한 다이어트 일품요리",
+    "newsSubTitle": "",
+    "newsContent": "〈편집자주〉 다이어트 식단 하면 고구마 한 개, 방울토마토 5알이나, 고기만 먹는 극한의 식단이 떠오르세요?\n그렇다면 다노 언니 이지수 대표의 추천 레시피를 살펴보세요.\n피자·떡볶이·파스타·볶음밥처럼 일상식도 맛은 기본이고, 다이어트에 도움이 되는 건강한 그만의 비결이 담겨 있거든요.\n책『맛있고 배부른 다노 다이어트 레시피』에서 따라 해보기 쉬운 레시피를 선정해, 5회 소개합니다.\n한입 버섯 마르게리타에 이어 두 번째로 추천해 드리는 요리는 단호박 부추 오리 볶음입니다.\n고기와 채소를 한 그릇에 담아, 밥 없이도 충분히 즐길 수 있는 요리예요.\n손님 차림 상 메뉴로도 손색없죠.\n오리에는 불포화지방산이 많아 혈관 안에 쌓여있는 불순물을 배출시키는데 도움아 됩니다.\n다만, 껍질에는 다른 육류에 비해 콜레스테롤이 많으니 꼭 떼고 드세요.\n또 오리를 먹을 때, 부추와 함께 먹으면 좋은데요, 오리의 찬 성질을 따뜻한 성질을 가진 부추가 보완해주거든요.\n또 오리고기 특유의 잡내를 없애주는데도 부추가 도움이 됩니다.\n이 레시피의 특징은 특제 겨자 소스에 있어요.\n겨자와 참기름, 간장을 섞고 들깻가루를 추가해 만들었는데요.\n들깻가루가 신의 한 수랍니다.\n고소한 맛이 더해져 자꾸 생각나게 하죠.\n운동을 열심히 한 날, 뭔가 먹는 것으로 스스로 잘했다 보상해 주고 싶은 날, 만들어 보세요.\n먹어보면, 다노가 왜 추천했는지 아실 겁니다.\n━ 준비재료 재료(1인분): 훈제 오리고기 100g, 단호박 100g, 부추 50g, 양파 40g, 파프리카 1/4개, 다진 마늘 1/2큰술, 포도씨유 적당량 양념 재료:연 겨자 1/2큰술, 참기름 1큰술, 올리고당 1/2큰술, 레몬즙 1큰술, 간장 1/2큰술, 들깻가루 1/2큰술 ━ 만드는 법 1. 단호박을 한입 크기로 썰어 그릇에 담고 물을 살짝 뿌린 뒤 전자레인지에 넣어 3분간 익힌다.\n2. 파프리카와 양파, 부추는 한입 크기로 먹기 좋게 자른다.\n3. 팬에 포도씨유를 두르고 다진 마늘과 양파를 올려 중간 불에서 볶는다. 4. 양파가 투명해지면 훈제 오리고기와 단호박, 파프리카를 넣고 5분간 더 볶는다. 5. 가장 마지막에 부추를 넣고 1분간 볶은 뒤 접시에 옮겨 담는다. 6. 작은 볼에 소스 재료를 모두 넣고 잘 섞어 곁들인다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "〈편집자주〉 다이어트 식단 하면 고구마 한 개, 방울토마토 5알이나, 고기만 먹는 극한의 식단이 떠오르세요?",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그렇다면 다노 언니 이지수 대표의 추천 레시피를 살펴보세요.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "피자·떡볶이·파스타·볶음밥처럼 일상식도 맛은 기본이고, 다이어트에 도움이 되는 건강한 그만의 비결이 담겨 있거든요.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "책『맛있고 배부른 다노 다이어트 레시피』에서 따라 해보기 쉬운 레시피를 선정해, 5회 소개합니다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한입 버섯 마르게리타에 이어 두 번째로 추천해 드리는 요리는 단호박 부추 오리 볶음입니다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "고기와 채소를 한 그릇에 담아, 밥 없이도 충분히 즐길 수 있는 요리예요.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "손님 차림 상 메뉴로도 손색없죠.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오리에는 불포화지방산이 많아 혈관 안에 쌓여있는 불순물을 배출시키는데 도움아 됩니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다만, 껍질에는 다른 육류에 비해 콜레스테롤이 많으니 꼭 떼고 드세요.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또 오리를 먹을 때, 부추와 함께 먹으면 좋은데요, 오리의 찬 성질을 따뜻한 성질을 가진 부추가 보완해주거든요.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "또 오리고기 특유의 잡내를 없애주는데도 부추가 도움이 됩니다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이 레시피의 특징은 특제 겨자 소스에 있어요.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "겨자와 참기름, 간장을 섞고 들깻가루를 추가해 만들었는데요.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "들깻가루가 신의 한 수랍니다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "고소한 맛이 더해져 자꾸 생각나게 하죠.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "운동을 열심히 한 날, 뭔가 먹는 것으로 스스로 잘했다 보상해 주고 싶은 날, 만들어 보세요.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "먹어보면, 다노가 왜 추천했는지 아실 겁니다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "━ 준비재료 재료(1인분): 훈제 오리고기 100g, 단호박 100g, 부추 50g, 양파 40g, 파프리카 1/4개, 다진 마늘 1/2큰술, 포도씨유 적당량 양념 재료:연 겨자 1/2큰술, 참기름 1큰술, 올리고당 1/2큰술, 레몬즙 1큰술, 간장 1/2큰술, 들깻가루 1/2큰술 ━ 만드는 법 1. 단호박을 한입 크기로 썰어 그릇에 담고 물을 살짝 뿌린 뒤 전자레인지에 넣어 3분간 익힌다.",
+        "sentenceSize": 220
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "2. 파프리카와 양파, 부추는 한입 크기로 먹기 좋게 자른다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "3. 팬에 포도씨유를 두르고 다진 마늘과 양파를 올려 중간 불에서 볶는다. 4. 양파가 투명해지면 훈제 오리고기와 단호박, 파프리카를 넣고 5분간 더 볶는다. 5. 가장 마지막에 부추를 넣고 1분간 볶은 뒤 접시에 옮겨 담는다. 6. 작은 볼에 소스 재료를 모두 넣고 잘 섞어 곁들인다.",
+        "sentenceSize": 160
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이 사람'의 비밀 레시피... 떡볶이·파스타 등 일상식은 기본 다이어트에도 '제격'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

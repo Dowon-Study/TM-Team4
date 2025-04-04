@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194860",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "'인간 본성에…' 저자 에드워드 윌슨은…",
+    "newsSubTitle": "",
+    "newsContent": "에드워드 윌슨(71) 은 20세기를 대표하는 과학지성으로 꼽힌다.\n개미연구의 최고 권위자로서 생물학 발전에 공헌했을 뿐 아니라 인문.사회과학 등 인접학문에 지대한 영향을 끼친 '통합적 지성' 의 전형이다.\n미국 앨라배마 출신의 이 '촌뜨기' 는 1975년 명저 '사회생물학' 을 발표하면서 일약 세계적 명성을 얻었다.\n50만 단어, 2천개가 넘는 참고 문헌을 갖춘 이 방대한 저서는 그를 '사회생물학의 아버지' 라는 위치에 올려 놓았다.\n그는 진화론을 주창한 찰스 다윈의 적자(嫡子) 로 불린다.\n그는 인간과 침팬지가 갈라져 나온 것은 최근의 일이며, 양자의 차이는 별로 크지 않다고 주장했다.\n인간은 '만물의 영장' 이라는 기존 가설을 깔아 뭉개는 혁명적 사고다.\n이는 같은 하버드대 생물과 교수인 리처드 르완틴.스티븐 굴드 등으로부터 역공을 당하는 빌미가 됐다.\n90년대 들어 윌슨은 환경보호의 최전선에 서 있다.\n형제나 친구도 없이 외톨이로 지내며, 곤충.뱀.개구리 등 자연과 벗삼아 늪을 헤매던 어린 시절로 돌아가 거기서 환경위기의 해법을 찾고 있는 지도 모른다. '인간의 본성에 대하여' (78년) , '개미' (90년) 로 두번의 퓰리처상을 받았으며 현재는 하버드대 펠레그리노 석좌교수로 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "에드워드 윌슨(71) 은 20세기를 대표하는 과학지성으로 꼽힌다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "개미연구의 최고 권위자로서 생물학 발전에 공헌했을 뿐 아니라 인문.사회과학 등 인접학문에 지대한 영향을 끼친 '통합적 지성' 의 전형이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "미국 앨라배마 출신의 이 '촌뜨기' 는 1975년 명저 '사회생물학' 을 발표하면서 일약 세계적 명성을 얻었다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "50만 단어, 2천개가 넘는 참고 문헌을 갖춘 이 방대한 저서는 그를 '사회생물학의 아버지' 라는 위치에 올려 놓았다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 진화론을 주창한 찰스 다윈의 적자(嫡子) 로 불린다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 인간과 침팬지가 갈라져 나온 것은 최근의 일이며, 양자의 차이는 별로 크지 않다고 주장했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "인간은 '만물의 영장' 이라는 기존 가설을 깔아 뭉개는 혁명적 사고다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이는 같은 하버드대 생물과 교수인 리처드 르완틴.스티븐 굴드 등으로부터 역공을 당하는 빌미가 됐다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "90년대 들어 윌슨은 환경보호의 최전선에 서 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "형제나 친구도 없이 외톨이로 지내며, 곤충.뱀.개구리 등 자연과 벗삼아 늪을 헤매던 어린 시절로 돌아가 거기서 환경위기의 해법을 찾고 있는 지도 모른다. '인간의 본성에 대하여' (78년) , '개미' (90년) 로 두번의 퓰리처상을 받았으며 현재는 하버드대 펠레그리노 석좌교수로 있다.",
+        "sentenceSize": 160
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "20세기를 대표하는 과학지성 에드워드 윌슨… 알고 보니?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

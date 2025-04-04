@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195739",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "마약 연령 점점 낮아져…청소년 마약범죄 178% 급증",
+    "newsSubTitle": "양승조 의원 \\\"마약범죄 예방교육 시급\\\"",
+    "newsContent": "마약류를 투약하는 연령이 점점 낮아지고 있는 것으로 드러났다.\n최근 3년새 청소년 마약범죄가 177.8%나 증가한 것으로 나타났다.\n새정치민주연합 양승조 의원은 14일 열린 식품의약품안전처 국정감사에서 이같은 통계를 발표했다.\n그가 한국마약퇴치운동본부와 경찰청으로부터 제출받은 자료에 따르면 청소년 마약범죄는 지난 2012년 27명에서 지난해 75명으로 177.8% 증가했다.\n올해는 7월까지 65명으로 이미 전년 수준에 근접했으며, 이 추세대로라면 올해 말까지 100명에 육박할 것으로 예상된다.\n그에 비해 초·중·고등학생을 대상으로 한 마약범죄 예방교육 수강률은 같은 기간 동안 12.8% 증가하는 데 그쳤다.\n수강자는 44.7% 증가했다.\n이와 관련 현재 마약류 약물 오남용에 대한 교육과정은 의무교육과정으로 지적돼 있지 않다는 게 양 의원의 지적이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "마약류를 투약하는 연령이 점점 낮아지고 있는 것으로 드러났다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 3년새 청소년 마약범죄가 177.8%나 증가한 것으로 나타났다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "새정치민주연합 양승조 의원은 14일 열린 식품의약품안전처 국정감사에서 이같은 통계를 발표했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그가 한국마약퇴치운동본부와 경찰청으로부터 제출받은 자료에 따르면 청소년 마약범죄는 지난 2012년 27명에서 지난해 75명으로 177.8% 증가했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "올해는 7월까지 65명으로 이미 전년 수준에 근접했으며, 이 추세대로라면 올해 말까지 100명에 육박할 것으로 예상된다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그에 비해 초·중·고등학생을 대상으로 한 마약범죄 예방교육 수강률은 같은 기간 동안 12.8% 증가하는 데 그쳤다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "수강자는 44.7% 증가했다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이와 관련 현재 마약류 약물 오남용에 대한 교육과정은 의무교육과정으로 지적돼 있지 않다는 게 양 의원의 지적이다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "청소년 마약 범죄 3년간 177.8% 증가, 예방 교육 안 하나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

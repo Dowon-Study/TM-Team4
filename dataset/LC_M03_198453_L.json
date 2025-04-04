@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198453",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "임이조 춤인생 '47년 결산' 무대",
+    "newsSubTitle": "",
+    "newsContent": "남원시립국악단장인 전통무용가 임이조(사진) 씨가 경기도 도당굿을 소재로 한 창작무용 '신무(神舞) Ⅱ-환(幻) 을 위한 제의' 를 선보인다.\n22일 오후 7시30분 세종문화회관 대극장에서 열리는 '임이조, 춤인생 47년 지.천.명(知天命) ' . 1991년 이후 꾸준히 발표하고 있는 무속음악 시리즈의 일환인 이번 무대는 임씨의 6년만의 개인공연이기도 하다.\n이를 축하하기 위해 남원도립국악원과 한국전통춤연구회의 무용수 65명이 함께 출연해 화려한 무대를 꾸민다.\n임씨는 하이라이트인 '천도' (죽은 영혼을 달래주는 의식) 에서 직접 춤을 춘다.\n\\\"우리의 전통 굿을 무용으로 만들어보고 싶었다\\\" 는 그는 김덕수 사물놀이팀의 도당굿 연주에 맞춰 즉흥무를 출 예정이다.\n마지막에 영혼이 승천하는 대목에서는 현대적 감각을 살려 전자음악을 함께 사용하기로 했다.\n젊은 관객에게 다가가기 위한 노력이다.\n임씨는 \\\"우리나라에 이렇게 좋은 장단이 있다는 사실을 젊은층이 알아 어깻짓을 함께 나누었으면 한다\\\" 고 말했다.\n임씨는 창작작품과 함께 입춤과 승무.한량무.살풀이 등 전통춤을 함께 보여준다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "남원시립국악단장인 전통무용가 임이조(사진) 씨가 경기도 도당굿을 소재로 한 창작무용 '신무(神舞) Ⅱ-환(幻) 을 위한 제의' 를 선보인다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 오후 7시30분 세종문화회관 대극장에서 열리는 '임이조, 춤인생 47년 지.천.명(知天命) ' . 1991년 이후 꾸준히 발표하고 있는 무속음악 시리즈의 일환인 이번 무대는 임씨의 6년만의 개인공연이기도 하다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이를 축하하기 위해 남원도립국악원과 한국전통춤연구회의 무용수 65명이 함께 출연해 화려한 무대를 꾸민다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "임씨는 하이라이트인 '천도' (죽은 영혼을 달래주는 의식) 에서 직접 춤을 춘다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "\\\"우리의 전통 굿을 무용으로 만들어보고 싶었다\\\" 는 그는 김덕수 사물놀이팀의 도당굿 연주에 맞춰 즉흥무를 출 예정이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "마지막에 영혼이 승천하는 대목에서는 현대적 감각을 살려 전자음악을 함께 사용하기로 했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "젊은 관객에게 다가가기 위한 노력이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "임씨는 \\\"우리나라에 이렇게 좋은 장단이 있다는 사실을 젊은층이 알아 어깻짓을 함께 나누었으면 한다\\\" 고 말했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "임씨는 창작작품과 함께 입춤과 승무.한량무.살풀이 등 전통춤을 함께 보여준다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "임이조, 경기도 '이것' 소재로 한 창작무용 '신무Ⅱ-환을 위한 제의' 공연",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

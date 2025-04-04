@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196708",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "아침 굶으면 비타민D 결핍률 1.7배",
+    "newsSubTitle": "강원대병원 양정희 교수팀, 성인 3500명 분석 비타민D 부족하면 골다공증·골절 위험 \\\"아침 챙길수록 다양한 식품 섭취\\\" 계란·우유·생선·표고버섯에 풍부",
+    "newsContent": "아침 식사를 거를수록 뼈 건강에 필수인 비타민 D가 부족한 것으로 나타났다.\n한국식품커뮤니케이션포럼(KOFRUM)에 따르면 강원대병원 가정의학과 양정희 교수팀이 ‘아침 식사 섭취 여부와 혈중 비타민 D농도의 관계’를 분석했다.\n그 결과, 아침 식사를 거의 안 먹는 사람은 주5회 이상 챙겨 먹는 사람보다 비타민 D 결핍(혈중 농도 20ng/㎖ 이하)일 가능성이 1.7배 높았다.\n비타민D는 칼슘 흡수를 도와 뼈를 건강하게 만드는 영양소다.\n비타민D가 부족하면 칼슘 흡수율이 떨어져 골다공증·골절 위험이 커진다.\n연구팀은 국민건강영양조사 자료(2013~2014)를 활용해 만 20세 이상 성인 3448명을 주당 평균 아침 식사 횟수에 따라 ‘주 5~7회 섭취그룹’, ‘주 3~4회 섭취그룹’, ‘주 1~2회 섭취그룹’, ‘아침 식사 결식그룹’ 네 그룹으로 나눴다.\n모든 그룹의 평균 혈중 비타민D 농도는 결핍 수준이었다.\n아침 식사 횟수와 관계없이 우리나라 성인의 혈중 비타민 D 농도가 전반적으로 낮았다.\n국민건강영양조사(2014)에 따르면 비타민D 결핍률은 남자 47.3%, 여자 65.4%다.\n다만 아침 식사 빈도에 따라 비타민D 결핍 정도에서 차이가 났다.\n아침 식사를 가장 잘 챙겨 먹는 그룹(주 5~7회)의 평균 혈중 비타민D 농도는 17.2ng/㎖로 네 그룹 중 가장 높았다.\n아침을 거르는 그룹(주 0회)은 15ng/㎖로 가장 낮았다.\n아침 식사 빈도는 비타민 D 결핍증과도 관련 있었다.\n주당 아침 식사 횟수가 적을수록 비타민D 결핍증률이 높았다.\n주 5회 이상 아침을 먹는 그룹의 비타민 D결핍증 발병을 1로 봤을 때 주3~4회 그룹은 1.1배, 주1~2회 그룹은 1,4배, 아침을 거의 먹지 않는 그룹은 1.7배였다.\n연구팀은 \\\"아침 식사를 먹는 그룹일수록 다양한 식품을 챙겨 먹기 때문에 비타민D 섭취가 증가했을 것\\\"이라고 추정했다.\n비타민 D가 풍부한 식품은 계란·우유·생선·표고버섯 등이 있다.\n논문은 대한가정의학회지 최근호에 실렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아침 식사를 거를수록 뼈 건강에 필수인 비타민 D가 부족한 것으로 나타났다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국식품커뮤니케이션포럼(KOFRUM)에 따르면 강원대병원 가정의학과 양정희 교수팀이 ‘아침 식사 섭취 여부와 혈중 비타민 D농도의 관계’를 분석했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 결과, 아침 식사를 거의 안 먹는 사람은 주5회 이상 챙겨 먹는 사람보다 비타민 D 결핍(혈중 농도 20ng/㎖ 이하)일 가능성이 1.7배 높았다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "비타민D는 칼슘 흡수를 도와 뼈를 건강하게 만드는 영양소다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "비타민D가 부족하면 칼슘 흡수율이 떨어져 골다공증·골절 위험이 커진다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구팀은 국민건강영양조사 자료(2013~2014)를 활용해 만 20세 이상 성인 3448명을 주당 평균 아침 식사 횟수에 따라 ‘주 5~7회 섭취그룹’, ‘주 3~4회 섭취그룹’, ‘주 1~2회 섭취그룹’, ‘아침 식사 결식그룹’ 네 그룹으로 나눴다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "모든 그룹의 평균 혈중 비타민D 농도는 결핍 수준이었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아침 식사 횟수와 관계없이 우리나라 성인의 혈중 비타민 D 농도가 전반적으로 낮았다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "국민건강영양조사(2014)에 따르면 비타민D 결핍률은 남자 47.3%, 여자 65.4%다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "다만 아침 식사 빈도에 따라 비타민D 결핍 정도에서 차이가 났다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "아침 식사를 가장 잘 챙겨 먹는 그룹(주 5~7회)의 평균 혈중 비타민D 농도는 17.2ng/㎖로 네 그룹 중 가장 높았다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "아침을 거르는 그룹(주 0회)은 15ng/㎖로 가장 낮았다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "아침 식사 빈도는 비타민 D 결핍증과도 관련 있었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "주당 아침 식사 횟수가 적을수록 비타민D 결핍증률이 높았다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "주 5회 이상 아침을 먹는 그룹의 비타민 D결핍증 발병을 1로 봤을 때 주3~4회 그룹은 1.1배, 주1~2회 그룹은 1,4배, 아침을 거의 먹지 않는 그룹은 1.7배였다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "연구팀은 \\\"아침 식사를 먹는 그룹일수록 다양한 식품을 챙겨 먹기 때문에 비타민D 섭취가 증가했을 것\\\"이라고 추정했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "비타민 D가 풍부한 식품은 계란·우유·생선·표고버섯 등이 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "논문은 대한가정의학회지 최근호에 실렸다.",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아침 굶은 사람 절반은 '골다공증' 거의 무조건 걸린다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

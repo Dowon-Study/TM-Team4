@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195610",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "먼디파마, 약사 대상 개인 위생관리 교육",
+    "newsSubTitle": "감염병 예방 위한 위생관리법 교육…수료 약사에 '베타딘 위생 전문가' 인증",
+    "newsContent": "한국먼디파마는 16일 마포구 약사회가 주최한 ‘2016년도 근무약사 대상 연수교육’에서 ‘감기와 독감 예방을 위한 개인위생 매뉴얼’ 교육을 실시했다.\n수료자들에겐 ‘베타딘 위생 전문가’ 인증 뱃지를 전달했다.\n이 날 연수교육에 참여한 약사 100여명은 약국을 방문하는 일반인들에게 올바른 개인 위생관리법을 지도할 수 있도록 환경위생, 구강위생, 손위생 수칙을 배웠다.\n특히, 요즘과 같이 기온이 낮아지는 계절에 기승을 부리는 감기와 독감은 주로 바이러스에 의해 발병하는데, 공기 감염 혹은 악수 등의 직접 접촉에 의해서도 감염될 수 있으므로 백신과 더불어 개인위생을 준수하는 것이 매우 중요하다.\n손위생은 일상적으로 비누와 물을 이용한 손씻기와 알코올이나 포비돈 요오드를 활용하는 손소독법이 있으며, 감염의 위험이 높은 기간에는 박테리아, 바이러스, 곰팡이 등 광범위한 항균 효과가 있는 포비돈요오드의 사용이 권장된다.\n또한 가글과 스프레이 제품은 항균력이 있는 제품을 선택하는 것이 도움이 된다.\n한국먼디파마는 포비돈요오드를 주성분으로 한 베타딘 세정액와 베타딘 인후스프레이를 공급하고 있다.\n포비돈요오드는 시험관 내 연구에서 인플루엔자 바이러스 외에도 에볼라 바이러스, 사스 바이러스, 노로 바이러스, 조류독감 바이러스, 아데노 바이러스, 메르스 바이러스 코로나 바이러스 까지 광범위한 항바이러스 효과를 입증했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국먼디파마는 16일 마포구 약사회가 주최한 ‘2016년도 근무약사 대상 연수교육’에서 ‘감기와 독감 예방을 위한 개인위생 매뉴얼’ 교육을 실시했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "수료자들에겐 ‘베타딘 위생 전문가’ 인증 뱃지를 전달했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 날 연수교육에 참여한 약사 100여명은 약국을 방문하는 일반인들에게 올바른 개인 위생관리법을 지도할 수 있도록 환경위생, 구강위생, 손위생 수칙을 배웠다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히, 요즘과 같이 기온이 낮아지는 계절에 기승을 부리는 감기와 독감은 주로 바이러스에 의해 발병하는데, 공기 감염 혹은 악수 등의 직접 접촉에 의해서도 감염될 수 있으므로 백신과 더불어 개인위생을 준수하는 것이 매우 중요하다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "손위생은 일상적으로 비누와 물을 이용한 손씻기와 알코올이나 포비돈 요오드를 활용하는 손소독법이 있으며, 감염의 위험이 높은 기간에는 박테리아, 바이러스, 곰팡이 등 광범위한 항균 효과가 있는 포비돈요오드의 사용이 권장된다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 가글과 스프레이 제품은 항균력이 있는 제품을 선택하는 것이 도움이 된다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한국먼디파마는 포비돈요오드를 주성분으로 한 베타딘 세정액와 베타딘 인후스프레이를 공급하고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "포비돈요오드는 시험관 내 연구에서 인플루엔자 바이러스 외에도 에볼라 바이러스, 사스 바이러스, 노로 바이러스, 조류독감 바이러스, 아데노 바이러스, 메르스 바이러스 코로나 바이러스 까지 광범위한 항바이러스 효과를 입증했다.",
+        "sentenceSize": 124
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한국먼디파마, 약사 100여 명 대상 ‘베타딘 위생 전문가’ 인증 뱃지 전달한 까닭은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

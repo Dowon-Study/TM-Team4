@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194655",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "코 고는 아이들 '이불에 오줌 싼다'",
+    "newsSubTitle": "",
+    "newsContent": "코를 고는 아이들이 코를 골지 않는 아이들보다 네 배 이상 밤에 이불에 오줌을 쌀 가능성이 높다는 연구결과가 발표됐다.\n그리스 Larissa 대학의 Emmanouel I 박사팀에 의하면 이불에 오줌을 싸는 것과 코를 고는것은 성인 소아를 막론하고 밀접하게 연관되어 있는 것으로 나타났다.\n연구팀은 코골이의 원인인 아데노이드와 편도를 제거함으로써 이불에 오줌 싸는 행위를 멈출수 있다고 말했다.\n연구팀은 5-14세 사이의 소아 1821명을 대상으로 코콜이와 이불에 오줌 싸는 행위와의 연관성을 규명하기 위한 연구를 진행했다.\n이 들중 2.4%는 이불에 오줌싼 병력을 가지고 있었다.\n연구팀은 일 주에 세번 이상 코를 고는 아이들을 습관성 코골이 아이들로 분류했는데,이 들중 7.4%가 이에 해당했다.\n연구팀은 정상 아이들의 2%에서 이불에 오줌을 싸는 데 비해 습관성 코골이 아이들군의 7.4%에서 이와 같은 증상이 발생 습관성 코골이 아이들이 정상 아동에 비해 3.5배이상 이불에 오줌을 싸는 것을 볼수 있었다.\n연구팀은 이불에 오줌을 싸는 아이들중 4분의 1 이하만이 코를 고는 것을 발견 두 질환이 공통의 원인을 갖는 것 같지 않다고 말했다.\n연구팀은 코를 고는 아이들은 호흡기가 막혀 결국 복압의 증가를 유발하게 되고 이것이 야간 배뇨의 원인이 된다고 말했다. (서울=뉴시스)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "코를 고는 아이들이 코를 골지 않는 아이들보다 네 배 이상 밤에 이불에 오줌을 쌀 가능성이 높다는 연구결과가 발표됐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그리스 Larissa 대학의 Emmanouel I 박사팀에 의하면 이불에 오줌을 싸는 것과 코를 고는것은 성인 소아를 막론하고 밀접하게 연관되어 있는 것으로 나타났다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구팀은 코골이의 원인인 아데노이드와 편도를 제거함으로써 이불에 오줌 싸는 행위를 멈출수 있다고 말했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연구팀은 5-14세 사이의 소아 1821명을 대상으로 코콜이와 이불에 오줌 싸는 행위와의 연관성을 규명하기 위한 연구를 진행했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 들중 2.4%는 이불에 오줌싼 병력을 가지고 있었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구팀은 일 주에 세번 이상 코를 고는 아이들을 습관성 코골이 아이들로 분류했는데,이 들중 7.4%가 이에 해당했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연구팀은 정상 아이들의 2%에서 이불에 오줌을 싸는 데 비해 습관성 코골이 아이들군의 7.4%에서 이와 같은 증상이 발생 습관성 코골이 아이들이 정상 아동에 비해 3.5배이상 이불에 오줌을 싸는 것을 볼수 있었다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구팀은 이불에 오줌을 싸는 아이들중 4분의 1 이하만이 코를 고는 것을 발견 두 질환이 공통의 원인을 갖는 것 같지 않다고 말했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "연구팀은 코를 고는 아이들은 호흡기가 막혀 결국 복압의 증가를 유발하게 되고 이것이 야간 배뇨의 원인이 된다고 말했다. (서울=뉴시스)",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코 고는 아이들이 반대의 아이들보다 이불에 오줌 쌀 가능성 높다는데... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

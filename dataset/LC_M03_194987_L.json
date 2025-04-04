@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194987",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강 신간] 암치료 '듀얼면역요법' 外",
+    "newsSubTitle": "",
+    "newsContent": "*** 암치료 '듀얼면역요법' 쌀겨아라비녹실란 유도체와 상어추출물로 암을 치료하는 방법을 다룬 '암을 이기는 듀얼면역요법'이 출간됐다.\n아라비녹실란은 곡류와 채소에 들어있는 다당류. 이를 표고버섯 균사체 배양으로 분리해낸 효소를 쌀겨추출물에 작용토록 해 얻는 물질이 쌀겨아라비녹실란 유도체다.\n일본의 대체의학자인 오모리내과 원장이 집필하고, 황성주 박사가 감수했다.\n도서출판 호도애, 1백64쪽, 7천원. *** 성 궁금증 주제별 해석 성에 대한 감춰진 궁금증을 주제별로 깊이있게 다룬 '성의학사전'이 출간됐다.\n저자인 스티븐 벡텔과 로렌스 로이 스테인스는 3천명의 남성들을 설문조사해 그들이 가장 관심 갖는 주제를 고대부터 현대까지 각종 성의학 관련서를 참고해 성실하게 답변하고 있다.\n도서출판 이채, 4백79쪽, 2만원.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "*** 암치료 '듀얼면역요법' 쌀겨아라비녹실란 유도체와 상어추출물로 암을 치료하는 방법을 다룬 '암을 이기는 듀얼면역요법'이 출간됐다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아라비녹실란은 곡류와 채소에 들어있는 다당류. 이를 표고버섯 균사체 배양으로 분리해낸 효소를 쌀겨추출물에 작용토록 해 얻는 물질이 쌀겨아라비녹실란 유도체다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일본의 대체의학자인 오모리내과 원장이 집필하고, 황성주 박사가 감수했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "도서출판 호도애, 1백64쪽, 7천원. *** 성 궁금증 주제별 해석 성에 대한 감춰진 궁금증을 주제별로 깊이있게 다룬 '성의학사전'이 출간됐다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "저자인 스티븐 벡텔과 로렌스 로이 스테인스는 3천명의 남성들을 설문조사해 그들이 가장 관심 갖는 주제를 고대부터 현대까지 각종 성의학 관련서를 참고해 성실하게 답변하고 있다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "도서출판 이채, 4백79쪽, 2만원.",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'성의학사전', 남성들이 가장 관심 갖는 성 궁금증... 해결할 수 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198012",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "정성화 “개그맨 출신 꼬리표 떼” 김선영 “대중의 사랑 받아 행복”",
+    "newsSubTitle": "‘더 뮤지컬 어워즈’ 홍보대사의 소감",
+    "newsContent": "◇정성화=뮤지컬 무대에 처음 선 게 2005년 ‘아이 러브 유’였다.\n이번 홍보대사는 나에게 ‘개그맨 출신’이란 꼬리표를 떼고 진정한 ‘뮤지컬 배우’로 인정받았다는 의미인 듯 싶어 각별하다. “정말 뮤지컬 하길 잘했다”는 생각이 요즘 떠나질 않는다.\n농담처럼 “가문의 영광입니다”고 말하지만 진심도 담겨 있다.\n◇김선영=‘더 뮤지컬 어워즈’는 나에게 고향 같다.\n지난해 제1회 시상식에서 여우주연상을 받은 게 나의 배우 인생엔 터닝 포인트였다.\n기량은 뛰어나지만 대중의 전폭적 지지는 받지 못하는 배우라는 이미지를 훌훌 털고 ‘대중의 사랑’도 동시에 받게 된 행복한 1년이었다.\n기대에 어긋나지 않게끔 다져가겠다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◇정성화=뮤지컬 무대에 처음 선 게 2005년 ‘아이 러브 유’였다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번 홍보대사는 나에게 ‘개그맨 출신’이란 꼬리표를 떼고 진정한 ‘뮤지컬 배우’로 인정받았다는 의미인 듯 싶어 각별하다. “정말 뮤지컬 하길 잘했다”는 생각이 요즘 떠나질 않는다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "농담처럼 “가문의 영광입니다”고 말하지만 진심도 담겨 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "◇김선영=‘더 뮤지컬 어워즈’는 나에게 고향 같다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난해 제1회 시상식에서 여우주연상을 받은 게 나의 배우 인생엔 터닝 포인트였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "기량은 뛰어나지만 대중의 전폭적 지지는 받지 못하는 배우라는 이미지를 훌훌 털고 ‘대중의 사랑’도 동시에 받게 된 행복한 1년이었다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "기대에 어긋나지 않게끔 다져가겠다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "홍보 대사에 위촉된 '이 사람', 각오의 한 마디는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

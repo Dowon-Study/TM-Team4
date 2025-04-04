@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194599",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Family건강] 백내장·노안 동시에 해결",
+    "newsSubTitle": "근거리도 잘 보이는 인공수정체 도입",
+    "newsContent": "근거리와 원거리를 동시에 볼 수 있게 하는 노안 교정 백내장 수술이 국내에도 선보였다.\n세란안과 임승정(전 연세대의대 교수) 원장은 지난달 초 대한안과학회 학술대회에서 \\\"미국에서 개발된 인공수정체(아크리소프 리스토어)로 20명의 백내장 환자에게 시술한 결과 4명 중 3명이 원거리는 물론 돋보기 없이 신문을 읽을 수 있을 정도의 근거리 시력을 회복했다\\\"고 발표했다.\n백내장 수술은 나이가 들어 수정체에 혼탁이 오는 질환. 따라서 인공수정체로 갈아끼우는 백내장 수술을 하면서 동시에 노안까지 개선할 수 있는 인공수정체 연구가 활발하게 전개돼 왔다.\n현재 임상에 쓰이고 있는 제품은 다초점 인공수정체와 조절가능형 인공수정체. 문제는 만족할 만한 근거리 시력이 나오지 않거나 부작용이 나타날 수 있다는 점이다.\n임 원장은 \\\"동공의 크기가 커지는 야간에 빛번짐 현상이나 달무리 증상이 나타나고, 인공수정체를 싸고 있는 막이 다시 혼탁해지는 후발성 백내장이 종종 발생했다\\\"고 말했다.\n새로 소개된 인공수정체는 기존의 다초점 인공수정체와 재질이나 원리가 전혀 다르다.\n우선 기존 제품은 실리콘으로 만들어졌지만 새 제품은 아크릴레이트라는 연성 재질로 되어있다.\n또 기존 다초점 인공수정체의 경우 렌즈에 여러개의 초점을 만들어, 보는 위치에 따라 근거리와 원거리를 볼 수 있게 했다.\n노안용 안경의 누진 다초점 렌즈 원리를 인공수정체에 적용한 것으로 보면 된다.\n그러나 새 인공수정체의 표면엔 미세한 원이 계단식으로 깎여 있다.\n계단의 높이는 머리카락 두께의 50분의 1에서 300분의 1 정도. 이곳에서 빛이 두가닥으로 꺾이면서 근거리와 원거리를 볼 수 있게 했다.\n다초점 인공수정체가 빛의 굴절 원리를 이용했다면 새 제품은 훼절현상을 이용했다는 것. 임 원장은 \\\"미국 식품의약국(FDA)에서 발표한 임상성적에 따르면 80% 이상의 환자가 수술 후 안경을 쓰지 않고 일상생활을 하고 있다\\\"며 \\\"앞으로 백내장 수술 경향이 바뀌게 될 것\\\"이라고 말했다.\n하지만 이 인공수정체는 안질환이 있거나 심한 근시.난시가 있는 사람에겐 적용되지 않는다.\n또 \\\"눈부심.빛번짐 현상이 줄긴 했지만 간혹 나타나 야간 운전을 자주하는 사람은 주의가 요망된다\\\"고 임 원장은 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "근거리와 원거리를 동시에 볼 수 있게 하는 노안 교정 백내장 수술이 국내에도 선보였다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "세란안과 임승정(전 연세대의대 교수) 원장은 지난달 초 대한안과학회 학술대회에서 \\\"미국에서 개발된 인공수정체(아크리소프 리스토어)로 20명의 백내장 환자에게 시술한 결과 4명 중 3명이 원거리는 물론 돋보기 없이 신문을 읽을 수 있을 정도의 근거리 시력을 회복했다\\\"고 발표했다.",
+        "sentenceSize": 157
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "백내장 수술은 나이가 들어 수정체에 혼탁이 오는 질환. 따라서 인공수정체로 갈아끼우는 백내장 수술을 하면서 동시에 노안까지 개선할 수 있는 인공수정체 연구가 활발하게 전개돼 왔다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "현재 임상에 쓰이고 있는 제품은 다초점 인공수정체와 조절가능형 인공수정체. 문제는 만족할 만한 근거리 시력이 나오지 않거나 부작용이 나타날 수 있다는 점이다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "임 원장은 \\\"동공의 크기가 커지는 야간에 빛번짐 현상이나 달무리 증상이 나타나고, 인공수정체를 싸고 있는 막이 다시 혼탁해지는 후발성 백내장이 종종 발생했다\\\"고 말했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "새로 소개된 인공수정체는 기존의 다초점 인공수정체와 재질이나 원리가 전혀 다르다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "우선 기존 제품은 실리콘으로 만들어졌지만 새 제품은 아크릴레이트라는 연성 재질로 되어있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 기존 다초점 인공수정체의 경우 렌즈에 여러개의 초점을 만들어, 보는 위치에 따라 근거리와 원거리를 볼 수 있게 했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "노안용 안경의 누진 다초점 렌즈 원리를 인공수정체에 적용한 것으로 보면 된다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그러나 새 인공수정체의 표면엔 미세한 원이 계단식으로 깎여 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "계단의 높이는 머리카락 두께의 50분의 1에서 300분의 1 정도. 이곳에서 빛이 두가닥으로 꺾이면서 근거리와 원거리를 볼 수 있게 했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "다초점 인공수정체가 빛의 굴절 원리를 이용했다면 새 제품은 훼절현상을 이용했다는 것. 임 원장은 \\\"미국 식품의약국(FDA)에서 발표한 임상성적에 따르면 80% 이상의 환자가 수술 후 안경을 쓰지 않고 일상생활을 하고 있다\\\"며 \\\"앞으로 백내장 수술 경향이 바뀌게 될 것\\\"이라고 말했다.",
+        "sentenceSize": 162
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "하지만 이 인공수정체는 안질환이 있거나 심한 근시.난시가 있는 사람에겐 적용되지 않는다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또 \\\"눈부심.빛번짐 현상이 줄긴 했지만 간혹 나타나 야간 운전을 자주하는 사람은 주의가 요망된다\\\"고 임 원장은 덧붙였다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "근거리와 원거리를 동시에 볼 수 있게 하는 수술은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

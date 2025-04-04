@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198758",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 난임 원인 다양하지만 임신 성공법도 많아요",
+    "newsSubTitle": "희망이 생명을 만든다⑩ 김하신 일산마리아병원 진료과장",
+    "newsContent": "여성의 사회적 진출이 활발해지면서 결혼 및 출산 연령이 자연스레 높아졌다.\n이는 난임 부부 증가에 적잖은 영향을 미친다.\n진료실을 방문한 한 부부는 당장 아기를 가질 생각이 없어 그동안 자연스러운 성관계만 가졌고, 결혼 후 2년 동안 산부인과를 방문한 적은 이번이 처음이라고 했다.\n여성은 당시 만 43세였고, 혈액검사상 난소 예비력을 나타내는 항뮐러관호르몬(AMH) 수치가 0.2 미만으로 매우 낮은 상태였다.\n6개월 이상 피임을 하지 않고 부부관계를 했지만 임신이 되지 않았다.\n이에 따라 난임 검사를 시행했고 상담 후 바로 시험관 시술을 진행했다.\n1차에서는 과배란 유도를 통한 시험관 시술을 시도했고 2개의 난자가 나와 배아 이식까지 했지만 안타깝게 임신이 되지 않았다.\n2차에서는 저자극 시험관 시술을 시도해 1개의 난자를 얻었고 수정도 잘 돼 좋은 배아를 이식할 수 있었다.\n2주 뒤 혈액검사를 통해 임신을 확인했고 무사히 10주쯤에 난임병원을 졸업했다.\n다른 한 부부도 젊은 나이에 결혼한 후 자연임신을 먼저 시도했지만 임신이 되지 않아 병원을 방문한 경우다.\n당시 여성은 20대에 자궁내막증으로 수술한 뒤 호르몬 치료를 받았던 과거력이 있었다.\n난임 검사상 AMH 수치가 1.0 미만으로 나이에 비해 많이 떨어져 있었고, 초음파검사상으론 오른쪽 난소에 2㎝의 재발된 자궁내막증, 나팔관 조영술에서는 양측 나팔관 막힘 소견이 보였다.\n수술 후 난소 예비력이 많이 떨어진 상태여서 상담 후 시험관 시술을 시도했다.\n과배란 유도에 대한 난소 반응도 저조했고 복강 내 유착으로 인해 난소의 위치가 좋지 않아 난자 채취도 쉽지 않았다.\n배아의 질도 아주 좋지는 않았으나 기적적으로 1차 시술 만에 임신에 성공했다.\n이처럼 난임의 원인은 복합적이고 다양하다.\n따라서 적절한 시점에 병원 상담을 받는 것이 중요하다.\n피임 없이 정상적인 부부생활을 하면서 1년 이내에 임신이 되지 않는 경우, 또는 만 35세 이상에서는 6개월 이내에 임신이 되지 않는 경우 난임병원에 방문해 상담을 받아야 한다.\n그 외에도 40세 이상, 자궁내막증, 난소낭종 수술력, 생리 주기가 짧아지는 등의 난소 기능 저하(POR)의 위험인자가 있을 경우에는 정기적인 산부인과 검진을 통해 건강 상태를 체크해 봐야 한다.\n조기에 조치하는 것이 무엇보다 중요하다는 것을 잊지 말자.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "여성의 사회적 진출이 활발해지면서 결혼 및 출산 연령이 자연스레 높아졌다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이는 난임 부부 증가에 적잖은 영향을 미친다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "진료실을 방문한 한 부부는 당장 아기를 가질 생각이 없어 그동안 자연스러운 성관계만 가졌고, 결혼 후 2년 동안 산부인과를 방문한 적은 이번이 처음이라고 했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여성은 당시 만 43세였고, 혈액검사상 난소 예비력을 나타내는 항뮐러관호르몬(AMH) 수치가 0.2 미만으로 매우 낮은 상태였다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "6개월 이상 피임을 하지 않고 부부관계를 했지만 임신이 되지 않았다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 따라 난임 검사를 시행했고 상담 후 바로 시험관 시술을 진행했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "1차에서는 과배란 유도를 통한 시험관 시술을 시도했고 2개의 난자가 나와 배아 이식까지 했지만 안타깝게 임신이 되지 않았다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "2차에서는 저자극 시험관 시술을 시도해 1개의 난자를 얻었고 수정도 잘 돼 좋은 배아를 이식할 수 있었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "2주 뒤 혈액검사를 통해 임신을 확인했고 무사히 10주쯤에 난임병원을 졸업했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "다른 한 부부도 젊은 나이에 결혼한 후 자연임신을 먼저 시도했지만 임신이 되지 않아 병원을 방문한 경우다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "당시 여성은 20대에 자궁내막증으로 수술한 뒤 호르몬 치료를 받았던 과거력이 있었다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "난임 검사상 AMH 수치가 1.0 미만으로 나이에 비해 많이 떨어져 있었고, 초음파검사상으론 오른쪽 난소에 2㎝의 재발된 자궁내막증, 나팔관 조영술에서는 양측 나팔관 막힘 소견이 보였다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "수술 후 난소 예비력이 많이 떨어진 상태여서 상담 후 시험관 시술을 시도했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "과배란 유도에 대한 난소 반응도 저조했고 복강 내 유착으로 인해 난소의 위치가 좋지 않아 난자 채취도 쉽지 않았다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "배아의 질도 아주 좋지는 않았으나 기적적으로 1차 시술 만에 임신에 성공했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "이처럼 난임의 원인은 복합적이고 다양하다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "따라서 적절한 시점에 병원 상담을 받는 것이 중요하다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "피임 없이 정상적인 부부생활을 하면서 1년 이내에 임신이 되지 않는 경우, 또는 만 35세 이상에서는 6개월 이내에 임신이 되지 않는 경우 난임병원에 방문해 상담을 받아야 한다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "그 외에도 40세 이상, 자궁내막증, 난소낭종 수술력, 생리 주기가 짧아지는 등의 난소 기능 저하(POR)의 위험인자가 있을 경우에는 정기적인 산부인과 검진을 통해 건강 상태를 체크해 봐야 한다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "조기에 조치하는 것이 무엇보다 중요하다는 것을 잊지 말자.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "원인 다양하고 복잡한 '이 질환', 하지만 극복할 방법도 많다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

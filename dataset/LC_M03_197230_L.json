@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197230",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "원로 서양화가 이종학씨 초대전 열려",
+    "newsSubTitle": "",
+    "newsContent": "원로 서양화가 이종학(76) 씨의 초대전이 서울 관훈동 갤러리 상에서 9~18일 열린다.\n극단적인 단순함과 추상성을 지닌 1백호 안팎의 작품 30여점을 출품했다.\n캔버스에 무작위적으로 휘갈긴 것처럼 보이는 단순한 청색의 필선은 사군자의 난초줄기나 서예의 필획을 느끼게 한다.\n또는 가로 세로로 나열된 선들이 시구처럼 보이기도 하는데, 이는 작가가 시인이라는 점과 관련이 있지 않나 싶다.\n작가는 \\\"나의 작품세계는 한국의 전통에 뿌리박고, 창조적 세계성을 지향하는 그러한 태도다. 표현은 여백을 존중하며, 직관적으로 말하면 일필(一筆) 주의적 표현\\\" 이라고 말한다.\n평론가 이경성씨는 \\\"작가의 동양적 직관의 세계는 우연을 필연으로 전화시키고 최소한의 표현으로 최대한의 조형세계를 담고 있다\\\" 고 평했다.\n서울대 서양화과를 졸업하고 평생을 추상화로 일관해 온 작가의 아홉번째 개인전이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "원로 서양화가 이종학(76) 씨의 초대전이 서울 관훈동 갤러리 상에서 9~18일 열린다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "극단적인 단순함과 추상성을 지닌 1백호 안팎의 작품 30여점을 출품했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "캔버스에 무작위적으로 휘갈긴 것처럼 보이는 단순한 청색의 필선은 사군자의 난초줄기나 서예의 필획을 느끼게 한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또는 가로 세로로 나열된 선들이 시구처럼 보이기도 하는데, 이는 작가가 시인이라는 점과 관련이 있지 않나 싶다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "작가는 \\\"나의 작품세계는 한국의 전통에 뿌리박고, 창조적 세계성을 지향하는 그러한 태도다. 표현은 여백을 존중하며, 직관적으로 말하면 일필(一筆) 주의적 표현\\\" 이라고 말한다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "평론가 이경성씨는 \\\"작가의 동양적 직관의 세계는 우연을 필연으로 전화시키고 최소한의 표현으로 최대한의 조형세계를 담고 있다\\\" 고 평했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "서울대 서양화과를 졸업하고 평생을 추상화로 일관해 온 작가의 아홉번째 개인전이다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "캔버스에 도발적으로 휘갈긴 필선이 서예의 필획 느끼게 해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

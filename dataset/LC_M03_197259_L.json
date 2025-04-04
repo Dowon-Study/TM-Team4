@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197259",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "가족애와 인간간의 신뢰를 얘기하는 '겨울동화'",
+    "newsSubTitle": "",
+    "newsContent": "가족의 해체와 개인의 소외감이 대두되고 있는 세기말에 가족애와 인간간의 신뢰에 대한 문제를 다룬 연극 '겨울동화'가 극단 반딧불이의 3번째 작품으로 무대에 올려진다.\n이 연극은 영국의 대문호 세익스피어 말기 작품 '겨울이야기'를 원제로 한 것으로 재회와 관용, 사랑과 인생에 대한 세익스피어의 원숙한 철학이 담겨있다.\n지중해 연안의 평화로운 섬나라 시칠리아의 레온테스왕은 친구와 아내의 사이를 의심하다 결국 가족을 모두 잃은 후 비로소 참회의 눈물을 흘린다.\n진실로 용서를 비는 레온테스의 눈물에 조각상이 된 아내 헤르미오네가 다시 살아 레온테스의 손을 잡으며 가족간의 화해와 사랑이 완성된다.\n연출을 맡은 임경식씨는 가족을 위해 자신을 희생한, 가벼운 연민보다 깊은 시련을 감내한 여인 헤르미오네를 통해 21세기의 진정한 여성상을 제시하고자 한다고 연출의 변을 밝혔다.\n다소 고전적인 여성의 성역할에 집착해 아쉬운 면을 남기지만 사랑의 또 다른 모습이 용서라는 것을 역설하며 사람과 사람사이의 진정한 화해를 생각하게 하여 채 한달이 남지 않은 20세기를 보내며 그동안의 인간관계를 정리하며 한번쯤 볼만하다.\n임경식씨가 연출을 맡았고 공호석, 유태균, 차유경등의 중견 연기인들이 출연한다.\n공연장소는 예술의 전당 자유소극장이고 오는 12일까지 계속된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가족의 해체와 개인의 소외감이 대두되고 있는 세기말에 가족애와 인간간의 신뢰에 대한 문제를 다룬 연극 '겨울동화'가 극단 반딧불이의 3번째 작품으로 무대에 올려진다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 연극은 영국의 대문호 세익스피어 말기 작품 '겨울이야기'를 원제로 한 것으로 재회와 관용, 사랑과 인생에 대한 세익스피어의 원숙한 철학이 담겨있다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지중해 연안의 평화로운 섬나라 시칠리아의 레온테스왕은 친구와 아내의 사이를 의심하다 결국 가족을 모두 잃은 후 비로소 참회의 눈물을 흘린다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "진실로 용서를 비는 레온테스의 눈물에 조각상이 된 아내 헤르미오네가 다시 살아 레온테스의 손을 잡으며 가족간의 화해와 사랑이 완성된다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연출을 맡은 임경식씨는 가족을 위해 자신을 희생한, 가벼운 연민보다 깊은 시련을 감내한 여인 헤르미오네를 통해 21세기의 진정한 여성상을 제시하고자 한다고 연출의 변을 밝혔다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다소 고전적인 여성의 성역할에 집착해 아쉬운 면을 남기지만 사랑의 또 다른 모습이 용서라는 것을 역설하며 사람과 사람사이의 진정한 화해를 생각하게 하여 채 한달이 남지 않은 20세기를 보내며 그동안의 인간관계를 정리하며 한번쯤 볼만하다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "임경식씨가 연출을 맡았고 공호석, 유태균, 차유경등의 중견 연기인들이 출연한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "공연장소는 예술의 전당 자유소극장이고 오는 12일까지 계속된다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아내의 불륜을 의심하다 가족에게 손절 당한 남자의 이야기... 연극으로 나온다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

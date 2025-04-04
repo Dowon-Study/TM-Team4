@@ -1,0 +1,231 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198713",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 절개 적고 회복 빠른 양방향 척추 내시경 수술",
+    "newsSubTitle": "바른 척추, 바른 치료",
+    "newsContent": "Q : 47세 여자입니다.\n운동하다가 허리에서 뚝 소리가 나면서 갑자기 우측 허리에 통증이 생겼고, 오른쪽 엉덩이부터 발끝까지 뻗치는 통증이 심해 오른발에 힘이 들어가지 않습니다.\n통증이 너무 심해서 잠을 한숨도 못 잤습니다.\n병원에서 검사하니 추간판탈출증(디스크)이 심해 수술을 해야 한다고 합니다.\n이 병원에서는 절개 수술을 하자고 하고, 다른 병원에서는 척추 내시경 수술을 하자고 하는데 그 차이점이 무엇이고 어떤 수술을 받아야 할까요?\n허리 디스크(요추 추간판탈출증)와 협착증은 90% 이상 수술 없이 증상이 호전될 수 있습니다.\n하지만 수술이 꼭 필요한 경우도 있는데요.\n약물치료나 주사치료를 하는데도 불구하고 통증이 너무 심하거나 하지 근력이 저하되는 등 신경마비 증상이 진행되는 경우입니다.\n척추 수술을 할 때 피부와 근육의 절개는 불가피합니다.\n기존의 수술 방법은 세로 약 4~5㎝로 절개해 눈으로 보거나 현미경을 사용해 수술합니다.\n이에 반해 양방향 척추 내시경 수술은 약 0.7㎝의 절개를 두 군데 낸 뒤 한쪽은 내시경 카메라를 삽입하고 다른 한쪽은 수술기구를 삽입해 피부나 근육의 절개를 최소화하는 수술로 기존의 단점을 보완한 수술입니다.\n양방향 척추 내시경 수술의 장점은 첫째, 초고화질의 내시경을 이용해 문제가 되는 부분을 직접 선명한 영상을 통해 확인하면서 치료할 수 있습니다.\n따라서 자기공명영상(MRI)에서도 놓칠 수 있는 작은 병변까지도 확인하며 수술할 수 있습니다.\n두 번째는 절개 부위가 작기 때문에 흉터도 절개 수술에 비해 거의 없으며, 정상 피부·근육·인대 조직의 손상이 작기 때문에 통증도 적고 회복도 빠릅니다.\n이러한 장점 때문에 근력을 보존해야 하는 직종에 종사하거나 운동을 하는 분에게 유리합니다.\n셋째, 뼈의 절개를 최소화해 불안정성의 위험성이 적습니다.\n수술 과정에서 척추뼈를 너무 많이 제거하면 관절이 흔들리는 불안정성이 생길 수 있는데, 이러면 나중에 나사못으로 고정하는 척추 유합 수술이 필요할 수 있습니다.\n넷째, 절개가 작고 출혈량이 많지 않아 수혈이 필요하지 않습니다.\n그리고 양방향 척추 내시경 수술은 전신 마취가 필요하지 않아 고령이나 만성질환이 있는 환자도 받을 수 있습니다.\n마지막으로 양방향 내시경 수술은 절개 부위가 작고 생리식염수가 순환하며 수술 부위를 세척하는 효과가 있기 때문에 기존 수술보다 감염·염증의 위험이 적습니다.\n이렇게 장점이 많지만 수술을 시행하기 어려운 경우도 있습니다.\n신경막을 절개해야 하거나 신경막을 재건하는 수술, 척추 종양 수술 등 고난도 수술의 경우에는 양방향 내시경 수술보다는 기존 절개 수술이 필요합니다.\n위 환자분은 어느 수술을 택해도 증상 호전에는 도움이 되겠지만 여러 장점을 고려할 때 내시경 수술이 더 좋은 선택으로 판단됩니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 23,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "Q : 47세 여자입니다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "운동하다가 허리에서 뚝 소리가 나면서 갑자기 우측 허리에 통증이 생겼고, 오른쪽 엉덩이부터 발끝까지 뻗치는 통증이 심해 오른발에 힘이 들어가지 않습니다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "통증이 너무 심해서 잠을 한숨도 못 잤습니다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "병원에서 검사하니 추간판탈출증(디스크)이 심해 수술을 해야 한다고 합니다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 병원에서는 절개 수술을 하자고 하고, 다른 병원에서는 척추 내시경 수술을 하자고 하는데 그 차이점이 무엇이고 어떤 수술을 받아야 할까요?",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "허리 디스크(요추 추간판탈출증)와 협착증은 90% 이상 수술 없이 증상이 호전될 수 있습니다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 수술이 꼭 필요한 경우도 있는데요.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "약물치료나 주사치료를 하는데도 불구하고 통증이 너무 심하거나 하지 근력이 저하되는 등 신경마비 증상이 진행되는 경우입니다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "척추 수술을 할 때 피부와 근육의 절개는 불가피합니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "기존의 수술 방법은 세로 약 4~5㎝로 절개해 눈으로 보거나 현미경을 사용해 수술합니다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이에 반해 양방향 척추 내시경 수술은 약 0.7㎝의 절개를 두 군데 낸 뒤 한쪽은 내시경 카메라를 삽입하고 다른 한쪽은 수술기구를 삽입해 피부나 근육의 절개를 최소화하는 수술로 기존의 단점을 보완한 수술입니다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "양방향 척추 내시경 수술의 장점은 첫째, 초고화질의 내시경을 이용해 문제가 되는 부분을 직접 선명한 영상을 통해 확인하면서 치료할 수 있습니다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "따라서 자기공명영상(MRI)에서도 놓칠 수 있는 작은 병변까지도 확인하며 수술할 수 있습니다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "두 번째는 절개 부위가 작기 때문에 흉터도 절개 수술에 비해 거의 없으며, 정상 피부·근육·인대 조직의 손상이 작기 때문에 통증도 적고 회복도 빠릅니다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "이러한 장점 때문에 근력을 보존해야 하는 직종에 종사하거나 운동을 하는 분에게 유리합니다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "셋째, 뼈의 절개를 최소화해 불안정성의 위험성이 적습니다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "수술 과정에서 척추뼈를 너무 많이 제거하면 관절이 흔들리는 불안정성이 생길 수 있는데, 이러면 나중에 나사못으로 고정하는 척추 유합 수술이 필요할 수 있습니다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "넷째, 절개가 작고 출혈량이 많지 않아 수혈이 필요하지 않습니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "그리고 양방향 척추 내시경 수술은 전신 마취가 필요하지 않아 고령이나 만성질환이 있는 환자도 받을 수 있습니다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "마지막으로 양방향 내시경 수술은 절개 부위가 작고 생리식염수가 순환하며 수술 부위를 세척하는 효과가 있기 때문에 기존 수술보다 감염·염증의 위험이 적습니다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "이렇게 장점이 많지만 수술을 시행하기 어려운 경우도 있습니다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "신경막을 절개해야 하거나 신경막을 재건하는 수술, 척추 종양 수술 등 고난도 수술의 경우에는 양방향 내시경 수술보다는 기존 절개 수술이 필요합니다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "위 환자분은 어느 수술을 택해도 증상 호전에는 도움이 되겠지만 여러 장점을 고려할 때 내시경 수술이 더 좋은 선택으로 판단됩니다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "통증이 심해 수술 필요한 '이 질병', 기존의 단점 보완할 수술은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

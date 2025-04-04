@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195026",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"60세 이상, 아스피린 금지 권고\\\"…美서 확인된 부작용 보니",
+    "newsSubTitle": "",
+    "newsContent": "심근경색이나 뇌졸중의 예방을 위해 복용하는 저용량 아스피린의 부작용이 확인돼, 미국에선 60세 이상을 대상으로 심근경색·뇌졸중 예방을 위한 복용 금지 권고가 나왔다.\n30일 UPI통신·헬스데이뉴스 등에 따르면 미국의 독립적 정부기구 격인 질병 예방 특별위원회(USPSTF)가 아스피린 복용에 관한 새 지침을 발표했다.\n60세 이상은 심근경색 또는 뇌졸중의 1차 예방을 위해 저용량(81~100mg) 아스피린 복용을 시작하지 말라는 게 골자다.\n이 지침은 미국 의학 협회 저널(JAMA: Journal of American Medical Association) 최신호에 발표됐다.\n특위는 이 결정이 지난 2018년에 발표된 3건의 대규모 임상시험과 14건의 다른 임상시험 결과에 근거한 것으로, 아스피린의 부작용인 위장 출혈과 뇌출혈 위험 증가가 아스피린의 효과보다 절대적으로 크다고 밝혔다.\n아스피린을 매일 복용할 경우 위궤양과 같은 위장 출혈 위험이 약 60%, 뇌출혈 위험은 출혈의 형태에 따라 20~30% 높아지는 것으로 나타났다.\n다만 심장 건강에 문제가 있어 저용량 아스피린을 복용하는 경우에는 해당하지 않는다.\n특위는 새 지침에 따라 이미 아스피린을 복용중이던 사람이 중단여부를 결정할 때는 전문의와 상의하도록 권고했다.\n앞서 2019년 미국 심장협회(AHA)와 미국심장학회(ACC)도 '70세 이상은 심근경색과 뇌졸중의 예방을 위해 아스피린 복용을 시작하지 말라'고 권고한 바 있는데, 특위의 새 지침과 비슷해졌다.\n특위는 또 하나의 새 지침을 통해 40~59세 연령대는 10년 안에 심장질환이 발생할 위험이 10% 이상이고 아스피린 관련 내출혈 위험이 낮은 경우, 개인에 따라 의사와 상의해 아스피린 복용을 결정하도록 권고했다.\n아스피린은 지혈 작용을 하는 혈소판 응집을 억제, 동맥의 혈전 형성을 막아 심혈관 질환을 예방하는 효과가 있다.\n하지만 출혈이 발생했을 때 출혈 부위의 혈액을 응고시켜 지혈하는 혈소판의 기능이 아스피린으로 억제되기 때문에 출혈 위험이 높아지는 부작용도 함께 가지고 있다.\n한편 USPSTF는 독립기관이지만 미국 정부가 선정한 의사와 과학자들로 구성되고 정부로부터 연구비를 전액 지원받고 있어 사실상 정부 기관으로 분류된다.\n하지만 특위의 발표지침이 구속력이 있는 건 아니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "심근경색이나 뇌졸중의 예방을 위해 복용하는 저용량 아스피린의 부작용이 확인돼, 미국에선 60세 이상을 대상으로 심근경색·뇌졸중 예방을 위한 복용 금지 권고가 나왔다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "30일 UPI통신·헬스데이뉴스 등에 따르면 미국의 독립적 정부기구 격인 질병 예방 특별위원회(USPSTF)가 아스피린 복용에 관한 새 지침을 발표했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "60세 이상은 심근경색 또는 뇌졸중의 1차 예방을 위해 저용량(81~100mg) 아스피린 복용을 시작하지 말라는 게 골자다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 지침은 미국 의학 협회 저널(JAMA: Journal of American Medical Association) 최신호에 발표됐다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특위는 이 결정이 지난 2018년에 발표된 3건의 대규모 임상시험과 14건의 다른 임상시험 결과에 근거한 것으로, 아스피린의 부작용인 위장 출혈과 뇌출혈 위험 증가가 아스피린의 효과보다 절대적으로 크다고 밝혔다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아스피린을 매일 복용할 경우 위궤양과 같은 위장 출혈 위험이 약 60%, 뇌출혈 위험은 출혈의 형태에 따라 20~30% 높아지는 것으로 나타났다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다만 심장 건강에 문제가 있어 저용량 아스피린을 복용하는 경우에는 해당하지 않는다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특위는 새 지침에 따라 이미 아스피린을 복용중이던 사람이 중단여부를 결정할 때는 전문의와 상의하도록 권고했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "앞서 2019년 미국 심장협회(AHA)와 미국심장학회(ACC)도 '70세 이상은 심근경색과 뇌졸중의 예방을 위해 아스피린 복용을 시작하지 말라'고 권고한 바 있는데, 특위의 새 지침과 비슷해졌다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "특위는 또 하나의 새 지침을 통해 40~59세 연령대는 10년 안에 심장질환이 발생할 위험이 10% 이상이고 아스피린 관련 내출혈 위험이 낮은 경우, 개인에 따라 의사와 상의해 아스피린 복용을 결정하도록 권고했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "아스피린은 지혈 작용을 하는 혈소판 응집을 억제, 동맥의 혈전 형성을 막아 심혈관 질환을 예방하는 효과가 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "하지만 출혈이 발생했을 때 출혈 부위의 혈액을 응고시켜 지혈하는 혈소판의 기능이 아스피린으로 억제되기 때문에 출혈 위험이 높아지는 부작용도 함께 가지고 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "한편 USPSTF는 독립기관이지만 미국 정부가 선정한 의사와 과학자들로 구성되고 정부로부터 연구비를 전액 지원받고 있어 사실상 정부 기관으로 분류된다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "하지만 특위의 발표지침이 구속력이 있는 건 아니다.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미국, 60세 이상 아스피린 복용 금지... 이유가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197276",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "중국 사스 확산…환자 1명 사망",
+    "newsSubTitle": "4명 발병…WHO \\\"사태 심각\\\"",
+    "newsContent": "중국 위생부는 23일 두 건의 중증 급성호흡기증후군(SARS.사스) 환자와 두 건의 의심환자가 발생했으며 의심 환자 가운데 한명이 사망했다고 23일 공식 발표했다.\n사스환자는 베이징(北京)에서, 의심환자는 안후이(安徽)성에서 발생했다.\n이에 대해 세계보건기구(WHO)는 \\\"중국에서 사스 사망자가 발생한 사건은 매우 심각한 사안\\\"이라고 우려했다.\n사망자는 안휘성에 사는 50대 여성으로 확인됐다.\n이 여성의 의대생 딸(26)도 사스 의심 증세를 앓고 있다.\n이 딸은 의학실험실에서 사스에 감염된 것으로 추정된다.\n이에 따라 중국 위생부는 중국 전역에 사스 경보를 내리고 ▶직장별 체온 측정▶대대적인 방역처리 등을 실시하고 있다.\n중국 내 사스 환자 발생 소식이 전해진 직후 대만 보건당국은 24일 0시를 기해 사스 방역 경보를 '0(영)'급에서 'A'급으로 상향 조정했다.\n이에 따라 중국 등 사스 위험지역에서 입국하는 관광객들은 검역서를 작성하게 될 것이라고 대만 유선 ETTV가 23일 보도했다.\n대만의 방역 경보는 0, A, B, C 등 4등급이며, A급 경보는 외국에 사스 환자가 발생할 때 발령된다.\nA급 경보가 내려지면 각 기관 및 학교가 자체적으로 체온 측정을 실시하고 발병 지역에서 입국하는 여객들은 보건 당국의 추적 관리를 받게 된다.\n우리나라 질병관리본부도 23일 중국 베이징에서 오는 입국자에 대한 검역을 강화키로 했다.\n질병본부는 이날부터 공항 검역소에서 적외선 촬영기(7대)를 가동해 입국자들의 체온을 측정했다. [베이징.타이베이=외신종합]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중국 위생부는 23일 두 건의 중증 급성호흡기증후군(SARS.사스) 환자와 두 건의 의심환자가 발생했으며 의심 환자 가운데 한명이 사망했다고 23일 공식 발표했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사스환자는 베이징(北京)에서, 의심환자는 안후이(安徽)성에서 발생했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 대해 세계보건기구(WHO)는 \\\"중국에서 사스 사망자가 발생한 사건은 매우 심각한 사안\\\"이라고 우려했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사망자는 안휘성에 사는 50대 여성으로 확인됐다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 여성의 의대생 딸(26)도 사스 의심 증세를 앓고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 딸은 의학실험실에서 사스에 감염된 것으로 추정된다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 따라 중국 위생부는 중국 전역에 사스 경보를 내리고 ▶직장별 체온 측정▶대대적인 방역처리 등을 실시하고 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "중국 내 사스 환자 발생 소식이 전해진 직후 대만 보건당국은 24일 0시를 기해 사스 방역 경보를 '0(영)'급에서 'A'급으로 상향 조정했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이에 따라 중국 등 사스 위험지역에서 입국하는 관광객들은 검역서를 작성하게 될 것이라고 대만 유선 ETTV가 23일 보도했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "대만의 방역 경보는 0, A, B, C 등 4등급이며, A급 경보는 외국에 사스 환자가 발생할 때 발령된다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "A급 경보가 내려지면 각 기관 및 학교가 자체적으로 체온 측정을 실시하고 발병 지역에서 입국하는 여객들은 보건 당국의 추적 관리를 받게 된다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "우리나라 질병관리본부도 23일 중국 베이징에서 오는 입국자에 대한 검역을 강화키로 했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "질병본부는 이날부터 공항 검역소에서 적외선 촬영기(7대)를 가동해 입국자들의 체온을 측정했다. [베이징.타이베이=외신종합]",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중국에서 사스 의심 환자 중 절반 사망... 인류 종말의 시작인가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

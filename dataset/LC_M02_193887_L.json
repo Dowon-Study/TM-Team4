@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193887",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "뮤지컬 배우 손승원, 무면허로 음주운전...긴급체포",
+    "newsSubTitle": "뮤지컬 '랭보'는 출연 배우 교체...윤창호 법 적용될 듯",
+    "newsContent": "뮤지컬 배우 손승원 씨가 면허 취소 상태에서 음주 운전을 한 혐의 등으로 경찰에 체포됐다.\n경찰에 따르면, 손 씨는 26일 오전 4시20분께 서울 강남구 청담동 학동사거리에서 만취 상태로 아버지의 벤츠 승용차로 운전을 하다 다른 승용차를 들이받았다.\n당시 그는 지난 달 18일자로 면허 취소된 상태였으며, 혈중 알코올 농도가 0.206%였다.\n경찰은 \\\"손 씨가 피해차량 추돌 후 조치를 취하지 않고 학동사거리까지 약 150m를 도주하는 것을 주변에 있던 택시기사 등이 추격하여 검거했다\\\"고 밝혔다.\n피해자들은 경상수준의 부상을 입었고, 손 씨는 특정범죄가중치처벌법상 도주치상 및 위험운전치상(윤창호법), 도로교통법상 음주만취운전 및 무면허운전 등 혐의로 긴급 체포됐다.\n일명 윤창호법으로 불리는 음주운전 교통사고 처벌 강화 법은 지난 18일부터 적용됐다.\n술을 마시고 운전을 하다 사람을 치어 다치게 했을 경우, 최대 15년 이하의 징역과 1000만원에서 3000만원 이하의 벌금을 물도록 한다.\n한편, 손 씨 소속사인 블러썸 엔터테인먼트는 \\\"확인 후 입장을 밝히겠다\\\"고 하다가 이날 \\\"계약이 종료된 상태\\\"라고 뒤늦게 밝혔다.\n현재 뮤지컬 '랭보'에 출연 중인 손 씨의 예정된 공연은 모두 다른 배우들로 대체된다. '랭보' 관계자는 26일 미디어SR에 \\\"2회차 공연이 남아있는데 우리 역시 오늘 기사를 보고 그 사실을 알게 됐다. 급히 다른 배우로 교체하기 위해 배우들 스케줄을 확인 중이다\\\"라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "뮤지컬 배우 손승원 씨가 면허 취소 상태에서 음주 운전을 한 혐의 등으로 경찰에 체포됐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "경찰에 따르면, 손 씨는 26일 오전 4시20분께 서울 강남구 청담동 학동사거리에서 만취 상태로 아버지의 벤츠 승용차로 운전을 하다 다른 승용차를 들이받았다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 그는 지난 달 18일자로 면허 취소된 상태였으며, 혈중 알코올 농도가 0.206%였다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "경찰은 \\\"손 씨가 피해차량 추돌 후 조치를 취하지 않고 학동사거리까지 약 150m를 도주하는 것을 주변에 있던 택시기사 등이 추격하여 검거했다\\\"고 밝혔다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "피해자들은 경상수준의 부상을 입었고, 손 씨는 특정범죄가중치처벌법상 도주치상 및 위험운전치상(윤창호법), 도로교통법상 음주만취운전 및 무면허운전 등 혐의로 긴급 체포됐다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일명 윤창호법으로 불리는 음주운전 교통사고 처벌 강화 법은 지난 18일부터 적용됐다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "술을 마시고 운전을 하다 사람을 치어 다치게 했을 경우, 최대 15년 이하의 징역과 1000만원에서 3000만원 이하의 벌금을 물도록 한다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, 손 씨 소속사인 블러썸 엔터테인먼트는 \\\"확인 후 입장을 밝히겠다\\\"고 하다가 이날 \\\"계약이 종료된 상태\\\"라고 뒤늦게 밝혔다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "현재 뮤지컬 '랭보'에 출연 중인 손 씨의 예정된 공연은 모두 다른 배우들로 대체된다. '랭보' 관계자는 26일 미디어SR에 \\\"2회차 공연이 남아있는데 우리 역시 오늘 기사를 보고 그 사실을 알게 됐다. 급히 다른 배우로 교체하기 위해 배우들 스케줄을 확인 중이다\\\"라고 말했다.",
+        "sentenceSize": 157
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "면허 취소 상태에서 또 음주 운전... 배우 손 씨 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

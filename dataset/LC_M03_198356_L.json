@@ -1,0 +1,294 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198356",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK즐겨읽기] 우리가 먹는 것은 식품인가, 첨가물인가",
+    "newsSubTitle": "메주가 없어도, 1년을 숙성하지 않아도 감쪽같은 간장 맛",
+    "newsContent": "인간이 만든 위대한 속임수 식품첨가물 아베 쓰카사 지음, 안병수 옮김, 국일미디어, 215쪽, 1만원 자, 콩으로 메주를 쑤어 간장을 담가보자.\n장독에서 적어도 1년은 숙성해야 천연 아미노산들이 우러나와 제대로 된 장맛이 난다.\n그런데 이렇게 만들자면 원가가 많이 든다.\n공업적 제조법이 등장하는 것은 그 때문이다.\n재료부터 다르다.\n콩에서 기름을 짜고 남은 탈지 대두를 쓴다.\n이를 전기분해 하면 간장의 기초 물질인 아미노산을 얻는다.\n문제는 맛이 무미건조한 데다 간장 고유의 색이나 느낌이 나지 않는다.\n걱정할 필요가 없다. '식품 첨가물'이라는 이름의 마술사에게 일을 맡기면 된다.\n우선 화학조미료인 글루타민산나트륨으로 감칠맛을 내고 감미료로 단맛을 살짝 더한다.\n거기에 산미료를 써서 산뜻함을 만들고 증점제를 넣어 걸쭉한 느낌을 보탠다.\n색깔도 간단하다.\n캐러멜 색소가 해결사. 여기에 보존료를 넣어 상하지 않게 한다.\n겉모습은 거의 차이가 없는 간장이 탄생한 것이다.\n지은이는 \\\"이런 제품들은 가짜.모조.대체 간장\\\"이라고 비난한다.\n간장 고유의 풍미는 물론 찜이나 조림을 만들어 보면 차이가 확연해진다.\n간장은 빙산의 일각. 이 책은 미트볼에서 커피 크리머에 이르는 숱한 식품의 사례를 들며 흔히 먹는 가공식품의 대부분이 이런 사정이라고 주장한다.\n일본 식품업계 사정을 깊숙이 파악한 '내부고발자'가 쓴 책이니만큼 설득력이 있어 보인다.\n물론 일본의 사례다.\n그에 따르면 더 큰 문제는 안전을 보장할 수 없는 첨가물로 만든 제품들이 오늘날 맛의 세계와 음식 문화를 지배한다는 점이다.\n심지어 맛의 기본인 소금도 형편이 나을 게 없다고 한다.\n전기와 여과장치를 이용해 바닷물에서 염화나트륨만 뽑아낸 정제염은 짠맛만 난다.\n하지만 햇빛에 바닷물의 수분을 증발시켜 만든 자연 바다소금은 풍부한 미네랄 덕분에 짠맛이 강하지 않고 오히려 단맛이 스며 있다.\n지은이는 \\\"천연 양조간장 맛이 수많은 아미노산의 하모니라면 바다 소금 맛은 미네랄의 합주\\\"라며 \\\"화학 간장이나 정제염이 결코 낼 수 없는 이런 맛의 문화를 가격 때문에 희생해선 안 된다\\\"고 강조한다.\n통계에 따르면 일본인이 하루에 먹는 식품첨가물은 10g 정도로 1년이면 4kg이나 된다.\n기피 풍조가 퍼졌지만 첨가물 사용량이 줄지 않고 있다.\n사용되는 첨가물 정보가 소비자에게 제대로 알려지지 않고 매복해 있기 때문이라는 지적이다.\n지은이는 손쉽게 제품을 만들려는 생산업자와 원가가 낮은 제품으로 할인 행사를 벌이고 싶어하는 유통업자, 값싼 것만 찾는 소비자의 행태가 복합 골절을 일으켜 이런 '무간지옥'을 만들었다고 지적한다.\n일본의 현실이지만 옮긴이에 따르면 우리 상황도 크게 다르지 않다고 한다.\n식품 살 때 원료와 첨가물을 표시한 라벨이라도 잘 살펴보는 수밖에 없다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 30,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "인간이 만든 위대한 속임수 식품첨가물 아베 쓰카사 지음, 안병수 옮김, 국일미디어, 215쪽, 1만원 자, 콩으로 메주를 쑤어 간장을 담가보자.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "장독에서 적어도 1년은 숙성해야 천연 아미노산들이 우러나와 제대로 된 장맛이 난다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그런데 이렇게 만들자면 원가가 많이 든다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공업적 제조법이 등장하는 것은 그 때문이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "재료부터 다르다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "콩에서 기름을 짜고 남은 탈지 대두를 쓴다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 전기분해 하면 간장의 기초 물질인 아미노산을 얻는다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "문제는 맛이 무미건조한 데다 간장 고유의 색이나 느낌이 나지 않는다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "걱정할 필요가 없다. '식품 첨가물'이라는 이름의 마술사에게 일을 맡기면 된다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "우선 화학조미료인 글루타민산나트륨으로 감칠맛을 내고 감미료로 단맛을 살짝 더한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "거기에 산미료를 써서 산뜻함을 만들고 증점제를 넣어 걸쭉한 느낌을 보탠다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "색깔도 간단하다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "캐러멜 색소가 해결사. 여기에 보존료를 넣어 상하지 않게 한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "겉모습은 거의 차이가 없는 간장이 탄생한 것이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "지은이는 \\\"이런 제품들은 가짜.모조.대체 간장\\\"이라고 비난한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "간장 고유의 풍미는 물론 찜이나 조림을 만들어 보면 차이가 확연해진다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "간장은 빙산의 일각. 이 책은 미트볼에서 커피 크리머에 이르는 숱한 식품의 사례를 들며 흔히 먹는 가공식품의 대부분이 이런 사정이라고 주장한다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "일본 식품업계 사정을 깊숙이 파악한 '내부고발자'가 쓴 책이니만큼 설득력이 있어 보인다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "물론 일본의 사례다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "그에 따르면 더 큰 문제는 안전을 보장할 수 없는 첨가물로 만든 제품들이 오늘날 맛의 세계와 음식 문화를 지배한다는 점이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "심지어 맛의 기본인 소금도 형편이 나을 게 없다고 한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "전기와 여과장치를 이용해 바닷물에서 염화나트륨만 뽑아낸 정제염은 짠맛만 난다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "하지만 햇빛에 바닷물의 수분을 증발시켜 만든 자연 바다소금은 풍부한 미네랄 덕분에 짠맛이 강하지 않고 오히려 단맛이 스며 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "지은이는 \\\"천연 양조간장 맛이 수많은 아미노산의 하모니라면 바다 소금 맛은 미네랄의 합주\\\"라며 \\\"화학 간장이나 정제염이 결코 낼 수 없는 이런 맛의 문화를 가격 때문에 희생해선 안 된다\\\"고 강조한다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "통계에 따르면 일본인이 하루에 먹는 식품첨가물은 10g 정도로 1년이면 4kg이나 된다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "기피 풍조가 퍼졌지만 첨가물 사용량이 줄지 않고 있다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "사용되는 첨가물 정보가 소비자에게 제대로 알려지지 않고 매복해 있기 때문이라는 지적이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "지은이는 손쉽게 제품을 만들려는 생산업자와 원가가 낮은 제품으로 할인 행사를 벌이고 싶어하는 유통업자, 값싼 것만 찾는 소비자의 행태가 복합 골절을 일으켜 이런 '무간지옥'을 만들었다고 지적한다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 29,
+        "sentenceContent": "일본의 현실이지만 옮긴이에 따르면 우리 상황도 크게 다르지 않다고 한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 30,
+        "sentenceContent": "식품 살 때 원료와 첨가물을 표시한 라벨이라도 잘 살펴보는 수밖에 없다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인간이 만든 위대한 속임수, '이것'의 정체는…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 29,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 30,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

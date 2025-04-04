@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197413",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[라이프 트렌드] 피부 탄력 가꾸는 작은 콜라겐 300명에게 할인",
+    "newsSubTitle": "",
+    "newsContent": "트리플 스킨콜라겐 피부의 탄력·주름을 개선하는 데 도움을 줄 수 있는 대표적인 성분이 콜라겐이다.\n20대까지는 체내에서 콜라겐을 충분히 만들어낸다.\n하지만 30대를 기점으로 피부 속 콜라겐 함유량이 점점 줄어든다. 식품 섭취만으로는 피부 속 콜라겐 함유량을 높이기 쉽지 않다.\n콜라겐의 분자량이 커도 체내 흡수율을 떨어뜨린다.\n콜라겐이 풍부한 식품으로 손꼽히는 돼지 껍질의 경우 분자량이 평균 30만Da(달톤) 정도로 커 체내에 그대로 흡수되기 쉽지 않다.\n반면 분자량을 작게 만들면 몸속에 콜라겐을 더 쉽게 보충할 수 있다.\n평균 분자량 500달톤 이하의 트리펩타이드 콜라겐은 효소전문기업 아미코젠이 독자적 효소분해 공법으로 개발한 저분자 콜라겐이다.\n크기가 작은 콜라겐이 몸에 빠르게 흡수돼 피부 탄력에 도움을 준다.\n아미코젠의 헬스케어 브랜드 케이뉴트라는 오늘부터 다음달 15일까지 선착순 300명을 대상으로 ‘트리플 스킨콜라겐’(사진) 과립·젤리형 제품을 유통 최저가에 할인 판매한다.\n행사 물량 소진 시 조기 마감된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "트리플 스킨콜라겐 피부의 탄력·주름을 개선하는 데 도움을 줄 수 있는 대표적인 성분이 콜라겐이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20대까지는 체내에서 콜라겐을 충분히 만들어낸다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 30대를 기점으로 피부 속 콜라겐 함유량이 점점 줄어든다. 식품 섭취만으로는 피부 속 콜라겐 함유량을 높이기 쉽지 않다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "콜라겐의 분자량이 커도 체내 흡수율을 떨어뜨린다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "콜라겐이 풍부한 식품으로 손꼽히는 돼지 껍질의 경우 분자량이 평균 30만Da(달톤) 정도로 커 체내에 그대로 흡수되기 쉽지 않다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "반면 분자량을 작게 만들면 몸속에 콜라겐을 더 쉽게 보충할 수 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "평균 분자량 500달톤 이하의 트리펩타이드 콜라겐은 효소전문기업 아미코젠이 독자적 효소분해 공법으로 개발한 저분자 콜라겐이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "크기가 작은 콜라겐이 몸에 빠르게 흡수돼 피부 탄력에 도움을 준다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아미코젠의 헬스케어 브랜드 케이뉴트라는 오늘부터 다음달 15일까지 선착순 300명을 대상으로 ‘트리플 스킨콜라겐’(사진) 과립·젤리형 제품을 유통 최저가에 할인 판매한다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "행사 물량 소진 시 조기 마감된다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "분자량 줄여서 콜라겐 흡수율 높인 '케이뉴트라', 경악할 만한 가격 이벤트 진행 중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

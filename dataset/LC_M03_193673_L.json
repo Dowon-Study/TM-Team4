@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193673",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "병원 홈페이지 운영은 이렇게",
+    "newsSubTitle": "보라매병원 홈페이지, 병원계 최초 보안성·접근성 우수인증마크 획득",
+    "newsContent": "서울대병원운영 서울시보라매병원 홈페이지(www.brmh.org)가 최근 미래창조과학부가 지정한 전문인증기관인 한국 웹 접근성 인증평가원으로부터 웹 접근성 품질인증마크를 2년 연속 획득했다.\n웹 접근성(Web Accessibility) 품질 인증이란 시각·청각 장애인 또는 고령자등 정보취약계층이 홈페이지 정보에 쉽게 접근하고 이해할 수 있는지 여부를 평가하여 인증하는 제도다.\n이에 앞서 9월에는 방송통신위원회 산하 개인정보보호협회로 부터 개인정보보호 수준 및 시스템 보안의 우수성과 안정성을 입증하는 ePRIVACY(개인정보보호 우수사이트마크)와 i-Safe(인터넷사이트 안전마크) 인증을 취득했었다.\n병원계에서 보안성과 접근성의 우수함을 나타내는 3가지 인증을 모두 받은 홈페이지는 보라매병원이 최초이자 유일하다.\n김병관 병원장은 “민감한 개인정보를 취급하는 병원으로 개인 정보보안에 각별한 주의를 기울이고 있다”며“장애인·고령자를 비롯한 의료 취약계층이 홈페이지 이용뿐 만 아니라 모든 영역에서 건강 불평등을 해소하는데 앞장서 나갈 것\\\"이라고 전했다.\n한편 보라매병원은 2014년 11월 '홈페이지 3.0'을 오픈하여 환자와 내원객이 보다 쉽게 병원과 소통할 수 있도록 하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서울대병원운영 서울시보라매병원 홈페이지(www.brmh.org)가 최근 미래창조과학부가 지정한 전문인증기관인 한국 웹 접근성 인증평가원으로부터 웹 접근성 품질인증마크를 2년 연속 획득했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "웹 접근성(Web Accessibility) 품질 인증이란 시각·청각 장애인 또는 고령자등 정보취약계층이 홈페이지 정보에 쉽게 접근하고 이해할 수 있는지 여부를 평가하여 인증하는 제도다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 앞서 9월에는 방송통신위원회 산하 개인정보보호협회로 부터 개인정보보호 수준 및 시스템 보안의 우수성과 안정성을 입증하는 ePRIVACY(개인정보보호 우수사이트마크)와 i-Safe(인터넷사이트 안전마크) 인증을 취득했었다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "병원계에서 보안성과 접근성의 우수함을 나타내는 3가지 인증을 모두 받은 홈페이지는 보라매병원이 최초이자 유일하다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김병관 병원장은 “민감한 개인정보를 취급하는 병원으로 개인 정보보안에 각별한 주의를 기울이고 있다”며“장애인·고령자를 비롯한 의료 취약계층이 홈페이지 이용뿐 만 아니라 모든 영역에서 건강 불평등을 해소하는데 앞장서 나갈 것\\\"이라고 전했다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 보라매병원은 2014년 11월 '홈페이지 3.0'을 오픈하여 환자와 내원객이 보다 쉽게 병원과 소통할 수 있도록 하고 있다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'레알' 최초이자 유일한 3가지 인증 모두 받은 보라매병원 홈페이지",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

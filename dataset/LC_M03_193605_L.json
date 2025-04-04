@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193605",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "감사원 “시중 황사 마스크, 호흡곤란 발생시 주의사항 표기 미흡”",
+    "newsSubTitle": "",
+    "newsContent": "감사원이 ‘보건용 마스크’(일명 황사 마스크) 착용 중 사용자가 호흡곤란을 느꼈을 때 주의사항이 표기돼 있지 않다며 식품의약품안전처에 조치를 요구했다.\n17일 감사원은 이 같은 내용이 담긴 식약처 기관운영·감사 결과를 내놨다.\n현행 ‘의약외품 품목허가·신고·심사규정’에 따르면 의약외품(질병치료·예방 목적에 사용되는 섬유·고무제품 또는 이와 유사한 물품)의 경우 사용자들이 안전하게 사용할 수 있도록 주의사항이 제품에 표기돼 있어야 한다.\n아울러 허가·신고된 기재사항 이외에도 사용자 등을 고려해서 경고 문구를 기재할 것을 권고하고 있다.\n하지만 미세먼지나 황사로부터 호흡기를 보호하기 위한 보건용 마스크 제품에는 마스크 착용으로 인해 호흡 불편이 발생했을 경우에 대한 주의사항이 제품이나 포장에 표기돼 있지 않다.\n감사원은 “전문가들은 노약자, 어린이 등이 마스크를 착용하고서 호흡이 불편할 경우 사용을 중지하고 전문가와 상의할 것을 권고하고 있다”고 밝혔다.\n여기에 식약처가 보건용 마스크를 인증하면서 ‘크기’를 표시하도록 하지 않고 있으며 제조업체도 정확한 크기 정보를 제공하지 않는 문제도 발견됐다.\n감사원이 식약처가 허가한 보건용 마스크 중 44개 제품에 대해 마스크 본체 등록사항을 확인한 결과, 대(大)형 26개의 경우 가로 길이가 최대 240㎜에서 최소 165㎜ 등 다양한 크기로 조사됐다.\n보건용 마스크 크기에 대한 기준이 제조사마다 달라 사용자들의 선택에 혼동을 준다는 것이다.\n이에 감사원은 “보건용 마스크의 안전하고 합리적 사용을 위해 사용상 주의사항과 정확한 크기 정보를 제품 포장에 표시할 수 있는 방안을 마련해야 한다”고 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "감사원이 ‘보건용 마스크’(일명 황사 마스크) 착용 중 사용자가 호흡곤란을 느꼈을 때 주의사항이 표기돼 있지 않다며 식품의약품안전처에 조치를 요구했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "17일 감사원은 이 같은 내용이 담긴 식약처 기관운영·감사 결과를 내놨다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "현행 ‘의약외품 품목허가·신고·심사규정’에 따르면 의약외품(질병치료·예방 목적에 사용되는 섬유·고무제품 또는 이와 유사한 물품)의 경우 사용자들이 안전하게 사용할 수 있도록 주의사항이 제품에 표기돼 있어야 한다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아울러 허가·신고된 기재사항 이외에도 사용자 등을 고려해서 경고 문구를 기재할 것을 권고하고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 미세먼지나 황사로부터 호흡기를 보호하기 위한 보건용 마스크 제품에는 마스크 착용으로 인해 호흡 불편이 발생했을 경우에 대한 주의사항이 제품이나 포장에 표기돼 있지 않다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "감사원은 “전문가들은 노약자, 어린이 등이 마스크를 착용하고서 호흡이 불편할 경우 사용을 중지하고 전문가와 상의할 것을 권고하고 있다”고 밝혔다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여기에 식약처가 보건용 마스크를 인증하면서 ‘크기’를 표시하도록 하지 않고 있으며 제조업체도 정확한 크기 정보를 제공하지 않는 문제도 발견됐다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "감사원이 식약처가 허가한 보건용 마스크 중 44개 제품에 대해 마스크 본체 등록사항을 확인한 결과, 대(大)형 26개의 경우 가로 길이가 최대 240㎜에서 최소 165㎜ 등 다양한 크기로 조사됐다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "보건용 마스크 크기에 대한 기준이 제조사마다 달라 사용자들의 선택에 혼동을 준다는 것이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이에 감사원은 “보건용 마스크의 안전하고 합리적 사용을 위해 사용상 주의사항과 정확한 크기 정보를 제품 포장에 표시할 수 있는 방안을 마련해야 한다”고 강조했다.",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "감사원 “시중 황사 마스크, 호흡곤란 발생시 주의사항 표기 미흡” 노답 상황",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

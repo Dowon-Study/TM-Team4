@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198504",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "팔리지는 않았지만 좋은 책의 감동 나누기",
+    "newsSubTitle": "<그때, 그 책> 이렇게 만들어져요",
+    "newsContent": "'하늘 아래 새 것 없다' 누구의 명제인가요?\n인터넷을 통한 정보의 홍수, 날마다 쏟아져 나오는 새 책들의 홍수. 그러나 아무리 새로운 정보와 책이 쏟아져 나온다 하더라도, 그건 그저 나와는 아무런 관계 없는 하나의 정보이고, 책일 따름입니다.\n시간이 지나가도 잊혀지지 않는 좋은 책은 있습니다.\n좋은 책은 베스트셀러가 되기를 희망하지 않습니다.\n오히려 좋은 책은 독자들의 마음 속에 깊이 남아 있을 뿐 절대로 나대지 않지요.\n팔리지 않았다고 해서 좋은 책이 아닌가요?\n콜린 윌슨의 〈어느 철학자의 섹스 다이어리〉가 서갑숙의 〈나도 때론 포르노그라피의 주인공이고 싶다〉보다 안 팔렸다고 해서 나쁜 책인가요?\n오히려 우리는 잘 팔려 많은 사람에게 읽혔여야 함에도 불구하고, 팔리지도 않고 독자들의 기억에서 사라져간 '쓸쓸했던 책'들에 주목합니다.\n정말 좋은 책들은 스스로 좋은 책이라 이야기하지 않습니다.\n많은 독자들에게 소리 소문 없이 그윽한 향을 퍼뜨릴 뿐이지요. 〈그때 그 책〉은 오래되고도 여전히 좋은 책들이 가지는 그윽하고도 은은한 지혜의 향을 독자에게 전하고자 합니다. 〈그때 그 책〉은 이 나라에서 출판에 관계되는 일을 하시는 모든 분들과 함께 엮어갑니다.\n잘 안 팔렸지만, 아끼는 좋은 책들이 〈그때 그 책〉에서 다시 독자 여러분들을 찾아갈 것입니다.\n독자 여러분들의 마음 속 깊은 곳에 남아 있는 책 한 권의 감동을 더 많은 독자와 함께 나누도록 하겠습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'하늘 아래 새 것 없다' 누구의 명제인가요?",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "인터넷을 통한 정보의 홍수, 날마다 쏟아져 나오는 새 책들의 홍수. 그러나 아무리 새로운 정보와 책이 쏟아져 나온다 하더라도, 그건 그저 나와는 아무런 관계 없는 하나의 정보이고, 책일 따름입니다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "시간이 지나가도 잊혀지지 않는 좋은 책은 있습니다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "좋은 책은 베스트셀러가 되기를 희망하지 않습니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오히려 좋은 책은 독자들의 마음 속에 깊이 남아 있을 뿐 절대로 나대지 않지요.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "팔리지 않았다고 해서 좋은 책이 아닌가요?",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "콜린 윌슨의 〈어느 철학자의 섹스 다이어리〉가 서갑숙의 〈나도 때론 포르노그라피의 주인공이고 싶다〉보다 안 팔렸다고 해서 나쁜 책인가요?",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오히려 우리는 잘 팔려 많은 사람에게 읽혔여야 함에도 불구하고, 팔리지도 않고 독자들의 기억에서 사라져간 '쓸쓸했던 책'들에 주목합니다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정말 좋은 책들은 스스로 좋은 책이라 이야기하지 않습니다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "많은 독자들에게 소리 소문 없이 그윽한 향을 퍼뜨릴 뿐이지요. 〈그때 그 책〉은 오래되고도 여전히 좋은 책들이 가지는 그윽하고도 은은한 지혜의 향을 독자에게 전하고자 합니다. 〈그때 그 책〉은 이 나라에서 출판에 관계되는 일을 하시는 모든 분들과 함께 엮어갑니다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "잘 안 팔렸지만, 아끼는 좋은 책들이 〈그때 그 책〉에서 다시 독자 여러분들을 찾아갈 것입니다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "독자 여러분들의 마음 속 깊은 곳에 남아 있는 책 한 권의 감동을 더 많은 독자와 함께 나누도록 하겠습니다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "좋은 책은 '이것'을 바라지 않고 독자들의 마음속에 깊이 남아 있을 뿐, 나서지 않지요",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

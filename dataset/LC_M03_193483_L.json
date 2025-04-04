@@ -1,0 +1,240 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193483",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[연극 리뷰] '맨발의 청춘'",
+    "newsSubTitle": "'서민극' 흥 못살린 중반의 지루함",
+    "newsContent": "▶ 연희단거리패의 \\\"맨발의 청춘\\\"은 독립군 출신 할아버지와 손녀 사이의 훈훈한 가족애를 다루고 있다.\n말에도 감촉이 있다.\n손만 대도 쫘~악 미끄러질 듯이 매끄러운 건 서울말. 손바닥이 까질 만큼 투박하다면 경상도 사투리다.\n부산에서 올라온 연희단거리패의 작품 '맨발의 청춘'(박현철 작, 이윤주 연출)도 그 연장선에 있다.\n그래서 거칠다.\n거친 정서를 무대의 힘으로 돌려세우느냐가 승부수였다.\n막이 올랐다.\n배우들이 직접 라면 박스를 뜯어다 지은 산동네 풍경이 따뜻했다.\n거기서 주민들과 철거반의 싸움이 벌어졌다.\n냄비를 머리에 쓴 할아버지와 국자를 집어든 아줌마, 그리고 철거반원 사이의 싸움은 오히려 시(詩)적이었다.\n시위 구호는 감칠맛이 있었고, 몸싸움은 배꼽을 잡게 했다.\n객석의 눈길을 붙들어 맨 초반 10분. 문제는 그 다음이었다.\n독립군 출신 할아버지와 손녀 사이의 가족애가 이야기의 중심축이다.\n그러나 긴장감은 없었다.\n극은 메마르고 지루했다.\n관객은 오아시스 없는 사막을 마냥 걸어야 했다.\n간간이 나오는 노래와 춤은 극의 집중력만 흩트려 놓았다.\n또 사족에 불과한 대사까지 남발하며 스스로 가벼워졌다.\n연희단거리패가 내건 '대중극' 혹은 '서민극'이란 깃발도 방패가 되진 못했다.\n대중 속으로 파고들려면 더욱 치밀하고, 더욱 정교한 작업이 이뤄져야 한다. '대중적=허술함에 대한 관용'은 아니기 때문이다.\n할아버지가 숨을 거두는 마지막 장면은 가슴 뭉클했다.\n긴장감도 있었다.\n그러나 버스가 떠난 뒤였다.\n마지막 10분의 집중력이 지난 70분의 산만함을 대신하진 못했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 24,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "▶ 연희단거리패의 \\\"맨발의 청춘\\\"은 독립군 출신 할아버지와 손녀 사이의 훈훈한 가족애를 다루고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "말에도 감촉이 있다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "손만 대도 쫘~악 미끄러질 듯이 매끄러운 건 서울말. 손바닥이 까질 만큼 투박하다면 경상도 사투리다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "부산에서 올라온 연희단거리패의 작품 '맨발의 청춘'(박현철 작, 이윤주 연출)도 그 연장선에 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그래서 거칠다.",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "거친 정서를 무대의 힘으로 돌려세우느냐가 승부수였다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "막이 올랐다.",
+        "sentenceSize": 7
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "배우들이 직접 라면 박스를 뜯어다 지은 산동네 풍경이 따뜻했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "거기서 주민들과 철거반의 싸움이 벌어졌다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "냄비를 머리에 쓴 할아버지와 국자를 집어든 아줌마, 그리고 철거반원 사이의 싸움은 오히려 시(詩)적이었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "시위 구호는 감칠맛이 있었고, 몸싸움은 배꼽을 잡게 했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "객석의 눈길을 붙들어 맨 초반 10분. 문제는 그 다음이었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "독립군 출신 할아버지와 손녀 사이의 가족애가 이야기의 중심축이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그러나 긴장감은 없었다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "극은 메마르고 지루했다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "관객은 오아시스 없는 사막을 마냥 걸어야 했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "간간이 나오는 노래와 춤은 극의 집중력만 흩트려 놓았다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "또 사족에 불과한 대사까지 남발하며 스스로 가벼워졌다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "연희단거리패가 내건 '대중극' 혹은 '서민극'이란 깃발도 방패가 되진 못했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "대중 속으로 파고들려면 더욱 치밀하고, 더욱 정교한 작업이 이뤄져야 한다. '대중적=허술함에 대한 관용'은 아니기 때문이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "할아버지가 숨을 거두는 마지막 장면은 가슴 뭉클했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "긴장감도 있었다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "그러나 버스가 떠난 뒤였다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "마지막 10분의 집중력이 지난 70분의 산만함을 대신하진 못했다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "독립군 할아버지와 손녀 사이 훈훈 그 잡채 이야기 '맨발의 청춘'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

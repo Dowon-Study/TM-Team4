@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193498",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "\\\"아시아 미술, 목소리를 높이자\\\"",
+    "newsSubTitle": "10일부터 '인비트윈 국제 대안공간 토론회'",
+    "newsContent": "▶ 김기라(한국)씨의 작품 ‘아름답게 하다’. '세계화와 국제 비엔날레 시스템의 정착'으로 요약되는 오늘의 미술계에서 아시아 현대미술이 제 목소리를 낼 수 있는 방안은 무엇일까.\n오는 10일부터 12일까지 서울의 SBS 목동신사옥 SBS홀에서 열리는 '2004 인비트윈(in-between) 국제 대안공간 컨퍼런스'가 그 답을 찾는다.\n유럽연합.미국과 함께 세계를 움직이는 한 축이 된 아시아가 이제 세계 문화에 어떤 구실과 기능을 해야 할까를 미술 측면에서 적극적이고 공격적으로 의논하는 자리다.\n모임에 참가하는 이들은 아시아 12개 나라에서 오는 대안공간 운영자와 독립 큐레이터(학예연구원), 전시기획자, 미술 전문지 편집장 및 미술전문기자 등 31명이다.\n서구미술을 좇아온 기존 제도권 미술공간의 시각을 벗어나 대안공간이 연계해 아시아로부터 뻗어가는 새로운 문화 가치를 창조하자는 뜻을 확인한다.\n서진석(대안공간 루프 전시감독)씨와 윤재갑(독립 큐레이터)씨 등 한국이 중심이 돼 토론회가 꾸려져 아시아 미술권에서 우리 위치와 목소리를 세우는 계기로도 관심을 모으고 있다.\n행사와 함께 열리는 기획전 '무브 온 아시아(Move on Asia)'는 아시아 11개 나라 큐레이터 18명이 뽑은 47명의 아시아 작가전이다.\n애니메이션과 비디오 작업 등 아시아의 새 모습을 보여주는 실험적 작업들이 떠오르는 '아시아성'을 보여준다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "▶ 김기라(한국)씨의 작품 ‘아름답게 하다’. '세계화와 국제 비엔날레 시스템의 정착'으로 요약되는 오늘의 미술계에서 아시아 현대미술이 제 목소리를 낼 수 있는 방안은 무엇일까.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 10일부터 12일까지 서울의 SBS 목동신사옥 SBS홀에서 열리는 '2004 인비트윈(in-between) 국제 대안공간 컨퍼런스'가 그 답을 찾는다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "유럽연합.미국과 함께 세계를 움직이는 한 축이 된 아시아가 이제 세계 문화에 어떤 구실과 기능을 해야 할까를 미술 측면에서 적극적이고 공격적으로 의논하는 자리다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "모임에 참가하는 이들은 아시아 12개 나라에서 오는 대안공간 운영자와 독립 큐레이터(학예연구원), 전시기획자, 미술 전문지 편집장 및 미술전문기자 등 31명이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서구미술을 좇아온 기존 제도권 미술공간의 시각을 벗어나 대안공간이 연계해 아시아로부터 뻗어가는 새로운 문화 가치를 창조하자는 뜻을 확인한다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서진석(대안공간 루프 전시감독)씨와 윤재갑(독립 큐레이터)씨 등 한국이 중심이 돼 토론회가 꾸려져 아시아 미술권에서 우리 위치와 목소리를 세우는 계기로도 관심을 모으고 있다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "행사와 함께 열리는 기획전 '무브 온 아시아(Move on Asia)'는 아시아 11개 나라 큐레이터 18명이 뽑은 47명의 아시아 작가전이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "애니메이션과 비디오 작업 등 아시아의 새 모습을 보여주는 실험적 작업들이 떠오르는 '아시아성'을 보여준다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아시아 미술, 세계 문화에 어떤 구실과 기능해야 할지 '찐텐' 올려 방안을 찾아보자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

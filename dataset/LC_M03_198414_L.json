@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198414",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[FOCUS] '이슬람법 사상'",
+    "newsSubTitle": "",
+    "newsContent": "얼핏 보면 매우 전문적인 주제를 다룬 것으로 보이지만, 실은 그 반대의 책이『이슬람법 사상』이다.\n이슬람의 특수성 때문이다.\n정교(政敎) 일치의 아랍에서 법이란 곧 신학의 토대와 일치하고, 그 때문에 샤리아(이슬람 법) 에 대한 정보 없이는 이슬람을 이해할 수 없다.\n저자는 이슬람 신학 자체가 곧 이슬람 사회라고 밝힌다.\n따라서 아랍권에 대한 정보 부족과 무지 속에서 나온 상식은 이 책과 인연이 없다. '간음하면 돌로 쳐죽인다' '도둑질을 하면 손목을 자른다' 는 식의 서구를 통해 들어온 단편적 정보는 무시될 수밖에 없다.\n단 서술은 적지않이 딱딱한 편이다.\n샤리아 규범의 종류, 법원의 등급, 법 판단의 도출방식 등으로 구성돼 있다.\n명지대 교수인 저자는 카타르 국립대 등에서 학사와 박사과정 전부를 밟은 국내 첫 연구자다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "얼핏 보면 매우 전문적인 주제를 다룬 것으로 보이지만, 실은 그 반대의 책이『이슬람법 사상』이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이슬람의 특수성 때문이다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정교(政敎) 일치의 아랍에서 법이란 곧 신학의 토대와 일치하고, 그 때문에 샤리아(이슬람 법) 에 대한 정보 없이는 이슬람을 이해할 수 없다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "저자는 이슬람 신학 자체가 곧 이슬람 사회라고 밝힌다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "따라서 아랍권에 대한 정보 부족과 무지 속에서 나온 상식은 이 책과 인연이 없다. '간음하면 돌로 쳐죽인다' '도둑질을 하면 손목을 자른다' 는 식의 서구를 통해 들어온 단편적 정보는 무시될 수밖에 없다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "단 서술은 적지않이 딱딱한 편이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "샤리아 규범의 종류, 법원의 등급, 법 판단의 도출방식 등으로 구성돼 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "명지대 교수인 저자는 카타르 국립대 등에서 학사와 박사과정 전부를 밟은 국내 첫 연구자다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"간음하면 돌로 쳐 죽인다는 게 사실인가요?\" 국내 최초 이슬람법 연구자의 '이 책' 주목",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

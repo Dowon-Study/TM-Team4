@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195929",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "비만을 막아주는 지방, '갈색 지방' 뜻 살펴보니",
+    "newsSubTitle": "",
+    "newsContent": "건강에 유익한 기능을 하는 ‘갈색 지방’이 화제다.\n의학 전문가에 따르면 백색 지방은 에너지를 축적해 비만을 유발하고, 갈색 지방은 에너지를 연소시켜 비만을 예방한다는 사실이 최근 밝혀졌다.\n사람 몸의 지방은 색깔과 구성 성분의 비율에 따라 ‘백색 지방’ ‘갈색 지방’ ‘베이지색 지방’으로 나뉜다.\n흔히 지방으로 알려져 있는 것은 것은 백색 지방이다.\n백색 지방은 지나치게 많으면 비만·당뇨병 등을 유발한다.\n척추, 가슴 위 쇄골 부근에만 있는 갈색 지방은 백색 지방을 에너지로 연소시켜 비만을 막아준다.\n그러나 건강에 이로운 갈색 지방은 일부 성인만 갖고 있는 것으로 알려졌다.\n한편 베이지색 지방은 백색 지방과 함께 섞여 있다.\n평소에는 백색 지방과 같은 기능을 하지만, 운동을 하거나 매운 음식을 먹거나 혹은 서늘한 곳에 오래 머물면 갈색 지방처럼 기능한다.\n온라인 중앙일보 ‘갈색 지방 뜻’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "건강에 유익한 기능을 하는 ‘갈색 지방’이 화제다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "의학 전문가에 따르면 백색 지방은 에너지를 축적해 비만을 유발하고, 갈색 지방은 에너지를 연소시켜 비만을 예방한다는 사실이 최근 밝혀졌다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사람 몸의 지방은 색깔과 구성 성분의 비율에 따라 ‘백색 지방’ ‘갈색 지방’ ‘베이지색 지방’으로 나뉜다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "흔히 지방으로 알려져 있는 것은 것은 백색 지방이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "백색 지방은 지나치게 많으면 비만·당뇨병 등을 유발한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "척추, 가슴 위 쇄골 부근에만 있는 갈색 지방은 백색 지방을 에너지로 연소시켜 비만을 막아준다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러나 건강에 이로운 갈색 지방은 일부 성인만 갖고 있는 것으로 알려졌다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 베이지색 지방은 백색 지방과 함께 섞여 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "평소에는 백색 지방과 같은 기능을 하지만, 운동을 하거나 매운 음식을 먹거나 혹은 서늘한 곳에 오래 머물면 갈색 지방처럼 기능한다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 ‘갈색 지방 뜻’ [사진 중앙포토]",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "갈색 지방이 비만을 예방하는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

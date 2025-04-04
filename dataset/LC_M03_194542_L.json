@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194542",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK책갈피] 조선시대 주름잡은 여섯 선비의 공부 비법",
+    "newsSubTitle": "",
+    "newsContent": "공부의 발견 정순우 지음, 현암사, 424쪽, 1만5000원 \\\"전국이 입시의 고통으로 깊은 신음소리를 낸다. 과연 우리는 왜 공부하고, 무엇을 교육할 것인가에 대한 최소한의 답이라도 준비하고 있는 것일까?\\\" 지은이는 철학자 야스퍼스의 말을 인용해 \\\"기술을 가진 네안데르탈인을 양산하는 것이 오늘날의 한국 교육\\\"이라고 안타까워한다.\n그러면서 대안을 '공부의 황금시대'라 스스로 이름지은 조선시대 선비의 공부법에서 찾는다.\n다소 고리타분하게 들리지만, 원래 공부란 \\\"참된 나를 찾아가는 긴 도정\\\"이었다.\n자기성찰, 나아가 사회공동체를 유익하게 만드는 길을 찾는 게 공부의 가장 큰 목표였다는 얘기다.\n이 책은 절반 가량을 조선시대 지성사를 풍미했던 선비 여섯 명의 공부법을 살피는 데 할애했다.\n화담 서경덕, 퇴계 이황, 남명 조식, 교산 허균, 순암 안정복, 다산 정약용이 그들이다.\n서경덕은 정신의 초탈과 자유를 위해 분투했고, 퇴계는 하루 24시간을 잘게 쪼개 매 순간을 공부하며 자연 질서와 인간 질서와의 조화를 고민했다.\n조식은 공부의 궁극이 역사의식과 실천에 있음을 한 순간도 잊지 않으려 애썼으며, 서자로 태어나 세상과 불화했던 허균은 그럼에도 불구하고 인간을 감성과 미학적 상상력의 대상으로 바라보려 했다.\n여섯 선비의 공통점은 학문이 일상에 단단히 발을 딛고 서 있어야 한다는 신념을 가졌다는 것. 안정복의 발언이 일품이다.\n\\\"공부의 공(工)자는 여공(女工)의 공 자와 같고, 부(夫)는 농부(農夫)의 부 자와 같다. 사람이 학문을 하되, 여공이 부지런히 길쌈을 하고 농부가 농사에 힘쓰듯 해야 한다는 뜻이다.\\\" 술술 읽어내려가기 버거운 내용이 많다.\n이 또한 공부의 길이 쉽지 않음을 곱씹게 해준다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "공부의 발견 정순우 지음, 현암사, 424쪽, 1만5000원 \\\"전국이 입시의 고통으로 깊은 신음소리를 낸다. 과연 우리는 왜 공부하고, 무엇을 교육할 것인가에 대한 최소한의 답이라도 준비하고 있는 것일까?\\\" 지은이는 철학자 야스퍼스의 말을 인용해 \\\"기술을 가진 네안데르탈인을 양산하는 것이 오늘날의 한국 교육\\\"이라고 안타까워한다.",
+        "sentenceSize": 188
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그러면서 대안을 '공부의 황금시대'라 스스로 이름지은 조선시대 선비의 공부법에서 찾는다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "다소 고리타분하게 들리지만, 원래 공부란 \\\"참된 나를 찾아가는 긴 도정\\\"이었다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "자기성찰, 나아가 사회공동체를 유익하게 만드는 길을 찾는 게 공부의 가장 큰 목표였다는 얘기다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 책은 절반 가량을 조선시대 지성사를 풍미했던 선비 여섯 명의 공부법을 살피는 데 할애했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "화담 서경덕, 퇴계 이황, 남명 조식, 교산 허균, 순암 안정복, 다산 정약용이 그들이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "서경덕은 정신의 초탈과 자유를 위해 분투했고, 퇴계는 하루 24시간을 잘게 쪼개 매 순간을 공부하며 자연 질서와 인간 질서와의 조화를 고민했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "조식은 공부의 궁극이 역사의식과 실천에 있음을 한 순간도 잊지 않으려 애썼으며, 서자로 태어나 세상과 불화했던 허균은 그럼에도 불구하고 인간을 감성과 미학적 상상력의 대상으로 바라보려 했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "여섯 선비의 공통점은 학문이 일상에 단단히 발을 딛고 서 있어야 한다는 신념을 가졌다는 것. 안정복의 발언이 일품이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "\\\"공부의 공(工)자는 여공(女工)의 공 자와 같고, 부(夫)는 농부(農夫)의 부 자와 같다. 사람이 학문을 하되, 여공이 부지런히 길쌈을 하고 농부가 농사에 힘쓰듯 해야 한다는 뜻이다.\\\" 술술 읽어내려가기 버거운 내용이 많다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 또한 공부의 길이 쉽지 않음을 곱씹게 해준다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "조선시대 선비 통해 알아보는 공부의 의미는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

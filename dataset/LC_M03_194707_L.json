@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194707",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "티베트 불교 미술의 정수 맛보자",
+    "newsSubTitle": "화정박물관 개관 전시회 … 불화 '탕카' 한자리에",
+    "newsContent": "\\\"티베트의 불화 '탕카(Thangka)'는 세계에 내놔도 꿀리지 않는다.\\\" 한혜주 화정박물관 관장은 자긍심 넘치는 짧은 한마디로 소장품 자랑을 끝냈다.\n서울 평창동에 새로 문을 연 화정박물관은 티베트 미술과 아시아 미술 전문이다.\n특히 티베트 불교미술의 정수인 '탕카'는 2003년 영국 브리티시뮤지엄에서 초청 전시회를 열었을 만큼 높은 수준을 뽐낸다.\n기업가 한광호씨가 개인 컬렉션으로 모아온 '탕카'가 바탕이 된 화정박물관이 개관기념전으로 '아시아를 조응하는 눈'을 열고 있다.\n1층 전시실에는 '티베트의 예술'이 화려한 모습을 드러냈다.\n14~15세기에 제작된 '바즈라훔카라 만다라'는 보존 상태가 좋고 도상도 정확하게 묘사돼 명품으로 꼽힌다. '보생여래'(사진)는 화면 중앙에 앉은 보생여래를 중심으로 천불(千佛)이 드러나 있다.\n불심으로 새긴 도상이 수백 년 세월을 뛰어넘어 빛난다. 2층 전시실은 한국, 중국, 일본 세 나라의 미술을 나란히 비교해 전시하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"티베트의 불화 '탕카(Thangka)'는 세계에 내놔도 꿀리지 않는다.\\\" 한혜주 화정박물관 관장은 자긍심 넘치는 짧은 한마디로 소장품 자랑을 끝냈다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울 평창동에 새로 문을 연 화정박물관은 티베트 미술과 아시아 미술 전문이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 티베트 불교미술의 정수인 '탕카'는 2003년 영국 브리티시뮤지엄에서 초청 전시회를 열었을 만큼 높은 수준을 뽐낸다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "기업가 한광호씨가 개인 컬렉션으로 모아온 '탕카'가 바탕이 된 화정박물관이 개관기념전으로 '아시아를 조응하는 눈'을 열고 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "1층 전시실에는 '티베트의 예술'이 화려한 모습을 드러냈다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "14~15세기에 제작된 '바즈라훔카라 만다라'는 보존 상태가 좋고 도상도 정확하게 묘사돼 명품으로 꼽힌다. '보생여래'(사진)는 화면 중앙에 앉은 보생여래를 중심으로 천불(千佛)이 드러나 있다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "불심으로 새긴 도상이 수백 년 세월을 뛰어넘어 빛난다. 2층 전시실은 한국, 중국, 일본 세 나라의 미술을 나란히 비교해 전시하고 있다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "새로 문 연 화정박물관, 티베트 미술과 아시아 미술 전문성 드러난 소장품은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

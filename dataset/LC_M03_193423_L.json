@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193423",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK깊이읽기] 맥주·와인·차 … 시대의 갈증을 풀어주다",
+    "newsSubTitle": "",
+    "newsContent": "역사 한 잔 하실까요?\n톰 스탠디지 지음·차재호 옮김 세종서적, 32쪽, 1만3000원 기원전 3000년 중동 지역에서 \\\"맥주 홀을 만든다\\\"는 말은 \\\"풍요로운 시간을 보낸다\\\"는 이집트식 표현이었다.\n그리스인들은 와인을 물로 희석해 마셨다. '순수한 와인'을 벌컥벌컥 마셔대는 것은 야만적 행동으로 경멸 당했다.\n이렇듯 고대 사회에서 맥주와 와인은 부의 증거이자 문명의 상징이었다. '이코노미스트' 과학기술 편집자인 저자는 \\\"어떤 시대에 어떤 음료가 각광받았느냐에 따라 인류 역사를 논할 수 있다\\\"고 말한다.\n맥주.와인.증류주.커피.차.코카콜라. 저자가 특정 시기의 '지배자'로 설정한 음료들이다.\n저자는 \\\"맥주야말로 인류가 근대로 발 내딛도록 한 음료\\\"라 주장한다.\n맥주는 인류 최초의 대규모 농경 정착지였던 근동의 '비옥한 초승달 지대'에서 처음 '발견'됐다.\n물 오염 사태가 자주 일어나는 대도시에서 맥주는 상대적으로 믿을만한 음료였으며 영양도 풍부했다.\n와인은 그것이 일반화된 로마 시대 때도 여전히 계급 차별의 상징이었다.\n로마 시민들은 훌륭한 와인을 구매하고 그 이름을 암기하는 데 시간을 소모함으로써 부를 자랑했다.\n브랜디.럼.위스키 등 증류주는 탐험의 시대에 선원들의 체력을 강화시키는 만병통치약으로 통했다.\n영국인들의 차 사랑은 18세기 대영제국의 해외 정책에 큰 영향을 끼쳤다.\n1차대전은 코카콜라가 미국의 '국민음료'를 넘어 '세계의 음료'가 되는 데 결정적 기여를 했다.\n널리 알려진 것과 달리, 코카콜라는 가짜 치료제를 만드는 데 이골이 난 전문 제조업자들이 수개월 공들인 결과라는 사실도 재미있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "역사 한 잔 하실까요?",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "톰 스탠디지 지음·차재호 옮김 세종서적, 32쪽, 1만3000원 기원전 3000년 중동 지역에서 \\\"맥주 홀을 만든다\\\"는 말은 \\\"풍요로운 시간을 보낸다\\\"는 이집트식 표현이었다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그리스인들은 와인을 물로 희석해 마셨다. '순수한 와인'을 벌컥벌컥 마셔대는 것은 야만적 행동으로 경멸 당했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이렇듯 고대 사회에서 맥주와 와인은 부의 증거이자 문명의 상징이었다. '이코노미스트' 과학기술 편집자인 저자는 \\\"어떤 시대에 어떤 음료가 각광받았느냐에 따라 인류 역사를 논할 수 있다\\\"고 말한다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "맥주.와인.증류주.커피.차.코카콜라. 저자가 특정 시기의 '지배자'로 설정한 음료들이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "저자는 \\\"맥주야말로 인류가 근대로 발 내딛도록 한 음료\\\"라 주장한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "맥주는 인류 최초의 대규모 농경 정착지였던 근동의 '비옥한 초승달 지대'에서 처음 '발견'됐다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "물 오염 사태가 자주 일어나는 대도시에서 맥주는 상대적으로 믿을만한 음료였으며 영양도 풍부했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "와인은 그것이 일반화된 로마 시대 때도 여전히 계급 차별의 상징이었다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "로마 시민들은 훌륭한 와인을 구매하고 그 이름을 암기하는 데 시간을 소모함으로써 부를 자랑했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "브랜디.럼.위스키 등 증류주는 탐험의 시대에 선원들의 체력을 강화시키는 만병통치약으로 통했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "영국인들의 차 사랑은 18세기 대영제국의 해외 정책에 큰 영향을 끼쳤다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "1차대전은 코카콜라가 미국의 '국민음료'를 넘어 '세계의 음료'가 되는 데 결정적 기여를 했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "널리 알려진 것과 달리, 코카콜라는 가짜 치료제를 만드는 데 이골이 난 전문 제조업자들이 수개월 공들인 결과라는 사실도 재미있다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'가심비'로 사로잡다, 시대적으로 각광받은 음료는 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

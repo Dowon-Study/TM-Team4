@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194677",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "안익태 선생 유품공개 국립중앙박물관",
+    "newsSubTitle": "",
+    "newsContent": "사진=조용철 기자 '애국가'를 작곡한 세계적 음악가인 안익태(1906~1965) 선생의 유품 10여 점이 3일 서울 용산 국립중앙박물관에서 공개됐다.\n안익태기념재단(이사장 김형진)이 지난달 중순 안 선생의 탄생 100주년을 기념해 국립중앙박물관에서 기증한 것들이다.\n재단 측은 스페인에 있는 선생의 가족으로부터 유품을 건네받았다.\n이날 공개된 유물은 안 선생이 사용했던 지휘봉, 그의 일생을 담은 사진첩, 그리고 초상화.대통령 훈장 등이다.\n또 선생이 창단하고 상임지휘자로 있었던 스페인 마요르카 교향악단의 연주회 안내장도 포함됐다.\n기증품은 총 145건 550점이다.\n현재 재단 측이 연구 중인 '애국가와 한국환상곡' 악보 원본은 이번에 빠졌다.\n국립중앙박물관 신명희 학예사는 \\\"재단 측이 연구가 끝나는대로 악보를 기증할 뜻을 밝혀왔다\\\"며 \\\"이후 구체적인 전시 일정을 잡을 예정\\\"이라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "사진=조용철 기자 '애국가'를 작곡한 세계적 음악가인 안익태(1906~1965) 선생의 유품 10여 점이 3일 서울 용산 국립중앙박물관에서 공개됐다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "안익태기념재단(이사장 김형진)이 지난달 중순 안 선생의 탄생 100주년을 기념해 국립중앙박물관에서 기증한 것들이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "재단 측은 스페인에 있는 선생의 가족으로부터 유품을 건네받았다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 공개된 유물은 안 선생이 사용했던 지휘봉, 그의 일생을 담은 사진첩, 그리고 초상화.대통령 훈장 등이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 선생이 창단하고 상임지휘자로 있었던 스페인 마요르카 교향악단의 연주회 안내장도 포함됐다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "기증품은 총 145건 550점이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "현재 재단 측이 연구 중인 '애국가와 한국환상곡' 악보 원본은 이번에 빠졌다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "국립중앙박물관 신명희 학예사는 \\\"재단 측이 연구가 끝나는대로 악보를 기증할 뜻을 밝혀왔다\\\"며 \\\"이후 구체적인 전시 일정을 잡을 예정\\\"이라고 말했다.",
+        "sentenceSize": 86
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "안익태기념재단, 안 선생 탄생 100주년 기념하여 시민에게 건넨 선물은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

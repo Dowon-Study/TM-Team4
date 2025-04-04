@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196580",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[틴틴/키즈] '세상을 담은 그림 지도'",
+    "newsSubTitle": "지도는 어떻게 생겨났을까",
+    "newsContent": "지도는 어떻게 생겨난 것일까.\n옛 사람들은 지난해 왔던 사슴떼가 또 와서 그 사슴떼를 쫓아 사냥을 떠났는데 그 길이 전에 왔던 길인지 아닌지 헷갈렸을 것이다.\n돌멩이도 놓아보고, 나뭇가지도 똑 꺾어두었지만 그런 표시는 금세 사라져 버렸다.\n지리학을 전공한 동화 작가 김향금씨는 지도가 생겨난 이유를 이렇게 풀이한다.\n이동 거리가 길어진 사람들에게 산과 들과 숲과 길을 그린 그림이 필요했을 것이라는 설명이다.\n메소포타미아의 점토판 지도 같은 자료도 보여준다.\n옛 사람들은 발걸음 수로 거리를 재고, 북극성이 반짝거리는 쪽을 북쪽으로 삼고 방위를 정해 지도를 그렸다는 설명도 덧붙여 준다.\n그렇게 제작된 지도는 상인들이 장사를 할 때나 군인들이 전쟁을 벌일 때도 유용하게 쓰였다는 것이다.\n우리나라에서 가장 오래된 지도인 '팔도총도', 김정호의 '대동여지도' 등 지도의 역사도 귀띔해 준다.\n얇은 그림책이지만 속은 꽉 차 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지도는 어떻게 생겨난 것일까.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "옛 사람들은 지난해 왔던 사슴떼가 또 와서 그 사슴떼를 쫓아 사냥을 떠났는데 그 길이 전에 왔던 길인지 아닌지 헷갈렸을 것이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "돌멩이도 놓아보고, 나뭇가지도 똑 꺾어두었지만 그런 표시는 금세 사라져 버렸다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지리학을 전공한 동화 작가 김향금씨는 지도가 생겨난 이유를 이렇게 풀이한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이동 거리가 길어진 사람들에게 산과 들과 숲과 길을 그린 그림이 필요했을 것이라는 설명이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "메소포타미아의 점토판 지도 같은 자료도 보여준다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "옛 사람들은 발걸음 수로 거리를 재고, 북극성이 반짝거리는 쪽을 북쪽으로 삼고 방위를 정해 지도를 그렸다는 설명도 덧붙여 준다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그렇게 제작된 지도는 상인들이 장사를 할 때나 군인들이 전쟁을 벌일 때도 유용하게 쓰였다는 것이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "우리나라에서 가장 오래된 지도인 '팔도총도', 김정호의 '대동여지도' 등 지도의 역사도 귀띔해 준다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "얇은 그림책이지만 속은 꽉 차 있다.",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "지도가 생겨난 이유를 알 수 있는 그림책... 이해가 단번에!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198657",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "‘미꽃체 손글씨 노트’, 출간과 동시에 베스트셀러 1위 등극 화제",
+    "newsSubTitle": "",
+    "newsContent": "시원북스에서 출간한 ‘미꽃체 손글씨 노트(손글씨를 인쇄된 폰트처럼)’가 출간과 동시에 분야 베스트셀러 1위에 올랐다고 밝혔다. ‘미꽃체 손글씨 노트’는 포브스에서 선정한 ‘가장 인쇄체에 가까운 글씨 유튜버’인 최현미(미꽃)의 손글씨 연습 책이다.\n온라인 클래스에서 약 4만 명의 추천을 받은 저자가 직접 만든 손글씨 미꽃체를 쓰는 법을 정리해 연습 노트와 함께 엮었다.\n지난 6월 7일 정식 출간과 동시에 온라인 서점 예스24(YES24)의 5월 5주차, 6월 1주차 연속 국내도서 건강∙취미 영역 취미기타 분야 베스트셀러 1위를 차지했다.\n손글씨 기초부터 고급 과정까지 워크북으로 직접 글씨를 따라 쓰면서 악필을 교정하고 자신만의 손글씨를 만들 수 있는 실용서로, 악필로 인해 간단한 메모를 작성할 때에도 자신감이 부족하고 스트레스를 받는 이들을 위한 도서다.\n책은 예스24, 교보문고, 알라딘, 인터파크 도서, 영풍문고, 반디앤루니스, 도서 11번가 등 오프라인 서점과 온라인 서점에서 만날 수 있다.\n시원북스, 160쪽. 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "시원북스에서 출간한 ‘미꽃체 손글씨 노트(손글씨를 인쇄된 폰트처럼)’가 출간과 동시에 분야 베스트셀러 1위에 올랐다고 밝혔다. ‘미꽃체 손글씨 노트’는 포브스에서 선정한 ‘가장 인쇄체에 가까운 글씨 유튜버’인 최현미(미꽃)의 손글씨 연습 책이다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "온라인 클래스에서 약 4만 명의 추천을 받은 저자가 직접 만든 손글씨 미꽃체를 쓰는 법을 정리해 연습 노트와 함께 엮었다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 6월 7일 정식 출간과 동시에 온라인 서점 예스24(YES24)의 5월 5주차, 6월 1주차 연속 국내도서 건강∙취미 영역 취미기타 분야 베스트셀러 1위를 차지했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "손글씨 기초부터 고급 과정까지 워크북으로 직접 글씨를 따라 쓰면서 악필을 교정하고 자신만의 손글씨를 만들 수 있는 실용서로, 악필로 인해 간단한 메모를 작성할 때에도 자신감이 부족하고 스트레스를 받는 이들을 위한 도서다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "책은 예스24, 교보문고, 알라딘, 인터파크 도서, 영풍문고, 반디앤루니스, 도서 11번가 등 오프라인 서점과 온라인 서점에서 만날 수 있다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "시원북스, 160쪽. 온라인 중앙일보",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "포브스 선정 \"가장 '이것'에 가까운 글씨\" 최현미... 손글씨 연습 책 출간",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

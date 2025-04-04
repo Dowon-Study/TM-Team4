@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193163",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "안면홍조 예방법은? 원인은 \\\"모세혈관의 확장\\\"",
+    "newsSubTitle": "",
+    "newsContent": "겨울철을 맞아 안면홍조증 환자가 증가하고 있다.\n안면홍조증은 신경계통이나 혈관의 수축 이완 작용의 이상으로 모세혈관이 늘어나면서 얼굴이 빨개지는 피부 질환이다.\n안면홍조증 환자는 갑자기 빨개지는 얼굴 때문에 대인기피증이나 우울증에 시달리기도 한다.\n안면홍조증으로 피부과를 찾은 환자는 봄철에는 183명에 불과했으나 추운 겨울에는 285명으로 늘어났다.\n피부과 전문의는 “우리 피부에 있는 모세혈관은 온도가 내려가면 수축되고 올라가면 확장되는 경향이 있다”며 “겨울철에 추운 외부 환경에 있다가 따뜻한 실내로 들어오게 되면 우리 피부에 있는 모세혈관이 확장되면서 혈류가 많아져서 붉어지게 된다”고 전했다.\n안면홍조증을 예방하기 위해서는 외출시에 자외선 차단제를 바르고 자극적인 세안과 무리한 각질제거를 피하는 것이 좋으며, 뜨겁거나 카페인이 많이 든 음식을 줄이고, 치즈나 술 역시 줄여야 한다.\n특히 실내 외 온도차이가 심한 사우나나 찜질방은 피하는 것이 좋다.\n온라인 중앙일보 ‘안면홍조 예방법’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "겨울철을 맞아 안면홍조증 환자가 증가하고 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "안면홍조증은 신경계통이나 혈관의 수축 이완 작용의 이상으로 모세혈관이 늘어나면서 얼굴이 빨개지는 피부 질환이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "안면홍조증 환자는 갑자기 빨개지는 얼굴 때문에 대인기피증이나 우울증에 시달리기도 한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "안면홍조증으로 피부과를 찾은 환자는 봄철에는 183명에 불과했으나 추운 겨울에는 285명으로 늘어났다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "피부과 전문의는 “우리 피부에 있는 모세혈관은 온도가 내려가면 수축되고 올라가면 확장되는 경향이 있다”며 “겨울철에 추운 외부 환경에 있다가 따뜻한 실내로 들어오게 되면 우리 피부에 있는 모세혈관이 확장되면서 혈류가 많아져서 붉어지게 된다”고 전했다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "안면홍조증을 예방하기 위해서는 외출시에 자외선 차단제를 바르고 자극적인 세안과 무리한 각질제거를 피하는 것이 좋으며, 뜨겁거나 카페인이 많이 든 음식을 줄이고, 치즈나 술 역시 줄여야 한다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 실내 외 온도차이가 심한 사우나나 찜질방은 피하는 것이 좋다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 ‘안면홍조 예방법’ [사진 중앙포토]",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "겨울철 맞아 환자 급증... 치료 위해서는 카페인, 치즈, 술, 사우나, 찜질방 자제하는 것이 좋아",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

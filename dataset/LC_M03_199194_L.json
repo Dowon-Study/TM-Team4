@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199194",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "유니베라 알로에, 13년간 세계일류상품 자리 지켜",
+    "newsSubTitle": "",
+    "newsContent": "유니베라가 알로에 부문에서 산업통상자원부가 주최하고 KOTRA가 주관하는 세계일류상품에 선정됐다.\n세계일류상품은 수출규모가 연간 500만 달러 이상이며 세계 시장점유율 5위 이내 및 5% 이상인 상품으로 선정된다.\n유니베라 알로에는 2003년 첫 세계일류상품으로 선정된 이후 올해까지 13년 연속 일류상품으로 뽑혔다.\n▲ 유니베라의 멕시코 농장에서 직원들이 알로에를 재배하고 있다.\n알로에는 '서양의 인삼'이라 불리며 수천 년 동안 동서고금을 막론하고 사랑 받아온 천연 약용식물이다.\n일반적으로 알로에는 피부와 장 건강에 도움을 주는 것으로 알려져 있다.\n면역력도 높인다.\n알로에 속 ‘면역 다당체’가 인체의 면역력 증강에 핵심적인 역할을 한다고 밝혀졌다.\n해외에서는 알로에가 건강기능식품, 화장품 뿐만 아니라 산업소재까지 다방면으로 활용되고 있다.\n유니베라는 1988년부터 해외 알로에 농장을 개척해왔다.\n현재 미국 텍사스, 멕시코 탐피코, 중국 하이난 등에 대규모 알로에 농장을 운영하고 있다.\n세계 40여 개국에 알로에 원료를 공급하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유니베라가 알로에 부문에서 산업통상자원부가 주최하고 KOTRA가 주관하는 세계일류상품에 선정됐다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "세계일류상품은 수출규모가 연간 500만 달러 이상이며 세계 시장점유율 5위 이내 및 5% 이상인 상품으로 선정된다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "유니베라 알로에는 2003년 첫 세계일류상품으로 선정된 이후 올해까지 13년 연속 일류상품으로 뽑혔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "▲ 유니베라의 멕시코 농장에서 직원들이 알로에를 재배하고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "알로에는 '서양의 인삼'이라 불리며 수천 년 동안 동서고금을 막론하고 사랑 받아온 천연 약용식물이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일반적으로 알로에는 피부와 장 건강에 도움을 주는 것으로 알려져 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "면역력도 높인다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "알로에 속 ‘면역 다당체’가 인체의 면역력 증강에 핵심적인 역할을 한다고 밝혀졌다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "해외에서는 알로에가 건강기능식품, 화장품 뿐만 아니라 산업소재까지 다방면으로 활용되고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "유니베라는 1988년부터 해외 알로에 농장을 개척해왔다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "현재 미국 텍사스, 멕시코 탐피코, 중국 하이난 등에 대규모 알로에 농장을 운영하고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "세계 40여 개국에 알로에 원료를 공급하고 있다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유니베라 알로에, 서양의 '이것'이라 불리며 오랫동안 사랑 받아...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

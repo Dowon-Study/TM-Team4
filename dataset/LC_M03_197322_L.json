@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197322",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 팔꿈치 통증 제때 치료하면 환자 90% 수술 불필요",
+    "newsSubTitle": "바른 관절, 바른 치료",
+    "newsContent": "52세 여성입니다.\n2개월 전부터 물건을 들 때나 마우스를 사용할 때 팔꿈치 통증이 있더니 점점 설거지하기도 힘들어요.\n주사를 맞았지만 잘 낫지 않아 큰 병원에서 MRI를 찍었는데 테니스 엘보 진단을 받았고, 아직은 비수술로 치료해볼 만하다고 했어요.\n테니스를 해본 적도 없는데 왜 테니스 엘보가 생겼고, 치료는 어떻게 해야 하나요?\n테니스 엘보는 팔꿈치 통증의 가장 흔한 원인입니다.\n정식 명칭은 팔꿈치 외상과염이라고 하며, 손목을 펴는 힘줄을 반복적으로 사용하면서 생기는 과사용 질환이에요.\n손목을 펴는 힘줄에 과도한 부하가 실리거나, 작은 부하라도 반복적으로 실리면 팔꿈치 외측의 힘줄 부착 부위에서 미세한 파열이 생깁니다.\n힘줄이 치유 과정에서 반복적으로 부하에 노출되면 치유가 불완전해져 섬유세포와 미세혈관이 비정상적으로 증식하면서 조직이 변성돼 통증을 유발하게 돼요.\n테니스 선수 중에서 10~30%로 높게 발생해 테니스 엘보라고 불리지만 청소 및 가사일, 컴퓨터 사용자 등 손목을 펴는 힘줄을 반복적으로 사용하는 사람 누구에게나 발생할 수 있습니다.\n테니스 엘보는 복합적인 치료가 필요해요.\n반복적인 사용이 근본적인 원인이기 때문에 치료 시작 후 6주간은 전완부에서 손목 폄근을 눌러주거나 손목의 운동을 줄여주는 보호대를 착용하고 작업할 때 힘줄에 무리가 가지 않도록 활동 강도를 줄여야 해요.\n이미 질환이 진행돼 앞의 치료가 잘 듣지 않는 경우 자가 혈소판(PRP) 주사치료가 필요합니다.\n자가 혈소판이란 환자의 혈액에서 손상된 조직 치유에 도움이 되는 혈소판과 성장인자를 추출해 농축한 것을 말합니다.\n자가 혈소판 주사치료는 환자의 혈액에서 추출한 자가혈소판을 힘줄의 손상된 부분에 주입하는 시술로, 고해상도 초음파를 이용해 손상 부위에 정확하게 주사하기 때문에 부작용 우려가 없고 치료 효과가 큽니다.\n테니스 엘보의 90%는 비수술로 나을 수 있습니다.\n그래서 조기 치료가 중요해요.\n그러나 조직 변성이 심해 3개월 이상 치료해도 낫지 않는 경우에는 2.4㎜ 지름의 초소형 관절경을 이용해 손상된 조직을 제거하는 수술로 완치가 가능합니다.\n수술 후 3일째부터는 가벼운 일상 활동이 가능합니다.\n통증이 지속하면 늦기 전에 전문의의 진료를 받아 보기를 권합니다.\n김묘종 서울바른병원 관절센터 원장",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "52세 여성입니다.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2개월 전부터 물건을 들 때나 마우스를 사용할 때 팔꿈치 통증이 있더니 점점 설거지하기도 힘들어요.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "주사를 맞았지만 잘 낫지 않아 큰 병원에서 MRI를 찍었는데 테니스 엘보 진단을 받았고, 아직은 비수술로 치료해볼 만하다고 했어요.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "테니스를 해본 적도 없는데 왜 테니스 엘보가 생겼고, 치료는 어떻게 해야 하나요?",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "테니스 엘보는 팔꿈치 통증의 가장 흔한 원인입니다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정식 명칭은 팔꿈치 외상과염이라고 하며, 손목을 펴는 힘줄을 반복적으로 사용하면서 생기는 과사용 질환이에요.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "손목을 펴는 힘줄에 과도한 부하가 실리거나, 작은 부하라도 반복적으로 실리면 팔꿈치 외측의 힘줄 부착 부위에서 미세한 파열이 생깁니다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "힘줄이 치유 과정에서 반복적으로 부하에 노출되면 치유가 불완전해져 섬유세포와 미세혈관이 비정상적으로 증식하면서 조직이 변성돼 통증을 유발하게 돼요.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "테니스 선수 중에서 10~30%로 높게 발생해 테니스 엘보라고 불리지만 청소 및 가사일, 컴퓨터 사용자 등 손목을 펴는 힘줄을 반복적으로 사용하는 사람 누구에게나 발생할 수 있습니다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "테니스 엘보는 복합적인 치료가 필요해요.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "반복적인 사용이 근본적인 원인이기 때문에 치료 시작 후 6주간은 전완부에서 손목 폄근을 눌러주거나 손목의 운동을 줄여주는 보호대를 착용하고 작업할 때 힘줄에 무리가 가지 않도록 활동 강도를 줄여야 해요.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이미 질환이 진행돼 앞의 치료가 잘 듣지 않는 경우 자가 혈소판(PRP) 주사치료가 필요합니다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "자가 혈소판이란 환자의 혈액에서 손상된 조직 치유에 도움이 되는 혈소판과 성장인자를 추출해 농축한 것을 말합니다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "자가 혈소판 주사치료는 환자의 혈액에서 추출한 자가혈소판을 힘줄의 손상된 부분에 주입하는 시술로, 고해상도 초음파를 이용해 손상 부위에 정확하게 주사하기 때문에 부작용 우려가 없고 치료 효과가 큽니다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "테니스 엘보의 90%는 비수술로 나을 수 있습니다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "그래서 조기 치료가 중요해요.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "그러나 조직 변성이 심해 3개월 이상 치료해도 낫지 않는 경우에는 2.4㎜ 지름의 초소형 관절경을 이용해 손상된 조직을 제거하는 수술로 완치가 가능합니다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "수술 후 3일째부터는 가벼운 일상 활동이 가능합니다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "통증이 지속하면 늦기 전에 전문의의 진료를 받아 보기를 권합니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "김묘종 서울바른병원 관절센터 원장",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "얕보다간 큰일… 테니스 엘보 초기 진압 안되면 끔찍한 미래만",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

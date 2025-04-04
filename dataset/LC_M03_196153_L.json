@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196153",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "퇴행성 관절염 예방법…무리한 다이어트 금물 \\\"적정체중 유지가 중요\\\"",
+    "newsSubTitle": "",
+    "newsContent": "날씨가 쌀쌀해지면서 퇴행성관절염 예방법에 대해 네티즌들의 관심이 쏟아지고 있다.\n퇴행성관절염은 관절을 지속적으로 사용하여 연골이 닳아 염증과 통증을 유발하는 질환이다.\n주로 50대 이후 많이 나타나지만 쪼그리고 앉아서 일을 하거나, 과도한 다이어트로 뼈가 약해진 젊은 층에서도 자주 발생한다.\n연골은 재생되지 않기 때문에 퇴행성관절염은 치료할 수 없으며 관절염의 발병을 늦추는 것이 건강을 지키는 지름길이다.\n이에 퇴행성관절염 예방법에 관심이 쏠리는 것인데, 가장 중요한 것은 적정체중 유지를 위한 규칙적인 운동과 식이요법이다.\n무리한 다이어트보다는 적절한 체중을 유지하는 것이 관절과 건강에 좋고, 매일 30분 이상 운동하는 습관을 가져야 한다.\n수영과 걷기 등 관절에 무리가 가지 않는 운동이 좋으며 가벼운 스트레칭과 무리하지 않는 선에서의 근력 운동하는 것이 좋다.\n또 금연도 퇴행성관절염 예방에 도움이 되며, 오랜 시간 같은 자세로 있거나 무거운 물건을 드는 일을 피하는 것도 관절염 예방에 도움이 된다.\n온라인 중앙일보 [사진 중앙포토DB]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "날씨가 쌀쌀해지면서 퇴행성관절염 예방법에 대해 네티즌들의 관심이 쏟아지고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "퇴행성관절염은 관절을 지속적으로 사용하여 연골이 닳아 염증과 통증을 유발하는 질환이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "주로 50대 이후 많이 나타나지만 쪼그리고 앉아서 일을 하거나, 과도한 다이어트로 뼈가 약해진 젊은 층에서도 자주 발생한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연골은 재생되지 않기 때문에 퇴행성관절염은 치료할 수 없으며 관절염의 발병을 늦추는 것이 건강을 지키는 지름길이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 퇴행성관절염 예방법에 관심이 쏠리는 것인데, 가장 중요한 것은 적정체중 유지를 위한 규칙적인 운동과 식이요법이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "무리한 다이어트보다는 적절한 체중을 유지하는 것이 관절과 건강에 좋고, 매일 30분 이상 운동하는 습관을 가져야 한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "수영과 걷기 등 관절에 무리가 가지 않는 운동이 좋으며 가벼운 스트레칭과 무리하지 않는 선에서의 근력 운동하는 것이 좋다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 금연도 퇴행성관절염 예방에 도움이 되며, 오랜 시간 같은 자세로 있거나 무거운 물건을 드는 일을 피하는 것도 관절염 예방에 도움이 된다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 [사진 중앙포토DB]",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "퇴행성 관절염 막을 수 있는 예방법은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

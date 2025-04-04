@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194566",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "한민족만 ! 국제 한인 음악콩쿠르 4월 미국서",
+    "newsSubTitle": "",
+    "newsContent": "한국은 물론 전세계에 흩어져 있는 한민족을 대상으로 국제 한인 음악 콩쿠르가 4월 미국 LA 콜번스쿨 지퍼홀 등지에서 열린다.\n코리아국제음악재단(KIMF)이 주최하고 중앙일보가 후원한다.\n상금은 대상(1위) 1만 달러, 2위 5000 달러, 3위 3000 달러. 결선 진출자에게는 각 1000달러의 상금과 함께 숙박비를 제공한다.\n올해 피아노 부문에 이어 2008년 현악, 2009년 성악 부문이 열린다.\n응모자격은 4월 23일 현재 만18~30세의 한국계(국적 불문). 미국 LA에 사무국을 두고 있는 KIMF는 재미 교포 벤처 사업가 스티브 김, 부동산 재벌 데이비드 이 등이 2004년 설립한 비영리 재단이다.\n2005년 4월 피아노.현악.성악 부문에 걸쳐 콩쿠르를 개최했고 올해부터는 매년 피아노.현악.성악의 순으로 열기로 했다.\n접수 마감은 31일(신청액 50달러). 참가 신청서는 홈페이지(www.kimf.org)에서 내려받을 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국은 물론 전세계에 흩어져 있는 한민족을 대상으로 국제 한인 음악 콩쿠르가 4월 미국 LA 콜번스쿨 지퍼홀 등지에서 열린다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "코리아국제음악재단(KIMF)이 주최하고 중앙일보가 후원한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "상금은 대상(1위) 1만 달러, 2위 5000 달러, 3위 3000 달러. 결선 진출자에게는 각 1000달러의 상금과 함께 숙박비를 제공한다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "올해 피아노 부문에 이어 2008년 현악, 2009년 성악 부문이 열린다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "응모자격은 4월 23일 현재 만18~30세의 한국계(국적 불문). 미국 LA에 사무국을 두고 있는 KIMF는 재미 교포 벤처 사업가 스티브 김, 부동산 재벌 데이비드 이 등이 2004년 설립한 비영리 재단이다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2005년 4월 피아노.현악.성악 부문에 걸쳐 콩쿠르를 개최했고 올해부터는 매년 피아노.현악.성악의 순으로 열기로 했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "접수 마감은 31일(신청액 50달러). 참가 신청서는 홈페이지(www.kimf.org)에서 내려받을 수 있다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한민족 대상, 국제 한인 음악 콩쿠르 열린다... 응모 자격은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

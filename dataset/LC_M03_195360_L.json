@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195360",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[한 끗 리빙] 여름철 퀴퀴한 옷 냄새 없애려면",
+    "newsSubTitle": "",
+    "newsContent": "옷에서 나는 악취를 제거하는 가장 기본적이고 확실한 방법은 세탁이다.\n요즘같이 습도가 높고 더운 날씨엔 외출에서 돌아오자마자 입었던 옷을 빨아야 냄새가 안 난다.\n그대로 놔두면 섬유에 묻은 땀과 습기를 자양분으로 세균이 번식해 지방산·암모니아 등 화학 물질을 만들어 시큼하고 퀴퀴한 냄새를 풍긴다.\n옷을 세탁할 땐 헹굼 과정에서 섬유유연제 대신 식초를 소주 반 컵 정도 넣는다.\n산성을 띄는 식초는 살균과 섬유 유연 효과를 동시에 낸다.\n빨래가 끝난 뒤 약간의 식초 냄새가 남지만 건조 과정에서 다 날아가니 걱정할 필요 없다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "옷에서 나는 악취를 제거하는 가장 기본적이고 확실한 방법은 세탁이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "요즘같이 습도가 높고 더운 날씨엔 외출에서 돌아오자마자 입었던 옷을 빨아야 냄새가 안 난다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그대로 놔두면 섬유에 묻은 땀과 습기를 자양분으로 세균이 번식해 지방산·암모니아 등 화학 물질을 만들어 시큼하고 퀴퀴한 냄새를 풍긴다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "옷을 세탁할 땐 헹굼 과정에서 섬유유연제 대신 식초를 소주 반 컵 정도 넣는다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "산성을 띄는 식초는 살균과 섬유 유연 효과를 동시에 낸다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "빨래가 끝난 뒤 약간의 식초 냄새가 남지만 건조 과정에서 다 날아가니 걱정할 필요 없다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "습도 높은 여름 날씨에 걱정되는 냄새... 확실한 세탁 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

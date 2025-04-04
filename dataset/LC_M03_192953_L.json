@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192953",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "'남성호르몬' 넘치면 치매 유발",
+    "newsSubTitle": "",
+    "newsContent": "남성호르몬인 테스토스테론이 체내에 지나치게 많으면 뇌세포를 죽일수 있다는 연구결과가 발표됐다.\n예일 대학 에릭(Ehrlich) 박사팀은 적당량의 남성호르몬은 뇌세포에 도움이 되지만 지나치게 넘치는 남성호르몬은 알즈하이머 질환 등의 뇌질환과 유사한 세포의 자기 파괴를 유발한다는 사실을 발견했다.\n남성호르몬은 세포의 발달 및 분화와 성장에 중요한 역할을 하는 호르몬으로 남성과 여성 모두에게 생산되나 남성에서 20배 이상 많이 만들어진다.\n최근 이와 같은 남성호르몬이 체내 적절한 농도로 유지되는 것이 아니고 남용되는 경우가 많은데 예를 들자면 스테로이드 호르몬을 사용해 최근 물의를 빚고 있는 일부 운동선수들의 경우를 들 수 있다.\n부당한 이득을 위해 이와 같은 스테로이드 호르몬을 사용했던 경우 스테로이드 호르몬이 체내에서 남성호르몬으로 전환되 체내 과다한 남성호르몬 농도를 유발하게 된다고 연구팀은 밝혔다.\n에릭 박사는 외부 공급 혹은 다른 이유에서건 체내 스테로이드 농도가 높아지게 되면 결국 남성호르몬인 테스트오스테론 수치가 높아져 신경세포 파괴를 초래 결국 뇌세포 기능을 망가뜨릴수 있다고 말했다.\n연구팀은 같은 실험을 여성호르몬인 에스트로겐을 대상으로 진행했다.\n연구결과 여성호르몬은 실제로 신경보호기능을 가져 여성호르몬이 많을수록 세포 괴사가 덜 한 것을 볼 수 있었다.\n이번 연구결과는 스테로이드 오남용이 공격성이나 자살충동 같은 행동 변화를 유발하는 이유에 대한 설명의 단초를 제공한다는 데 있어서 의의를 갖는 것으로 평가되고 있다. [서울=메디컬투데이/뉴시스]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "남성호르몬인 테스토스테론이 체내에 지나치게 많으면 뇌세포를 죽일수 있다는 연구결과가 발표됐다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "예일 대학 에릭(Ehrlich) 박사팀은 적당량의 남성호르몬은 뇌세포에 도움이 되지만 지나치게 넘치는 남성호르몬은 알즈하이머 질환 등의 뇌질환과 유사한 세포의 자기 파괴를 유발한다는 사실을 발견했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "남성호르몬은 세포의 발달 및 분화와 성장에 중요한 역할을 하는 호르몬으로 남성과 여성 모두에게 생산되나 남성에서 20배 이상 많이 만들어진다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최근 이와 같은 남성호르몬이 체내 적절한 농도로 유지되는 것이 아니고 남용되는 경우가 많은데 예를 들자면 스테로이드 호르몬을 사용해 최근 물의를 빚고 있는 일부 운동선수들의 경우를 들 수 있다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "부당한 이득을 위해 이와 같은 스테로이드 호르몬을 사용했던 경우 스테로이드 호르몬이 체내에서 남성호르몬으로 전환되 체내 과다한 남성호르몬 농도를 유발하게 된다고 연구팀은 밝혔다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "에릭 박사는 외부 공급 혹은 다른 이유에서건 체내 스테로이드 농도가 높아지게 되면 결국 남성호르몬인 테스트오스테론 수치가 높아져 신경세포 파괴를 초래 결국 뇌세포 기능을 망가뜨릴수 있다고 말했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연구팀은 같은 실험을 여성호르몬인 에스트로겐을 대상으로 진행했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구결과 여성호르몬은 실제로 신경보호기능을 가져 여성호르몬이 많을수록 세포 괴사가 덜 한 것을 볼 수 있었다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이번 연구결과는 스테로이드 오남용이 공격성이나 자살충동 같은 행동 변화를 유발하는 이유에 대한 설명의 단초를 제공한다는 데 있어서 의의를 갖는 것으로 평가되고 있다. [서울=메디컬투데이/뉴시스]",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "너무 높아도 문제... 뇌질환 유발 가능성도 올라간다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

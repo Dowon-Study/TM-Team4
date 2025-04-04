@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195228",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스신간 『툭하면 아픈 아이 흔들리지 않고 키우기』 外",
+    "newsSubTitle": "헬스 신간",
+    "newsContent": "『툭하면 아픈 아이 흔들리지 않고 키우기』 강병철 지음 김영사 324쪽 부모는 아이가 아플 때 당황스럽다.\n어떻게 대처해야 할지 몰라 우왕좌왕할 때가 많다. 『툭하면 아픈 아이 흔들리지 않고 키우기』는 소아청소년과 의사이자 세 아이의 아빠가 쓴 육아 가이드북이다.\n아이를 키울 때 자주 겪게 되는 열·감기 질환부터 성장과 키, 영양과 비만 등 알아두면 유용한 소아 건강 정보를 두루 다룬다.\n부모들이 가짜 정보에 속지 않도록 과학적인 근거를 들어 제시한다. 『이왕재 교수의 비타민C 이야기』 이왕재 지음 라온누리 276쪽 항산화제인 비타민C는 인체에 유익한 활동에 도움을 주는 것으로 알려져 있다. 『이왕재 교수의 비타민C 이야기』는 비타민C의 건강 효능을 소개한다.\n면역학자이면서 서울대 의대 교수인 저자는 비타민C 예찬론자다.\n저자는 세상에서 가장 값싸고 귀한 보약이 비타민C라고 단언한다. 30여 년간 이뤄진 연구결과를 기초로 비타민C와 노화, 위장, 스트레스, 면역과의 연관성을 풀어낸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "『툭하면 아픈 아이 흔들리지 않고 키우기』 강병철 지음 김영사 324쪽 부모는 아이가 아플 때 당황스럽다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "어떻게 대처해야 할지 몰라 우왕좌왕할 때가 많다. 『툭하면 아픈 아이 흔들리지 않고 키우기』는 소아청소년과 의사이자 세 아이의 아빠가 쓴 육아 가이드북이다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아이를 키울 때 자주 겪게 되는 열·감기 질환부터 성장과 키, 영양과 비만 등 알아두면 유용한 소아 건강 정보를 두루 다룬다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "부모들이 가짜 정보에 속지 않도록 과학적인 근거를 들어 제시한다. 『이왕재 교수의 비타민C 이야기』 이왕재 지음 라온누리 276쪽 항산화제인 비타민C는 인체에 유익한 활동에 도움을 주는 것으로 알려져 있다. 『이왕재 교수의 비타민C 이야기』는 비타민C의 건강 효능을 소개한다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "면역학자이면서 서울대 의대 교수인 저자는 비타민C 예찬론자다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "저자는 세상에서 가장 값싸고 귀한 보약이 비타민C라고 단언한다. 30여 년간 이뤄진 연구결과를 기초로 비타민C와 노화, 위장, 스트레스, 면역과의 연관성을 풀어낸다.",
+        "sentenceSize": 92
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "의사이자 세 아이의 아빠가 쓴 육아 가이드북, 무슨 내용 담겨있나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

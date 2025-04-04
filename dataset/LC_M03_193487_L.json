@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193487",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[스타가 반한 책] 윤석화 연극배우",
+    "newsSubTitle": "못 다한 말 “사랑해, 엄마”",
+    "newsContent": "요즘은 나이 드는 게 점점 좋아진다.\n얼마 전 출연한 프로그램에서 소위 ‘낙엽줄’에 앉아 문제를 풀며 망가지기도(?) 했지만 순발력은 줄어도 현명함과 느긋함이 생긴 나 자신에게 만족하며 산다.\n그런데 딱 하나, 나이 먹는 게 안 좋은 때가 있다.\n조문(弔問) 갈 일이 예전보다 훨씬 자주 생긴다는 것. 나를 낳아주신 부모님이 아니더라도 결국은 다 나의 어머니이고 아버지인데…. 세월은 사람들에게 현명함을 주는 대신 부모님을 빼앗아 가는 형벌을 주는 듯하다.\n공연을 몇 분 앞두고서 울면 안 되는데, 나는 그만 백은하의 『엄마 생각하면 왜 눈물이 나지?』(랜덤하우스중앙·136쪽, 8500원)를 펼쳐보다가 결국은 엉엉 울고 말았다.\n작가 백은하처럼 내게도 그런 엄마가 있었다.\n책 속의 엄마처럼 장군같이 씩씩하고, 모란처럼 그윽하고, 친구처럼 다정한 나의 엄마, 그 어머니는 이제 다른 세상으로 가셨다.\n이 책은 엄마가 계신다면 엄마 무릎 앞에 놓고 싶은 책이다.\n사랑한다고 말하지 못한 모든 이야기들을 이 책을 안겨드리며 대신 하고 싶은데…. 엄마처럼 살지 않을거야하고 외치던 딸들, 엄마 가슴에 아무렇지도 않게 못을 박은 세상의 모든 딸들은, 엄마에게 사랑한다고 말하고 싶다면 바로 지금, 엄마와 화해하고 싶다면 바로 지금하시기를…. 세상에서 가장 무서운 건 엄마가 더 이상 내 곁에 없다는 사실이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "요즘은 나이 드는 게 점점 좋아진다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "얼마 전 출연한 프로그램에서 소위 ‘낙엽줄’에 앉아 문제를 풀며 망가지기도(?) 했지만 순발력은 줄어도 현명함과 느긋함이 생긴 나 자신에게 만족하며 산다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그런데 딱 하나, 나이 먹는 게 안 좋은 때가 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "조문(弔問) 갈 일이 예전보다 훨씬 자주 생긴다는 것. 나를 낳아주신 부모님이 아니더라도 결국은 다 나의 어머니이고 아버지인데…. 세월은 사람들에게 현명함을 주는 대신 부모님을 빼앗아 가는 형벌을 주는 듯하다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "공연을 몇 분 앞두고서 울면 안 되는데, 나는 그만 백은하의 『엄마 생각하면 왜 눈물이 나지?』(랜덤하우스중앙·136쪽, 8500원)를 펼쳐보다가 결국은 엉엉 울고 말았다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "작가 백은하처럼 내게도 그런 엄마가 있었다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "책 속의 엄마처럼 장군같이 씩씩하고, 모란처럼 그윽하고, 친구처럼 다정한 나의 엄마, 그 어머니는 이제 다른 세상으로 가셨다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 책은 엄마가 계신다면 엄마 무릎 앞에 놓고 싶은 책이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "사랑한다고 말하지 못한 모든 이야기들을 이 책을 안겨드리며 대신 하고 싶은데…. 엄마처럼 살지 않을거야하고 외치던 딸들, 엄마 가슴에 아무렇지도 않게 못을 박은 세상의 모든 딸들은, 엄마에게 사랑한다고 말하고 싶다면 바로 지금, 엄마와 화해하고 싶다면 바로 지금하시기를…. 세상에서 가장 무서운 건 엄마가 더 이상 내 곁에 없다는 사실이다.",
+        "sentenceSize": 190
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"엄마, 라떼 얘기 듣기 싫어\" 내뱉은 지난날을 후회한다면 이 책으로 스스로를 위로해 주자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

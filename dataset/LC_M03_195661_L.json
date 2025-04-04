@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195661",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"선천성 결손치, 아동기에 조기 검진으로 예방해야\\\"",
+    "newsSubTitle": "아주대병원 김영호 교수 연구 결과, 10명 중 1명꼴로 치아 결손",
+    "newsContent": "국내 아동 10명 중 1명이 선천적으로 한 개 또는 여러 개의 치아가 모자란 결손치라는 연구결과가 나왔다.\n아주대병원 김영호 교수(치과병원장 겸 임상치의학대학원장)는 지난 5년간 교정 치료를 위해 내원한 환자 1240명을 대상으로 방사선 검사를 실시했다.\n그 결과 선천적으로 치아가 모자란 결손치 증상을 보인 환자가 152명으로 10명 중 1명꼴이었다.\n크기가 작은 왜소치, 정상적인 치아 개수보다 더 많은 과잉치, 잇몸 뼈 안에 숨어 있는 매복치 환자는 각각 33명과 18명, 53명이었다.\n이런 치아 이상은 부모에게 받은 유전적 영향뿐 아니라 자궁 내 환경, 유아기의 영양상태 같은 환경적인 요인이 복합적으로 작용한 결과다.\n선천적 결손치는 전체 환자 중 12.3%(152명)로 치아 이상 중 가장 높은 빈도를 보였다.\n결손의 빈도가 가장 높은 치아는 아래턱 앞니(하악 측절치)로 결손율이 22.5%였다.\n이는 서구인에게 나타나지 않는 한국인 고유의 특성이란 게 김 교수의 설명이다.\n아래턱 작은 어금니(하악 제2소구치)와 위턱 작은 어금니(상악 제2소구치)의 결손율은 각각 20.3%, 18.5%로 조사됐다.\n치아 이상을 방치하면 치열에 공간 문제가 생겨 정상교합 형성을 방해한다.\n미용과 기능에 모두 부정적 영향을 미칠 수 있다.\n치아 이상을 조기에 치료하지 않을 경우 중등도 이상의 심각한 부정교합으로 이어질 수 있다.\n김영호 교수는 “치아 이상으로 발생하는 부작용을 최소화하는 가장 확실한 방법은 아동기에 치과교정과를 찾아 조기 검진을 하는 것”이라며 “어린 자녀를 둔 부모는 자녀의 영구치가 나올 때까지 내버려두지 말고 꼭 치과교정과 전문의와 상담하길 바란다”고 조언했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국내 아동 10명 중 1명이 선천적으로 한 개 또는 여러 개의 치아가 모자란 결손치라는 연구결과가 나왔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아주대병원 김영호 교수(치과병원장 겸 임상치의학대학원장)는 지난 5년간 교정 치료를 위해 내원한 환자 1240명을 대상으로 방사선 검사를 실시했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 결과 선천적으로 치아가 모자란 결손치 증상을 보인 환자가 152명으로 10명 중 1명꼴이었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "크기가 작은 왜소치, 정상적인 치아 개수보다 더 많은 과잉치, 잇몸 뼈 안에 숨어 있는 매복치 환자는 각각 33명과 18명, 53명이었다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이런 치아 이상은 부모에게 받은 유전적 영향뿐 아니라 자궁 내 환경, 유아기의 영양상태 같은 환경적인 요인이 복합적으로 작용한 결과다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "선천적 결손치는 전체 환자 중 12.3%(152명)로 치아 이상 중 가장 높은 빈도를 보였다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "결손의 빈도가 가장 높은 치아는 아래턱 앞니(하악 측절치)로 결손율이 22.5%였다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이는 서구인에게 나타나지 않는 한국인 고유의 특성이란 게 김 교수의 설명이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아래턱 작은 어금니(하악 제2소구치)와 위턱 작은 어금니(상악 제2소구치)의 결손율은 각각 20.3%, 18.5%로 조사됐다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "치아 이상을 방치하면 치열에 공간 문제가 생겨 정상교합 형성을 방해한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "미용과 기능에 모두 부정적 영향을 미칠 수 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "치아 이상을 조기에 치료하지 않을 경우 중등도 이상의 심각한 부정교합으로 이어질 수 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "김영호 교수는 “치아 이상으로 발생하는 부작용을 최소화하는 가장 확실한 방법은 아동기에 치과교정과를 찾아 조기 검진을 하는 것”이라며 “어린 자녀를 둔 부모는 자녀의 영구치가 나올 때까지 내버려두지 말고 꼭 치과교정과 전문의와 상담하길 바란다”고 조언했다.",
+        "sentenceSize": 143
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"어린이들 모두 치과에 집합!\"… 치아교정 최적의 시기는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

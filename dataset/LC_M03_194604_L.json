@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194604",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "한국인의 비만 유형 조사해 봤더니 …",
+    "newsSubTitle": "10대는 삼각형 … 성인 남성은 통나무형",
+    "newsContent": "비만체형의 10대 청소년들은 성별 구분 없이 허벅지 등이 두꺼운 하체 비만형인 '삼각 비만'이 가장 많은 것으로 나타났다.\n반면 나이가 많아질수록 남성은 팔.겨드랑이를 중심으로 신체 각 부위에 살이 많은 '통나무형 비만', 여성은 어깨는 좁고 어깨 아래로 살이 많은 '맥주병형 비만'이 많았다.\n29일 서울 삼성동 섬유센터에서 열린 '사이즈 코리아 2006' 행사에서 산업자원부 기술표준원이 발표한 자료에 따르면 비만 상태인 10대 남자의 68%, 여자의 70.6%가 허벅지 등 하체가 두꺼운 삼각 비만이었다.\n20대 이상 남성은 모든 연령대에서 통나무형 비만의 비중이 가장 높았다.\n통나무형 비만 다음으로는 다리가 짧고 복부에 살이 많은 '역삼각형 비만'이 많았다.\n여성의 경우 20~30대에선 10대처럼 삼각 비만이 56.4%로 가장 많았다.\n반면 40대 이상 여성은 맥주병형 비만이 많았다.\n또 60대 여성의 경우 맥주병형에 이어 하체에 비해 상체(복부와 가슴)가 뚱뚱하고 어깨가 좁은 '항아리형 비만'(25.3%)이 많은 편이었다.\n40~50대 여성에서는 맥주병형에 이어 나머지 세 가지 비만 형태가 비슷한 비율이었다.\n기술표준원 관계자는 \\\"젊을 때 하체 비만이 많다가 나이가 들면서 복부 등 상체 비만까지 비만 형태가 다양화하는 경향\\\"이라고 설명했다.\n이번 조사 결과는 2003년부터 2년간 2만여 명을 측정한 것이다.\n기술표준원은 비만 인구를 위한 대형 사이즈 의복 제작이나 자동차 핸들, 특수 안전벨트 등 생활용품 생산에 이번 조사를 활용할 수 있다고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "비만체형의 10대 청소년들은 성별 구분 없이 허벅지 등이 두꺼운 하체 비만형인 '삼각 비만'이 가장 많은 것으로 나타났다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "반면 나이가 많아질수록 남성은 팔.겨드랑이를 중심으로 신체 각 부위에 살이 많은 '통나무형 비만', 여성은 어깨는 좁고 어깨 아래로 살이 많은 '맥주병형 비만'이 많았다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "29일 서울 삼성동 섬유센터에서 열린 '사이즈 코리아 2006' 행사에서 산업자원부 기술표준원이 발표한 자료에 따르면 비만 상태인 10대 남자의 68%, 여자의 70.6%가 허벅지 등 하체가 두꺼운 삼각 비만이었다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "20대 이상 남성은 모든 연령대에서 통나무형 비만의 비중이 가장 높았다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "통나무형 비만 다음으로는 다리가 짧고 복부에 살이 많은 '역삼각형 비만'이 많았다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "여성의 경우 20~30대에선 10대처럼 삼각 비만이 56.4%로 가장 많았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "반면 40대 이상 여성은 맥주병형 비만이 많았다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 60대 여성의 경우 맥주병형에 이어 하체에 비해 상체(복부와 가슴)가 뚱뚱하고 어깨가 좁은 '항아리형 비만'(25.3%)이 많은 편이었다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "40~50대 여성에서는 맥주병형에 이어 나머지 세 가지 비만 형태가 비슷한 비율이었다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "기술표준원 관계자는 \\\"젊을 때 하체 비만이 많다가 나이가 들면서 복부 등 상체 비만까지 비만 형태가 다양화하는 경향\\\"이라고 설명했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이번 조사 결과는 2003년부터 2년간 2만여 명을 측정한 것이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "기술표준원은 비만 인구를 위한 대형 사이즈 의복 제작이나 자동차 핸들, 특수 안전벨트 등 생활용품 생산에 이번 조사를 활용할 수 있다고 밝혔다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한국 청소년, 하체 비만형 가장 많아... 성인 비만 특징은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196800",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "메르스 마지막 환자 사망…감염자 186명 중 사망 38명 '치사율 20%'",
+    "newsSubTitle": "",
+    "newsContent": "메르스 마지막 환자 사망 '메르스 마지막 환자 사망' 마지막까지 메르스가 25일 오전 숨졌다.\n메르스 '80번 환자'다.\n유족 측은 사망 이후 서울대병원에 부검을 요청했다.\n서울대병원은 25일 \\\"80번 환자의 유가족이 부검을 요청해 협의 중에 있다\\\"고 밝혔다.\n병원은 \\\"부검 결과는 오후쯤에 나올 것\\\"이라고 했다.\n서울대병원은 질병관리본부, 유가족과 향후 부검 결과 발표 여부에 대해 논의 중이다.\n유족 측은 정확한 사인을 알기 위해 부검을 신청한 것으로 전해졌다.\n보건복지부 중앙메르스관리대책본부는 이날 오전 3시께 80번째 환자가 기저질환인 악성림프종 치료 중 상태가 악화돼 사망했다고 발표했다.\n하지만 메르스 유전자 검사에서 명확한 판정을 받지 못했다.\n마지막 메르스 감염자로 남아 있던 80번 환자는 지난 6월8일 확진 판정을 받은 뒤 10월1일 완치판정을 받고, 다음날인 2일 퇴원했지만 열흘만인 12일 양성 판정을 받고 재입원해 치료를 받아왔다.\n마지막 메르스 환자의 사망으로 현재 국내 메르스 감염자는 없다.\n방역당국은 12월23일 종식을 선언할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "메르스 마지막 환자 사망 '메르스 마지막 환자 사망' 마지막까지 메르스가 25일 오전 숨졌다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "메르스 '80번 환자'다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "유족 측은 사망 이후 서울대병원에 부검을 요청했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서울대병원은 25일 \\\"80번 환자의 유가족이 부검을 요청해 협의 중에 있다\\\"고 밝혔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "병원은 \\\"부검 결과는 오후쯤에 나올 것\\\"이라고 했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서울대병원은 질병관리본부, 유가족과 향후 부검 결과 발표 여부에 대해 논의 중이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유족 측은 정확한 사인을 알기 위해 부검을 신청한 것으로 전해졌다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "보건복지부 중앙메르스관리대책본부는 이날 오전 3시께 80번째 환자가 기저질환인 악성림프종 치료 중 상태가 악화돼 사망했다고 발표했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하지만 메르스 유전자 검사에서 명확한 판정을 받지 못했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "마지막 메르스 감염자로 남아 있던 80번 환자는 지난 6월8일 확진 판정을 받은 뒤 10월1일 완치판정을 받고, 다음날인 2일 퇴원했지만 열흘만인 12일 양성 판정을 받고 재입원해 치료를 받아왔다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "마지막 메르스 환자의 사망으로 현재 국내 메르스 감염자는 없다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "방역당국은 12월23일 종식을 선언할 예정이다.",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "메르스 마지막 환자 사망… 너무 의문스러운 죽음에 유가족 부검 요청",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

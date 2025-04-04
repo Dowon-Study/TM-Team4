@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193109",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "겨울감기 여름에 미리 잡을 수 있을까",
+    "newsSubTitle": "강동경희대병원 한방소아과 '삼복첩' 아동 80.4% 호전",
+    "newsContent": "감기, 알레르기성 비염, 천식, 기관지염, 유행성 독감 등 겨울철 호흡기 질환을 달고 사는 아이라면 여름에 미리 대비할 수 있다.\n강동경희대한방병원은 초복을 일주일 앞둔 7월 11일부터 삼복첨 캠페인을 시작한다고 밝혔다.\n삼복첩은 삼복날에 혈자리에 맵고 따뜻한 성질의 약물을 붙여 겨울철 호흡기 질환을 여름에 미리 예방하는 방법이다.\n복날 일주일 전후로 시행하면 효과적이기 때문에 일정을 고려해 시술받으면 된다.\n삼복첩은 약물이 피부에 스며드는 방식으로 약을 먹기 싫어하는 아이들에게 쉽게 적용할 수 있다.\n짧은 시간에 시술이 끝나며 약효가 지속적인데다 통증과 부작용이 드물다.\n한방소아과 장규태 교수팀의 연구에 따르면 56명의 아동에게 삼복첩을 시행한 결과 80.4%(45명)가 호전을 보였다.\n94.6%(53명)는 재시술 의향을 나타냈고, 주변에 추천하겠다는 경우도 73.2%(41명)로 높은 만족도를 보였다.\n장 교수는 “이번 캠페인을 통해 삼복첩의 효과를 경험하는 아이들이 많아져 호흡기 질환으로부터 건강한 겨울을 날 수 있기를 바란다”고 말했다.\n한편, 강동경희대한방병원 한방소아과는 오는 11일부터 내달(8월) 23일까지 만 2~15세를 대상으로 삼복첩 시술을 실시한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "감기, 알레르기성 비염, 천식, 기관지염, 유행성 독감 등 겨울철 호흡기 질환을 달고 사는 아이라면 여름에 미리 대비할 수 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "강동경희대한방병원은 초복을 일주일 앞둔 7월 11일부터 삼복첨 캠페인을 시작한다고 밝혔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "삼복첩은 삼복날에 혈자리에 맵고 따뜻한 성질의 약물을 붙여 겨울철 호흡기 질환을 여름에 미리 예방하는 방법이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "복날 일주일 전후로 시행하면 효과적이기 때문에 일정을 고려해 시술받으면 된다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "삼복첩은 약물이 피부에 스며드는 방식으로 약을 먹기 싫어하는 아이들에게 쉽게 적용할 수 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "짧은 시간에 시술이 끝나며 약효가 지속적인데다 통증과 부작용이 드물다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한방소아과 장규태 교수팀의 연구에 따르면 56명의 아동에게 삼복첩을 시행한 결과 80.4%(45명)가 호전을 보였다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "94.6%(53명)는 재시술 의향을 나타냈고, 주변에 추천하겠다는 경우도 73.2%(41명)로 높은 만족도를 보였다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "장 교수는 “이번 캠페인을 통해 삼복첩의 효과를 경험하는 아이들이 많아져 호흡기 질환으로부터 건강한 겨울을 날 수 있기를 바란다”고 말했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편, 강동경희대한방병원 한방소아과는 오는 11일부터 내달(8월) 23일까지 만 2~15세를 대상으로 삼복첩 시술을 실시한다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여름에 미리 잡을 수 있을까... 삼복첨 캠페인 시작",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

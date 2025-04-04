@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193645",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 눈 건강 지키는 각종 영양소를 한 알에 담아",
+    "newsSubTitle": "웰빙 제품-아이클리어 올케어",
+    "newsContent": "눈 건강을 위한 건강기능식품 ‘아이클리어 올케어’(사진)가 출시됐다.\n눈에 좋다고 알려진 아스타잔틴·루테인·오메가3와 비타민 A·E 등 영양 성분이 풍부하다.\n아스타잔틴은 눈의 피로를 개선하는 데 효과적이다.\n스마트폰·컴퓨터를 자주 사용해 눈이 쉽게 피로해지는 사람에게 도움이 된다.\n루테인은 눈의 노화 속도를 늦춘다.\n한편 오메가3(DHA·EPA)는 건조한 눈을 개선하는 데 도움을 줘 식품의약품안전처로부터 기능성을 인정받았다.\n혈중 중성 지질과 혈행을 개선하는 역할을 한다.\n비타민A는 어두운 곳에서 시각 적응을 하는 데 필요한 영양소이고, 비타민E는 유해 산소로부터 세포를 보호한다.\n눈 건강 복합 솔루션 제품 ‘아이클리어 올케어’ 출시를 기념해 할인 행사를 진행한다.\n선착순 500명에게 할인된 가격으로 판매한다.\n행사 물량이 소진되면 조기 마감된다.\n기간 2017년 7월 17~24일",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "눈 건강을 위한 건강기능식품 ‘아이클리어 올케어’(사진)가 출시됐다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "눈에 좋다고 알려진 아스타잔틴·루테인·오메가3와 비타민 A·E 등 영양 성분이 풍부하다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아스타잔틴은 눈의 피로를 개선하는 데 효과적이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "스마트폰·컴퓨터를 자주 사용해 눈이 쉽게 피로해지는 사람에게 도움이 된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "루테인은 눈의 노화 속도를 늦춘다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 오메가3(DHA·EPA)는 건조한 눈을 개선하는 데 도움을 줘 식품의약품안전처로부터 기능성을 인정받았다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "혈중 중성 지질과 혈행을 개선하는 역할을 한다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "비타민A는 어두운 곳에서 시각 적응을 하는 데 필요한 영양소이고, 비타민E는 유해 산소로부터 세포를 보호한다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "눈 건강 복합 솔루션 제품 ‘아이클리어 올케어’ 출시를 기념해 할인 행사를 진행한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "선착순 500명에게 할인된 가격으로 판매한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "행사 물량이 소진되면 조기 마감된다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "기간 2017년 7월 17~24일",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'렬루' 눈에 좋은 영양 성분은 다 담았다... 오메가3까지 담아 눈 건강 복합 솔루션 가능",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

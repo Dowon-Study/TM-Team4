@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198278",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK꿈나무] 퀴즈대회 우승 비결 ? 생생한 삶에 답이 있던걸요",
+    "newsSubTitle": "",
+    "newsContent": "퀴즈 왕들의 비밀 E L 코닉스버그 지음, 최혜란 그림 이현숙 옮김, 보물창고, 224쪽 9000원, 초등 고학년중학생 뉴욕 주 퀴즈대회 지역 예선전에도 오른 적이 없던 학교의 학생들이 결승에 올라 우승을 차지한다는 내용이다.\n한 줄로 요약하면 간단하지만 소설의 구성은 독특하다.\n가령 \\\"캘리그래피란 무엇인가?\\\"라는 문제에 소년 노아는 자신있게 버저를 누른다.\n그러나 답이 바로 제시되는 대신 여름방학 때 할아버지와 할머니가 있는 실버타운에서 뜻밖의 결혼식을 거들었던 노아의 이야기가 뒤따른다.\n노아는 결혼식 준비에 참여하면서 세대 간의 갈등을 해결하는 법과 타인에 대한 이해 등을 자연스레 배우게 된다.\n이밖에 새끼 거북이들을 폭풍우에 휩쓸리지 않도록 옮겨주는 과정에서 '인생은 서로 도움을 주고 받으며 사는 것'이라는 깨달음을 얻은 나디아, 평소 잘난 형에게 주눅들어 자신의 존재 가치를 잘 알지 못했던 에탄, 왕따 경험을 자기발전의 긍정적 계기로 만드는 줄리안 등의 사연이 이어진다.\n성장 과정에서 필연적으로 따르게 마련인 상처와 방황을 슬기롭게 극복하는 방법을 독창적 스타일에 잘 녹여냈다.\n과학교사로도 일했던 지은이는 이 책을 포함해 뉴베리상을 세 번이나 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "퀴즈 왕들의 비밀 E L 코닉스버그 지음, 최혜란 그림 이현숙 옮김, 보물창고, 224쪽 9000원, 초등 고학년중학생 뉴욕 주 퀴즈대회 지역 예선전에도 오른 적이 없던 학교의 학생들이 결승에 올라 우승을 차지한다는 내용이다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한 줄로 요약하면 간단하지만 소설의 구성은 독특하다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "가령 \\\"캘리그래피란 무엇인가?\\\"라는 문제에 소년 노아는 자신있게 버저를 누른다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러나 답이 바로 제시되는 대신 여름방학 때 할아버지와 할머니가 있는 실버타운에서 뜻밖의 결혼식을 거들었던 노아의 이야기가 뒤따른다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "노아는 결혼식 준비에 참여하면서 세대 간의 갈등을 해결하는 법과 타인에 대한 이해 등을 자연스레 배우게 된다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이밖에 새끼 거북이들을 폭풍우에 휩쓸리지 않도록 옮겨주는 과정에서 '인생은 서로 도움을 주고 받으며 사는 것'이라는 깨달음을 얻은 나디아, 평소 잘난 형에게 주눅들어 자신의 존재 가치를 잘 알지 못했던 에탄, 왕따 경험을 자기발전의 긍정적 계기로 만드는 줄리안 등의 사연이 이어진다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "성장 과정에서 필연적으로 따르게 마련인 상처와 방황을 슬기롭게 극복하는 방법을 독창적 스타일에 잘 녹여냈다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "과학교사로도 일했던 지은이는 이 책을 포함해 뉴베리상을 세 번이나 받았다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이 경험'을 자기발전의 긍정적 계기로 만든 줄리안... 상처와 방황을 슬기롭게 극복",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

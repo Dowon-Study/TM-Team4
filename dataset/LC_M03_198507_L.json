@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198507",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "세상 이야기를 담은 책, 편안하게 느낌 나누기",
+    "newsSubTitle": "〈Books@Cafe〉 이렇게 만들어져요",
+    "newsContent": "책은 우리 곁에 살아 있습니다.\n세상의 모든 책은 몇몇 말하기 좋아하는 사람들의 입에 가두어지고 싶어 하지 않습니다.\n책은 살아서 펄펄 춤을 추며 우리 삶 한 가운데로 깊숙이 들어가고 싶어합니다.\n누군가에 의해 책은 언제부터인가 함부로 이야기하기 어려워졌습니다.\n세상의 모든 사람들에게는 책을 읽고 책을 이야기할 권리가 있으며, 세상 이야기를 담은 책을 자유롭게 이야기하는 세상은 진리에 더 가까이 있는 세상임에 틀림 없습니다.\n그러나 아무나 책 이야기를 할 자리를 잃었습니다.\n사람들은 그래서 책 이야기를 잃었습니다.\nBooks@Cafe 는 책을 놓고 쓴 소주 한 잔씩 나누며 편안하게 책을 이야기하는 자리입니다.\n정답을 찾는 게 아니라, 그냥 서로들의 이야기에 열심히 귀를 기울이는 자리입니다.\n그게 바로 세상을 바로 보는 지혜입니다.\n늦은 밤 술에 취해 집으로 돌아가는 늙은 노동자의 손아귀에 꼬옥 잡혀 있는 한 권의 바둑 책, 버스 안에서 졸음을 못 견디고 꾸벅꾸벅 졸고 있는 여자 고등학생의 손아귀에서 떨어질듯 말듯 안쓰러운 한 권의 삼류 연애 소설을 Books@Cafe 는 소중히 여깁니다.\n사랑방에, 카페에 오순도순 모여 앉아 도담도담 나누는 책 이야기. 왜 우리는 그 따스한 이야기를 잃었던가요.\n우리 모두 모입시다.\n함께 책 이야기를 하기 위한 출정가라도 힘차게 부릅시다.\n모두가 우리 앞의 모든 책의 주인이 되어, 책을 이야기하고, 책 안에 담긴 삶과 세상을 이야기해야 합니다.\n세상의 모든 책은 읽을 가치를 가진다는 존 밀튼의 역저 〈아레오파기티카〉의 간곡한 외침을 우리는 21세기 벽두에 희망으로 되새김해야 합니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "책은 우리 곁에 살아 있습니다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "세상의 모든 책은 몇몇 말하기 좋아하는 사람들의 입에 가두어지고 싶어 하지 않습니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "책은 살아서 펄펄 춤을 추며 우리 삶 한 가운데로 깊숙이 들어가고 싶어합니다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "누군가에 의해 책은 언제부터인가 함부로 이야기하기 어려워졌습니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세상의 모든 사람들에게는 책을 읽고 책을 이야기할 권리가 있으며, 세상 이야기를 담은 책을 자유롭게 이야기하는 세상은 진리에 더 가까이 있는 세상임에 틀림 없습니다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 아무나 책 이야기를 할 자리를 잃었습니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사람들은 그래서 책 이야기를 잃었습니다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "Books@Cafe 는 책을 놓고 쓴 소주 한 잔씩 나누며 편안하게 책을 이야기하는 자리입니다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정답을 찾는 게 아니라, 그냥 서로들의 이야기에 열심히 귀를 기울이는 자리입니다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그게 바로 세상을 바로 보는 지혜입니다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "늦은 밤 술에 취해 집으로 돌아가는 늙은 노동자의 손아귀에 꼬옥 잡혀 있는 한 권의 바둑 책, 버스 안에서 졸음을 못 견디고 꾸벅꾸벅 졸고 있는 여자 고등학생의 손아귀에서 떨어질듯 말듯 안쓰러운 한 권의 삼류 연애 소설을 Books@Cafe 는 소중히 여깁니다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "사랑방에, 카페에 오순도순 모여 앉아 도담도담 나누는 책 이야기. 왜 우리는 그 따스한 이야기를 잃었던가요.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "우리 모두 모입시다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "함께 책 이야기를 하기 위한 출정가라도 힘차게 부릅시다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "모두가 우리 앞의 모든 책의 주인이 되어, 책을 이야기하고, 책 안에 담긴 삶과 세상을 이야기해야 합니다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "세상의 모든 책은 읽을 가치를 가진다는 존 밀튼의 역저 〈아레오파기티카〉의 간곡한 외침을 우리는 21세기 벽두에 희망으로 되새김해야 합니다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "Books@Cafe, 정답을 찾는 게 아니라 '이것'에 열심히 귀를 기울이는 자리입니다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

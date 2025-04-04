@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192928",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK책갈피] 몹쓸 기술이 ‘기계치’ 를 낳는다",
+    "newsSubTitle": "",
+    "newsContent": "호모파베르의 불행한 진화 킴 비센티 지음, 윤정숙 옮김, 알마, 360쪽, 1만8000원 #사례 1:1981년 캐나다에서 시판되던 자동 선반의 이상적 사용자는 키 127.5 센티미터, 어깨 넓이 60센티미터, 두 팔을 편 길이 240 센티미터였다.\n인체의 해부학적 구조를 무시한 설계 탓이었다.\n#사례 2: BMW 7의 전자계기반 아이드라이브에는 대략 700~800개의 수치가 나타난다.\n그 회사의 중역조차 몇 종의 수치가 나오는지 정확히 모르며 자동차 전문잡지의 편집자들도 시동을 거는 방법을 알아내는 데 10분이 걸렸다.\n기술 발전은 우리 삶을 더 간편하게 만들 것으로 기대되지만 현실은 반드시 그렇지만은 않다.\n앞의 예처럼 너무 복잡하거나 직관과는 반대되어 쓰지도 못 할뿐더러 오히려 사용자를 당황하게 만들거나 좌절·분노에 빠뜨리기도 한다.\n캐나다의 저명한 휴먼팩터공학자인 지은이가 풍부한 사례를 들어 이런 현상의 원인을 분석하고, 해법을 제시한다.\n지은이는 우리가 지난 수 백 년 동안 각 부분을 고립시켜 연구하는 환원주의자의 접근법에 따라 문제를 해결하고 기술을 발전시켰다고 지적한다.\n이에 따라 과학적 지식은 인간과학(human science)과 기술과학(technical science)로 나뉘어, 기술에는 초점을 맞추지 못하는 외눈박이 인문론자와 사람에 대해서는 모르는 외눈박이 기계론자들을 양산됐다는 것이다.\n그 결과 혼란을 빚거나 파괴적 결과를 낳는 기술을 낳았다고 지적한다.\n제품이나 공학기술뿐만 아니라 공항 검색시스템, 투표 등 조직과 정치의 문제도 다루는데 물리·심리·팀·조직·정치로 나눈 단계별 설명은 기가 막힐 정도다.\n팀 훈련이 안 된 수술팀에서 외과의가 마취의와 주도권을 다투다 사살한 브라질 예 등이 그렇다.\n지은이는 인간을 위한 기술을 강조하면서 시민들도 제조사에 항의를 하는 등 적극 나서야 한다고 제안한다.\n정보화 시대에 이 책이 던지는 메시지는 엄청나 보인다.\n적어도 ‘첨단’ 휴대전화나 TV에 쩔쩔매는 것이 단지 ‘기계치’ 여서 그런 것은 아니란 위안을 준다는 점에서 이 시대의 필독서로 꼽힐 만하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "호모파베르의 불행한 진화 킴 비센티 지음, 윤정숙 옮김, 알마, 360쪽, 1만8000원 #사례 1:1981년 캐나다에서 시판되던 자동 선반의 이상적 사용자는 키 127.5 센티미터, 어깨 넓이 60센티미터, 두 팔을 편 길이 240 센티미터였다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "인체의 해부학적 구조를 무시한 설계 탓이었다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "#사례 2: BMW 7의 전자계기반 아이드라이브에는 대략 700~800개의 수치가 나타난다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 회사의 중역조차 몇 종의 수치가 나오는지 정확히 모르며 자동차 전문잡지의 편집자들도 시동을 거는 방법을 알아내는 데 10분이 걸렸다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "기술 발전은 우리 삶을 더 간편하게 만들 것으로 기대되지만 현실은 반드시 그렇지만은 않다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞의 예처럼 너무 복잡하거나 직관과는 반대되어 쓰지도 못 할뿐더러 오히려 사용자를 당황하게 만들거나 좌절·분노에 빠뜨리기도 한다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "캐나다의 저명한 휴먼팩터공학자인 지은이가 풍부한 사례를 들어 이런 현상의 원인을 분석하고, 해법을 제시한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지은이는 우리가 지난 수 백 년 동안 각 부분을 고립시켜 연구하는 환원주의자의 접근법에 따라 문제를 해결하고 기술을 발전시켰다고 지적한다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이에 따라 과학적 지식은 인간과학(human science)과 기술과학(technical science)로 나뉘어, 기술에는 초점을 맞추지 못하는 외눈박이 인문론자와 사람에 대해서는 모르는 외눈박이 기계론자들을 양산됐다는 것이다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그 결과 혼란을 빚거나 파괴적 결과를 낳는 기술을 낳았다고 지적한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "제품이나 공학기술뿐만 아니라 공항 검색시스템, 투표 등 조직과 정치의 문제도 다루는데 물리·심리·팀·조직·정치로 나눈 단계별 설명은 기가 막힐 정도다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "팀 훈련이 안 된 수술팀에서 외과의가 마취의와 주도권을 다투다 사살한 브라질 예 등이 그렇다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "지은이는 인간을 위한 기술을 강조하면서 시민들도 제조사에 항의를 하는 등 적극 나서야 한다고 제안한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "정보화 시대에 이 책이 던지는 메시지는 엄청나 보인다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "적어도 ‘첨단’ 휴대전화나 TV에 쩔쩔매는 것이 단지 ‘기계치’ 여서 그런 것은 아니란 위안을 준다는 점에서 이 시대의 필독서로 꼽힐 만하다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "삶을 윤택하게 만들 줄 알았더니... 좌절하고 분노하는 사람들",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194978",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "'중풍' 발병 2시간內 치료 받으면 효과",
+    "newsSubTitle": "",
+    "newsContent": "조기 응급치료가 중요한 뇌졸중(중풍) 환자의 절반 가량은 발병 2시간 이내 치료를 받지 못해 장애 등 후유증을 앓는 것으로 분석됐다.\n11일 영남대의료원 뇌졸중센터가 지난 2년간 의료원을 찾은 혈전용해제 치료 대상자 2백90명을 자체 분석한 결과다.\n이 가운데 발병 2시간 이내 병원에 도착, 실제 혈전용해제를 투여받은 환자는 16%인 47명에 지나지 않은 것으로 나타났다.\n또 절반 가까운 환자가 발병 당일 병원을 찾지만 대부분은 3시간이 지난 뒤 도착해 혈전용해제를 투여받지 못하는 것으로 분석됐다.\n뇌졸중은 정도가 심한 3분의 1 가량은 사망할 수 있고 3분의 1은 평생 장애 등 후유증을 갖고 살아야 하는 무서운 병이다.\n혈전용해술은 미국 식품의약청에서 효과를 인정한 유일한 중풍치료 방법으로 발병 2시간 이내 도착해야 시술이 가능하다.\n뇌졸중센터는 \\\"2시간 이내 도착할 경우 치료제 투여 후 약 70% 가량에서 혈전이 용해되며, 이 중 절반 가량은 확실한 치료효과를 보고 있다\\\"고 밝혔다.\n뇌졸중 환자들이 이처럼 늦게 병원을 찾는 것은 우리나라의 경우 한의학 영향 등으로 중풍의 응급체계가 확립되어 있지 않기 때문으로 지적됐다.\n뇌졸중센터 최병연 소장은 \\\"한방치료를 받거나 무작정 기다려 보다가, 혹은 가족에게 연락하면서 시간을 놓치는 경우가 많다\\\"며 \\\"뇌졸중의 조기응급 치료에 대한 홍보가 시급하다\\\"고 말했다.\n황선윤 기자 ◆ 혈전용해술=혈관 속의 혈전을 녹이는 용해제를 주입함으로써 막힌 혈관을 뚫는 방법이다.\n성공적으로 혈전이 용해되면 마비가 급격하게 회복되기 때문에 효과를 인정받은 유일한 뇌졸중 치료법이다.\n의사들은 뇌졸중 발생 뒤 죽어버린 뇌세포는 어떠한 방법으로도 되살릴 수 없어 발생 2시간 이내에 병원에서 혈전용해제를 투입해야 한다고 강조한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "조기 응급치료가 중요한 뇌졸중(중풍) 환자의 절반 가량은 발병 2시간 이내 치료를 받지 못해 장애 등 후유증을 앓는 것으로 분석됐다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 영남대의료원 뇌졸중센터가 지난 2년간 의료원을 찾은 혈전용해제 치료 대상자 2백90명을 자체 분석한 결과다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 가운데 발병 2시간 이내 병원에 도착, 실제 혈전용해제를 투여받은 환자는 16%인 47명에 지나지 않은 것으로 나타났다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 절반 가까운 환자가 발병 당일 병원을 찾지만 대부분은 3시간이 지난 뒤 도착해 혈전용해제를 투여받지 못하는 것으로 분석됐다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "뇌졸중은 정도가 심한 3분의 1 가량은 사망할 수 있고 3분의 1은 평생 장애 등 후유증을 갖고 살아야 하는 무서운 병이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "혈전용해술은 미국 식품의약청에서 효과를 인정한 유일한 중풍치료 방법으로 발병 2시간 이내 도착해야 시술이 가능하다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "뇌졸중센터는 \\\"2시간 이내 도착할 경우 치료제 투여 후 약 70% 가량에서 혈전이 용해되며, 이 중 절반 가량은 확실한 치료효과를 보고 있다\\\"고 밝혔다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "뇌졸중 환자들이 이처럼 늦게 병원을 찾는 것은 우리나라의 경우 한의학 영향 등으로 중풍의 응급체계가 확립되어 있지 않기 때문으로 지적됐다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "뇌졸중센터 최병연 소장은 \\\"한방치료를 받거나 무작정 기다려 보다가, 혹은 가족에게 연락하면서 시간을 놓치는 경우가 많다\\\"며 \\\"뇌졸중의 조기응급 치료에 대한 홍보가 시급하다\\\"고 말했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "황선윤 기자 ◆ 혈전용해술=혈관 속의 혈전을 녹이는 용해제를 주입함으로써 막힌 혈관을 뚫는 방법이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "성공적으로 혈전이 용해되면 마비가 급격하게 회복되기 때문에 효과를 인정받은 유일한 뇌졸중 치료법이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "의사들은 뇌졸중 발생 뒤 죽어버린 뇌세포는 어떠한 방법으로도 되살릴 수 없어 발생 2시간 이내에 병원에서 혈전용해제를 투입해야 한다고 강조한다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "뇌졸중 환자 절반가량이 장애 등 후유증 앓는 것 분석해 보니...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

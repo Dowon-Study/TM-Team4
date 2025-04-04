@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198524",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "줄기세포 이용해 손상 머리뼈 재생",
+    "newsSubTitle": "독일서 7세 소녀 수술 성공",
+    "newsContent": "독일 의료진이 줄기세포를 이용해 머리뼈를 재생하는 데 성공했다고 dpa통신이 보도했다.\n줄기세포란 다양한 종류의 세포로 분화할 수 있는 엄마 세포를 말한다.\n독일 기센대학병원 한스 페터 호발트 교수가 주도하는 의료연구팀은 7세 소녀 환자의 지방조직에서 뽑아낸 줄기세포를 이용해 머리뼈를 본래의 모습대로 복원했다고 통신은 밝혔다.\n소녀는 2001년 창문에서 굴러 떨어져 두개골에 큰 구멍이 뚫려 그동안 특수 헬멧을 쓰고 다녔다.\n의료진은 \\\"구멍이 너무 커 뼈이식만으로는 한계가 있기 때문에 줄기세포 처치법을 병행하게 됐다\\\"고 설명했다.\n의료진은 2003년 5월 소녀의 체지방 세포에서 추출한 줄기세포를 몸의 다른 부위에서 떼어낸 뼛조각들과 섞은 뒤 생체섬유 접착성분을 이용해 두개골에 이식했다.\n이후 3개월 뒤부터 뼈가 자라나 현재는 거의 원상태로 회복됐다.\n의료진은 \\\"앞으로 뼈의 두께만 원래만큼 자라면 치료가 끝난다\\\"고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "독일 의료진이 줄기세포를 이용해 머리뼈를 재생하는 데 성공했다고 dpa통신이 보도했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "줄기세포란 다양한 종류의 세포로 분화할 수 있는 엄마 세포를 말한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "독일 기센대학병원 한스 페터 호발트 교수가 주도하는 의료연구팀은 7세 소녀 환자의 지방조직에서 뽑아낸 줄기세포를 이용해 머리뼈를 본래의 모습대로 복원했다고 통신은 밝혔다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "소녀는 2001년 창문에서 굴러 떨어져 두개골에 큰 구멍이 뚫려 그동안 특수 헬멧을 쓰고 다녔다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "의료진은 \\\"구멍이 너무 커 뼈이식만으로는 한계가 있기 때문에 줄기세포 처치법을 병행하게 됐다\\\"고 설명했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "의료진은 2003년 5월 소녀의 체지방 세포에서 추출한 줄기세포를 몸의 다른 부위에서 떼어낸 뼛조각들과 섞은 뒤 생체섬유 접착성분을 이용해 두개골에 이식했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 3개월 뒤부터 뼈가 자라나 현재는 거의 원상태로 회복됐다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "의료진은 \\\"앞으로 뼈의 두께만 원래만큼 자라면 치료가 끝난다\\\"고 덧붙였다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "독일 의료진, 줄기세포 이용해 '이 뼈' 재생하는 데 성공…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194957",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[독자마당] 생명의 고귀함 깨달아 外",
+    "newsSubTitle": "",
+    "newsContent": "*** 생명의 고귀함 깨달아 표지에 실린 박경리 선생의 사진과 ‘흙에서 생명은 고통을 잊는다’라는 글귀가 시선을 끌었다. “돈벌기, 글쓰기보다 사는 게 더 중요하다”는 박경리 선생의 말씀이 그 어느 때보다 가슴에 와 닿았다.\n도대체 어디서부터 뒤틀린 생명의 고리를 바로잡아야 하는가?\n박경리 선생과 신경숙 선생의 대담을 읽으면서 나는 내내 이 생각에 빠져 있었다.\n최지훈(인천시 연수구 옥련동) *** 논술에 도움 되는 책 소개를 대학진학시 논술고사와 면접은 독서량이 많은 학생에게 아주 유리하다고 본다.\n앞으로 고교생을 위한 추천도서도 곁들여준다면 대학입시를 준비하는 학생이나 교사에게 더 많은 관심을 불러일으키고 온 국민의 독서 열기를 높이는 데 큰 도움이 되리라 믿는다.\n우정렬(부산시 중구 보수동) *** 다양한 문학공모전 알려주길 개인적으로 문학에 뜻이 있어 습작을 많이 한다.\n당연히 ‘문학공모전’에도 관심을이 많다.\n각 단체에서 공모하는 문학전이 있으면 분야별로 나눠 알려주길 바란다.\n황복희(대전시 동구 성남동) *** 청소년 도서도 다뤘으면 대학 1학년생인 나에게 ‘북리뷰’는 훌륭한 길잡이가 되고 있다.\n앞으로는 청소년이 읽어야 할 고전과 현대문학 등도 소개하고 서평을 곁들이면 정말 알찬 정보가 될 것 같다.\n우도형(부산시 사하구 신평2동)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "*** 생명의 고귀함 깨달아 표지에 실린 박경리 선생의 사진과 ‘흙에서 생명은 고통을 잊는다’라는 글귀가 시선을 끌었다. “돈벌기, 글쓰기보다 사는 게 더 중요하다”는 박경리 선생의 말씀이 그 어느 때보다 가슴에 와 닿았다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "도대체 어디서부터 뒤틀린 생명의 고리를 바로잡아야 하는가?",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박경리 선생과 신경숙 선생의 대담을 읽으면서 나는 내내 이 생각에 빠져 있었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최지훈(인천시 연수구 옥련동) *** 논술에 도움 되는 책 소개를 대학진학시 논술고사와 면접은 독서량이 많은 학생에게 아주 유리하다고 본다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞으로 고교생을 위한 추천도서도 곁들여준다면 대학입시를 준비하는 학생이나 교사에게 더 많은 관심을 불러일으키고 온 국민의 독서 열기를 높이는 데 큰 도움이 되리라 믿는다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "우정렬(부산시 중구 보수동) *** 다양한 문학공모전 알려주길 개인적으로 문학에 뜻이 있어 습작을 많이 한다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당연히 ‘문학공모전’에도 관심을이 많다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "각 단체에서 공모하는 문학전이 있으면 분야별로 나눠 알려주길 바란다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "황복희(대전시 동구 성남동) *** 청소년 도서도 다뤘으면 대학 1학년생인 나에게 ‘북리뷰’는 훌륭한 길잡이가 되고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "앞으로는 청소년이 읽어야 할 고전과 현대문학 등도 소개하고 서평을 곁들이면 정말 알찬 정보가 될 것 같다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "우도형(부산시 사하구 신평2동)",
+        "sentenceSize": 17
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "독자들이 말하는 '책 리뷰'의 필요성 보니…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

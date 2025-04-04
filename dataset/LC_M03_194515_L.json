@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194515",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BookBriefing] '고사리의 세계' 外",
+    "newsSubTitle": "",
+    "newsContent": "◆플래닛미디어 출판사에서 '고사리의 세계'(김정근 외 지음, 820쪽, 6만5000원.사진)를 출간했다.\n국내 최초로 전 세계 고사리 513종을 특징에서 재배 방법까지 800여 컷의 생생한 컬러 사진과 함께 소개한 식물도감이다.\n◆미국 하버드 대학에서 교재로 채택할 정도의 고급 교양만화를 그린 래리 고닉의 '세상에서 가장 재미있는…'시리즈 중 물리학과 통계학 편(각 216. 232쪽, 각 1만원)을 궁리 출판사에서 펴냈다.\n각 전공학자들과 공동작업으로 생활 속 이야기를 과학적이면서도 흥미롭게 풀어냈다.\n◆고대 물리학에서 현대 물리학까지, 상대성 이론을 중심으로 소설 형식으로 풀이한 '에스더의 싸이언스 데이트'(프랭크 페어모일렌 지음, 김완균 옮김, 예가람, 전 2권 각 416쪽, 각 권 1만4500원)이 나왔다.\n15세 소녀 에스더가 닐스 아저씨, 할아버지와 나누는 대화에서 과학적 오해와 함정을 풀어가는 교양물리학 책이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆플래닛미디어 출판사에서 '고사리의 세계'(김정근 외 지음, 820쪽, 6만5000원.사진)를 출간했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국내 최초로 전 세계 고사리 513종을 특징에서 재배 방법까지 800여 컷의 생생한 컬러 사진과 함께 소개한 식물도감이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "◆미국 하버드 대학에서 교재로 채택할 정도의 고급 교양만화를 그린 래리 고닉의 '세상에서 가장 재미있는…'시리즈 중 물리학과 통계학 편(각 216. 232쪽, 각 1만원)을 궁리 출판사에서 펴냈다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "각 전공학자들과 공동작업으로 생활 속 이야기를 과학적이면서도 흥미롭게 풀어냈다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◆고대 물리학에서 현대 물리학까지, 상대성 이론을 중심으로 소설 형식으로 풀이한 '에스더의 싸이언스 데이트'(프랭크 페어모일렌 지음, 김완균 옮김, 예가람, 전 2권 각 416쪽, 각 권 1만4500원)이 나왔다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "15세 소녀 에스더가 닐스 아저씨, 할아버지와 나누는 대화에서 과학적 오해와 함정을 풀어가는 교양물리학 책이다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고사리 이야기부터 '세상에서 가장 재미있는…' 시리즈까지... 볼만한 신간 과학책은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

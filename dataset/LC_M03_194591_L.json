@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194591",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[SHOPPING] 스키타고 공연보고",
+    "newsSubTitle": "",
+    "newsContent": "'스키장은 제품 판촉 마당'. 업계에서 추산한 국내 스키 인구는 500여만 명. 특히 이들 대부분이 구매 능력이 높은 계층이어서 업체마다 스키장 판촉 이벤트에 공을 들이고 있다.\n스킨케어 제품 뉴트로지나는 강원도 평창 휘닉스파크에 특별 부스를 설치, 방문객에게 피부 상태 진단, 핸드 마사지 서비스 등을 제공한다.\n자사 보디.핸드 제품도 무료로 나눠주며 'OX퀴즈''빙고게임' 같은 경품행사도 한다.\n행사 기간은 23일부터 내년 1월 1일까지다.\nGM대우는 여러 스키장에서 '윈스톰 윈터 페스티벌'을 연다. 윈스톰 구매 고객 등을 대상으로 내년 1월 28일까지 인터넷 응모(www.gmdaewoo.co.kr)를 받는다. 1234명을 선발, 휘닉스파크 스키 시즌권과 리조트 숙박권 등을 준다.\n또 스키장 내에 테마 라운지를 마련, 스키 장비를 무료로 보관할 수 있도록 했다.\n하이트맥주는 총인원 2000명이 참가하는 역대 최대 규모의 스키 캠프를 연다. 다음달 3일부터 2월 6일까지 총 10차례 스키강습을 하며 크라잉넛.가이즈 등의 공연도 볼 수 있다.\n장소는 올해 문을 연 강원도 정선 강원랜드 하이원이다.\n대학생이면 누구나 신청 가능하며 30일까지 홈페이지(www.hite.com)에서 접수 받는다.\n현대자동차는 다음달 13일부터 28일까지 현대 성우리조트에서 일반인을 대상으로 한 아마추어 스키.보드 대회를 연다. ▶남자 스키 부문 우승자에겐 베르나 ▶남자 스노보드 우승자에겐 클릭 ▶여자 우승자에겐 200만원 상당의 상품권을 준다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'스키장은 제품 판촉 마당'. 업계에서 추산한 국내 스키 인구는 500여만 명. 특히 이들 대부분이 구매 능력이 높은 계층이어서 업체마다 스키장 판촉 이벤트에 공을 들이고 있다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "스킨케어 제품 뉴트로지나는 강원도 평창 휘닉스파크에 특별 부스를 설치, 방문객에게 피부 상태 진단, 핸드 마사지 서비스 등을 제공한다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "자사 보디.핸드 제품도 무료로 나눠주며 'OX퀴즈''빙고게임' 같은 경품행사도 한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "행사 기간은 23일부터 내년 1월 1일까지다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "GM대우는 여러 스키장에서 '윈스톰 윈터 페스티벌'을 연다. 윈스톰 구매 고객 등을 대상으로 내년 1월 28일까지 인터넷 응모(www.gmdaewoo.co.kr)를 받는다. 1234명을 선발, 휘닉스파크 스키 시즌권과 리조트 숙박권 등을 준다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 스키장 내에 테마 라운지를 마련, 스키 장비를 무료로 보관할 수 있도록 했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하이트맥주는 총인원 2000명이 참가하는 역대 최대 규모의 스키 캠프를 연다. 다음달 3일부터 2월 6일까지 총 10차례 스키강습을 하며 크라잉넛.가이즈 등의 공연도 볼 수 있다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "장소는 올해 문을 연 강원도 정선 강원랜드 하이원이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "대학생이면 누구나 신청 가능하며 30일까지 홈페이지(www.hite.com)에서 접수 받는다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "현대자동차는 다음달 13일부터 28일까지 현대 성우리조트에서 일반인을 대상으로 한 아마추어 스키.보드 대회를 연다. ▶남자 스키 부문 우승자에겐 베르나 ▶남자 스노보드 우승자에겐 클릭 ▶여자 우승자에겐 200만원 상당의 상품권을 준다.",
+        "sentenceSize": 131
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "기업들, 앞다투어 스키장 판촉 이벤트 나서는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

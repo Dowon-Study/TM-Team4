@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195785",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "메르스 구제용 '급여비 선지급' 생색내기 논란",
+    "newsSubTitle": "대출 있으면 혜택 불가…실제 혜택 기관 151곳 중 48곳 불과",
+    "newsContent": "메르스 사태로 피해를 입은 의료기관을 지원하기 위해 정부가 요양급여비용 선지급 제도를 긴급 시행했지만 실제 혜택을 받는 기관은 극소수에 불과한 것으로 드러났다.\n앞서 보건복지부는 메르스 피해 의료기관 지원 대책으로 국민건강보험공단의 요양급여비용을 7일 내에 조기 지급하고, 요양기관 금융대출(메디칼론)의 기준을 낮추는 방안을 마련한 바 있다.\n또 감염병 관리기관으로 지정된 병원이나 환자가 발생·경유한 병원 등 직접 피해가 심한 병원들에 한해서는 요양급여비용을 선지급하기로도 했다.\n특정기간(2~4월)의 한 달 평균 요양급여비용을 기준으로 급여비를 먼저 지급하고, 실제 청구액이 더 많으면 9~12월 급여비에서 차감하는 방식이다.\n해당 의료기관 입장에선 적자폭이 급격히 커지는 상황에서 당장 숨통이 트이는 조치로 기대를 모았다.\n그러나 금융기관 대출이 없어야 하는 점이 선지급 조건으로 붙어 상당수 의료기관은 이 혜택을 받지 못하고 있다.\n요양급여비용을 선지급하는 건 향후 발생할 비용을 먼저 주고 추후 갚는 개념으로, 이미 대출 담보로 설정한 요양급여비용에 또다시 담보가 설정되는 것과 같아 불가능하다는 게 복지부의 설명이다.\n이에 따라 대상 의료기관 151곳 가운데 이 혜택을 받은 곳은 1/3도 안 되는 48곳에 불과한 것으로 전해진다.\n결국 복지부의 정책은 생색내기에 불과했다는 게 병원계의 불만이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "메르스 사태로 피해를 입은 의료기관을 지원하기 위해 정부가 요양급여비용 선지급 제도를 긴급 시행했지만 실제 혜택을 받는 기관은 극소수에 불과한 것으로 드러났다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "앞서 보건복지부는 메르스 피해 의료기관 지원 대책으로 국민건강보험공단의 요양급여비용을 7일 내에 조기 지급하고, 요양기관 금융대출(메디칼론)의 기준을 낮추는 방안을 마련한 바 있다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 감염병 관리기관으로 지정된 병원이나 환자가 발생·경유한 병원 등 직접 피해가 심한 병원들에 한해서는 요양급여비용을 선지급하기로도 했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특정기간(2~4월)의 한 달 평균 요양급여비용을 기준으로 급여비를 먼저 지급하고, 실제 청구액이 더 많으면 9~12월 급여비에서 차감하는 방식이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "해당 의료기관 입장에선 적자폭이 급격히 커지는 상황에서 당장 숨통이 트이는 조치로 기대를 모았다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 금융기관 대출이 없어야 하는 점이 선지급 조건으로 붙어 상당수 의료기관은 이 혜택을 받지 못하고 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "요양급여비용을 선지급하는 건 향후 발생할 비용을 먼저 주고 추후 갚는 개념으로, 이미 대출 담보로 설정한 요양급여비용에 또다시 담보가 설정되는 것과 같아 불가능하다는 게 복지부의 설명이다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 따라 대상 의료기관 151곳 가운데 이 혜택을 받은 곳은 1/3도 안 되는 48곳에 불과한 것으로 전해진다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "결국 복지부의 정책은 생색내기에 불과했다는 게 병원계의 불만이다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정부, 메르스 피해 의료기관에 요양 급여비용 선지급 시행…. 지급 조건은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197667",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "H.O.T., 9월에 완전체 본다...고척돔 콘서트 확정",
+    "newsSubTitle": "",
+    "newsContent": "그룹 에이치오티(H.O.T.)가 오는 9월 완전체로 뭉친다. 24일 H.O.T.의 공연 기획 관계자는 미디어SR에 \\\"하이파이브 오프 틴에이저스(High-five Of Teenagers)가 오는 9월 2019 단독 콘서트 '2019 High-five Of Teenagers' 개최를 확정 지었다\\\"고 밝혔다.\nH.O.T.는 지난 해 잠실 주경기장에서 콘서트를 열고 팬들을 만났다.\n17년 만에 완전체로 뭉친 H.O.T.의 공연은 당시 모든 예매처 서버가 전체 다운됐을 정도로 큰 화제를 모았다.\n10만여 명의 팬들이 모인 지난해 공연 당시 H.O.T. 멤버들은 과거 활동기에 사용하던 소품을 사용한 것은 물론, 전성기 때와 다름 없는 무대 매너로 호평 받았다.\n공연 이후 콘서트 실황을 담은 DVD 문의와 추가 공연을 바라는 팬들의 성원 역시 들끓었다.\nH.O.T.의 올해 공연은 오는 9월 서울 구로구에 위치한 고척돔에서 개최된다.\n회차 및 티켓 오픈 일정은 미정이며 예매처와 협의를 마친 뒤 세부적인 공연일정 등이 추후 공지될 예정이다.\n문희준 장우혁 토니안 강타 이재원 등으로 구성된 그룹 H.O.T.는 지난 1996년 데뷔해 선풍적인 인기를 끌었다.\n대표곡으로는 '전사의 후예', '캔디', '행복', '위 아 더 퓨처' 등이 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 에이치오티(H.O.T.)가 오는 9월 완전체로 뭉친다. 24일 H.O.T.의 공연 기획 관계자는 미디어SR에 \\\"하이파이브 오프 틴에이저스(High-five Of Teenagers)가 오는 9월 2019 단독 콘서트 '2019 High-five Of Teenagers' 개최를 확정 지었다\\\"고 밝혔다.",
+        "sentenceSize": 172
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "H.O.T.는 지난 해 잠실 주경기장에서 콘서트를 열고 팬들을 만났다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "17년 만에 완전체로 뭉친 H.O.T.의 공연은 당시 모든 예매처 서버가 전체 다운됐을 정도로 큰 화제를 모았다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "10만여 명의 팬들이 모인 지난해 공연 당시 H.O.T. 멤버들은 과거 활동기에 사용하던 소품을 사용한 것은 물론, 전성기 때와 다름 없는 무대 매너로 호평 받았다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "공연 이후 콘서트 실황을 담은 DVD 문의와 추가 공연을 바라는 팬들의 성원 역시 들끓었다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "H.O.T.의 올해 공연은 오는 9월 서울 구로구에 위치한 고척돔에서 개최된다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "회차 및 티켓 오픈 일정은 미정이며 예매처와 협의를 마친 뒤 세부적인 공연일정 등이 추후 공지될 예정이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "문희준 장우혁 토니안 강타 이재원 등으로 구성된 그룹 H.O.T.는 지난 1996년 데뷔해 선풍적인 인기를 끌었다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "대표곡으로는 '전사의 후예', '캔디', '행복', '위 아 더 퓨처' 등이 있다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그룹 H.O.T가 17년 만에 완전체로 선보이는 공연, '이곳'에서 열린다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

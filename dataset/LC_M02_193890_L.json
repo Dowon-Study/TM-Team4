@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193890",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "방탄소년단, 9월 평양공연 언급에 \\\"드릴 말씀 없다\\\" 난색",
+    "newsSubTitle": "",
+    "newsContent": "정치권이 방탄소년단의 평양 공연을 추진해보겠다고 밝혔다.\n이에 방탄소년단 측은 말을 아꼈다.\n8일 안민석 더불어민주당 의원이 \\\"오는 9월 평양공동선언 1주년을 기념해 평양 능라도 5·1 경기장에서 방탄소년단 출연 콘서트를 추진하려고 한다\\\"고 말했다.\n평양 시민들에 대한민국의 대중문화를 알린다는 취지다.\n방탄소년단 소속사 측에도 관련 사안을 문의한 것으로 알려졌다.\n이에 대해 방탄소년단 소속사 빅히트엔터테인먼트 관계자는 9일 미디어SR에 \\\"해당 공연에 대해 드릴 말씀은 없다\\\"며 조심스러운 반응을 보였다.\n공연 개최 여부가 확정나지 않은 만큼 방탄소년단 측도 이에 대한 언급을 최대한 아끼는 모양새다.\n한편, 방탄소년단의 미국 내 인기는 꾸준히 이어지고 있다.\n8일(현지시각) 빌보드 최신 차트에 따르면, 방탄소년단의 리패키지 앨범 'LOVE YOURSELF 結 'Answer''는 빌보드 200 차트에서 59위를 차지하며 19주 연속 랭크인에 성공했다.\n이외에도 월드 앨범 1위, 인디펜던트 앨범 2위, 톱 앨범 세일즈 33위, 빌보드 캐나디안 앨범 56위 등에 이름을 올렸다.\n방탄소년단은 오는 12일과 13일 일본 나고야돔에서 'LOVE YOURSELF' 일본 돔 투어를 진행할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "정치권이 방탄소년단의 평양 공연을 추진해보겠다고 밝혔다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이에 방탄소년단 측은 말을 아꼈다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "8일 안민석 더불어민주당 의원이 \\\"오는 9월 평양공동선언 1주년을 기념해 평양 능라도 5·1 경기장에서 방탄소년단 출연 콘서트를 추진하려고 한다\\\"고 말했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "평양 시민들에 대한민국의 대중문화를 알린다는 취지다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방탄소년단 소속사 측에도 관련 사안을 문의한 것으로 알려졌다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 대해 방탄소년단 소속사 빅히트엔터테인먼트 관계자는 9일 미디어SR에 \\\"해당 공연에 대해 드릴 말씀은 없다\\\"며 조심스러운 반응을 보였다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "공연 개최 여부가 확정나지 않은 만큼 방탄소년단 측도 이에 대한 언급을 최대한 아끼는 모양새다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, 방탄소년단의 미국 내 인기는 꾸준히 이어지고 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "8일(현지시각) 빌보드 최신 차트에 따르면, 방탄소년단의 리패키지 앨범 'LOVE YOURSELF 結 'Answer''는 빌보드 200 차트에서 59위를 차지하며 19주 연속 랭크인에 성공했다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이외에도 월드 앨범 1위, 인디펜던트 앨범 2위, 톱 앨범 세일즈 33위, 빌보드 캐나디안 앨범 56위 등에 이름을 올렸다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "방탄소년단은 오는 12일과 13일 일본 나고야돔에서 'LOVE YOURSELF' 일본 돔 투어를 진행할 예정이다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방탄소년단 평양 콘서트 추진, 김정은 만나나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

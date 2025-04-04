@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199051",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "엘리퀴스, 와파린 대비 뇌졸중·전신색전증 위험↓",
+    "newsSubTitle": "",
+    "newsContent": "[김진구 기자] BMS·화이자의 경구용 항응고제 엘리퀴스(성분명 아픽사반)가 와파린 대비 유일하게 뇌졸중과 전신색전증 위험성이 낮다는 연구 결과가 나왔다.\nBMS와 화이자는 경구용 항응고제 또는 와파린 치료를 받은 NVAF(비판막성 심방세동) 환자를 대상으로 뇌졸중, 전신색전증, 주요 출혈 위험을 비교분석한 결과를 지난 17일 발표했다.\n분석 결과에 따르면 엘리퀴스는 와파린 대비 뇌졸중 또는 전신색전증 및 주요 출혈 발생률이 유의하게 낮은 것으로 확인됐다.\n이 데이터는 워싱턴D.C에서 개최되는 미국심장학회(ACC)에서 발표됐다.\n이번 연구는 미국 노인의료보험인 메디케어의 데이터베이스를 활용, 2013~2014년 경구용 항응고제를 처방받은 65세 이상 환자 18만 여명을 대상으로 진행됐다.\n연구를 진행한 미국 캘리포니아 의과대학 알페시 아민 교수는 \\\"비판막성 심방세동 환자의 다양성을 감안했을 때 리얼 월드 데이터 분석은 무작위 임상 시험 데이터에 추가적인 정보를 제공한다\\\"고 설명했다.\nBMS 크리스토프 쾨넨 부사장은 “BMS와 화이자는 비판막성 심방세동과 정맥혈전색전증 환자 치료에 추가적인 정보 제공을 위한 연구에 지속적으로 대대적인 투자를 하고 있다”고 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] BMS·화이자의 경구용 항응고제 엘리퀴스(성분명 아픽사반)가 와파린 대비 유일하게 뇌졸중과 전신색전증 위험성이 낮다는 연구 결과가 나왔다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "BMS와 화이자는 경구용 항응고제 또는 와파린 치료를 받은 NVAF(비판막성 심방세동) 환자를 대상으로 뇌졸중, 전신색전증, 주요 출혈 위험을 비교분석한 결과를 지난 17일 발표했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "분석 결과에 따르면 엘리퀴스는 와파린 대비 뇌졸중 또는 전신색전증 및 주요 출혈 발생률이 유의하게 낮은 것으로 확인됐다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 데이터는 워싱턴D.C에서 개최되는 미국심장학회(ACC)에서 발표됐다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 연구는 미국 노인의료보험인 메디케어의 데이터베이스를 활용, 2013~2014년 경구용 항응고제를 처방받은 65세 이상 환자 18만 여명을 대상으로 진행됐다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구를 진행한 미국 캘리포니아 의과대학 알페시 아민 교수는 \\\"비판막성 심방세동 환자의 다양성을 감안했을 때 리얼 월드 데이터 분석은 무작위 임상 시험 데이터에 추가적인 정보를 제공한다\\\"고 설명했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "BMS 크리스토프 쾨넨 부사장은 “BMS와 화이자는 비판막성 심방세동과 정맥혈전색전증 환자 치료에 추가적인 정보 제공을 위한 연구에 지속적으로 대대적인 투자를 하고 있다”고 전했다.",
+        "sentenceSize": 101
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미국심장학회에서 발표된 '이것'… 65세 이상 환자 18만 여명 대상으로 진행",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

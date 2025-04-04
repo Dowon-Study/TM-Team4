@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199038",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "비만보다 위험한 저체중?…'BMI 18.5 미만' 저체중, 우울증 위험 16% 높아",
+    "newsSubTitle": "",
+    "newsContent": "여름이 다가오면서 다이어트에 대한 관심이 점차 높아지고 있다.\n이런 가운데 몸무게가 정상보다 적은 저체중도 비만 만큼이나 우울증의 위험이 높다는 연구 결과가 나왔다.\n서울대 의대 연구팀은 체중의 변화와 우울증 사이의 연관성을 조사한 연구논문 183건을 메타 분석(교차 분석)한 결과, 체질량지수(BMI) 18.5 이하인 저체중인 사람의 우울증 위험이 높다는 결론을 얻었다고 밝혔다.\n서울대 의대 예방의학교실 신애선, 강대희 교수와 미국 하버드대 정선재 연구원 등으로 구성된 연구팀은 이러한 내용의 보고서를 영국정신의학저널(The British Journal of Psychiatry)에 발표했다.\n연구팀은 BMI가 18.5 미만인 경우, 정상(18.5~24.9) 대비 우울증 위험이 16% 높은 것으로 드러났다고 밝혔다.\n비만(30 이상)의 경우, 정상 대비 우울증 위험이 13% 높다.\n저체중의 우울증 위험이 비만보다 3%p. 높은 것이다.\n하지만 성별에 따라 서로 상이한 결과를 보였다.\n남성의 경우, 저체중의 우울증 위험은 21%, 비만의 우울증 위험은 3% 높았지만, 여성의 경우 비만(26%)이 저체중(12%)보다 우울증 위험이 높았다.\n남성은 마르고 왜소할수록, 여성은 비만 정도가 심해질수록 우울증 위험이 높아진 것이다.\n연구팀은 \\\"여성은 남성보다 날씬해지고 싶다는 생각에 더 크게 영향을 받는 것으로 보인다\\\"고 분석했다.\n한편, 이번 연구에 대해 영국 왕립 정신과협회 측은 \\\"체중을 감량하면 행복이 향상되는 것만은 아니라는 중요한 발견을 했다\\\"고 평가했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "여름이 다가오면서 다이어트에 대한 관심이 점차 높아지고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이런 가운데 몸무게가 정상보다 적은 저체중도 비만 만큼이나 우울증의 위험이 높다는 연구 결과가 나왔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서울대 의대 연구팀은 체중의 변화와 우울증 사이의 연관성을 조사한 연구논문 183건을 메타 분석(교차 분석)한 결과, 체질량지수(BMI) 18.5 이하인 저체중인 사람의 우울증 위험이 높다는 결론을 얻었다고 밝혔다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서울대 의대 예방의학교실 신애선, 강대희 교수와 미국 하버드대 정선재 연구원 등으로 구성된 연구팀은 이러한 내용의 보고서를 영국정신의학저널(The British Journal of Psychiatry)에 발표했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연구팀은 BMI가 18.5 미만인 경우, 정상(18.5~24.9) 대비 우울증 위험이 16% 높은 것으로 드러났다고 밝혔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "비만(30 이상)의 경우, 정상 대비 우울증 위험이 13% 높다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "저체중의 우울증 위험이 비만보다 3%p. 높은 것이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 성별에 따라 서로 상이한 결과를 보였다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "남성의 경우, 저체중의 우울증 위험은 21%, 비만의 우울증 위험은 3% 높았지만, 여성의 경우 비만(26%)이 저체중(12%)보다 우울증 위험이 높았다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "남성은 마르고 왜소할수록, 여성은 비만 정도가 심해질수록 우울증 위험이 높아진 것이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "연구팀은 \\\"여성은 남성보다 날씬해지고 싶다는 생각에 더 크게 영향을 받는 것으로 보인다\\\"고 분석했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "한편, 이번 연구에 대해 영국 왕립 정신과협회 측은 \\\"체중을 감량하면 행복이 향상되는 것만은 아니라는 중요한 발견을 했다\\\"고 평가했다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "저체중이 비만보다 '이것' 위험도 높아...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

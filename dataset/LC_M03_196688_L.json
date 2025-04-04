@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196688",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스 신간 『발의 신비』 외 1건",
+    "newsSubTitle": "",
+    "newsContent": "『발의 신비』 조너선 로즈 빈센트 마토라나 지음 정한책방 인체를 구성하는 뼈의 4분의 1이 발에 몰려 있다.\n족저근막염·무지외반증 등 발 질환자는 흔하지만 정작 발에 대해 알고 있는 상식은 많지 않다. 『발의 신비』는 미국의 족부 전문의 2명이 공동 저술한 발 건강 가이드북이다.\n발의 해부학적 구조를 기초로 발의 기능적 특성과 통증, 당뇨병과 발의 상관관계를 상세히 설명한다.\n일상생활에서 자주 겪는 발 부상과 올바른 대응법을 담았다. 『만들어진 질병』 조너선 로즈 빈센트 마토라나 지음 정한책방 한국은 질병 공화국이란 오명에서 자유롭지 못하다.\n경제협력개발기구(OECD) 국가 중 암 사망률 1위, 자살률 1위 등 불명예스러운 통계가 많다. 『만들어진 질병』은 의학이 발전해도 건강과 행복이 위협받는 이유를 조명한다.\n저자인 칼럼니스트가 건강 전문가 4명에게 비만과 다이어트, 암과 치료, 우울증과 공황장애, 몸과 운동을 주제로 묻고 답한 대담을 엮었다.\n현대 의학을 둘러싼 오해와 진실을 엿볼 수 있는 책이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "『발의 신비』 조너선 로즈 빈센트 마토라나 지음 정한책방 인체를 구성하는 뼈의 4분의 1이 발에 몰려 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "족저근막염·무지외반증 등 발 질환자는 흔하지만 정작 발에 대해 알고 있는 상식은 많지 않다. 『발의 신비』는 미국의 족부 전문의 2명이 공동 저술한 발 건강 가이드북이다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "발의 해부학적 구조를 기초로 발의 기능적 특성과 통증, 당뇨병과 발의 상관관계를 상세히 설명한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "일상생활에서 자주 겪는 발 부상과 올바른 대응법을 담았다. 『만들어진 질병』 조너선 로즈 빈센트 마토라나 지음 정한책방 한국은 질병 공화국이란 오명에서 자유롭지 못하다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "경제협력개발기구(OECD) 국가 중 암 사망률 1위, 자살률 1위 등 불명예스러운 통계가 많다. 『만들어진 질병』은 의학이 발전해도 건강과 행복이 위협받는 이유를 조명한다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "저자인 칼럼니스트가 건강 전문가 4명에게 비만과 다이어트, 암과 치료, 우울증과 공황장애, 몸과 운동을 주제로 묻고 답한 대담을 엮었다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "현대 의학을 둘러싼 오해와 진실을 엿볼 수 있는 책이다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전 세계 암 사망률 1위, 자살률 1위 불명예 대한민국... 전문가 대담집 출간돼",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

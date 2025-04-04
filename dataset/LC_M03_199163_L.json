@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199163",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 두피·모발 건강 챙기는 저자극성 샴푸",
+    "newsSubTitle": "웰빙제품",
+    "newsContent": "남성의 두피는 하루 종일 괴롭다.\n잦은 흡연과 음주·스트레스·자외선으로 고통받는다.\n평소 아무렇지도 않게 사용하는 샴푸에 들어 있는 성분이 두피를 자극한다.\n머리카락을 가늘게 하고 두피 트러블을 일으킨다.\n심하면 탈모로 이어지기도 한다.\n일상 속 작은 실천으로 건강한 두피와 모발을 지키려면 우선 매일 사용하는 샴푸의 세정 성분부터 꼼꼼히 따져보는 게 좋다.\n시중에 나와 있는 샴푸 가운데 석유가 원료인 합성 계면활성제(소듐라우릴설페이트, 소듐라우레스설페이트)가 포함된 경우가 많다.\n오래 사용하면 두피 트러블과 탈모를 유발할 수 있다.\n외국에는 이런 성분을 아미노산계 세정 성분으로 대체한 제품이 출시돼 있다.\n아미노산계 세정 성분은 두피에 자극을 많이 주지 않는다.\n임산부나 어린이가 사용해도 될 정도로 안정성을 인정받았다.\n모발과 두피는 단백질로 구성돼 있는데, 아미노산계 세정 성분은 단백질 변성을 거의 일으키지 않는다.\n시중에 판매 중인 샴푸 가운데 우르오스의 스칼프샴푸(사진)는 아미노산계 세정 성분이 들어 있다.\n인공향료 및 인공색소가 없다.\n코어셀베이션 린스 성분이 포함돼 별도로 린스나 컨디셔너를 쓰지 않아도 모발을 부드럽게 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "남성의 두피는 하루 종일 괴롭다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "잦은 흡연과 음주·스트레스·자외선으로 고통받는다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "평소 아무렇지도 않게 사용하는 샴푸에 들어 있는 성분이 두피를 자극한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "머리카락을 가늘게 하고 두피 트러블을 일으킨다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "심하면 탈모로 이어지기도 한다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일상 속 작은 실천으로 건강한 두피와 모발을 지키려면 우선 매일 사용하는 샴푸의 세정 성분부터 꼼꼼히 따져보는 게 좋다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "시중에 나와 있는 샴푸 가운데 석유가 원료인 합성 계면활성제(소듐라우릴설페이트, 소듐라우레스설페이트)가 포함된 경우가 많다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오래 사용하면 두피 트러블과 탈모를 유발할 수 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "외국에는 이런 성분을 아미노산계 세정 성분으로 대체한 제품이 출시돼 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "아미노산계 세정 성분은 두피에 자극을 많이 주지 않는다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "임산부나 어린이가 사용해도 될 정도로 안정성을 인정받았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "모발과 두피는 단백질로 구성돼 있는데, 아미노산계 세정 성분은 단백질 변성을 거의 일으키지 않는다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "시중에 판매 중인 샴푸 가운데 우르오스의 스칼프샴푸(사진)는 아미노산계 세정 성분이 들어 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "인공향료 및 인공색소가 없다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "코어셀베이션 린스 성분이 포함돼 별도로 린스나 컨디셔너를 쓰지 않아도 모발을 부드럽게 한다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "두피와 모발 지키려면 '이것'부터 확인해야...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

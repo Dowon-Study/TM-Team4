@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197269",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "\\\"10년 됐어요\\\" 장한나 데뷔 10주년 순회 공연",
+    "newsSubTitle": "",
+    "newsContent": "1994년 10월 파리에서 열린 제5회 로스트로포비치 콩쿠르에서 심사위원 만장일치로 1위에 입상하면서 현대음악상까지 거머쥔 열한살짜리 꼬마 소녀가 있었다.\n그때만 해도 제대로 소리 나는 첼로 한대 갖고 있지 못하던 첼리스트 장한나양이었다.\n그로부터 10년이 흘러 장한나는 세계 굴지의 레이블 EMI의 전속 아티스트로, 로스트로포비치.시노폴리 등 세계적인 거장들과의 협연으로 4장의 음반을 낸 세계적인 첼리스트로 우뚝 섰다.\n첼리스트 장한나(21)가 올해 데뷔 10주년을 맞아 고국에서 의욕적인 무대를 꾸민다.\n피아노 반주 없이 첼로 하나 달랑 들고 전국 10개 도시 순회공연의 대장정에 나서는 것이다.\n장씨가 무반주곡만으로 독주회를 꾸미는 것은 이번이 처음이다.\n브리튼의 '무반주 모음곡 제1번'중 3악장은 로스트로포비치 콩쿠르에서 그에게 현대음악상을 안겨주었던 출세작. 바흐의 '무반주 모음곡'은 그가 연주 일정이 없을 때는 매일 오전 6시부터 3시간 동안 새벽기도 드리듯 혼자 연습에 몰두하는 곡이다.\n무반주곡만으로 프로그램을 꾸민 까닭을 물었다.\n\\\"데뷔 10주년 기념이라 욕심을 내봤어요. 피아니스트와의 호흡에 신경쓰지 않아도 되니 쉽고 편한 것 같지만 자유에는 그만큼의 책임이 뒤따릅니다. 혼자 작품의 세밀한 부분까지 부각해야 하기 때문에 힘들어요. '1인 다역'의 모노 드라마라고나 할까요.\\\" 그는 이번 고국 무대에서 첼로의 가능성과 한계를 끝간 데까지 펼쳐 보일 것이라고 의욕을 보였다.\n지난 10년을 정리하고 새로운 도약을 꿈꾸는 무대라는 것. 장한나는 바흐의 모음곡 6개 중에서도 제5번을 가장 좋아한다고 했다.\n다른 곡에 비해 길어서 자주 연주되지 않지만 치밀한 구성력이 마음에 든다고 소개했다.\n지난해 가을 하버드대 철학과에 진학한 장씨는 \\\"신경과학과 철학을 접목한 심리철학 수업이 가장 재미있다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "1994년 10월 파리에서 열린 제5회 로스트로포비치 콩쿠르에서 심사위원 만장일치로 1위에 입상하면서 현대음악상까지 거머쥔 열한살짜리 꼬마 소녀가 있었다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그때만 해도 제대로 소리 나는 첼로 한대 갖고 있지 못하던 첼리스트 장한나양이었다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그로부터 10년이 흘러 장한나는 세계 굴지의 레이블 EMI의 전속 아티스트로, 로스트로포비치.시노폴리 등 세계적인 거장들과의 협연으로 4장의 음반을 낸 세계적인 첼리스트로 우뚝 섰다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "첼리스트 장한나(21)가 올해 데뷔 10주년을 맞아 고국에서 의욕적인 무대를 꾸민다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "피아노 반주 없이 첼로 하나 달랑 들고 전국 10개 도시 순회공연의 대장정에 나서는 것이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "장씨가 무반주곡만으로 독주회를 꾸미는 것은 이번이 처음이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "브리튼의 '무반주 모음곡 제1번'중 3악장은 로스트로포비치 콩쿠르에서 그에게 현대음악상을 안겨주었던 출세작. 바흐의 '무반주 모음곡'은 그가 연주 일정이 없을 때는 매일 오전 6시부터 3시간 동안 새벽기도 드리듯 혼자 연습에 몰두하는 곡이다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "무반주곡만으로 프로그램을 꾸민 까닭을 물었다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "\\\"데뷔 10주년 기념이라 욕심을 내봤어요. 피아니스트와의 호흡에 신경쓰지 않아도 되니 쉽고 편한 것 같지만 자유에는 그만큼의 책임이 뒤따릅니다. 혼자 작품의 세밀한 부분까지 부각해야 하기 때문에 힘들어요. '1인 다역'의 모노 드라마라고나 할까요.\\\" 그는 이번 고국 무대에서 첼로의 가능성과 한계를 끝간 데까지 펼쳐 보일 것이라고 의욕을 보였다.",
+        "sentenceSize": 195
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "지난 10년을 정리하고 새로운 도약을 꿈꾸는 무대라는 것. 장한나는 바흐의 모음곡 6개 중에서도 제5번을 가장 좋아한다고 했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "다른 곡에 비해 길어서 자주 연주되지 않지만 치밀한 구성력이 마음에 든다고 소개했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "지난해 가을 하버드대 철학과에 진학한 장씨는 \\\"신경과학과 철학을 접목한 심리철학 수업이 가장 재미있다\\\"고 말했다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "오직 첼로 하나로 살벌한 음악계를 평정한 여자, 장한나... 순회공연 대장정 나선다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

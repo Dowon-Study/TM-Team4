@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193559",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "마스크 200만개 비축하고 중2~고3 무료 독감접종…복지부 3차 추경 1조542억원 편성",
+    "newsSubTitle": "코로나19 하반기 재유행 대비 감염병 대응에 8000억원 투입 저소득 가구 지원에 527억 원",
+    "newsContent": "신종 코로나바이러스 감염증(코로나19) 방역과 치료제 개발 등 감염병 대응에약 8000억원이 추가 투입된다.\n보건복지부는 3차 추가경정예산안(추경안)에 감염병 대응 예산 등 총 1조542억 원이 편성됐다고 3일 밝혔다.\n복지부에 따르면 3차 추경 예산 1조542억원은 ▶국가예방접종 확대· 마스크 비축, 치료제·백신 개발 등 감염병 대응(8090억원) ▶호흡기 전담 클리닉 설치 등 감염병 비대면 기반(인프라) 구축(987억원) ▶생계 위협 저소득 가구 지원 확대 등(1463억원)에 배정됐다.\n올 가을·겨울에 코로나19 재유행이 예상되면서 추경 예산의 80%가량이 방역 대응과 치료제 개발에 투입되는 셈이다.\n각 항목을 구체적으로 살펴보면 감염병 대응과 관련해 레벨D 보호복과 마스크 등 방역물품 비축에 2009억원이 배정됐다.\n레벨D 보호복 772만 개, 마스크 200만 개, 인공호흡기 300대, 에크모(체외막산호화장치·ECMO) 100대를 비축하는 데 쓰인다.\n만 14~18세(중2~고3) 대상 인플루엔자 국가예방접종 확대에도 265억원이 배정됐다.\n현재 무료 독감 접종은 생후 6개월~중학교 1학년생, 65세 이상 노인, 임신부 등이다.\n여기서 제외됐던 중2~고3을 이번에 국가예방접종 대상에 넣었다.\n수혜 인원은 약 235만 명이다.\n이 밖에 코로나19 치료제·백신 임상시험 전주기 지원, 국립 바이러스·감염병 연구소 인프라 확충 등 관련 연구개발(R&D) 확대에1404억 원이 투입된다.\n또 코로나 사태로 매출이 급감해 경영이 어려워진 의료기관에도 4000억 원의 융자를 추가 지원키로 했다.\n감염병 비대면 인프라 구축을 위한 호흡기 전담 클리닉 500곳을 설치하는 데 500억원이 들어간다.\n정부는 지난달 초 올 가을 코로나19 재유행에 대비해 호흡기 전담 클리닉 설치 계획을 밝힌 바 있다.\n기침이나 콧물, 발열 등 코로나19와 유사한 증상을 보이는 호흡기 질환 환자를 대상으로 안전한 진료체계를 갖추려는 목적에서다.\n이와 함께 복지부는 코로나19로 인해 생계가 어려워진 저소득 가구 지원 확대에 527억 원을 투입한다.\n이에 따라 다음달까지인 긴급복지 지원요건 완화 기간을 연말까지 연장하기로 했다.\n대상 인원은 약 3만 가구다.\n정부는 앞서 1차 추경 때 기초생활수급자·차상위계층에 한시 생활지원에 1조242억 원을 배정한 바 있다.\n코로나19 거점병원 등으로 배정되며 일반 환자를 받지 못해 매출이 급감한 의료기관을 위한 방역 지원과 일자리 지원에도 583억원이 편성됐다.\n복지부는 \\\"3차 추경에 따라 2020년 총지출이 86조1650억 원에서 87조1115억 원으로 증가했다\\\"며 \\\"코로나19로 집행이 곤란한 사업 등 지출 구조조정으로 1077억 원을 감액해 추경 재원에 보탰다\\\"고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신종 코로나바이러스 감염증(코로나19) 방역과 치료제 개발 등 감염병 대응에약 8000억원이 추가 투입된다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보건복지부는 3차 추가경정예산안(추경안)에 감염병 대응 예산 등 총 1조542억 원이 편성됐다고 3일 밝혔다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "복지부에 따르면 3차 추경 예산 1조542억원은 ▶국가예방접종 확대· 마스크 비축, 치료제·백신 개발 등 감염병 대응(8090억원) ▶호흡기 전담 클리닉 설치 등 감염병 비대면 기반(인프라) 구축(987억원) ▶생계 위협 저소득 가구 지원 확대 등(1463억원)에 배정됐다.",
+        "sentenceSize": 153
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "올 가을·겨울에 코로나19 재유행이 예상되면서 추경 예산의 80%가량이 방역 대응과 치료제 개발에 투입되는 셈이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "각 항목을 구체적으로 살펴보면 감염병 대응과 관련해 레벨D 보호복과 마스크 등 방역물품 비축에 2009억원이 배정됐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "레벨D 보호복 772만 개, 마스크 200만 개, 인공호흡기 300대, 에크모(체외막산호화장치·ECMO) 100대를 비축하는 데 쓰인다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "만 14~18세(중2~고3) 대상 인플루엔자 국가예방접종 확대에도 265억원이 배정됐다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현재 무료 독감 접종은 생후 6개월~중학교 1학년생, 65세 이상 노인, 임신부 등이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "여기서 제외됐던 중2~고3을 이번에 국가예방접종 대상에 넣었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "수혜 인원은 약 235만 명이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 밖에 코로나19 치료제·백신 임상시험 전주기 지원, 국립 바이러스·감염병 연구소 인프라 확충 등 관련 연구개발(R&D) 확대에1404억 원이 투입된다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "또 코로나 사태로 매출이 급감해 경영이 어려워진 의료기관에도 4000억 원의 융자를 추가 지원키로 했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "감염병 비대면 인프라 구축을 위한 호흡기 전담 클리닉 500곳을 설치하는 데 500억원이 들어간다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "정부는 지난달 초 올 가을 코로나19 재유행에 대비해 호흡기 전담 클리닉 설치 계획을 밝힌 바 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "기침이나 콧물, 발열 등 코로나19와 유사한 증상을 보이는 호흡기 질환 환자를 대상으로 안전한 진료체계를 갖추려는 목적에서다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "이와 함께 복지부는 코로나19로 인해 생계가 어려워진 저소득 가구 지원 확대에 527억 원을 투입한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이에 따라 다음달까지인 긴급복지 지원요건 완화 기간을 연말까지 연장하기로 했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "대상 인원은 약 3만 가구다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "정부는 앞서 1차 추경 때 기초생활수급자·차상위계층에 한시 생활지원에 1조242억 원을 배정한 바 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "코로나19 거점병원 등으로 배정되며 일반 환자를 받지 못해 매출이 급감한 의료기관을 위한 방역 지원과 일자리 지원에도 583억원이 편성됐다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "복지부는 \\\"3차 추경에 따라 2020년 총지출이 86조1650억 원에서 87조1115억 원으로 증가했다\\\"며 \\\"코로나19로 집행이 곤란한 사업 등 지출 구조조정으로 1077억 원을 감액해 추경 재원에 보탰다\\\"고 밝혔다.",
+        "sentenceSize": 125
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신종 코로나바이러스 감염증 감염병 대응 비용 '낭낭하게' 8,000억 원",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

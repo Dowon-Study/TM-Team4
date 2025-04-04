@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197245",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "가상ㆍ현실 혼동하는 현대인의 폭력성",
+    "newsSubTitle": "희곡 〈암흑전설 영웅전〉",
+    "newsContent": "\\\"대학시절 희곡에 매력을 느껴 글을 쓰기 시작했는데, 그동안 많은 회의를 느꼈습니다. 방황끝에 새로운 열정을 가지고 재출발하는 시점에서 받게된 이번 상은 희곡에 대한 애정과 글쓰기에의 확신을 불어넣어 주는 계기가 됐습니다.\\\" 〈암흑전설 영웅전〉 이란 작품으로 당선된 차근호(28)씨는 서울예대 극작과를 졸업한 다음해인 1997년 중앙일보 희곡부문 당선자로 등단했다.\n등단후 3년은 차씨에게 기나긴 방황과 회의의 시간이었다.\n정성 들인 작품이 연출가의 손길에 헝클어지는 현실을 보면서 작가로서의 자존심이 상했다.\n삼성문학상에 응모했으나 연거푸 두 번 최종심에서 떨어졌다.\n\\\"세상 모든 것들이 나를 비켜가기로 작정한 것 같았습니다. 그러나 3년만에 깨달았습니다. 희곡에 대한 열정이 없었기에 만족할만한 작품을 못내놓았던 거죠. 자만했던 겁니다.\\\" 열정을 되찾은 그는 지난해 말 〈조선제왕신위〉(실험극장)라는 작품을 처음으로 무대에 올릴 수 있었고, 이 작품은 동아연극상 작품.연출.무대상을 휩쓸었다.\n내친 김에 〈암흑전설 영웅전〉 을 올해초 탈고했다.\n이번 작품은 컴퓨터게임에 빠져 가상공간과 현실속의 폭력성을 혼동하는 남자가 주인공. 폭력성이라는 현대인의 소외를 가상과 현실을 오가며 극적으로 보여주고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"대학시절 희곡에 매력을 느껴 글을 쓰기 시작했는데, 그동안 많은 회의를 느꼈습니다. 방황끝에 새로운 열정을 가지고 재출발하는 시점에서 받게된 이번 상은 희곡에 대한 애정과 글쓰기에의 확신을 불어넣어 주는 계기가 됐습니다.\\\" 〈암흑전설 영웅전〉 이란 작품으로 당선된 차근호(28)씨는 서울예대 극작과를 졸업한 다음해인 1997년 중앙일보 희곡부문 당선자로 등단했다.",
+        "sentenceSize": 206
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "등단후 3년은 차씨에게 기나긴 방황과 회의의 시간이었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정성 들인 작품이 연출가의 손길에 헝클어지는 현실을 보면서 작가로서의 자존심이 상했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "삼성문학상에 응모했으나 연거푸 두 번 최종심에서 떨어졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "\\\"세상 모든 것들이 나를 비켜가기로 작정한 것 같았습니다. 그러나 3년만에 깨달았습니다. 희곡에 대한 열정이 없었기에 만족할만한 작품을 못내놓았던 거죠. 자만했던 겁니다.\\\" 열정을 되찾은 그는 지난해 말 〈조선제왕신위〉(실험극장)라는 작품을 처음으로 무대에 올릴 수 있었고, 이 작품은 동아연극상 작품.연출.무대상을 휩쓸었다.",
+        "sentenceSize": 184
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "내친 김에 〈암흑전설 영웅전〉 을 올해초 탈고했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번 작품은 컴퓨터게임에 빠져 가상공간과 현실속의 폭력성을 혼동하는 남자가 주인공. 폭력성이라는 현대인의 소외를 가상과 현실을 오가며 극적으로 보여주고 있다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "현실과 가상 사이에서 총기난사하는 남자? <암흑전설 영웅전> 중앙일보 희곡부분 당선작",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193378",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[짤막소식] 롯데호텔서울 무궁화 한식레스토랑 外",
+    "newsSubTitle": "",
+    "newsContent": "◆롯데호텔서울 무궁화 한식레스토랑은 다음달 3일부터 12일까지 신라 왕실 약선요리 전문가 차은정씨를 초청해 ‘신라 왕실요리 미각여행’ 행사를 연다. 신라의 요리는 고려·조선 시대를 거쳐 현재에 이르기까지 한국 음식문화사의 토대를 이루고 있다.\n또 불교 국가였기에 육류보다는 채소와 곡식을 이용한 요리가 발달했다.\n점심코스 메뉴는 5만원부터. 02-317-7061. ◆웨스틴 조선호텔이 운영하는 그레머시 키친(서울 신사동 소재)은 29일 오후 7시부터 와인 앤 다이 ‘서머 와인 블리스(Summer Wine Bliss)’를 진행한다.\n뉴욕 스타일의 메뉴에 맞춰 레콜No41(L’Ecole No 41) 등 미국산 고급 와인을 제공하고, 솔로이스트의 오페라 아리아 공연도 함께 펼친다. 15만원. 02-512-1046. ◆63시티 백리향 중식당은 7월1일부터 ‘2007 홍콩 국제요리 경연대회’ 은상 수상 메뉴를 내놓는다.\n상을 받은 ‘인삼 닭고기와 엔다이브 쌈’와 ‘홍삼 영양밥을 곁들인 석반어찜’을 구성한 코스 메뉴로 값은 10만원부터.02-789-5741. ◆롯데월드가 6개월간의 리뉴얼 공사를 마치고 7월 1일 재개관한다.\n노후 시설·자재를 모두 신소재로 교체했고, 음향·조명 시설도 늘렸다.\n말 모양 놀이기구를 타고 3D 애니메이션 게임을 즐기는 ‘데스페라도’, 3D 공포 영상관 ‘고스트 하우스’ 등 새 놀이시설도 선보인다.\nwww.lotteworld.com, 02-411-2000. ◆설악워터피아는 개장 10주년을 기념해 아르헨티나 축제 ‘피에스타 부엔 아이레(Fiesta Buen Ayre)’ 를 연다. 전통 춤, 탱고 쇼 등을 구경할 수 있는 ‘쇼 엔 비보(Show en vivo)’ 공연이 오전 11시와 오후 7시 야외 이벤트 홀에서 열린다. 7월 13일부터 8월 26일까지. 033-635-7711.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆롯데호텔서울 무궁화 한식레스토랑은 다음달 3일부터 12일까지 신라 왕실 약선요리 전문가 차은정씨를 초청해 ‘신라 왕실요리 미각여행’ 행사를 연다. 신라의 요리는 고려·조선 시대를 거쳐 현재에 이르기까지 한국 음식문화사의 토대를 이루고 있다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "또 불교 국가였기에 육류보다는 채소와 곡식을 이용한 요리가 발달했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "점심코스 메뉴는 5만원부터. 02-317-7061. ◆웨스틴 조선호텔이 운영하는 그레머시 키친(서울 신사동 소재)은 29일 오후 7시부터 와인 앤 다이 ‘서머 와인 블리스(Summer Wine Bliss)’를 진행한다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "뉴욕 스타일의 메뉴에 맞춰 레콜No41(L’Ecole No 41) 등 미국산 고급 와인을 제공하고, 솔로이스트의 오페라 아리아 공연도 함께 펼친다. 15만원. 02-512-1046. ◆63시티 백리향 중식당은 7월1일부터 ‘2007 홍콩 국제요리 경연대회’ 은상 수상 메뉴를 내놓는다.",
+        "sentenceSize": 159
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "상을 받은 ‘인삼 닭고기와 엔다이브 쌈’와 ‘홍삼 영양밥을 곁들인 석반어찜’을 구성한 코스 메뉴로 값은 10만원부터.02-789-5741. ◆롯데월드가 6개월간의 리뉴얼 공사를 마치고 7월 1일 재개관한다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "노후 시설·자재를 모두 신소재로 교체했고, 음향·조명 시설도 늘렸다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "말 모양 놀이기구를 타고 3D 애니메이션 게임을 즐기는 ‘데스페라도’, 3D 공포 영상관 ‘고스트 하우스’ 등 새 놀이시설도 선보인다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "www.lotteworld.com, 02-411-2000. ◆설악워터피아는 개장 10주년을 기념해 아르헨티나 축제 ‘피에스타 부엔 아이레(Fiesta Buen Ayre)’ 를 연다. 전통 춤, 탱고 쇼 등을 구경할 수 있는 ‘쇼 엔 비보(Show en vivo)’ 공연이 오전 11시와 오후 7시 야외 이벤트 홀에서 열린다. 7월 13일부터 8월 26일까지. 033-635-7711.",
+        "sentenceSize": 214
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'맛잘알' 롯데호텔서울 무궁화 한식레스토랑, ‘신라 왕실요리 미각여행’ 행사 열어",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

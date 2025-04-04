@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M09_193966",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "방송·연예",
+    "newsTitle": "생면부지 두 남자의 ‘식당 동업’ 엿보기",
+    "newsSubTitle": "null",
+    "newsContent": "다큐인생 2막 ‘인연, 아름다운 동업으로 남다’(EBS 밤 10시40분) 2부. 11년 기자생활을 포기하고 미국에서 주방 보조 생활을 했던 허강우(44)씨와 광고회사에서 20년 동안 일하다가 그만둔 오시환(57)씨. 성격도 자라온 환경도 다른 생면부지 두 남자의 동업이 순탄할 리 없다.\n두 사람은 허씨가 먼저 식당을 연 오씨의 가게에 손님으로 갔다가 동업자가 됐다.\n허씨는 순발력이 떨어지고 오씨는 주방 일에 서툴다.\n그래서 오씨는 기획과 음식 개발 등을 담당하고 허씨는 주방 업무와 회계를 책임진다.\n허씨는 둘 다 ‘사장’인데도 주방 일을 더 많이 하는 것이 가끔은 불만이다.\n그렇다고 일 못하는 오씨에게 맡길 수도 없다. 3년 동안 동업계약서를 맺은 두 사람은 과연 재계약할까?\n말 못하고 ‘속 터지는’ 상황이 오늘도 이어진다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "다큐인생 2막 ‘인연, 아름다운 동업으로 남다’(EBS 밤 10시40분) 2부. 11년 기자생활을 포기하고 미국에서 주방 보조 생활을 했던 허강우(44)씨와 광고회사에서 20년 동안 일하다가 그만둔 오시환(57)씨. 성격도 자라온 환경도 다른 생면부지 두 남자의 동업이 순탄할 리 없다.",
+        "sentenceSize": 160
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "두 사람은 허씨가 먼저 식당을 연 오씨의 가게에 손님으로 갔다가 동업자가 됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "허씨는 순발력이 떨어지고 오씨는 주방 일에 서툴다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그래서 오씨는 기획과 음식 개발 등을 담당하고 허씨는 주방 업무와 회계를 책임진다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "허씨는 둘 다 ‘사장’인데도 주방 일을 더 많이 하는 것이 가끔은 불만이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그렇다고 일 못하는 오씨에게 맡길 수도 없다. 3년 동안 동업계약서를 맺은 두 사람은 과연 재계약할까?",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "말 못하고 ‘속 터지는’ 상황이 오늘도 이어진다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "기자와 광고회사 출신의 살벌한 동업, 시청자들 속 터진 진짜 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

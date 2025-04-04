@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198907",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "파 한단 심부름에 남들 눈치보는 어설픈 백수",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 마눌님! 마눌님!(25) “여보~! 슈퍼에 뛰어가서 파 한 단만 사와요. 냉장고에 파가 떨어진 줄 몰랐네.” 에구, 에구~ 이넘의 마눌아!\n그러기에 내가 뭐라 했어.\n장 보러 마트에 갈 땐 살 물건을 쪽지에 적어 빼먹지 말고 하나하나 잘 챙겨서 사라고 했잖아.\n아파트 후문 앞 슈퍼에서 파 한 단 달랑 사 들고 구시렁대면서 집으로 뛰어오는 내 모습을 103호 옆집 철이 엄마가 흘낏 봤다.\n뭐라 흉봤을까?\n착한 백수라고 했을까?\n아니면 저렇게 늙으면 안 된다고 했을까?\n파 한 단 사 들고 오면서 오만가지 생각으로 내 얼굴이 후끈 달았다.\n백수는 철면피가 되어야 하는데 나는 아직도 백수 노릇이 어설픈가 보다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 마눌님! 마눌님!(25) “여보~! 슈퍼에 뛰어가서 파 한 단만 사와요. 냉장고에 파가 떨어진 줄 몰랐네.” 에구, 에구~ 이넘의 마눌아!",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그러기에 내가 뭐라 했어.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "장 보러 마트에 갈 땐 살 물건을 쪽지에 적어 빼먹지 말고 하나하나 잘 챙겨서 사라고 했잖아.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아파트 후문 앞 슈퍼에서 파 한 단 달랑 사 들고 구시렁대면서 집으로 뛰어오는 내 모습을 103호 옆집 철이 엄마가 흘낏 봤다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "뭐라 흉봤을까?",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "착한 백수라고 했을까?",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아니면 저렇게 늙으면 안 된다고 했을까?",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "파 한 단 사 들고 오면서 오만가지 생각으로 내 얼굴이 후끈 달았다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "백수는 철면피가 되어야 하는데 나는 아직도 백수 노릇이 어설픈가 보다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "나는 아직도 '이 생활'이 창피하다... 파 한 단 사 오면서 오만가지 생각에 잠겨",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

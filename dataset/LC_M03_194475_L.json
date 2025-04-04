@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194475",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[뉴스비타민] \\\"긁적긁적\\\" 우리 아이, 혹시 머릿니?",
+    "newsSubTitle": "",
+    "newsContent": "1960~70년대 어려운 시절 유행했던 머릿니가 다시 기승입니다.\n4일 질병관리본부는 1월 대구.마산에 이어 최근 제주.경북.울주 등에서 머릿니 감염 사례가 잇따라 보고됐다고 발표했습니다.\n질병관리본부의 2005년 발표에 따르면 전국 초등학생 중 6.5%가 머릿니에 감염된 것으로 나타났습니다.\n흔히 후진국 병이라고 여겨지는 머릿니는 사실 경제 수준.가정 환경.성별.나이에 구분없이 쉽게 발생할 수 있는 감염증입니다.\n고대 이집트 시대부터 존재했고, 현재 미국과 유럽에서도 매년 1000만 명의 어린이에게서 발견되는 '끈질긴' 곤충이지요.\n머릿니가 직접 질병을 전파하지는 않지만 가려움증과 피부 손상으로 2차 감염을 일으키기 때문에 즉시 치료해야 합니다.\n또래 집단에서 따돌림의 원인이 될 수도 있기 때문에 세심한 주의도 필요하지요.\n머릿니를 예방하기 위해 가장 중요한 것은 머리카락의 청결을 유지하는 것입니다.\n머릿니는 애완동물이나 섬유 등을 매개로 옮아 가므로 수건.침구 등을 구분해 써야 확산을 막을 수 있습니다.\n일단 머릿니가 발견되면 전용 빗 혹은 약용 샴푸를 이용해 머릿니의 알까지 완벽하게 제거해야 합니다.\n약을 사용할 경우 부작용이나 용법 등을 꼼꼼히 살피는 것도 중요합니다.\n살충 성분인 린덴이 함유된 제품은 장기간 사용 시 경련이나 암 유발, 자폐증, 학습 장애 등의 부작용을 일으키기 때문입니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "1960~70년대 어려운 시절 유행했던 머릿니가 다시 기승입니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "4일 질병관리본부는 1월 대구.마산에 이어 최근 제주.경북.울주 등에서 머릿니 감염 사례가 잇따라 보고됐다고 발표했습니다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "질병관리본부의 2005년 발표에 따르면 전국 초등학생 중 6.5%가 머릿니에 감염된 것으로 나타났습니다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "흔히 후진국 병이라고 여겨지는 머릿니는 사실 경제 수준.가정 환경.성별.나이에 구분없이 쉽게 발생할 수 있는 감염증입니다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "고대 이집트 시대부터 존재했고, 현재 미국과 유럽에서도 매년 1000만 명의 어린이에게서 발견되는 '끈질긴' 곤충이지요.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "머릿니가 직접 질병을 전파하지는 않지만 가려움증과 피부 손상으로 2차 감염을 일으키기 때문에 즉시 치료해야 합니다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또래 집단에서 따돌림의 원인이 될 수도 있기 때문에 세심한 주의도 필요하지요.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "머릿니를 예방하기 위해 가장 중요한 것은 머리카락의 청결을 유지하는 것입니다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "머릿니는 애완동물이나 섬유 등을 매개로 옮아 가므로 수건.침구 등을 구분해 써야 확산을 막을 수 있습니다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "일단 머릿니가 발견되면 전용 빗 혹은 약용 샴푸를 이용해 머릿니의 알까지 완벽하게 제거해야 합니다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "약을 사용할 경우 부작용이나 용법 등을 꼼꼼히 살피는 것도 중요합니다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "살충 성분인 린덴이 함유된 제품은 장기간 사용 시 경련이나 암 유발, 자폐증, 학습 장애 등의 부작용을 일으키기 때문입니다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'머릿니 경고', 옛날에 유행했던 머릿니 다시 기승... 예방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

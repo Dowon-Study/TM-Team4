@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194656",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "영국 오케스트라 톱 10에 꼽힌 BBC심포니 한국 무대",
+    "newsSubTitle": "",
+    "newsContent": "영국 최고(最古)의 교향악단은 1840년에 창단된 로열 리버풀 오케스트라다.\n그렇다면 영국 최고(最高)의 교향악단은? 선뜻 대답하기 어려운 질문이다.\n일반적으로 런던 심포니를 떠올리기 쉽지만 영국 현지 언론은 어떻게 생각할까.\n2006~2007년 시즌 개막을 앞두고 런던'더 타임스'의 수석 음악평론가 리처드 모리슨이 정리한'영국 오케스트라 톱 10'을 소개한다.\n지휘자, 상주 공연장, 프로그램 등을 종합해 매긴 순위다.\n최근 훌륭한 지휘자를 영입했거나 신축 콘서트홀에 입주한 교향악단들이 좋은 점수를 받았다.\n국내에선 거의 무명이나 다름없는'노던 신포니아'가 3위에 오른 것은 영국이 낳은 세계적인 건축가 노먼 포스터가 설계한 '게이트헤드 세이지'에 입주했기 때문이다.\n10월 21일 성남아트센터, 22일 서울 예술의전당 공연을 앞두고 있는 BBC 심포니는 4위에 올랐다.\n5월 내한공연 당시 2중 출연 의혹으로 파문을 일으킨 로열 필하모닉(지휘 다니엘레 가티)은 로열 리버풀 필하모닉(지휘 바실리 페트렌코), 웨일스 BBC 내셔널 오케스트라(지휘 티에리 피셔), BBC 스코티시 심포니 등과 함께 10위권 밖에 머물렀다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영국 최고(最古)의 교향악단은 1840년에 창단된 로열 리버풀 오케스트라다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그렇다면 영국 최고(最高)의 교향악단은? 선뜻 대답하기 어려운 질문이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일반적으로 런던 심포니를 떠올리기 쉽지만 영국 현지 언론은 어떻게 생각할까.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2006~2007년 시즌 개막을 앞두고 런던'더 타임스'의 수석 음악평론가 리처드 모리슨이 정리한'영국 오케스트라 톱 10'을 소개한다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지휘자, 상주 공연장, 프로그램 등을 종합해 매긴 순위다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최근 훌륭한 지휘자를 영입했거나 신축 콘서트홀에 입주한 교향악단들이 좋은 점수를 받았다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "국내에선 거의 무명이나 다름없는'노던 신포니아'가 3위에 오른 것은 영국이 낳은 세계적인 건축가 노먼 포스터가 설계한 '게이트헤드 세이지'에 입주했기 때문이다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "10월 21일 성남아트센터, 22일 서울 예술의전당 공연을 앞두고 있는 BBC 심포니는 4위에 올랐다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "5월 내한공연 당시 2중 출연 의혹으로 파문을 일으킨 로열 필하모닉(지휘 다니엘레 가티)은 로열 리버풀 필하모닉(지휘 바실리 페트렌코), 웨일스 BBC 내셔널 오케스트라(지휘 티에리 피셔), BBC 스코티시 심포니 등과 함께 10위권 밖에 머물렀다.",
+        "sentenceSize": 139
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국내 무명의 반란, '노던 신포니아'가 '영국 오케스트라 톱 10'에서 거둔 성적은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

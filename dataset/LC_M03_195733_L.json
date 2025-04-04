@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195733",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[9월30일]미국發 바이오 약세, 코스닥으로 번져",
+    "newsSubTitle": "",
+    "newsContent": "9월의 마지막 날 코스닥 시장은 전 거래일에 비해 4.22포인트(-0.62%) 하락한 678.48에 장을 마쳤다.\n업종별로는 출판·배체복제와 운송장비·부품, 인터넷 업종이 상승한 반면, 섬유·의류와 건설 업종 등은 하락했다.\n특히 바이오·제약 업종은 -2.93%로 낙폭이 컸다.\n대한뉴팜(+5.11%), 서울제약(+4.17%), 이수앱지스(+1.96%), 코미팜(1.10%)을 비롯한 6개 종목만 상승했으며 나머지 52개 종목은 일제히 하락했다.\n코아스템이 -8.86%로 낙폭이 가장 컸으며, 바이오니아(-6.92%), 인트론바이오-6.84%, 펩트론 -6.53%. 바이텍메드 -5.62%, 메디포스트 -5.58%, 오스코텍 -5.08% 등도 5% 넘게 급락했다.\n시가총액 상위 종목 중에서도 셀트리온이 -2.86%, 메디톡스 -4.20%, 바이로메드 -3.00%, 코오롱생명과학 -4.71%, 씨젠 -3.72%, 휴온스 -0.99%, 젬백스 -3.98% 등으로 하락했다.\n전문가들은 미국 나스닥 지수의 바이오 종목 열세의 영향이 코스닥에도 미치고 있는 것으로 분석하고 있다.\n나스닥 지수는 지난 23일 유력 대선 후보인 힐러리 전 미국 국무장관의 약가 규제 주장 이후 연일 급락하는 모양새다.\n최근 일주일 새 13% 이상 하락하는 등 투자심리가 위축되고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "9월의 마지막 날 코스닥 시장은 전 거래일에 비해 4.22포인트(-0.62%) 하락한 678.48에 장을 마쳤다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "업종별로는 출판·배체복제와 운송장비·부품, 인터넷 업종이 상승한 반면, 섬유·의류와 건설 업종 등은 하락했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 바이오·제약 업종은 -2.93%로 낙폭이 컸다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대한뉴팜(+5.11%), 서울제약(+4.17%), 이수앱지스(+1.96%), 코미팜(1.10%)을 비롯한 6개 종목만 상승했으며 나머지 52개 종목은 일제히 하락했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "코아스템이 -8.86%로 낙폭이 가장 컸으며, 바이오니아(-6.92%), 인트론바이오-6.84%, 펩트론 -6.53%. 바이텍메드 -5.62%, 메디포스트 -5.58%, 오스코텍 -5.08% 등도 5% 넘게 급락했다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "시가총액 상위 종목 중에서도 셀트리온이 -2.86%, 메디톡스 -4.20%, 바이로메드 -3.00%, 코오롱생명과학 -4.71%, 씨젠 -3.72%, 휴온스 -0.99%, 젬백스 -3.98% 등으로 하락했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "전문가들은 미국 나스닥 지수의 바이오 종목 열세의 영향이 코스닥에도 미치고 있는 것으로 분석하고 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "나스닥 지수는 지난 23일 유력 대선 후보인 힐러리 전 미국 국무장관의 약가 규제 주장 이후 연일 급락하는 모양새다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "최근 일주일 새 13% 이상 하락하는 등 투자심리가 위축되고 있다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "최근 일주일 나스닥 지수 13% 이상 하락에 코스닥도 타격… 하락한 종목은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

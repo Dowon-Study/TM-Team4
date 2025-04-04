@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198378",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/깊이읽기] 그때 그 현장의 증언",
+    "newsSubTitle": "",
+    "newsContent": "102분 짐 드와이어·케빈 플린 지음, 홍은택 옮김, 동아일보사, 404쪽, 1만4500원 \\\"문 틈으로 연기가 계속 들어온다. 더 이상 견딜 수 없다. 복도는 너무 뜨거워 나갈 수도 없다. 창밖에는 죽음이 비처럼 내리고 있다.\\\" 마지막 구절은 화염을 피해 수십m 아래로 무작정 뛰어내리는 처참한 모습이다.\n죽음을 마주했던 악몽의 순간을 떠올리는 일이란 쉽지 않다.\n그나마 4년이란 세월이 흘러서 가능했을 게다. 2001년 전세계를 뒤흔든 9.11테러의 한복판에서 살아남은 사람들의 숨 막히는 순간을 모은 책이다.\n긴박감이 여느 소설.영화보다 더하다.\n목숨이 경각에 달린 순간, 사람들은 어떤 심정으로 어떻게 행동했을까.\n뉴욕타임스의 두 기자가 생존자들의 증언과 기억의 조각을 모아 퍼즐 맞추듯 이야기를 풀어나간다.\n극한 상황에서도 다른 사람을 구하려고 사력을 다하는 모습에선 짙은 인간애가 배어난다.\n엘리베이터 안에 갇힌 동료를 구하는 장면도 그 중 하나다.\n갖은 노력 끝에 구출된 사람은 너무나 감격해 한다.\n그는 구조대원들이 대피하라는 지시도 뒤로하고 \\\"이제 내가 다른 사람을 도울 차례\\\"라며 나선다.\n손에 잡히는 모든 물건은 생존의 수단으로 동원된다.\n창문 청소하는데 쓰는 양동이. 거기서 양철 한 조각을 떼어내 날카로운 칼처럼 만든다.\n그걸로 석고보드 벽을 뚫는다.\n극과 극은 통하는 것일까.\n생사의 갈림길에서도 여유를 내비친다.\n엘리베이터를 타려다 넘치는 인파에 밀려나면서 \\\"나도 돌볼 고양이가 두 마리가 있는데…\\\"라고 한다.\n어느 날 갑자기 이런 재앙에 빠지면 우린 어떻게 행동할까, 이런 고민도 던져주는 책이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "102분 짐 드와이어·케빈 플린 지음, 홍은택 옮김, 동아일보사, 404쪽, 1만4500원 \\\"문 틈으로 연기가 계속 들어온다. 더 이상 견딜 수 없다. 복도는 너무 뜨거워 나갈 수도 없다. 창밖에는 죽음이 비처럼 내리고 있다.\\\" 마지막 구절은 화염을 피해 수십m 아래로 무작정 뛰어내리는 처참한 모습이다.",
+        "sentenceSize": 172
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "죽음을 마주했던 악몽의 순간을 떠올리는 일이란 쉽지 않다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그나마 4년이란 세월이 흘러서 가능했을 게다. 2001년 전세계를 뒤흔든 9.11테러의 한복판에서 살아남은 사람들의 숨 막히는 순간을 모은 책이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "긴박감이 여느 소설.영화보다 더하다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "목숨이 경각에 달린 순간, 사람들은 어떤 심정으로 어떻게 행동했을까.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뉴욕타임스의 두 기자가 생존자들의 증언과 기억의 조각을 모아 퍼즐 맞추듯 이야기를 풀어나간다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "극한 상황에서도 다른 사람을 구하려고 사력을 다하는 모습에선 짙은 인간애가 배어난다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "엘리베이터 안에 갇힌 동료를 구하는 장면도 그 중 하나다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "갖은 노력 끝에 구출된 사람은 너무나 감격해 한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그는 구조대원들이 대피하라는 지시도 뒤로하고 \\\"이제 내가 다른 사람을 도울 차례\\\"라며 나선다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "손에 잡히는 모든 물건은 생존의 수단으로 동원된다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "창문 청소하는데 쓰는 양동이. 거기서 양철 한 조각을 떼어내 날카로운 칼처럼 만든다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그걸로 석고보드 벽을 뚫는다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "극과 극은 통하는 것일까.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "생사의 갈림길에서도 여유를 내비친다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "엘리베이터를 타려다 넘치는 인파에 밀려나면서 \\\"나도 돌볼 고양이가 두 마리가 있는데…\\\"라고 한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "어느 날 갑자기 이런 재앙에 빠지면 우린 어떻게 행동할까, 이런 고민도 던져주는 책이다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "9.11 테러 생존자의 기록... 생사의 갈림길에 그들은 '이것'까지 활용했었다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

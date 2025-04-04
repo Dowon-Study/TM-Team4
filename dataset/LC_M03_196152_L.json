@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196152",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "의원협회 추계 연수강좌, 실전에 도움되는 강의 위주로 구성",
+    "newsSubTitle": "올해도 사전등록 조기마감 예상, 3주만에 1000명 등록",
+    "newsContent": "제4회 대한의원협회 추계 연수강좌가 한 주 앞으로 다가온 가운데 실전 진료 가이드를 다루는 이번 연수강좌 사전등록이 조기에 마감될 것으로 예상된다.\n의원협회(이하 의원협회, 회장 윤용선)는 27일 \\\"현재 사전등록을 실시한 지 3주 만에 1000명 사전등록 마감이 임박했다\\\"며 \\\"회원들에게 실질적인 도움을 줄 수 있는 강의로 구성해 많은 관심을 받고 있다\\\"고 밝혔다.\n매년 개원가에 유익하고 알찬 강의로 많은 인기를 얻고 있는 의원협회 연수강좌는 국내 최대 규모의 개원의 연수강좌다.\n어지럼증 감별 및 치료, 응급상황 대처와 의료분쟁 대비 및 개원의가 알아야 할 이비인후과, 피부과, 산부인과 질환 총 정리 뿐만 아니라 최근 관심이 증폭되고 있는 통증치료와 IVNT 강의를 강화했다.\n또한, 의원협회로 의뢰된 공단 및 복지부 실사들을 통계적으로 사례분석해 공단 확인이나 복지부 실사를 적극적으로 예방하고 대처할 수 있는 방안에 대한 강의도 마련됐다.\n의원협회 윤용선 회장이 직접 강의할 계획이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "제4회 대한의원협회 추계 연수강좌가 한 주 앞으로 다가온 가운데 실전 진료 가이드를 다루는 이번 연수강좌 사전등록이 조기에 마감될 것으로 예상된다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "의원협회(이하 의원협회, 회장 윤용선)는 27일 \\\"현재 사전등록을 실시한 지 3주 만에 1000명 사전등록 마감이 임박했다\\\"며 \\\"회원들에게 실질적인 도움을 줄 수 있는 강의로 구성해 많은 관심을 받고 있다\\\"고 밝혔다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "매년 개원가에 유익하고 알찬 강의로 많은 인기를 얻고 있는 의원협회 연수강좌는 국내 최대 규모의 개원의 연수강좌다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "어지럼증 감별 및 치료, 응급상황 대처와 의료분쟁 대비 및 개원의가 알아야 할 이비인후과, 피부과, 산부인과 질환 총 정리 뿐만 아니라 최근 관심이 증폭되고 있는 통증치료와 IVNT 강의를 강화했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한, 의원협회로 의뢰된 공단 및 복지부 실사들을 통계적으로 사례분석해 공단 확인이나 복지부 실사를 적극적으로 예방하고 대처할 수 있는 방안에 대한 강의도 마련됐다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "의원협회 윤용선 회장이 직접 강의할 계획이다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대한의원협회 추계 연수강좌, 사전등록 조기마감 될 것으로 예상되는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

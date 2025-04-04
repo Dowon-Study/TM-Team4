@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195861",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "대웅제약, 브라질 진출 활짝…가시적 성과도 기대",
+    "newsSubTitle": "브라질 국영 제약 업체와 바이오의약품 기술 MOU 체결",
+    "newsContent": "대웅제약(대표 이종욱)은 25일(현지시간 24일) 브라질 상파울루의 르네상스 호텔에서 브라질 국영제약 업체 비탈브라질(Vital Brazil)과 바이오의약품 기술 제휴협약(MOU)을 체결했다고 밝혔다.\n비탈 브라질은 브라질 리우데자네이루 주 소속의 국영 제약업체로 의약품정부조달을 담당하고 있다.\n이번 협약으로 대웅제약은 바이오의약품의 브라질 정부시장 진출을 위한 교두보를 마련했다는 평가다.\n특히 브라질 제약사와 합작투자를 통해 브라질 정부에 일정부분 가시적인 매출 성과도 기대할 수 있다는 분석이다.\n브라질은 현지 업체와 합작투자해 현지에서 의약품을 생산할 경우 브라질 정부에서 물량의 일정부분을 의무적으로 구매하는 PDP(Production Development Partnership)제도를 운영하고 있다.\n전승호 대웅제약 글로벌 사업본부장은 “비탈 브라질과의 협약으로 바이오의약품의 브라질 정부시장 진출 협력이 추진력을 얻게 될 것”이라며 “중남미 최대 제약 시장이자 빠른 성장을 보이고 있는 브라질 제약시장 진출이 힘을 받을 것”이라고 말했다.\n한편, 이번 협약은 지난달 3일 코트라가 비탈브라질을 초청해 진행한 국내 제약기업과 1대일 상담회가 계기가 됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대웅제약(대표 이종욱)은 25일(현지시간 24일) 브라질 상파울루의 르네상스 호텔에서 브라질 국영제약 업체 비탈브라질(Vital Brazil)과 바이오의약품 기술 제휴협약(MOU)을 체결했다고 밝혔다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "비탈 브라질은 브라질 리우데자네이루 주 소속의 국영 제약업체로 의약품정부조달을 담당하고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 협약으로 대웅제약은 바이오의약품의 브라질 정부시장 진출을 위한 교두보를 마련했다는 평가다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 브라질 제약사와 합작투자를 통해 브라질 정부에 일정부분 가시적인 매출 성과도 기대할 수 있다는 분석이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "브라질은 현지 업체와 합작투자해 현지에서 의약품을 생산할 경우 브라질 정부에서 물량의 일정부분을 의무적으로 구매하는 PDP(Production Development Partnership)제도를 운영하고 있다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전승호 대웅제약 글로벌 사업본부장은 “비탈 브라질과의 협약으로 바이오의약품의 브라질 정부시장 진출 협력이 추진력을 얻게 될 것”이라며 “중남미 최대 제약 시장이자 빠른 성장을 보이고 있는 브라질 제약시장 진출이 힘을 받을 것”이라고 말했다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 이번 협약은 지난달 3일 코트라가 비탈브라질을 초청해 진행한 국내 제약기업과 1대일 상담회가 계기가 됐다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대웅제약, 브라질 진출 활짝… 어떤 회사와 손잡았길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

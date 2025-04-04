@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194686",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[문화노트] 표 덜 팔렸다고 공연 못하겠다니 …",
+    "newsSubTitle": "",
+    "newsContent": "\\\"창작 뮤지컬 '마리아 마리아'가 공연 준비 및 촉박한 일정의 문제점, 선거와 월드컵으로 인한 공연 문화 침체로 인해 부득이하게 11월로 연기되었습니다.\\\" 11일 인터넷 예매 사이트인 티켓링크와 인터파크 등에 뜬 공지 사항이다. '마리아 마리아'는 13일 시작, 8월 6일까지 진행될 예정이었다.\n겉으론 '연기'라고 밝혔지만 11월 공연은 원래 잡혀 있던 것이라 사실상 '공연 취소'다.\n개막을 불과 이틀 앞두고 왜 이런 일이 벌어졌을까.\n공연 기획사인 '아마데우스'의 설명은 이렇다.\n\\\"창작 뮤지컬의 경우 기업 협찬에 의한 단체 관람이 아니면 수익을 맞추기가 어렵다. 이번엔 협찬이 적었다. 투자하기로 한 기업마저 중간에 포기, 심각한 자금 압박을 받았다. 티켓 예매율마저 10%를 밑돌아 여력이 없었다.\\\" 제대로 자금도 확보하지 못한 채 무조건 올리고 보는 '막무가내식' 공연이었던 셈이다.\n표가 안 팔려 공연을 못하겠다는 설명엔 어이가 없을 뿐이다.\n이름도 알지 못하는, 소규모의 공연이면 그러려니 하겠다.\n그러나 '마리아 마리아'는 2년전 한국뮤지컬 대상에서 최우수 작품상을 받았다.\n널리 알려진 작품이란 말이다.\n무엇보다 9월 미국 뉴욕 브로드웨이 공연을 앞두고 있다.\n이번 행사도 브로드웨이 진출에 앞선 준비 공연 성격이 컸다.\n제작사인 조아뮤지컬컴퍼니측은 \\\"'난타' '명성황후'가 뉴욕에 가긴 했으나 초청 케이스는 우리가 처음 \\\"이라며 자랑해왔다.\n내실은 전혀 기하지 못한 채 겉만 번지르르했던 것은 아닐까.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"창작 뮤지컬 '마리아 마리아'가 공연 준비 및 촉박한 일정의 문제점, 선거와 월드컵으로 인한 공연 문화 침체로 인해 부득이하게 11월로 연기되었습니다.\\\" 11일 인터넷 예매 사이트인 티켓링크와 인터파크 등에 뜬 공지 사항이다. '마리아 마리아'는 13일 시작, 8월 6일까지 진행될 예정이었다.",
+        "sentenceSize": 167
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "겉으론 '연기'라고 밝혔지만 11월 공연은 원래 잡혀 있던 것이라 사실상 '공연 취소'다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "개막을 불과 이틀 앞두고 왜 이런 일이 벌어졌을까.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공연 기획사인 '아마데우스'의 설명은 이렇다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "\\\"창작 뮤지컬의 경우 기업 협찬에 의한 단체 관람이 아니면 수익을 맞추기가 어렵다. 이번엔 협찬이 적었다. 투자하기로 한 기업마저 중간에 포기, 심각한 자금 압박을 받았다. 티켓 예매율마저 10%를 밑돌아 여력이 없었다.\\\" 제대로 자금도 확보하지 못한 채 무조건 올리고 보는 '막무가내식' 공연이었던 셈이다.",
+        "sentenceSize": 174
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "표가 안 팔려 공연을 못하겠다는 설명엔 어이가 없을 뿐이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이름도 알지 못하는, 소규모의 공연이면 그러려니 하겠다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러나 '마리아 마리아'는 2년전 한국뮤지컬 대상에서 최우수 작품상을 받았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "널리 알려진 작품이란 말이다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "무엇보다 9월 미국 뉴욕 브로드웨이 공연을 앞두고 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이번 행사도 브로드웨이 진출에 앞선 준비 공연 성격이 컸다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "제작사인 조아뮤지컬컴퍼니측은 \\\"'난타' '명성황후'가 뉴욕에 가긴 했으나 초청 케이스는 우리가 처음 \\\"이라며 자랑해왔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "내실은 전혀 기하지 못한 채 겉만 번지르르했던 것은 아닐까.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "개막 이틀 남기고 공연 취소한 '마리아 마리아'... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

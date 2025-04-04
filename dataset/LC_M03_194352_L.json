@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194352",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "브로콜리 먹으면 심장병 예방",
+    "newsSubTitle": "",
+    "newsContent": "브로콜리를 먹으면 심장병을 막을 수 있다는 연구결과가 나왔다.\n23일 미국 코네티컷대 의대 심장혈관센터의 디팩 다스 교수가 이끄는 연구팀이 ‘농업식품화학지’(Journal of Agricultural and Food Chemistry) 최신호에 발표한 연구 결과다.\n연구팀은 한 달 동안 쥐에게 브로콜리 추출물을 물에 타서 먹였다.\n30일이 지난 다음 쥐를 죽여 심장을 분리해낸 다음 30분 후 허혈 상태에서 2시간 동안 혈액을 재관류시켰다.\n실험 결과 허혈상태 이후 산소 공급이 중단됐는데도 심혈 기능의 회복이 빨랐다.\n심근 경색의 크기가 줄었고 심장근육세포의 고사율이 줄어들었다.\n브로콜리에 다량으로 들어있는 셀레니움과 글루코시노레이트(특히 글루코라파닌과 이소티오시안산염 설포라페인)가 산화환원을 제어해 심장병을 막아주는 단백질‘티오리독신(Trx)’을 생산하기 때문인 것으로 밝혀졌다.\n지금까지 브로콜리는 항암 효과등 건강에 매우 이로운 것으로 잘 알려져 왔다.\n연구팀은 브로콜리를 너무 끓이는 것보다 가볍게 쪄서 먹는 것이 심장 건강에 가장 좋다고 말했다.\n브로콜리에 들어있는 셀레니움과 클루코시노레이트가 열에 약하기 때문이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "브로콜리를 먹으면 심장병을 막을 수 있다는 연구결과가 나왔다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "23일 미국 코네티컷대 의대 심장혈관센터의 디팩 다스 교수가 이끄는 연구팀이 ‘농업식품화학지’(Journal of Agricultural and Food Chemistry) 최신호에 발표한 연구 결과다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구팀은 한 달 동안 쥐에게 브로콜리 추출물을 물에 타서 먹였다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "30일이 지난 다음 쥐를 죽여 심장을 분리해낸 다음 30분 후 허혈 상태에서 2시간 동안 혈액을 재관류시켰다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "실험 결과 허혈상태 이후 산소 공급이 중단됐는데도 심혈 기능의 회복이 빨랐다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "심근 경색의 크기가 줄었고 심장근육세포의 고사율이 줄어들었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "브로콜리에 다량으로 들어있는 셀레니움과 글루코시노레이트(특히 글루코라파닌과 이소티오시안산염 설포라페인)가 산화환원을 제어해 심장병을 막아주는 단백질‘티오리독신(Trx)’을 생산하기 때문인 것으로 밝혀졌다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지금까지 브로콜리는 항암 효과등 건강에 매우 이로운 것으로 잘 알려져 왔다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "연구팀은 브로콜리를 너무 끓이는 것보다 가볍게 쪄서 먹는 것이 심장 건강에 가장 좋다고 말했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "브로콜리에 들어있는 셀레니움과 클루코시노레이트가 열에 약하기 때문이다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "브로콜리 심장병 예방에 도움... 끓여 먹는 것보다 좋은 방법이 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

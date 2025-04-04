@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199190",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "배스킨라빈스, 31일 '31DAY' 프로모션 진행",
+    "newsSubTitle": "패밀리 아이스크림 구매하면 사이즈 업",
+    "newsContent": "배스킨라빈스가 내일(31일), 패밀리 사이즈 아이스크림 구매 시 하프갤런 사이즈로 업그레이드 혜택을 제공하는 '31DAY' 프로모션을 진행한다.\n배스킨라빈스의 '31DAY'는 5가지 맛을 골라 담을 수 있는 패밀리 사이즈 아이스크림을 구매하면 하프갤런 사이즈로 업그레이드 혜택을 제공하는 행사다.\n패밀리 사이즈 아이스크림의 정가인 1만9500원에 6가지 아이스크림을 선택하는 하프갤런 사이즈를 맛볼 수 있다.\n결제 금액의 0.5% 해피포인트 적립 혜택을 동시에 제공한다.\n모바일 교환권은 사용 가능하지만 차액환불 및 모바일교환권 사용 금액은 적립이 불가능하다.\n행사 당일에는 1인당 총 3개까지 구매할 수 있다.\n한편 '31DAY' 프로모션은 배스킨라빈스의 모바일 주문 예약 시스템인 '해피오더'로도 참여 가능하다. '해피오더' 픽업 서비스는 해피포인트 앱을 통해 사전에 주문과 결제를 진행하고, 예약한 시간에 매장에서 제품을 바로 찾아가는 서비스다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배스킨라빈스가 내일(31일), 패밀리 사이즈 아이스크림 구매 시 하프갤런 사이즈로 업그레이드 혜택을 제공하는 '31DAY' 프로모션을 진행한다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "배스킨라빈스의 '31DAY'는 5가지 맛을 골라 담을 수 있는 패밀리 사이즈 아이스크림을 구매하면 하프갤런 사이즈로 업그레이드 혜택을 제공하는 행사다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "패밀리 사이즈 아이스크림의 정가인 1만9500원에 6가지 아이스크림을 선택하는 하프갤런 사이즈를 맛볼 수 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "결제 금액의 0.5% 해피포인트 적립 혜택을 동시에 제공한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "모바일 교환권은 사용 가능하지만 차액환불 및 모바일교환권 사용 금액은 적립이 불가능하다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "행사 당일에는 1인당 총 3개까지 구매할 수 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 '31DAY' 프로모션은 배스킨라빈스의 모바일 주문 예약 시스템인 '해피오더'로도 참여 가능하다. '해피오더' 픽업 서비스는 해피포인트 앱을 통해 사전에 주문과 결제를 진행하고, 예약한 시간에 매장에서 제품을 바로 찾아가는 서비스다.",
+        "sentenceSize": 133
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배스킨라빈스, 31일을 맞아 프로모션 통해 '이 혜택' 제공",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

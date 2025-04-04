@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195725",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "오십견에 좋은 체조, 팔을 앞 옆으로 펼 때 통증 있다면",
+    "newsSubTitle": "",
+    "newsContent": "오십견에 좋은 체조가 화제다.\n어깨 통증으로 병원을 찾는 환자가 눈에 띄게 늘었다.\n건강보험심사평가원에 따르면 어깨질환자는 2010년 171만3000명에서 2014년 205만3000명으로 약 20% 증가했다.\n이 중 환자들이 가장 많이 앓고 있는 질환은 흔히 오십견이라 불리는 ‘유착성 관절낭염’으로 전체의 30% 이상을 차지했다.\n그러다 보니 어깨가 아프면 오십견이라고 생각하기 쉽다.\n하지만 검사해 보면 어깨충돌증후군이나 회전근개파열 등이 많다.\n이들 질환은 서로 증상이 비슷해 전문의가 아니면 구분하기 어렵다.\n오십견은 어깨관절을 감싸고 있는 관절낭이 퇴행하면서 염증과 유착이 생기는 질환이다.\n어깨 전반에 걸쳐 통증이 나타나며 팔을 앞·옆으로 펴거나 들 때 통증이 심하다.\n초기에는 약물·주사·운동치료와 같은 보존치료로 효과를 본다.\n하지만 이 같은 방법으로 호전되지 않으면 ‘브리즈망(Brisement)’ 시술을 권한다.\n환자가 통증을 느끼지 못하게 부위마취를 한 뒤 진행하는 치료법이다.\n통증이 있는 어깨에 염증치료제와 유착방지제를 주입해 굳은 어깨 근육과 관절을 이완시킨 뒤 의료진이 관절운동을 실시한다.\n통증 때문에 하지 못했던 관절운동을 수동적으로 수행해 굳어 있는 어깨관절을 풀어준다.\n손상된 회전근개(어깨 힘줄) 부위에 재생 주사를 병행하기도 한다.\n시술시간은 15~20분이며, 당일 퇴원할 정도로 일상으로의 복귀가 빠르다.\n다음은 오십견에 좋은 체조다.\n오십견에 좋은 체조는 목 운동이나 지휘자처럼 두 팔을 좌우로 벌리는 동작이 도움이 된다.\n평소에도 목 운동이나 한 숨을 들이쉬며 두 팔을 벌리는 동작을 많이 하면 좋다.\n온라인 중앙일보 '오십견에 좋은 체조'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오십견에 좋은 체조가 화제다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "어깨 통증으로 병원을 찾는 환자가 눈에 띄게 늘었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "건강보험심사평가원에 따르면 어깨질환자는 2010년 171만3000명에서 2014년 205만3000명으로 약 20% 증가했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 중 환자들이 가장 많이 앓고 있는 질환은 흔히 오십견이라 불리는 ‘유착성 관절낭염’으로 전체의 30% 이상을 차지했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러다 보니 어깨가 아프면 오십견이라고 생각하기 쉽다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 검사해 보면 어깨충돌증후군이나 회전근개파열 등이 많다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이들 질환은 서로 증상이 비슷해 전문의가 아니면 구분하기 어렵다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오십견은 어깨관절을 감싸고 있는 관절낭이 퇴행하면서 염증과 유착이 생기는 질환이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "어깨 전반에 걸쳐 통증이 나타나며 팔을 앞·옆으로 펴거나 들 때 통증이 심하다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "초기에는 약물·주사·운동치료와 같은 보존치료로 효과를 본다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하지만 이 같은 방법으로 호전되지 않으면 ‘브리즈망(Brisement)’ 시술을 권한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "환자가 통증을 느끼지 못하게 부위마취를 한 뒤 진행하는 치료법이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "통증이 있는 어깨에 염증치료제와 유착방지제를 주입해 굳은 어깨 근육과 관절을 이완시킨 뒤 의료진이 관절운동을 실시한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "통증 때문에 하지 못했던 관절운동을 수동적으로 수행해 굳어 있는 어깨관절을 풀어준다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "손상된 회전근개(어깨 힘줄) 부위에 재생 주사를 병행하기도 한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "시술시간은 15~20분이며, 당일 퇴원할 정도로 일상으로의 복귀가 빠르다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "다음은 오십견에 좋은 체조다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "오십견에 좋은 체조는 목 운동이나 지휘자처럼 두 팔을 좌우로 벌리는 동작이 도움이 된다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "평소에도 목 운동이나 한 숨을 들이쉬며 두 팔을 벌리는 동작을 많이 하면 좋다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "온라인 중앙일보 '오십견에 좋은 체조'",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "어깨 통증에 평소 체조 자주 하면 좋은 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

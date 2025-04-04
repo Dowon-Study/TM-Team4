@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_196972",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "'프듀 조작 논란' 아이즈원 엑스원, 활동 중단 수순",
+    "newsSubTitle": "",
+    "newsContent": "'프로듀스101' 조작 논란으로 인해 아이즈원과 엑스원이 사실상 활동 중단 수순을 밟는다.\nMnet '프로듀스48'과 '프로듀스X101'을 통해 각각 선발된 그룹 아이즈원과 엑스원이 존폐 기로에 놓였다.\n사기와 배임수재 등의 혐의로 구속된 프로그램 연출가 안준영 PD가 해당 작품들의 조작을 인정하면서 아이즈원과 엑스원의 활동 정당성을 두고 논란이 일기 시작했기 때문이다.\n이에 더해 두 그룹이 활동을 멈추면서 앞으로의 방향성에 대한 갑론을박도 이어지는 상황이다.\n현재 아이즈원은 지난 11일로 예정했던 컴백을 잠정 연기한 상태다.\n컴백과 맞물려 촬영한 방송 프로그램 등에선 통편집됐고 영화 '아이즈 온 미'의 개봉도 취소되는 등 수난을 겪고 있다.\n엑스원의 경우 기존에 잡힌 스케줄 외 추가 일정은 없는 것으로 전해졌다.\nCJ ENM 및 '프로듀스101' 제작진과 소속사 등 조작에 가담하거나 이를 방조한 것으로 보이는 관련자들에 대한 비판도 나오지만, 아이즈원과 엑스원의 활동 여부에 대중의 시선이 집중된 상황이다.\nPD가 조작을 시인한 만큼 그룹 자체의 수명은 이미 끊긴 것과 다름 없다는 게 가요계 중론이다.\n이에 대해 Mnet의 한 관계자는 미디어SR에 \\\"해체를 논의한 건 아니다\\\"면서도 \\\"활동 등에 대해서는 다각도로 논의 중이다. 경찰 수사 결과를 기다리고 있다\\\"고 밝혔다.\n이와 관련 경찰은 12일 서울 종로구 내자동 서울지방경찰청에서 정례 기자간담회를 열고 '프로듀스101' 시리즈 조작 논란에 대한 중간 수사 결과를 밝힌다는 계획이다.\n이외에도 경찰은 최종 데뷔 멤버 발탁 과정에서 일부 기획사들의 로비가 있었을 거라 보고 이를 조사 중이며, '프로듀스X101'에 출연한 연습생들을 대상으로 소환조사를 벌일 방침이다.\n아직 소환조사 시기는 정해지지 않았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'프로듀스101' 조작 논란으로 인해 아이즈원과 엑스원이 사실상 활동 중단 수순을 밟는다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "Mnet '프로듀스48'과 '프로듀스X101'을 통해 각각 선발된 그룹 아이즈원과 엑스원이 존폐 기로에 놓였다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사기와 배임수재 등의 혐의로 구속된 프로그램 연출가 안준영 PD가 해당 작품들의 조작을 인정하면서 아이즈원과 엑스원의 활동 정당성을 두고 논란이 일기 시작했기 때문이다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 더해 두 그룹이 활동을 멈추면서 앞으로의 방향성에 대한 갑론을박도 이어지는 상황이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "현재 아이즈원은 지난 11일로 예정했던 컴백을 잠정 연기한 상태다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "컴백과 맞물려 촬영한 방송 프로그램 등에선 통편집됐고 영화 '아이즈 온 미'의 개봉도 취소되는 등 수난을 겪고 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "엑스원의 경우 기존에 잡힌 스케줄 외 추가 일정은 없는 것으로 전해졌다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "CJ ENM 및 '프로듀스101' 제작진과 소속사 등 조작에 가담하거나 이를 방조한 것으로 보이는 관련자들에 대한 비판도 나오지만, 아이즈원과 엑스원의 활동 여부에 대중의 시선이 집중된 상황이다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "PD가 조작을 시인한 만큼 그룹 자체의 수명은 이미 끊긴 것과 다름 없다는 게 가요계 중론이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이에 대해 Mnet의 한 관계자는 미디어SR에 \\\"해체를 논의한 건 아니다\\\"면서도 \\\"활동 등에 대해서는 다각도로 논의 중이다. 경찰 수사 결과를 기다리고 있다\\\"고 밝혔다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이와 관련 경찰은 12일 서울 종로구 내자동 서울지방경찰청에서 정례 기자간담회를 열고 '프로듀스101' 시리즈 조작 논란에 대한 중간 수사 결과를 밝힌다는 계획이다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이외에도 경찰은 최종 데뷔 멤버 발탁 과정에서 일부 기획사들의 로비가 있었을 거라 보고 이를 조사 중이며, '프로듀스X101'에 출연한 연습생들을 대상으로 소환조사를 벌일 방침이다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "아직 소환조사 시기는 정해지지 않았다.",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이즈원 지난 11일로 예정했던 컴백 잠정 연기... 팬들 충격에 빠져",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

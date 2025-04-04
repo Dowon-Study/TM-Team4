@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198645",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 한·미·일 갑상샘암 전문가 참여 건강 세미나",
+    "newsSubTitle": "",
+    "newsContent": "중앙일보가 ‘착한 암, 갑상선암 바로 알기’를 주제로 건강 세미나를 개최한다.\n국내외 갑상샘암 권위자들과 함께하는 이번 세미나는 ▶루이스 데이비스 미국 다트머스 의대 두경부외과 교수 ▶미야우치 아키라 일본 쿠마병원장 ▶이시훈 가천대 길병원 내분비대사내과 교수 ▶신동엽 연세대 세브란스병원 내분비내과 교수 ▶채영준 서울대 보라매병원 내분비외과 교수가 참여한다.\n이번 세미나에서 의료진들은 갑상샘암의 수술과 적극적 관찰에 대한 기준과 실제 환자 사례 등을 토대로 암에 대한 올바른 정보를 제공할 예정이다.\n수술 후 후유증 관리, 갑상샘암의 글로벌 치료 트렌드도 확인할 수 있다.\n건강 세미나는 오는 2일 오전 9시에 PC나 스마트폰으로 중앙일보 헬스미디어 유튜브 채널이나 네이버TV에 접속하면 참여할 수 있다.\n의료진의 주제 발표와 토의 순서로 총 150분 동안 진행될 예정이다.\n실시간 댓글로 강의에 대한 소감을 남기면 추첨을 통해 다이슨 공기청정기, 네스프레소 버츄오 플러스 등 푸짐한 경품을 받을 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중앙일보가 ‘착한 암, 갑상선암 바로 알기’를 주제로 건강 세미나를 개최한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국내외 갑상샘암 권위자들과 함께하는 이번 세미나는 ▶루이스 데이비스 미국 다트머스 의대 두경부외과 교수 ▶미야우치 아키라 일본 쿠마병원장 ▶이시훈 가천대 길병원 내분비대사내과 교수 ▶신동엽 연세대 세브란스병원 내분비내과 교수 ▶채영준 서울대 보라매병원 내분비외과 교수가 참여한다.",
+        "sentenceSize": 156
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 세미나에서 의료진들은 갑상샘암의 수술과 적극적 관찰에 대한 기준과 실제 환자 사례 등을 토대로 암에 대한 올바른 정보를 제공할 예정이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "수술 후 후유증 관리, 갑상샘암의 글로벌 치료 트렌드도 확인할 수 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "건강 세미나는 오는 2일 오전 9시에 PC나 스마트폰으로 중앙일보 헬스미디어 유튜브 채널이나 네이버TV에 접속하면 참여할 수 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "의료진의 주제 발표와 토의 순서로 총 150분 동안 진행될 예정이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "실시간 댓글로 강의에 대한 소감을 남기면 추첨을 통해 다이슨 공기청정기, 네스프레소 버츄오 플러스 등 푸짐한 경품을 받을 수 있다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중앙일보, '이 암' 바로 알기 세미나 개최... 한-미-일 전문가 참여",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

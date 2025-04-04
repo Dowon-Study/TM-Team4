@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195689",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "항응고제 엘리퀴스, 분쇄 투여 식약처 허가",
+    "newsSubTitle": "",
+    "newsContent": "한국BMS제약과 한국화이자제약이 공동으로 판매하는 경구용 항응고제 엘리퀴스(성분명 아픽사반)이 알약을 삼키기 힘든 환자에 대한 분쇄 투여를 식품의약품안전처로부터 허가받았다.\n고령 환자 등 일부는 연하장애를 갖고 있어, 알약을 삼키기 힘들다.\n그러나 새로운 복용법에 대한 허가를 얻으면서 이 환자들은 연하장애와 관계없이 엘리퀴스를 투여받을 수 있게 됐다.\n새로운 용법·용량에 따라 엘리퀴스를 분쇄 투여할 때는 사용 직전에 정제를 부숴 물에 섞어 경구로 투여할 수 있다.\n또는 60㎖의 물에 섞어 코위영양관(NGT)으로도 투여할 수 있다.\n또한 엘리퀴스는 최근 비판막성 심방세동 환자 중 심율동전환이 필요한 환자에서 사용에 대한 추가 임상 근거를 제품설명서에 기재했다.\n이번 허가사항 업데이트는 ARISTOTLE 임상 시험에 참가한 환자 중 심율동전환 시술을 받은 환자 540명을 대상으로 한 추가 분석을 근거로 한다.\n이 연구에 따르면 엘리퀴스를 투여한 환자는 심율동전환 시술 이후 30일 이내 뇌졸중 및 전신색전증이 발생하지 않았으며, 심근경색·주요출혈·사망률이 매우 낮게 나타났다.\n엘리퀴스 치료를 받은 84%의 환자가 심율동전환 시 투약을 중단하지 않았다.\n한국BMS제약 박혜선 대표이사는 “이번 추가 용법용량 허가를 통해 환자들이 지속적인 약물 복용에 걸림돌을 제거할 수 있게 됐다”며 “앞으로도 환자들이 겪는 불편함을 해결할 수 있는 방법을 적극적으로 모색하겠다” 고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국BMS제약과 한국화이자제약이 공동으로 판매하는 경구용 항응고제 엘리퀴스(성분명 아픽사반)이 알약을 삼키기 힘든 환자에 대한 분쇄 투여를 식품의약품안전처로부터 허가받았다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "고령 환자 등 일부는 연하장애를 갖고 있어, 알약을 삼키기 힘들다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러나 새로운 복용법에 대한 허가를 얻으면서 이 환자들은 연하장애와 관계없이 엘리퀴스를 투여받을 수 있게 됐다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "새로운 용법·용량에 따라 엘리퀴스를 분쇄 투여할 때는 사용 직전에 정제를 부숴 물에 섞어 경구로 투여할 수 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또는 60㎖의 물에 섞어 코위영양관(NGT)으로도 투여할 수 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 엘리퀴스는 최근 비판막성 심방세동 환자 중 심율동전환이 필요한 환자에서 사용에 대한 추가 임상 근거를 제품설명서에 기재했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번 허가사항 업데이트는 ARISTOTLE 임상 시험에 참가한 환자 중 심율동전환 시술을 받은 환자 540명을 대상으로 한 추가 분석을 근거로 한다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 연구에 따르면 엘리퀴스를 투여한 환자는 심율동전환 시술 이후 30일 이내 뇌졸중 및 전신색전증이 발생하지 않았으며, 심근경색·주요출혈·사망률이 매우 낮게 나타났다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "엘리퀴스 치료를 받은 84%의 환자가 심율동전환 시 투약을 중단하지 않았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한국BMS제약 박혜선 대표이사는 “이번 추가 용법용량 허가를 통해 환자들이 지속적인 약물 복용에 걸림돌을 제거할 수 있게 됐다”며 “앞으로도 환자들이 겪는 불편함을 해결할 수 있는 방법을 적극적으로 모색하겠다” 고 밝혔다.",
+        "sentenceSize": 124
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "약 먹다가 죽겠다… 고령 연하장애 앓는 사람들에게 희소식은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198037",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "요구르트 규칙적으로 먹으면 잇몸 튼튼?",
+    "newsSubTitle": "",
+    "newsContent": "규칙적으로 요구르트를 비롯한 젖산이 풍부한 발효 식품을 많이 섭취하는 것이 구강 건강에 좋다는 연구결과가 나왔다.\n22일 일본 큐슈대 연구팀이 치주학저널에 발표한 연구결과 요구르트와 젖산 음료를 섭취하는 것이 치주 건강을 크게 증진시키는 것으로 나타났다.\n이에 비해 우유와 치즈 섭취는 이 같은 효과가 없는 것으로 결론내렸다.\n이에 앞서 과거 진행된 연구결과 유제품을 많이 섭취하는 사람에 있어서 치주질환 발병율이 낮은 것으로 나타난 반면 유제품이 모두 이 같은 효과가 있는지는 확인되지 않았다.\n이번 연구에서 연구팀은 40~79세 연령의 942명의 남녀를 대상으로 우유, 치즈, 젖산 식품을 섭취한 사람에 있어서 치주질환 발병과 증상의 심한 정도를 분석했다.\n연구결과 더욱 심한 진행성 치주 질환을 가진 사람들이 덜 심한 국소 치주 질환을 앓는 사람에 비해 젖산 식품 섭취가 낮은 것으로 조사됐다.\n연구결과 젖산 식품을 전혀 섭취하지 않은 사람에 비해 요구르트나 젖산 음료를 하루 55g 이상 섭취한 사람에서 중증 치주 질환 발병 위험이 현저히 감소했다.\n연구팀은 이 같은 치주 질환에 대한 요구르트나 젖산 식품의 효과가 주로 이 같은 제품속에 함유된 유산균( lactobacilli)에 의해 유발된다고 밝혔다. 【서울=뉴시스】",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "규칙적으로 요구르트를 비롯한 젖산이 풍부한 발효 식품을 많이 섭취하는 것이 구강 건강에 좋다는 연구결과가 나왔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 일본 큐슈대 연구팀이 치주학저널에 발표한 연구결과 요구르트와 젖산 음료를 섭취하는 것이 치주 건강을 크게 증진시키는 것으로 나타났다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 비해 우유와 치즈 섭취는 이 같은 효과가 없는 것으로 결론내렸다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 앞서 과거 진행된 연구결과 유제품을 많이 섭취하는 사람에 있어서 치주질환 발병율이 낮은 것으로 나타난 반면 유제품이 모두 이 같은 효과가 있는지는 확인되지 않았다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 연구에서 연구팀은 40~79세 연령의 942명의 남녀를 대상으로 우유, 치즈, 젖산 식품을 섭취한 사람에 있어서 치주질환 발병과 증상의 심한 정도를 분석했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구결과 더욱 심한 진행성 치주 질환을 가진 사람들이 덜 심한 국소 치주 질환을 앓는 사람에 비해 젖산 식품 섭취가 낮은 것으로 조사됐다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연구결과 젖산 식품을 전혀 섭취하지 않은 사람에 비해 요구르트나 젖산 음료를 하루 55g 이상 섭취한 사람에서 중증 치주 질환 발병 위험이 현저히 감소했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구팀은 이 같은 치주 질환에 대한 요구르트나 젖산 식품의 효과가 주로 이 같은 제품속에 함유된 유산균( lactobacilli)에 의해 유발된다고 밝혔다. 【서울=뉴시스】",
+        "sentenceSize": 96
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이것 많이 먹고 구강 건강 지켜보자... 우유와 치즈 섭취는 소용없어",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

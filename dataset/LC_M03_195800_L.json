@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195800",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "외국인환자 VAT환급, 성형외과 구원투수?",
+    "newsSubTitle": "의사들 \\\"수술비 투명 공개로 불량 브로커 퇴출 가능\\\"",
+    "newsContent": "한국의 미용성형 의료관광이 불법 브로커 문제로 몸살을 앓고 있는 가운데, 부가가치세 환급 제도가 구원투수가 될 수 있을지 관심이 모아지고 있다.\n한국보건산업진흥원은 3일 대한상공회의소에서 ‘외국인환자 대상 미용성형 의료용역의 부가가치세 환급제도 도입 관련 전문가 공청회’를 열었다.\n국내 의료관광은 최근 몇 년간 비약적인 성장을 해오다 최근 중국인 시장을 중심으로 부정적인 여론이 번지고 있다.\n미용성형 부작용 사례가 발생하고, 사후 관리가 제대로 안될뿐더러 가격까지 비싸 공분을 산 것이다.\n여기에 메르스 사태가 겹치자 의료관광 예약이 줄줄이 취소되고 있는 상황. 실제 예약 취소율이 2015년 1~5월 10%에서 6월 한 달간 42%로 크게 늘었다.\n▲ 출처 중앙포토 이에 따라 미용성형 외국인환자를 대상으로 부가가치세를 환급해주는 제도를 도입하자는 주장이 나오고 있다.\n과다 수수료 청구와 세금 탈루를 없애고 유치시장의 건전성을 강화할 수 있다는 판단에서다.\n한국보건산업진흥원 해외화자유치지원실 김수웅 실장은 “부가가치세 환급제도가 도입되면 진료비가 노출돼 가격 투명성을 확보할 수 있다”며 “과다 수수료가 줄고 세수를 확보할 수 있을 것으로 기대한다”고 설명했다.\n성형외과 의사들은 부가세 환급 제도 도입을 더욱 반기고 있다.\n국내 대형성형외과 대부분이 불법 브로커에 종속돼 있어 환급제를 통해 시장 정화가 될 수 있을 것이란 기대 때문이다.\n이 자리에서 대한성형외과의사회 박영진 기획이사는 “수술비가 투명하게 공개되면 결국 불량한 불법 브로커의 설자리를 잃을 것”이라며 “선량하고 정상적으로 허가받은 유치업체 시장을 키워갈 수 있는 토대를 만들 수 있다”고 말했다.\n박 이사는 또한 “당장은 중국 환자의 의존도가 높은 대형 성형외과의 매출은 급락할 것으로 보여진다”며 “그러나 장기적으로 보면 슈퍼 갑의 횡포를 부리는 불법 브로커가 사라지게 되면서 시장의 질서가 정상적으로 잡힐 것”이라고 전했다.\n보건복지부도 한국의료의 브랜드 제고 차원에서 환급제를 긍정적으로 바라보고 있다.\n성형외과 수익을 투명화하고, 소비자의 신뢰도 향상에 기여할 수 있을 것이란 판단이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국의 미용성형 의료관광이 불법 브로커 문제로 몸살을 앓고 있는 가운데, 부가가치세 환급 제도가 구원투수가 될 수 있을지 관심이 모아지고 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국보건산업진흥원은 3일 대한상공회의소에서 ‘외국인환자 대상 미용성형 의료용역의 부가가치세 환급제도 도입 관련 전문가 공청회’를 열었다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국내 의료관광은 최근 몇 년간 비약적인 성장을 해오다 최근 중국인 시장을 중심으로 부정적인 여론이 번지고 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미용성형 부작용 사례가 발생하고, 사후 관리가 제대로 안될뿐더러 가격까지 비싸 공분을 산 것이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여기에 메르스 사태가 겹치자 의료관광 예약이 줄줄이 취소되고 있는 상황. 실제 예약 취소율이 2015년 1~5월 10%에서 6월 한 달간 42%로 크게 늘었다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "▲ 출처 중앙포토 이에 따라 미용성형 외국인환자를 대상으로 부가가치세를 환급해주는 제도를 도입하자는 주장이 나오고 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "과다 수수료 청구와 세금 탈루를 없애고 유치시장의 건전성을 강화할 수 있다는 판단에서다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한국보건산업진흥원 해외화자유치지원실 김수웅 실장은 “부가가치세 환급제도가 도입되면 진료비가 노출돼 가격 투명성을 확보할 수 있다”며 “과다 수수료가 줄고 세수를 확보할 수 있을 것으로 기대한다”고 설명했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "성형외과 의사들은 부가세 환급 제도 도입을 더욱 반기고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "국내 대형성형외과 대부분이 불법 브로커에 종속돼 있어 환급제를 통해 시장 정화가 될 수 있을 것이란 기대 때문이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 자리에서 대한성형외과의사회 박영진 기획이사는 “수술비가 투명하게 공개되면 결국 불량한 불법 브로커의 설자리를 잃을 것”이라며 “선량하고 정상적으로 허가받은 유치업체 시장을 키워갈 수 있는 토대를 만들 수 있다”고 말했다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "박 이사는 또한 “당장은 중국 환자의 의존도가 높은 대형 성형외과의 매출은 급락할 것으로 보여진다”며 “그러나 장기적으로 보면 슈퍼 갑의 횡포를 부리는 불법 브로커가 사라지게 되면서 시장의 질서가 정상적으로 잡힐 것”이라고 전했다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "보건복지부도 한국의료의 브랜드 제고 차원에서 환급제를 긍정적으로 바라보고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "성형외과 수익을 투명화하고, 소비자의 신뢰도 향상에 기여할 수 있을 것이란 판단이다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "의료관광 불법 브로커 문제, 외국인 대상 부가가치세 환급 효과는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

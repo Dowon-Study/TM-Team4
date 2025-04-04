@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196848",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "3월 미세먼지 5년 새 최악…마스크로도 못 막아? '충격'",
+    "newsSubTitle": "",
+    "newsContent": "미세먼지가 우울증을 유발한다는 연구결과가 나왔다.\n삼성서울병원이 6년 간 분석한 결과 미세먼지가 심한 주에는 자살률이 3.6% 증가했으며, 자살위험이 10% 높았고, 심장병을 갖고 있는 사람은 19%나 높아졌다.\n미세먼지는 혈액에 녹아 뇌로 올라가 뇌에 염증반응을 일으켜 기분을 조절하는 신경전달물질에 영향을 미친다.\n미세먼지가 심장병이나 호흡기질환 같은 만성질환의 증상을 악화시켜 우울증을 유발할 수도 있다.\n이를 예방하기 위해 미세먼지 농도가 짙은 날 천식 등 호흡기 및 심질환자는 장시간 실외활동을 자제하는게 좋다.\n미세먼지 농도가 짙어 주의보가 발령된 때에는 또 외출 할 때 긴 옷을 입고, 마스크를 착용해야 하며 마스크는 오염에 대비해 자주 교체해야 한다.\n한편 기상청은 3월에 대형 황사 온다는 전망을 내놨다.\n지난 23일 기상청은 3월에 꽃샘추위와 함께 대형 황사가 나타날 가능성이 있다고 전망했다.\n기상청은 올 봄 중국의 주요 황사 발원지에서 눈이 적게 내리고 고온 건조한 상태가 유지되면서 대형 황사가 발생할 조건이 형성됐다고 밝혔다.\n이렇게 형성된 황사는 3월 꽃샘추위를 몰고 오는 북서풍을 타고 한반도로 들이닥칠 것으로 예상된다.\n전문가들은 이를 대비해 반드시 ‘황사 마스크’를 구입하라고 권유한다.\n황사에는 미세먼지뿐 아니라 중금속, 세균 곰팡이도 많이 포함돼 있는데 일반마스크로는 83%의 차단효과밖에 기대할 수 없기 때문이다.\n하지만 정전기로 오염물질을 걸러내는 황사 마스크는 차단율이 98%에 이른다.\n하지만 기상청은 4월부터는 남동이나 남서풍이 불면서 황사 유입이 차단돼 봄철 황사 발생일수는 평년의 5.2일과 비슷하거나 적을 것으로 보인다고 예측했다.\n온라인 중앙일보 '3월 미세먼지 5년 새 최악' [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미세먼지가 우울증을 유발한다는 연구결과가 나왔다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "삼성서울병원이 6년 간 분석한 결과 미세먼지가 심한 주에는 자살률이 3.6% 증가했으며, 자살위험이 10% 높았고, 심장병을 갖고 있는 사람은 19%나 높아졌다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "미세먼지는 혈액에 녹아 뇌로 올라가 뇌에 염증반응을 일으켜 기분을 조절하는 신경전달물질에 영향을 미친다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미세먼지가 심장병이나 호흡기질환 같은 만성질환의 증상을 악화시켜 우울증을 유발할 수도 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이를 예방하기 위해 미세먼지 농도가 짙은 날 천식 등 호흡기 및 심질환자는 장시간 실외활동을 자제하는게 좋다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "미세먼지 농도가 짙어 주의보가 발령된 때에는 또 외출 할 때 긴 옷을 입고, 마스크를 착용해야 하며 마스크는 오염에 대비해 자주 교체해야 한다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 기상청은 3월에 대형 황사 온다는 전망을 내놨다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난 23일 기상청은 3월에 꽃샘추위와 함께 대형 황사가 나타날 가능성이 있다고 전망했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "기상청은 올 봄 중국의 주요 황사 발원지에서 눈이 적게 내리고 고온 건조한 상태가 유지되면서 대형 황사가 발생할 조건이 형성됐다고 밝혔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이렇게 형성된 황사는 3월 꽃샘추위를 몰고 오는 북서풍을 타고 한반도로 들이닥칠 것으로 예상된다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "전문가들은 이를 대비해 반드시 ‘황사 마스크’를 구입하라고 권유한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "황사에는 미세먼지뿐 아니라 중금속, 세균 곰팡이도 많이 포함돼 있는데 일반마스크로는 83%의 차단효과밖에 기대할 수 없기 때문이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "하지만 정전기로 오염물질을 걸러내는 황사 마스크는 차단율이 98%에 이른다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "하지만 기상청은 4월부터는 남동이나 남서풍이 불면서 황사 유입이 차단돼 봄철 황사 발생일수는 평년의 5.2일과 비슷하거나 적을 것으로 보인다고 예측했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "온라인 중앙일보 '3월 미세먼지 5년 새 최악' [사진 중앙포토]",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미세먼지 '역사상 최악', 심장병·천식·뇌 질환 피하려면 '황사 마스크' 착용해야",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

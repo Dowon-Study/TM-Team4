@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194411",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[SHOPPING] \\\"반갑다, 한가위\\\" 면세점 세일 행진",
+    "newsSubTitle": "",
+    "newsContent": "올 추석엔 여름 휴가철보다 해외 여행을 떠나는 이가 더 많다고 한다.\n여행 대목을 맞아 인천국제공항 면세점도 다양한 민속 행사와 세일을 준비했다.\n인천공항의 롯데·AK·DFS·한국관광공사 면세점은 일제히 추석 연휴 가을 세일에 들어간다.\n세일 기간은 21일에서 다음달 14일. 면세점마다 세일 브랜드와 할인 폭이 다르니 미리 인터넷이나 전화로 문의해 사고 싶은 제품의 값을 확인해 두는 것이 좋다.\n워낙 여행객이 많아 일부 품목은 공항에서 품절될 수 있다.\n추석맞이 문화 행사도 다양하다.\n공항 면세점에서 100달러 이상 물건을 산 고객은 전통 그네터 세트를 배경으로 전문 사진가가 사진을 찍어 액자에 담아 준다.\n또 이 사진을 전시하는 고객 중 공항 이용자 투표를 통해 1등으로 뽑힌 커플에겐 30만원 상당의 보석 구매권을 준다. 면세 구역에선 윷놀이·투호판을 벌이고 참가하는 내·외국인에게 작은 생활용품을 증정한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "올 추석엔 여름 휴가철보다 해외 여행을 떠나는 이가 더 많다고 한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여행 대목을 맞아 인천국제공항 면세점도 다양한 민속 행사와 세일을 준비했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "인천공항의 롯데·AK·DFS·한국관광공사 면세점은 일제히 추석 연휴 가을 세일에 들어간다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "세일 기간은 21일에서 다음달 14일. 면세점마다 세일 브랜드와 할인 폭이 다르니 미리 인터넷이나 전화로 문의해 사고 싶은 제품의 값을 확인해 두는 것이 좋다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "워낙 여행객이 많아 일부 품목은 공항에서 품절될 수 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "추석맞이 문화 행사도 다양하다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "공항 면세점에서 100달러 이상 물건을 산 고객은 전통 그네터 세트를 배경으로 전문 사진가가 사진을 찍어 액자에 담아 준다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 이 사진을 전시하는 고객 중 공항 이용자 투표를 통해 1등으로 뽑힌 커플에겐 30만원 상당의 보석 구매권을 준다. 면세 구역에선 윷놀이·투호판을 벌이고 참가하는 내·외국인에게 작은 생활용품을 증정한다.",
+        "sentenceSize": 114
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "추석맞이 면세점 세일 행사 풍성, 놓쳐서는 안 되는 세일은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

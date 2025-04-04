@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197692",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "아모레퍼시픽, 공병 활용한 '업사이클링' 벤치 기부",
+    "newsSubTitle": "서울 종로구 '벤치 더 놓기 프로젝트' 동참 일환 플라스틱 공병 재활용 통해 자연과 공존 방법 모색",
+    "newsContent": "아모레퍼시픽은 지난 2일, 삼표그룹 및 디크리트와 협업해 만든 업사이클링(Upcycling) 벤치 8개를 서울시 종로구청에 전달했다고 3일 밝혔다.\n아모레퍼시픽과 삼표그룹은 각각 화장품 플라스틱 공병과 초고성능 콘크리트(UHPC: Ultra High Performance Concrete)를 원료로 기부했으며, UHPC 전문 기업 디크리트는 벤치 디자인과 제작을 맡았다.\n이번 기부는 종로구가 추진하는 '벤치 더 놓기 프로젝트'에 공감한 기업들이 뜻을 모아 이뤄졌으며, 3년간 다양한 장소에 기증을 이어갈 계획이다.\n아모레퍼시픽은 '그린사이클(GREENCYCLE)' 캠페인의 하나로, 화장품 플라스틱 공병 1400여 개를 재활용해 만든 업사이클링 벤치를 충남 태안 천리포수목원에 설치한 바 있다.\n앞서, 그린사이클은 화장품 플라스틱 공병 등을 리사이클링(Recycling)하거나 예술 작품으로 업사이클링하는 아모레퍼시픽의 친환경 사회공헌 활동이다.\n아모레퍼시픽 관계자는 미디어SR에 \\\"앞으로도 창의적인 자원 재활용 방법을 모색하며 플라스틱 쓰레기 문제 해결에 적극적으로 앞장서 나갈 예정\\\"이라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아모레퍼시픽은 지난 2일, 삼표그룹 및 디크리트와 협업해 만든 업사이클링(Upcycling) 벤치 8개를 서울시 종로구청에 전달했다고 3일 밝혔다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아모레퍼시픽과 삼표그룹은 각각 화장품 플라스틱 공병과 초고성능 콘크리트(UHPC: Ultra High Performance Concrete)를 원료로 기부했으며, UHPC 전문 기업 디크리트는 벤치 디자인과 제작을 맡았다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 기부는 종로구가 추진하는 '벤치 더 놓기 프로젝트'에 공감한 기업들이 뜻을 모아 이뤄졌으며, 3년간 다양한 장소에 기증을 이어갈 계획이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아모레퍼시픽은 '그린사이클(GREENCYCLE)' 캠페인의 하나로, 화장품 플라스틱 공병 1400여 개를 재활용해 만든 업사이클링 벤치를 충남 태안 천리포수목원에 설치한 바 있다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서, 그린사이클은 화장품 플라스틱 공병 등을 리사이클링(Recycling)하거나 예술 작품으로 업사이클링하는 아모레퍼시픽의 친환경 사회공헌 활동이다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아모레퍼시픽 관계자는 미디어SR에 \\\"앞으로도 창의적인 자원 재활용 방법을 모색하며 플라스틱 쓰레기 문제 해결에 적극적으로 앞장서 나갈 예정\\\"이라고 말했다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아모레퍼시픽 업사이클링 한 `이 제품` 서울시 종로구청에 기부···",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

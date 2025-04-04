@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193425",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[문학신간] '석전 박한영 한시집' 外",
+    "newsSubTitle": "",
+    "newsContent": "◆미당 서정주(1915~2000)가 생전에 번역한 '석전 박한영 한시집'(동국역경원)이 출간됐다.\n미당의 유고 가운데 처음으로 출간된 이 책은 사후 동국대 도서관에 기증했던 1만2000여 유품 가운데 하나다.\n석전(石顚) 박한영(朴漢永.1870~1948)은 일제시대 한국불교의 지도자로, 동국대 전신인 중앙불교전문학교 교장으로 재직할 때 미당을 이 학교에 입학시켰다.\n170쪽, 8000원. ◆34년간 시조계를 굳게 지켜온 이우걸 시인의 회갑을 맞아 그의 작품 세계를 조망한 헌정 비평집 '이우걸의 시조미학'(작가)이 출간됐다.\n이승훈.조남현.구모룡.장경렬.엄경희.장석주.이지엽.유성호 등 이름만 들어도 쟁쟁한 후학 19명이 비평집에 참여했다.\n257쪽, 1만3000원. ◆곽효환(38)씨의 첫 시집 '인디오 여인'(민음사)이 나왔다.\n비평가 유종호가 \\\"나그네 시인\\\"이라고 명명했을 만큼, 숱한 떠남의 기억이 시집을 가득 채운다. 13살 때 사당동 산 17번지 뒷산에 물 길러갔다가 길을 잃었던 아픈 기억부터, 쿠바.멕시코.러시아.프랑스.미국 등지에서 보고 듣고 느꼈던 것들까지 잔잔하고도 차분하게 표현됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆미당 서정주(1915~2000)가 생전에 번역한 '석전 박한영 한시집'(동국역경원)이 출간됐다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미당의 유고 가운데 처음으로 출간된 이 책은 사후 동국대 도서관에 기증했던 1만2000여 유품 가운데 하나다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "석전(石顚) 박한영(朴漢永.1870~1948)은 일제시대 한국불교의 지도자로, 동국대 전신인 중앙불교전문학교 교장으로 재직할 때 미당을 이 학교에 입학시켰다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "170쪽, 8000원. ◆34년간 시조계를 굳게 지켜온 이우걸 시인의 회갑을 맞아 그의 작품 세계를 조망한 헌정 비평집 '이우걸의 시조미학'(작가)이 출간됐다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이승훈.조남현.구모룡.장경렬.엄경희.장석주.이지엽.유성호 등 이름만 들어도 쟁쟁한 후학 19명이 비평집에 참여했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "257쪽, 1만3000원. ◆곽효환(38)씨의 첫 시집 '인디오 여인'(민음사)이 나왔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "비평가 유종호가 \\\"나그네 시인\\\"이라고 명명했을 만큼, 숱한 떠남의 기억이 시집을 가득 채운다. 13살 때 사당동 산 17번지 뒷산에 물 길러갔다가 길을 잃었던 아픈 기억부터, 쿠바.멕시코.러시아.프랑스.미국 등지에서 보고 듣고 느꼈던 것들까지 잔잔하고도 차분하게 표현됐다.",
+        "sentenceSize": 154
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이우걸의 시조미학 출간... 이름만 들어도 쟁쟁한 후학 19명이 참여한 '클라스'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196161",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "브라질에 진출하는 국내 제약사",
+    "newsSubTitle": "동아ST, 브라질에 당뇨병 치료제 기술수출",
+    "newsContent": "동아에스티(대표이사 사장 박찬일)는 브라질 유로파마(Eurofarma Laboratórios S.A.)와 자체 개발 당뇨병치료제 ‘DA-1229(성분명: Evogliptin)’의 라이센싱 아웃 계약을 체결했다고 25일 밝혔다.\n이번 계약으로 동아에스티는 계약금과 개발 진행 단계에 따른 기술료를 받는다.\n제품 발매 후 유로파마에 원료를 수출한다.\n유로파마는 브라질에서 ‘DA-1229’의 임상, 허가 등의 개발과 판매를 담당한다.\n브라질의 당뇨환자수는 약 1100만 명으로 중국·인도·미국 다음으로 많으며, 해마다 큰 폭으로 증가하고 있다.\n또한 브라질의 전체 당뇨병 치료제 시장은 지난해 7600억 원으로 이 중 DPP-4저해제가 약 30%인 2천 3백억 원을 차지하며 큰 시장을 형성하고 있다.\n회사 측에 따르면 ‘DA-1229’는 DPP-4 저해 기전의 당뇨병치료제다.\n기존 당뇨병치료제에 비해 혈당 조절이 우수하고 체중 증가와 저혈당 등의 부작용 우려가 적은 것이 특징이다.\n지난 2008년 보건복지부 혁신신약연구과제로 선정되어 2008년 5월부터 2010년 3월까지 2년간 보건복지부 지원을 받았다.\n동아에스티는 국내에서 현재 ‘DA-1229’의 임상 3상 시험을 진행하고 있으며, 올해 말 임상이 완료되면 내년 상반기에 국내 신약허가 신청을 진행할 예정이다.\n동아에스티는 2012년에 중국 루예 제약집단(Luye Pharma Group), 인도 알켐(Alkem Laboratories Ltd)과 ‘DA-1229’의 라이센싱 아웃 계약을 체결했으며, 루예 제약집단은 올해 7월 중국 내 임상시험신청에 대한 중국 CFDA (국가식품약품감독 관리국)의 승인을 받아 임상을 준비 중이다.\n동아에스티 박찬일 사장은 “중국·인도에 이어 브라질에 ‘DA-1229’를 라이센싱 아웃해 해외에서 다시 한번 동아에스티의 R&D 우수성을 인정받았다”며 “이번 계약을 통해 자체 개발 신약이 전 세계 더 많은 지역으로 진출 할 수 있도록 최선을 다하겠다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "동아에스티(대표이사 사장 박찬일)는 브라질 유로파마(Eurofarma Laboratórios S.A.)와 자체 개발 당뇨병치료제 ‘DA-1229(성분명: Evogliptin)’의 라이센싱 아웃 계약을 체결했다고 25일 밝혔다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번 계약으로 동아에스티는 계약금과 개발 진행 단계에 따른 기술료를 받는다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "제품 발매 후 유로파마에 원료를 수출한다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유로파마는 브라질에서 ‘DA-1229’의 임상, 허가 등의 개발과 판매를 담당한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "브라질의 당뇨환자수는 약 1100만 명으로 중국·인도·미국 다음으로 많으며, 해마다 큰 폭으로 증가하고 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 브라질의 전체 당뇨병 치료제 시장은 지난해 7600억 원으로 이 중 DPP-4저해제가 약 30%인 2천 3백억 원을 차지하며 큰 시장을 형성하고 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "회사 측에 따르면 ‘DA-1229’는 DPP-4 저해 기전의 당뇨병치료제다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "기존 당뇨병치료제에 비해 혈당 조절이 우수하고 체중 증가와 저혈당 등의 부작용 우려가 적은 것이 특징이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지난 2008년 보건복지부 혁신신약연구과제로 선정되어 2008년 5월부터 2010년 3월까지 2년간 보건복지부 지원을 받았다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "동아에스티는 국내에서 현재 ‘DA-1229’의 임상 3상 시험을 진행하고 있으며, 올해 말 임상이 완료되면 내년 상반기에 국내 신약허가 신청을 진행할 예정이다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "동아에스티는 2012년에 중국 루예 제약집단(Luye Pharma Group), 인도 알켐(Alkem Laboratories Ltd)과 ‘DA-1229’의 라이센싱 아웃 계약을 체결했으며, 루예 제약집단은 올해 7월 중국 내 임상시험신청에 대한 중국 CFDA (국가식품약품감독 관리국)의 승인을 받아 임상을 준비 중이다.",
+        "sentenceSize": 179
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "동아에스티 박찬일 사장은 “중국·인도에 이어 브라질에 ‘DA-1229’를 라이센싱 아웃해 해외에서 다시 한번 동아에스티의 R&D 우수성을 인정받았다”며 “이번 계약을 통해 자체 개발 신약이 전 세계 더 많은 지역으로 진출 할 수 있도록 최선을 다하겠다”고 말했다.",
+        "sentenceSize": 147
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "세계로 진출하는 국내 제약사... 동아에스티가 브라질로 간 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

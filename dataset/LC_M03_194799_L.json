@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194799",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "전통과 접속한 아시아 현대무용",
+    "newsSubTitle": "12개팀 참가 '창무 국제예술제' 개막",
+    "newsContent": "아시아 현대무용을 꾸준히 국내에 소개해온 창무국제예술제가 28일부터 9월 3일까지 서울 세종문화회관 소극장에서 열린다.\n올해로 9회를 맞았다.\n올해는 한.중.일.싱가포르.말레이시아 등 다섯 나라의 12개 공연팀이 참가해 전통의 끈을 놓지 않으면서도 나라별로 특색있게 현대적으로 소화한 무용을 선보인다.\n이번 창무국제예술제의 주제는 '미래를 향한 아시아의 열정' 이다.\n개막일인 28일은 한.중.일 세 나라의 원로와 중진들이 축하 공연을 펼친다.\n일본의 대고(大鼓)연주자인 오쿠라 소노스케가 출연해 솔로 연주가 힘들다는 북 연주를 들려준다.\n중국의 전통 현악기인 얼후(二胡)를 베를린 필하모닉 오케스트라와 협연한 장젠화, 종묘제례악에서 해금 부문의 예능보유자인 김천흥, 그리고 대표작 '춤본 Ⅱ' 를 선보이는 김매자 등도 나온다.\n29~30일은 아시아 발레다.\n서양의 발레에 고유의 민족 정서를 입혀 세계 무대에서 각광받은 싱가포르댄스시어터의 명성을 확인할 기회다.\n나라마다 떠오르는 유망주가 궁금하다면 31일과 9월 1일 공연을 보면 된다.\n김은희의 안무로 김나영과 말레이시아의 탄닥댄스컴퍼니가 함께 멋들어진 무대를 차린다.\n공연은 오후 7시30분. 02-766-5210.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아시아 현대무용을 꾸준히 국내에 소개해온 창무국제예술제가 28일부터 9월 3일까지 서울 세종문화회관 소극장에서 열린다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "올해로 9회를 맞았다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "올해는 한.중.일.싱가포르.말레이시아 등 다섯 나라의 12개 공연팀이 참가해 전통의 끈을 놓지 않으면서도 나라별로 특색있게 현대적으로 소화한 무용을 선보인다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 창무국제예술제의 주제는 '미래를 향한 아시아의 열정' 이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "개막일인 28일은 한.중.일 세 나라의 원로와 중진들이 축하 공연을 펼친다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일본의 대고(大鼓)연주자인 오쿠라 소노스케가 출연해 솔로 연주가 힘들다는 북 연주를 들려준다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "중국의 전통 현악기인 얼후(二胡)를 베를린 필하모닉 오케스트라와 협연한 장젠화, 종묘제례악에서 해금 부문의 예능보유자인 김천흥, 그리고 대표작 '춤본 Ⅱ' 를 선보이는 김매자 등도 나온다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "29~30일은 아시아 발레다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "서양의 발레에 고유의 민족 정서를 입혀 세계 무대에서 각광받은 싱가포르댄스시어터의 명성을 확인할 기회다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "나라마다 떠오르는 유망주가 궁금하다면 31일과 9월 1일 공연을 보면 된다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "김은희의 안무로 김나영과 말레이시아의 탄닥댄스컴퍼니가 함께 멋들어진 무대를 차린다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "공연은 오후 7시30분. 02-766-5210.",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "나라별로 떠오르는 유망주 공연... 이번 창무국제예술제의 주제는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

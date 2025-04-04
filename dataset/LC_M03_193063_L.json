@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193063",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 빛나는 피부 가꾸는 저분자 콜라겐",
+    "newsSubTitle": "웰빙 제품 트리플 스킨콜라겐",
+    "newsContent": "연말 모임에서 건강한 피부를 자랑하고 싶다면 지금부터 철저한 관리가 필요하다.\n30대 이후부터는 피부의 컨디션이 중요해진다.\n화장하기 좋은 피부도 결국 건강한 피부다.\n건강한 피부를 만드는 방법으로 탄력과 주름 등 피부 관리에 도움을 줄 수 있는 콜라겐이 주목받고 있다.\n콜라겐은 피부 진피 무게의 80%를 차지하는 주요 성분이다.\n피부 진피 속 세포와 세포 사이의 밀착력을 높여 주름 생성과 탄력 저하를 예방하는 데 도움을 준다. 20대까지는 체내에서 충분한 양의 콜라겐을 만들 수 있지만, 30대를 기점으로 콜라겐의 양은 점차 감소해 40대가 되면 20대의 절반 수준만 남는다.\n음식으로 섭취한 콜라겐의 대부분은 위산과 효소에 의해 파괴되고 소장에서 아미노산 형태로 분해된다.\n음식물로는 피부 속 콜라겐 양을 늘리기 힘들다.\n분자량이 작고 흡수율이 높은 저분자 콜라겐을 섭취해야 몸속 콜라겐 보충에 도움이 될 수 있다.\n평균 분자량 500달톤 이하의 ‘트리펩타이드 콜라겐’은 효소 전문기업 아미코젠의 독자적 효소분해 공법으로 개발된 저분자 콜라겐이다.\n섭취 후 몸에 빠르게 흡수되는 것이 장점이다.\n케이뉴트라는 이달 30일까지 선착순 300명을 대상으로 ‘트리플 스킨콜라겐’(사진) 과립 및 젤리 제품을 유통 최저가에 할인 판매한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "연말 모임에서 건강한 피부를 자랑하고 싶다면 지금부터 철저한 관리가 필요하다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "30대 이후부터는 피부의 컨디션이 중요해진다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "화장하기 좋은 피부도 결국 건강한 피부다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "건강한 피부를 만드는 방법으로 탄력과 주름 등 피부 관리에 도움을 줄 수 있는 콜라겐이 주목받고 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "콜라겐은 피부 진피 무게의 80%를 차지하는 주요 성분이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "피부 진피 속 세포와 세포 사이의 밀착력을 높여 주름 생성과 탄력 저하를 예방하는 데 도움을 준다. 20대까지는 체내에서 충분한 양의 콜라겐을 만들 수 있지만, 30대를 기점으로 콜라겐의 양은 점차 감소해 40대가 되면 20대의 절반 수준만 남는다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "음식으로 섭취한 콜라겐의 대부분은 위산과 효소에 의해 파괴되고 소장에서 아미노산 형태로 분해된다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "음식물로는 피부 속 콜라겐 양을 늘리기 힘들다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "분자량이 작고 흡수율이 높은 저분자 콜라겐을 섭취해야 몸속 콜라겐 보충에 도움이 될 수 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "평균 분자량 500달톤 이하의 ‘트리펩타이드 콜라겐’은 효소 전문기업 아미코젠의 독자적 효소분해 공법으로 개발된 저분자 콜라겐이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "섭취 후 몸에 빠르게 흡수되는 것이 장점이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "케이뉴트라는 이달 30일까지 선착순 300명을 대상으로 ‘트리플 스킨콜라겐’(사진) 과립 및 젤리 제품을 유통 최저가에 할인 판매한다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "건강한 피부 만드는 방법... 음식물 섭취로는 한계",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

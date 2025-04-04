@@ -1,0 +1,231 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197378",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 반복유산 유발 메커니즘 첫 발견, 선별·예방 진단 키트 개발 길 터",
+    "newsSubTitle": "반복유산 증상 여성 혈액서 배아 착상·성장에 악영향 주는 특정 단백질 두 가지 찾아내",
+    "newsContent": "병원리포트 차의과학대 백광현 교수, 강남차병원 백진영 교수팀 특정 단백질이 반복유산을 어떻게 유발하는지 그 원리가 밝혀졌다.\n차의과학대 의생명과학과 백광현 교수와 강남차병원 진단검사의학과 백진영 교수팀은 반복유산에 관여하는 단백질의 기능을 분석해 반복유산이 일어나는 메커니즘을 규명했다고 밝혔다.\n백광현·백진영 교수팀은 반복유산 증상을 보이는 여성의 혈액 속에서 발견되는 특정 단백질 두 가지가 반복유산의 원인으로 작용한다는 사실을 발견했다.\n단백질 ‘KLKB1’과 이로 인한 변형 단백질 ‘ITI-H4’이다.\n단백질 메커니즘을 규명하는 분석에는 프로테오믹스 연구기법이 적용됐다.\n프로테오믹스는 유전자의 명령으로 만들어진 프로테옴(단백질체)을 대상으로 유전자의 기능과 단백질의 기능 이상, 구조 변형 등을 규명해 질병 과정을 추적하는 분석 기술이다.\n연구결과, 이 단백질들은 배아의 착상·성장에 악영향을 미쳐 반복유산을 유발했다.\nKLKB1 단백질은 ITI-H4 단백질을 분해해 짧은 형태의 ITI-H4 단백질로 변형시키는 것으로 나타났다.\n이것이 염증 반응을 유발해 배아가 자궁에 착상하는 과정과 배아 성장 과정을 방해한다는 것이다.\n이번 연구는 단백질 분해 효소도 반복유산을 유발한다는 기전을 처음 밝혔다는 데 의미가 있다.\n기존에 반복유산을 일으키는 발병 기전으로 보고된 건 염색체 이상과 자궁 기형, 호르몬 대사 이상이다.\n이런 원인 외에 단백질 분해 효소도 반복유산을 일으킬 수 있다는 사실이 밝혀진 것이다.\n연구팀은 이번 연구에서 ITI-H4 단백질과 KLKB1 단백질 등 하나의 단백질이 아닌 다중의 단백질을 발견했다.\n백광현 교수는 “다중 단백질이 영향을 미친다는 것이 밝혀졌으므로 앞으로 임상에서 진단을 내릴 때 단일 지표로만 질병을 평가하는 단점을 극복할 수 있다”며 “반복유산 진단의 특이성과 효율성을 크게 높여줄 것”이라고 말했다.\n반복유산은 임신 초기인 20주 이전에 세 번 이상 연속적으로 유산하는 질환이다.\n여성 불임의 대표적인 원인으로 꼽히고 있다.\n그러나 반복유산의 절반 이상은 명확한 원인이 밝혀지지 않았다.\n뚜렷한 예방법이나 치료법이 없는 상황이다.\n기존 반복유산 검사에는 양수천자 검사와 제대혈 검사, 융모막융모생검 등이 사용됐다.\n하지만 시술이 어렵고 합병증 위험도 있어 임신부에게는 부담이 적지 않다.\n백광현 교수는 “반복유산에서 특이하게 발현하는 다중의 단백질을 발굴해 처음으로 기전을 밝혔다는 데 의미가 있다”며 “앞으로 반복유산을 선별하고 예방할 수 있는 진단키트 제작뿐 아니라 치료제 개발까지 이어질 것으로 기대한다”고 밝혔다.\n한편 이번 연구는 보건복지부의 ‘공익적 질병극복 연구지원사업’으로 수행됐다.\n논문은 국제학술지 란셋의 자매지인 온라인 의학 학회지 ‘이바이오메디슨(EBioMedicine)’에 게재됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 23,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "병원리포트 차의과학대 백광현 교수, 강남차병원 백진영 교수팀 특정 단백질이 반복유산을 어떻게 유발하는지 그 원리가 밝혀졌다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "차의과학대 의생명과학과 백광현 교수와 강남차병원 진단검사의학과 백진영 교수팀은 반복유산에 관여하는 단백질의 기능을 분석해 반복유산이 일어나는 메커니즘을 규명했다고 밝혔다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "백광현·백진영 교수팀은 반복유산 증상을 보이는 여성의 혈액 속에서 발견되는 특정 단백질 두 가지가 반복유산의 원인으로 작용한다는 사실을 발견했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "단백질 ‘KLKB1’과 이로 인한 변형 단백질 ‘ITI-H4’이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "단백질 메커니즘을 규명하는 분석에는 프로테오믹스 연구기법이 적용됐다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "프로테오믹스는 유전자의 명령으로 만들어진 프로테옴(단백질체)을 대상으로 유전자의 기능과 단백질의 기능 이상, 구조 변형 등을 규명해 질병 과정을 추적하는 분석 기술이다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연구결과, 이 단백질들은 배아의 착상·성장에 악영향을 미쳐 반복유산을 유발했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "KLKB1 단백질은 ITI-H4 단백질을 분해해 짧은 형태의 ITI-H4 단백질로 변형시키는 것으로 나타났다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이것이 염증 반응을 유발해 배아가 자궁에 착상하는 과정과 배아 성장 과정을 방해한다는 것이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이번 연구는 단백질 분해 효소도 반복유산을 유발한다는 기전을 처음 밝혔다는 데 의미가 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "기존에 반복유산을 일으키는 발병 기전으로 보고된 건 염색체 이상과 자궁 기형, 호르몬 대사 이상이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이런 원인 외에 단백질 분해 효소도 반복유산을 일으킬 수 있다는 사실이 밝혀진 것이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "연구팀은 이번 연구에서 ITI-H4 단백질과 KLKB1 단백질 등 하나의 단백질이 아닌 다중의 단백질을 발견했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "백광현 교수는 “다중 단백질이 영향을 미친다는 것이 밝혀졌으므로 앞으로 임상에서 진단을 내릴 때 단일 지표로만 질병을 평가하는 단점을 극복할 수 있다”며 “반복유산 진단의 특이성과 효율성을 크게 높여줄 것”이라고 말했다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "반복유산은 임신 초기인 20주 이전에 세 번 이상 연속적으로 유산하는 질환이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "여성 불임의 대표적인 원인으로 꼽히고 있다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "그러나 반복유산의 절반 이상은 명확한 원인이 밝혀지지 않았다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "뚜렷한 예방법이나 치료법이 없는 상황이다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "기존 반복유산 검사에는 양수천자 검사와 제대혈 검사, 융모막융모생검 등이 사용됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "하지만 시술이 어렵고 합병증 위험도 있어 임신부에게는 부담이 적지 않다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "백광현 교수는 “반복유산에서 특이하게 발현하는 다중의 단백질을 발굴해 처음으로 기전을 밝혔다는 데 의미가 있다”며 “앞으로 반복유산을 선별하고 예방할 수 있는 진단키트 제작뿐 아니라 치료제 개발까지 이어질 것으로 기대한다”고 밝혔다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "한편 이번 연구는 보건복지부의 ‘공익적 질병극복 연구지원사업’으로 수행됐다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "논문은 국제학술지 란셋의 자매지인 온라인 의학 학회지 ‘이바이오메디슨(EBioMedicine)’에 게재됐다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'반복유산' 유발 메커니즘 규명 성공, 피눈물 쏟던 임산부들에게 희소식",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

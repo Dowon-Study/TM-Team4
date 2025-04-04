@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193502",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[문학/교양] '푸른 항해'",
+    "newsSubTitle": "",
+    "newsContent": "18세기 영국의 항해가였던 제임스 쿡은 북극에서 남극, 타히티에서 시베리아, 그리고 이스터 섬에서 그레이트 배리어 리프에 이르기까지 세계 지도의 3분의 1에 달하는 지역을 탐험한 인물이다.\n기자 출신의 저자 토니 호위츠는 신간 '푸른 항해'에서 제임스 쿡이 갔던 항로를 따라 쿡의 모험과 삶을 재구성해냈다.\n대서양.태평양.인도양을 종횡무진 누빈 캡틴 쿡은 하와이.이스터.통가.소사이어티.뉴칼레도니아 등의 섬을 처음 세상에 알렸고, 쿡제도 등은 그의 이름을 딴 지명이다.\n오스트레일리아가 영국 땅이라고 선언한 것도 쿡이었고, 많은 탐험가들이 남극을 찾게 만든 것도 그였다.\n산업혁명이 절정에 달하던 시절에 이뤄진 탐험은 영국의 제국주의적 욕망과 함께 이뤄진 것이란 비판도 있다.\n하지만 이전에 알지 못했던 수많은 지역과 종족, 그리고 동식물 등에 대한 조사는 그의 탐험이 있었기에 가능했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "18세기 영국의 항해가였던 제임스 쿡은 북극에서 남극, 타히티에서 시베리아, 그리고 이스터 섬에서 그레이트 배리어 리프에 이르기까지 세계 지도의 3분의 1에 달하는 지역을 탐험한 인물이다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "기자 출신의 저자 토니 호위츠는 신간 '푸른 항해'에서 제임스 쿡이 갔던 항로를 따라 쿡의 모험과 삶을 재구성해냈다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대서양.태평양.인도양을 종횡무진 누빈 캡틴 쿡은 하와이.이스터.통가.소사이어티.뉴칼레도니아 등의 섬을 처음 세상에 알렸고, 쿡제도 등은 그의 이름을 딴 지명이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오스트레일리아가 영국 땅이라고 선언한 것도 쿡이었고, 많은 탐험가들이 남극을 찾게 만든 것도 그였다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "산업혁명이 절정에 달하던 시절에 이뤄진 탐험은 영국의 제국주의적 욕망과 함께 이뤄진 것이란 비판도 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 이전에 알지 못했던 수많은 지역과 종족, 그리고 동식물 등에 대한 조사는 그의 탐험이 있었기에 가능했다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'푸른 항해', 제임스 쿡의 모험과 삶 '그 잡채'를 재구성하다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

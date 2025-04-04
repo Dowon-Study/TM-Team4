@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196785",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 당신] 유산균 10배 많은 신제품 ‘한 상자 더’ 행사",
+    "newsSubTitle": "헬스벨 Bell",
+    "newsContent": "최근 건강의 키워드는 면역력이다.\n면역력을 유지하기 위해선 장 건강을 지키는 게 최우선이다.\n장 건강을 유지하기 위해선 규칙적이고 올바른 식습관을 지켜야 한다.\n여기에 유산균을 꾸준히 섭취해 장내 유익균을 채우는 것도 좋다.\n어떤 유산균을 섭취하느냐가 중요하다.\n유산균을 먹어도 장에 도달할 때까지 살아 있지 못하거나 장에서 흡수되지 않는다면 효과를 보기 어렵다.\n유산균 제품을 선택할 땐 두 가지를 명심해야 한다.\n유산균이 살아서 장까지 갈 수 있도록 돕는 프리바이오틱스가 함유된 제품이 좋다.\n또 유통기한이 짧은 제품을 선택하는 게 더 많은 유익균을 장까지 보낼 수 있는 방법이다.\n국내 유산균 브랜드 1위 업체인 종근당건강은 기존 ‘장건강 생유산균 골드’를 ‘락토핏 골드(사진)’로 업그레이드했다.\n기존 제품보다 10배 많은 10억 마리의 유산균이 들어 있으며, 유통기한을 줄여 장까지 최대한 많은 유산균이 살아서 도착할 수 있도록 했다.\n종근당건강은 락토핏 골드 출시를 기념해 오는 27일까지 ‘한 상자 더’ 특별행사를 한다.\n행사 기간 중 락토핏 골드 온 가족 패키지를 구매한 고객이 대상이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최근 건강의 키워드는 면역력이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "면역력을 유지하기 위해선 장 건강을 지키는 게 최우선이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "장 건강을 유지하기 위해선 규칙적이고 올바른 식습관을 지켜야 한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여기에 유산균을 꾸준히 섭취해 장내 유익균을 채우는 것도 좋다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "어떤 유산균을 섭취하느냐가 중요하다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유산균을 먹어도 장에 도달할 때까지 살아 있지 못하거나 장에서 흡수되지 않는다면 효과를 보기 어렵다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유산균 제품을 선택할 땐 두 가지를 명심해야 한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "유산균이 살아서 장까지 갈 수 있도록 돕는 프리바이오틱스가 함유된 제품이 좋다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 유통기한이 짧은 제품을 선택하는 게 더 많은 유익균을 장까지 보낼 수 있는 방법이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "국내 유산균 브랜드 1위 업체인 종근당건강은 기존 ‘장건강 생유산균 골드’를 ‘락토핏 골드(사진)’로 업그레이드했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "기존 제품보다 10배 많은 10억 마리의 유산균이 들어 있으며, 유통기한을 줄여 장까지 최대한 많은 유산균이 살아서 도착할 수 있도록 했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "종근당건강은 락토핏 골드 출시를 기념해 오는 27일까지 ‘한 상자 더’ 특별행사를 한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "행사 기간 중 락토핏 골드 온 가족 패키지를 구매한 고객이 대상이다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무려 '100억 마리' 엄청난 수의 유산균 들어있는 종근당건강 락토핏, '한 상자 더' 이벤트",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

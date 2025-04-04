@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194429",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[전시회 산책] ‘사랑의 흐름전’ 外",
+    "newsSubTitle": "",
+    "newsContent": "◆서울 신사동 청작화랑이 개관 20주년을 기념하는 ‘사랑의 흐름전’을 연다. 48명의 작가가 1,2부로 나눠 참가해 회화와 조각을 보여준다.\n신작이 많은 것이 특징이다.\n24일~9월 5일 열리는 1부 전시는 김기창·박돈(사진)·전뢰진·김병종·한진·황영성·오용길·이숙자·전래식 등 원로 중견이 출품했다.\n9월 7일~18일 2부 전시엔 김일해·이목을·이정웅·전준엽 등 40~50대 인기 작가들이 나온다.\n02-549-3112 문경원 비디오 설치 ‘life fishing’.◆제17회 청담미술제가 24일부터 다음달 2일까지 서울 청담동 일대 화랑가에서 펼쳐진다.\n화랑 12곳에서 작가 50 여명의 작품을 전시한다.\n가산화랑·갤러리 미·갤러리 PICI·더 칼럼스·박영덕화랑·샘터화랑·유진갤러리·이목화랑·주영갤러리·줄리아나갤러리·청화랑·카이스갤러리 등이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆서울 신사동 청작화랑이 개관 20주년을 기념하는 ‘사랑의 흐름전’을 연다. 48명의 작가가 1,2부로 나눠 참가해 회화와 조각을 보여준다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "신작이 많은 것이 특징이다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "24일~9월 5일 열리는 1부 전시는 김기창·박돈(사진)·전뢰진·김병종·한진·황영성·오용길·이숙자·전래식 등 원로 중견이 출품했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "9월 7일~18일 2부 전시엔 김일해·이목을·이정웅·전준엽 등 40~50대 인기 작가들이 나온다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "02-549-3112 문경원 비디오 설치 ‘life fishing’.◆제17회 청담미술제가 24일부터 다음달 2일까지 서울 청담동 일대 화랑가에서 펼쳐진다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "화랑 12곳에서 작가 50 여명의 작품을 전시한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "가산화랑·갤러리 미·갤러리 PICI·더 칼럼스·박영덕화랑·샘터화랑·유진갤러리·이목화랑·주영갤러리·줄리아나갤러리·청화랑·카이스갤러리 등이다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "청작화랑 개관 20주년 기념 ‘사랑의 흐름전’, 전시는 언제쯤?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

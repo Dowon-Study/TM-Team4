@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_192859",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "[신간] '귀향', 김규동의 문학과 삶을 담다",
+    "newsSubTitle": "새롭게 발굴된 시 1편 등 대표시 25편 담겨",
+    "newsContent": "\\\"그 어느 마지막 종점을 향하여 흰나비는 또 한번 스스로의 신화와 더불어 대결하여 본다.(나비와 광장 中)\\\" '나비와 광장'을 쓴 시인으로 유명한 김규동 시인의 대표시(詩) 25편과 평론가들의 문학비평 9편을 모은 신간 '귀향'이 발간됐다.\n지난 2011년 별세한 김규동 시인은 모더니즘과 민족문학 양면에서 다양한 작품을 남긴 작가 중 한명이다.\n그는 김기림‧정지용 같은 시인이 보여준 예술성의 고수를 중시한 인물이다.\n특히 '문학의 사상성과 예술성'을 동시에 구현하는 것이 세계문학과 같이 가는 유일한 길임을 선언한 20세기 대표 모더니스트로 손꼽힌다.\n이번 신간 '귀향'은 김규동 시인의 사망 11주기를 맞아 발간됐다.\n특히 이번 신간에는 새롭게 발굴된 시 '남한과의 대화'도 수록됐다.\n오형엽·유성호·김종훈·임동확 등의 김규동 문학의 구조원리, 지적 모험, 현대성, 문학사적 의미를 다룬 신작 평론은 눈길을 끈다.\n이밖에 고(故) 백기완, 도종환 등 저명 문인 28인이 김 시인의 시에 부쳤던 추모산문을 모은 정감 있는 기념문집 '죽여주옵소서'가 '책속의 책' 개념으로 함께 수록됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"그 어느 마지막 종점을 향하여 흰나비는 또 한번 스스로의 신화와 더불어 대결하여 본다.(나비와 광장 中)\\\" '나비와 광장'을 쓴 시인으로 유명한 김규동 시인의 대표시(詩) 25편과 평론가들의 문학비평 9편을 모은 신간 '귀향'이 발간됐다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 2011년 별세한 김규동 시인은 모더니즘과 민족문학 양면에서 다양한 작품을 남긴 작가 중 한명이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 김기림‧정지용 같은 시인이 보여준 예술성의 고수를 중시한 인물이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 '문학의 사상성과 예술성'을 동시에 구현하는 것이 세계문학과 같이 가는 유일한 길임을 선언한 20세기 대표 모더니스트로 손꼽힌다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 신간 '귀향'은 김규동 시인의 사망 11주기를 맞아 발간됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 이번 신간에는 새롭게 발굴된 시 '남한과의 대화'도 수록됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오형엽·유성호·김종훈·임동확 등의 김규동 문학의 구조원리, 지적 모험, 현대성, 문학사적 의미를 다룬 신작 평론은 눈길을 끈다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이밖에 고(故) 백기완, 도종환 등 저명 문인 28인이 김 시인의 시에 부쳤던 추모산문을 모은 정감 있는 기념문집 '죽여주옵소서'가 '책속의 책' 개념으로 함께 수록됐다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "사망 11주기, 대표 모더니스트의 '귀향' ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197291",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "\\\"스타벅스 선 넘네요\\\" 6700원짜리 샌드위치 상태 어떻길래",
+    "newsSubTitle": "",
+    "newsContent": "커피프랜차이즈 스타벅스에서 판매되는 샌드위치의 품질 논란이 불거졌다.\n24일 관련 업계에 따르면 직장인 익명 커뮤니티 ‘블라인드’에는 지난 15일 “스타벅스 선 넘네요”라는 제목의 글이 올라왔다.\n글쓴이가 함께 첨부한 사진에는 빵 크기에 비해 채소나 소스, 햄 등의 내용물이 부족한 모습이 담겼다.\n이 글쓴이가 언급한 제품은 스타벅스 매장에서 6700원에 판매하는 ‘치킨 클럽 샌드위치’로 이달 출시된 스타벅스 베이커리의 신메뉴다.\n글쓴이는 “편의점 샌드위치도 이렇게 부실하게 안 나오는데 내용물과 기본에 충실한 베이커리 메뉴가 사라지고 이런 제품이 매장에 채워지는 것을 보면 우려된다”고 꼬집었다.\n해당 글에는 24일 기준 400개의 좋아요 470개의 댓글이 달렸고 다른 온라인 커뮤니티로도 빠르게 퍼졌다.\n네티즌들은 대부분 댓글에서 스타벅스 베이커리 제품과 커피 품질에 대해 지적하며 공감을 표했다.\n한 네티즌은 “크랜베리 치킨 샌드위치 4년째 일주일에 한 번씩 사 먹는데 요즘 품질이 엉망진창”이라고 꼬집었고, 또 다른 네티즌도 “스벅은 원래 푸드류는 만족한 적이 단 한 번도 없다”고 불만을 드러냈다.\n뿐만 아니라 동일한 샌드위치 상품에 대해 비슷한 문제 제기가 잇따르는 상황이다.\n한 소비자는 이날 한 스타벅스 매장에서 해당 샌드위치를 구입했다며 “한 입 베어 물었는데, 작은 치킨 조각이 베어 문 쪽에 있고 샌드위치 끄트머리에 치킨 조각이 있었다”고 토로했다.\n스타벅스코리아 관계자는 “푸드 상품은 원부재료에 대해 기준 중량을 확인해 제조하고 있다. 일부제품에서 눌림이나 쏠림 현상이 발생된 것으로 파악됐다”며 “향후 고객 의견을 경청하며 내부적으로 제조 공정을 다시 점검해 개선하며 품질 관리에 더욱 노력해 나가겠다”고 말했다.\n최근 소비자들 사이에선 스타벅스와 관련한 각종 논란이 계속되고 있다.\n지난 5월에는 종이빨대에서 휘발성 화학물질 냄새가 나며 종이빨대를 대거 교체하는 일이 발생했고, 최근에는 스타벅스 시즌 굿즈(기획상품)인 썸머 캐리백에서 악취가 난다는 문제 제기도 있었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "커피프랜차이즈 스타벅스에서 판매되는 샌드위치의 품질 논란이 불거졌다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "24일 관련 업계에 따르면 직장인 익명 커뮤니티 ‘블라인드’에는 지난 15일 “스타벅스 선 넘네요”라는 제목의 글이 올라왔다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "글쓴이가 함께 첨부한 사진에는 빵 크기에 비해 채소나 소스, 햄 등의 내용물이 부족한 모습이 담겼다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 글쓴이가 언급한 제품은 스타벅스 매장에서 6700원에 판매하는 ‘치킨 클럽 샌드위치’로 이달 출시된 스타벅스 베이커리의 신메뉴다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "글쓴이는 “편의점 샌드위치도 이렇게 부실하게 안 나오는데 내용물과 기본에 충실한 베이커리 메뉴가 사라지고 이런 제품이 매장에 채워지는 것을 보면 우려된다”고 꼬집었다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해당 글에는 24일 기준 400개의 좋아요 470개의 댓글이 달렸고 다른 온라인 커뮤니티로도 빠르게 퍼졌다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "네티즌들은 대부분 댓글에서 스타벅스 베이커리 제품과 커피 품질에 대해 지적하며 공감을 표했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한 네티즌은 “크랜베리 치킨 샌드위치 4년째 일주일에 한 번씩 사 먹는데 요즘 품질이 엉망진창”이라고 꼬집었고, 또 다른 네티즌도 “스벅은 원래 푸드류는 만족한 적이 단 한 번도 없다”고 불만을 드러냈다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "뿐만 아니라 동일한 샌드위치 상품에 대해 비슷한 문제 제기가 잇따르는 상황이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한 소비자는 이날 한 스타벅스 매장에서 해당 샌드위치를 구입했다며 “한 입 베어 물었는데, 작은 치킨 조각이 베어 문 쪽에 있고 샌드위치 끄트머리에 치킨 조각이 있었다”고 토로했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "스타벅스코리아 관계자는 “푸드 상품은 원부재료에 대해 기준 중량을 확인해 제조하고 있다. 일부제품에서 눌림이나 쏠림 현상이 발생된 것으로 파악됐다”며 “향후 고객 의견을 경청하며 내부적으로 제조 공정을 다시 점검해 개선하며 품질 관리에 더욱 노력해 나가겠다”고 말했다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "최근 소비자들 사이에선 스타벅스와 관련한 각종 논란이 계속되고 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "지난 5월에는 종이빨대에서 휘발성 화학물질 냄새가 나며 종이빨대를 대거 교체하는 일이 발생했고, 최근에는 스타벅스 시즌 굿즈(기획상품)인 썸머 캐리백에서 악취가 난다는 문제 제기도 있었다.",
+        "sentenceSize": 105
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "스타벅스서 터진 일… \"선 넘었다\" 얼굴 붉히며 손님 대노한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

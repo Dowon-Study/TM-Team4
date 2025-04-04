@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197088",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "“발기부전 치료제, 엠빅스도 있소”",
+    "newsSubTitle": "효과 6시간 … 발기력 최고점수 기존 다양한 제품과 힘겨루기",
+    "newsContent": "‘비아그라의 철옹성을 깨라’. 비아그라와 시알리스 등 다국적 기업 제품이 선점했던 발기부전 치료제 시장에 국산 제품의 도전이 본격화되면서 발기부전 치료제 시장의 지각변동이 일고 있다.\n현재 발기부전 치료를 위해 개발된 먹는 약은 비아그라(화이자), 시알리스(릴리), 레비트라(바이엘)와 국내의 자이데나(동아제약), 야일라(레비트라를 종근당이 판매) 등이 있다.\n여기에 SK케미칼이 ‘엠빅스’로 국내 시장에 진입하면서 시장 재패를 향한 토종과 외국계의 힘겨루기가 본격화하고 있는 것. 발기부전 치료제로 가장 먼저 이름을 올린 ‘비아그라’는 가장 많이 알려진 만큼 시장점유율도 1위를 차지한다.\n시알리스는 효과가 다소 늦지만 발기 상태가 오래 지속되는 강점을 내세운다.\n레비트라는 효과가 빠르게 나타나고, 강직도를 자랑한다.\n엠빅스는 효과가 지속되는 시간이 비아그라나 레비트라와 동일한 6시간 정도. 하지만 발기부전 치료제의 약효를 나타내는 국제발기력지수(IIEF) 측정에선 30점 만점에 역대 최고 점수인 25.7점을 획득했다.\n이렇게 제품이 다양해지면서 환자의 선택권이 힘을 받고 있다.\n제품별로 약효와 부작용이 다르기 때문에 환자가 제품의 특성을 파악해 자신에 맞는 약을 선택할 수 있는 것. 고대의대 안암병원 비뇨기과 김제종 교수는 “발기부전 치료제는 심혈관계와 시력 등 일부에서 부작용이 나타나므로 반드시 의사와 상담한 후 복용해야 한다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘비아그라의 철옹성을 깨라’. 비아그라와 시알리스 등 다국적 기업 제품이 선점했던 발기부전 치료제 시장에 국산 제품의 도전이 본격화되면서 발기부전 치료제 시장의 지각변동이 일고 있다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "현재 발기부전 치료를 위해 개발된 먹는 약은 비아그라(화이자), 시알리스(릴리), 레비트라(바이엘)와 국내의 자이데나(동아제약), 야일라(레비트라를 종근당이 판매) 등이 있다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "여기에 SK케미칼이 ‘엠빅스’로 국내 시장에 진입하면서 시장 재패를 향한 토종과 외국계의 힘겨루기가 본격화하고 있는 것. 발기부전 치료제로 가장 먼저 이름을 올린 ‘비아그라’는 가장 많이 알려진 만큼 시장점유율도 1위를 차지한다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "시알리스는 효과가 다소 늦지만 발기 상태가 오래 지속되는 강점을 내세운다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "레비트라는 효과가 빠르게 나타나고, 강직도를 자랑한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "엠빅스는 효과가 지속되는 시간이 비아그라나 레비트라와 동일한 6시간 정도. 하지만 발기부전 치료제의 약효를 나타내는 국제발기력지수(IIEF) 측정에선 30점 만점에 역대 최고 점수인 25.7점을 획득했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이렇게 제품이 다양해지면서 환자의 선택권이 힘을 받고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "제품별로 약효와 부작용이 다르기 때문에 환자가 제품의 특성을 파악해 자신에 맞는 약을 선택할 수 있는 것. 고대의대 안암병원 비뇨기과 김제종 교수는 “발기부전 치료제는 심혈관계와 시력 등 일부에서 부작용이 나타나므로 반드시 의사와 상담한 후 복용해야 한다”고 말했다.",
+        "sentenceSize": 149
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국산 제품들의 발칙한 도전, 시들지 않는 강력함",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

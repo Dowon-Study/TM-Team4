@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194925",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "모리스 웨스트의 '용서'",
+    "newsSubTitle": "",
+    "newsContent": "프로이드와 함께 정신의학계의 양대 거목으로 불리우는 칼 구스타프 융의 실제 상담일지를 소재로 소설화 된 모리스 웨스트의 '용서'가 무대에 올랐다 지난 13일부터 대학로 은행나무 소극장에서 공연중인 '용서'는 칼 구스타프의 자서전에 기재된 한 여인과의 상담내용을 바탕으로 하고 있다.\n근친을 살해하고도 두려움을 느끼지 않고 변태적인 성 행위에 집착하는 여인 마그다와 이를 치료하고자 하는 정신분석학자 융의 대화내용이 주된 줄거리를 이룬다.\n가장 친한 친구를 죽이고, 친구의 약혼자던 남편마저 죽이는 마그다에게 융은 분노와 연민의 정을 동시에 느낀다.\n그러나 결국 무의식과 꿈, 현실속의 상호작용을 통해 작가가 보여주고자 했던 것은 인간의 원초적인 죄가 어디에서부터 출발했는가 하는 것이다.\n원작자 모리스 웨스트는 유럽의 '국제최고공적상'을 수상한 명성높은 소설가이다.\n그는 '용서'를 통해 융의 상담일지에 각색을 통해 사실적 진실과 극적 상상력을 조화시켜 놓았다.\n극단 '사하'가 1년간의 기획과 준비를 거쳐 무대에 올린 '용서'는 2000년 1월 9일까지 은행나무 극장에서 공연된다.\n원작 모리스 웨스트(Morris West), 각색.연출 송종석, 허윤정, 오유선, 남명렬 등. 평일 7시 30분, 토.일.공휴일 4시.7시, 월요일은 쉼, 문의 3762-6051~2",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "프로이드와 함께 정신의학계의 양대 거목으로 불리우는 칼 구스타프 융의 실제 상담일지를 소재로 소설화 된 모리스 웨스트의 '용서'가 무대에 올랐다 지난 13일부터 대학로 은행나무 소극장에서 공연중인 '용서'는 칼 구스타프의 자서전에 기재된 한 여인과의 상담내용을 바탕으로 하고 있다.",
+        "sentenceSize": 157
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "근친을 살해하고도 두려움을 느끼지 않고 변태적인 성 행위에 집착하는 여인 마그다와 이를 치료하고자 하는 정신분석학자 융의 대화내용이 주된 줄거리를 이룬다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "가장 친한 친구를 죽이고, 친구의 약혼자던 남편마저 죽이는 마그다에게 융은 분노와 연민의 정을 동시에 느낀다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러나 결국 무의식과 꿈, 현실속의 상호작용을 통해 작가가 보여주고자 했던 것은 인간의 원초적인 죄가 어디에서부터 출발했는가 하는 것이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "원작자 모리스 웨스트는 유럽의 '국제최고공적상'을 수상한 명성높은 소설가이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 '용서'를 통해 융의 상담일지에 각색을 통해 사실적 진실과 극적 상상력을 조화시켜 놓았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "극단 '사하'가 1년간의 기획과 준비를 거쳐 무대에 올린 '용서'는 2000년 1월 9일까지 은행나무 극장에서 공연된다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "원작 모리스 웨스트(Morris West), 각색.연출 송종석, 허윤정, 오유선, 남명렬 등. 평일 7시 30분, 토.일.공휴일 4시.7시, 월요일은 쉼, 문의 3762-6051~2",
+        "sentenceSize": 101
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "모리스 웨스트의 '용서' 무대 장소는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194975",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "아쿠타가와 수상작 국내 번역 출간",
+    "newsSubTitle": "와타야 '발로 차 주고 … '",
+    "newsContent": "올 초 일본 문단은 십대 소녀가 유서 깊은 문학상인 아쿠타가와(芥川)상 최연소 수상자로 선정된 일로 떠들썩했다.\n여고생 시절 '인스톨'이라는 소설로 '문예상'을 받으며 등단한 지 2년 만에 일본 최고 권위의 문학상을 받은 와타야 리사(19.와세다대 교육학부)가 그 주인공이다.\n그는 요시모토 바나나.야마다 에이미 등 신세대 여성 소설가가 휩쓸고 있는 일본 문학계를 이을 새 주자로 주목받고 있다.\n그 '발로 차 주고 싶은 등짝'(황매)이 번역돼 나왔다. '쓸쓸함은 울려 퍼진다.' 소설을 여는 첫 문장은 이 작품을 끝까지 밀고 가는 잔잔한 파도와 같다.\n숨 막힐 듯한 고교 교실에서 만난 소년과 소녀. 고양이 등을 한 남자애와 길고 야무진 다리를 지닌 육상부원 여자애는 둘 다 자기만의 성에 똬리를 튼 채 길고 어두운 청춘기를 지나고 있는 중이다. '이 어딘가 쓸쓸하게 움츠린, 무방비한 등을 발로 걷어차 버리고 싶다.' 갑자기 솟아오른 욕망에 소녀는 소년의 등을 찬다.\n청춘영화의 한 대목처럼 팡팡 튀어오르는 독백과 말투로 소설은 바삭바삭하다.\n여성화.연성화되는 요즈음 일본 문단의 경향이 엿보인다.\n일본 문단에선 이 작품을 두고 \\\"무겁고 칙칙한 문학과 결별한 휴대전화 메일 세대의 소설\\\"이라는 평가가 나왔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "올 초 일본 문단은 십대 소녀가 유서 깊은 문학상인 아쿠타가와(芥川)상 최연소 수상자로 선정된 일로 떠들썩했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여고생 시절 '인스톨'이라는 소설로 '문예상'을 받으며 등단한 지 2년 만에 일본 최고 권위의 문학상을 받은 와타야 리사(19.와세다대 교육학부)가 그 주인공이다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 요시모토 바나나.야마다 에이미 등 신세대 여성 소설가가 휩쓸고 있는 일본 문학계를 이을 새 주자로 주목받고 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 '발로 차 주고 싶은 등짝'(황매)이 번역돼 나왔다. '쓸쓸함은 울려 퍼진다.' 소설을 여는 첫 문장은 이 작품을 끝까지 밀고 가는 잔잔한 파도와 같다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "숨 막힐 듯한 고교 교실에서 만난 소년과 소녀. 고양이 등을 한 남자애와 길고 야무진 다리를 지닌 육상부원 여자애는 둘 다 자기만의 성에 똬리를 튼 채 길고 어두운 청춘기를 지나고 있는 중이다. '이 어딘가 쓸쓸하게 움츠린, 무방비한 등을 발로 걷어차 버리고 싶다.' 갑자기 솟아오른 욕망에 소녀는 소년의 등을 찬다.",
+        "sentenceSize": 177
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "청춘영화의 한 대목처럼 팡팡 튀어오르는 독백과 말투로 소설은 바삭바삭하다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여성화.연성화되는 요즈음 일본 문단의 경향이 엿보인다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "일본 문단에선 이 작품을 두고 \\\"무겁고 칙칙한 문학과 결별한 휴대전화 메일 세대의 소설\\\"이라는 평가가 나왔다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일본 문학계를 떠들썩하게 만든 십대 소녀의 소설... '휴대전화 메일 세대의 소설'이라는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

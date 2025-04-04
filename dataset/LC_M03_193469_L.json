@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193469",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "문학과 철학의 생산적 대화 시도",
+    "newsSubTitle": "김영건 지음〈철학과 문학비평, 그 비판적 대화〉",
+    "newsContent": "항용 보아온 한국 단행본들 보다 약간 작은 판형에 2백쪽 내외의 두께가 꼭 시집 판형을 닮았다.\n한국형 문고본을 표방하고 나온 '책세상 문고' 시리즈이다.\n그 중 일부인 〈철학과 문학비평, 그 비판적 대화〉를 주목하는 것은 철학연구자가 문학과 철학의 생산적인 대화방식을 취하고 있다는 점이다.\n막연한 문학과 철학 사이의 넘나듬에 대한 추상적 토론이 아니라는 점도 흥미롭다.\n국문학자 김윤식교수와 일본의 가라티니 고진을 동일선상에서 도마에 올리고 있고, 여늬 철학교수 이상으로 심도있는 철학적 탐색을 보여온 영문학자 김우창교수를 분석한 테마등도 상당히 논쟁적이다.\n이밖에 이른바 60년대산 평론가들의 지적 사대주의를 비판한 대목도 쟁점으로 떠오를 공산이다.\n저자는 국내에서 학위를 한 국내파로 현재 서강대 강사이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "항용 보아온 한국 단행본들 보다 약간 작은 판형에 2백쪽 내외의 두께가 꼭 시집 판형을 닮았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국형 문고본을 표방하고 나온 '책세상 문고' 시리즈이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 중 일부인 〈철학과 문학비평, 그 비판적 대화〉를 주목하는 것은 철학연구자가 문학과 철학의 생산적인 대화방식을 취하고 있다는 점이다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "막연한 문학과 철학 사이의 넘나듬에 대한 추상적 토론이 아니라는 점도 흥미롭다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "국문학자 김윤식교수와 일본의 가라티니 고진을 동일선상에서 도마에 올리고 있고, 여늬 철학교수 이상으로 심도있는 철학적 탐색을 보여온 영문학자 김우창교수를 분석한 테마등도 상당히 논쟁적이다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이밖에 이른바 60년대산 평론가들의 지적 사대주의를 비판한 대목도 쟁점으로 떠오를 공산이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "저자는 국내에서 학위를 한 국내파로 현재 서강대 강사이다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "문학과 철학 '노빠꾸' 대화 통해 생산적인 결론 도출한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

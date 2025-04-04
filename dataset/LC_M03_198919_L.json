@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198919",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "소리만 꽥 쳐도 눈물 뚝뚝 흘리던 아내가 무서워졌다",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 마눌님! 마눌님!(2) 은퇴한 후 집에 콕 박혀 지내면서 '백수' '삼식이'의 별명을 얻는 남자가 많다.\n평생을 아내와 자식을 위해 희생했지만 돌아온 것은 아내의 눈칫밥뿐이다.\n집을 쉬는 곳이라고 생각했던 남자는 하루가 다르게 아내가 무서워진다.\n드디어 남자는 '마누라'라는 호칭을 버리고 '마눌님'이란 존칭을 사용한다.\n은퇴 가정에서 부부 사이에 벌어지는 일을 그림과 글로 재미나게 풀어낸 그림 에세이.(편집자 주) 우리 마눌님은 나보다 일곱 살이나 아래다.\n그런데도 그는 항상 내 머리 꼭대기에서 자리 잡고 앉아 나를 호령한다.\n참 용감한 여자다.\n아니, 무서운 여자다.\n사내인 나보다 간덩이가 열 배, 스무 배 이상 큰 것이 들어있을지도 모른다.\n아내는 새파랗게 젊을 적엔 그림 속 공주 같이 여릿여릿했다.\n얼굴엔 밤이나 낮이나 끊임없는 미소가 그려졌고, 말소리의 톤도 얼마나 아름다웠는지…. 어쩌다 한잔 먹은 내가 늦은 밤 현관문을 박차고 들어와 꽥 소리를 치면 바들바들 떨다가 왕방울만 한 눈물을 펑펑 떨어뜨리면서 어쩔 줄을 몰라 했다.\n그랬던 아내였다.\n이제 변화무쌍한 수십 년의 세월을 치마폭에 휘어잡아 넣더니 호랑이, 아니 눈 주위가 빨간 살쾡이로 변했다.\n며칠 전에 영원한 우주로 떠난 스티븐 호킹의 말대로 ‘여자는 완전한 미스터리다’라는 말이 딱 들어맞는 우리 마눌님이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 마눌님! 마눌님!(2) 은퇴한 후 집에 콕 박혀 지내면서 '백수' '삼식이'의 별명을 얻는 남자가 많다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "평생을 아내와 자식을 위해 희생했지만 돌아온 것은 아내의 눈칫밥뿐이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "집을 쉬는 곳이라고 생각했던 남자는 하루가 다르게 아내가 무서워진다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "드디어 남자는 '마누라'라는 호칭을 버리고 '마눌님'이란 존칭을 사용한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "은퇴 가정에서 부부 사이에 벌어지는 일을 그림과 글로 재미나게 풀어낸 그림 에세이.(편집자 주) 우리 마눌님은 나보다 일곱 살이나 아래다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그런데도 그는 항상 내 머리 꼭대기에서 자리 잡고 앉아 나를 호령한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "참 용감한 여자다.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아니, 무서운 여자다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "사내인 나보다 간덩이가 열 배, 스무 배 이상 큰 것이 들어있을지도 모른다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "아내는 새파랗게 젊을 적엔 그림 속 공주 같이 여릿여릿했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "얼굴엔 밤이나 낮이나 끊임없는 미소가 그려졌고, 말소리의 톤도 얼마나 아름다웠는지…. 어쩌다 한잔 먹은 내가 늦은 밤 현관문을 박차고 들어와 꽥 소리를 치면 바들바들 떨다가 왕방울만 한 눈물을 펑펑 떨어뜨리면서 어쩔 줄을 몰라 했다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그랬던 아내였다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이제 변화무쌍한 수십 년의 세월을 치마폭에 휘어잡아 넣더니 호랑이, 아니 눈 주위가 빨간 살쾡이로 변했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "며칠 전에 영원한 우주로 떠난 스티븐 호킹의 말대로 ‘여자는 완전한 미스터리다’라는 말이 딱 들어맞는 우리 마눌님이다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "남자는 갈수록 아내가 무서워진다... 마누라 대신 '이것'으로 호칭 변경",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

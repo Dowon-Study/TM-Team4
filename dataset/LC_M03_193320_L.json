@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193320",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "‘군대병’ 말라리아 일반인 감염 비상",
+    "newsSubTitle": "지난해 2만3000여 명 중 절반 … 토착화 징후",
+    "newsContent": "1970년대 말 사라진 말라리아가 다시 유행하며 토착화 단계에 들어섰다는 연구 결과가 나왔다.\n채종일 서울대 의대 기생충학교실 교수팀은 93년 경기도 북부 DMZ에서 48시간마다 고열이 반복되는 삼일열 말라리아 감염 사례가 확인된 이후 최근까지 증가세가 이어지고 있다고 발표했다.\n특히 93년 이후 초기에는 군 위주로 환자가 발생했지만 최근엔 민간인과 군인 감염 비율이 비슷해 말라리아가 토착화하고 있다고 채 교수는 주장했다.\n93년 우리나라 병사 한 명이 말라리아에 감염된 이후 99~2000년 4000~4200명의 신규 말라리아 환자가 발생했다.\n지난해에는 총 환자 수가 2만3413명으로 집계됐다.\n유행 초기에는 환자가 경기도나 강원도 근방 DMZ에 근무하는 20~25세 사이의 군인이 대부분이었다.\n최근에는 군인과 민간인 환자가 대략 1대1 비율인 것으로 나타났다.\n채 교수는 “북한 쪽에서 모기가 날아와 남한의 병사가 감염됐던 초기와 달리 최근에는 DMZ 남쪽 지역에 말라리아 모기가 서식하고 있다”고 분석했다.\n중국얼룩날개모기가 옮기는 삼일열 말라리아는 열대열 말라리아에 비해 독성이 약해 환자가 사망하는 일은 거의 없는 것으로 알려져 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "1970년대 말 사라진 말라리아가 다시 유행하며 토착화 단계에 들어섰다는 연구 결과가 나왔다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "채종일 서울대 의대 기생충학교실 교수팀은 93년 경기도 북부 DMZ에서 48시간마다 고열이 반복되는 삼일열 말라리아 감염 사례가 확인된 이후 최근까지 증가세가 이어지고 있다고 발표했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 93년 이후 초기에는 군 위주로 환자가 발생했지만 최근엔 민간인과 군인 감염 비율이 비슷해 말라리아가 토착화하고 있다고 채 교수는 주장했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "93년 우리나라 병사 한 명이 말라리아에 감염된 이후 99~2000년 4000~4200명의 신규 말라리아 환자가 발생했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난해에는 총 환자 수가 2만3413명으로 집계됐다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유행 초기에는 환자가 경기도나 강원도 근방 DMZ에 근무하는 20~25세 사이의 군인이 대부분이었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최근에는 군인과 민간인 환자가 대략 1대1 비율인 것으로 나타났다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "채 교수는 “북한 쪽에서 모기가 날아와 남한의 병사가 감염됐던 초기와 달리 최근에는 DMZ 남쪽 지역에 말라리아 모기가 서식하고 있다”고 분석했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "중국얼룩날개모기가 옮기는 삼일열 말라리아는 열대열 말라리아에 비해 독성이 약해 환자가 사망하는 일은 거의 없는 것으로 알려져 있다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'극혐' 말라리아 다시 유행하며 토착화",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

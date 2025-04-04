@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195098",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[더오래]햄스트링 부상, 발 뒤꿈치 잘못 사용이 원인",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 김병곤의 MLB컨디셔닝스토리(10) 최근 메이저리그(MLB)와 한국프로야구(KBO)선수의 햄스트링 부상이 점점 많아지는 추세다.\n스포츠 의학과 스포츠과학이 발달하고 있는데도 어느 한 부위의 부상이 증가하고 있다는 것은 무엇인가를 우리가 놓치고 있다는 말이다.\n아래의 그래프에서 메이저리그와 마이너리그의 햄스트링 부상을 살펴보면 2011년부터 꾸준하게 부상 빈도수가 늘고 있어 구단의 고민이 깊어지고 있다.\n햄스트링 부상이 선수에게 부담스러운 이유는 회복 후에도 재부상의 위험이 높고, 정신적·신체적 트라우마가 크게 작용해 스피드와 파워가 급격하게 감소하기 때문이다.\n햄스트링 부상은 예전에는 잘 알려지지 않은 생소한 이름이었지만 요즘은 많은 선수에게 발생해 익숙해져 있는 단어다.\n또한 예전에는 은퇴를 앞둔 베테랑 선수에게 주로 발생하는 부상이었는데, 요즘은 20대 초반의 어린 선수에게도 발생하는 경향이 있다.\n햄스트링 부상의 원인은 나이, 이전의 부상 경험, 인종에 따른 차이, 근력의 불균형, 유연성의 문제, 피로의 누적, 달리기 동작 등이 있다.\n가장 큰 부상 요인인 달리기 동작의 문제를 알아보고 햄스트링 부상을 어떻게 예방하는지 살펴본다.\n걷기와 달리기는 발바닥의 사용이 어떻게 되는지 알아야 올바른 동작을 할 수 있다.\n걸을 때는 지면에 뒤꿈치로 착지하고 발바닥 중간이 닿으면서 엄지발가락과 검지 발가락으로 지면을 밀어내면서 걸어야 올바른 걸음걸이라 할 수 있다.\n이와는 다르게 달리는 동작은 발바닥의 중간이나 앞쪽이 지면에 먼저 닿아야 한다.\n발의 뒤꿈치는 걷거나 뛸 때 속도를 줄이는 동작에 사용되고 발바닥의 앞쪽 발가락은 속도를 높일 때 사용된다.\n달리기를 한다는 것은 속도를 감속하는 것이 아니라 증가시키기 위한 동작이므로 뒤꿈치가 바닥에 닿으면 안 된다.\n또 다른 이유는 뒤꿈치가 지면에 닿게 되면 햄스트링을 이용해 달리기를 하게 돼 햄스트링에 스트레스가 가중되면서 부상을 일으키는 원인이 된다.\n올바른 달리기 동작은 햄스트링 부상을 줄여주고 효율적으로 달릴 수 있게 해준다.\n부상을 예방하는 것은 부상이 발생할 수 있는 요소를 최대한 제거를 하는 것이 가장 먼저다. 유연성의 감소, 근력의 약화, 햄스트링 근육의 피로, 코어 근력의 약화, 골반의 뒤틀어짐, 달리는 자세의 문제, 충분하지 않은 준비운동 등 햄스트링 부상 원인을 적극적으로 해결하기 위해서 노력해야 한다.\n햄스트링 부상을 예방하기 위해서는 앞의 내용에 있는 증상을 회복한 후 ‘신장성 트레이닝’을 해야 한다.\n무조건적인 신장성 근력 강화는 부상의 위험을 더 높게 만들게 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 김병곤의 MLB컨디셔닝스토리(10) 최근 메이저리그(MLB)와 한국프로야구(KBO)선수의 햄스트링 부상이 점점 많아지는 추세다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "스포츠 의학과 스포츠과학이 발달하고 있는데도 어느 한 부위의 부상이 증가하고 있다는 것은 무엇인가를 우리가 놓치고 있다는 말이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아래의 그래프에서 메이저리그와 마이너리그의 햄스트링 부상을 살펴보면 2011년부터 꾸준하게 부상 빈도수가 늘고 있어 구단의 고민이 깊어지고 있다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "햄스트링 부상이 선수에게 부담스러운 이유는 회복 후에도 재부상의 위험이 높고, 정신적·신체적 트라우마가 크게 작용해 스피드와 파워가 급격하게 감소하기 때문이다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "햄스트링 부상은 예전에는 잘 알려지지 않은 생소한 이름이었지만 요즘은 많은 선수에게 발생해 익숙해져 있는 단어다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 예전에는 은퇴를 앞둔 베테랑 선수에게 주로 발생하는 부상이었는데, 요즘은 20대 초반의 어린 선수에게도 발생하는 경향이 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "햄스트링 부상의 원인은 나이, 이전의 부상 경험, 인종에 따른 차이, 근력의 불균형, 유연성의 문제, 피로의 누적, 달리기 동작 등이 있다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "가장 큰 부상 요인인 달리기 동작의 문제를 알아보고 햄스트링 부상을 어떻게 예방하는지 살펴본다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "걷기와 달리기는 발바닥의 사용이 어떻게 되는지 알아야 올바른 동작을 할 수 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "걸을 때는 지면에 뒤꿈치로 착지하고 발바닥 중간이 닿으면서 엄지발가락과 검지 발가락으로 지면을 밀어내면서 걸어야 올바른 걸음걸이라 할 수 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이와는 다르게 달리는 동작은 발바닥의 중간이나 앞쪽이 지면에 먼저 닿아야 한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "발의 뒤꿈치는 걷거나 뛸 때 속도를 줄이는 동작에 사용되고 발바닥의 앞쪽 발가락은 속도를 높일 때 사용된다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "달리기를 한다는 것은 속도를 감속하는 것이 아니라 증가시키기 위한 동작이므로 뒤꿈치가 바닥에 닿으면 안 된다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또 다른 이유는 뒤꿈치가 지면에 닿게 되면 햄스트링을 이용해 달리기를 하게 돼 햄스트링에 스트레스가 가중되면서 부상을 일으키는 원인이 된다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "올바른 달리기 동작은 햄스트링 부상을 줄여주고 효율적으로 달릴 수 있게 해준다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "부상을 예방하는 것은 부상이 발생할 수 있는 요소를 최대한 제거를 하는 것이 가장 먼저다. 유연성의 감소, 근력의 약화, 햄스트링 근육의 피로, 코어 근력의 약화, 골반의 뒤틀어짐, 달리는 자세의 문제, 충분하지 않은 준비운동 등 햄스트링 부상 원인을 적극적으로 해결하기 위해서 노력해야 한다.",
+        "sentenceSize": 164
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "햄스트링 부상을 예방하기 위해서는 앞의 내용에 있는 증상을 회복한 후 ‘신장성 트레이닝’을 해야 한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "무조건적인 신장성 근력 강화는 부상의 위험을 더 높게 만들게 된다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "스포츠 의학 발달에도 늘어나는 햄스트링 부상... 원인은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

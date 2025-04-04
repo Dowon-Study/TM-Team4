@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197393",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "“잠, 적어도 많아도 문제…” 대사증후군 위험 40% 증가",
+    "newsSubTitle": "",
+    "newsContent": "수면이 권장시간(6~8시간)보다 많거나 적으면 만성질환을 부르는 대사증후군 위험이 최대 40% 높아진다는 연구결과가 나왔다.\n대사증후군은 복부비만, 고중성지방혈증, 낮은 고밀도콜레스테롤, 고혈압, 당뇨병 중 세 가지가 동시다발적으로 발생하는 복합 증상을 말한다. 19일 서울대학교 의과대학 예방의학교실 강대희 교수와 대학원 의과학과 김의영 박사과정 학생 공동 연구팀은 국가 건강검진에 참여한 성인 13만3608명을 대상으로 수면시간과 대사증후군의 상관관계를 분석한 결과 이같이 나타났다고 밝혔다.\n조사 대상자의 평균 수면시간은 남녀를 통틀어 6~8시간이 62.1%로 가장 많았다.\n이어 8~-10시간 24.2%, 6시간 미만 12.1% 10시간 이상 1.6%였다.\n수면시간이 대사증후군에 미치는 영향은 남녀별로 차이가 있었다.\n남성의 경우 수면시간이 6시간 미만일 경우 대사증후군 위험도는 평균 6~8시간 자는 사람들보다 1.12배 높았다.\n이 같은 위험도는 수면시간이 10시간 이상으로 많을 때 1.28배까지 올라갔다.\n도중성지방혈증도 10시간 이상 수면 군에서 1.33배 더 높았다.\n반면 여성은 6시간 미만의 수면과 대사증후군 사이에 유의미한 관련성이 없었다.\n하지만 10시간 이상으로 수면시간이 과도한 경우 대사증후군 위험도는 1.4배로 치솟았다.\n대사증후군을 질환별로 보면 복부비만 1.14배, 고중성지방혈증 1.41배, 낮은 고밀도 콜레스테롤혈증 1.24배, 당뇨병 1.39배로 과도한 수면이 남성보다 여성에게 더 나쁜 영향을 미치는 것으로 분석됐다.\n강대희 교수는 “수면시간이 부족하면 고혈압과 당뇨병 위험을 높이고, 반대로 너무 많으면 수면 질 저하뿐 아니라 피로감을 극대화해 인슐린 저항성, 호르몬 불균형 등의 문제를 일으킬 수 있다”며 “규칙적인 식생활습관으로 적절한 수면시간을 유지하는 노력이 필요하다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "수면이 권장시간(6~8시간)보다 많거나 적으면 만성질환을 부르는 대사증후군 위험이 최대 40% 높아진다는 연구결과가 나왔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "대사증후군은 복부비만, 고중성지방혈증, 낮은 고밀도콜레스테롤, 고혈압, 당뇨병 중 세 가지가 동시다발적으로 발생하는 복합 증상을 말한다. 19일 서울대학교 의과대학 예방의학교실 강대희 교수와 대학원 의과학과 김의영 박사과정 학생 공동 연구팀은 국가 건강검진에 참여한 성인 13만3608명을 대상으로 수면시간과 대사증후군의 상관관계를 분석한 결과 이같이 나타났다고 밝혔다.",
+        "sentenceSize": 207
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "조사 대상자의 평균 수면시간은 남녀를 통틀어 6~8시간이 62.1%로 가장 많았다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 8~-10시간 24.2%, 6시간 미만 12.1% 10시간 이상 1.6%였다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "수면시간이 대사증후군에 미치는 영향은 남녀별로 차이가 있었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "남성의 경우 수면시간이 6시간 미만일 경우 대사증후군 위험도는 평균 6~8시간 자는 사람들보다 1.12배 높았다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 같은 위험도는 수면시간이 10시간 이상으로 많을 때 1.28배까지 올라갔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "도중성지방혈증도 10시간 이상 수면 군에서 1.33배 더 높았다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "반면 여성은 6시간 미만의 수면과 대사증후군 사이에 유의미한 관련성이 없었다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "하지만 10시간 이상으로 수면시간이 과도한 경우 대사증후군 위험도는 1.4배로 치솟았다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "대사증후군을 질환별로 보면 복부비만 1.14배, 고중성지방혈증 1.41배, 낮은 고밀도 콜레스테롤혈증 1.24배, 당뇨병 1.39배로 과도한 수면이 남성보다 여성에게 더 나쁜 영향을 미치는 것으로 분석됐다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "강대희 교수는 “수면시간이 부족하면 고혈압과 당뇨병 위험을 높이고, 반대로 너무 많으면 수면 질 저하뿐 아니라 피로감을 극대화해 인슐린 저항성, 호르몬 불균형 등의 문제를 일으킬 수 있다”며 “규칙적인 식생활습관으로 적절한 수면시간을 유지하는 노력이 필요하다”고 말했다.",
+        "sentenceSize": 151
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "수면시간, 적어도 많아도 문제다... 의료진이 밝힌 충격적인 연구 결과",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

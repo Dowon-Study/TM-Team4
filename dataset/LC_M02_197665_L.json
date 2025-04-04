@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197665",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "빅스, 젤리피쉬와 재계약 체결...완전체 활동 '함께'",
+    "newsSubTitle": "",
+    "newsContent": "6인조 그룹 빅스(VIXX)가 완전체로 뜻을 함께 한다. 24일 젤리피쉬엔터테인먼트(이하 젤리피쉬)는 \\\"빅스의 멤버 레오, 켄, 홍빈, 혁 등 네 명과 재계약을 체결했다\\\"고 밝혔다.\n현재 군 복무 중인 엔은 제대 후 재계약 논의를 할 예정이다.\n라비는 독자적인 길을 걷지만 빅스로서는 함께 활동한다.\n소속사 측은 \\\"라비는 본인이 추구하는 음악적 성향에 맞춰 독자적인 레이블을 설립하지만 음악 활동에 있어서는 당사와 협업을 이어간다\\\"면서 \\\"빅스 멤버로서 그룹 음악 활동은 앞으로도 함께 하며 지켜갈 예정\\\"이라고 덧붙였다.\n이번 재계약에 대해 소속사 측은 미디어SR에 \\\"멤버들과 긴 논의 끝에 빅스 그룹으로서의 아이덴티티를 지키자는 결론에 다다랐다\\\"면서 \\\"올해 안에 국내외 팬들과 만남 등 여러 일정들을 세우고 있다\\\"고 부연했다.\n빅스는 지난 2012년 싱글 앨범 '슈퍼 히어로'(SUPER HERO)로 데뷔했다.\n매 앨범마다 독특한 콘셉트로 사랑 받은 빅스는 지난 2017년 발매한 '도원경'의 동양미를 강조한 퍼포먼스로 화제를 모았다.\n이후 2018년 국제올림픽위원회(IOC) 총회 개회식 축사에서 문화공연을 맡는 등 크게 사랑 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "6인조 그룹 빅스(VIXX)가 완전체로 뜻을 함께 한다. 24일 젤리피쉬엔터테인먼트(이하 젤리피쉬)는 \\\"빅스의 멤버 레오, 켄, 홍빈, 혁 등 네 명과 재계약을 체결했다\\\"고 밝혔다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "현재 군 복무 중인 엔은 제대 후 재계약 논의를 할 예정이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "라비는 독자적인 길을 걷지만 빅스로서는 함께 활동한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "소속사 측은 \\\"라비는 본인이 추구하는 음악적 성향에 맞춰 독자적인 레이블을 설립하지만 음악 활동에 있어서는 당사와 협업을 이어간다\\\"면서 \\\"빅스 멤버로서 그룹 음악 활동은 앞으로도 함께 하며 지켜갈 예정\\\"이라고 덧붙였다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 재계약에 대해 소속사 측은 미디어SR에 \\\"멤버들과 긴 논의 끝에 빅스 그룹으로서의 아이덴티티를 지키자는 결론에 다다랐다\\\"면서 \\\"올해 안에 국내외 팬들과 만남 등 여러 일정들을 세우고 있다\\\"고 부연했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "빅스는 지난 2012년 싱글 앨범 '슈퍼 히어로'(SUPER HERO)로 데뷔했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "매 앨범마다 독특한 콘셉트로 사랑 받은 빅스는 지난 2017년 발매한 '도원경'의 동양미를 강조한 퍼포먼스로 화제를 모았다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이후 2018년 국제올림픽위원회(IOC) 총회 개회식 축사에서 문화공연을 맡는 등 크게 사랑 받았다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "6인조 그룹 빅스(VIXX), 재계약 체결한 멤버는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

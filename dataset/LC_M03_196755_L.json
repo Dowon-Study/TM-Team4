@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196755",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "'악마의 잼' 누텔라에 발암물질이? 유해성 논란",
+    "newsSubTitle": "",
+    "newsContent": "중독성 강한 달콤함 때문에 '악마의 잼'이라고도 불리는 초콜릿잼 누텔라가 유해성 논란에 빠졌다.\n누텔라의 안전성 논란은 주 원료인 팜유에 발암성이 있다는 유럽 식품당국의 발표에서 비롯됐다.\n지난해 유럽 식품안전청(EFSA)은 팜유를 고온으로 가공하면 다른 식물성 유지보다 발암성 물질을 형성할 가능성이 크다는 연구결과를 내놨다.\nEFSA는 다만 추가 분석이 필요하다며 섭취제한 권고는 내놓지 않았다.\n논란이 커지자 이탈리아 최대 슈퍼마켓 체인인 코프는 최근 팜유 함유 식품 200종의 판매를 중단했다.\n누텔라도 여기에 포함됐다.\n터키 식품 당국도 팜유 함유 식품의 유해성 조사에 착수했다.\n그러자 누텔라 제조업체인 이탈리아의 페레로 그룹은 안전성을 강조하고 나섰다.\n누텔라의 부드러운 질감을 유지하기 위해 팜유가 꼭 필요하기 때문이다.\n초콜릿 제품의 유해성은 그동안 꾸준히 제기돼왔다.\n지난해에는 전 세계 어린이들의 간식 '킨더 초콜릿'의 유해성 논란이 있었다.\n지난해 7월 독일의 소비자 단체인 '독일음식감시단'이 자체 조사를 통해 킨더 초콜릿에 위험 수준의 발암물질이 검출됐다고 발표하면서 논란이 확산됐다.\n킨더 초콜릿의 발암 물질도 오일을 정제할 때 발생하는 것으로 알려졌다.\n킨더 초콜릿 제조사는 누텔라를 만드는 페레로다.\n페레로 그룹은 당시에도 독일 소비자단체의 리콜 권고를 받아들이지 않았다.\n최근 국내에서 어린이 간식으로 인기 있는 '킨더 조이'도 페레로 그룹이 만든 초콜릿 간식이다.\n칠레 정부는 지난해 '비만과의 전쟁'을 선포하면서 킨더 조이(현지 제품명 '킨더 서프라이즈')를 비롯한 고칼로리 초콜릿 식품의 판매를 금지시켰다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중독성 강한 달콤함 때문에 '악마의 잼'이라고도 불리는 초콜릿잼 누텔라가 유해성 논란에 빠졌다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "누텔라의 안전성 논란은 주 원료인 팜유에 발암성이 있다는 유럽 식품당국의 발표에서 비롯됐다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난해 유럽 식품안전청(EFSA)은 팜유를 고온으로 가공하면 다른 식물성 유지보다 발암성 물질을 형성할 가능성이 크다는 연구결과를 내놨다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "EFSA는 다만 추가 분석이 필요하다며 섭취제한 권고는 내놓지 않았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "논란이 커지자 이탈리아 최대 슈퍼마켓 체인인 코프는 최근 팜유 함유 식품 200종의 판매를 중단했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "누텔라도 여기에 포함됐다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "터키 식품 당국도 팜유 함유 식품의 유해성 조사에 착수했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러자 누텔라 제조업체인 이탈리아의 페레로 그룹은 안전성을 강조하고 나섰다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "누텔라의 부드러운 질감을 유지하기 위해 팜유가 꼭 필요하기 때문이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "초콜릿 제품의 유해성은 그동안 꾸준히 제기돼왔다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "지난해에는 전 세계 어린이들의 간식 '킨더 초콜릿'의 유해성 논란이 있었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "지난해 7월 독일의 소비자 단체인 '독일음식감시단'이 자체 조사를 통해 킨더 초콜릿에 위험 수준의 발암물질이 검출됐다고 발표하면서 논란이 확산됐다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "킨더 초콜릿의 발암 물질도 오일을 정제할 때 발생하는 것으로 알려졌다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "킨더 초콜릿 제조사는 누텔라를 만드는 페레로다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "페레로 그룹은 당시에도 독일 소비자단체의 리콜 권고를 받아들이지 않았다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "최근 국내에서 어린이 간식으로 인기 있는 '킨더 조이'도 페레로 그룹이 만든 초콜릿 간식이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "칠레 정부는 지난해 '비만과의 전쟁'을 선포하면서 킨더 조이(현지 제품명 '킨더 서프라이즈')를 비롯한 고칼로리 초콜릿 식품의 판매를 금지시켰다.",
+        "sentenceSize": 81
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "진짜 '악마'였다... 초콜릿 잼 누텔라 속 발암 물질로 발칵 뒤집혀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

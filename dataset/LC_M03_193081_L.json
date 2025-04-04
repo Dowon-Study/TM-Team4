@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193081",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "한국미술품 사상최고가 경신...김환기 화백作 65억 5000만원 낙찰",
+    "newsSubTitle": "",
+    "newsContent": "한국 추상회화의 거장 고(故) 김환기 화백(1913-1974)의 작품이 12일 경매에서 65억 5000만원에 낙찰됐다.\n한국 미술품 사상 최고가 기록이다.\n케이옥션(대표 이상규)은 이날 오후 5시부터 시작된 경매에서 경매번호 39번, 추정가 55억~70억원 선에 출품된 김환기 화백의 1973년작 'Tranquillity(고요) 5-IV-73 #310'(Oil on cotton, 261×205㎝)가 55억원부터 시작해 경합을 거쳐 65억 5000만원에 최종 낙찰됐다고 밝혔다.\n케이옥션 측에 따르면 이번 경매에 출품된 작품은 '뉴욕시대' 대작 중 하나로 김 화백이 작고하기 1년 전 제작된 것이다.\n이 작품은 2015~2016년 갤러리현대에서 열린 김환기 화백 전시에 출품됐다가 이번 경매에 나오게 됐다.\n케이옥션측은 \\\"은하수 밤하늘을 연상시키는 원형의 점철이 정연한 리듬을 획득하고, 그것을 구획짓는 흰색띠는 점의 흐름을 바꿔놓아 단조로운 화면에 긴장과 생기를 부여하는 작품\\\"이라며 \\\"색채 역시 밝고 환한 푸른 빛을 띄고 있어 작가의 맑은 생명력과 서정성이 반영된 마지막 작품 중 하나\\\"라고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국 추상회화의 거장 고(故) 김환기 화백(1913-1974)의 작품이 12일 경매에서 65억 5000만원에 낙찰됐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국 미술품 사상 최고가 기록이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "케이옥션(대표 이상규)은 이날 오후 5시부터 시작된 경매에서 경매번호 39번, 추정가 55억~70억원 선에 출품된 김환기 화백의 1973년작 'Tranquillity(고요) 5-IV-73 #310'(Oil on cotton, 261×205㎝)가 55억원부터 시작해 경합을 거쳐 65억 5000만원에 최종 낙찰됐다고 밝혔다.",
+        "sentenceSize": 180
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "케이옥션 측에 따르면 이번 경매에 출품된 작품은 '뉴욕시대' 대작 중 하나로 김 화백이 작고하기 1년 전 제작된 것이다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 작품은 2015~2016년 갤러리현대에서 열린 김환기 화백 전시에 출품됐다가 이번 경매에 나오게 됐다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "케이옥션측은 \\\"은하수 밤하늘을 연상시키는 원형의 점철이 정연한 리듬을 획득하고, 그것을 구획짓는 흰색띠는 점의 흐름을 바꿔놓아 단조로운 화면에 긴장과 생기를 부여하는 작품\\\"이라며 \\\"색채 역시 밝고 환한 푸른 빛을 띄고 있어 작가의 맑은 생명력과 서정성이 반영된 마지막 작품 중 하나\\\"라고 설명했다.",
+        "sentenceSize": 170
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "사상 최고가 경신... 65억 5000만원 낙찰",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

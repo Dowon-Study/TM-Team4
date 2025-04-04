@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_196963",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "비투비 이창섭, 오늘(14일) 현역 입대...시간·장소 비공개",
+    "newsSubTitle": "",
+    "newsContent": "보이그룹 비투비 멤버 이창섭이 현역으로 입대한다. 14일 소속사 큐브엔터테인먼트는 미디어SR에 \\\"비투비 이창섭이 오늘 현역으로 입대한다\\\"고 밝혔다.\n입대 장소와 시간은 본인이 조용한 입대를 원한 만큼 공개하지 않았다.\n이창섭은 지난해 12월 첫 솔로 앨범 '마크(Mark)'를 발표, 군 입대 전 활발한 활동을 펼쳤다.\n이어 지난 5, 6일 양일간 단독 콘서트를 개최하며 팬들에게 인사를 전하기도. 이로써 이창섭은 지난해 8월 입대한 서은광에 이어 비투비 멤버 중 두 번째로 입대하게 됐다.\n한편, 이창섭에 이어 이민혁의 군 입대도 예정돼 있다.\n이민혁은 지난 해 8월 의경시험에 합격, 내달 7일 의무경찰로서 입대를 앞두고 있다.\n이창섭과 마찬가지로 정확한 입대 장소와 시간은 공개하지 않는다.\n오는 15일에는 첫 솔로앨범을 발표하고, 내달 단독 콘서트를 통해 팬들에게 군 입대 전 마지막 인사를 전할 계획이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "보이그룹 비투비 멤버 이창섭이 현역으로 입대한다. 14일 소속사 큐브엔터테인먼트는 미디어SR에 \\\"비투비 이창섭이 오늘 현역으로 입대한다\\\"고 밝혔다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "입대 장소와 시간은 본인이 조용한 입대를 원한 만큼 공개하지 않았다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이창섭은 지난해 12월 첫 솔로 앨범 '마크(Mark)'를 발표, 군 입대 전 활발한 활동을 펼쳤다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 지난 5, 6일 양일간 단독 콘서트를 개최하며 팬들에게 인사를 전하기도. 이로써 이창섭은 지난해 8월 입대한 서은광에 이어 비투비 멤버 중 두 번째로 입대하게 됐다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 이창섭에 이어 이민혁의 군 입대도 예정돼 있다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이민혁은 지난 해 8월 의경시험에 합격, 내달 7일 의무경찰로서 입대를 앞두고 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이창섭과 마찬가지로 정확한 입대 장소와 시간은 공개하지 않는다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오는 15일에는 첫 솔로앨범을 발표하고, 내달 단독 콘서트를 통해 팬들에게 군 입대 전 마지막 인사를 전할 계획이다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비투비 이창섭, 오늘(14일) 징병... 은밀한 입대로 시간·장소 비공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

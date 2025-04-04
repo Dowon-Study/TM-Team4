@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196085",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "인공호흡기 연결 결함으로 환자 사망",
+    "newsSubTitle": "식약처, 병원·가정용 환자호스 안전점검 당부",
+    "newsContent": "보건당국이 병원이나 가정에서 사용중인 인공호흡기의 산소투여용 튜브·카테터가 정상적으로 작동하는지 살펴볼 것을 당부했다.\n식품의약품안전처는 31일 환자에게 산소를 일정하게 공급하고 이산화탄소를 배출하는 환자 호스인 '산소투여용 튜브·카테터' 연결문제로 경고음이 울려 조치하는 과정에서 환자가 뇌사상태에 빠졌다가 끝내 숨지는 사고가 발생했다.\n이 제품은 서일퍼시픽이 수입·판매하는 의료기기인 '산소투여용튜브·카테터'(형명:51007600, 제조번호:143512)다.\n식약처는 의료기기관리과 김성곤 과장은 \\\"인공호흡기의 환자호스에 호기밸브가 정상적으로 연결돼 있지 않으면 환자 호흡에 문제가 있을 수 있어 안전사고 예방 차원에서 이같이 조처했다\\\"고 말했다.\n현재 식약처는 제품 결함여부 등 정확한 사고 발생 원인에 대해 조사를 진행중이다.\n또 수입사에 대해서는 해당 제품과 같은 제조번호를 가진 434개 제품을 회수·교환할 것 지시했다.\n식약처는 다만 인공호흡기의 환자호스에 호기밸브가 정상적으로 연결돼 있지 않는 등 문제가 있는 경우에는 정상적인 호흡이 이뤄지지 않을 수 있어 주의가 요구된다고 당부했다.\n특히 가정에서 인공호흡기를 사용할 경우 환자 호스문제로 경보음이 울리면 수동식 인공호흡기로 대체하고 환자를 가까운 병원으로 이송하는 등 즉시 응급조치를 해야 한다고 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "보건당국이 병원이나 가정에서 사용중인 인공호흡기의 산소투여용 튜브·카테터가 정상적으로 작동하는지 살펴볼 것을 당부했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "식품의약품안전처는 31일 환자에게 산소를 일정하게 공급하고 이산화탄소를 배출하는 환자 호스인 '산소투여용 튜브·카테터' 연결문제로 경고음이 울려 조치하는 과정에서 환자가 뇌사상태에 빠졌다가 끝내 숨지는 사고가 발생했다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 제품은 서일퍼시픽이 수입·판매하는 의료기기인 '산소투여용튜브·카테터'(형명:51007600, 제조번호:143512)다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "식약처는 의료기기관리과 김성곤 과장은 \\\"인공호흡기의 환자호스에 호기밸브가 정상적으로 연결돼 있지 않으면 환자 호흡에 문제가 있을 수 있어 안전사고 예방 차원에서 이같이 조처했다\\\"고 말했다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "현재 식약처는 제품 결함여부 등 정확한 사고 발생 원인에 대해 조사를 진행중이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 수입사에 대해서는 해당 제품과 같은 제조번호를 가진 434개 제품을 회수·교환할 것 지시했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "식약처는 다만 인공호흡기의 환자호스에 호기밸브가 정상적으로 연결돼 있지 않는 등 문제가 있는 경우에는 정상적인 호흡이 이뤄지지 않을 수 있어 주의가 요구된다고 당부했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히 가정에서 인공호흡기를 사용할 경우 환자 호스문제로 경보음이 울리면 수동식 인공호흡기로 대체하고 환자를 가까운 병원으로 이송하는 등 즉시 응급조치를 해야 한다고 강조했다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인공호흡기 연결 결함, 주의 깊게 살펴봐야 하는 까닭은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

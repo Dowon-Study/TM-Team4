@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196122",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "이름만 들어도 침이 고여, '9단조개찜' 어디서 맛볼 수 있나?",
+    "newsSubTitle": "",
+    "newsContent": "십여가지 해산물이 함께 나오는 ‘9단조개찜’이 화제다.\n지난 16일 KBS 2TV ‘생생정보통’에서는 9단조개찜을 소개했다.\n9단조개찜은 9개의 찜통에 각각 오징어, 꽃게, 키조개, 가리비 등 각종 조개와 조개탕 등이 포함한 음식이다.\n이외에도 9단조개찜에는 순대, 찐빵, 문어, 삶은 달걀 등도 포함돼 있어 총 15가지 이상의 음식을 맛볼 수 있다.\n모듬조개찜 상단에는 찐빵과 대나무밥, 오징어 순대 등이 있으며 한 칸씩 먹으면서 내려오면 싱싱한 해산물을 맛볼 수 있다. 9단조개찜은 서울 관악구 봉천동에 위차한 한 해산물 음식점에서 판매하며 가격은 7만5000원으로 알려졌다.\n9단조개찜 소식에 네티즌들은 “9단조개찜, 이건 먹어야 해”, “9단조개찜, 맛있겠다”, “9단조개찜, 설거지 힘들 듯” 등의 반응을 보였다.\n온라인 중앙일보 ‘9단조개찜’ [사진 KBS 2TV 생생정보통 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "십여가지 해산물이 함께 나오는 ‘9단조개찜’이 화제다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 16일 KBS 2TV ‘생생정보통’에서는 9단조개찜을 소개했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "9단조개찜은 9개의 찜통에 각각 오징어, 꽃게, 키조개, 가리비 등 각종 조개와 조개탕 등이 포함한 음식이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이외에도 9단조개찜에는 순대, 찐빵, 문어, 삶은 달걀 등도 포함돼 있어 총 15가지 이상의 음식을 맛볼 수 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "모듬조개찜 상단에는 찐빵과 대나무밥, 오징어 순대 등이 있으며 한 칸씩 먹으면서 내려오면 싱싱한 해산물을 맛볼 수 있다. 9단조개찜은 서울 관악구 봉천동에 위차한 한 해산물 음식점에서 판매하며 가격은 7만5000원으로 알려졌다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "9단조개찜 소식에 네티즌들은 “9단조개찜, 이건 먹어야 해”, “9단조개찜, 맛있겠다”, “9단조개찜, 설거지 힘들 듯” 등의 반응을 보였다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 ‘9단조개찜’ [사진 KBS 2TV 생생정보통 캡처]",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이름만 들어도 침이 고이는 '9단조개찜'을 맛볼 수 있는 곳은 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

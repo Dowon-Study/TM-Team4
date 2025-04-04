@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197070",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[Number in Arts] 130,000,000원",
+    "newsSubTitle": "정명훈의 자선연주회 1회 수익",
+    "newsContent": "성장 과정이 고스란히 음악계의 관심 대상이 되는 오케스트라가 있다.\n부산의 보육 시설 아이들로 이뤄진 ‘소년의 집 오케스트라’다. 13~18세의 보육원 소년으로 이뤄진 이 교향악단은 지난해 8월 지휘자 정명훈(55·서울시향 상임), 아들 정민(24·지휘) 과 함께 무대에 서면서 화제가 됐다.\n25일 서울 국립중앙박물관 극장 ‘용’. 꼭 1년 만에 다시 무대에 오른 소년 오케스트라의 소리는 한층 깊어져 있었다.\n이날 드보르자크의 ‘신세계’ 교향곡은 지난해 베토벤의 ‘운명’ 교향곡에 비해 정확하고 분명한 소리로 연주됐다.\n향상된 것은 소년들의 실력뿐만이 아니었다.\n평양의 어린이 병원 건립을 위한 자선 음악회로 열린 이날 하루 공연에서 약 1억3000만원의 성금이 모였다.\n티켓 판매로 5000여만원, 나머지는 당일 모금과 기업 후원이다.\n2부 연주를 맡은 서울대 의대 오케스트라의 힘도 적지 않았다.\n지난해 두 차례의 공연에서 소년의집 후원기금 1억7000만원을 모금한 데 비해 약 두 배로 늘어난 규모다.\n최근 공연장마다 청중을 몰고 다니는 ‘정명훈 효과’를 입증하는 금액이기도 하다. ‘정명훈 효과’는 20일 열렸던 국립중앙박물관 후원기금 마련 음악회에서도 눈에 띄었다.\n박물관 측은 당시 “정명훈을 포함해 동료 연주자 네 명이 출연한 이 음악회에서 3억~3억5000만원의 후원금 모금 효과를 예상한다”고 밝혔다.\n연주 당일뿐 아니라 한두 달 후까지 후원이 계속되는 것을 감안한 금액이다.\n음악회의 감동을 전하는 ‘입소문 마케팅’까지 계산에 넣었다.\n국립중앙박물관의 음악회를 담당한 이흥표씨는 “청중은 자신이 음악회에 참석했다는 기억을 갖는 순간 지속적인 후원자가 되는 셈”이라고 분석했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "성장 과정이 고스란히 음악계의 관심 대상이 되는 오케스트라가 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "부산의 보육 시설 아이들로 이뤄진 ‘소년의 집 오케스트라’다. 13~18세의 보육원 소년으로 이뤄진 이 교향악단은 지난해 8월 지휘자 정명훈(55·서울시향 상임), 아들 정민(24·지휘) 과 함께 무대에 서면서 화제가 됐다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "25일 서울 국립중앙박물관 극장 ‘용’. 꼭 1년 만에 다시 무대에 오른 소년 오케스트라의 소리는 한층 깊어져 있었다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 드보르자크의 ‘신세계’ 교향곡은 지난해 베토벤의 ‘운명’ 교향곡에 비해 정확하고 분명한 소리로 연주됐다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "향상된 것은 소년들의 실력뿐만이 아니었다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "평양의 어린이 병원 건립을 위한 자선 음악회로 열린 이날 하루 공연에서 약 1억3000만원의 성금이 모였다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "티켓 판매로 5000여만원, 나머지는 당일 모금과 기업 후원이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "2부 연주를 맡은 서울대 의대 오케스트라의 힘도 적지 않았다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지난해 두 차례의 공연에서 소년의집 후원기금 1억7000만원을 모금한 데 비해 약 두 배로 늘어난 규모다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "최근 공연장마다 청중을 몰고 다니는 ‘정명훈 효과’를 입증하는 금액이기도 하다. ‘정명훈 효과’는 20일 열렸던 국립중앙박물관 후원기금 마련 음악회에서도 눈에 띄었다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "박물관 측은 당시 “정명훈을 포함해 동료 연주자 네 명이 출연한 이 음악회에서 3억~3억5000만원의 후원금 모금 효과를 예상한다”고 밝혔다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "연주 당일뿐 아니라 한두 달 후까지 후원이 계속되는 것을 감안한 금액이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "음악회의 감동을 전하는 ‘입소문 마케팅’까지 계산에 넣었다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "국립중앙박물관의 음악회를 담당한 이흥표씨는 “청중은 자신이 음악회에 참석했다는 기억을 갖는 순간 지속적인 후원자가 되는 셈”이라고 분석했다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소년의 집 오케스트라, 가족이 함께 파격적인 무대 선보여...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

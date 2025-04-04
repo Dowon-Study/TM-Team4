@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197353",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "몰랐어? 음식물쓰레기 버리는 건 남자가 하는 거야",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 80돌 아이(6) 작가노트 남자가 나이 먹어 늙어가니까 어쩔 수 없이 들이닥쳐 오는 일이 한두 가지가 아닙니다.\n그중에서도 선착순으로 오는 일은 집안의 자질구레한 일들. 주방의 설거지, 음식 쓰레기 수거는 당연히 내 차지라고 달려듭니다. 사실은 젊었을 적엔 회사 일로 야근이니, 회식이니 등등의 핑계로 될 수 있는 한 늦게 집에 들어갔고 휴일은 일주일 내내 피곤을 푼다고 종일 소파에서 뒹굴며 바닥에는 아예 발을 내려놓지도 않았습니다.\n물론 집안의 여러 잡다한 일은 나와는 상관이 없었습니다.\n참으로 한 치 앞을 바라보지 못하는 어리석은 행동들이었지요.\n이제, 어쩔 수 없이 나이 먹은 백수, 삼식이 신세가 되고 보니 그동안의 나의 비겁한 행실에 단단한 벌을 받고 있는 중입니다.\n아내가 시키면 시키는 대로 이유를 달지 않습니다.\n그대로 명령에 순순히 복종할 따름입니다.\n언젠가 철없이 이유를 달았더니 시쳇말로 석 달 열흘을 아내에게 모진 말 못 할 형벌에 시달렸습니다.\n그 이후 깨우친 것은 군소리 없이 아내의 명령에 따르면 그게 바로 늙은 남자의 행복이라는 것을 스스로 깨닫게 되었습니다.\n오늘도 나는 행복합니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 80돌 아이(6) 작가노트 남자가 나이 먹어 늙어가니까 어쩔 수 없이 들이닥쳐 오는 일이 한두 가지가 아닙니다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그중에서도 선착순으로 오는 일은 집안의 자질구레한 일들. 주방의 설거지, 음식 쓰레기 수거는 당연히 내 차지라고 달려듭니다. 사실은 젊었을 적엔 회사 일로 야근이니, 회식이니 등등의 핑계로 될 수 있는 한 늦게 집에 들어갔고 휴일은 일주일 내내 피곤을 푼다고 종일 소파에서 뒹굴며 바닥에는 아예 발을 내려놓지도 않았습니다.",
+        "sentenceSize": 180
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "물론 집안의 여러 잡다한 일은 나와는 상관이 없었습니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "참으로 한 치 앞을 바라보지 못하는 어리석은 행동들이었지요.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이제, 어쩔 수 없이 나이 먹은 백수, 삼식이 신세가 되고 보니 그동안의 나의 비겁한 행실에 단단한 벌을 받고 있는 중입니다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아내가 시키면 시키는 대로 이유를 달지 않습니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그대로 명령에 순순히 복종할 따름입니다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "언젠가 철없이 이유를 달았더니 시쳇말로 석 달 열흘을 아내에게 모진 말 못 할 형벌에 시달렸습니다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그 이후 깨우친 것은 군소리 없이 아내의 명령에 따르면 그게 바로 늙은 남자의 행복이라는 것을 스스로 깨닫게 되었습니다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "오늘도 나는 행복합니다.",
+        "sentenceSize": 13
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "음식물 쓰레기 안 버렸다고 아내에게 모진 형벌까지... 눈물 짓는 남편들",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

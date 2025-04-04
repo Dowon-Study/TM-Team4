@@ -1,0 +1,267 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193130",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "티눈 원인과 예방법, 제일 중요한 것은? \\\"신발부터 바꿔야\\\"",
+    "newsSubTitle": "",
+    "newsContent": "12일 국민건강보험공단에 따르면 티눈 환자가 2009년 31만 479명에서 2013년 34만 2597명으로 증가한 것으로 나타났다.\n연 평균 2.5% 증가한다.\n인구 10만명당 환자는 10대가 1221명으로 가장 많다.\n다음으로 20대(817명) , 70대 이상(663명), 9세 이하(630명), 60대(627명) 순이다.\n국민건강보험 일산병원 피부과 조남준 교수는 “10대에 활동량이 많은데다 성장이 빨라 신발이 발보다 작은 경우가 많아서 티눈이 증가하는 것”이라고 말했다.\n20,30대도 남성 환자가 여성보다 많다.\n특히 20대 남성이 여성의 1.24배로 많은 편이다.\n조남준 교수는 “20대 남성들이 불편한 군화 때문에 티눈이 많이 생기는 것 같다”고 설명했다.\n전체 환자도 남성이 여성의 1.03배로 약간 많다.\n티눈은 발에 맞지 않는 신발 등이 발을 비틀거나 마찰력을 야기할 때 발생한다.\n표피를 자극하여 각질이 증가하면서 굳은살이 생기는데, 이런 현상이 국소 부위에 집중되면 티눈이 생긴다.\n발가락과 발바닥에 잘 생기는 각질이 국소적으로 두꺼워지고 원뿔형의 과각화 중심 핵을 형성하면서 통증이나 염증을 유발한다.\n등산 인구가 늘고 하이힐을 신는 여성이 늘어는 게 티눈의 원인이다.\n티눈은 연성과 경성으로 나뉜다.\n경성티눈은 발등이나 발가락에 생기고 표면에 윤이 난다.\n위를 깎아 내면 중심 부위에 핵이 나타나는데 이 핵 아래의 신경 자극이 통증을 유발한다.\n연성 티눈은 주로 발가락 사이에 발생하고 땀 때문에 짓무르게 돼 부드럽고 축축해져서 희게 보인다.\n보통 넷째와 다섯째 발가락 사이에 잘 생긴다.\n티눈은 제 때 치료하지 않으면 걸을 때 통증·물집·출혈·궤양·혈관염 등을 야기한다.\n티눈치료법에는 레이저나 냉동 치료, 살리실산 도포, 살리실산 반창고 등이 있다.\n더운 물에 발을 담가 살을 불린 후 두꺼워진 피부를 잘라내기도 한다.\n티눈 부위에 뼈가 돌출이 되어있거나 피지 낭종 같은 양성 종양이 있으면 수술을 할 때도 있다.\n티눈은 만성적인 물리적 압력이 원인이기 때문에 이런 압력이 생기지 않게 해야 한다.\n그렇지 않으면 재발한다.\n걸을 때 압력이 어느 한 곳에 집중하지 않고 발바닥 전체에 가해지도록 똑바로 걸어야 한다.\n발에 잘 맞는 신발을 착용하는 것이 중요하다.\n온라인 중앙일보 '티눈 환자 증가' [사진 중앙일보]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 27,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "12일 국민건강보험공단에 따르면 티눈 환자가 2009년 31만 479명에서 2013년 34만 2597명으로 증가한 것으로 나타났다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "연 평균 2.5% 증가한다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "인구 10만명당 환자는 10대가 1221명으로 가장 많다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다음으로 20대(817명) , 70대 이상(663명), 9세 이하(630명), 60대(627명) 순이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "국민건강보험 일산병원 피부과 조남준 교수는 “10대에 활동량이 많은데다 성장이 빨라 신발이 발보다 작은 경우가 많아서 티눈이 증가하는 것”이라고 말했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "20,30대도 남성 환자가 여성보다 많다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 20대 남성이 여성의 1.24배로 많은 편이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "조남준 교수는 “20대 남성들이 불편한 군화 때문에 티눈이 많이 생기는 것 같다”고 설명했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "전체 환자도 남성이 여성의 1.03배로 약간 많다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "티눈은 발에 맞지 않는 신발 등이 발을 비틀거나 마찰력을 야기할 때 발생한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "표피를 자극하여 각질이 증가하면서 굳은살이 생기는데, 이런 현상이 국소 부위에 집중되면 티눈이 생긴다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "발가락과 발바닥에 잘 생기는 각질이 국소적으로 두꺼워지고 원뿔형의 과각화 중심 핵을 형성하면서 통증이나 염증을 유발한다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "등산 인구가 늘고 하이힐을 신는 여성이 늘어는 게 티눈의 원인이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "티눈은 연성과 경성으로 나뉜다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "경성티눈은 발등이나 발가락에 생기고 표면에 윤이 난다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "위를 깎아 내면 중심 부위에 핵이 나타나는데 이 핵 아래의 신경 자극이 통증을 유발한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "연성 티눈은 주로 발가락 사이에 발생하고 땀 때문에 짓무르게 돼 부드럽고 축축해져서 희게 보인다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "보통 넷째와 다섯째 발가락 사이에 잘 생긴다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "티눈은 제 때 치료하지 않으면 걸을 때 통증·물집·출혈·궤양·혈관염 등을 야기한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "티눈치료법에는 레이저나 냉동 치료, 살리실산 도포, 살리실산 반창고 등이 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "더운 물에 발을 담가 살을 불린 후 두꺼워진 피부를 잘라내기도 한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "티눈 부위에 뼈가 돌출이 되어있거나 피지 낭종 같은 양성 종양이 있으면 수술을 할 때도 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "티눈은 만성적인 물리적 압력이 원인이기 때문에 이런 압력이 생기지 않게 해야 한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "그렇지 않으면 재발한다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "걸을 때 압력이 어느 한 곳에 집중하지 않고 발바닥 전체에 가해지도록 똑바로 걸어야 한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "발에 잘 맞는 신발을 착용하는 것이 중요하다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "온라인 중앙일보 '티눈 환자 증가' [사진 중앙일보]",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "발에 잘 맞는 신발 신어야 예방할 수 있다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

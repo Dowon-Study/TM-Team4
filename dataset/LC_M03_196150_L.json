@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196150",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "이대목동병원, '제5회 환자 안전의 날' 행사 개최",
+    "newsSubTitle": "환자 안전 포스터 전시회, 환자 안전 특강, 병원 순회 환자 안전 캠페인 등",
+    "newsContent": "이대목동병원(원장, 유권)이 28일 김옥길홀에서 모든 임직원들이 환자 안전관리의 중요성을 다지는 ‘제5회 환자안전의 날’ 행사를 열었다.\n이날 병원 로비에서는 환자 안전 포스터 공모전에 출품된 작품들의 전시회가 마련돼 병원을 찾은 내원객의 눈길을 끌었다.\n전시회는 직원과 내원객들이 직접 출품된 작품들에 투표를 하면서 직원들의 환자 안전 의식과 재미있는 아이디어가 반영된 작품을 통해 자연스럽게 ‘환자 안전의 날’ 행사의 의미를 되새겼다.\n유권 병원장을 비롯한 김영주 교육연구부장과 정순섭 QPS센터장 등이 전병동을 순회하며 병동 간호사들을 대상으로 환자 안전 캠페인과 표준약어 홍보 활동을 펼쳤다.\n기념 행사에서는 환자 안전에 대한 의식을 높이고 환자 안전 활동을 활성화하기 위해 정순섭 QPS센터장의 '환자 안전 특강'이 펼쳐졌고, 환자 안전 포스터 공모전 시상식이 진행됐다.\n공모전에서는 우수부서상으로 122병동, 대상에는 이대여성암병원이 각각 선정됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이대목동병원(원장, 유권)이 28일 김옥길홀에서 모든 임직원들이 환자 안전관리의 중요성을 다지는 ‘제5회 환자안전의 날’ 행사를 열었다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 병원 로비에서는 환자 안전 포스터 공모전에 출품된 작품들의 전시회가 마련돼 병원을 찾은 내원객의 눈길을 끌었다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "전시회는 직원과 내원객들이 직접 출품된 작품들에 투표를 하면서 직원들의 환자 안전 의식과 재미있는 아이디어가 반영된 작품을 통해 자연스럽게 ‘환자 안전의 날’ 행사의 의미를 되새겼다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유권 병원장을 비롯한 김영주 교육연구부장과 정순섭 QPS센터장 등이 전병동을 순회하며 병동 간호사들을 대상으로 환자 안전 캠페인과 표준약어 홍보 활동을 펼쳤다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "기념 행사에서는 환자 안전에 대한 의식을 높이고 환자 안전 활동을 활성화하기 위해 정순섭 QPS센터장의 '환자 안전 특강'이 펼쳐졌고, 환자 안전 포스터 공모전 시상식이 진행됐다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "공모전에서는 우수부서상으로 122병동, 대상에는 이대여성암병원이 각각 선정됐다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이대목동병원, '제5회 환자 안전의 날' 행사 개최... 내원객의 눈길을 끈 전시회는 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

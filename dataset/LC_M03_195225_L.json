@@ -1,0 +1,240 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195225",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 겨울 스포츠 즐기다 다친 발목 초기 치료법 'PRICE'",
+    "newsSubTitle": "기고 배승환 유성선병원 정형외과 전문의",
+    "newsContent": "겨울철엔 많은 사람이 스키와 스노보드, 스케이트 등 각종 겨울철 스포츠 활동을 즐긴다.\n겨울철 스포츠 활동 중엔 발을 고정한 채 하는 것이 많아 다칠 위험이 크다.\n발목 염좌는 제일 흔한 손상이다.\n넘어질 때 발목이 꺾이면서 발목 주변 인대가 늘어나거나 파열돼 발생한다.\n대부분 발목 외측 인대가 손상되고 정도에 따라 1단계부터 3단계까지 나뉜다. 1단계는 단순히 인대가 늘어난 상태, 2단계는 인대가 일부 파열된 상태, 3단계는 인대가 완전히 파열된 상태다.\n발목 염좌가 발생하면 통증, 종창(골절 부위가 부어오른 것), 눌리는 느낌 등이 생긴다.\n걸을 때 불편함을 느끼지만 증상이 심하지 않으면 방치하는 경우가 많다.\n그러나 염좌를 방치하면 손상된 인대가 잘 붙지 않아 인대의 기능이 떨어지고 합병증이 생길 수 있다.\n심하게 넘어진 경우엔 발목 내·외측 복사뼈가 골절되기도 한다.\n내·외측 복사뼈는 안쪽과 바깥쪽 중 한 곳만 골절되기도 하고 둘 다 골절되기도 한다.\n발목은 다른 관절보다 외상성 관절염 발생 빈도가 높아 더욱 주의해야 한다.\n발목 골절을 방치하면 뼈가 잘못된 곳에 붙는 부정유합, 뼈가 안 붙는 불유합 같은 합병증이 생길 수 있다.\n골절이나 염좌가 발생했을 때 가장 중요한 초기 처치는 ‘PRICE’다.\nP는 부목 같은 도구로 발을 보호(Protection)하는 것을 말한다.\nR은 안정(Rest), I는 냉찜질(Icing)이다.\n온찜질로 혼동하는 경우가 간혹 있는데, 급성기 통증 및 손상에는 냉찜질로 손상 부위를 차갑게 유지하는 것이 통증 완화와 부종 감소에 좋다.\n그리고 C는 압박(Compression)을 말하는데, 압박 붕대 등으로 다친 곳을 조이면 부기가 확산하는 것을 방지할 수 있다.\nE는 Elevation(거상)으로, 다친 부위를 심장보다 높은 곳에 있을 수 있게 올려 부종을 가라앉히고 부종 확산을 방지하는 방법이다.\n특히 스노보드나 스키를 타다 넘어져 통증이 발생한다면 사전에 숙지한 PRICE를 그대로 따르면서 병원에서 진료받기를 권한다.\n겨울철 스포츠를 안전하게 즐기기 위해선 스키나 스노보드를 타는 경우 반드시 자신의 능력에 맞는 코스를 선택해야 한다.\n스포츠 활동 전 준비운동을 하는 것도 필수다.\n특히 겨울철엔 관절이 굳어 신체 유연성이 떨어져 있는 경우가 많아 준비운동 없이 바로 운동을 하면 다칠 위험이 커진다.\n스트레칭·조깅 등 간단하게 준비운동을 하며 관절과 근육을 풀어주면 스포츠 활동 중 넘어져도 심한 손상을 피할 수 있다.\n또한 운동을 즐길 때 보온성 좋은 복장을 착용해 몸을 항상 따뜻하게 유지하고 안전 장비를 착용해 부상에 대비해야 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 24,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "겨울철엔 많은 사람이 스키와 스노보드, 스케이트 등 각종 겨울철 스포츠 활동을 즐긴다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "겨울철 스포츠 활동 중엔 발을 고정한 채 하는 것이 많아 다칠 위험이 크다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "발목 염좌는 제일 흔한 손상이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "넘어질 때 발목이 꺾이면서 발목 주변 인대가 늘어나거나 파열돼 발생한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "대부분 발목 외측 인대가 손상되고 정도에 따라 1단계부터 3단계까지 나뉜다. 1단계는 단순히 인대가 늘어난 상태, 2단계는 인대가 일부 파열된 상태, 3단계는 인대가 완전히 파열된 상태다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "발목 염좌가 발생하면 통증, 종창(골절 부위가 부어오른 것), 눌리는 느낌 등이 생긴다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "걸을 때 불편함을 느끼지만 증상이 심하지 않으면 방치하는 경우가 많다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러나 염좌를 방치하면 손상된 인대가 잘 붙지 않아 인대의 기능이 떨어지고 합병증이 생길 수 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "심하게 넘어진 경우엔 발목 내·외측 복사뼈가 골절되기도 한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "내·외측 복사뼈는 안쪽과 바깥쪽 중 한 곳만 골절되기도 하고 둘 다 골절되기도 한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "발목은 다른 관절보다 외상성 관절염 발생 빈도가 높아 더욱 주의해야 한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "발목 골절을 방치하면 뼈가 잘못된 곳에 붙는 부정유합, 뼈가 안 붙는 불유합 같은 합병증이 생길 수 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "골절이나 염좌가 발생했을 때 가장 중요한 초기 처치는 ‘PRICE’다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "P는 부목 같은 도구로 발을 보호(Protection)하는 것을 말한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "R은 안정(Rest), I는 냉찜질(Icing)이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "온찜질로 혼동하는 경우가 간혹 있는데, 급성기 통증 및 손상에는 냉찜질로 손상 부위를 차갑게 유지하는 것이 통증 완화와 부종 감소에 좋다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "그리고 C는 압박(Compression)을 말하는데, 압박 붕대 등으로 다친 곳을 조이면 부기가 확산하는 것을 방지할 수 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "E는 Elevation(거상)으로, 다친 부위를 심장보다 높은 곳에 있을 수 있게 올려 부종을 가라앉히고 부종 확산을 방지하는 방법이다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "특히 스노보드나 스키를 타다 넘어져 통증이 발생한다면 사전에 숙지한 PRICE를 그대로 따르면서 병원에서 진료받기를 권한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "겨울철 스포츠를 안전하게 즐기기 위해선 스키나 스노보드를 타는 경우 반드시 자신의 능력에 맞는 코스를 선택해야 한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "스포츠 활동 전 준비운동을 하는 것도 필수다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "특히 겨울철엔 관절이 굳어 신체 유연성이 떨어져 있는 경우가 많아 준비운동 없이 바로 운동을 하면 다칠 위험이 커진다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "스트레칭·조깅 등 간단하게 준비운동을 하며 관절과 근육을 풀어주면 스포츠 활동 중 넘어져도 심한 손상을 피할 수 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "또한 운동을 즐길 때 보온성 좋은 복장을 착용해 몸을 항상 따뜻하게 유지하고 안전 장비를 착용해 부상에 대비해야 한다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "겨울 스포츠 즐기다 삐끗한 발목, 초기에 치료할 방법 있다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

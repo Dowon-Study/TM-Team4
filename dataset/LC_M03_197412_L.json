@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197412",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "젊은 톱스타 사이에서 '최고 옷발' 자랑한 70대 여배우",
+    "newsSubTitle": "",
+    "newsContent": "한국인들이 사랑하는 여배우 윤여정이 젊은 톱스타들 사이에서 세련된 아름다움을 과시했다.\n2일 오후 서울 강남구 신사동 K현대미술관에서는 '2017 엘르 스타일 어워즈'가 열렸다.\n한국의 첫 엘르 스타일 어워즈에는 문화 예술계 등 주요 인사 15명이 초대됐다.\n이들은 패션, 문화, 예술 등 각계 인사 추천을 받아 엘르 내부 심사를 통해 수상자로 결정됐다.\n이날 윤여정은 레전더리 액트레스 상을 수상했다.\n윤여정은 1947년생 올해로 만 70세의 나이지만 남다른 패션감각과 고풍스러운 아름다움을 뽐내 눈길을 사로잡았다.\n온라인상에서 윤여정이 입은 옷이 화제가 된 가운데 엘르 관계자는 중앙일보에 윤여정이 입은 옷은 에르메스 제품이라고 귀띔했다.\n이날 패션쇼에는 윤여정을 비롯해 손석희 JTBC 보도부문 사장, 배우 차승원·고소영·고수·배두나·김지원·임윤아, 가수 소녀시대 윤아·엑소 카이·그레이·로꼬·후디, 모델 아이린, 미술가 양혜규, 스타일리스트 정윤기 등이 참석해 자리를 빛냈다.\n故 김주혁 씨의 사망 사고를 추모하는 의미에서 이날 대부분의 참석자는 검은색 계열의 옷을 입은 것으로 전해진다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국인들이 사랑하는 여배우 윤여정이 젊은 톱스타들 사이에서 세련된 아름다움을 과시했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2일 오후 서울 강남구 신사동 K현대미술관에서는 '2017 엘르 스타일 어워즈'가 열렸다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국의 첫 엘르 스타일 어워즈에는 문화 예술계 등 주요 인사 15명이 초대됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들은 패션, 문화, 예술 등 각계 인사 추천을 받아 엘르 내부 심사를 통해 수상자로 결정됐다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 윤여정은 레전더리 액트레스 상을 수상했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "윤여정은 1947년생 올해로 만 70세의 나이지만 남다른 패션감각과 고풍스러운 아름다움을 뽐내 눈길을 사로잡았다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인상에서 윤여정이 입은 옷이 화제가 된 가운데 엘르 관계자는 중앙일보에 윤여정이 입은 옷은 에르메스 제품이라고 귀띔했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이날 패션쇼에는 윤여정을 비롯해 손석희 JTBC 보도부문 사장, 배우 차승원·고소영·고수·배두나·김지원·임윤아, 가수 소녀시대 윤아·엑소 카이·그레이·로꼬·후디, 모델 아이린, 미술가 양혜규, 스타일리스트 정윤기 등이 참석해 자리를 빛냈다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "故 김주혁 씨의 사망 사고를 추모하는 의미에서 이날 대부분의 참석자는 검은색 계열의 옷을 입은 것으로 전해진다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'2017 엘르 스타일 어워즈', 윤여정 나이 의심되는 노골적인 실루엣 과시해 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

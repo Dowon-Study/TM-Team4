@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195501",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "[장진영 기자의 패킹쿠킹](47) ”요리를 합시다” - yes, I can! 캔으로 만드는 캠핑요리.",
+    "newsSubTitle": "",
+    "newsContent": "어떤 날은 훌쩍 떠나고 싶기도 합니다.\n계획 없이 떠날 수 있다는 것. 그것 또한 캠핑의 매력이지요.\n그런데도 먹거리는 여전히 숙제로 남습니다.\n라면 하나로도 충분히 끼니를 때울 수 있지만, 요리하고 맛보는 즐거움을 포기할 순 없습니다.\n가방 깊숙한 곳에서 언젠가 비상식량으로 넣어두었던 캔 두 개를 발견했습니다.\n장조림과 골뱅이 캔. 그대로 먹을 수도 있지만 약간의 조리과정을 통해 일품요리로 변신을 꾀했습니다.\n두 요리의 공통 소재는 조리과정도 쉽고 든든한 한 끼로도 손색이 없는 ‘면’입니다.\n장조림에는 파스타 면을, 골뱅이에는 비빔면을 짝지어 보았습니다.\n간편 재료답게 조리과정을 최소화했습니다.\n장조림 파스타는 버터에 장조림을 볶고 삶아 놓은 면을 넣어 볶기만 하면 됩니다.\n면을 삶을 때 소금과 올리브 오일을 약간 넣어주면 쫄깃한 면발이 되고, 보통 면보다 얇은 면을 사용하면 장조림의 식감과 더 잘 어울립니다.\n여기에 꽈리고추를 넣어 알싸한 맛을 더해주세요.\n골뱅이에는 역시 매콤 새콤한 비빔소스가 딱 맞죠.\n아삭한 채소를 듬뿍 넣어 오른손으로 비비고 왼손으로 비비는 과정만으로 훌륭한 한 접시가 완성됩니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "어떤 날은 훌쩍 떠나고 싶기도 합니다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "계획 없이 떠날 수 있다는 것. 그것 또한 캠핑의 매력이지요.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그런데도 먹거리는 여전히 숙제로 남습니다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "라면 하나로도 충분히 끼니를 때울 수 있지만, 요리하고 맛보는 즐거움을 포기할 순 없습니다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "가방 깊숙한 곳에서 언젠가 비상식량으로 넣어두었던 캔 두 개를 발견했습니다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "장조림과 골뱅이 캔. 그대로 먹을 수도 있지만 약간의 조리과정을 통해 일품요리로 변신을 꾀했습니다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두 요리의 공통 소재는 조리과정도 쉽고 든든한 한 끼로도 손색이 없는 ‘면’입니다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "장조림에는 파스타 면을, 골뱅이에는 비빔면을 짝지어 보았습니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "간편 재료답게 조리과정을 최소화했습니다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "장조림 파스타는 버터에 장조림을 볶고 삶아 놓은 면을 넣어 볶기만 하면 됩니다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "면을 삶을 때 소금과 올리브 오일을 약간 넣어주면 쫄깃한 면발이 되고, 보통 면보다 얇은 면을 사용하면 장조림의 식감과 더 잘 어울립니다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "여기에 꽈리고추를 넣어 알싸한 맛을 더해주세요.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "골뱅이에는 역시 매콤 새콤한 비빔소스가 딱 맞죠.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "아삭한 채소를 듬뿍 넣어 오른손으로 비비고 왼손으로 비비는 과정만으로 훌륭한 한 접시가 완성됩니다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "장조림과 골뱅이 캔으로 만들어 내는 일품요리 레시피는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

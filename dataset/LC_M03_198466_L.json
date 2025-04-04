@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198466",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[꾸러기 책동네] '바다기린' 外",
+    "newsSubTitle": "",
+    "newsContent": "◇ 바다기린 (야키야마 타다시 글.그림, 박영미 옮김, 베이비북스, 6천8백원) 기린이 바다에 산다구? 파도는 이 '바다기린' 이 커다란 목소리로 친구와 얘기하기 때문이고 기린의 몸은 바다식구들의 좋은 안식처란다.\n낙서풍의 심플한 그림도 아이들에게 상상의 날개를 한껏 펼치게 만들어준다.\n◇ 소중한 주주브 (앤 윌즈도르프 글.그림, 이정임 옮김, 웅진닷컴, 6천5백원) 아프리카 밀림 속에 버려진 백인 아기를 발견한 흑인 소녀와 그 식구들이 아기를 가족으로 받아들이는 과정을 정감있고 발랄하게 묘사하고 있다.\n색다른 공간적 배경이나 소재가 신선하다.\n◇ e-신비한 곤충 (최달수 글.그림, 문공사, 6천5백원) 진딧물 진공 청소기 무당벌레, 최고의 남성 중창단 귀뚜라미, 초미니 드라큘라 모기, 분뇨 처리 특공대 풍뎅이 등 12가지 곤충의 생태를 전설이나 신화와 함께 재미나게 설명해 놓았다.\n소제 그대로 '폭소과학만화' 이면서 내용이 제법 충실하다.\n◇ 냄비 속 물리화학 (에르베 디스 지음, 김영신 옮김, 여성신문사, 7천5백원) 부모님이 외출하는 수요일 저녁마다 호기심많은 남매가 직접 엉터리 요리를 하며 과학의 원리를 익히는 내용. 과학 분야 중에서도 딱딱한 물리.화학 원리들을 비교적 쉽게 풀어놓았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◇ 바다기린 (야키야마 타다시 글.그림, 박영미 옮김, 베이비북스, 6천8백원) 기린이 바다에 산다구? 파도는 이 '바다기린' 이 커다란 목소리로 친구와 얘기하기 때문이고 기린의 몸은 바다식구들의 좋은 안식처란다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "낙서풍의 심플한 그림도 아이들에게 상상의 날개를 한껏 펼치게 만들어준다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "◇ 소중한 주주브 (앤 윌즈도르프 글.그림, 이정임 옮김, 웅진닷컴, 6천5백원) 아프리카 밀림 속에 버려진 백인 아기를 발견한 흑인 소녀와 그 식구들이 아기를 가족으로 받아들이는 과정을 정감있고 발랄하게 묘사하고 있다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "색다른 공간적 배경이나 소재가 신선하다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◇ e-신비한 곤충 (최달수 글.그림, 문공사, 6천5백원) 진딧물 진공 청소기 무당벌레, 최고의 남성 중창단 귀뚜라미, 초미니 드라큘라 모기, 분뇨 처리 특공대 풍뎅이 등 12가지 곤충의 생태를 전설이나 신화와 함께 재미나게 설명해 놓았다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소제 그대로 '폭소과학만화' 이면서 내용이 제법 충실하다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "◇ 냄비 속 물리화학 (에르베 디스 지음, 김영신 옮김, 여성신문사, 7천5백원) 부모님이 외출하는 수요일 저녁마다 호기심많은 남매가 직접 엉터리 요리를 하며 과학의 원리를 익히는 내용. 과학 분야 중에서도 딱딱한 물리.화학 원리들을 비교적 쉽게 풀어놓았다.",
+        "sentenceSize": 144
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신간 <소중한 주주브>... 밀림 속에 버려진 '이것을' 발견한 흑인 소녀와 그 가족의 이야기",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

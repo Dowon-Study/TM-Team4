@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197209",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/즐겨읽기] 선구자 고유섭의 한국미술사",
+    "newsSubTitle": "",
+    "newsContent": "구수한 큰맛 고유섭 지음, 진홍섭 엮음, 다할미디어, 378쪽, 1만5000원 우현 고유섭(1905~44)은 \\\"나의 소원은 한국미술사의 완성\\\"이라 했던 한국 최초의 미술사가.미학자다.\n일제강점기를 살면서 우리 문화를 누르고 없애려는 일본 식민통치를 전통미술의 힘으로 이겨내려 애썼다.\n사십 년 짧은 삶을 스스로 재촉했다는 말을 들었을 만큼 한국미술사 연구에 몸과 마음을 태워 지금 봐도 놀랄만한 방대한 저술과 현장 답사기를 남겼다.\n그가 키운 미술사학자 진홍섭(87)씨는 스승이 피로 쓴 책과 글을 오늘의 세대가 쉽게 읽을 수 있도록 풀었다.\n한국 미술의 특성을 '구수한 큰맛' '무기교의 기교' 등으로 정의한 우현은 \\\"이때까지 조선의 미술이란 실로 문화의 테 밖에 버려져 있다\\\"고 1930년대의 상황을 안타까워한다.\n우현의 탄신 100주년을 맞은 올해, 한국 전통 미술을 지키는 일로 독립운동을 한 그의 정신을 되새긴다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "구수한 큰맛 고유섭 지음, 진홍섭 엮음, 다할미디어, 378쪽, 1만5000원 우현 고유섭(1905~44)은 \\\"나의 소원은 한국미술사의 완성\\\"이라 했던 한국 최초의 미술사가.미학자다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "일제강점기를 살면서 우리 문화를 누르고 없애려는 일본 식민통치를 전통미술의 힘으로 이겨내려 애썼다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사십 년 짧은 삶을 스스로 재촉했다는 말을 들었을 만큼 한국미술사 연구에 몸과 마음을 태워 지금 봐도 놀랄만한 방대한 저술과 현장 답사기를 남겼다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그가 키운 미술사학자 진홍섭(87)씨는 스승이 피로 쓴 책과 글을 오늘의 세대가 쉽게 읽을 수 있도록 풀었다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한국 미술의 특성을 '구수한 큰맛' '무기교의 기교' 등으로 정의한 우현은 \\\"이때까지 조선의 미술이란 실로 문화의 테 밖에 버려져 있다\\\"고 1930년대의 상황을 안타까워한다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "우현의 탄신 100주년을 맞은 올해, 한국 전통 미술을 지키는 일로 독립운동을 한 그의 정신을 되새긴다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "스승이 피로 쓴 책과 글을 오늘의 세대가 쉽게 읽을 수 있도록 풀어 쓴 '구수한 큰맛'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

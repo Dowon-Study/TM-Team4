@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196717",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "새로운 항응고제 ‘NOAC’, 심방세동 환자에게 ‘와파린’ 보다 효과적",
+    "newsSubTitle": "非비타민K 억제 항응고제 NOAC 한국인 환자 4만 4000명 합병증·사망률 분석 와파린과 뇌졸중 예방 효과 같고 뇌출혈·사망률 각각 0.6, 1.6% 낮아 서울대병원 최의근·차명진 교수팀 \\\"아시아 최대 규모 연구, 안전성 입증\\\"",
+    "newsContent": "국내 심방세동 환자에게 새로운 항응고제 ‘NOAC’이 기존 ‘와파린’보다 효과적이란 연구 결과가 나왔다.\n심장이 불규칙적으로 뛰는 심방세동 환자는 뇌졸중 위험이 있어 이를 예방하기 위해 항응고제를 반드시 복용해야 한다.\n서울대병원 순환기내과 최의근·차명진 교수팀은 \\\"한국인 심방세동 환자에서 NOAC이 기존 치료제 와파린과 비교해 뇌졸중 예방 효과가 같았다\\\"며 \\\"뇌출혈 위험과 사망률은 각각 0.6%, 1.6% 낮았다\\\"고 8일 밝혔다.\n연구팀은 한국인 심방세동 환자 4만 4236명의 국민건강보험공단 자료를 분석했다.\n새로운 항응고제의 효과는 성별·나이·동반질환과 상관없이 같은 효과를 보였다.\n비타민K는 혈액을 응고시키는 데 영향을 미친다.\n와파린은 비타민K를 억제해 혈액 응고를 예방한다.\n반면 NOAC(Non-Vitamin K Antagonist Oral Anticoagulant)은 비타민 K를 억제하지 않으면서 항응고 효과를 낸다.\n성분으로는 다비가트란·아픽사반·리바록사반이있다. ‘NOAC’은 미국· 유럽의 대규모 연구를 거쳐 2013년 우리나라에 정식으로 도입됐다.\n하지만 건강보험이 2015년에 적용돼 사용량이 적어 한국인 환자에서 안전한지 입증할 데이터가 충분하지 않았다.\n차명진 교수는“이번 연구는 해당 약에 대한 아시아 최대 규모 연구로 안전성을 입증했다\\\"며 \\\"심방세동 환자는 뇌졸중 위험인자가 2개 이상인 경우 항응고제를 반드시 먹어야 한다“고 말했다.\n연구는 해외 학술지 'Stroke' 최근호에 실렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국내 심방세동 환자에게 새로운 항응고제 ‘NOAC’이 기존 ‘와파린’보다 효과적이란 연구 결과가 나왔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "심장이 불규칙적으로 뛰는 심방세동 환자는 뇌졸중 위험이 있어 이를 예방하기 위해 항응고제를 반드시 복용해야 한다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서울대병원 순환기내과 최의근·차명진 교수팀은 \\\"한국인 심방세동 환자에서 NOAC이 기존 치료제 와파린과 비교해 뇌졸중 예방 효과가 같았다\\\"며 \\\"뇌출혈 위험과 사망률은 각각 0.6%, 1.6% 낮았다\\\"고 8일 밝혔다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연구팀은 한국인 심방세동 환자 4만 4236명의 국민건강보험공단 자료를 분석했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "새로운 항응고제의 효과는 성별·나이·동반질환과 상관없이 같은 효과를 보였다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "비타민K는 혈액을 응고시키는 데 영향을 미친다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "와파린은 비타민K를 억제해 혈액 응고를 예방한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "반면 NOAC(Non-Vitamin K Antagonist Oral Anticoagulant)은 비타민 K를 억제하지 않으면서 항응고 효과를 낸다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "성분으로는 다비가트란·아픽사반·리바록사반이있다. ‘NOAC’은 미국· 유럽의 대규모 연구를 거쳐 2013년 우리나라에 정식으로 도입됐다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "하지만 건강보험이 2015년에 적용돼 사용량이 적어 한국인 환자에서 안전한지 입증할 데이터가 충분하지 않았다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "차명진 교수는“이번 연구는 해당 약에 대한 아시아 최대 규모 연구로 안전성을 입증했다\\\"며 \\\"심방세동 환자는 뇌졸중 위험인자가 2개 이상인 경우 항응고제를 반드시 먹어야 한다“고 말했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "연구는 해외 학술지 'Stroke' 최근호에 실렸다.",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "새로운 항응고제 ‘NOAC’, 심방세동 환자 완치에 효과적... 사망률도 0%에 수렴",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

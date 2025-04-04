@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195080",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "여름밤 무더위 날려줄 김치 타코와 맥주 한잔",
+    "newsSubTitle": "",
+    "newsContent": "멕시코 음식인 타코는 세계인의 사랑을 받는 메뉴인데요.\n만들기 쉽고 취향에 따라 재료를 고를 수 있어 나만의 타코를 만들 수 있죠.\n타코가 익숙하지 않거나, 반대로 색다른 타코를 먹고 싶을 땐 김치 타코 어떠세요.\n묵은지와 청양고추를 함께 볶아 매콤한 맛과, 양상추의 아삭한 식감을 즐길 수 있죠.\n무더위가 기승인 요즘, 맥주와 함께 먹기 좋아요.”김치 타코 레시피를 생각하게 된 계기가 있습니다.\n오래전 김치 회사가 미국 대형마트에 김치를 수출하게 됐으니, 김치를 활용한 레시피를 만들어 달라고 부탁했거든요.\n미국 사람이 김치를 맛있게 먹을 수 있는 방법을 고민하다 생각해 낸 메뉴가 바로 김치 타코였어요.\n타코는 미국인에게도 거부감이 없는 메뉴인 데다, 매콤한 맛이 잘 어울리니까요.\n채소나 매콤한 양념을 김치가 대신할 수 있겠더라고요.\n김치 타코 레시피는 간단해요.\n소고기와 묵은지를 각각 볶고 토르티야에 양상추·묵은지·소고기·치즈·소스를 얹으면 되거든요.\n재료를 준비해놓고 각자 만들어 먹으면 만드는 즐거움도 즐길 수 있죠.\n어린아이와 함께 먹는다면 김치를 씻어서 볶고, 청양고추와 살사소스를 빼면 돼요.\n또한 사우어크림이 없을 땐 플레인 요거트를 활용해보세요.\n━ 재료 준비 재료(2인분): 다진 소고기 100g, 양상추 2~3장, 청양고추 1개, 올리브오일 1큰술, 다진 묵은지 1컵(100g), 토르티야(8인치) 2장, 체다치즈 3큰술, 살사소스 4큰술, 사우어크림(또는 플레인 요거트) 2큰술 소고기 양념 재료 : 간장 1큰술, 설탕 0.5큰술, 다진 파 1큰술, 다진 마늘 1작은술, 참기름·후춧가루 약간씩 ━ 만드는 법 1. 소고기 양념 재료를 섞어 양념장을 만든다. 2. 다진 소고기에 양념장을 넣어 10분 정도 재운다.\n3. 팬에 재운 소고기를 넣어 센 불에서 볶는다. 4. 양상추는 채를 썬다. 5. 청양고추는 송송 썬다. 6. 묵은지는 다진다. 7. 기름 두른 팬에 묵은지를 넣어 중불에서 3분 정도 볶는다. 8. 청양고추를 넣어 1분 정도 더 볶는다. 9. 토르티야에 양상추·소고기·묵은지·치즈·살사소스·사우어크림을 얹는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "멕시코 음식인 타코는 세계인의 사랑을 받는 메뉴인데요.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "만들기 쉽고 취향에 따라 재료를 고를 수 있어 나만의 타코를 만들 수 있죠.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "타코가 익숙하지 않거나, 반대로 색다른 타코를 먹고 싶을 땐 김치 타코 어떠세요.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "묵은지와 청양고추를 함께 볶아 매콤한 맛과, 양상추의 아삭한 식감을 즐길 수 있죠.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "무더위가 기승인 요즘, 맥주와 함께 먹기 좋아요.”김치 타코 레시피를 생각하게 된 계기가 있습니다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오래전 김치 회사가 미국 대형마트에 김치를 수출하게 됐으니, 김치를 활용한 레시피를 만들어 달라고 부탁했거든요.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "미국 사람이 김치를 맛있게 먹을 수 있는 방법을 고민하다 생각해 낸 메뉴가 바로 김치 타코였어요.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "타코는 미국인에게도 거부감이 없는 메뉴인 데다, 매콤한 맛이 잘 어울리니까요.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "채소나 매콤한 양념을 김치가 대신할 수 있겠더라고요.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "김치 타코 레시피는 간단해요.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "소고기와 묵은지를 각각 볶고 토르티야에 양상추·묵은지·소고기·치즈·소스를 얹으면 되거든요.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "재료를 준비해놓고 각자 만들어 먹으면 만드는 즐거움도 즐길 수 있죠.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "어린아이와 함께 먹는다면 김치를 씻어서 볶고, 청양고추와 살사소스를 빼면 돼요.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또한 사우어크림이 없을 땐 플레인 요거트를 활용해보세요.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "━ 재료 준비 재료(2인분): 다진 소고기 100g, 양상추 2~3장, 청양고추 1개, 올리브오일 1큰술, 다진 묵은지 1컵(100g), 토르티야(8인치) 2장, 체다치즈 3큰술, 살사소스 4큰술, 사우어크림(또는 플레인 요거트) 2큰술 소고기 양념 재료 : 간장 1큰술, 설탕 0.5큰술, 다진 파 1큰술, 다진 마늘 1작은술, 참기름·후춧가루 약간씩 ━ 만드는 법 1. 소고기 양념 재료를 섞어 양념장을 만든다. 2. 다진 소고기에 양념장을 넣어 10분 정도 재운다.",
+        "sentenceSize": 263
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "3. 팬에 재운 소고기를 넣어 센 불에서 볶는다. 4. 양상추는 채를 썬다. 5. 청양고추는 송송 썬다. 6. 묵은지는 다진다. 7. 기름 두른 팬에 묵은지를 넣어 중불에서 3분 정도 볶는다. 8. 청양고추를 넣어 1분 정도 더 볶는다. 9. 토르티야에 양상추·소고기·묵은지·치즈·살사소스·사우어크림을 얹는다.",
+        "sentenceSize": 173
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무더위 없애줄 맥주 한잔과 이색 김치 타코 한번 먹어볼까, 만드는 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

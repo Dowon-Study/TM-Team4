@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193493",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[이건 이렇지요] 임산부는 냉동참치 가급적 덜 먹어야",
+    "newsSubTitle": "",
+    "newsContent": "요즘 생선 먹는 것을 고민하는 임산부가 많다고 합니다.\n소비자 문제를 연구하는 시민의 모임이 황새치.참치의 뱃살에서 유해 중금속인 수은이 각각 1.72ppm.1.22ppm 검출됐다고 발표했기 때문이죠.\n생선에 든 수은(특히 메틸 수은)은 태아와 어린이의 뇌 발달에 나쁜 영향을 미쳐 지능.학습 능력.발달 장애를 유발하는 것으로 알려져 있습니다.\n미국에선 이 문제로 벌써 몇 년째 논란 중입니다.\n2001년 미국 식품의약국(FDA)은 임산부, 1년 이내 임신 예정인 여성, 6세 이하 어린이는 상어.황새치.왕 고등어.옥돔 등 네 종류는 먹지 말고, 다른 생선도 1주일에 336g 이상 섭취를 제한하는 가이드라인을 발표했어요.\n이 가이드라인이 나오자 미국의 소비자단체들은 미흡한 조치라고 FDA를 공격했습니다.\n냉동 참치 등 13종의 어패류를 임산부 식용 금지 목록에 추가해야 한다고 주장했지요.\n실제 워싱턴.미네소타 주정부는 가임 여성은 참치캔을 1주일에 한개 이하로 먹을 것을 권고했습니다.\n지난해 4월 2일자 미국의학협회지(JAMA)를 보면 미국에서 '수은 생선'이 왜 사회 이슈가 되는지를 알 수 있어요.\n미국 여성(1700여명 조사)의 8%가 기준치를 초과하는 혈중 수은 농도를 나타냈습니다.\n특히 한달에 세번 이상 생선을 먹은 여성은 한번도 먹지 않은 여성보다 혈중 수은 농도가 네배나 높았어요.\n우리 식품의약품안전청은 미국인에 비해 한국인은 상어.냉동 참치 등을 훨씬 적게 먹지만 최악의 상황을 고려한다면 임산부.가임 여성은 상어.황새치.냉동 참치를 주 1회 이하 섭취하는 것이 바람직하다는 입장을 표명했습니다.\n생선은 장점이 많습니다.\n고단백 식품인데다 참치 등 등푸른 생선엔 EPA.DHA 등 혈관 건강에 유익한 오메가-3 지방(불포화 지방의 일종)이 풍부하게 들어 있지요.\n지난해 8월 29일자 '사이언스'지를 봐도 조금 안심이 됩니다.\n미국 스탠퍼드대 연구진은 참치 샌드위치에 든 수은을 정밀 조사한 뒤 이것이 태아.임산부의 건강에 위협적인 화학구조가 아니라는 결론을 내렸지요.\n얘기를 종합해 보면 이 정도 양이라면 일반인은 크게 우려하지 않아도 됩니다.\n임산부는 참치 등 덩치가 큰 어류를 되도록 덜 먹기를 권합니다.\n다른 생선은 마음껏 드셔도 무방합니다.\n꽁치 반 마리는 50g가량이므로 FDA 가이드라인을 따르더라도 매일 먹어도 괜찮습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "요즘 생선 먹는 것을 고민하는 임산부가 많다고 합니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소비자 문제를 연구하는 시민의 모임이 황새치.참치의 뱃살에서 유해 중금속인 수은이 각각 1.72ppm.1.22ppm 검출됐다고 발표했기 때문이죠.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "생선에 든 수은(특히 메틸 수은)은 태아와 어린이의 뇌 발달에 나쁜 영향을 미쳐 지능.학습 능력.발달 장애를 유발하는 것으로 알려져 있습니다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미국에선 이 문제로 벌써 몇 년째 논란 중입니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2001년 미국 식품의약국(FDA)은 임산부, 1년 이내 임신 예정인 여성, 6세 이하 어린이는 상어.황새치.왕 고등어.옥돔 등 네 종류는 먹지 말고, 다른 생선도 1주일에 336g 이상 섭취를 제한하는 가이드라인을 발표했어요.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 가이드라인이 나오자 미국의 소비자단체들은 미흡한 조치라고 FDA를 공격했습니다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "냉동 참치 등 13종의 어패류를 임산부 식용 금지 목록에 추가해야 한다고 주장했지요.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "실제 워싱턴.미네소타 주정부는 가임 여성은 참치캔을 1주일에 한개 이하로 먹을 것을 권고했습니다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지난해 4월 2일자 미국의학협회지(JAMA)를 보면 미국에서 '수은 생선'이 왜 사회 이슈가 되는지를 알 수 있어요.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "미국 여성(1700여명 조사)의 8%가 기준치를 초과하는 혈중 수은 농도를 나타냈습니다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "특히 한달에 세번 이상 생선을 먹은 여성은 한번도 먹지 않은 여성보다 혈중 수은 농도가 네배나 높았어요.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "우리 식품의약품안전청은 미국인에 비해 한국인은 상어.냉동 참치 등을 훨씬 적게 먹지만 최악의 상황을 고려한다면 임산부.가임 여성은 상어.황새치.냉동 참치를 주 1회 이하 섭취하는 것이 바람직하다는 입장을 표명했습니다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "생선은 장점이 많습니다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "고단백 식품인데다 참치 등 등푸른 생선엔 EPA.DHA 등 혈관 건강에 유익한 오메가-3 지방(불포화 지방의 일종)이 풍부하게 들어 있지요.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "지난해 8월 29일자 '사이언스'지를 봐도 조금 안심이 됩니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "미국 스탠퍼드대 연구진은 참치 샌드위치에 든 수은을 정밀 조사한 뒤 이것이 태아.임산부의 건강에 위협적인 화학구조가 아니라는 결론을 내렸지요.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "얘기를 종합해 보면 이 정도 양이라면 일반인은 크게 우려하지 않아도 됩니다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "임산부는 참치 등 덩치가 큰 어류를 되도록 덜 먹기를 권합니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "다른 생선은 마음껏 드셔도 무방합니다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "꽁치 반 마리는 50g가량이므로 FDA 가이드라인을 따르더라도 매일 먹어도 괜찮습니다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "태아와 어린이 뇌 발달 '길막'한다 알려진 참치, 임산부는 덜 먹어야",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

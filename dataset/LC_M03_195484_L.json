@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195484",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "맨발로 해변가 걷지 말고 물놀이 땐 물안경 착용",
+    "newsSubTitle": "공공장소, 세균·곰팡이균·아데노바이러스 많아…손발톱 무좀·결막염 주의해야",
+    "newsContent": "[김선영 기자] 요즘 바다나 워터파크에서 여름 휴가를 즐기는 사람이 많다.\n그러나 많은 사람이 모이는 장소는 감염성 질환에 노출될 위험이 크다.\n특히 세균이나 곰팡이균은 날씨가 더울수록 더욱 활발하게 활동한다.\n여름 휴가철 공공 장소에서 감염되기 쉬운 대표적인 질환인 유행성 결막염·손발톱 무좀의 예방 및 치료법을 알아봤다.\n눈 충혈·눈곱·가려움 동반하는 '유행성 결막염' 물놀이 후에 주의해야 할 질환 중 하나가 유행성 결막염이다.\n눈에 충혈·눈곱·가려움을 동반하는 게 특징이다.\n면역력이 낮은 어린이들이 걸리기 쉽다.\n유행성 결막염을 일으키는 아데노바이러스는 고온 다습하고 오염된 물에서 잘 번식한다.\n아데노바이러스에 감염되면 처음엔 눈이 아프고 이물감이 느껴진다.\n그러다 염증이 퍼지면 눈꺼풀이 붓는다.\n유행성 결막염을 예방하려면 물놀이 시에는 물안경을 착용해 물과의 접촉을 최소화해야 한다.\n결막염이 의심되면 항생제와 부신피질호르몬제를 사용하고, 가려움증을 줄이기 위해선 항히스타민제를 처방 받아야 한다.\n재발 잦아 꾸준히 치료해야 하는 ‘손발톱 무좀’ 습한 바닷가 모래사장이나 야외 수영장은 손발톱 무좀을 일으키는 곰팡이균이 번식하기 좋은 환경이다.\n맨발로 해변가를 거닐거나 수영장의 공용 발매트를 사용하면 무좀균에 노출될 수 있다.\n손발톱 무좀은 피부사상균(백선균)과 같은 곰팡이균이 손발톱에 침입해 기생할 때 발생하는 질환이다.\n손발톱 무좀에 감염되면 손발톱의 색과 모양이 변형된다.\n심하면 손발톱이 거의 없어질 수 있다.\n손발톱 무좀은 다른 신체부위나 함께 생활하는 가족에게 옮길 수 있어 예방이 무엇보다 중요하다.\n물에 들어갈 때는 아쿠아 신발을 착용하고 전염 위험성이 높은 공용 발 매트 및 수건은 사용하지 않는 것이 좋다.\n이미 무좀에 걸렸다면 전용치료제로 무좀균이 완전히 없어질 때까지 꾸준히 치료해야 한다.\n한번 손발톱 무좀에 걸리면 감염된 뿌리까지 제거하는데 손톱은 약 6개월, 발톱은 약 9개월에서 1년이 걸리기 때문이다.\n손발톱 무좀 전용 치료제인 풀케어를 사용하면 치료 시작 후 3개월 만에 77% 환자에게 무좀균이 검출되지 않는 임상결과를 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김선영 기자] 요즘 바다나 워터파크에서 여름 휴가를 즐기는 사람이 많다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그러나 많은 사람이 모이는 장소는 감염성 질환에 노출될 위험이 크다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 세균이나 곰팡이균은 날씨가 더울수록 더욱 활발하게 활동한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여름 휴가철 공공 장소에서 감염되기 쉬운 대표적인 질환인 유행성 결막염·손발톱 무좀의 예방 및 치료법을 알아봤다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "눈 충혈·눈곱·가려움 동반하는 '유행성 결막염' 물놀이 후에 주의해야 할 질환 중 하나가 유행성 결막염이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "눈에 충혈·눈곱·가려움을 동반하는 게 특징이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "면역력이 낮은 어린이들이 걸리기 쉽다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "유행성 결막염을 일으키는 아데노바이러스는 고온 다습하고 오염된 물에서 잘 번식한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아데노바이러스에 감염되면 처음엔 눈이 아프고 이물감이 느껴진다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그러다 염증이 퍼지면 눈꺼풀이 붓는다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "유행성 결막염을 예방하려면 물놀이 시에는 물안경을 착용해 물과의 접촉을 최소화해야 한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "결막염이 의심되면 항생제와 부신피질호르몬제를 사용하고, 가려움증을 줄이기 위해선 항히스타민제를 처방 받아야 한다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "재발 잦아 꾸준히 치료해야 하는 ‘손발톱 무좀’ 습한 바닷가 모래사장이나 야외 수영장은 손발톱 무좀을 일으키는 곰팡이균이 번식하기 좋은 환경이다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "맨발로 해변가를 거닐거나 수영장의 공용 발매트를 사용하면 무좀균에 노출될 수 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "손발톱 무좀은 피부사상균(백선균)과 같은 곰팡이균이 손발톱에 침입해 기생할 때 발생하는 질환이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "손발톱 무좀에 감염되면 손발톱의 색과 모양이 변형된다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "심하면 손발톱이 거의 없어질 수 있다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "손발톱 무좀은 다른 신체부위나 함께 생활하는 가족에게 옮길 수 있어 예방이 무엇보다 중요하다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "물에 들어갈 때는 아쿠아 신발을 착용하고 전염 위험성이 높은 공용 발 매트 및 수건은 사용하지 않는 것이 좋다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "이미 무좀에 걸렸다면 전용치료제로 무좀균이 완전히 없어질 때까지 꾸준히 치료해야 한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "한번 손발톱 무좀에 걸리면 감염된 뿌리까지 제거하는데 손톱은 약 6개월, 발톱은 약 9개월에서 1년이 걸리기 때문이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "손발톱 무좀 전용 치료제인 풀케어를 사용하면 치료 시작 후 3개월 만에 77% 환자에게 무좀균이 검출되지 않는 임상결과를 보였다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여름 휴가철 감염성 질환을 예방하는 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

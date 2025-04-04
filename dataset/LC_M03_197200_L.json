@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197200",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "한국문화콘텐츠진흥원·중앙일보 선정 우수 에듀테인먼트⑥ 에브리데이 잉글리쉬",
+    "newsSubTitle": "컴퓨터 속 원어민과 영어로 속닥속닥",
+    "newsContent": "자녀들 영어 발음이 걱정되는 부모님은 '에브리데이잉글리쉬(www.everydayenglish.net)' 사이트의 방문을 추천한다.\n실제 원어민이 아닌 컴퓨터 속 원어민과의 영어회화를 통해 원어민 발음의 음성 파형과 자신의 것을 비교 분석한 뒤, 이를 점수로 환산해 보여주는 기능은 이제까지 접하지 못한 새로운 방법으로 아동의 호기심을 자극하기에 충분하다.\n원어민의 발음과 비교된 자신의 발음을 시각적으로 확인하면서 유사한 형태로 만들어 나가려고 노력하는 동안 자연적으로 발음교정이 가능하게 되는 이 사이트는 1000여 개의 레벨별.영역별.테마별로 분류된 회화학습 콘텐트로 구성돼 있다.\n영화나 애니메이션 속 주인공을 선택해 그들의 대사를 따라하도록 해 마치 실제 영화 속 주인공이 되어 상황을 이끌어 가도록 한 진행은 아동들이 쉽게 빠져들게 해준다.\n텍스트를 음성으로 변환시켜 원하는 문장을 음성으로 들을 수 있게 하는 기능, 아동의 영어회화 발음을 녹음하여 객관적으로 평가할 수 있게 하는 세계 최초의 음성인식 평가 프로그램 탑재 등은 눈길 끄는 코너다.\n아쉬운 점은 기능 위주의 과학적 학습을 지나치게 강조하여 게임이나 재미 요소가 부족해 보이는 점이다.\n따라서 영어 학습에 대한 뚜렷한 목표나 강한 동기가 없다면 아동이 지루해할 수도 있으므로 향후 아동의 흥미를 지속적으로 유지시키고 도전감을 불러일으키는 창의적인 전략 개발이 요구된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "자녀들 영어 발음이 걱정되는 부모님은 '에브리데이잉글리쉬(www.everydayenglish.net)' 사이트의 방문을 추천한다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "실제 원어민이 아닌 컴퓨터 속 원어민과의 영어회화를 통해 원어민 발음의 음성 파형과 자신의 것을 비교 분석한 뒤, 이를 점수로 환산해 보여주는 기능은 이제까지 접하지 못한 새로운 방법으로 아동의 호기심을 자극하기에 충분하다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "원어민의 발음과 비교된 자신의 발음을 시각적으로 확인하면서 유사한 형태로 만들어 나가려고 노력하는 동안 자연적으로 발음교정이 가능하게 되는 이 사이트는 1000여 개의 레벨별.영역별.테마별로 분류된 회화학습 콘텐트로 구성돼 있다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "영화나 애니메이션 속 주인공을 선택해 그들의 대사를 따라하도록 해 마치 실제 영화 속 주인공이 되어 상황을 이끌어 가도록 한 진행은 아동들이 쉽게 빠져들게 해준다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "텍스트를 음성으로 변환시켜 원하는 문장을 음성으로 들을 수 있게 하는 기능, 아동의 영어회화 발음을 녹음하여 객관적으로 평가할 수 있게 하는 세계 최초의 음성인식 평가 프로그램 탑재 등은 눈길 끄는 코너다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아쉬운 점은 기능 위주의 과학적 학습을 지나치게 강조하여 게임이나 재미 요소가 부족해 보이는 점이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "따라서 영어 학습에 대한 뚜렷한 목표나 강한 동기가 없다면 아동이 지루해할 수도 있으므로 향후 아동의 흥미를 지속적으로 유지시키고 도전감을 불러일으키는 창의적인 전략 개발이 요구된다.",
+        "sentenceSize": 102
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "자녀 영어 발음 걱정되는 부모님들에게 '에브리데이잉글리쉬' 추천... 파격적인 기능",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

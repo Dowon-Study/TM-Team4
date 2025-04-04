@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196194",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "노바티스, 자카비 골수섬유화 개선효과 확인",
+    "newsSubTitle": "24개월·48개월 복용시 환자 50%이상 골수 안정화돼",
+    "newsContent": "노바티스가 희귀혈액암 골수섬유증의 표적치료제 '자카비(성분명 룩소리티닙)'가 국제학회에서 효능을 재확인했다.\n노바티스는 미국 시카고에서 개최한 미국임상종양학회(ASCO)에서 자카비의 최근 임상결과를 발표했다고 밝혔다.\n이번 연구는 자카비의 장기적 유효성 및 안전성 평가를 위한 개방 표지, 비무작위 배정 연구다.\n미국MD앤더슨암센터에서 진행한 자카비 임상 연구에서 기저시점 및 24개월(67명)과 48개월(17명)에 골수검사를 시행한 환자의 치료결과와 기존 골수섬유증 증상조절을 위해 쓰이던 대증적 치료방법인 하이드록시유리아 코호트에서 무작위 추출한 환자의 치료성적과 간접비교 분석했다.\n그 결과 자카비 복용군은 24개월 치료결과 환자의 57%가 골수섬유화가 안정화됐다.\n15%는 조직학적으로 골수섬유화 정도가 개선됐다.\n이후 48개월까지 치료받은 환자의 53%가 골수안정화됐으며, 24%는 섬유화가 개선됐다.\n문학선 한국노바티스 항암제사업부 대표는 “ASCO에서 발표 된 자카비의 골수 섬유화 개선 효과는 매우 고무적”이라며 “2012 미국혈액학회(ASH)에서 발표 된 전반적인 생존기간 연장효과 확인과 함께 계속해서 골수섬유증 환자에게 중요한 연구 결과를 제시하고 있다” 고 말했다.\n골수섬유증은 혈구생성을 조절하는 JAK 신호전달의 이상으로 골수가 섬유화되는 질환이다.\n섬유화 된 골수가 혈구 생성에 오류를 일으켜 비장비대 등의 기타 중증 합병증으로 이어져 생명을 위협한다.\n예후가 좋지 않고 치료방법이 거의 없어 골수섬유증 환자들의 예상 수명은 5.7년에 불과하며 골수의 섬유화 정도는 질환의 예후를 평가하는 중요한 생물학적 지표이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "노바티스가 희귀혈액암 골수섬유증의 표적치료제 '자카비(성분명 룩소리티닙)'가 국제학회에서 효능을 재확인했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "노바티스는 미국 시카고에서 개최한 미국임상종양학회(ASCO)에서 자카비의 최근 임상결과를 발표했다고 밝혔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 연구는 자카비의 장기적 유효성 및 안전성 평가를 위한 개방 표지, 비무작위 배정 연구다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미국MD앤더슨암센터에서 진행한 자카비 임상 연구에서 기저시점 및 24개월(67명)과 48개월(17명)에 골수검사를 시행한 환자의 치료결과와 기존 골수섬유증 증상조절을 위해 쓰이던 대증적 치료방법인 하이드록시유리아 코호트에서 무작위 추출한 환자의 치료성적과 간접비교 분석했다.",
+        "sentenceSize": 153
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 결과 자카비 복용군은 24개월 치료결과 환자의 57%가 골수섬유화가 안정화됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "15%는 조직학적으로 골수섬유화 정도가 개선됐다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 48개월까지 치료받은 환자의 53%가 골수안정화됐으며, 24%는 섬유화가 개선됐다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "문학선 한국노바티스 항암제사업부 대표는 “ASCO에서 발표 된 자카비의 골수 섬유화 개선 효과는 매우 고무적”이라며 “2012 미국혈액학회(ASH)에서 발표 된 전반적인 생존기간 연장효과 확인과 함께 계속해서 골수섬유증 환자에게 중요한 연구 결과를 제시하고 있다” 고 말했다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "골수섬유증은 혈구생성을 조절하는 JAK 신호전달의 이상으로 골수가 섬유화되는 질환이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "섬유화 된 골수가 혈구 생성에 오류를 일으켜 비장비대 등의 기타 중증 합병증으로 이어져 생명을 위협한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "예후가 좋지 않고 치료방법이 거의 없어 골수섬유증 환자들의 예상 수명은 5.7년에 불과하며 골수의 섬유화 정도는 질환의 예후를 평가하는 중요한 생물학적 지표이다.",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "노바티스의 골수섬유증 치료제 '자카비' 효능 재확인, 안전성 평가는...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

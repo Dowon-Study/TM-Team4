@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194558",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK꿈나무] 미운 암 … 그래도 가족 사랑 깨우쳐 줬어요",
+    "newsSubTitle": "",
+    "newsContent": "엄마가 대머리가 되다니 앤 스펠츠 글 케이트 스턴버그 그림 이수영 옮김, 해와나무 48쪽, 8500원, 초등생 암에 걸린 엄마를 지켜보는 딸의 일기. 실제 유방암을 앓았던 저자가 딸의 눈을 통해 이야기를 풀어냈다.\n주인공 클레어는 엄마가 암에 걸리자 생활이 확 변했다.\n친구네 차를 얻어타고 학교에 다녀야 했고, 도시락을 못 가져가는 날도 많았다.\n아빠가 세탁기 돌리는 걸 잊으면 작아서 못 입는 청바지를 다시 꺼내 입었다. '엄마가 낫지 않으면 누가 날 키워주지?''나 때문에 엄마가 암에 걸린 건 아닐까?'란 생각이 클레어를 괴롭히기도 했다.\n방사선 치료까지 끝내고 엄마와 다시 가족여행을 떠난 날. 가족들은 \\\"암은 우리를 겁나게도 했지만 그 덕에 서로 얼마나 사랑하는지 깨달았다\\\"고 고백한다.\n이 책은 신파조 감상문이라기보다 같은 형편의 아이들에게 용기와 정보를 전하는 안내서다.\n책 군데군데 암 진단은 어떻게 하는지, 수술.화학 요법.방사선 치료 등은 무엇인지 등에 대한 의학지식을 실어 막연한 두려움을 덜게 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "엄마가 대머리가 되다니 앤 스펠츠 글 케이트 스턴버그 그림 이수영 옮김, 해와나무 48쪽, 8500원, 초등생 암에 걸린 엄마를 지켜보는 딸의 일기. 실제 유방암을 앓았던 저자가 딸의 눈을 통해 이야기를 풀어냈다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "주인공 클레어는 엄마가 암에 걸리자 생활이 확 변했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "친구네 차를 얻어타고 학교에 다녀야 했고, 도시락을 못 가져가는 날도 많았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아빠가 세탁기 돌리는 걸 잊으면 작아서 못 입는 청바지를 다시 꺼내 입었다. '엄마가 낫지 않으면 누가 날 키워주지?''나 때문에 엄마가 암에 걸린 건 아닐까?'란 생각이 클레어를 괴롭히기도 했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방사선 치료까지 끝내고 엄마와 다시 가족여행을 떠난 날. 가족들은 \\\"암은 우리를 겁나게도 했지만 그 덕에 서로 얼마나 사랑하는지 깨달았다\\\"고 고백한다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 책은 신파조 감상문이라기보다 같은 형편의 아이들에게 용기와 정보를 전하는 안내서다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "책 군데군데 암 진단은 어떻게 하는지, 수술.화학 요법.방사선 치료 등은 무엇인지 등에 대한 의학지식을 실어 막연한 두려움을 덜게 했다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'엄마가 대머리가 되다니', 작아서 못 입는 청바지를 다시 꺼내 입었다... 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

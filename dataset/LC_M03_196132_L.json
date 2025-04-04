@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196132",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "숙취 막는 음식, 술자리 가기 전 '이것' 꼭 드세요!",
+    "newsSubTitle": "",
+    "newsContent": "송년회 등 연말 술자리가 많아지면서 ‘숙취 막는 음식’이 주목 받고 있다.\n최근 미국 ‘허핑턴포스트’의 보도에 따르면 숙취 막는 음식으로 달걀, 아몬드, 우유, 아스파라거스, 피클을 꼽았다.\n달걀은 알코올의 독소를 없애주는 아미노산인 시스테인이 있기 때문에 술자리에 가기 전 한두 개를 먹고 가면 좋다.\n인디언들이 오래전부터 애용한 해독제인 아몬드 한 줌과 알코올의 흡수를 늦추는 우유도 숙취를 덜어준다.\n또한 피클의 소금물이나 짭짤한 간식도 숙취를 막아준다.\n술은 몸에서 전해질이 빠져나가게 하는데, 탈수되기 전에 먼저 먹으면 숙취를 막는 효과가 있다.\n숙취의 원인은 알코올 속에 들어 있는 ‘아세트알데히드’라는 물질 때문에 생기며, 아세트알데히드를 빨리 분해해 몸 밖으로 배출시키는 것이 숙취 해소에 관건이다.\n또한 아스파라거스에 있는 아미노산은 알코올의 대사를 돕고 간세포를 보호해 주기 때문에 숙취를 막는 음식으로 탁월한 것으로 알려졌다.\n한편 술 마신 다음에는 기름진 음식을 먹으면 숙취를 빠르게 해소할 수 있다.\n또 숙취의 주원인은 저혈당 증세 때문인데 이때 체내 흡수 시 다량의 포도당으로 분해되는 탄수화물이 풍부한 음식을 섭취해주는 것도 도움이 된다.\n온라인 중앙일보 ‘숙취 막는 음식’",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "송년회 등 연말 술자리가 많아지면서 ‘숙취 막는 음식’이 주목 받고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 미국 ‘허핑턴포스트’의 보도에 따르면 숙취 막는 음식으로 달걀, 아몬드, 우유, 아스파라거스, 피클을 꼽았다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "달걀은 알코올의 독소를 없애주는 아미노산인 시스테인이 있기 때문에 술자리에 가기 전 한두 개를 먹고 가면 좋다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "인디언들이 오래전부터 애용한 해독제인 아몬드 한 줌과 알코올의 흡수를 늦추는 우유도 숙취를 덜어준다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 피클의 소금물이나 짭짤한 간식도 숙취를 막아준다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "술은 몸에서 전해질이 빠져나가게 하는데, 탈수되기 전에 먼저 먹으면 숙취를 막는 효과가 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "숙취의 원인은 알코올 속에 들어 있는 ‘아세트알데히드’라는 물질 때문에 생기며, 아세트알데히드를 빨리 분해해 몸 밖으로 배출시키는 것이 숙취 해소에 관건이다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또한 아스파라거스에 있는 아미노산은 알코올의 대사를 돕고 간세포를 보호해 주기 때문에 숙취를 막는 음식으로 탁월한 것으로 알려졌다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 술 마신 다음에는 기름진 음식을 먹으면 숙취를 빠르게 해소할 수 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또 숙취의 주원인은 저혈당 증세 때문인데 이때 체내 흡수 시 다량의 포도당으로 분해되는 탄수화물이 풍부한 음식을 섭취해주는 것도 도움이 된다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인 중앙일보 ‘숙취 막는 음식’",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "술자리 가기 전 꼭 먹어야 하는 숙취 막는 음식은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

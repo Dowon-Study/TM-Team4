@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195779",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "비타민 B1 결핍증, 티아민 함유된 돼지고기·전곡류 먹어야 효과",
+    "newsSubTitle": "",
+    "newsContent": "비타민 B1 결핍증, 다른 말로 각기병… 각기병에 좋은 음식은? 비타민 B1 결핍증이 온라인 포털사이트를 중심으로 화제가 되고 있다.\n비타민 B1 결핍증은 다른 말로 각기병이라고도 한다.\n비타민 B1 결핍증은 주로 도정한 쌀을 주식으로 하는 사람에게 나타나는 질병이다.\n쌀을 도정하는 과정에서 비타민 B1이 제거되기 때문이다.\n비타민 B1 결핍증의 주된 증상은 식욕저하·체중감소·무기력증·근육약화 등이다.\n주로 신경계·피부·근육 등이 비타민 B1 결핍에 민감하다.\n비타민 B1 결핍증 치료엔 고용량의 티아민이 쓰인다.\n비타민 B1 결핍증은 주로 다른 비타민 결핍도 동반하기 때문에 다른 수용성 비타민도 함께 공급한다.\n비타민 B1 결핍증 치료에 효과가 있는 티아민이 많이 들어있는 식품은 돼지고기·해바라기씨·콩·밀배아·수박 등이다.\n또한 전곡류·완두콩·아스파라거스·땅콩 등도 티아민의 공급원으로 훌륭하다.\n온라인 중앙일보 ‘비타민 B1 결핍증’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "비타민 B1 결핍증, 다른 말로 각기병… 각기병에 좋은 음식은? 비타민 B1 결핍증이 온라인 포털사이트를 중심으로 화제가 되고 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "비타민 B1 결핍증은 다른 말로 각기병이라고도 한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "비타민 B1 결핍증은 주로 도정한 쌀을 주식으로 하는 사람에게 나타나는 질병이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "쌀을 도정하는 과정에서 비타민 B1이 제거되기 때문이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "비타민 B1 결핍증의 주된 증상은 식욕저하·체중감소·무기력증·근육약화 등이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "주로 신경계·피부·근육 등이 비타민 B1 결핍에 민감하다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "비타민 B1 결핍증 치료엔 고용량의 티아민이 쓰인다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "비타민 B1 결핍증은 주로 다른 비타민 결핍도 동반하기 때문에 다른 수용성 비타민도 함께 공급한다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "비타민 B1 결핍증 치료에 효과가 있는 티아민이 많이 들어있는 식품은 돼지고기·해바라기씨·콩·밀배아·수박 등이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또한 전곡류·완두콩·아스파라거스·땅콩 등도 티아민의 공급원으로 훌륭하다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인 중앙일보 ‘비타민 B1 결핍증’ [사진 중앙포토]",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "도정한 쌀을 주식으로 하는 사람이 걸리는 '각기병', 치료에 좋은 음식은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

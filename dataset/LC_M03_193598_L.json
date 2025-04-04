@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193598",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 건강 강좌",
+    "newsSubTitle": "",
+    "newsContent": "강북삼성병원 ‘췌장암·부정맥’ 성균관의대 강북삼성병원이 신관 15층 세미나실에서 췌장암과 부정맥 건강 강좌를 개최한다. 21일(수) 오후 2시에 진행되는 췌장암 건강 강좌에서 소화기내과 김홍주 교수가 췌장암의 종류와 원인·증상·진단·치료·예방법을, 26일(월) 오후 2시 ‘심장이 두근두근 부정맥’ 강좌는 순환기내과 이성호 교수가 불규칙적으로 심장이 박동하는 부정맥의 증상과 원인·치료·예방법에 대해 강의한다.\n강좌는 사전 등록 없이 누구나 무료로 들을 수 있다.\n아주대병원 ‘금연 방법’ 아주대병원은 20일(화) 오후 2시 웰빙센터 6층 경기지역암센터에서 ‘암 예방을 위한 금연 방법’을 주제로 건강 강좌를 연다. 이번 강좌는 11월 ‘폐암 예방의 달’을 맞아 암 환자와 가족·지역 주민을 위한 암 교육 강좌의 일환이다.\n이날 강좌에서는 가정의학과 주남석 교수가 흡연의 위험성과 효과적인 금연 방법에 대해 강의한다.\n누구나 행사에 무료로 참여할 수 있다.\n단 강의가 사전 예약제고 신청자가 적은 경우 폐강될 수 있어 사전에 반드시 전화로 신청해야 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "강북삼성병원 ‘췌장암·부정맥’ 성균관의대 강북삼성병원이 신관 15층 세미나실에서 췌장암과 부정맥 건강 강좌를 개최한다. 21일(수) 오후 2시에 진행되는 췌장암 건강 강좌에서 소화기내과 김홍주 교수가 췌장암의 종류와 원인·증상·진단·치료·예방법을, 26일(월) 오후 2시 ‘심장이 두근두근 부정맥’ 강좌는 순환기내과 이성호 교수가 불규칙적으로 심장이 박동하는 부정맥의 증상과 원인·치료·예방법에 대해 강의한다.",
+        "sentenceSize": 229
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "강좌는 사전 등록 없이 누구나 무료로 들을 수 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아주대병원 ‘금연 방법’ 아주대병원은 20일(화) 오후 2시 웰빙센터 6층 경기지역암센터에서 ‘암 예방을 위한 금연 방법’을 주제로 건강 강좌를 연다. 이번 강좌는 11월 ‘폐암 예방의 달’을 맞아 암 환자와 가족·지역 주민을 위한 암 교육 강좌의 일환이다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 강좌에서는 가정의학과 주남석 교수가 흡연의 위험성과 효과적인 금연 방법에 대해 강의한다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "누구나 행사에 무료로 참여할 수 있다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "단 강의가 사전 예약제고 신청자가 적은 경우 폐강될 수 있어 사전에 반드시 전화로 신청해야 한다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아주대병원 '금연 방법', 성균관의대 교수들 '캐리' 할까",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

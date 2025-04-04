@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195347",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 청년 일자리, 노인 복지 함께 탄 '효도 트레인'",
+    "newsSubTitle": "한국청년인력개발원 철도공사·중앙일보 협력",
+    "newsContent": "세대 갈등은 고령화 사회의 어두운 그림자다.\n고령화 시계가 빨라지면서 청년과 노인 세대의 화합과 이해의 필요성이 점차 커지고 있다.\n이런 가운데 올해 청년 일자리 창출을 위해 설립된 사단법인 한국청년인력개발원의 프로그램이 주목받고 있다.\n노인 세대의 건강과 복지 전반을 다루는 청년 교육 프로그램을 마련하면서 복지 향상을 통한 사회 공헌과 청년 일자리 창출이란 두 마리 토끼를 잡고 있다.\n한국청년인력개발원은 노인 관리 전문가 양성을 위한 교육 콘텐트를 통해 노인의 건강과 복지 전반을 다룰 청년 인력 육성 프로그램을 진행하고 있다.\n일자리가 필요한 청년에게는 전문 교육 기회를 제공하고 신체·정신적으로 도움이 필요한 노인에게는 건강하고 활기 있는 삶을 지원하는 사회적 ‘윈윈(Win-Win)’ 모델을 제시한다.\n이를 위해 한국청년인력개발원과 한국철도공사, 중앙일보는 최근 업무협약(MOU·사진)을 체결하고 청년 일자리와 노인 건강 등 사회적 문제를 해결하기 위한 청년과 노인이 함께하는 기차여행 프로젝트를 시작했다.\n이른바 ‘건강한 기차여행 선물 효도(孝道) 트레인’으로 오는 31일 서울시 중구의 저소득 노인 100명을 대상으로 첫 출발을 알린다.\n거동이 불편하거나 경제적인 이유 등으로 외부 활동을 주저하는 어르신을 위해 청년들이 나서 여행과 문화 체험 기회를 제공한다.\n한국철도공사는 기차여행 프로그램과 여행 정보를 제공하고, 중앙일보는 프로그램 홍보를 통해 사회적 가치 실현과 확산에 동참한다.\n참가자들은 강원도 평창의 오대산을 찾아 전나무 숲길과 월정사를 관람하고 봉평 산삼체험마을에서 산삼주 만들기 등 다양한 체험 활동을 펼칠 예정이다.\n행사에는 대한노인재활의학회 소속 재활의학과 전문의가 동행해 노년기 질환의 관리 및 예방법, 일상생활 속에서의 건강관리법 등에 대한 특강과 상담을 펼칠 예정이다.\n어르신의 체력 향상을 위해 필라테스 전문 강사의 강습도 진행된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세대 갈등은 고령화 사회의 어두운 그림자다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "고령화 시계가 빨라지면서 청년과 노인 세대의 화합과 이해의 필요성이 점차 커지고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이런 가운데 올해 청년 일자리 창출을 위해 설립된 사단법인 한국청년인력개발원의 프로그램이 주목받고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "노인 세대의 건강과 복지 전반을 다루는 청년 교육 프로그램을 마련하면서 복지 향상을 통한 사회 공헌과 청년 일자리 창출이란 두 마리 토끼를 잡고 있다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한국청년인력개발원은 노인 관리 전문가 양성을 위한 교육 콘텐트를 통해 노인의 건강과 복지 전반을 다룰 청년 인력 육성 프로그램을 진행하고 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일자리가 필요한 청년에게는 전문 교육 기회를 제공하고 신체·정신적으로 도움이 필요한 노인에게는 건강하고 활기 있는 삶을 지원하는 사회적 ‘윈윈(Win-Win)’ 모델을 제시한다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 위해 한국청년인력개발원과 한국철도공사, 중앙일보는 최근 업무협약(MOU·사진)을 체결하고 청년 일자리와 노인 건강 등 사회적 문제를 해결하기 위한 청년과 노인이 함께하는 기차여행 프로젝트를 시작했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이른바 ‘건강한 기차여행 선물 효도(孝道) 트레인’으로 오는 31일 서울시 중구의 저소득 노인 100명을 대상으로 첫 출발을 알린다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "거동이 불편하거나 경제적인 이유 등으로 외부 활동을 주저하는 어르신을 위해 청년들이 나서 여행과 문화 체험 기회를 제공한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한국철도공사는 기차여행 프로그램과 여행 정보를 제공하고, 중앙일보는 프로그램 홍보를 통해 사회적 가치 실현과 확산에 동참한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "참가자들은 강원도 평창의 오대산을 찾아 전나무 숲길과 월정사를 관람하고 봉평 산삼체험마을에서 산삼주 만들기 등 다양한 체험 활동을 펼칠 예정이다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "행사에는 대한노인재활의학회 소속 재활의학과 전문의가 동행해 노년기 질환의 관리 및 예방법, 일상생활 속에서의 건강관리법 등에 대한 특강과 상담을 펼칠 예정이다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "어르신의 체력 향상을 위해 필라테스 전문 강사의 강습도 진행된다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "팍팍한 고령화 사회에도 핀 희망... 노인 복지와 청년의 만남이 낸 시너지 효과는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

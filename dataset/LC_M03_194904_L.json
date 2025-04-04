@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194904",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "한권의 책을 위해 애쓰는 분들의 삶과 생각들",
+    "newsSubTitle": "〈People@Books〉이렇게 만들어져요",
+    "newsContent": "소설가 김영하 님은 가끔 방구석에 틀어박혀 〈난장이가 쏘아올린 작은 공〉을 읽을 때마다 부끄러웠다고 합니다.\n성석제 님의 〈그곳에는 어처구니들이 산다〉는 만화책 보듯 키득키득 웃으면서 읽을 수 있는 몇 안 되는 소설이죠.\n읽는 사람을 부끄럽게 할 수도, 때로는 웃길 수도 있는 것이 책의 힘입니다.\n이런 책들을 접했을 때 드는 생각, \\\"도대체 이 책의 저자는 어떤 사람이지?\\\" 물 위에 비친 자신의 얼굴에 반해 물속에 빠져 죽은 영원한 미소년 나르시스, 태양의 신 아폴론의 구애를 피해 도망가다 월계수로 변한 요정 다프네. 그리스ㆍ로마 신화에 관심이 있는 사람은 소설가 이윤기가 오비디우스의 서사시를 유려한 산문체로 옮긴 〈변신 이야기〉를 읽어봤을 것입니다.\n명저에 명번역을 접했을 때 드는 생각, \\\"도대체 이 책의 번역가는 어떤 사람이지?\\\" 95년 '문학동네'에서 펴낸 〈김승옥 소설전집〉은 지난 80년 이후 펜을 꺾은 후 사람들 기억에서 아스라히 사라져간 김승옥의 존재를 다시 한번 알린 계기가 되었죠.\n70년대 날카로운 감수성으로 환멸과 허무를 붙잡아낸 그를 다시 문단의 한복판으로 끌어낸 것이 바로 이 전집입니다.\n대학생들 가방에 〈김승옥 문학전집〉이 한 권은 들어 있을 정도였으니.\n이런 책들을 접했을 때 드는 생각, \\\"도대체 이 책의 기획자는 어떤 사람이지?\\\" 책에 관련된 모든 사람을 만나는 곳이 바로 People@books입니다.\n작가, 번역가, 기획자, 편집자 등 책과 관계된 일을 하시는 분들은 Books의 독자가 원하는 누구든지 만날 수 있습니다.\n한 권의 책을 만드는 사람의 삶은 어떠한지 그 분들의 살아가는 모습까지 진솔하게 보여드릴 것입니다.\n그 분들의 모습, 음성이 궁금하시다고요?",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "소설가 김영하 님은 가끔 방구석에 틀어박혀 〈난장이가 쏘아올린 작은 공〉을 읽을 때마다 부끄러웠다고 합니다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "성석제 님의 〈그곳에는 어처구니들이 산다〉는 만화책 보듯 키득키득 웃으면서 읽을 수 있는 몇 안 되는 소설이죠.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "읽는 사람을 부끄럽게 할 수도, 때로는 웃길 수도 있는 것이 책의 힘입니다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이런 책들을 접했을 때 드는 생각, \\\"도대체 이 책의 저자는 어떤 사람이지?\\\" 물 위에 비친 자신의 얼굴에 반해 물속에 빠져 죽은 영원한 미소년 나르시스, 태양의 신 아폴론의 구애를 피해 도망가다 월계수로 변한 요정 다프네. 그리스ㆍ로마 신화에 관심이 있는 사람은 소설가 이윤기가 오비디우스의 서사시를 유려한 산문체로 옮긴 〈변신 이야기〉를 읽어봤을 것입니다.",
+        "sentenceSize": 203
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "명저에 명번역을 접했을 때 드는 생각, \\\"도대체 이 책의 번역가는 어떤 사람이지?\\\" 95년 '문학동네'에서 펴낸 〈김승옥 소설전집〉은 지난 80년 이후 펜을 꺾은 후 사람들 기억에서 아스라히 사라져간 김승옥의 존재를 다시 한번 알린 계기가 되었죠.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "70년대 날카로운 감수성으로 환멸과 허무를 붙잡아낸 그를 다시 문단의 한복판으로 끌어낸 것이 바로 이 전집입니다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "대학생들 가방에 〈김승옥 문학전집〉이 한 권은 들어 있을 정도였으니.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이런 책들을 접했을 때 드는 생각, \\\"도대체 이 책의 기획자는 어떤 사람이지?\\\" 책에 관련된 모든 사람을 만나는 곳이 바로 People@books입니다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "작가, 번역가, 기획자, 편집자 등 책과 관계된 일을 하시는 분들은 Books의 독자가 원하는 누구든지 만날 수 있습니다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한 권의 책을 만드는 사람의 삶은 어떠한지 그 분들의 살아가는 모습까지 진솔하게 보여드릴 것입니다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그 분들의 모습, 음성이 궁금하시다고요?",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소설가 김영하를 부끄럽게도 하고, 웃게도 하는 책… 왜 읽어야 하나요?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

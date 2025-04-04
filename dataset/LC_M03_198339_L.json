@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198339",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[Family리빙] 신나는 '게임 + 공부' … 중독 막게 시간 제한",
+    "newsSubTitle": "한국콘텐츠문화진흥원·중앙일보 선정 우수 에듀테인먼트 ⑦ 재미나라",
+    "newsContent": "2~7세 미취학 자녀에게 배움의 즐거움을 체험시키려는 부모들에게 '재미나라(www.jaeminara.co.kr)' 사이트를 추천한다. '재미나라'는 학습과 놀이의 경계가 불분명한 아이들에게 두 영역을 넘나들며 공부할 수 있는 원스톱 학습서비스를 제공한다.\n유아들은 이 사이트에서 한글.영어.과학.경제 등을 게임과 스토리를 통해 재미있게 배울 수 있다.\n또 3D 율동 애니메이션 '리듬고고'를 따라하다 보면 신체영역의 발달까지 꾀할 수 있다.\n이번 공모전에서는 화폐 '코인'으로 아이들의 자발적 학습의욕을 고취시키는 육성시뮬레이션 게임 '내친구 포밍뿌'와 시간제한 개념을 도입해 아이들의 인터넷 중독을 예방할 수 있게 고안된 접속시간 관리시스템이 심사위원들의 긍정적 평가를 얻었다.\n또 유치원 6차 교육과정에 맞춰 기획된 '재미유치원'에서는 언어생활.표현생활.건강생활.알림장 등을 1주 단위로 서비스하고 있어 아이들의 단계별 교육을 도와준다.\n이 외에도 유아교육에 대한 다양한 정보를 제공하는 부모방은 아이와 부모의 연결 고리를 만들어 부모가 효율적으로 아이의 온라인 학습을 관리할 수 있도록 구성돼 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2~7세 미취학 자녀에게 배움의 즐거움을 체험시키려는 부모들에게 '재미나라(www.jaeminara.co.kr)' 사이트를 추천한다. '재미나라'는 학습과 놀이의 경계가 불분명한 아이들에게 두 영역을 넘나들며 공부할 수 있는 원스톱 학습서비스를 제공한다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유아들은 이 사이트에서 한글.영어.과학.경제 등을 게임과 스토리를 통해 재미있게 배울 수 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 3D 율동 애니메이션 '리듬고고'를 따라하다 보면 신체영역의 발달까지 꾀할 수 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 공모전에서는 화폐 '코인'으로 아이들의 자발적 학습의욕을 고취시키는 육성시뮬레이션 게임 '내친구 포밍뿌'와 시간제한 개념을 도입해 아이들의 인터넷 중독을 예방할 수 있게 고안된 접속시간 관리시스템이 심사위원들의 긍정적 평가를 얻었다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 유치원 6차 교육과정에 맞춰 기획된 '재미유치원'에서는 언어생활.표현생활.건강생활.알림장 등을 1주 단위로 서비스하고 있어 아이들의 단계별 교육을 도와준다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 외에도 유아교육에 대한 다양한 정보를 제공하는 부모방은 아이와 부모의 연결 고리를 만들어 부모가 효율적으로 아이의 온라인 학습을 관리할 수 있도록 구성돼 있다.",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'재미나라', '이 개념' 도입해 인터넷 중독 예방할 수 있어 호평...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197382",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 얇은 필름 한 장으로 대장암 진단하는 기술 개발",
+    "newsSubTitle": "혈액 소량 흘려보내 진단 비용 절감, 정확도 향상 진단 시간 3분의 1로 단축",
+    "newsContent": "━ 병원리포트 서울아산병원 박인자·신용 교수팀 얇은 필름 한 장으로 대장암을 진단할 수 있는 기술이 발표됐다.\n기존 대장암 혈액 진단 기기보다 비용이 적게 들고 정확도가 높다.\n서울아산병원 대장항문외과 박인자, 융합의학과 신용 교수팀은 가로·세로 각각 7㎝·8㎝ 정도의 초박형 플라스틱 필름 한 장으로 혈중 유리 핵산을 효과적으로 분리해내 저렴한 비용으로 대장암을 진단할 수 있는 기술을 개발했다고 밝혔다.\n암 환자의 경우 혈중 유리 핵산(cfNA) 농도가 정상인보다 높아 암 진단의 지표로 쓰인다.\n박 교수 연구팀은 ‘DTBP(Dimethyl3)’라는 물질이 혈중 유리 핵산과 선택적으로 결합한다는 특성을 이용했다.\n새로운 혈중 유리 핵산 분리 기술을 개발한 것이다.\n성인 남성 손바닥의 반절만 한 얇은 플라스틱 필름에 미리 채취해 놓은 소량의 혈액을 흘려보내면 혈중 유리 핵산이 분리된다.\n최근 피 한 방울로 암을 진단할 수 있는 기술이 많이 개발되고 있는데 이번에 발표된 기술은 기존과 달리 특별한 장비가 필요하지 않다.\n환자의 비용 부담이 적고 손쉽게 대장암을 진단할 수 있다.\n시중에 나와 있는 혈중 유리 핵산 분리 기기들은 원심 분리기와 진공 펌프, 직류 전원 장치 등 다양한 장비가 필요하다.\n이번에 발표된 기술의 대장암 진단 정확도는 기존 대장암 혈액 진단 기기보다 높은 것으로 나타났다.\n연구팀은 대장암 환자 14명을 두 집단으로 나눠 새롭게 개발된 혈중 유리 핵산 분리 플랫폼 기술과 기존의 분리 기술을 각각 적용했다.\n그런 다음 환자 14명의 조직 샘플을 채취해 차세대 염기서열분석(NGS) 검사 결과와 혈액을 이용한 진단 검사 결과를 비교했다.\n그 결과, 시중에 나와 있는 혈중 유리 핵산 분리 기술을 이용한 진단법은 약 57%의 진단 정확도를 보였다.\n반면 새롭게 개발된 플랫폼 기술의 진단 정확도는 약 71%로 더 높았다.\n진단에 걸리는 시간 역시 3분의 1 가까이 단축됐다.\n기존에는 혈액으로 대장암을 진단하기 위해 혈중 유리 핵산을 분리하는 데 평균 1시간 정도가 소요됐다.\n하지만 연구팀이 개발한 기술은 적은 혈액만 플라스틱 필름에 흘려보내기 때문에 혈중 유리 핵산 분리 시간이 20분 이내로 줄었다.\n우리나라는 세계에서 대장암 발병률 1위다.\n대장암을 조기 발견·치료하는 것이 중요하다.\n또 대장암은 재발률이 높기 때문에 장기간 추적·관리해야 한다.\n서울아산병원 신용 교수는 “이번 연구는 조직 검사보다 소요되는 비용이 적고 혈액으로 대장암을 진단하는 기존 기기보다 정확도가 높아진 기술이 개발됐다는 데 의미가 있다”며 “기술이 보완되면 다른 암 종류에도 적용할 수 있다”고 말했다.\n연구는 국제학술지인 ‘어드밴스드 사이언스(Advanced Science)’ 온라인 최신 판에 게재됐다.\n이 연구는 한국보건산업진흥원과 한국연구재단, 서울아산병원 아산생명과학연구원의 지원을 받아 진행됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 24,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ 병원리포트 서울아산병원 박인자·신용 교수팀 얇은 필름 한 장으로 대장암을 진단할 수 있는 기술이 발표됐다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "기존 대장암 혈액 진단 기기보다 비용이 적게 들고 정확도가 높다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서울아산병원 대장항문외과 박인자, 융합의학과 신용 교수팀은 가로·세로 각각 7㎝·8㎝ 정도의 초박형 플라스틱 필름 한 장으로 혈중 유리 핵산을 효과적으로 분리해내 저렴한 비용으로 대장암을 진단할 수 있는 기술을 개발했다고 밝혔다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "암 환자의 경우 혈중 유리 핵산(cfNA) 농도가 정상인보다 높아 암 진단의 지표로 쓰인다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박 교수 연구팀은 ‘DTBP(Dimethyl3)’라는 물질이 혈중 유리 핵산과 선택적으로 결합한다는 특성을 이용했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "새로운 혈중 유리 핵산 분리 기술을 개발한 것이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "성인 남성 손바닥의 반절만 한 얇은 플라스틱 필름에 미리 채취해 놓은 소량의 혈액을 흘려보내면 혈중 유리 핵산이 분리된다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최근 피 한 방울로 암을 진단할 수 있는 기술이 많이 개발되고 있는데 이번에 발표된 기술은 기존과 달리 특별한 장비가 필요하지 않다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "환자의 비용 부담이 적고 손쉽게 대장암을 진단할 수 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "시중에 나와 있는 혈중 유리 핵산 분리 기기들은 원심 분리기와 진공 펌프, 직류 전원 장치 등 다양한 장비가 필요하다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이번에 발표된 기술의 대장암 진단 정확도는 기존 대장암 혈액 진단 기기보다 높은 것으로 나타났다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "연구팀은 대장암 환자 14명을 두 집단으로 나눠 새롭게 개발된 혈중 유리 핵산 분리 플랫폼 기술과 기존의 분리 기술을 각각 적용했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그런 다음 환자 14명의 조직 샘플을 채취해 차세대 염기서열분석(NGS) 검사 결과와 혈액을 이용한 진단 검사 결과를 비교했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그 결과, 시중에 나와 있는 혈중 유리 핵산 분리 기술을 이용한 진단법은 약 57%의 진단 정확도를 보였다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "반면 새롭게 개발된 플랫폼 기술의 진단 정확도는 약 71%로 더 높았다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "진단에 걸리는 시간 역시 3분의 1 가까이 단축됐다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "기존에는 혈액으로 대장암을 진단하기 위해 혈중 유리 핵산을 분리하는 데 평균 1시간 정도가 소요됐다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "하지만 연구팀이 개발한 기술은 적은 혈액만 플라스틱 필름에 흘려보내기 때문에 혈중 유리 핵산 분리 시간이 20분 이내로 줄었다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "우리나라는 세계에서 대장암 발병률 1위다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "대장암을 조기 발견·치료하는 것이 중요하다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "또 대장암은 재발률이 높기 때문에 장기간 추적·관리해야 한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "서울아산병원 신용 교수는 “이번 연구는 조직 검사보다 소요되는 비용이 적고 혈액으로 대장암을 진단하는 기존 기기보다 정확도가 높아진 기술이 개발됐다는 데 의미가 있다”며 “기술이 보완되면 다른 암 종류에도 적용할 수 있다”고 말했다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "연구는 국제학술지인 ‘어드밴스드 사이언스(Advanced Science)’ 온라인 최신 판에 게재됐다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "이 연구는 한국보건산업진흥원과 한국연구재단, 서울아산병원 아산생명과학연구원의 지원을 받아 진행됐다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "얇은 필름 하나로 대장암 진단... 신기술 발표에 의료계 집단 흥분",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

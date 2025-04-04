@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198975",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "젊고 날씬한 女, 유방암 치료 후 체중증가 위험 커",
+    "newsSubTitle": "비만하면 암 재발률, 생존 기간 악영향 미쳐 관리해야",
+    "newsContent": "[박정렬 기자] 비교적 젊은 55세 미만 유방암 환자는 치료 후 체중이 늘 위험이 크다는 연구 결과가 나왔다.\n비만하지 않고, 치료 과정에서 호르몬억제제를 사용한 환자도 체중이 늘 위험이 컸다.\n비만은 암 재발률이나 생존 기간에 악영향을 미치는 만큼 치료 후 체중 관리에 각별히 주의해야 한다.\n서울대병원 강남센터 가정의학과 최호천 교수 연구팀은 16일 유방암 치료 후 사실상 완치 판정(5년 이상)을 받은 유방암 경험자 822명을 대상으로 체중·나이·생활습관·암 관련 요인 등을 비교한 결과 이 같은 사실을 확인했다고 밝혔다.\n연구팀은 나이에 따라 환자를 젊은 연령군(55세 미만)과 고령 연령군(55세 이상)으로 구분한 뒤 이들의 체중 변화를 평균 8.2년간 추적 관찰했다.\n젊은군은 615명, 고령군은 207명이었다.\n분석 결과 유방암 진단을 받을 때 젊은 연령군에 속한 환자는 이 기간 평균 0.53kg 체중이 늘었고 고령 연령군은 평균 0.27kg 줄었다.\n통계적으로 유방암 진단 당시 젊은 연령군은 고령 연령군보다 체중 증가 위험도가 1.9배 높았다.\n또 유방암 진단을 받을 때 비만하지 않으면 비만한 쪽보다 치료 후 체중이 더 증가하는 경향을 보였다.\n연구팀이 비만을 나타내는 체질량 지수(체중을 키의 제곱으로 나눈 값) 25를 기준으로 환자를 분석한 결과 25보다 낮은 쪽은 치료 후 5년 뒤 체중이 평균 0.78kg 증가했고 25 이상인 쪽은 1.11kg 감소했다.\n비만 위험도는 유방암 치료 시 항암 화학요법(호르몬억제제)을 사용한 쪽에서 2.2배 높았다.\n최호천 교수는 “체중 증가는 유방암 경험자(암 진단을 받은 뒤 치료를 받거나 치료 후 생존한 사람)의 암 재발률과 생존 기간과 밀접한 연관성이 있다\\\"며 \\\"체중 증가 요인을 가진 암 환자는 비만 예방을 위해 더욱 적극적으로 자기 관리를 해야 한다”고 조언했다.\n한편, 이번 연구는 국제 학술지 '플로스 원' 7월호에 실렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[박정렬 기자] 비교적 젊은 55세 미만 유방암 환자는 치료 후 체중이 늘 위험이 크다는 연구 결과가 나왔다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "비만하지 않고, 치료 과정에서 호르몬억제제를 사용한 환자도 체중이 늘 위험이 컸다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "비만은 암 재발률이나 생존 기간에 악영향을 미치는 만큼 치료 후 체중 관리에 각별히 주의해야 한다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서울대병원 강남센터 가정의학과 최호천 교수 연구팀은 16일 유방암 치료 후 사실상 완치 판정(5년 이상)을 받은 유방암 경험자 822명을 대상으로 체중·나이·생활습관·암 관련 요인 등을 비교한 결과 이 같은 사실을 확인했다고 밝혔다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연구팀은 나이에 따라 환자를 젊은 연령군(55세 미만)과 고령 연령군(55세 이상)으로 구분한 뒤 이들의 체중 변화를 평균 8.2년간 추적 관찰했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "젊은군은 615명, 고령군은 207명이었다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "분석 결과 유방암 진단을 받을 때 젊은 연령군에 속한 환자는 이 기간 평균 0.53kg 체중이 늘었고 고령 연령군은 평균 0.27kg 줄었다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "통계적으로 유방암 진단 당시 젊은 연령군은 고령 연령군보다 체중 증가 위험도가 1.9배 높았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 유방암 진단을 받을 때 비만하지 않으면 비만한 쪽보다 치료 후 체중이 더 증가하는 경향을 보였다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "연구팀이 비만을 나타내는 체질량 지수(체중을 키의 제곱으로 나눈 값) 25를 기준으로 환자를 분석한 결과 25보다 낮은 쪽은 치료 후 5년 뒤 체중이 평균 0.78kg 증가했고 25 이상인 쪽은 1.11kg 감소했다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "비만 위험도는 유방암 치료 시 항암 화학요법(호르몬억제제)을 사용한 쪽에서 2.2배 높았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "최호천 교수는 “체중 증가는 유방암 경험자(암 진단을 받은 뒤 치료를 받거나 치료 후 생존한 사람)의 암 재발률과 생존 기간과 밀접한 연관성이 있다\\\"며 \\\"체중 증가 요인을 가진 암 환자는 비만 예방을 위해 더욱 적극적으로 자기 관리를 해야 한다”고 조언했다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "한편, 이번 연구는 국제 학술지 '플로스 원' 7월호에 실렸다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "젊고 날씬한 여성일수록 유방암 치료 후... '이것' 위험 커져",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

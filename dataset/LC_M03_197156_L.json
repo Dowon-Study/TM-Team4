@@ -1,0 +1,321 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197156",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[홍혜걸객원의학전문기자의우리집주치의] 헷갈리는 의학 정보",
+    "newsSubTitle": "폐경 호르몬제 '뒤집힌 진실' 이번에는 콩영양제 등 논란 오락가락하는 내용 많다면 보편타당한 내용을 믿어야",
+    "newsContent": "'진리는 동시대 전문가들의 투표결과'란 말이 있습니다.\n의학의 세계도 비슷합니다.\n그러나 전문가도 사람이므로 틀릴 때가 있습니다.\n2002년까지만 해도 의학계 불변의 진리는 폐경 여성에게 여성호르몬 알약을 투여해야 한다는 것이었습니다.\n심장병과 뇌졸중 등 치명적 질환을 예방한다고 믿었기 때문입니다.\n대다수 전문가가 동의했으며 수십 년 동안 수십억 개의 여성호르몬제가 날개 돋친 듯 팔렸습니다.\n저 역시 '여성호르몬요법은 선택이 아닌 필수'란 제목의 기사를 쓰기도 했습니다.\n그러나 2002년 미국 국립보건원은 이것이 사실과 다름을 처음으로 밝혀 전 세계 의학계를 경악하게 만들었습니다.\n1991년부터 16만여 명의 여성이 참여한 대규모 역학(疫學)연구를 통해 밝혀진 결과입니다.\n놀랍게도 여성호르몬요법이 심장병과 뇌졸중을 예방하기는커녕 오히려 증가시켰기 때문입니다.\n이제 여성호르몬제는 폐경증후군 등 꼭 필요한 여성에게만 한정적으로 투여됩니다.\n어제의 진리가 오늘의 거짓으로 둔갑한 셈이지요.\n최근 콩이 유방암에 좋지 않다는 호주발 외신이 사람들을 혼란에 빠뜨렸습니다.\n기존 상식과 상반된 내용이었기 때문입니다.\n비단 이번 사태뿐 아닙니다.\n비타민제가 암환자에게 나쁘다는 뉴스도 있었고, 청국장이 심장에 나쁘다는 뉴스도 있었습니다.\n도대체 무엇이 문제일까요.\n저는 먼저 의학은 다른 학문과 달리 진리규명이 매우 어렵다는 점을 강조하고 싶습니다.\n인도적 이유에서 인체실험을 하는 것이 불가능하기 때문입니다.\n결국 역학연구를 할 수밖에 없는데 이를 수행하기 위해선 많은 비용과 기간, 인력이 소요됩니다.\n예컨대 표본 크기가 작고 단기간 관찰할 경우 진실과 벗어난 결과가 도출될 수 있다는 뜻입니다.\n그렇다면 요즘처럼 의학정보의 홍수시대에서 옥석을 가려낼 수 있는 방법은 무엇일까요.\n우선 언론의 반성이 필요합니다.\n콩과 관련한 외신도 번역상 오류가 있었다고 봅니다.\n콩 성분을 추출해 알약으로 만든 콩 영양제(soy supplement)를 콩 식품(soy food)으로 확대해석한 것이지요.\n호주에선 현재 콩 영양제가 붐을 이루고 있다고 합니다.\n이를 경계하기 위해 식물성 에스트로겐 성분이 다량으로 농축돼 유방을 자극할 수 있는 콩 영양제는 삼가자는 취지였는데 엉뚱하게 콩 식품에 화살이 돌아간 것이지요.\n둘째 전문가들의 적극적인 참여가 필요합니다.\n이 점에서 번역상 오류를 지적하고 콩 식품에 대한 걱정을 풀어준 대한의사협회의 조치는 적절하고 타당한 것이었습니다.\n마지막으로 보편타당한 내용을 신뢰해줄 것을 당부하고 싶습니다.\n한두 가지 눈에 튀는 결과에 현혹돼선 안 됩니다.\n10개의 논문이 A이고, 1개의 논문이 B라면 A를 수용하는 태도가 옳다는 뜻입니다.\n비타민제는 암환자에게 도움을 주며, 청국장도 혈전용해제를 복용하는 심장병 환자만 아니면 건강에 좋다는 것이 '아직까진 진리'라고 봐야 한다는 뜻입니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 33,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'진리는 동시대 전문가들의 투표결과'란 말이 있습니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "의학의 세계도 비슷합니다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러나 전문가도 사람이므로 틀릴 때가 있습니다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2002년까지만 해도 의학계 불변의 진리는 폐경 여성에게 여성호르몬 알약을 투여해야 한다는 것이었습니다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "심장병과 뇌졸중 등 치명적 질환을 예방한다고 믿었기 때문입니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "대다수 전문가가 동의했으며 수십 년 동안 수십억 개의 여성호르몬제가 날개 돋친 듯 팔렸습니다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "저 역시 '여성호르몬요법은 선택이 아닌 필수'란 제목의 기사를 쓰기도 했습니다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러나 2002년 미국 국립보건원은 이것이 사실과 다름을 처음으로 밝혀 전 세계 의학계를 경악하게 만들었습니다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "1991년부터 16만여 명의 여성이 참여한 대규모 역학(疫學)연구를 통해 밝혀진 결과입니다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "놀랍게도 여성호르몬요법이 심장병과 뇌졸중을 예방하기는커녕 오히려 증가시켰기 때문입니다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이제 여성호르몬제는 폐경증후군 등 꼭 필요한 여성에게만 한정적으로 투여됩니다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "어제의 진리가 오늘의 거짓으로 둔갑한 셈이지요.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "최근 콩이 유방암에 좋지 않다는 호주발 외신이 사람들을 혼란에 빠뜨렸습니다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "기존 상식과 상반된 내용이었기 때문입니다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "비단 이번 사태뿐 아닙니다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "비타민제가 암환자에게 나쁘다는 뉴스도 있었고, 청국장이 심장에 나쁘다는 뉴스도 있었습니다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "도대체 무엇이 문제일까요.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "저는 먼저 의학은 다른 학문과 달리 진리규명이 매우 어렵다는 점을 강조하고 싶습니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "인도적 이유에서 인체실험을 하는 것이 불가능하기 때문입니다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "결국 역학연구를 할 수밖에 없는데 이를 수행하기 위해선 많은 비용과 기간, 인력이 소요됩니다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "예컨대 표본 크기가 작고 단기간 관찰할 경우 진실과 벗어난 결과가 도출될 수 있다는 뜻입니다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "그렇다면 요즘처럼 의학정보의 홍수시대에서 옥석을 가려낼 수 있는 방법은 무엇일까요.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "우선 언론의 반성이 필요합니다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "콩과 관련한 외신도 번역상 오류가 있었다고 봅니다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "콩 성분을 추출해 알약으로 만든 콩 영양제(soy supplement)를 콩 식품(soy food)으로 확대해석한 것이지요.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "호주에선 현재 콩 영양제가 붐을 이루고 있다고 합니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "이를 경계하기 위해 식물성 에스트로겐 성분이 다량으로 농축돼 유방을 자극할 수 있는 콩 영양제는 삼가자는 취지였는데 엉뚱하게 콩 식품에 화살이 돌아간 것이지요.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "둘째 전문가들의 적극적인 참여가 필요합니다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 29,
+        "sentenceContent": "이 점에서 번역상 오류를 지적하고 콩 식품에 대한 걱정을 풀어준 대한의사협회의 조치는 적절하고 타당한 것이었습니다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 30,
+        "sentenceContent": "마지막으로 보편타당한 내용을 신뢰해줄 것을 당부하고 싶습니다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 31,
+        "sentenceContent": "한두 가지 눈에 튀는 결과에 현혹돼선 안 됩니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 32,
+        "sentenceContent": "10개의 논문이 A이고, 1개의 논문이 B라면 A를 수용하는 태도가 옳다는 뜻입니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 33,
+        "sentenceContent": "비타민제는 암환자에게 도움을 주며, 청국장도 혈전용해제를 복용하는 심장병 환자만 아니면 건강에 좋다는 것이 '아직까진 진리'라고 봐야 한다는 뜻입니다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "예방은 커녕 사망률 증가시켜… '끔찍한' 독약 된 치료제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 29,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 30,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 31,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 32,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 33,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

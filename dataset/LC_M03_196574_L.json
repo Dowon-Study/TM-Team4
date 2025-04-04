@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196574",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[무용] 누레예프 안무 '잠자는 숲속의 미녀'",
+    "newsSubTitle": "",
+    "newsContent": "'잠자는 숲속의 미녀'는 차이코프스키의 3대 발레 작품이다.\n8~15일 예술의전당 오페라극장에서 공연되는 이번 작품은 전설적인 무용수이자 안무가인 루돌프 누레예프 버전이다.\n그의 안무에선 남성 무용수들이 한껏 강조된다.\n우아한 결혼식 장면과 화려한 테크닉도 볼거리다.\n주역을 맡은 커플도 탄탄하다.\n선이 아름다운 김주원-차세대 주자 이원철, 러시아 노보시비르스크 발레단의 솔리스트 안나 자로바-국내 최고의 남자 무용수 이원국, 보스턴 발레단 주역 폴리아나 리베로-휴스턴 발레단 주역인 사이먼 볼. 어느 팀이든 매력이 넘친다. 2만~10만원, 02-580-1300.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'잠자는 숲속의 미녀'는 차이코프스키의 3대 발레 작품이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "8~15일 예술의전당 오페라극장에서 공연되는 이번 작품은 전설적인 무용수이자 안무가인 루돌프 누레예프 버전이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그의 안무에선 남성 무용수들이 한껏 강조된다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "우아한 결혼식 장면과 화려한 테크닉도 볼거리다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "주역을 맡은 커플도 탄탄하다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "선이 아름다운 김주원-차세대 주자 이원철, 러시아 노보시비르스크 발레단의 솔리스트 안나 자로바-국내 최고의 남자 무용수 이원국, 보스턴 발레단 주역 폴리아나 리베로-휴스턴 발레단 주역인 사이먼 볼. 어느 팀이든 매력이 넘친다. 2만~10만원, 02-580-1300.",
+        "sentenceSize": 148
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "눈을 뗄 수 없는 루돌프 누레예프 버전의 '잠자는 숲속의 미녀', \"관객을 홀리다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

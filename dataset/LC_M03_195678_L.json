@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195678",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 당신] 면역력에 좋은 유산균으로 환절기 건강 지키자",
+    "newsSubTitle": "",
+    "newsContent": "면역력에 좋은 유산균으로 환절기 건강 지키자 봄으로 가는 문턱이다.\n환절기엔 몸의 균형이 무너지고 면역기능이 떨어진다.\n장은 체내 면역력을 담당하는 컨트롤 타워다.\n인체 면역세포 중 60% 이상이 장에서 서식한다.\n장내 면역세포가 건강하게 오래 살려면 장에 유산균이 풍부해야 한다.\n유산균은 장내에 붙어 보호막을 만들고 장 건강을 최적화한다.\n하지만 섭취한 유산균이 장까지 도달하지 못하면 무용지물. 유산균이 강력한 소화액인 위산·답즙산에서 살아남아 장까지 도달해야 한다.\n종근당건강의 건강기능식품 ‘장건강생유산균골드’(사진)는 위산에 강해 장까지 도달하는 기능이 입증된 유산균을 5종 함유했다.\n균주별 기능 및 서식지가 다양해 장 기능이 균형을 유지한다.\n그 중 DDS유산균은 1959년 미국 네브래스카대학에서 연구해 50여 년간 유익성을 입증했다.\n이 제품에는 유산균의 먹이인 프락토올리고당도 함유해 유산균이 장내에서 더 잘 증식하도록 했다.\n건강기능식품 전문몰 ‘헬스벨(www.healthbell.net)’은 ‘장건강생유산균골드’의 할인 이벤트를 진행한다. 10개월분을 15% 할인된 가격에 구매할 수 있다.\n기간 2016년 2월 29일~3월 6일 전화 주문 및 문의 1644-1884",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "면역력에 좋은 유산균으로 환절기 건강 지키자 봄으로 가는 문턱이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "환절기엔 몸의 균형이 무너지고 면역기능이 떨어진다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "장은 체내 면역력을 담당하는 컨트롤 타워다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "인체 면역세포 중 60% 이상이 장에서 서식한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "장내 면역세포가 건강하게 오래 살려면 장에 유산균이 풍부해야 한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유산균은 장내에 붙어 보호막을 만들고 장 건강을 최적화한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 섭취한 유산균이 장까지 도달하지 못하면 무용지물. 유산균이 강력한 소화액인 위산·답즙산에서 살아남아 장까지 도달해야 한다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "종근당건강의 건강기능식품 ‘장건강생유산균골드’(사진)는 위산에 강해 장까지 도달하는 기능이 입증된 유산균을 5종 함유했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "균주별 기능 및 서식지가 다양해 장 기능이 균형을 유지한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그 중 DDS유산균은 1959년 미국 네브래스카대학에서 연구해 50여 년간 유익성을 입증했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 제품에는 유산균의 먹이인 프락토올리고당도 함유해 유산균이 장내에서 더 잘 증식하도록 했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "건강기능식품 전문몰 ‘헬스벨(www.healthbell.net)’은 ‘장건강생유산균골드’의 할인 이벤트를 진행한다. 10개월분을 15% 할인된 가격에 구매할 수 있다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "기간 2016년 2월 29일~3월 6일 전화 주문 및 문의 1644-1884",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "봄철에 목이 칼칼한 이유는 황사 때문만이 아니다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

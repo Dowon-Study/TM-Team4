@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198618",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "1000만명 목숨 앗아갔다…전세계 사망 원인 2위 '암', 1위는",
+    "newsSubTitle": "",
+    "newsContent": "암으로 전세계에서 1000만명 가량이 사망해, 사망 원인 2위에 올랐다는 통계가 나왔다.\n사망 원인 1위는 심혈관질환으로 나타났다.\n4일(현지시간) 헬스데이뉴스 등에 따르면 미국 워싱턴대 연구팀이 '2019 세계 질병·상해·위험요인 연구'를 분석한 결과, 암으로 인한 사망자가 2010년 829만명에 비해 21% 가량 늘었다.\n이 연구 결과는 '미국 의학협회 저널-종양학' 최신호에 발표됐다.\n조너선 코카닉 박사 연구팀은 세계 204개 국가·영토의 암 부담과 경향을 분석했다.\n그 결과 '폐암'은 남성의 경우 119개 국가·영토, 여성의 경우 27개 국가·영토에서 암 사망의 주요 원인으로 나타났다.\n유방암은 전세계 국가·영토에서 여성의 암 사망 원인 1위로 집계됐다.\n또 폐암·대장암·위암·유방암·간암 환자의 경우 암 투병기간이 가장 길었다.\n약 10년새 암 발병률도 높아졌다.\n지난 2010년 조사에선 1900만명 가량의 신규 암환자가 생겨났지만 이번 조사에선 2300여만명으로 집계됐다.\n26% 늘어난 수치다.\n한편 연구진은 \\\"신종 코로나바이러스 감염증(코로나19) 사태가 암환자 치료에 차질을 줄 수 있다\\\"고 우려를 표하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "암으로 전세계에서 1000만명 가량이 사망해, 사망 원인 2위에 올랐다는 통계가 나왔다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사망 원인 1위는 심혈관질환으로 나타났다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "4일(현지시간) 헬스데이뉴스 등에 따르면 미국 워싱턴대 연구팀이 '2019 세계 질병·상해·위험요인 연구'를 분석한 결과, 암으로 인한 사망자가 2010년 829만명에 비해 21% 가량 늘었다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 연구 결과는 '미국 의학협회 저널-종양학' 최신호에 발표됐다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "조너선 코카닉 박사 연구팀은 세계 204개 국가·영토의 암 부담과 경향을 분석했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 결과 '폐암'은 남성의 경우 119개 국가·영토, 여성의 경우 27개 국가·영토에서 암 사망의 주요 원인으로 나타났다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유방암은 전세계 국가·영토에서 여성의 암 사망 원인 1위로 집계됐다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 폐암·대장암·위암·유방암·간암 환자의 경우 암 투병기간이 가장 길었다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "약 10년새 암 발병률도 높아졌다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "지난 2010년 조사에선 1900만명 가량의 신규 암환자가 생겨났지만 이번 조사에선 2300여만명으로 집계됐다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "26% 늘어난 수치다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "한편 연구진은 \\\"신종 코로나바이러스 감염증(코로나19) 사태가 암환자 치료에 차질을 줄 수 있다\\\"고 우려를 표하기도 했다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전세계 1000만명 목숨 앗아간 사망 원인 2위... 바로 '암', 1위는 '이 병'으로 나타나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

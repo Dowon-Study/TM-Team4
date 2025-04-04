@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193355",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "잠 부족한 아이, 뚱보 될 확률 2배",
+    "newsSubTitle": "미시간대 연구팀 조사",
+    "newsContent": "잠이 부족한 어린이는 충분히 수면을 취한 아이에 비해 비만이 될 가능성이 두 배 가까이 큰 것으로 조사됐다.\n수면 부족이 식욕 조절, 에너지 소비, 지방 분해 호르몬 분비 등을 담당하는 뇌의 특정 부위에 영향을 미치기 때문이다.\n로이터 통신에 따르면 미국 미시간대 성장학 센터가 매년 수면시간과 체중.신장 등을 조사하는 전미 10개 도시의 어린이 785명을 대상으로 조사한 결과 초등학교 3학년(9세) 때 잠을 얼마나 많이 잤느냐가 6학년(12세) 때 체중에 영향을 미친다는 사실을 확인했다.\n3학년 때 하루 10~12시간 잠을 잔 아이들 중 6학년 때 비만이 된 경우는 12%였다.\n그러나 수면시간이 하루 9시간 이하인 아이들은 22%가 6학년 때 비만이 됐다.\n연구팀이 제시한 3학년 어린이의 하루 적정 수면시간은 9시간45분 이상이다.\n이 논문은 미국 소아과학회지 11월호에 게재됐다.\n연구팀에 따르면 수면은 식욕과 포만감을 조절하는 호르몬에 영향을 미치는데, 잠을 적게 자는 아동일수록 그만큼 음식 먹을 시간이 늘어나 야식을 많이 찾게 된다는 것이다.\n동시에 잠 부족으로 피곤해지면 낮시간 운동량이 줄게 된다.\n연구팀의 줄리 루멩 박사는 \\\"다른 연구.조사에서도 어린이의 수면환경에 미치는 가정의 영향이 크고, 수면습관은 장기간 바뀌지 않는 것으로 나타났다\\\"면서 \\\"소아비만을 막기 위해서는 가족의 협력이 무엇보다 중요하다\\\"고 말했다.\n그는 초등학교 등교시간이 대부분 오전 8시 이전임을 지적하며, \\\"어린이들을 충분히 재우기 위해 등교시간을 늦출 필요가 있다\\\"고 주장하며 \\\"오후 10시 이전에는 반드시 잠자리에 들고, 하루에 적어도 9시간 이상 숙면을 취해야 학습 능률도 높아진다\\\"고 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "잠이 부족한 어린이는 충분히 수면을 취한 아이에 비해 비만이 될 가능성이 두 배 가까이 큰 것으로 조사됐다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "수면 부족이 식욕 조절, 에너지 소비, 지방 분해 호르몬 분비 등을 담당하는 뇌의 특정 부위에 영향을 미치기 때문이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "로이터 통신에 따르면 미국 미시간대 성장학 센터가 매년 수면시간과 체중.신장 등을 조사하는 전미 10개 도시의 어린이 785명을 대상으로 조사한 결과 초등학교 3학년(9세) 때 잠을 얼마나 많이 잤느냐가 6학년(12세) 때 체중에 영향을 미친다는 사실을 확인했다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "3학년 때 하루 10~12시간 잠을 잔 아이들 중 6학년 때 비만이 된 경우는 12%였다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 수면시간이 하루 9시간 이하인 아이들은 22%가 6학년 때 비만이 됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구팀이 제시한 3학년 어린이의 하루 적정 수면시간은 9시간45분 이상이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 논문은 미국 소아과학회지 11월호에 게재됐다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구팀에 따르면 수면은 식욕과 포만감을 조절하는 호르몬에 영향을 미치는데, 잠을 적게 자는 아동일수록 그만큼 음식 먹을 시간이 늘어나 야식을 많이 찾게 된다는 것이다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "동시에 잠 부족으로 피곤해지면 낮시간 운동량이 줄게 된다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "연구팀의 줄리 루멩 박사는 \\\"다른 연구.조사에서도 어린이의 수면환경에 미치는 가정의 영향이 크고, 수면습관은 장기간 바뀌지 않는 것으로 나타났다\\\"면서 \\\"소아비만을 막기 위해서는 가족의 협력이 무엇보다 중요하다\\\"고 말했다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그는 초등학교 등교시간이 대부분 오전 8시 이전임을 지적하며, \\\"어린이들을 충분히 재우기 위해 등교시간을 늦출 필요가 있다\\\"고 주장하며 \\\"오후 10시 이전에는 반드시 잠자리에 들고, 하루에 적어도 9시간 이상 숙면을 취해야 학습 능률도 높아진다\\\"고 강조했다.",
+        "sentenceSize": 148
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "잠 부족한 어린이 '확찐자' 될 가능성 두 배",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

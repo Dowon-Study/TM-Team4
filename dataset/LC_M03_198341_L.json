@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198341",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[행복한책읽기Review] 기억 상실한 사형수 … 진짜 범인은",
+    "newsSubTitle": "[떠나자 '책캉스' 추리·미스터리 속으로]",
+    "newsContent": "13계단 다카노 가즈아키 지음, 전새롬 옮김, 황금가지, 2005년 노부부를 참혹하게 살해한 혐의로 사형 언도를 받은 청년 사카키바라 료. 하지만 그에겐 범행 당시 기억이 없다.\n사고 8년째인 어느날, 마침내 어렴풋한 영상이 떠오른다.\n죽음의 공포에 휩싸인 채 자신이 낯선 계단을 오르고 있었음을 기억해 낸 것이다.\n상해치사로 2년형을 살고 가석방된 청년 미카미 준이치. 생활고와 주위의 냉대에 직면한 그에게 교도관 난고 쇼지가 찾아온다.\n난고는 그에게 \\\"독지가의 후원을 받아 사카키바라의 무죄를 밝히려 하니 합류해달라\\\"고 제안한다.\n사형 집행까지 기한은 3개월. 단서는 '계단'뿐인 상황에서 두 사람은 사카키바라의 무죄를 증명할 수 있을까. '13계단'은 전형적인 범죄추리소설의 외형을 띄고 있지만 주제는 묵직하다.\n사형제도, '죄를 뉘우친다'는 것의 의미, '사형(私刑)'의 폐해 등에 대한 저자의 집요한 문제의식이 반전에 반전을 거듭하는 이야기 속에 촘촘히 녹아들어 있다.\n일본에서 100만부가 넘게 팔린 책으로 2001년 에도가와 란포상을 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "13계단 다카노 가즈아키 지음, 전새롬 옮김, 황금가지, 2005년 노부부를 참혹하게 살해한 혐의로 사형 언도를 받은 청년 사카키바라 료. 하지만 그에겐 범행 당시 기억이 없다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사고 8년째인 어느날, 마침내 어렴풋한 영상이 떠오른다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "죽음의 공포에 휩싸인 채 자신이 낯선 계단을 오르고 있었음을 기억해 낸 것이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "상해치사로 2년형을 살고 가석방된 청년 미카미 준이치. 생활고와 주위의 냉대에 직면한 그에게 교도관 난고 쇼지가 찾아온다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "난고는 그에게 \\\"독지가의 후원을 받아 사카키바라의 무죄를 밝히려 하니 합류해달라\\\"고 제안한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사형 집행까지 기한은 3개월. 단서는 '계단'뿐인 상황에서 두 사람은 사카키바라의 무죄를 증명할 수 있을까. '13계단'은 전형적인 범죄추리소설의 외형을 띄고 있지만 주제는 묵직하다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사형제도, '죄를 뉘우친다'는 것의 의미, '사형(私刑)'의 폐해 등에 대한 저자의 집요한 문제의식이 반전에 반전을 거듭하는 이야기 속에 촘촘히 녹아들어 있다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "일본에서 100만부가 넘게 팔린 책으로 2001년 에도가와 란포상을 받았다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "남은 기간 3개월··· 단서는 단 하나, 그들은 과연 무엇으로 진실을 밝힐까",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

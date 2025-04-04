@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196180",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "진행성 간암 치료에 방사선+항암방식 효과적",
+    "newsSubTitle": "연세암병원 간암센터. 생존기간 4배 늘어나",
+    "newsContent": "진행성 간암의 치료법에 관한 연구가 활발히 진행되고 있는 가운데 방사선과 항암약물을 함께 사용하는 병행 치료법의 효과가 높다는 연구 결과가 나왔다.\n항암 방사선 병행치료법는 수술 전 보조요법이나 비수술적 요법으로 주목을 받고 있다.\n17일 연세암병원 간암센터에 따르면 지난 2005년부터 2011년까지 수술이 불가능한 진행성 간암 환자 41명에 대해 방사선치료와 항암약물치료 병행요법을 시행한 후, 간 절제 수술을 시행한 결과 평균 생존기간이 23개월로 나타났다.\n또, 방사선 항암약물 병행 치료를 시행 받은 환자 가운데 32명(78%)은 간암 병기도 높은 단계서 낮은 단계로 내려왔다.\n진행성 간암이란 간의 여러 부위에 암 덩어리가 생기거나, 주변 혈관으로 암세포가 전이된 상태를 말한다.\n수술로도 제거가 어렵고, 특히 혈관으로 암세포가 퍼진 경우 치료법이 큰 효과를 거두지 못하기 때문에 6개월 내 사망하는 경우가 많다.\n병행치료법을 사용할 경우, 생존 기간이 약 4배 늘어난다는 얘기가 된다.\n연구진은 병행치료법을 사용할 경우, 수술 후 간 보존율이 높아지는 효과를 거둘 수 있어서 기존의 방법보다도 간기능 부전 등의 후유증이나 합병증이 없이 환자 회복 속도를 높일 수 있었다고 전했다.\n최진섭 연세암병원 간암센터장은 “향후 병행 치료법이 진행성 간암환자에 대한 표준 치료법으로 자리 매김할 것으로 기대한다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "진행성 간암의 치료법에 관한 연구가 활발히 진행되고 있는 가운데 방사선과 항암약물을 함께 사용하는 병행 치료법의 효과가 높다는 연구 결과가 나왔다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "항암 방사선 병행치료법는 수술 전 보조요법이나 비수술적 요법으로 주목을 받고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "17일 연세암병원 간암센터에 따르면 지난 2005년부터 2011년까지 수술이 불가능한 진행성 간암 환자 41명에 대해 방사선치료와 항암약물치료 병행요법을 시행한 후, 간 절제 수술을 시행한 결과 평균 생존기간이 23개월로 나타났다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또, 방사선 항암약물 병행 치료를 시행 받은 환자 가운데 32명(78%)은 간암 병기도 높은 단계서 낮은 단계로 내려왔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "진행성 간암이란 간의 여러 부위에 암 덩어리가 생기거나, 주변 혈관으로 암세포가 전이된 상태를 말한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "수술로도 제거가 어렵고, 특히 혈관으로 암세포가 퍼진 경우 치료법이 큰 효과를 거두지 못하기 때문에 6개월 내 사망하는 경우가 많다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "병행치료법을 사용할 경우, 생존 기간이 약 4배 늘어난다는 얘기가 된다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구진은 병행치료법을 사용할 경우, 수술 후 간 보존율이 높아지는 효과를 거둘 수 있어서 기존의 방법보다도 간기능 부전 등의 후유증이나 합병증이 없이 환자 회복 속도를 높일 수 있었다고 전했다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "최진섭 연세암병원 간암센터장은 “향후 병행 치료법이 진행성 간암환자에 대한 표준 치료법으로 자리 매김할 것으로 기대한다”고 말했다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "진행성 간암 '생존률 4배 상승' 가능해져... '이 치료법'의 정체는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

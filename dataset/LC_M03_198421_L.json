@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198421",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "사전이 바로되어야 나랏말이 바로선다",
+    "newsSubTitle": "'국어 사전 바로잡기'",
+    "newsContent": "나랏말과 나랏글 바로쓰기에 평생을 바친 정재도(77) 씨의 1999년판 노작 『국어 사전 바로잡기』의 고침판이다.\n컴퓨터 입력과정에서 빠지거나 잘못 찍힌 것 등 첫 판의 오류를 2년 만에 다시 고쳐 펴냈다.\n정씨는 사람이 하는 일이라 한계가 있다고 겸손하게 고백한다.\n그런데 정씨는 기존 국어 사전들의 오류는 3백~4백 항목이나 된다고 주장한다.\n물론 논란이 있을 수도 있겠지만 기존의 사전들은 정씨의 지적에 얼마나 성실한 응답을 준비하고 있는지 묻지 않을 수 없다.\n정씨는 말한다.\n\\\"국어 사전에 4백 항목이나 잘못이 있다면 세계에서 유례를 찾기 힘든 기네스 북 감이다. 이것은 어느 개인이 혼자서 할 일이 아니라, 나라나 연구 기관에서 기구를 짜서 해야 할 커다란 사회문제다. \\\" 이 책은 기존 사전에서 잘못 적은 낱말을 항목별로 찾아볼 수 있게 구성했다. '두루말이' 를 '두루마리' 로 잘못 적거나, '건달' 을 있지도 않은 한자어 '乾達' 로 만들어 붙인 경우 등을 일일이 지적한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "나랏말과 나랏글 바로쓰기에 평생을 바친 정재도(77) 씨의 1999년판 노작 『국어 사전 바로잡기』의 고침판이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "컴퓨터 입력과정에서 빠지거나 잘못 찍힌 것 등 첫 판의 오류를 2년 만에 다시 고쳐 펴냈다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정씨는 사람이 하는 일이라 한계가 있다고 겸손하게 고백한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그런데 정씨는 기존 국어 사전들의 오류는 3백~4백 항목이나 된다고 주장한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "물론 논란이 있을 수도 있겠지만 기존의 사전들은 정씨의 지적에 얼마나 성실한 응답을 준비하고 있는지 묻지 않을 수 없다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정씨는 말한다.",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "\\\"국어 사전에 4백 항목이나 잘못이 있다면 세계에서 유례를 찾기 힘든 기네스 북 감이다. 이것은 어느 개인이 혼자서 할 일이 아니라, 나라나 연구 기관에서 기구를 짜서 해야 할 커다란 사회문제다. \\\" 이 책은 기존 사전에서 잘못 적은 낱말을 항목별로 찾아볼 수 있게 구성했다. '두루말이' 를 '두루마리' 로 잘못 적거나, '건달' 을 있지도 않은 한자어 '乾達' 로 만들어 붙인 경우 등을 일일이 지적한다.",
+        "sentenceSize": 230
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정재도의 '이것' 바로잡기, 4백 항목이나 새로 쓴 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

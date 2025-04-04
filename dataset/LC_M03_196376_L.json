@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196376",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[HEALTH Life] 암 수술 후유증 림프부종 고친다",
+    "newsSubTitle": "미세림프시술 효과 높아",
+    "newsContent": "유방암·자궁암 등 암덩어리를 광범위하게 절제한 뒤 나타나는 부작용 중에 하나가 팔다리가 붓는 림프부종이다.\n혈관과 함께 우리 몸의 순환시스템을 담당하고 있는 림프관과 림프절이 잘려나가 림프액이 정체되기 때문. 문제는 림프부종은 특별한 치료법이 없다는 것. 림프액 순환을 돕기 위한 마사지 정도가 고작이었다.\n연세SK병원 혈관센터 심영기·소동문 원장팀은 최근 “난치로 여겼던 림프부종을 치료하는 미세림프 수술을 국내 처음 도입해 치료를 시작했다”고 밝혔다.\n미세림프 이식은 5~20 배율의 수술 현미경을 이용해 망가진 림프절을 일일이 연결하는 시술. 프랑스 퐁피두병원 제네비브 히든 교수팀은 유방암 수술 후 발생한 2차성 림프부종 1·2기 환자 24명에게 미세림프 수술을 한 뒤 5년간 추적 관찰했다.\n그 결과 환자의 92%에서 부종이 가라앉았으며, 이 중 41.5%(10명)는 완전 회복, 50%(12명)는 부기가 줄었고, 8.5%(2명)는 효과가 없었다(2006년 외과학회지). 이 시술은 2차성 림프부종 외에도 발병 초기 단계의 림프부종이나 방사선 치료로 발생된 2차성 림프부종에도 유효하다.\n하지만 유방암이나 자궁암이 진행 중인 환자는 시술 대상이 아니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유방암·자궁암 등 암덩어리를 광범위하게 절제한 뒤 나타나는 부작용 중에 하나가 팔다리가 붓는 림프부종이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "혈관과 함께 우리 몸의 순환시스템을 담당하고 있는 림프관과 림프절이 잘려나가 림프액이 정체되기 때문. 문제는 림프부종은 특별한 치료법이 없다는 것. 림프액 순환을 돕기 위한 마사지 정도가 고작이었다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연세SK병원 혈관센터 심영기·소동문 원장팀은 최근 “난치로 여겼던 림프부종을 치료하는 미세림프 수술을 국내 처음 도입해 치료를 시작했다”고 밝혔다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미세림프 이식은 5~20 배율의 수술 현미경을 이용해 망가진 림프절을 일일이 연결하는 시술. 프랑스 퐁피두병원 제네비브 히든 교수팀은 유방암 수술 후 발생한 2차성 림프부종 1·2기 환자 24명에게 미세림프 수술을 한 뒤 5년간 추적 관찰했다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 결과 환자의 92%에서 부종이 가라앉았으며, 이 중 41.5%(10명)는 완전 회복, 50%(12명)는 부기가 줄었고, 8.5%(2명)는 효과가 없었다(2006년 외과학회지). 이 시술은 2차성 림프부종 외에도 발병 초기 단계의 림프부종이나 방사선 치료로 발생된 2차성 림프부종에도 유효하다.",
+        "sentenceSize": 165
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 유방암이나 자궁암이 진행 중인 환자는 시술 대상이 아니다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "치료법 없었던 암 수술 후유증 림프부종, 미세 림프 이식으로 100% 고친다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

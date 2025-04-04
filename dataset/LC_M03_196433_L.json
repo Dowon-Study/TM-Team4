@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196433",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Family건강] 혈변의 유무와 대장용종·암은 별로 상관 없다",
+    "newsSubTitle": "한솔병원, 365명 대상 조사",
+    "newsContent": "대장용종이나 대장암을 발견할 목적으로 실시하는 분변 검사가 실효성이 없는 것으로 나타났다.\n한솔병원 정규영 과장팀은 지난해 대장내시경 검사를 받은 1만547명 중 특별한 증상이 없고, 내시경 검사 전 6개월 이내에 분변 검사를 받은 356명을 대상으로 용종 발견율을 분석했다.\n그 결과 분변에서 혈흔이 발견된 양성환자(244명)와, 분변 검사상 이상이 없는 음성환자(112명)의 용종 발견율에 큰 차이가 없는 것으로 나타났다.\n변에서 혈흔이 보이는 사람은 용종 발견율이 51.2%(3개 이상 33.8%)였고, 혈흔이 없는 사람도 용종 발견율이 42.9%(3개 이상 25.5%)에 이르렀다는 것. 특히 1㎝ 이상의 진행성 용종 발견율의 경우에도 양성환자(9.8%)와 음성환자(5.4%)가 비슷했다.\n대장암 검진은 현재 대변에 있는 혈흔을 찾아 선별 검사를 하고, 이 검사에서 이상이 발견된 경우에만 대장내시경 검사를 받을 수 있다.\n만일 분변 검사에서 이상이 없을 때 대장내시경을 받으려면 자신이 비용 전액을 지불해야 한다.\n정 과장은 \\\"분변 잠혈 검사에 너무 의존하면 안 될 것\\\"이라며 \\\"대장용종은 10~15년에 걸쳐 대장암으로 진행될 가능성이 높기 때문에 증상이 없어도 정기적으로 대장내시경을 받아야 할 것\\\"이라고 말했다.\n이 논문은 최근 열린 대한대장항문외과학회 춘계학술대회에서 발표됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대장용종이나 대장암을 발견할 목적으로 실시하는 분변 검사가 실효성이 없는 것으로 나타났다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한솔병원 정규영 과장팀은 지난해 대장내시경 검사를 받은 1만547명 중 특별한 증상이 없고, 내시경 검사 전 6개월 이내에 분변 검사를 받은 356명을 대상으로 용종 발견율을 분석했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 결과 분변에서 혈흔이 발견된 양성환자(244명)와, 분변 검사상 이상이 없는 음성환자(112명)의 용종 발견율에 큰 차이가 없는 것으로 나타났다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "변에서 혈흔이 보이는 사람은 용종 발견율이 51.2%(3개 이상 33.8%)였고, 혈흔이 없는 사람도 용종 발견율이 42.9%(3개 이상 25.5%)에 이르렀다는 것. 특히 1㎝ 이상의 진행성 용종 발견율의 경우에도 양성환자(9.8%)와 음성환자(5.4%)가 비슷했다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "대장암 검진은 현재 대변에 있는 혈흔을 찾아 선별 검사를 하고, 이 검사에서 이상이 발견된 경우에만 대장내시경 검사를 받을 수 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "만일 분변 검사에서 이상이 없을 때 대장내시경을 받으려면 자신이 비용 전액을 지불해야 한다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "정 과장은 \\\"분변 잠혈 검사에 너무 의존하면 안 될 것\\\"이라며 \\\"대장용종은 10~15년에 걸쳐 대장암으로 진행될 가능성이 높기 때문에 증상이 없어도 정기적으로 대장내시경을 받아야 할 것\\\"이라고 말했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 논문은 최근 열린 대한대장항문외과학회 춘계학술대회에서 발표됐다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "쓸모없는 분변 검사, 대장암 조기 발견할 방법이 없다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

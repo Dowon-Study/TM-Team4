@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193646",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "전립샘암 젊고 소득수준 높을수록 수술 선호",
+    "newsSubTitle": "을지대병원 박진성 교수 연구팀 한국인 전립샘암치료패턴 분석",
+    "newsContent": "[권선미 기자] 암 치료법도 나이·소득·거주지에 따라 다르다는 연구결과가 나왔다.\n젊고 소득이 높을수록 수술을 선호했다.\n반면 소득수준이 낮고 65세 이상으로 고령일수록 호르몬·방사선치료를 받았다.\n사회경제학적 차이에 따라 선호하는 치료방식이 달라진다는 의미다.\n을지대병원 비뇨기과 박진성 교수와 울산대 비뇨기과 안한종 교수 연구팀은 해마다 급증하고 있는 한국인 전립샘암 환자를 대상으로 1차적으로 어떻게 치료하는지를 분석했다.\n이번 연구는 2003년부터 2013년까지 전체 한국인의 2%인 무작위 표본인 100만명 이상의 빅데이터에서 전립샘암으로 새로 진단된 1382명의 환자 자료를 토대로 진행했다.\n연구팀에 따르면 지난 10년간 한국인 전립샘암 환자의 치료는 162% 급증했다.\n전립샘암 1차 치료방법으로는 수술적 치료가 크게 늘었다.\n2003년에 22.4%에 그쳤던 수술은 45.4%로 급증했다.\n반대로 60.3%에 달했던 호르몬치료는 같은 기간 45.4%로, 방사선치료도 2003년 17.2%에서 2013년 9.2%로 감소세를 보였다.\n수술적 치료는 개복수술이 점진적으로 증가했지만 2005년 로봇수술이 국내 도입된 이후 가파르게 증가하면서 2013년 개복/복강경 수술을 넘어섰다.\n을지대병원 비뇨기과 박진성 교수는 “나이·소득수준·거주지역 같은 사회경제적인 요소가 전립선암 1차 치료방법을 선택하는데 영향을 준다는 것을 확인할 수 있었다”며 “최근 한국인 남성에게 전립선암 발병이 급증하는 상황에서 향후 전립선암 환자를 위한 보건정책의 기초자료로 활용할 수 있을 것으로 기대한다”고 말했다.\n이번 연구는 대한암학회 국제학술지인 Cancer Research and Treatment 최근호에 실렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[권선미 기자] 암 치료법도 나이·소득·거주지에 따라 다르다는 연구결과가 나왔다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "젊고 소득이 높을수록 수술을 선호했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "반면 소득수준이 낮고 65세 이상으로 고령일수록 호르몬·방사선치료를 받았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사회경제학적 차이에 따라 선호하는 치료방식이 달라진다는 의미다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "을지대병원 비뇨기과 박진성 교수와 울산대 비뇨기과 안한종 교수 연구팀은 해마다 급증하고 있는 한국인 전립샘암 환자를 대상으로 1차적으로 어떻게 치료하는지를 분석했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 연구는 2003년부터 2013년까지 전체 한국인의 2%인 무작위 표본인 100만명 이상의 빅데이터에서 전립샘암으로 새로 진단된 1382명의 환자 자료를 토대로 진행했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연구팀에 따르면 지난 10년간 한국인 전립샘암 환자의 치료는 162% 급증했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "전립샘암 1차 치료방법으로는 수술적 치료가 크게 늘었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "2003년에 22.4%에 그쳤던 수술은 45.4%로 급증했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "반대로 60.3%에 달했던 호르몬치료는 같은 기간 45.4%로, 방사선치료도 2003년 17.2%에서 2013년 9.2%로 감소세를 보였다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "수술적 치료는 개복수술이 점진적으로 증가했지만 2005년 로봇수술이 국내 도입된 이후 가파르게 증가하면서 2013년 개복/복강경 수술을 넘어섰다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "을지대병원 비뇨기과 박진성 교수는 “나이·소득수준·거주지역 같은 사회경제적인 요소가 전립선암 1차 치료방법을 선택하는데 영향을 준다는 것을 확인할 수 있었다”며 “최근 한국인 남성에게 전립선암 발병이 급증하는 상황에서 향후 전립선암 환자를 위한 보건정책의 기초자료로 활용할 수 있을 것으로 기대한다”고 말했다.",
+        "sentenceSize": 173
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이번 연구는 대한암학회 국제학술지인 Cancer Research and Treatment 최근호에 실렸다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'케바케'인 줄 알았더니... 전립샘암, 젊고 소득 수준 높을수록 수술 선호",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

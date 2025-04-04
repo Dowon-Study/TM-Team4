@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198517",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "가나화랑서 용 관련 미술품전",
+    "newsSubTitle": "",
+    "newsContent": "새 천년 첫해인 2000년은 용의 해. 희망찬 비상과 날카로운 지혜를 상징하는 해인 만큼 기대가 크다.\n우리 조상들은 이 용을 어떻게 보고 그렸을까.\n가나아트센터는 `새천년, 용꿈을 꾸다'라는 주제로 용과 관련한 미술품을 선보여 새 천년을 색다르게 조망한다.\n전시작은 모두 80여점. 23일부터 내년 2월 6일까지 3개 전시장에서 관람객을 만난다.`용, 새천년의 비상'이라는 소주제의 제1전시장에서는 전통회화와 도자, 공예, 조각품 등 20점의 용 그림이 전시된다.\n구름에 싸여 신령스럽게 꿈틀거리는 운룡도를 비롯해 당당하고 힘차게 그려진 청화백자운룡문호, 잉어가 용이 돼 승천하기 전에 폭포를 타고 올라가는 등룡문화 등이 그것이다.\n제2전시장과 3전시장은`한국조각, 그 천년의 단면'이라는 제목으로 꾸며진다.\n이중 40점의 작품이 선보이는 제2전시장에는 조선시대의 석조와 목조, 청동조각, 공예작품이 소개된다.\n목동자상이나 석조나한상, 금동아미타여래좌상 등을 이곳에서 만날 수 있다.\n제3전시장에는 현대 조소작가 작품 20점이 나온다.\n60년대와 70년대에 한국조각미술을 대표했던 권진규를 비롯해 좌우균제미를 조형으로 보여준 문신, 경건한 감성과 지성으로 왕성한 활동을 하는 최종태의 작품이 출품된다.\n문의 ☎(02) 720-1020. [연합뉴스]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "새 천년 첫해인 2000년은 용의 해. 희망찬 비상과 날카로운 지혜를 상징하는 해인 만큼 기대가 크다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우리 조상들은 이 용을 어떻게 보고 그렸을까.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "가나아트센터는 `새천년, 용꿈을 꾸다'라는 주제로 용과 관련한 미술품을 선보여 새 천년을 색다르게 조망한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전시작은 모두 80여점. 23일부터 내년 2월 6일까지 3개 전시장에서 관람객을 만난다.`용, 새천년의 비상'이라는 소주제의 제1전시장에서는 전통회화와 도자, 공예, 조각품 등 20점의 용 그림이 전시된다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "구름에 싸여 신령스럽게 꿈틀거리는 운룡도를 비롯해 당당하고 힘차게 그려진 청화백자운룡문호, 잉어가 용이 돼 승천하기 전에 폭포를 타고 올라가는 등룡문화 등이 그것이다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "제2전시장과 3전시장은`한국조각, 그 천년의 단면'이라는 제목으로 꾸며진다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이중 40점의 작품이 선보이는 제2전시장에는 조선시대의 석조와 목조, 청동조각, 공예작품이 소개된다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "목동자상이나 석조나한상, 금동아미타여래좌상 등을 이곳에서 만날 수 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "제3전시장에는 현대 조소작가 작품 20점이 나온다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "60년대와 70년대에 한국조각미술을 대표했던 권진규를 비롯해 좌우균제미를 조형으로 보여준 문신, 경건한 감성과 지성으로 왕성한 활동을 하는 최종태의 작품이 출품된다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "문의 ☎(02) 720-1020. [연합뉴스]",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가나아트센터 <새천년, 용꿈을 꾸다>… 잉어가 용이 돼 승천하기 전에 폭포를 타고 올라가는 '이것' 전시",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

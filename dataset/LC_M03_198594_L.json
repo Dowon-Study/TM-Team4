@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198594",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[생활 한방] 청소년 아토피피부염",
+    "newsSubTitle": "간식은 인스턴트보다 과일로",
+    "newsContent": "아토피 피부염 환자 중에서 치료욕구가 가장 강하면서도 소외받는 시기가 바로 청소년기다.\n가려움 때문에 수면부족과 집중력이 저하돼 학업에 매진하지 못할 뿐 아니라 피부가 망가져 친구들에게서 따돌림을 받기도 하고, 이런 불만이 내성적이고 소심한 성격을 만들기 때문이다.\n청소년기의 아토피는 그 이전과 양상이 조금 다르다.\n접히는 부위 뿐 아니라 온몸으로 퍼지면서 동전 형태의 환부를 형성하는 성인형 증상을 보인다.\n외모에 대한 부담으로 스테로이드 사용이 빈번하고 증상에 따라 감정의 기복도 심하다.\n청소년기 아토피는 다른 연령대에 비해 치료가 더 어렵다.\n이 시기의 특성과 주변 여건에 문제가 있기 때문이다.\n당장 눈에 보이는 피부 트러블을 없애기 위해 과도하게 약을 쓰고, 바쁜 학업 때문에 편한 치료를 선호한다.\n그러나 청소년기 아토피 피부염엔 무엇보다 무절제한 식습관과 학업 스트레스 조절이 필요하다.\n당장 외모나 피부에 대한 과도한 집착을 버리라는 것이다.\n우선 운동으로 체력과 면역력을 길러보자.\n체질에 맞춰 태음인은 속보나 달리기 등의 유산소 운동을, 소양인은 하체근력 운동, 소음인은 시원한 수영 등으로 체질적 약점을 보완한다.\n운동 후에는 바로 몸을 씻되 가급적 비누사용을 자제한다.\n또 자극성 있는 일반 화장품보다는 체질에 맞는 한약재 성분의 체질별 한약로션을 바른다.\n음식은 사먹는 것보다 집에서 정갈하게 도시락을 챙겨준다.\n또 간식은 인스턴트 식품보다 과일 위주로 준비한다.\n태음인은 폐기(肺氣)를 도와주는 고구마.밤.배 등을, 소양인은 열기를 낮추는 감자.오이 등을, 또 소음인은 찹쌀죽.떡.꿀이 체질에 맞다.\n청뇌한방병원 이용원 원장 (www.chungnoi.co.kr)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아토피 피부염 환자 중에서 치료욕구가 가장 강하면서도 소외받는 시기가 바로 청소년기다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "가려움 때문에 수면부족과 집중력이 저하돼 학업에 매진하지 못할 뿐 아니라 피부가 망가져 친구들에게서 따돌림을 받기도 하고, 이런 불만이 내성적이고 소심한 성격을 만들기 때문이다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "청소년기의 아토피는 그 이전과 양상이 조금 다르다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "접히는 부위 뿐 아니라 온몸으로 퍼지면서 동전 형태의 환부를 형성하는 성인형 증상을 보인다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "외모에 대한 부담으로 스테로이드 사용이 빈번하고 증상에 따라 감정의 기복도 심하다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "청소년기 아토피는 다른 연령대에 비해 치료가 더 어렵다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 시기의 특성과 주변 여건에 문제가 있기 때문이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "당장 눈에 보이는 피부 트러블을 없애기 위해 과도하게 약을 쓰고, 바쁜 학업 때문에 편한 치료를 선호한다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그러나 청소년기 아토피 피부염엔 무엇보다 무절제한 식습관과 학업 스트레스 조절이 필요하다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "당장 외모나 피부에 대한 과도한 집착을 버리라는 것이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "우선 운동으로 체력과 면역력을 길러보자.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "체질에 맞춰 태음인은 속보나 달리기 등의 유산소 운동을, 소양인은 하체근력 운동, 소음인은 시원한 수영 등으로 체질적 약점을 보완한다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "운동 후에는 바로 몸을 씻되 가급적 비누사용을 자제한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또 자극성 있는 일반 화장품보다는 체질에 맞는 한약재 성분의 체질별 한약로션을 바른다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "음식은 사먹는 것보다 집에서 정갈하게 도시락을 챙겨준다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "또 간식은 인스턴트 식품보다 과일 위주로 준비한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "태음인은 폐기(肺氣)를 도와주는 고구마.밤.배 등을, 소양인은 열기를 낮추는 감자.오이 등을, 또 소음인은 찹쌀죽.떡.꿀이 체질에 맞다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "청뇌한방병원 이용원 원장 (www.chungnoi.co.kr)",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "청소년기 아토피 치료 '이것'이 중요하다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

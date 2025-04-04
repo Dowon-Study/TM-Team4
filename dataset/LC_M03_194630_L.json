@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194630",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "비타민 보충제 \\\"돈 낭비,건강을 해칠수도\\\"",
+    "newsSubTitle": "",
+    "newsContent": "(자료사진=중앙포토) 항산화제나 다른 비타민 복용이 심장질환이나 뇌졸중을 유발할수 있는 동맥내 혈전 생성 억제 효과가 없다는 연구결과가 나왔다.\n존홉킨스 대학의 구알라 박사팀이 최근에 시행된 16개의 임상시험 결과를 분석한 결과 비타민 보충제가 심장마비및 뇌졸중,심혈관 질환으로 부터의 사망을 예방하지 못하는 것으로 나타났다.\n연구팀은 비타민 B나 비타민C,E등의 항산화제가 이와 같은 질환에 대해 예방 효과가 일부 있을 것으로 기대했으나 기대와는 달리 효과가 없는 것으로 나타났으며 일부 연구에서는 심지어 해롭다는 결과가 나타났다고 밝혔다.\n구알라 박사팀은 비타민 보충제가 동맥경화를 예방하는 지를 보기 위해 엽산및 다른 비타민 B형 제제 또는 비타민 C,E등의 항산화 비타민 등의 효과를 테스트한 임상테스트 결과를 모았다.\n일부 연구에서 연구 참여자들은 한 개의 비타민 보충제를 복용한 반면 다른 연구에서 참여자들은 다양한 복합 비타민제를 복용했다.\n연구결과 어떤 비타민도 동맥경화의 진행속도를 늦추지 못해 구알라 박사는 \\\"최종 결과 비타민은 아무런 효과가 없다.\\\"고 말했다.\n구알라 박사는 그러나 비타민 보충제가 효과가 없다는 것이 식사가 중요하지 않다는 것을 의미하지 않는다고 말했다.\n그는 식사속의 영양소와 보충제속의 다량의 비타민이 기본적으로 다르다고 말했다.\n구알라 박사는 이와 같은 보충제에 의존하기 보다는 금연과 규칙적인 운동및 과일,야채,전곡류가 풍부한 균형있는 식사를 하는 것이 중요하다고 강조했다.\n그는 심혈관질환 예방을 위해 비타민 보충제에 의존하는 사람은 최소 돈을 쓸데없이 낭비하는 것이며 심지어는 건강을 해칠수도 있다고 말했다. 【서울=메디컬투데이/뉴시스】",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "(자료사진=중앙포토) 항산화제나 다른 비타민 복용이 심장질환이나 뇌졸중을 유발할수 있는 동맥내 혈전 생성 억제 효과가 없다는 연구결과가 나왔다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "존홉킨스 대학의 구알라 박사팀이 최근에 시행된 16개의 임상시험 결과를 분석한 결과 비타민 보충제가 심장마비및 뇌졸중,심혈관 질환으로 부터의 사망을 예방하지 못하는 것으로 나타났다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구팀은 비타민 B나 비타민C,E등의 항산화제가 이와 같은 질환에 대해 예방 효과가 일부 있을 것으로 기대했으나 기대와는 달리 효과가 없는 것으로 나타났으며 일부 연구에서는 심지어 해롭다는 결과가 나타났다고 밝혔다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "구알라 박사팀은 비타민 보충제가 동맥경화를 예방하는 지를 보기 위해 엽산및 다른 비타민 B형 제제 또는 비타민 C,E등의 항산화 비타민 등의 효과를 테스트한 임상테스트 결과를 모았다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "일부 연구에서 연구 참여자들은 한 개의 비타민 보충제를 복용한 반면 다른 연구에서 참여자들은 다양한 복합 비타민제를 복용했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구결과 어떤 비타민도 동맥경화의 진행속도를 늦추지 못해 구알라 박사는 \\\"최종 결과 비타민은 아무런 효과가 없다.\\\"고 말했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "구알라 박사는 그러나 비타민 보충제가 효과가 없다는 것이 식사가 중요하지 않다는 것을 의미하지 않는다고 말했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 식사속의 영양소와 보충제속의 다량의 비타민이 기본적으로 다르다고 말했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "구알라 박사는 이와 같은 보충제에 의존하기 보다는 금연과 규칙적인 운동및 과일,야채,전곡류가 풍부한 균형있는 식사를 하는 것이 중요하다고 강조했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그는 심혈관질환 예방을 위해 비타민 보충제에 의존하는 사람은 최소 돈을 쓸데없이 낭비하는 것이며 심지어는 건강을 해칠수도 있다고 말했다. 【서울=메디컬투데이/뉴시스】",
+        "sentenceSize": 92
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비타민과 항산화제의 배신? 좋은 줄만 알았던 영양제 효과 알고 보니...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

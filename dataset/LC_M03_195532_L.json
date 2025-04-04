@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195532",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"살 빼려다 멘탈까지 빠져\\\" 다이어트의 위험성",
+    "newsSubTitle": "",
+    "newsContent": "지나친 다이어트는 우울증을 유발한다는 연구가 나왔다.\n최근 서울대 의대 연구팀은 '영국 정신의학저널'에 체중 변화·신체크기와 우울증 사이 연관성을 분석한 연구 결과를 실었다.\n연구팀은 관련 논문 183건을 메타 분석했다.\n분석 결과 성별에 관계없이 체질량지수(BMI)가 18.5 이하 저체중(체중 미달)이 되면 우울증 위험이 커지는 사실을 발견했다.\n과체중일 경우에는 여성과 남성이 서로 다른 결과를 보였다.\n여성은 체질량 지수가 높을 경우 우울증 위험이 높은 것으로 나타났다.\n반면에 남성은 여성보다 지방이 불어날 경우 행복감을 느낄 가능성이 높다.\n연구팀은 \\\"여성은 남성보다 날씬해지고 싶다는 생각에 더 큰 영향을 받기 때문에 심리적 고통으로 우울증을 유발할 수 있지만, 남성은 과체중이 되면 우울증 위험이 현저하게 줄어드는 양상을 보였다\\\"고 설명했다.\n연구 결과를 검토한 영국 왕립 정신과협회 애그니스 에이턴 박사는 \\\"해당 연구는 최적의 영양 섭취가 심신 건강에 중요하다는 것을 보여준다\\\"고 말했다.\n이어 \\\"저체중과 비만 모두 우울증 위험 증가와 관련이 있다. 섭식장애를 가진 사람들은 대체로 체중을 감량하면 행복할 거라고 생각한다. 하지만 이번 결과는 기존 생각을 뒤집은 중요한 발견이다\\\"라고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지나친 다이어트는 우울증을 유발한다는 연구가 나왔다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 서울대 의대 연구팀은 '영국 정신의학저널'에 체중 변화·신체크기와 우울증 사이 연관성을 분석한 연구 결과를 실었다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구팀은 관련 논문 183건을 메타 분석했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "분석 결과 성별에 관계없이 체질량지수(BMI)가 18.5 이하 저체중(체중 미달)이 되면 우울증 위험이 커지는 사실을 발견했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "과체중일 경우에는 여성과 남성이 서로 다른 결과를 보였다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "여성은 체질량 지수가 높을 경우 우울증 위험이 높은 것으로 나타났다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "반면에 남성은 여성보다 지방이 불어날 경우 행복감을 느낄 가능성이 높다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구팀은 \\\"여성은 남성보다 날씬해지고 싶다는 생각에 더 큰 영향을 받기 때문에 심리적 고통으로 우울증을 유발할 수 있지만, 남성은 과체중이 되면 우울증 위험이 현저하게 줄어드는 양상을 보였다\\\"고 설명했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "연구 결과를 검토한 영국 왕립 정신과협회 애그니스 에이턴 박사는 \\\"해당 연구는 최적의 영양 섭취가 심신 건강에 중요하다는 것을 보여준다\\\"고 말했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이어 \\\"저체중과 비만 모두 우울증 위험 증가와 관련이 있다. 섭식장애를 가진 사람들은 대체로 체중을 감량하면 행복할 거라고 생각한다. 하지만 이번 결과는 기존 생각을 뒤집은 중요한 발견이다\\\"라고 덧붙였다.",
+        "sentenceSize": 116
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "다이어트로 마음의 건강 잃을 수도... 우울증과 어떤 관련성 있길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

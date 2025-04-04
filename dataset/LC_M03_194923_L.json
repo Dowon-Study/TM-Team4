@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194923",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "20세기를 움직인 名著 10",
+    "newsSubTitle": "",
+    "newsContent": "구텐베르크의 인쇄술은 수백년 동안 인류 문명 발전의 핵심적인 도구가 되었다.\n인간이 육체적 진화에서 문화적 진화로 비중을 옮긴 이래 문명 발전의 단계는 정보 전달 수단의 변화에 따라 크게 구획되어 왔다.\n수만년 전의 언어 발달이 첫 단계였다면 수천년 전의 문자 발명이 두번째 단계였고, 최근 수백년간 나타난 인쇄술에 의한 정보의 대량 유통이 세번째 단계였다고 할 수 있다.\n후세 사람들에게 20세기는 네번째 단계, 즉 멀티미디어의 단계로 넘어가는 전환기로 기억될 것 같다. 1백년 전 인쇄물이 정보 유통에서 차지하던 비중 가운데 상당부분이 텔레비전이나 컴퓨터 화면으로 넘어가 있다.\n이 이동은 계속 속도를 더해 이제 10여년 후면 인쇄물이 정보 유통의 중심적 위치를 벗어나게 될 것으로 예측되고 있다.\n양적 변화 뿐 아니라 질적 변화도 뚜렷해지고 있다.\n아직 컴퓨터가 취급하는 정보의 대부분은 인쇄물의 내용을 옮겨놓은 것이다.\n그러나 종이의 물리적 제약을 넘어서는 컴퓨터의 속성이 갈수록 적극적으로 활용되면서 정보의 형태가 다양해지고 있으며, 형태의 다양성은 정보 내용의 전개 양상에도 변화를 가져올 것으로 예상된다.\n50년 후의 인쇄물은 취미활동의 대상에 지나지 않게 되고 ‘아는 것이 힘’이라고 믿는 사람들은 책을 멀리 하게 될지도 모른다. 20세기는 ‘책이 세상을 움직이던’ 인류 문명 제3기 5백년 시대의 마지막 불꽃이 타오른 ‘回光返照期’답게 인쇄물의 역할이 최고조에 달한 시절이었다.\n문맹을 일종의 장애인으로 여길 만큼 문맹률이 낮아져 첨단 학술과 기술의 발전에서부터 서민의 오락에 이르기까지 인류의 거의 모든 지적 활동이 인쇄물을 매개로 펼쳐졌다.\n수많은 책들이 사람들의 생각과 행동에 크고 작은 영향을 끼쳤다.\n특정한 정보를 특정한 시점에 특정한 형태로 담아 많은 사람들에게 전해줌으로써 역사의 진행에 눈에 띄는 변화를 가져온 책들이 적지 않다.\n그중 대표적인 예 몇가지를 살펴보는 것도 20세기 역사를 되돌아보는 하나의 차분한 시각이 될 것이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "구텐베르크의 인쇄술은 수백년 동안 인류 문명 발전의 핵심적인 도구가 되었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "인간이 육체적 진화에서 문화적 진화로 비중을 옮긴 이래 문명 발전의 단계는 정보 전달 수단의 변화에 따라 크게 구획되어 왔다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "수만년 전의 언어 발달이 첫 단계였다면 수천년 전의 문자 발명이 두번째 단계였고, 최근 수백년간 나타난 인쇄술에 의한 정보의 대량 유통이 세번째 단계였다고 할 수 있다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "후세 사람들에게 20세기는 네번째 단계, 즉 멀티미디어의 단계로 넘어가는 전환기로 기억될 것 같다. 1백년 전 인쇄물이 정보 유통에서 차지하던 비중 가운데 상당부분이 텔레비전이나 컴퓨터 화면으로 넘어가 있다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 이동은 계속 속도를 더해 이제 10여년 후면 인쇄물이 정보 유통의 중심적 위치를 벗어나게 될 것으로 예측되고 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "양적 변화 뿐 아니라 질적 변화도 뚜렷해지고 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아직 컴퓨터가 취급하는 정보의 대부분은 인쇄물의 내용을 옮겨놓은 것이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러나 종이의 물리적 제약을 넘어서는 컴퓨터의 속성이 갈수록 적극적으로 활용되면서 정보의 형태가 다양해지고 있으며, 형태의 다양성은 정보 내용의 전개 양상에도 변화를 가져올 것으로 예상된다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "50년 후의 인쇄물은 취미활동의 대상에 지나지 않게 되고 ‘아는 것이 힘’이라고 믿는 사람들은 책을 멀리 하게 될지도 모른다. 20세기는 ‘책이 세상을 움직이던’ 인류 문명 제3기 5백년 시대의 마지막 불꽃이 타오른 ‘回光返照期’답게 인쇄물의 역할이 최고조에 달한 시절이었다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "문맹을 일종의 장애인으로 여길 만큼 문맹률이 낮아져 첨단 학술과 기술의 발전에서부터 서민의 오락에 이르기까지 인류의 거의 모든 지적 활동이 인쇄물을 매개로 펼쳐졌다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "수많은 책들이 사람들의 생각과 행동에 크고 작은 영향을 끼쳤다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "특정한 정보를 특정한 시점에 특정한 형태로 담아 많은 사람들에게 전해줌으로써 역사의 진행에 눈에 띄는 변화를 가져온 책들이 적지 않다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그중 대표적인 예 몇가지를 살펴보는 것도 20세기 역사를 되돌아보는 하나의 차분한 시각이 될 것이다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "20세기 역사를 되돌아보는 방법 중 하나는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

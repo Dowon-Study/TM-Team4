@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194652",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[맛있는주말] 세계도자기엑스포 外",
+    "newsSubTitle": "",
+    "newsContent": "■ 세계도자기엑스포는 오는 28일부터 다음달 2일까지 5일간 서울무역전시컨벤션센터 도자 박람회 '토야 테이블웨어 페스티벌(TOYA Tableware Festival)'을 연다. 이번 행사는 '우리 색깔 이야기-오방색'을 주제로 2006년 음식과 그릇의 트렌드를 보여준다.\n테이블 데코레이터 김영애씨가 테이블 세팅 강의를 하고, 영화 '왕의 남자'의 음식감독을 맡았던 김수진씨가 조선시대 음식과 상차림을 선보인다.\n참가비 어른 5000원, 어린이 3000원.031-645-0602. ■ 그랜드 힐튼 호텔 에이트리움 카페는 15일 와인 전문가로부터 와인 설명을 들으며 식사하는 프랑스 와인디너를 마련한다.\n프랑스산 레드 와인 두 가지, 화이트 와인 두 가지와 7가지 코스 요리로 구성. 참가비 6만8000원. 02-2287-8270. ■ 서울프라자호텔 토파즈 레스토랑은 오는 22일 프랑스 보르도 샤토 탈보(Chateau Talbot) 와인과 함께하는 '와인 앤 다인'행사를 벌인다.\n쇠고기 안심구이와 달팽이 요리 등 코스 요리에 맞춰 탈보 와인을 2000,2002,2003년 빈티지별로 시음할 수 있다.\n참가비는 12만원. 02-310-7374.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "■ 세계도자기엑스포는 오는 28일부터 다음달 2일까지 5일간 서울무역전시컨벤션센터 도자 박람회 '토야 테이블웨어 페스티벌(TOYA Tableware Festival)'을 연다. 이번 행사는 '우리 색깔 이야기-오방색'을 주제로 2006년 음식과 그릇의 트렌드를 보여준다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "테이블 데코레이터 김영애씨가 테이블 세팅 강의를 하고, 영화 '왕의 남자'의 음식감독을 맡았던 김수진씨가 조선시대 음식과 상차림을 선보인다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "참가비 어른 5000원, 어린이 3000원.031-645-0602. ■ 그랜드 힐튼 호텔 에이트리움 카페는 15일 와인 전문가로부터 와인 설명을 들으며 식사하는 프랑스 와인디너를 마련한다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "프랑스산 레드 와인 두 가지, 화이트 와인 두 가지와 7가지 코스 요리로 구성. 참가비 6만8000원. 02-2287-8270. ■ 서울프라자호텔 토파즈 레스토랑은 오는 22일 프랑스 보르도 샤토 탈보(Chateau Talbot) 와인과 함께하는 '와인 앤 다인'행사를 벌인다.",
+        "sentenceSize": 155
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "쇠고기 안심구이와 달팽이 요리 등 코스 요리에 맞춰 탈보 와인을 2000,2002,2003년 빈티지별로 시음할 수 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "참가비는 12만원. 02-310-7374.",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우리 색깔 오방색부터 프랑스 보르도 와인까지 즐길 수 있는 엑스포는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

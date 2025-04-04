@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194567",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "조인스아카데미, '웃음치료' 전문과정 개설",
+    "newsSubTitle": "웃음치료, 레크레이션 등 실전 치료기법 강의·실습 병행",
+    "newsContent": "조인스닷컴은 다음 달 3일부터 웃음치료와 레크리에이션을 중심으로 한 '펀(FUN)퍼포먼스' 1기 과정을 개설한다.\n펀(FUN) 강좌는 웃음으로 행복과 건강을 찾아주자는 취지로 만든 교육 프로그램. 조인스 '펀'과정은 행복디자이너로 유명한 최윤희씨를 비롯해, 시인이자 유머 컨설턴트 용혜원씨, 김창옥 연세대 사회교육원 교수, 웃음치료 전문가 김미진씨(분당 서울대병원 간호사), 곽동근 청소년 리더십 센터 소장, 유희 가톨릭대학 의류학과 교수 등 펀, 웃음치료, 레크리에이션 분야에서 전문가로 인정받은 20여 명이 강사로 나선다.\n이번 과정은 레크리에이션, 웃음치료 및 각종 치료기법에 대한 지식을 얻고 직접 체험하는 각종 실습을 통해 세상을 밝고 행복하게 하는 펀한 사람으로 성장하는 과정으로, 진정한 의미의 펀 인간으로 거듭나게 하는데 목적이 있다.\n조인스 '펀'강사로 나선 최윤희씨는 \\\"건강하게 살려면 웃어야 한다. 그러면 장동건, 이효리가 부럽지 않다. 새해엔 조인스닷컴과 함께 S라인 몸매보다 마음의 스마일 라인을 만들어보라\\\"고 추천했다.\n한편 조인스 '펀'과정은 오는 2월 3일부터 3월 31일까지 매주 토요일 오후 2시부터 9시까지 8주과정으로 진행되는데 수강료는 교재비를 포함해 77만원이며 선착순 모집한다.\n수료자는 소정의 검정을 거쳐 레크레이션과 웃음치료 1급 자격증을 취득할 수 있다.\n보다 자세한 사항은 조인스 헬스케어 아카데미(http://healthcare.joins.com/academy/fun/)를 참조하면 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "조인스닷컴은 다음 달 3일부터 웃음치료와 레크리에이션을 중심으로 한 '펀(FUN)퍼포먼스' 1기 과정을 개설한다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "펀(FUN) 강좌는 웃음으로 행복과 건강을 찾아주자는 취지로 만든 교육 프로그램. 조인스 '펀'과정은 행복디자이너로 유명한 최윤희씨를 비롯해, 시인이자 유머 컨설턴트 용혜원씨, 김창옥 연세대 사회교육원 교수, 웃음치료 전문가 김미진씨(분당 서울대병원 간호사), 곽동근 청소년 리더십 센터 소장, 유희 가톨릭대학 의류학과 교수 등 펀, 웃음치료, 레크리에이션 분야에서 전문가로 인정받은 20여 명이 강사로 나선다.",
+        "sentenceSize": 230
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 과정은 레크리에이션, 웃음치료 및 각종 치료기법에 대한 지식을 얻고 직접 체험하는 각종 실습을 통해 세상을 밝고 행복하게 하는 펀한 사람으로 성장하는 과정으로, 진정한 의미의 펀 인간으로 거듭나게 하는데 목적이 있다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "조인스 '펀'강사로 나선 최윤희씨는 \\\"건강하게 살려면 웃어야 한다. 그러면 장동건, 이효리가 부럽지 않다. 새해엔 조인스닷컴과 함께 S라인 몸매보다 마음의 스마일 라인을 만들어보라\\\"고 추천했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 조인스 '펀'과정은 오는 2월 3일부터 3월 31일까지 매주 토요일 오후 2시부터 9시까지 8주과정으로 진행되는데 수강료는 교재비를 포함해 77만원이며 선착순 모집한다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "수료자는 소정의 검정을 거쳐 레크레이션과 웃음치료 1급 자격증을 취득할 수 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "보다 자세한 사항은 조인스 헬스케어 아카데미(http://healthcare.joins.com/academy/fun/)를 참조하면 된다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "웃음으로 행복과 건강을... '펀퍼포먼스' 강사는?   ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

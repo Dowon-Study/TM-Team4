@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195002",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[인문/지성] '의사들의 전쟁'",
+    "newsSubTitle": "의학 발전은 편견과의 전쟁",
+    "newsContent": "의사들의 전쟁/핼 헬먼 지음, 이충 옮김/바다출판사, 1만2천원 가장 엄격한 기율이 강조되는 권력이 의학이고 따라서 의사의 권력은 절대적이다.\n환자는 자신의 몸을 송두리째 의사에게 맡긴다.\n차트에 적힌 의사의 처방 지시를 '명령(order)'라고 표현하는 것만 봐도 알 수 있다.\n이러한 절대적 권력 행사의 정통성은 말할 것도 없이 '근거를 갖춘 과학'에 있다.\n고대 이래로 수천년 동안 무당이 지녔던 권력을 한낱 중인 계급에 불과했던 의사들이 장악한 것도 과학에 힘입은 바 크다.\n그러나 오늘날 과학으로서의 현대의학은 저절로 이뤄진 게 아니다.\n미국 과학 저술가가 쓴 이 책은 끊임없이 '왜 '를 외치는 반골의 치열한 투쟁이 의학의 발전을 가져왔다고 보고 있다.\n믿기 어려운 일이지만 불과 19세기만 해도 유럽의 의사들은 시신을 만진 손으로 아기를 받았다.\n시신 해부와 부검을 의사의 명예와 특권으로 알아온 기득권 의사에게 손을 씻고 아기를 받는다는 것은 있을 수 없는 일이었기 때문이다.\n그러나 이 과정에서 많은 산모들이 산욕열이란 감염 질환으로 숨져야 했다.\n여기에 반기를 든 이가 헝가리 의사 제멜바이스다.\n그는 산모의 원인 모를 죽음이 의사의 불결한 손에 있음을 지적했다.\n그러나 관행과 기득권을 중시한 당시 의학계의 반발로 쫓겨나 돌팔이 취급받다 객지에서 쓸쓸히 죽어갔다.\n하긴 20세기에도 에테르 마취를 개발한 미국의 치과의사 모튼에 대해 당시 의학계는 '아프지 않고 하는 수술은 효과가 없다'는 터무니없는 주장을 펼쳤었다.\n책에선 제멜바이스를 포함해 모두 열가지 사례를 통해 현대의학이 어떻게 미신과 편견을 깨고 과학으로 정착하게 됐는지 구체적으로 보여준다. '세균은 물질이며 전염되지 않는다'란 기존 입장의 코흐와 리비히에 대해 '세균은 생물이며 전염된다'는 파스퇴르의 대결, 엑스선 회절 방식으로 오늘날 생물학 사상 최고의 업적으로 칭송받는 유전물질 DNA 발견을 가능케했으면서도 노벨상에선 제외된 영국의 여성 물리학자 프랭클린 등 흥미진진한 뒷얘기가 소개된다.\n진리란 결코 동시대 전문가의 투표 결과가 아닐 수 있다는 걸 확인해보는 것도 흥미롭다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "의사들의 전쟁/핼 헬먼 지음, 이충 옮김/바다출판사, 1만2천원 가장 엄격한 기율이 강조되는 권력이 의학이고 따라서 의사의 권력은 절대적이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "환자는 자신의 몸을 송두리째 의사에게 맡긴다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "차트에 적힌 의사의 처방 지시를 '명령(order)'라고 표현하는 것만 봐도 알 수 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이러한 절대적 권력 행사의 정통성은 말할 것도 없이 '근거를 갖춘 과학'에 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "고대 이래로 수천년 동안 무당이 지녔던 권력을 한낱 중인 계급에 불과했던 의사들이 장악한 것도 과학에 힘입은 바 크다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 오늘날 과학으로서의 현대의학은 저절로 이뤄진 게 아니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "미국 과학 저술가가 쓴 이 책은 끊임없이 '왜 '를 외치는 반골의 치열한 투쟁이 의학의 발전을 가져왔다고 보고 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "믿기 어려운 일이지만 불과 19세기만 해도 유럽의 의사들은 시신을 만진 손으로 아기를 받았다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "시신 해부와 부검을 의사의 명예와 특권으로 알아온 기득권 의사에게 손을 씻고 아기를 받는다는 것은 있을 수 없는 일이었기 때문이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그러나 이 과정에서 많은 산모들이 산욕열이란 감염 질환으로 숨져야 했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "여기에 반기를 든 이가 헝가리 의사 제멜바이스다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그는 산모의 원인 모를 죽음이 의사의 불결한 손에 있음을 지적했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그러나 관행과 기득권을 중시한 당시 의학계의 반발로 쫓겨나 돌팔이 취급받다 객지에서 쓸쓸히 죽어갔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "하긴 20세기에도 에테르 마취를 개발한 미국의 치과의사 모튼에 대해 당시 의학계는 '아프지 않고 하는 수술은 효과가 없다'는 터무니없는 주장을 펼쳤었다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "책에선 제멜바이스를 포함해 모두 열가지 사례를 통해 현대의학이 어떻게 미신과 편견을 깨고 과학으로 정착하게 됐는지 구체적으로 보여준다. '세균은 물질이며 전염되지 않는다'란 기존 입장의 코흐와 리비히에 대해 '세균은 생물이며 전염된다'는 파스퇴르의 대결, 엑스선 회절 방식으로 오늘날 생물학 사상 최고의 업적으로 칭송받는 유전물질 DNA 발견을 가능케했으면서도 노벨상에선 제외된 영국의 여성 물리학자 프랭클린 등 흥미진진한 뒷얘기가 소개된다.",
+        "sentenceSize": 247
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "진리란 결코 동시대 전문가의 투표 결과가 아닐 수 있다는 걸 확인해보는 것도 흥미롭다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "옛날이나 지금이나 의사의 말에 복종할 수 밖에 없는 현실... 이대로 괜찮을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195792",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "맛있는 자두 구입요령… 단단하고 윤기있는 것, 자두의 효능은 무엇?",
+    "newsSubTitle": "",
+    "newsContent": "맛있는 자두 구입요령… 단단하고 윤기있는 것, 자두의 효능은 무엇? 자두 제철을 맞아 맛있는 자두 구입요령이 포털사이트를 중심으로 화제가 되고 있다.\n여름이 제철인 자두는 다양한 영양소를 골고루 함유하고 있는 영양만점 과일이다.\n맛있는 자두를 구입하기 위해서는 어떤 자두를 골라야 할까.\n신선하고 맛있는 자두는 우선 껍질이 윤기가 나고 단단하다.\n자두의 효능과 특징은 어떤 것이 있을까.\n자두는 여름철 과일로 찬 성질이 있어 몸이 차가운 사람이 많이 먹으면 설사나 복통이 있을 수 있어 적당히 즐기는 것이 좋다.\n주의점으로는 산이 많이 함유돼 있기에 위장이 좋지 않은 사람은 속이 쓰릴 수도 있다.\n한편 자두의 대표적인 효능으로는 피로회복과 변비개선 등이 있다.\n온라인 중앙일보 '맛있는 자두 구입요령' [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "맛있는 자두 구입요령… 단단하고 윤기있는 것, 자두의 효능은 무엇? 자두 제철을 맞아 맛있는 자두 구입요령이 포털사이트를 중심으로 화제가 되고 있다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여름이 제철인 자두는 다양한 영양소를 골고루 함유하고 있는 영양만점 과일이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "맛있는 자두를 구입하기 위해서는 어떤 자두를 골라야 할까.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신선하고 맛있는 자두는 우선 껍질이 윤기가 나고 단단하다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "자두의 효능과 특징은 어떤 것이 있을까.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "자두는 여름철 과일로 찬 성질이 있어 몸이 차가운 사람이 많이 먹으면 설사나 복통이 있을 수 있어 적당히 즐기는 것이 좋다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "주의점으로는 산이 많이 함유돼 있기에 위장이 좋지 않은 사람은 속이 쓰릴 수도 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 자두의 대표적인 효능으로는 피로회복과 변비개선 등이 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 '맛있는 자두 구입요령' [사진 중앙포토]",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영양 만점의 여름철 과일 자두의 효과와 효능은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

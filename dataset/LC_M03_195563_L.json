@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195563",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "대상포진 치료제 ‘발트렉스정’ 품은 GSK",
+    "newsSubTitle": "",
+    "newsContent": "[김진구 기자] GSK가 2017년 1월부터 자사의 대상포진치료제 ‘발트렉스정’을 직접 판매한다.\n올해부터 GSK가 직접 판매를 시작한 발트렉스(성분명 Valaciclovir HCl)는 ▲대상포진 ▲초발 및 재발성 성기포진 감염증 ▲성기포진 감염증의 재발 억제 ▲안전한 성생활을 병행하는 경우 억제요법으로서 성기포진의 전염 감소 ▲신장이식 후 거대세포바이러스 감염 예방 ▲구순포진 ▲면역기능이 정상인 2~18세 수두 등 7가지 적응증을 가지고 있다.\n특히 발트렉스는 구순포진에는 하루(1회 2000mg, 1일 2회), 대상포진에는 일주일(1회 1000mg, 1일 3회)만 경구 투여해 복약이 편리하다.\n또한 발트렉스와 아시클로비르(Acyclovir)의 대상포진에 대한 효능 및 안전성을 비교한 임상시험 결과, 발트렉스를 복용환 환자군에서 대상포진의 통증 지속 기간은 물론, 최소 6개월 동안 통증이 지속된 환자의 비율 역시 유의하게 감소한 것으로 나타났다.\n아시클로비르와 유사한 안전성 프로파일도 입증했다.\n발트렉스 브랜드 매니저 황범순 과장은 “발트렉스는 우수한 치료효과와 내약성을 가진 대상포진치료제”라며 “올해 자사 직접 판매를 시작으로 포진으로 고통 받는 환자들에게 유용한 치료옵션으로 더 많은 혜택을 제공할 수 있을 것”이라고 기대했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] GSK가 2017년 1월부터 자사의 대상포진치료제 ‘발트렉스정’을 직접 판매한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "올해부터 GSK가 직접 판매를 시작한 발트렉스(성분명 Valaciclovir HCl)는 ▲대상포진 ▲초발 및 재발성 성기포진 감염증 ▲성기포진 감염증의 재발 억제 ▲안전한 성생활을 병행하는 경우 억제요법으로서 성기포진의 전염 감소 ▲신장이식 후 거대세포바이러스 감염 예방 ▲구순포진 ▲면역기능이 정상인 2~18세 수두 등 7가지 적응증을 가지고 있다.",
+        "sentenceSize": 196
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 발트렉스는 구순포진에는 하루(1회 2000mg, 1일 2회), 대상포진에는 일주일(1회 1000mg, 1일 3회)만 경구 투여해 복약이 편리하다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 발트렉스와 아시클로비르(Acyclovir)의 대상포진에 대한 효능 및 안전성을 비교한 임상시험 결과, 발트렉스를 복용환 환자군에서 대상포진의 통증 지속 기간은 물론, 최소 6개월 동안 통증이 지속된 환자의 비율 역시 유의하게 감소한 것으로 나타났다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아시클로비르와 유사한 안전성 프로파일도 입증했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "발트렉스 브랜드 매니저 황범순 과장은 “발트렉스는 우수한 치료효과와 내약성을 가진 대상포진치료제”라며 “올해 자사 직접 판매를 시작으로 포진으로 고통 받는 환자들에게 유용한 치료옵션으로 더 많은 혜택을 제공할 수 있을 것”이라고 기대했다.",
+        "sentenceSize": 133
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "GSK가 직접 판매하는 '발트렉스정'의 효능은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

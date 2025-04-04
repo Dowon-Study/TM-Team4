@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195922",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "라면 먼저 스프먼저? 희대의 난제…\\\"순서에 따라 맛이 미묘하게 달라져\\\"",
+    "newsSubTitle": "",
+    "newsContent": "라면 먼저 스프먼저? 희대의 난제…\\\"순서에 따라 맛이 미묘하게 달라져\\\" 맛있는 라면을 끓이기 위해 라면이 먼저일까 스프가 먼저일까?\n이에 대한 주장은 사람마다 너무도 다르다.\n순서에 따라 라면의 맛이 미묘하게 달라지는데 여기에도 과학적 근거가 숨어있다.\n우선 ‘맛있는 라면’을 정의하자면 스프의 짭잘함이 적당히 면에 베어 면이 탱탱하게 익은 라면이다.\n여기에서 면이 익는 정도는 끓는 물의 온도와 조리 시간과 연관이 있다.\n순수한 물은 외부압력이 1기압일 때 섭씨 100도에서 끓어 기화하지만, 같은 대기압 하에서 물에 무언가 다른 물질이 녹아 있다면 물의 끓는점이 상승한다. ‘끓는점 오름’ 현상이 일어나는 것이다.\n따라서 물에 스프가 녹아 있을수록 더 높은 온도인 105도 내외에서 끓게 되는데, 이때 면을 넣어야 면이 빨리 익는다.\n물이 끓기 전에 스프를 넣어 물의 끓는점 보다 높은 온도에서 가열해야 면이 빨리 익게 되고 스프의 향이 깊게 베인다.\n따라서 라면 먼저 스프 먼저의 과학적 정답은 스프 먼저인 셈이다.\n물론 라면의 맛은 ‘물의 양’에서 결판이 난다고 해도 무방하기 때문에 라면 먼저 넣든, 스프 먼저 넣든, 혹은 면과 스프를 같이 넣든 맛의 차이를 크게 느끼지는 못할 것이다.\n온라인 중앙일보 ‘라면먼저 스프먼저’[사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "라면 먼저 스프먼저? 희대의 난제…\\\"순서에 따라 맛이 미묘하게 달라져\\\" 맛있는 라면을 끓이기 위해 라면이 먼저일까 스프가 먼저일까?",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이에 대한 주장은 사람마다 너무도 다르다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "순서에 따라 라면의 맛이 미묘하게 달라지는데 여기에도 과학적 근거가 숨어있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "우선 ‘맛있는 라면’을 정의하자면 스프의 짭잘함이 적당히 면에 베어 면이 탱탱하게 익은 라면이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여기에서 면이 익는 정도는 끓는 물의 온도와 조리 시간과 연관이 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "순수한 물은 외부압력이 1기압일 때 섭씨 100도에서 끓어 기화하지만, 같은 대기압 하에서 물에 무언가 다른 물질이 녹아 있다면 물의 끓는점이 상승한다. ‘끓는점 오름’ 현상이 일어나는 것이다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "따라서 물에 스프가 녹아 있을수록 더 높은 온도인 105도 내외에서 끓게 되는데, 이때 면을 넣어야 면이 빨리 익는다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "물이 끓기 전에 스프를 넣어 물의 끓는점 보다 높은 온도에서 가열해야 면이 빨리 익게 되고 스프의 향이 깊게 베인다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "따라서 라면 먼저 스프 먼저의 과학적 정답은 스프 먼저인 셈이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "물론 라면의 맛은 ‘물의 양’에서 결판이 난다고 해도 무방하기 때문에 라면 먼저 넣든, 스프 먼저 넣든, 혹은 면과 스프를 같이 넣든 맛의 차이를 크게 느끼지는 못할 것이다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인 중앙일보 ‘라면먼저 스프먼저’[사진 중앙포토]",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘맛있는 라면’, 면과 스프 어느 것 먼저? 정답은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

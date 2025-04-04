@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194962",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "무용가 최승희 北에서의 모습은",
+    "newsSubTitle": "어린 시절부터 담은 사진집 출간",
+    "newsContent": "▶ 1956년 최승희가 남편 안막과 딸 성희와 함께 찍은 가족사진. 전설적인 월북 무용수 최승희(1911~?)에 대한 본격적인 사진 자료집이 나왔다. '최승희-격동의 시대를 살다간 어느 무용가의 생애와 예술'(눈빛출판사, 2만8000원)은 다큐멘터리 '세기의 무희-최승희'를 제작했던 정수웅(61) 감독이 지난 10여년간 모은 사진을 엮은 책이다.\n정씨는 \\\"1992년부터 일본.중국.러시아.미국.프랑스 등지를 돌며 사진과 필름을 수집했다\\\"며 \\\"어린 시절부터 중국.북한에서 활동했던 사진까지 포함됐다\\\"고 말했다.\n또 최승희의 마지막 모습으로 알려진 66년의 영상자료와 육성 기록, 최승희의 최후에 관한 증언도 들어 있다.\n특히 저자가 94년에 안제승.김백봉씨 등과 나눈 대담 내용이 눈에 띈다.\n안제승(1922~96)씨는 최승희의 남편 안막의 친동생으로 북한에서 최승희 무용연구소 부감독으로 일했던 인물이다.\n또 김백봉씨는 최승희의 직계 제자였다.\n이들은 일제 시대에 일본 무용을 흉내낼 것을 강요받고 일본군과 만주군의 위문공연에 끌려다녔던 일에 대해 최승희가 매우 괴로워했다고 전하고 있다.\n북한으로 건너간 최승희는 나중에 친일 활동이 문제가 되면서 숙청을 당했다.\n중국으로 탈출하다 사망했다는 증언은 있으나 아직 정확한 사망 연도와 사유는 알려져 있지 않다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "▶ 1956년 최승희가 남편 안막과 딸 성희와 함께 찍은 가족사진. 전설적인 월북 무용수 최승희(1911~?)에 대한 본격적인 사진 자료집이 나왔다. '최승희-격동의 시대를 살다간 어느 무용가의 생애와 예술'(눈빛출판사, 2만8000원)은 다큐멘터리 '세기의 무희-최승희'를 제작했던 정수웅(61) 감독이 지난 10여년간 모은 사진을 엮은 책이다.",
+        "sentenceSize": 194
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정씨는 \\\"1992년부터 일본.중국.러시아.미국.프랑스 등지를 돌며 사진과 필름을 수집했다\\\"며 \\\"어린 시절부터 중국.북한에서 활동했던 사진까지 포함됐다\\\"고 말했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 최승희의 마지막 모습으로 알려진 66년의 영상자료와 육성 기록, 최승희의 최후에 관한 증언도 들어 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 저자가 94년에 안제승.김백봉씨 등과 나눈 대담 내용이 눈에 띈다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "안제승(1922~96)씨는 최승희의 남편 안막의 친동생으로 북한에서 최승희 무용연구소 부감독으로 일했던 인물이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 김백봉씨는 최승희의 직계 제자였다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이들은 일제 시대에 일본 무용을 흉내낼 것을 강요받고 일본군과 만주군의 위문공연에 끌려다녔던 일에 대해 최승희가 매우 괴로워했다고 전하고 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "북한으로 건너간 최승희는 나중에 친일 활동이 문제가 되면서 숙청을 당했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "중국으로 탈출하다 사망했다는 증언은 있으나 아직 정확한 사망 연도와 사유는 알려져 있지 않다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전설적인 월북 무용수 최승희의 모습을 볼 수 있다… 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

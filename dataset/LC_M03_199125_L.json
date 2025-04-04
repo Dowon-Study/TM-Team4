@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199125",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "전남대병원- 中 연변대학부속병원과 MOU",
+    "newsSubTitle": "공동 학술연구, 학술교류 위한 정보교환 등 추진",
+    "newsContent": "전남대병원과 중국 연변대학부속병원이 25일 연변대학부속병원에서 MOU를 체결했다.\n이날 협약식에는 윤택림 전남대병원장을 비해한 윤명하 진료처장·정신 화순전남대병원 전 진료처장·이근배 의생명연구원장·윤경철 홍보실장 등 방문단과 연변대학부속병원 김철호 병원장 등 양 기관 관계자 20여명이 참석했다.\n협약에 따라 양 병원은 ▲공동 학술연구 ▲의료인·직원 및 환자 상호교류 ▲학술교류를 위한 정보와 자료 교환 등을 추진할 계획이다.\n전남대병원의 이번 방문은 지난해 김철호 병원장 등 연변대학부속병원 방문단이 전남대병원 개원 105주년 기념식에 참석한데 대한 답으로 이뤄진 것이다.\n방문단은 이번 방문 기간 중 열린 연변대학부속병원 개원 70주년 기념식에도 참석했으며, 연변대학부속병원 의료진과 직원들을 대상으로 강의와 토론의 시간도 가졌다.\n윤택림 병원장은 “이번 협약을 통해 양 병원이 세계적인 의료기관으로 거듭날 수 있는 발판이 되길 바란다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전남대병원과 중국 연변대학부속병원이 25일 연변대학부속병원에서 MOU를 체결했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 협약식에는 윤택림 전남대병원장을 비해한 윤명하 진료처장·정신 화순전남대병원 전 진료처장·이근배 의생명연구원장·윤경철 홍보실장 등 방문단과 연변대학부속병원 김철호 병원장 등 양 기관 관계자 20여명이 참석했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "협약에 따라 양 병원은 ▲공동 학술연구 ▲의료인·직원 및 환자 상호교류 ▲학술교류를 위한 정보와 자료 교환 등을 추진할 계획이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전남대병원의 이번 방문은 지난해 김철호 병원장 등 연변대학부속병원 방문단이 전남대병원 개원 105주년 기념식에 참석한데 대한 답으로 이뤄진 것이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방문단은 이번 방문 기간 중 열린 연변대학부속병원 개원 70주년 기념식에도 참석했으며, 연변대학부속병원 의료진과 직원들을 대상으로 강의와 토론의 시간도 가졌다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "윤택림 병원장은 “이번 협약을 통해 양 병원이 세계적인 의료기관으로 거듭날 수 있는 발판이 되길 바란다”고 말했다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전남대병원, '이들'과 MOU 체결해... 추진 계획은 무엇일까",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

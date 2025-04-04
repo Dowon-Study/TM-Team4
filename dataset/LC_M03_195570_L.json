@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195570",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[땅이야기 맛이야기] 전남(18) 장터에서 먹던 옛 맛, 목포식당",
+    "newsSubTitle": "한국국토정보공사 함평지사 직원이 추천하는 맛집",
+    "newsContent": "80년 세월 고스란히 녹아든 생고깃집 전남 함평에서 유명한 것 중 하나가 바로 한우다.\n한국관광공사가 지정한 음식테마거리에는 생고기, 육회로 유명한 식당이 있다.\n그 중 '목포식당'은 약 80년 이력을 지닌 곳으로 시골집 같은 정겨운 분위기가 인상적이다.\n오래된 가옥 두 채를 연결해 만든 방, 문짝 등 오랜 세월의 흔적이 역력하다.\n허름해도 청결 유지는 필수다.\n이는 오픈된 주방을 통해 확인할 수 있다.\n신선한 암소 생고기 맛볼 수 있어 이곳은 암소고기를 주로 사용한다.\n도축을 하지 않는 일요일을 제외하고는 그날 잡은 신선한 소고기를 생고기로 맛볼 수 있다.\n접시를 뒤집어도 고기 하나 떨어지지 않을 만큼 육질이 차지다.\n곁들여내는 기름장에 찍어 먹으면 씹을수록 진한 풍미가 가득하다.\n찬은 배추, 상추 등 바로 무쳐내는 겉절이와 묵은 김치, 양파김치 등 육류에 곁들이기 좋은 것들로 구성했다.\n돼지비계로 고소함 더한 육회비빔밥 인기 '목포식당'의 인기 메뉴는 육회비빔밥이다.\n고명이 올라간 비빔밥에 육회가 푸짐하게 들어가 남녀노소 즐겨 찾는다.\n특히 돼지비계를 넣어 고소함을 더했다는 점이 특징이다.\n소고기가 귀하던 시절 그 맛을 대신하기 위해 돼지비계를 넣었는데 지금은 하나의 별미가 됐다.\n고추장보다는 고춧가루와 고추기름 위주의 양념장이라 식재료 고유의 맛을 느낄 수 있다.\n숨은 공신은 서비스로 제공하는 선짓국 사실 육회비빔밥보다 더 유명한 음식은 따로 있다.\n바로 선짓국이다.\n선지를 큼지막하게 뭉텅뭉텅 썰어 넣어 맑은 국물로 끓여낸다.\n특유의 감칠맛에 일부러 선짓국을 맛보러 찾는 손님도 꽤 된다.\n각 테이블마다 서비스로 제공하고 있는데 리필을 요청하면 대접에 내 줄 정도로 인심까지 후하다.\n출처. 한국국토정보공사, 2016 땅이야기 맛이야기",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "80년 세월 고스란히 녹아든 생고깃집 전남 함평에서 유명한 것 중 하나가 바로 한우다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국관광공사가 지정한 음식테마거리에는 생고기, 육회로 유명한 식당이 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 중 '목포식당'은 약 80년 이력을 지닌 곳으로 시골집 같은 정겨운 분위기가 인상적이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오래된 가옥 두 채를 연결해 만든 방, 문짝 등 오랜 세월의 흔적이 역력하다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "허름해도 청결 유지는 필수다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이는 오픈된 주방을 통해 확인할 수 있다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "신선한 암소 생고기 맛볼 수 있어 이곳은 암소고기를 주로 사용한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "도축을 하지 않는 일요일을 제외하고는 그날 잡은 신선한 소고기를 생고기로 맛볼 수 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "접시를 뒤집어도 고기 하나 떨어지지 않을 만큼 육질이 차지다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "곁들여내는 기름장에 찍어 먹으면 씹을수록 진한 풍미가 가득하다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "찬은 배추, 상추 등 바로 무쳐내는 겉절이와 묵은 김치, 양파김치 등 육류에 곁들이기 좋은 것들로 구성했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "돼지비계로 고소함 더한 육회비빔밥 인기 '목포식당'의 인기 메뉴는 육회비빔밥이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "고명이 올라간 비빔밥에 육회가 푸짐하게 들어가 남녀노소 즐겨 찾는다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "특히 돼지비계를 넣어 고소함을 더했다는 점이 특징이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "소고기가 귀하던 시절 그 맛을 대신하기 위해 돼지비계를 넣었는데 지금은 하나의 별미가 됐다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "고추장보다는 고춧가루와 고추기름 위주의 양념장이라 식재료 고유의 맛을 느낄 수 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "숨은 공신은 서비스로 제공하는 선짓국 사실 육회비빔밥보다 더 유명한 음식은 따로 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "바로 선짓국이다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "선지를 큼지막하게 뭉텅뭉텅 썰어 넣어 맑은 국물로 끓여낸다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "특유의 감칠맛에 일부러 선짓국을 맛보러 찾는 손님도 꽤 된다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "각 테이블마다 서비스로 제공하고 있는데 리필을 요청하면 대접에 내 줄 정도로 인심까지 후하다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "출처. 한국국토정보공사, 2016 땅이야기 맛이야기",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전남 장터 맛집, 목포 식당의 인기 메뉴는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

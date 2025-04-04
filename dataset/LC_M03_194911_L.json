@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194911",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "현대미술관 '신소장품' 展",
+    "newsSubTitle": "",
+    "newsContent": "국립현대미술관(관장 오광수) 의 소장품이 4천점을 돌파했다.\n국립현대미술관은 최근 \\\"지난해 심전 안중식의 '산수' 를 포함한 1백76점을 구입, 총 4천20점을 소장하게 됐다\\\" 고 밝혔다.\n지난 한햇동안 구입한 작품은 7일부터 4월 9일까지 열리는 '신소장품' 전에서 소개한다.\n신소장품은 구입한 것이 78점, 기증받은 것이 98점이다.\n구입작에는 일본에서 발굴한 이인성의 수채화 '카이유' 가, 기증작에는 한국관광공사가 기증한 운보 김기창의 '군마도' 등 근대미술품 62점이 포함돼 있다.\n1910년대부터 60년대까지의 작품이 71점으로 약 40%를 차지한다. 69년 개관한 국립현대미술관은 71년부터 작품 수집을 시작해 약 30년 만에 4천여점을 확보하게 됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국립현대미술관(관장 오광수) 의 소장품이 4천점을 돌파했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국립현대미술관은 최근 \\\"지난해 심전 안중식의 '산수' 를 포함한 1백76점을 구입, 총 4천20점을 소장하게 됐다\\\" 고 밝혔다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 한햇동안 구입한 작품은 7일부터 4월 9일까지 열리는 '신소장품' 전에서 소개한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신소장품은 구입한 것이 78점, 기증받은 것이 98점이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "구입작에는 일본에서 발굴한 이인성의 수채화 '카이유' 가, 기증작에는 한국관광공사가 기증한 운보 김기창의 '군마도' 등 근대미술품 62점이 포함돼 있다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1910년대부터 60년대까지의 작품이 71점으로 약 40%를 차지한다. 69년 개관한 국립현대미술관은 71년부터 작품 수집을 시작해 약 30년 만에 4천여점을 확보하게 됐다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국립현대미술관, 최근 1백 76점 작품 구입...  총 소장품 수는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

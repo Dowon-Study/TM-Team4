@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198921",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[한 끗 리빙] 맛있는 딸기 고르려면 꼭지에 주목",
+    "newsSubTitle": "",
+    "newsContent": "딸기는 익을수록 꼭지가 몸체에서 떨어져 위로 올라온다.\n때문에 꼭지가 위로 향해 있는 것일수록 달콤한 ‘설탕딸기’일 확률이 높다.\n간혹 딸기 모양이 넓적하게 생긴 게 더 맛있다는 정보도 있지만 사실 딸기 모양과 맛은 상관관계가 없다.\n단 꼭지가 위로 올라와 있어도 마르거나 누렇게 변한 것은 너무 익었거나 딴 지 오래된 것이니 피한다.\n또 씨 색깔이 선명하고 통통한 것일수록, 표면이 물을 흠뻑 머금은 듯 탱탱하고 반질반질 윤기가 흐를수록 싱싱하다.\n색은 꼭지가 있는 부분까지 빨갛게 익은 것을 선택하고 새콤하고 달콤한 향이 강하게 나는 것을 고르면 실패가 없다.\n새콤한 향 없이 쨈처럼 단 향만 강하게 난다면 상하기 직전이라는 신호다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "딸기는 익을수록 꼭지가 몸체에서 떨어져 위로 올라온다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "때문에 꼭지가 위로 향해 있는 것일수록 달콤한 ‘설탕딸기’일 확률이 높다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "간혹 딸기 모양이 넓적하게 생긴 게 더 맛있다는 정보도 있지만 사실 딸기 모양과 맛은 상관관계가 없다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "단 꼭지가 위로 올라와 있어도 마르거나 누렇게 변한 것은 너무 익었거나 딴 지 오래된 것이니 피한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 씨 색깔이 선명하고 통통한 것일수록, 표면이 물을 흠뻑 머금은 듯 탱탱하고 반질반질 윤기가 흐를수록 싱싱하다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "색은 꼭지가 있는 부분까지 빨갛게 익은 것을 선택하고 새콤하고 달콤한 향이 강하게 나는 것을 고르면 실패가 없다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "새콤한 향 없이 쨈처럼 단 향만 강하게 난다면 상하기 직전이라는 신호다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "맛있고 잘 익은 딸기 고르려면 '이것'에 주목... 실패 없어",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

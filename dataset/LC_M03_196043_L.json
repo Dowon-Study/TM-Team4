@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196043",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "'겨울철 건선 주의' 특히 중년 남성에 많은 이유가",
+    "newsSubTitle": "",
+    "newsContent": "중년 남성 건선 주의 소식이 네티즌 사이 화제다.\n겨울철 건조주의보가 내려진 가운데 가려움증으로 고생하는 중년 남성들이 늘고 있다.\n단순 피부 건조증이라고 그냥 넘기다가 몸에 붉은 반점까지 나타나는 경우도 나타나고 있다.\n몸에 붉은 반점이 나타나면 건선을 의심해야 한다.\n건선은 단순한 가려움증이 아니라 심하면 고름이 생기고 피부 각질이 떨어져 나가는 염증의 한 종류다.\n주로 팔꿈치나, 무릎, 엉덩이에서 생기는데 유전적인 요인 외에도 약물이나 스트레스 같은 것들이 중년 남성 건선의 이유가 된다.\n피부가 건조할수록 증상이 악화하지만 술과 담배도 가려움증을 더 악화시킨다.\n이 때문에 여성보다는 남성 환자가 많다.\n그 중에서도 절반 이상이 사회생활이 왕성한 30~50대에 몰려 있다.\n한 피부과 전문의는 “피부에 자극을 주지 않는 것, 때를 밀지 않고 인설을 뜯지 않고, 피부보습에 신경 써야 한다”고 중년 남성 건선 주의에 대해 말했다.\n중년 남성 건선 주의에 대해 전문의들은 “심하지만 않다면 건선은 대부분 연고를 발라주면 증상이 가라앉는 만큼 초기에 병원을 찾는 것이 중요하다”고 조언했다.\n온라인 중앙일보 ‘겨울철 건선 주의’. [사진 YTN 뉴스 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중년 남성 건선 주의 소식이 네티즌 사이 화제다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "겨울철 건조주의보가 내려진 가운데 가려움증으로 고생하는 중년 남성들이 늘고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "단순 피부 건조증이라고 그냥 넘기다가 몸에 붉은 반점까지 나타나는 경우도 나타나고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "몸에 붉은 반점이 나타나면 건선을 의심해야 한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "건선은 단순한 가려움증이 아니라 심하면 고름이 생기고 피부 각질이 떨어져 나가는 염증의 한 종류다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "주로 팔꿈치나, 무릎, 엉덩이에서 생기는데 유전적인 요인 외에도 약물이나 스트레스 같은 것들이 중년 남성 건선의 이유가 된다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "피부가 건조할수록 증상이 악화하지만 술과 담배도 가려움증을 더 악화시킨다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 때문에 여성보다는 남성 환자가 많다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그 중에서도 절반 이상이 사회생활이 왕성한 30~50대에 몰려 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한 피부과 전문의는 “피부에 자극을 주지 않는 것, 때를 밀지 않고 인설을 뜯지 않고, 피부보습에 신경 써야 한다”고 중년 남성 건선 주의에 대해 말했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "중년 남성 건선 주의에 대해 전문의들은 “심하지만 않다면 건선은 대부분 연고를 발라주면 증상이 가라앉는 만큼 초기에 병원을 찾는 것이 중요하다”고 조언했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "온라인 중앙일보 ‘겨울철 건선 주의’. [사진 YTN 뉴스 캡처]",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'겨울철 건선 주의' 특히 중년 남성에 많은 이유가 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

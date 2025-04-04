@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_196296",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "아모레퍼시픽, 업계 최초 '리필 스테이션' 운영…\\\"친환경 가치 제고\\\"",
+    "newsSubTitle": "\\\"경제적이면서도 친환경적인 경험 가능\\\"",
+    "newsContent": "아모레퍼시픽(대표이사 회장 서경배)이 국내 화장품 업계 최초로 '리필 스테이션'을 운영한다고 27일 밝혔다.\n리필 스테이션은 샴푸와 바디워시 제품의 내용물만을 소분 판매하는 방식으로 운영되며 10월 중순 오픈한 '아모레스토어 광교' 매장 내 핵심 공간에 위치해 있다.\n샴푸와 바디워시 15개 제품 중 희망하는 제품의 내용물을 원하는 만큼, 코코넛 껍질로 만든 리필용 용기에 충전하는 형태다.\n아모레퍼시픽 관계자는 미디어SR에 \\\"용기는 재활용하고 내용물은 상시 할인하기에 경제적이면서도 친환경적인 경험이 가능하다\\\"고 설명했다.\n제조 후 100일 이내 내용물을 사용하며 리필에 앞서 자외선 LED 램프로 용기를 살균 처리하는 등 이용 고객들에게 신선함과 안심감을 제공한다.\n아모레퍼시픽 지속가능경영 디비전 오정화 상무는 \\\"리필 상품과 판매 방식의 변화라는 시대적 요구에 맞춰 리필 스테이션을 처음 선보이게 됐다\\\"며 \\\"새로운 경험과 친환경 가치, 수준 높은 서비스로 고객들의 높은 호응이 기대된다\\\"고 밝혔다.\n한편, 아모레퍼시픽은 지난 20일라이프스타일센터 '앨리웨이 광교'에 아모레스토어 광교를 열었다.\n아모레퍼시픽의 40여개 브랜드, 2000여개 제품을 한 자리에서 만날 수 있는 체험형 뷰티매장이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아모레퍼시픽(대표이사 회장 서경배)이 국내 화장품 업계 최초로 '리필 스테이션'을 운영한다고 27일 밝혔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "리필 스테이션은 샴푸와 바디워시 제품의 내용물만을 소분 판매하는 방식으로 운영되며 10월 중순 오픈한 '아모레스토어 광교' 매장 내 핵심 공간에 위치해 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "샴푸와 바디워시 15개 제품 중 희망하는 제품의 내용물을 원하는 만큼, 코코넛 껍질로 만든 리필용 용기에 충전하는 형태다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아모레퍼시픽 관계자는 미디어SR에 \\\"용기는 재활용하고 내용물은 상시 할인하기에 경제적이면서도 친환경적인 경험이 가능하다\\\"고 설명했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "제조 후 100일 이내 내용물을 사용하며 리필에 앞서 자외선 LED 램프로 용기를 살균 처리하는 등 이용 고객들에게 신선함과 안심감을 제공한다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아모레퍼시픽 지속가능경영 디비전 오정화 상무는 \\\"리필 상품과 판매 방식의 변화라는 시대적 요구에 맞춰 리필 스테이션을 처음 선보이게 됐다\\\"며 \\\"새로운 경험과 친환경 가치, 수준 높은 서비스로 고객들의 높은 호응이 기대된다\\\"고 밝혔다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 아모레퍼시픽은 지난 20일라이프스타일센터 '앨리웨이 광교'에 아모레스토어 광교를 열었다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아모레퍼시픽의 40여개 브랜드, 2000여개 제품을 한 자리에서 만날 수 있는 체험형 뷰티매장이다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전 세계 최초 '리필 스테이션' 오픈한 아모레퍼시픽... \"고객들의 높은 호응 기대\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

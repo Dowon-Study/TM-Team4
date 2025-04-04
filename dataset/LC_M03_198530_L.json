@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198530",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[이달의 책] 끝 없는 공부 열정에 감탄 또 감탄",
+    "newsSubTitle": "",
+    "newsContent": "공부 9단 오기 10단 박원희 지음 김영사, 266쪽, 9900원 *** 목표를 향한 열정 [joon2100] 우리는 살아가면서 자신이 진정 원하고 바라는 것에 시간과 열정을 투자해 결과물을 얻곤 한다.\n진정 가치 있는 ‘무엇’을 얻으려면 정열을 바쳐야 한다는 진리를 깨닫게 하는 책이다.\n*** 공부는 오기만으로는 안 될 것 같은데 …[gold-bell] 한때 수학을 못하던 박원희 양이 민족사관고에 진학하기 위해 이를 악물고 공부했던 이야기를 비롯해 민족사관고를 2년 만에 졸업하고 미국 10개 명문대에 동시 합격하기까지의 과정을 그리고 있다.\n재미있게 글을 전개해 책장 하나하나를 넘길 때마다 집안일을 해야 한다는 강박관념 속에서도 책 읽기를 멈출 수가 없었다.\n그렇지만 한순간 허무해졌다.\n내 아이들에게 박원희 양과 같은 환경을 만들어 줄 수 없기 때문이었다.\n그래도 열심히 공부하는 아이들을 생각하며 오히려 나 자신을 추스른다.\n*** 근성있는 여고생의 솔직한 공부성공기! [heily] 지방에서 서울의 중학교로 전학간 후 집단 따돌림을 당하던 시절의 고백으로 시작한 이야기가 참 솔직하다.\n그 시절 그 느낌 그대로를 십대 소녀의 예민함으로 절절히 써냈다고나 할까.\n중학교에서는 전교 몇 손가락 안에 들지만 전국의 난다 긴다 하는 수재들의 집합소인 민족사관고를 목표로 하고 있는 만큼 불안해하면서도 계속 노력하는 지은이의 승부근성은 놀라울 따름이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "공부 9단 오기 10단 박원희 지음 김영사, 266쪽, 9900원 *** 목표를 향한 열정 [joon2100] 우리는 살아가면서 자신이 진정 원하고 바라는 것에 시간과 열정을 투자해 결과물을 얻곤 한다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "진정 가치 있는 ‘무엇’을 얻으려면 정열을 바쳐야 한다는 진리를 깨닫게 하는 책이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "*** 공부는 오기만으로는 안 될 것 같은데 …[gold-bell] 한때 수학을 못하던 박원희 양이 민족사관고에 진학하기 위해 이를 악물고 공부했던 이야기를 비롯해 민족사관고를 2년 만에 졸업하고 미국 10개 명문대에 동시 합격하기까지의 과정을 그리고 있다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "재미있게 글을 전개해 책장 하나하나를 넘길 때마다 집안일을 해야 한다는 강박관념 속에서도 책 읽기를 멈출 수가 없었다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그렇지만 한순간 허무해졌다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "내 아이들에게 박원희 양과 같은 환경을 만들어 줄 수 없기 때문이었다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그래도 열심히 공부하는 아이들을 생각하며 오히려 나 자신을 추스른다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "*** 근성있는 여고생의 솔직한 공부성공기! [heily] 지방에서 서울의 중학교로 전학간 후 집단 따돌림을 당하던 시절의 고백으로 시작한 이야기가 참 솔직하다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그 시절 그 느낌 그대로를 십대 소녀의 예민함으로 절절히 써냈다고나 할까.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "중학교에서는 전교 몇 손가락 안에 들지만 전국의 난다 긴다 하는 수재들의 집합소인 민족사관고를 목표로 하고 있는 만큼 불안해하면서도 계속 노력하는 지은이의 승부근성은 놀라울 따름이다.",
+        "sentenceSize": 102
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "<공부 9단 오기 10단>... '이 학교' 진학하려고 이 악물고 공부했던 이야기",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

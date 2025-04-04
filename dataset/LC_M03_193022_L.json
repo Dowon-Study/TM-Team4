@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193022",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[서소문사진관] 23일 정오 텅빈 서울 도심, 코로나 19 대확산의 긴장감만 가득",
+    "newsSubTitle": "",
+    "newsContent": "23일 정오, 서울 도심은 텅 비었다.\n이날 낮 서울 날씨는 나들이하기에 좋았다.\n기온이 조금 높았지만, 공기는 깨끗하고 파란 하늘엔 뭉게구름이 피어올랐다.\n긴 장마에 지친 시민들이 가족과 함께 바깥바람을 쐬기에 더없이 좋았다.\n하지만 시내엔 오가는 사람이 거의 없었다.\n텅 빈 거리엔 코로나 19 대확산의 기로에 선 긴장감만 가득했다.\n수도권을 중심으로 코로나 19가 급격하게 확산하고 있다.\n중앙방역대책본부는 23일 0시 기준으로 국내 코로나 19 신규 확진자가 397명 나왔다고 밝혔다.\n지난 3월 7일 483명 이후 169일 만에 가장 많은 수다. 정은경 방대본 본부장은 전날 브리핑에서 \\\"주말이 가장 큰 고비\\\"라고 말했다.\n그는 집에 머물러 있으라고 거듭거듭 당부했다.\n그 당부가 통했는지 서울 도심은 인적조차 드물었다.\n시청 곁 공유 자전거가 찾는 사람 없이 쉬고 있다.\n도로도 인도도 텅 비었다.\n공유서비스용 '킥 고잉'도 오늘은 찾는 사람이 없다.\n청계광장도 텅 비었다.\n광화문사거리 건널목 한가운데의 시원한 그늘도 비어 있다.\n광화문광장도 오가는 사람이 거의 없다.\n서울 시청역 개찰구도 인적이 거의 없다.\n정은경 방대본 본부장은 이날 브리핑에서 \\\"부주의와 방심이 타인의 생업과 학업을 방해한다\\\"며 \\\"마스크를 제대로 쓰는 것이 가장 중요하다\\\"고 강조했다.\n서울시도 브리핑을 통해 상황 악화를 막기 위해 23일 자정부터 '마스크 사용 의무화'를 실시한다고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "23일 정오, 서울 도심은 텅 비었다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 낮 서울 날씨는 나들이하기에 좋았다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "기온이 조금 높았지만, 공기는 깨끗하고 파란 하늘엔 뭉게구름이 피어올랐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "긴 장마에 지친 시민들이 가족과 함께 바깥바람을 쐬기에 더없이 좋았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 시내엔 오가는 사람이 거의 없었다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "텅 빈 거리엔 코로나 19 대확산의 기로에 선 긴장감만 가득했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "수도권을 중심으로 코로나 19가 급격하게 확산하고 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "중앙방역대책본부는 23일 0시 기준으로 국내 코로나 19 신규 확진자가 397명 나왔다고 밝혔다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지난 3월 7일 483명 이후 169일 만에 가장 많은 수다. 정은경 방대본 본부장은 전날 브리핑에서 \\\"주말이 가장 큰 고비\\\"라고 말했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그는 집에 머물러 있으라고 거듭거듭 당부했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그 당부가 통했는지 서울 도심은 인적조차 드물었다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "시청 곁 공유 자전거가 찾는 사람 없이 쉬고 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "도로도 인도도 텅 비었다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "공유서비스용 '킥 고잉'도 오늘은 찾는 사람이 없다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "청계광장도 텅 비었다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "광화문사거리 건널목 한가운데의 시원한 그늘도 비어 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "광화문광장도 오가는 사람이 거의 없다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "서울 시청역 개찰구도 인적이 거의 없다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "정은경 방대본 본부장은 이날 브리핑에서 \\\"부주의와 방심이 타인의 생업과 학업을 방해한다\\\"며 \\\"마스크를 제대로 쓰는 것이 가장 중요하다\\\"고 강조했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "서울시도 브리핑을 통해 상황 악화를 막기 위해 23일 자정부터 '마스크 사용 의무화'를 실시한다고 밝혔다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코로나 19 확산 점점 늘어... 서울 시내의 충격적 현실",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

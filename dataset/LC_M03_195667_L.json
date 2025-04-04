@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195667",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "중년부터 하는 운동이 치매 예방에 효과적",
+    "newsSubTitle": "",
+    "newsContent": "중년부터 시작한 규칙적인 운동이 나중에 치매 위험을 줄인다는 연구 결과가 나왔다.\n호주 멜버른 대학의 카산드라 스조에크 박사 연구팀은 최근 이 같은 내용을 담은 연구 결과를 ‘미국 노인 정신의학 저널(American Journal of Geriatric Psychiatry)’ 최신호에 발표했다고 영국 일간 데일리메일이 12일(현지시간) 보도했다.\n연구 결과에 따르면 가벼운 걷기나 등산 등 종류에 상관없이 중년부터 규칙적으로 운동을 한 사람들이 그렇지 않은 사람보다 노년(65세 이상)에 치매에 걸릴 확률이 줄어드는 것으로 나타났다.\n1992년부터 진행된 ‘여성의 건강 노화 프로젝트’에 참가한 45~55세 여성 387명을 대상으로 한 조사에서다. 20년에 걸친 종단 연구로 진행된 이 조사에서 연구팀은 11차례에 걸쳐 피험자의 운동, 식사, 흡연 등 생활습관과 신장, 체중, 혈압, 호르몬 수치 등 조사했다.\n이후 스조에크 박사팀은 언어삽화기억(Verbal Episodic Memory) 능력 테스트를 진행했다.\n단어 10개를 보여주고 30분 후 다시 기억해내는 인지능력 테스트다.\n그 결과 운동을 ‘자주’ 그리고 ‘많이’ 한 집단에서 기억력 저하 차단 효과가 큰 것으로 나타났다.\n스조에크 박사는 “치매를 막으려면 중년부터는 어떤 형태든 몸을 많이 자주 움직이라”면서 “치매는 증상이 나타나기 20~30년 전부터 서서히 진행되는 만큼 중년부터 예방해야 한다”고 강조했다.\n뇌세포는 일단 손상되면 회복이 어렵기 때문에 기억력 저하를 막기 위해 끊임없이 노력해야 된다는 의미다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중년부터 시작한 규칙적인 운동이 나중에 치매 위험을 줄인다는 연구 결과가 나왔다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "호주 멜버른 대학의 카산드라 스조에크 박사 연구팀은 최근 이 같은 내용을 담은 연구 결과를 ‘미국 노인 정신의학 저널(American Journal of Geriatric Psychiatry)’ 최신호에 발표했다고 영국 일간 데일리메일이 12일(현지시간) 보도했다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구 결과에 따르면 가벼운 걷기나 등산 등 종류에 상관없이 중년부터 규칙적으로 운동을 한 사람들이 그렇지 않은 사람보다 노년(65세 이상)에 치매에 걸릴 확률이 줄어드는 것으로 나타났다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "1992년부터 진행된 ‘여성의 건강 노화 프로젝트’에 참가한 45~55세 여성 387명을 대상으로 한 조사에서다. 20년에 걸친 종단 연구로 진행된 이 조사에서 연구팀은 11차례에 걸쳐 피험자의 운동, 식사, 흡연 등 생활습관과 신장, 체중, 혈압, 호르몬 수치 등 조사했다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 스조에크 박사팀은 언어삽화기억(Verbal Episodic Memory) 능력 테스트를 진행했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "단어 10개를 보여주고 30분 후 다시 기억해내는 인지능력 테스트다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 결과 운동을 ‘자주’ 그리고 ‘많이’ 한 집단에서 기억력 저하 차단 효과가 큰 것으로 나타났다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "스조에크 박사는 “치매를 막으려면 중년부터는 어떤 형태든 몸을 많이 자주 움직이라”면서 “치매는 증상이 나타나기 20~30년 전부터 서서히 진행되는 만큼 중년부터 예방해야 한다”고 강조했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "뇌세포는 일단 손상되면 회복이 어렵기 때문에 기억력 저하를 막기 위해 끊임없이 노력해야 된다는 의미다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "호주 연구팀 \"치매 위험 줄일 방법 찾았다\"… 무엇이길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

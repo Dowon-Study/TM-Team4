@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195674",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] ‘아벡솔 비즈왁스알코올’ 가정의 달 기념 40% 할인 행사",
+    "newsSubTitle": "",
+    "newsContent": "벌은 인간에게 많은 이로움을 준다.\n비타민·미네랄·아미노산이 풍부한 벌꿀과 로열젤리, 병균이나 바이러스로부터 자신을 보호하기 위해 만들어내는 천연 항생제 프로폴리스, 그리고 민간요법으로 디스크 치료에 사용하는 봉독(蜂毒)까지 다양하다.\n여기에 최근에는 벌집 밀랍에서 추출한 ‘비즈왁스알코올(Beeswax alcohol)’이 위의 기능 개선에 도움이 된다고 알려지면서 주목을 받고 있다.\n장수국가 쿠바의 건강 비결로 알려진 비즈왁스알코올은 식품의약품안전처로부터 위 건강에 도움을 줄 수 있다는 내용으로 기능성(생리활성 2등급)을 개별 인정받았다.\n건강기능식품 중 위 건강 기능성을 인정받은 것은 비즈왁스알코올이 최초다.\n충분한 인체적용시험과 동물실험을 통해 위 산도에는 영향을 미치지 않으면서 위·식도 역류 병변을 감소시킨다는 효과를 입증했다.\n위 건강뿐 아니라 관절 건강, 항산화에도 도움을 줄 수 있다는 점에 대해 식약처로부터 인정을 받았다.\n건강기능식품 전문 기업인 우리레인보우는 가정의 달 5월을 맞아 오는 6일까지 가격 할인 이벤트를 실시한다.\n백화점 우리레인보우 전 매장과 온라인 쇼핑몰(www.rainboweshop.com)에서 40% 할인된 가격에 ‘아벡솔 비즈왁스알코올’(사진)을 구입할 수 있다.\n● 문의 080-033-2200",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "벌은 인간에게 많은 이로움을 준다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "비타민·미네랄·아미노산이 풍부한 벌꿀과 로열젤리, 병균이나 바이러스로부터 자신을 보호하기 위해 만들어내는 천연 항생제 프로폴리스, 그리고 민간요법으로 디스크 치료에 사용하는 봉독(蜂毒)까지 다양하다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "여기에 최근에는 벌집 밀랍에서 추출한 ‘비즈왁스알코올(Beeswax alcohol)’이 위의 기능 개선에 도움이 된다고 알려지면서 주목을 받고 있다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "장수국가 쿠바의 건강 비결로 알려진 비즈왁스알코올은 식품의약품안전처로부터 위 건강에 도움을 줄 수 있다는 내용으로 기능성(생리활성 2등급)을 개별 인정받았다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "건강기능식품 중 위 건강 기능성을 인정받은 것은 비즈왁스알코올이 최초다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "충분한 인체적용시험과 동물실험을 통해 위 산도에는 영향을 미치지 않으면서 위·식도 역류 병변을 감소시킨다는 효과를 입증했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "위 건강뿐 아니라 관절 건강, 항산화에도 도움을 줄 수 있다는 점에 대해 식약처로부터 인정을 받았다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "건강기능식품 전문 기업인 우리레인보우는 가정의 달 5월을 맞아 오는 6일까지 가격 할인 이벤트를 실시한다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "백화점 우리레인보우 전 매장과 온라인 쇼핑몰(www.rainboweshop.com)에서 40% 할인된 가격에 ‘아벡솔 비즈왁스알코올’(사진)을 구입할 수 있다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "● 문의 080-033-2200",
+        "sentenceSize": 17
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "쓰리고 시린 위장에 즉효약인 비즈왁스알코올, 초특가로 구매할 수 있는 곳 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

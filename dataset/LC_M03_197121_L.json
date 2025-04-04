@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197121",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "부인이 전한 고은 시인 표정 “시인은 묵묵히 글 쓰고 있어”",
+    "newsSubTitle": "",
+    "newsContent": "한국 최초의 노벨 문학상 수상이라는 꿈은 올해도 접어야 했다.\n한국의 고은(74·사진) 시인은 올해도 유력 후보로 거론됐으나 수상의 영광은 다시 물거품이 됐다.\n노벨 문학상 수상자 발표일인 11일. 경기도 안성 고은 시인의 집앞은 올해도 100여 명의 국내외 취재진으로 북적였다.\n골목은 취재 차량 30여 대로 가득 찼고, 지상파 방송국 중계차도 모두 출동했다.\n그러나 시인의 자택은 이날 하루 종일 잠겨 있었다.\n오전 9시쯤, 시인은 일하는 아주머니에게 “오후 7시쯤 들어오겠다”며 아내 이상화(59·중앙대 영어학과) 교수와 함께 집을 나섰다.\n이 교수는 10일 전화 통화에서 “시인은 여느 때와 다름 없이 묵묵히 글을 쓰고 있을 따름”이라며 “언론의 성화에 선생님도 불편하시다”고 털어놨다.\n오후 8시 올해 수상자로 영국 작가 도리스 레싱이 선정됐다는 소식이 전해지자 취재진도 하나둘씩 철수를 시작했다.\n시인은 오후 9시가 넘어도 귀가하지 않았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국 최초의 노벨 문학상 수상이라는 꿈은 올해도 접어야 했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국의 고은(74·사진) 시인은 올해도 유력 후보로 거론됐으나 수상의 영광은 다시 물거품이 됐다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "노벨 문학상 수상자 발표일인 11일. 경기도 안성 고은 시인의 집앞은 올해도 100여 명의 국내외 취재진으로 북적였다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "골목은 취재 차량 30여 대로 가득 찼고, 지상파 방송국 중계차도 모두 출동했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 시인의 자택은 이날 하루 종일 잠겨 있었다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오전 9시쯤, 시인은 일하는 아주머니에게 “오후 7시쯤 들어오겠다”며 아내 이상화(59·중앙대 영어학과) 교수와 함께 집을 나섰다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 교수는 10일 전화 통화에서 “시인은 여느 때와 다름 없이 묵묵히 글을 쓰고 있을 따름”이라며 “언론의 성화에 선생님도 불편하시다”고 털어놨다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오후 8시 올해 수상자로 영국 작가 도리스 레싱이 선정됐다는 소식이 전해지자 취재진도 하나둘씩 철수를 시작했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "시인은 오후 9시가 넘어도 귀가하지 않았다.",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이번에도 노벨상은... 후끈 달아오른 관심에도 묵묵히 글 쓰는 고은",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

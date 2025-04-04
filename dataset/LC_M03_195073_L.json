@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195073",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 운동·영양·우울증 반년간 관리받은 어르신, 30개월간 요양병원 입소율 13%뿐",
+    "newsSubTitle": "",
+    "newsContent": "병원리포트 서울아산병원 노년내과 장일영 교수팀 나이가 들면 노화로 인해 신체 기능이 전반적으로 감소한다.\n체력·지구력, 생리적 기능이 떨어지면서 일상생활에 어려움을 겪고 잔병치레가 잦아진다.\n이른바 노쇠가 시작되는 것이다.\n단, 노화는 막을 수 없어도 노쇠는 예방이 가능하다.\n국내 의료진이 고령층에 특화해 개발한 노쇠 예방 프로그램이 황혼기 삶의 질은 물론 생존 기간 연장에도 도움이 된다는 연구결과가 나왔다.\n서울아산병원 노년내과 장일영 교수팀은 강원도 평창군 보건의료원과 함께 평균 77세의 노인 380여 명을 대상으로 6개월간 노쇠 예방 프로그램을 적용한 결과 이 같은 사실을 확인했다고 밝혔다.\n연구팀이 개발한 노쇠 예방 프로그램은 맞춤 그룹 운동과 영양·우울증 관리, 복용 약 조절, 낙상 위험 요인 제거 등으로 구성돼 있다.\n맞춤 그룹 운동은 스쿼트·플랭크와 같은 근력 운동과 한쪽 발 들고 서 있기 등 균형 운동, 빨리 걷기를 포함한 유산소 운동을 각각 20분씩 실천하도록 구성됐다.\n1회당 총 60분, 일주일에 2회씩 매달 강도를 조금씩 높여가며 실시했다.\n이 밖에 연구팀은 우울증 관리를 위해 고위험 노인에게 매달 전문적인 상담과 약물치료를 진행하고, 탄수화물·단백질·지방, 필수아미노산이 함유된 음식을 하루 두 번씩 제공해 고른 영양 섭취를 도왔다.\n먹는 약을 통합적으로 관리해 꼭 필요한 약만 먹을 수 있도록 조정하는 한편 간호사가 주기적으로 가정을 방문해 조명 밝기를 높이고 바닥의 전선과 이불·카펫을 정리하는 등 낙상 위험 요인을 제거했다.\n결과는 놀라웠다.\n장 교수팀이 노쇠 예방 프로그램을 받은 노인 187명과 그렇지 않은 노인 196명을 비교 분석한 결과, 노쇠를 전문적으로 관리한 그룹은 30개월간 요양병원에 가지 않고 생존한 비율이 87%로 그렇지 않은 그룹(64.9%)보다 20% 이상 높았다.\n요양병원에 가지 않고 생존한 기간도 노쇠 예방 프로그램을 적용한 그룹은 평균 28.5개월로 참여하지 않은 그룹(23.3개월)보다 반년 정도 길었다.\n건강한 상태로 일상적인 생활을 더 오래 유지했다는 의미다.\n그동안 노쇠 예방 프로그램의 단기적인 효과에 대한 연구는 있었지만, 프로그램이 종료된 후 장기적인 생존율과 건강 효과를 분석한 연구는 거의 없었다.\n장일영 교수는 “노쇠를 효과적으로 예방하려면 신체·정신 건강과 외부 환경 등을 종합적으로 관리해야 한다”며 “전문적인 노쇠 예방 프로그램이 고령층의 삶의 질과 건강 개선에 도움이 된 것으로 나타난 만큼 앞으로도 지역사회와 협력해 관련 연구를 지속해서 진행해 나갈 예정”이라고 말했다.\n한편 이번 연구는 영국 노인의학학회에서 발간하는 국제학술지 ‘나이와 노화(Age and Ageing)’에 최근 게재됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "병원리포트 서울아산병원 노년내과 장일영 교수팀 나이가 들면 노화로 인해 신체 기능이 전반적으로 감소한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "체력·지구력, 생리적 기능이 떨어지면서 일상생활에 어려움을 겪고 잔병치레가 잦아진다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이른바 노쇠가 시작되는 것이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "단, 노화는 막을 수 없어도 노쇠는 예방이 가능하다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "국내 의료진이 고령층에 특화해 개발한 노쇠 예방 프로그램이 황혼기 삶의 질은 물론 생존 기간 연장에도 도움이 된다는 연구결과가 나왔다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서울아산병원 노년내과 장일영 교수팀은 강원도 평창군 보건의료원과 함께 평균 77세의 노인 380여 명을 대상으로 6개월간 노쇠 예방 프로그램을 적용한 결과 이 같은 사실을 확인했다고 밝혔다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연구팀이 개발한 노쇠 예방 프로그램은 맞춤 그룹 운동과 영양·우울증 관리, 복용 약 조절, 낙상 위험 요인 제거 등으로 구성돼 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "맞춤 그룹 운동은 스쿼트·플랭크와 같은 근력 운동과 한쪽 발 들고 서 있기 등 균형 운동, 빨리 걷기를 포함한 유산소 운동을 각각 20분씩 실천하도록 구성됐다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "1회당 총 60분, 일주일에 2회씩 매달 강도를 조금씩 높여가며 실시했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 밖에 연구팀은 우울증 관리를 위해 고위험 노인에게 매달 전문적인 상담과 약물치료를 진행하고, 탄수화물·단백질·지방, 필수아미노산이 함유된 음식을 하루 두 번씩 제공해 고른 영양 섭취를 도왔다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "먹는 약을 통합적으로 관리해 꼭 필요한 약만 먹을 수 있도록 조정하는 한편 간호사가 주기적으로 가정을 방문해 조명 밝기를 높이고 바닥의 전선과 이불·카펫을 정리하는 등 낙상 위험 요인을 제거했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "결과는 놀라웠다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "장 교수팀이 노쇠 예방 프로그램을 받은 노인 187명과 그렇지 않은 노인 196명을 비교 분석한 결과, 노쇠를 전문적으로 관리한 그룹은 30개월간 요양병원에 가지 않고 생존한 비율이 87%로 그렇지 않은 그룹(64.9%)보다 20% 이상 높았다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "요양병원에 가지 않고 생존한 기간도 노쇠 예방 프로그램을 적용한 그룹은 평균 28.5개월로 참여하지 않은 그룹(23.3개월)보다 반년 정도 길었다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "건강한 상태로 일상적인 생활을 더 오래 유지했다는 의미다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "그동안 노쇠 예방 프로그램의 단기적인 효과에 대한 연구는 있었지만, 프로그램이 종료된 후 장기적인 생존율과 건강 효과를 분석한 연구는 거의 없었다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "장일영 교수는 “노쇠를 효과적으로 예방하려면 신체·정신 건강과 외부 환경 등을 종합적으로 관리해야 한다”며 “전문적인 노쇠 예방 프로그램이 고령층의 삶의 질과 건강 개선에 도움이 된 것으로 나타난 만큼 앞으로도 지역사회와 협력해 관련 연구를 지속해서 진행해 나갈 예정”이라고 말했다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "한편 이번 연구는 영국 노인의학학회에서 발간하는 국제학술지 ‘나이와 노화(Age and Ageing)’에 최근 게재됐다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "노화는 막을 수 없어도 노쇠는 예방 가능... 어떻게?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

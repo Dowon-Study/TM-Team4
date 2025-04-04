@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197643",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "수원 다문화·저소득·한부모 가정 자녀, 유적지 탐방 통해 한국 역사 배워",
+    "newsSubTitle": "",
+    "newsContent": "지난달 28일 '북촌, 한옥길 따라 조선의 정취에 빠지다' 행사에 나선 학생들이 포즈를 취했다.\n/한국다문화교육·상담센터 제공 경기 수원시 다문화·저소득·한부모 가정 자녀들이 국내 유적지 탐방에 나섰다.\n한국다문화교육·상담센터는지난달 28일 다문화·저소득·한부모 가정 자녀 30여 명을 상대로 한국 역사를 배워보는 '다(多)다리 배움터' 현장 학습 2차 프로그램을 진행했다고 3일 밝혔다.\n센터는이날 '북촌 한옥길 따라 조선의 정취에 빠지다'란 주제로 참가자들이 서울 북촌과 국립현대미술관,인사동, 한국미술관을 탐방하며한국 역사를 직·간접적으로 체험케 했다.\n이 배움터는 GKL사회공헌재단이 후원하고 한국다문화교육·상담센터가 주관·운영하는 초·중·고교과정으로 국어, 영어, 다문화 교육, 역사, 음악 등 다채로운 프로그램을 운영하고 있다.\n지난 8월에는 이 배움터차원에서 30여 명의 학생이여주시 명성황후 생가, 신륵사, 영월루, 세종대왕영릉, 여주박물관 등을 방문했다.\n특히학생들은 역사 탐방 프로그램에 높은 관심과 만족도를 나타냈다.\n서종남 센터장은 \\\"'한국 역사 속으로'를 주제로 다문화·저소득·한부모 가정 자녀들이 행복한 다문화 사회 속에서 한국을 알아갈 수 있게 하기 위해 현장 학습 프로그램을 진행하고 있다\\\"라며 \\\"청소년이 이 프로그램을 통해 역사의식을 키우고 함께 어울려 사는 공동체 의식도 함양했으면 한다\\\"라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지난달 28일 '북촌, 한옥길 따라 조선의 정취에 빠지다' 행사에 나선 학생들이 포즈를 취했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "/한국다문화교육·상담센터 제공 경기 수원시 다문화·저소득·한부모 가정 자녀들이 국내 유적지 탐방에 나섰다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국다문화교육·상담센터는지난달 28일 다문화·저소득·한부모 가정 자녀 30여 명을 상대로 한국 역사를 배워보는 '다(多)다리 배움터' 현장 학습 2차 프로그램을 진행했다고 3일 밝혔다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "센터는이날 '북촌 한옥길 따라 조선의 정취에 빠지다'란 주제로 참가자들이 서울 북촌과 국립현대미술관,인사동, 한국미술관을 탐방하며한국 역사를 직·간접적으로 체험케 했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 배움터는 GKL사회공헌재단이 후원하고 한국다문화교육·상담센터가 주관·운영하는 초·중·고교과정으로 국어, 영어, 다문화 교육, 역사, 음악 등 다채로운 프로그램을 운영하고 있다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 8월에는 이 배움터차원에서 30여 명의 학생이여주시 명성황후 생가, 신륵사, 영월루, 세종대왕영릉, 여주박물관 등을 방문했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히학생들은 역사 탐방 프로그램에 높은 관심과 만족도를 나타냈다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "서종남 센터장은 \\\"'한국 역사 속으로'를 주제로 다문화·저소득·한부모 가정 자녀들이 행복한 다문화 사회 속에서 한국을 알아갈 수 있게 하기 위해 현장 학습 프로그램을 진행하고 있다\\\"라며 \\\"청소년이 이 프로그램을 통해 역사의식을 키우고 함께 어울려 사는 공동체 의식도 함양했으면 한다\\\"라고 말했다.",
+        "sentenceSize": 169
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "`다(多)다리 배움터` 현장 학습 2차 프로그램을 진행 장소로 선택된 `이곳`",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

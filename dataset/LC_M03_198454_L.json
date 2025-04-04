@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198454",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[신간 리뷰] '초라한 출세보다는…'",
+    "newsSubTitle": "",
+    "newsContent": "지난 20년간 언론사 문화사업분야에서 일하며 선진국의 문화를 분석해온 경기문화재단 이인권 문예진흥실장이 이 책에서 던지는 메시지는 '평범한 사람의 성공' 이다.\n성공지향적인 우리 사회를 인간 냄새나는 곳으로 만들기 위해 이제 우리의 삶의 방식을 바꾸어야 할 때라고 역설한다.\n\\\"문화의 시대 21세기에는 이런 모든 과거의 관념을 버리고 평범한 모든 사람이 성공하고 또 그렇게 인정받아야 한다. \\\" 이처럼 저자가 생각하는 '성공' 은 방송프로그램에 자주 얼굴을 내미는 '돈 많고 머리 좋은, 또 명망있는' 사람들의 이야기가 아니다.\n그의 '성공' 은 가정과 직장 내의 '작은 행복' 에 있다.\n저자는 외환위기로 회사에서 명예퇴직을 했을 때도 자신을 변함없이 지켜준 것은 가족이었다고 고백한다.\n그래서 이 책에는 유난히 저자의 가족과 동네 호떡장수, 입석버스에서 만난 사람 등 살가운 이웃들이 많이 등장한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지난 20년간 언론사 문화사업분야에서 일하며 선진국의 문화를 분석해온 경기문화재단 이인권 문예진흥실장이 이 책에서 던지는 메시지는 '평범한 사람의 성공' 이다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "성공지향적인 우리 사회를 인간 냄새나는 곳으로 만들기 위해 이제 우리의 삶의 방식을 바꾸어야 할 때라고 역설한다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "\\\"문화의 시대 21세기에는 이런 모든 과거의 관념을 버리고 평범한 모든 사람이 성공하고 또 그렇게 인정받아야 한다. \\\" 이처럼 저자가 생각하는 '성공' 은 방송프로그램에 자주 얼굴을 내미는 '돈 많고 머리 좋은, 또 명망있는' 사람들의 이야기가 아니다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그의 '성공' 은 가정과 직장 내의 '작은 행복' 에 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "저자는 외환위기로 회사에서 명예퇴직을 했을 때도 자신을 변함없이 지켜준 것은 가족이었다고 고백한다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그래서 이 책에는 유난히 저자의 가족과 동네 호떡장수, 입석버스에서 만난 사람 등 살가운 이웃들이 많이 등장한다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "<신간 리뷰> 저자가 말하는 성공은, '여기'에서의 작은 행복에 있다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

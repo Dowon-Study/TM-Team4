@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196481",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK꿈나무] 초등학교 1학년 미키의 직업 찾기",
+    "newsSubTitle": "",
+    "newsContent": "중학생을 위해 행복의 조건, 좋아하는 직업찾기를 일러주는 소설이지만, 주인공은 초등학교 1학년이다.\n여름이 시작되는 첫 날, 기우세페 아저씨의 아이스크림 수레가 나타난다.\n아빠에게 받은 돈으로 아이스크림을 사 든 미키는 우연히 미용실 외벽에 시멘트를 바르는 미장이를 만난다.\n흙칼을 집어주는 등 이들을 도운 미키는 상으로 50센트를 받는다.\n생애 처음 번 돈이다.\n땀 흘려 번 돈의 소중함을 깨달은 미키는 이제 일을 하려 애를 쓴다.\n이웃 할머니가 퇴비 만드는 일을 거들고 살구케이크를 대접받기도 하고, 형의 신문배달 일을 돕고 1유로를 얻기도 한다.\n이제 '직업' 을 갖기 위한 미키의 눈물겨운 노력이 이어진다.\n페인트공의 일을 방해하는 나비를 쫓는 일도 하고, 소방대원이 되고 싶어도 한다.\n하지만 소방대원을 부른 뒤 그들을 도우려 고양이를 나무 꼭대기로 유혹하지만 엉뚱하게도 미키 자신이 너무 높은 곳에 올라 곤욕을 치른다.\n나중엔 친구의 동생을 돌보는 베이비 시터 노릇도 한다.\n어린이의 시각에서 본 노동은 장래 희망으로 이어진다.\n여기에 실업자인 아빠를 둘러싼 가족간의 찡한 사랑, 여자 친구 리자와의 풋사랑(?), 친구 토비아스. 비요른과의 우정과 갈등이 이야기 전편에 잔잔히 녹아 있어 읽는 맛을 돋운다.\n그러면서 의미심장한 구절도 군데군데 나온다.\n일자리를 구하기 위해 애쓰는 미키 아버지가 \\\"계속 시도하는 거지. 닭이 되든 달걀이 되든\\\"이라는 이야기가 그렇다.\n결국 아버지는 일자리를 얻고, 친구와도 화해를 하면서 이야기는 행복하게 마무리된다.\n결코 만만하지는 않겠지만 '세상 이치'를 아는 데 도움이 될 이야기다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중학생을 위해 행복의 조건, 좋아하는 직업찾기를 일러주는 소설이지만, 주인공은 초등학교 1학년이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여름이 시작되는 첫 날, 기우세페 아저씨의 아이스크림 수레가 나타난다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아빠에게 받은 돈으로 아이스크림을 사 든 미키는 우연히 미용실 외벽에 시멘트를 바르는 미장이를 만난다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "흙칼을 집어주는 등 이들을 도운 미키는 상으로 50센트를 받는다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "생애 처음 번 돈이다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "땀 흘려 번 돈의 소중함을 깨달은 미키는 이제 일을 하려 애를 쓴다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이웃 할머니가 퇴비 만드는 일을 거들고 살구케이크를 대접받기도 하고, 형의 신문배달 일을 돕고 1유로를 얻기도 한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이제 '직업' 을 갖기 위한 미키의 눈물겨운 노력이 이어진다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "페인트공의 일을 방해하는 나비를 쫓는 일도 하고, 소방대원이 되고 싶어도 한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "하지만 소방대원을 부른 뒤 그들을 도우려 고양이를 나무 꼭대기로 유혹하지만 엉뚱하게도 미키 자신이 너무 높은 곳에 올라 곤욕을 치른다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "나중엔 친구의 동생을 돌보는 베이비 시터 노릇도 한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "어린이의 시각에서 본 노동은 장래 희망으로 이어진다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "여기에 실업자인 아빠를 둘러싼 가족간의 찡한 사랑, 여자 친구 리자와의 풋사랑(?), 친구 토비아스. 비요른과의 우정과 갈등이 이야기 전편에 잔잔히 녹아 있어 읽는 맛을 돋운다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그러면서 의미심장한 구절도 군데군데 나온다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "일자리를 구하기 위해 애쓰는 미키 아버지가 \\\"계속 시도하는 거지. 닭이 되든 달걀이 되든\\\"이라는 이야기가 그렇다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "결국 아버지는 일자리를 얻고, 친구와도 화해를 하면서 이야기는 행복하게 마무리된다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "결코 만만하지는 않겠지만 '세상 이치'를 아는 데 도움이 될 이야기다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "초등학교 1학년 미키의 우당탕 직업 찾기 대소동... 고양이 쫓다 나무 위에서 곤두박질",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

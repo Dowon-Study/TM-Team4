@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195668",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] “병원 순이익 20%, 분기마다 사회 환원”",
+    "newsSubTitle": "",
+    "newsContent": "사회공헌 앞장서는 ‘365mc 비만클리닉’ 병원 이익 중 일부를 정기적으로 사회에 환원하겠다고 선언한 병원이 있어 화제다.\n비만치료 전문 의료기관인 ‘365mc 비만클리닉’(이하 365mc)의 얘기다.\n365mc는 올해부터 분기마다 병원 순이익의 20%를 환원하기로 결정했다.\n올 3월 365mc 대표원장협의회의 결정사항을 이행하는 차원이다.\n분기별로 병원 순이익의 10%는 사회공헌 기금으로 적립하고, 또 다른 10%는 내부 직원에게 배분하는 것이다.\n1년 이상 근속한 직원이 대상이다.\n365mc가 선언한 ‘확정 사회공헌 기여제’와 ‘이익공유제’의 골자다.\n365mc의 사회공헌 활동은 이번이 처음은 아니다.\n개원 이후부터 지난해 말까지 22억여원을 기부해 왔다.\n이번 사회공헌 활동에 투명성을 기하기 위해 올해 1분기부터 모든 직원에게 병원 회계정보를 공개하고 있다.\n365mc는 이번 사회공헌 프로그램을 통해 기존에 다양하게 펼쳐 온 사회공헌 활동을 ‘본업’과 연관시켜 체계적으로 진행하겠다는 의지다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "사회공헌 앞장서는 ‘365mc 비만클리닉’ 병원 이익 중 일부를 정기적으로 사회에 환원하겠다고 선언한 병원이 있어 화제다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "비만치료 전문 의료기관인 ‘365mc 비만클리닉’(이하 365mc)의 얘기다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "365mc는 올해부터 분기마다 병원 순이익의 20%를 환원하기로 결정했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "올 3월 365mc 대표원장협의회의 결정사항을 이행하는 차원이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "분기별로 병원 순이익의 10%는 사회공헌 기금으로 적립하고, 또 다른 10%는 내부 직원에게 배분하는 것이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1년 이상 근속한 직원이 대상이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "365mc가 선언한 ‘확정 사회공헌 기여제’와 ‘이익공유제’의 골자다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "365mc의 사회공헌 활동은 이번이 처음은 아니다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "개원 이후부터 지난해 말까지 22억여원을 기부해 왔다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이번 사회공헌 활동에 투명성을 기하기 위해 올해 1분기부터 모든 직원에게 병원 회계정보를 공개하고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "365mc는 이번 사회공헌 프로그램을 통해 기존에 다양하게 펼쳐 온 사회공헌 활동을 ‘본업’과 연관시켜 체계적으로 진행하겠다는 의지다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "손님 등만 쳐 먹는 다이어트 회사는 미디어가 만들어낸 환상?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

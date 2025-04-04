@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196533",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "인터넷 서점가에 새 주자 '리브로' 등장",
+    "newsSubTitle": "",
+    "newsContent": "무한 가격경쟁으로 춘추전국시대를 방불케하고있는 인터넷 서점가에 새로운 주자가 등장했다.\n서울 을지서적 본점과 분당점, 화정점, 홍대앞 예술서점 아티누스를 운영중인리브로의 인터넷 서점 '리브로'(www.libro.co.kr)가 그것. 리브로는 현재 인터넷 서점가에서 가장 큰 쟁점이 되고 있는 도서가 할인폭과관련, 한국출판인회의와 인터넷서점협의회간의 합의사항인 할인 10%, 마일리지 5%를결정했다.\n그러나 리브로는 물류센터가 완성되는 오는 7월께부터는 Yes 24와 알라딘 정도로 할인폭을 크게 확대할 계획이다.\n리브로의 가장 큰 특징은 어린이, 예술, 만화, 장르문학 분야를 각각 육성해 '서점 속의 전문서점'을 만들어 나간다는 것. 특히 홍대앞 예술서점 아티누스와 연계, 온-오프라인을 결합시킨 예술서점을 오는 9월께 출범시킨다는 계획이다.\n리브로는 이를 위해 아티누스의 자료를 데이터 베이스화하는 한편 매장 확장 작업에 착수했으며, 앞으로 예술 관련 서적 국내 1만종, 해외 1만종을 확보할 방침이다.\n진영희(38) 대표는 \\\"책을 키워드로 하는 사이버 문화공간을 만들어 나가겠다\\\"며\\\"책뿐 아니라 음반, DVD 등 문화 관련 상품들을 집약시킨 전문화된 서점으로 성장해갈 것\\\"이라고 포부를 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "무한 가격경쟁으로 춘추전국시대를 방불케하고있는 인터넷 서점가에 새로운 주자가 등장했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울 을지서적 본점과 분당점, 화정점, 홍대앞 예술서점 아티누스를 운영중인리브로의 인터넷 서점 '리브로'(www.libro.co.kr)가 그것. 리브로는 현재 인터넷 서점가에서 가장 큰 쟁점이 되고 있는 도서가 할인폭과관련, 한국출판인회의와 인터넷서점협의회간의 합의사항인 할인 10%, 마일리지 5%를결정했다.",
+        "sentenceSize": 173
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러나 리브로는 물류센터가 완성되는 오는 7월께부터는 Yes 24와 알라딘 정도로 할인폭을 크게 확대할 계획이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "리브로의 가장 큰 특징은 어린이, 예술, 만화, 장르문학 분야를 각각 육성해 '서점 속의 전문서점'을 만들어 나간다는 것. 특히 홍대앞 예술서점 아티누스와 연계, 온-오프라인을 결합시킨 예술서점을 오는 9월께 출범시킨다는 계획이다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "리브로는 이를 위해 아티누스의 자료를 데이터 베이스화하는 한편 매장 확장 작업에 착수했으며, 앞으로 예술 관련 서적 국내 1만종, 해외 1만종을 확보할 방침이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "진영희(38) 대표는 \\\"책을 키워드로 하는 사이버 문화공간을 만들어 나가겠다\\\"며\\\"책뿐 아니라 음반, DVD 등 문화 관련 상품들을 집약시킨 전문화된 서점으로 성장해갈 것\\\"이라고 포부를 밝혔다.",
+        "sentenceSize": 111
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'무한 가격경쟁'이 송두리째 휩쓸어간 인터넷 서점가에 등장한 새 주자 '리브로'만의 비교 불가한 특장점은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195727",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "담백하고 깔끔하다더니…오일 스파게티 칼로리에 배신감 느껴ㅠㅠ",
+    "newsSubTitle": "",
+    "newsContent": "많은 사람들이 즐겨먹는 스파게티 칼로리는 얼마나 될까.\n스파게티는 파스타의 한 종류로 면 형태에 따라 명칭이 다른데 스파게티는 롱(long) 파스타의 한 종류다.\n이 외에 링귀니, 페델리니, 라자냐 등이 있다.\n스파게티 칼로리는 재료에 따라 확연히 달라지는데 가장 많은 사람들이 즐겨먹는 크림 스파게티는 921㎉에 달한다.\n생크림, 우유와 버터 등이 들어가 칼로리가 높아질 수밖에 없다.\n해물이 들어간 토마토 소스 스파게티의 경우에도 칼로리는 794㎉로 고칼로리다.\n요즘 많은 사람들이 즐겨먹는 오일 스파게티 칼로리는 어떨까.\n담백하고 깔끔한 맛만 보면 칼로리가 낮을 것 같지만 오일이 주 재료인 탓에 705㎉ 정도로 의외의 고칼로리다.\n가볍게 생각하고 먹었다가는 살찌기 십상이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "많은 사람들이 즐겨먹는 스파게티 칼로리는 얼마나 될까.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "스파게티는 파스타의 한 종류로 면 형태에 따라 명칭이 다른데 스파게티는 롱(long) 파스타의 한 종류다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 외에 링귀니, 페델리니, 라자냐 등이 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "스파게티 칼로리는 재료에 따라 확연히 달라지는데 가장 많은 사람들이 즐겨먹는 크림 스파게티는 921㎉에 달한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "생크림, 우유와 버터 등이 들어가 칼로리가 높아질 수밖에 없다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해물이 들어간 토마토 소스 스파게티의 경우에도 칼로리는 794㎉로 고칼로리다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "요즘 많은 사람들이 즐겨먹는 오일 스파게티 칼로리는 어떨까.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "담백하고 깔끔한 맛만 보면 칼로리가 낮을 것 같지만 오일이 주 재료인 탓에 705㎉ 정도로 의외의 고칼로리다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "가볍게 생각하고 먹었다가는 살찌기 십상이다.",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "입은 즐겁게 몸은 무겁게, 크림 스파게티는 열량 무척 높은 반면... 오일 파스타는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

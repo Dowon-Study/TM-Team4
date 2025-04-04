@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197264",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[독자마당] 출판사 집중 소개했으면 外",
+    "newsSubTitle": "",
+    "newsContent": "*** 출판사 집중 소개했으면 매주 알찬 커버 스토리에 콘텐트가 다양해 매우 만족하고 있다.\n한 가지 아이템을 더 추가하면 어떨까.\n출판사 한 곳을 선정해 그곳의 대표 서적과 신간을 짤막하게나마 소개하면 새로운 포맷이 되지 않을까.\n최근 어려움에 빠진 출판사에도 용기와 힘을 줄 수 있을 것 같다 황준철(대전광역시 서구) *** '책 읽기 운동' 확산 빌어 지난 주 북리뷰 편집자 레터에 소개된 '한 도시 한 책 읽기 운동'은 신선하다.\n이 운동이 성공을 거두려면 무엇보다 그 지역 주민의 정서를 하나의 공동체로 묶어 낼 수 있는 양서 선정에 심혈을 기울여야 한다고 생각한다.\n강원도 원주시가 선정한 『좁쌀 한알』과 서울에서 펼치고 잇는 '책읽는 서울'캠페인이 아무쪼록 유종의 미를 거두기를 기원한다.\n이를 계기로 이 운동이 전국으로 확산되었으면 한다.\n박경림(서울시 마포구) *** 국가별 병역제도 다루길 최근 유명 연예인과 야구선수가 포함된 병역비리가 사회적으로 물의를 빚고 있다.\n그래서 국가별 병역제도의 운용방식과 복무기간, 역대 전술사 등을 자세히 적은 책을 소개해 주면 좋겠다.\n아울러 군 생활에서 얻을 수 있는 좋은 점을 다룬 책도 기대한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "*** 출판사 집중 소개했으면 매주 알찬 커버 스토리에 콘텐트가 다양해 매우 만족하고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한 가지 아이템을 더 추가하면 어떨까.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "출판사 한 곳을 선정해 그곳의 대표 서적과 신간을 짤막하게나마 소개하면 새로운 포맷이 되지 않을까.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최근 어려움에 빠진 출판사에도 용기와 힘을 줄 수 있을 것 같다 황준철(대전광역시 서구) *** '책 읽기 운동' 확산 빌어 지난 주 북리뷰 편집자 레터에 소개된 '한 도시 한 책 읽기 운동'은 신선하다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 운동이 성공을 거두려면 무엇보다 그 지역 주민의 정서를 하나의 공동체로 묶어 낼 수 있는 양서 선정에 심혈을 기울여야 한다고 생각한다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "강원도 원주시가 선정한 『좁쌀 한알』과 서울에서 펼치고 잇는 '책읽는 서울'캠페인이 아무쪼록 유종의 미를 거두기를 기원한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 계기로 이 운동이 전국으로 확산되었으면 한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "박경림(서울시 마포구) *** 국가별 병역제도 다루길 최근 유명 연예인과 야구선수가 포함된 병역비리가 사회적으로 물의를 빚고 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그래서 국가별 병역제도의 운용방식과 복무기간, 역대 전술사 등을 자세히 적은 책을 소개해 주면 좋겠다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "아울러 군 생활에서 얻을 수 있는 좋은 점을 다룬 책도 기대한다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신음하는 출판사들... '책 읽기 운동'이 돌파구가 될 수 있기를",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

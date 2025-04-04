@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198599",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "'골프 천재' 리디아 고, 현대카드 정태영 막내 며느리 된다",
+    "newsSubTitle": "",
+    "newsContent": "정태영 현대카드 부회장의 아들 정준 씨가 세계적인 골프 선수 리디아 고와 결혼한다. 27일 관련 업계에 따르면 정 부회장의 막내아들 정준 씨는 오는 12월 30일 서울 중구 명동성당에서 리디아 고와 결혼식을 올린다.\n두 사람은 2년 전부터 교제를 해 온 것으로 전해졌다.\n리디아 고는 지난해 자신의 소셜미디어(SNS)에 정씨와 함께 찍은 사진을 올리면서 ‘곧(Soon)’이라는 문구를 올리기도 했다.\n정준 씨는 현재 미국 캘리포니아에 자리한 명문 클레어몬트 맥케나 칼리지에서 철학과 데이터 사이언스를 전공했다.\n현대카드에서 인턴을 한 경험도 있다고 한다.\n뉴질랜드 교포 출신인 리디아 고는 15세에 투어 최연소 우승 기록을 세우고 17세에 세계 랭킹 1위에 오르며 ‘골프 천재 소녀’라는 별명을 얻기도 했다.\n리디아 고는 2016년 리우데자네이루 올림픽에서 은메달을 땄고 2020 도쿄올림픽에서는 동메달을 획득하며 2회 연속 올림픽에서 메달을 따기도 했다.\n현재 세계 여자골프 순위 4위다.\n정태영 부회장은 고(故) 정경진 종로학원 설립자의 장남이며, 정몽구 현대자동차그룹 명예회장의 둘째 사위다.\n그는 현대카드 부사장, 현대카드·현대캐피탈·현대커머셜 대표이사 사장을 지냈으며 2015년부터 부회장으로 일하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "정태영 현대카드 부회장의 아들 정준 씨가 세계적인 골프 선수 리디아 고와 결혼한다. 27일 관련 업계에 따르면 정 부회장의 막내아들 정준 씨는 오는 12월 30일 서울 중구 명동성당에서 리디아 고와 결혼식을 올린다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "두 사람은 2년 전부터 교제를 해 온 것으로 전해졌다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "리디아 고는 지난해 자신의 소셜미디어(SNS)에 정씨와 함께 찍은 사진을 올리면서 ‘곧(Soon)’이라는 문구를 올리기도 했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정준 씨는 현재 미국 캘리포니아에 자리한 명문 클레어몬트 맥케나 칼리지에서 철학과 데이터 사이언스를 전공했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "현대카드에서 인턴을 한 경험도 있다고 한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뉴질랜드 교포 출신인 리디아 고는 15세에 투어 최연소 우승 기록을 세우고 17세에 세계 랭킹 1위에 오르며 ‘골프 천재 소녀’라는 별명을 얻기도 했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "리디아 고는 2016년 리우데자네이루 올림픽에서 은메달을 땄고 2020 도쿄올림픽에서는 동메달을 획득하며 2회 연속 올림픽에서 메달을 따기도 했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현재 세계 여자골프 순위 4위다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정태영 부회장은 고(故) 정경진 종로학원 설립자의 장남이며, 정몽구 현대자동차그룹 명예회장의 둘째 사위다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그는 현대카드 부사장, 현대카드·현대캐피탈·현대커머셜 대표이사 사장을 지냈으며 2015년부터 부회장으로 일하고 있다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "현대카드 정태영 막내 며느리, 그녀는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

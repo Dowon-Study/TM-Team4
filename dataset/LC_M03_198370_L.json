@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198370",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[신간안내] '중국에 미친' 실학자의 육성 카랑카랑",
+    "newsSubTitle": "",
+    "newsContent": "박제가와 젊은 그들 박성순 지음, 고즈윈, 247쪽, 1만2000원 박제가(1750~1805)는 급진 개혁가였다.\n북학(北學), 즉 중국을 배워야 한다고 주장한 경세서 '북학의(北學議)'의 책장을 넘기다 보면 그의 분노에 찬 육성이 생생하다.\n\\\"중국의 도자기는 정교하지 않은 것이 없다\\\"며 청나라의 문물을 찬양하던 그는 \\\"우리나라 의술은 믿을 수 없다\\\"며 탄식한다.\n종국에는 \\\"우리나라는 모든 분야에서 중국에 미치지 못한다\\\"며 절망한다.\n조선의 식자층은 중국을 배우라고 외치는 이 키 작은 고집불통을 당괴(唐魁)라 불렀다. '중국에 미친 놈'이라는 뜻이다.\n스승 박지원조차 '북학의'에 서문을 써 주기는 했지만 \\\"책의 내용을 남에게 말하는 것은 좋지 못하다\\\"며 그의 과격함을 우려했다.\n어디 물러설 박제가이던가.\n정조 22년 농업진흥책을 국왕에게 올리는 글에서 그는 \\\"놀고 먹는 유생부터 도태시켜야 한다\\\"고 말했다.\n성리학의 나라 조선에서 유생을 없애야 한다는 극단적인 주장을 펼친 것이다.\n박제가의 일대기를 다룬 이 책에 따르면, 그는 천재였지만 서얼 신분. '북학의'의 격한 목소리는 가슴 속의 응어리 탓일까.\n하지만 다행히도 박제가는 자신을 알아주는 든든한 버팀목을 만난다.\n개혁군주 정조가 바로 그다.\n정조는 서얼 중에서 능력있는 자들을 규장각 검서관으로 임명하도록 했고, 박제가는 이덕무.유득공 등과 함께 최초의 검서관이 되었다.\n정조의 총애를 받게 된 박제가는 기회 있을 때마다 자신의 경세관을 펼쳤다.\n가난을 구제하기 위해 중국과 통상할 것, 서양 사람을 초빙하여 과학기술을 배울 것, 젊은 인재를 중국에 유학시킬 것 등을 주장했다.\n하지만 그의 꿈은 정조의 갑작스런 죽음과 함께 허공에 흩어지고 말았다.\n제목에 나오는'젊은 그들'은 '열하일기'라는 걸작을 남긴 박지원, 선구적 과학자이며 국제학자였던 홍대용, 평생 책만 읽어 간서치(看書痴), 즉 책만 보는 바보라 불린 이덕무, 협객 백동수 같은 인물들이다.\n전편에 걸쳐 박제가와 그들이 종로 백탑 주변에서 밤을 밝혀 토론하고, 공부하고, 아름다운 만남을 이어가는 모습이 펼쳐진다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "박제가와 젊은 그들 박성순 지음, 고즈윈, 247쪽, 1만2000원 박제가(1750~1805)는 급진 개혁가였다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "북학(北學), 즉 중국을 배워야 한다고 주장한 경세서 '북학의(北學議)'의 책장을 넘기다 보면 그의 분노에 찬 육성이 생생하다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "\\\"중국의 도자기는 정교하지 않은 것이 없다\\\"며 청나라의 문물을 찬양하던 그는 \\\"우리나라 의술은 믿을 수 없다\\\"며 탄식한다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "종국에는 \\\"우리나라는 모든 분야에서 중국에 미치지 못한다\\\"며 절망한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "조선의 식자층은 중국을 배우라고 외치는 이 키 작은 고집불통을 당괴(唐魁)라 불렀다. '중국에 미친 놈'이라는 뜻이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "스승 박지원조차 '북학의'에 서문을 써 주기는 했지만 \\\"책의 내용을 남에게 말하는 것은 좋지 못하다\\\"며 그의 과격함을 우려했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "어디 물러설 박제가이던가.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "정조 22년 농업진흥책을 국왕에게 올리는 글에서 그는 \\\"놀고 먹는 유생부터 도태시켜야 한다\\\"고 말했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "성리학의 나라 조선에서 유생을 없애야 한다는 극단적인 주장을 펼친 것이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "박제가의 일대기를 다룬 이 책에 따르면, 그는 천재였지만 서얼 신분. '북학의'의 격한 목소리는 가슴 속의 응어리 탓일까.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하지만 다행히도 박제가는 자신을 알아주는 든든한 버팀목을 만난다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "개혁군주 정조가 바로 그다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "정조는 서얼 중에서 능력있는 자들을 규장각 검서관으로 임명하도록 했고, 박제가는 이덕무.유득공 등과 함께 최초의 검서관이 되었다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "정조의 총애를 받게 된 박제가는 기회 있을 때마다 자신의 경세관을 펼쳤다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "가난을 구제하기 위해 중국과 통상할 것, 서양 사람을 초빙하여 과학기술을 배울 것, 젊은 인재를 중국에 유학시킬 것 등을 주장했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "하지만 그의 꿈은 정조의 갑작스런 죽음과 함께 허공에 흩어지고 말았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "제목에 나오는'젊은 그들'은 '열하일기'라는 걸작을 남긴 박지원, 선구적 과학자이며 국제학자였던 홍대용, 평생 책만 읽어 간서치(看書痴), 즉 책만 보는 바보라 불린 이덕무, 협객 백동수 같은 인물들이다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "전편에 걸쳐 박제가와 그들이 종로 백탑 주변에서 밤을 밝혀 토론하고, 공부하고, 아름다운 만남을 이어가는 모습이 펼쳐진다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박제가, 스승의 만류에도 '이 나라'에 미쳤던 이유... ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

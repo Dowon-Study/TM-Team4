@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193148",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "면역력 증강 식품…과일 채소가 대부분, 어떤 과일?",
+    "newsSubTitle": "",
+    "newsContent": "면역력 증강 식품이 화제다.\n면역력 높이는 식재료로는 마늘, 김치, 토마토, 홍삼, 콩 등이 있다.\n마늘은 미국 타임지가 선정한 ‘세계 10대 건강식품’ 중 하나다.\n마늘은 알리신을 함유하고 있는데 이는 면역력을 끌어올리는 효과를 낸다.\n알리신은 또 비타민 B1의 흡수를 향상시키며 이 비타민과 결합해 신진대사를 활발히 하는 알리티아민을 만든다.\n김치도 면역력 강화에 도움을 준다.\n김치는 무, 배추, 열무, 젓갈, 생강, 파, 마늘 등 여러 가지 식재료를 이용해 만들기 때문에 무기질과 비타민을 풍부하게 가지고 있다.\n아울러 김치는 피로회복, 항암치료, 노화방지 등에도 도움이 된다.\n토마토는 수분과 식이섬유를 풍부하게 갖고 있어 소화를 돕고 신진대사를 촉진시켜 면역력을 높인다.\n토마토에 포함된 성분인 라이코펜은 노화, 노인성 치매, 소화기계통의 암, 기미, 고혈압 예방에도 좋다.\n홍삼도 면역력을 높인다.\n홍삼은 수삼을 증기에 찐 붉은 빛깔의 인삼을 말한다.\n이는 여러 종류의 사포닌을 갖고 있어 면역력을 높이므로 감기 등으로부터 신체를 보호하는 데 도움을 준다.\n또 체질개선, 피로회복 등에 효과가 있다.\n콩은 단백질을 풍부하게 가지고 있어 면역력 저하를 막는다.\n콩은 ‘밭에서 나는 소고기’라고 불릴 정도로 단백질을 풍부하게 갖고 있으며 아르기닌도 풍부하게 함유해 면역증진에 도움을 준다.\n한편 마늘, 생강, 고추냉이, 양파, 강황 등도 면역력 높이는 식재료로 알려져있다.\n온라인 중앙일보 면역력 증강 식품",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "면역력 증강 식품이 화제다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "면역력 높이는 식재료로는 마늘, 김치, 토마토, 홍삼, 콩 등이 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "마늘은 미국 타임지가 선정한 ‘세계 10대 건강식품’ 중 하나다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "마늘은 알리신을 함유하고 있는데 이는 면역력을 끌어올리는 효과를 낸다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "알리신은 또 비타민 B1의 흡수를 향상시키며 이 비타민과 결합해 신진대사를 활발히 하는 알리티아민을 만든다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김치도 면역력 강화에 도움을 준다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김치는 무, 배추, 열무, 젓갈, 생강, 파, 마늘 등 여러 가지 식재료를 이용해 만들기 때문에 무기질과 비타민을 풍부하게 가지고 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아울러 김치는 피로회복, 항암치료, 노화방지 등에도 도움이 된다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "토마토는 수분과 식이섬유를 풍부하게 갖고 있어 소화를 돕고 신진대사를 촉진시켜 면역력을 높인다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "토마토에 포함된 성분인 라이코펜은 노화, 노인성 치매, 소화기계통의 암, 기미, 고혈압 예방에도 좋다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "홍삼도 면역력을 높인다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "홍삼은 수삼을 증기에 찐 붉은 빛깔의 인삼을 말한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이는 여러 종류의 사포닌을 갖고 있어 면역력을 높이므로 감기 등으로부터 신체를 보호하는 데 도움을 준다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또 체질개선, 피로회복 등에 효과가 있다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "콩은 단백질을 풍부하게 가지고 있어 면역력 저하를 막는다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "콩은 ‘밭에서 나는 소고기’라고 불릴 정도로 단백질을 풍부하게 갖고 있으며 아르기닌도 풍부하게 함유해 면역증진에 도움을 준다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "한편 마늘, 생강, 고추냉이, 양파, 강황 등도 면역력 높이는 식재료로 알려져있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "온라인 중앙일보 면역력 증강 식품",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미국 타임지가 선정한 '세계 10대 건강식품'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

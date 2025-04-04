@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195684",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[헬스벨] 무력한 중년, 근력 키우는 제품 섭취하세요",
+    "newsSubTitle": "",
+    "newsContent": "설 연휴의 즐거움도 잠시, 몸은 다시 피곤해지고 지친다.\n쉽게 찾아오는 피로감의 원인은 의외로 근육 부족에 있다.\n근육량은 체력을 결정짓는 바로미터다.\n적을수록 쉽게 지친다.\n근육은 40세부터 평균 1%씩 감소해 80세에는 30대의 절반까지 줄어든다. 근육이 부족하면 한 번 생긴 피로감도 쉽게 사라지지 않는다.\n근육을 키우는 데는 운동이 가장 중요하다.\n이와 함께 영양섭취도 중요하다.\n크레아틴 성분이 도움이 된다.\n크레아틴은 주로 보디빌더 등 운동선수가 섭취하는 것으로 알려졌지만 최근 근육의 중요성이 부각되면서 일반인에게도 보편화되고 있다.\n크레아틴은 근육과 에너지 생성을 돕는다.\n또한 동일한 힘을 쓰더라도 피로감이 덜하고 회복 속도도 올려준다.\n종근당건강의 파워드라이버(사진)는 크레아틴과 함께 에너지 대사 및 생성에 도움을 주는 비타민B1, 판토텐산 등 복합성분으로 구성된 제품이다.\n종근당건강이 운영하는 건강기능식품 전문몰 헬스벨(www.healthbell.net)에서 중년 근육 증진을 위해 파워드라이버 두 상자를 할인된 가격에 구매할 수 있다.\n전문상담원을 통한 전화 주문 및 문의도 가능하다.\n▶기간: 2016년 2월 15~22일 ▶문의: 1644-1884",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "설 연휴의 즐거움도 잠시, 몸은 다시 피곤해지고 지친다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "쉽게 찾아오는 피로감의 원인은 의외로 근육 부족에 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "근육량은 체력을 결정짓는 바로미터다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "적을수록 쉽게 지친다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "근육은 40세부터 평균 1%씩 감소해 80세에는 30대의 절반까지 줄어든다. 근육이 부족하면 한 번 생긴 피로감도 쉽게 사라지지 않는다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "근육을 키우는 데는 운동이 가장 중요하다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이와 함께 영양섭취도 중요하다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "크레아틴 성분이 도움이 된다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "크레아틴은 주로 보디빌더 등 운동선수가 섭취하는 것으로 알려졌지만 최근 근육의 중요성이 부각되면서 일반인에게도 보편화되고 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "크레아틴은 근육과 에너지 생성을 돕는다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "또한 동일한 힘을 쓰더라도 피로감이 덜하고 회복 속도도 올려준다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "종근당건강의 파워드라이버(사진)는 크레아틴과 함께 에너지 대사 및 생성에 도움을 주는 비타민B1, 판토텐산 등 복합성분으로 구성된 제품이다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "종근당건강이 운영하는 건강기능식품 전문몰 헬스벨(www.healthbell.net)에서 중년 근육 증진을 위해 파워드라이버 두 상자를 할인된 가격에 구매할 수 있다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "전문상담원을 통한 전화 주문 및 문의도 가능하다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "▶기간: 2016년 2월 15~22일 ▶문의: 1644-1884",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "매일 피곤하다면... 피로감의 원인과 해결책은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

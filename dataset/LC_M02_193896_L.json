@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193896",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "국세청, YG엔터테인먼트 세무조사 착수",
+    "newsSubTitle": "",
+    "newsContent": "국세청이 YG엔터테인먼트에 대한 세무조사에 들어갔다.\n20일 국세청은 서울 마포구 합정동 YG엔터테인먼트 사옥에 조사관을 보내 세무조사에 나섰다.\nYG엔터테인먼트가 통상 5년마다 실시하는 정기 세무조사를 지난 2016년에 받았다는 점에서 이번 조사는 정기 세무조사가 아닌 특별 세무조사일 것이라는 관측이 지배적이다.\n이번 조사에 투입된 팀은 서울청 조사4국으로, 특별 세무조사를 담당하는 '기업 저승사자'로 유명하다.\n앞서 YG엔터테인먼트 양현석 대표가 승리의 홍대 클럽으로 알려진 '러브 시그널'의 실소유주인 게 밝혀졌다.\n그러면서 해당 업소가 유흥주점이 아닌 일반음식점으로 등록돼 개별소비세를 탈루했다는 의혹이 제기됐다.\n주로 대기업을 타킷으로 특별 세무조사를 실시하는 서울청 조사4국이 중견기업 규모인 YG엔터테인먼트를 대상으로 조사에 나선데는 이번 사건이 국세청의 비호 의혹으로 번지고 있기 때문으로 분석된다.\n문재인 대통령은 이번 사건에 대해 \\\"강남 클럽 사건은 연예인 등 일부 새로운 특권층의 불법적인 영업과 범죄행위에 대해 관할 경찰과 국세청 등 일부 권력기관이 유착했다는 의혹이 짙은 사건\\\"이라고 정의했다.\n국세청의 이번 조사 역시 그 점을 집중적으로 파헤칠 것으로 전망된다.\n통상적으로 일반음식점은 요금의 10%를 부가가치세로 납부해야 한다.\n이에 반해 유흥주점은 개별소비세 10%와 교육세 3%를 추가 부담해야 한다. '러브 시그널'은 유흥주점으로 운영되면서도 일반음식점으로 등록된 바 있다.\n이에 대해 YG엔터테인먼트는 21일 미디어SR에 \\\"성실히 조사 받겠다\\\"고 짧게 입장을 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국세청이 YG엔터테인먼트에 대한 세무조사에 들어갔다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20일 국세청은 서울 마포구 합정동 YG엔터테인먼트 사옥에 조사관을 보내 세무조사에 나섰다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "YG엔터테인먼트가 통상 5년마다 실시하는 정기 세무조사를 지난 2016년에 받았다는 점에서 이번 조사는 정기 세무조사가 아닌 특별 세무조사일 것이라는 관측이 지배적이다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 조사에 투입된 팀은 서울청 조사4국으로, 특별 세무조사를 담당하는 '기업 저승사자'로 유명하다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 YG엔터테인먼트 양현석 대표가 승리의 홍대 클럽으로 알려진 '러브 시그널'의 실소유주인 게 밝혀졌다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러면서 해당 업소가 유흥주점이 아닌 일반음식점으로 등록돼 개별소비세를 탈루했다는 의혹이 제기됐다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "주로 대기업을 타킷으로 특별 세무조사를 실시하는 서울청 조사4국이 중견기업 규모인 YG엔터테인먼트를 대상으로 조사에 나선데는 이번 사건이 국세청의 비호 의혹으로 번지고 있기 때문으로 분석된다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "문재인 대통령은 이번 사건에 대해 \\\"강남 클럽 사건은 연예인 등 일부 새로운 특권층의 불법적인 영업과 범죄행위에 대해 관할 경찰과 국세청 등 일부 권력기관이 유착했다는 의혹이 짙은 사건\\\"이라고 정의했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "국세청의 이번 조사 역시 그 점을 집중적으로 파헤칠 것으로 전망된다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "통상적으로 일반음식점은 요금의 10%를 부가가치세로 납부해야 한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이에 반해 유흥주점은 개별소비세 10%와 교육세 3%를 추가 부담해야 한다. '러브 시그널'은 유흥주점으로 운영되면서도 일반음식점으로 등록된 바 있다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이에 대해 YG엔터테인먼트는 21일 미디어SR에 \\\"성실히 조사 받겠다\\\"고 짧게 입장을 전했다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "탈루 의혹에 세무조사... YG의 만행은 어디까지?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

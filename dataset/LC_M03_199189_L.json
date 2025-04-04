@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199189",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "개인건강기록+ 유전체 분석 =맞춤형 서비스",
+    "newsSubTitle": "이원다이애그노믹스게놈센터, 라이프시맨틱스와 MOU)",
+    "newsContent": "유전체분석 기업인 이원다이애그노믹스게놈센터(EDGC)와 헬스IT 기업 라이프시맨틱스㈜가 손잡고 ‘맞춤형 의료(Precision Medicine)’를 위한 제반기술 및 상용서비스 개발에 나선다.\n양사는 8일 송도국제도시 내 이원다이애그노믹스게놈센터 회의실에서 업무 협약을 맺고, 개인 유전체분석 결과를 개인건강기록(PHR)에 통합하고 이를 토대로 유전자 맞춤형 의료·건강관리 서비스를 개발하기로 했다.\nPHR이란 개인이 자신의 진료기록, 유전체분석 결과, 운동량 정보 등을 한 곳에 통합해서 저장, 관리하는 시스템이다.\n맞춤형 의료를 비롯해 개인별로 최적화한 건강 관련 서비스의 토대가 된다. ‘맞춤형 의료’란 질병을 예방하고 치료하는데 있어 유전자, 환경, 생활양식의 개인별 차이를 반영하는 혁신적 접근법. 개별 환자나 개별 종양의 유전자 특성에 맞춘 치료법이 대표적 예다.\n이원다이애그노믹스게놈센터는 차세대 유전체 분석기법을 바탕으로 맞춤형 의료 서비스를 포함하는 신개념의 제품 및 서비스를 개발하는 회사로서 이원생명과학연구원과 미국 다이애그노믹스(Diagnomics)의 합작으로 설립된 한미합작 법인이다.\n라이프시맨틱스는 국내 유일의 상용 개인건강기록(PHR) 플랫폼과 솔루션을 보유하고 있는 헬스IT 전문기업이다.\n올 초 서울 아산병원의 환자용 PHR 서비스 앱인 ‘내손안의 차트 2.0’ 을 개발한 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유전체분석 기업인 이원다이애그노믹스게놈센터(EDGC)와 헬스IT 기업 라이프시맨틱스㈜가 손잡고 ‘맞춤형 의료(Precision Medicine)’를 위한 제반기술 및 상용서비스 개발에 나선다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "양사는 8일 송도국제도시 내 이원다이애그노믹스게놈센터 회의실에서 업무 협약을 맺고, 개인 유전체분석 결과를 개인건강기록(PHR)에 통합하고 이를 토대로 유전자 맞춤형 의료·건강관리 서비스를 개발하기로 했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "PHR이란 개인이 자신의 진료기록, 유전체분석 결과, 운동량 정보 등을 한 곳에 통합해서 저장, 관리하는 시스템이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "맞춤형 의료를 비롯해 개인별로 최적화한 건강 관련 서비스의 토대가 된다. ‘맞춤형 의료’란 질병을 예방하고 치료하는데 있어 유전자, 환경, 생활양식의 개인별 차이를 반영하는 혁신적 접근법. 개별 환자나 개별 종양의 유전자 특성에 맞춘 치료법이 대표적 예다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이원다이애그노믹스게놈센터는 차세대 유전체 분석기법을 바탕으로 맞춤형 의료 서비스를 포함하는 신개념의 제품 및 서비스를 개발하는 회사로서 이원생명과학연구원과 미국 다이애그노믹스(Diagnomics)의 합작으로 설립된 한미합작 법인이다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "라이프시맨틱스는 국내 유일의 상용 개인건강기록(PHR) 플랫폼과 솔루션을 보유하고 있는 헬스IT 전문기업이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "올 초 서울 아산병원의 환자용 PHR 서비스 앱인 ‘내손안의 차트 2.0’ 을 개발한 바 있다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "EDGC와 라이프시맨틱스, '이것'을 위한 서비스 개발에 나서",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199005",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "청소년 난소 질환, 10년 사이 '4배' 급증",
+    "newsSubTitle": "",
+    "newsContent": "난임을 유발할 수 있는 난소질환인 다낭성 난소증후군 때문에 병원을 찾는 10대 청소년들이 급증하고 있다.\n다낭성 난소증후군은 난자를 싸고 있는 '난포'가 12개 이상으로, 정상 난소와 비교해 과도하게 많은 상태를 말한다.\n희발월경. 무월경, 기능성 자궁출혈, 다모증, 탈모, 여드름, 불임, 비만 등의 증상과 함께 나타난다.\n정상 상태에서는 서너 개의 난포 중 하나만 배란이 가능한 '성장 난포'가 되는데, 난포 수가 많은 경우는 성장 난포가 정해지지 않아 정상적인 배란이 되지 않고, 결국 생리가 불규칙해진다.\n건강보험공단에 따르면 다낭성 난소증후군 환자 수가 2006년 1만2000명에서 2016년 3만5000명으로 늘었다.\n그 중 특히 10대 환자가 932명에서 3588명으로 약 4배 가까이 증가했다.\n유전적인 요인과 함께 청소년들의 생활 습관이 여성 호르몬 분비에 영향을 미치기 때문으로 추정된다.\n의료계에 따르면 청소년들의 서구화된 식습관과 운동 부족, 그리고 학업 스트레스로 인해 난소질환이 증가하는 것으로 알려져 있다.\n생리불순을 오래 방치해서는 안 된다.\n방치하면 자궁 내막 질환이 발생하고 착상 장애와 같은 또 다른 난임의 원인을 제공할 수 있기 때문이다.\n다낭성 난소 증후군을 예방하려면 건강한 식사 습관과 규칙적인 운동으로 적정 체중으로 감량하거나 유지해야 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "난임을 유발할 수 있는 난소질환인 다낭성 난소증후군 때문에 병원을 찾는 10대 청소년들이 급증하고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "다낭성 난소증후군은 난자를 싸고 있는 '난포'가 12개 이상으로, 정상 난소와 비교해 과도하게 많은 상태를 말한다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "희발월경. 무월경, 기능성 자궁출혈, 다모증, 탈모, 여드름, 불임, 비만 등의 증상과 함께 나타난다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정상 상태에서는 서너 개의 난포 중 하나만 배란이 가능한 '성장 난포'가 되는데, 난포 수가 많은 경우는 성장 난포가 정해지지 않아 정상적인 배란이 되지 않고, 결국 생리가 불규칙해진다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "건강보험공단에 따르면 다낭성 난소증후군 환자 수가 2006년 1만2000명에서 2016년 3만5000명으로 늘었다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 중 특히 10대 환자가 932명에서 3588명으로 약 4배 가까이 증가했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유전적인 요인과 함께 청소년들의 생활 습관이 여성 호르몬 분비에 영향을 미치기 때문으로 추정된다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "의료계에 따르면 청소년들의 서구화된 식습관과 운동 부족, 그리고 학업 스트레스로 인해 난소질환이 증가하는 것으로 알려져 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "생리불순을 오래 방치해서는 안 된다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "방치하면 자궁 내막 질환이 발생하고 착상 장애와 같은 또 다른 난임의 원인을 제공할 수 있기 때문이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "다낭성 난소 증후군을 예방하려면 건강한 식사 습관과 규칙적인 운동으로 적정 체중으로 감량하거나 유지해야 한다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "10년 사이 4배나 증가... 청소년 괴롭히는 '이 질환'의 원인과 예방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

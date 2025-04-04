@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196109",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "애동지는 팥떡 먹는 날? 팥죽 안 먹는 이유 알고보니",
+    "newsSubTitle": "",
+    "newsContent": "오늘(22일)은 음력 11월 1일. 절기 중 밤의 길이가 가장 길다는 동지(冬至)다.\n동지는 24절기 중 스물두번째 절기로 음력 11월에 들며 보통 양력 12월22~23일 경으로 북반구에서 태양의 남중고도가 가장 낮아 1년 중 밤의 길이가 가장 긴 날이다.\n예로부터 동짓날이 되면 팥죽을 먹는데 이유는 팥죽의 붉은색으로 나쁜 기운을 물리치고 전염병을 예방하기 위해서다.\n또한 찹쌀로 새알심을 따로 만들어, 먹는 사람의 나이만큼 팥죽에 넣어먹는다.\n올해 2014년 동지는 음력 초하루와 동지가 겹친 애동지다.\n동지가 음력 11월 10일 안에 들면 애동지, 애기동지라고 하는데 전남지역에서는 아그동지, 소동지라고도 부른다.\n예로부터 동지가 음력 11월 10일 안에 드는 '애동지'에는 팥죽을 쑤어먹으면 아이에게 좋지 않은 일이 생긴다는 속설이 있기 때문에 팥죽 대신 팥떡을 해먹었다고 한다.\n팥떡의 주재료인 팥에는 비타민 B1을 비롯해 니코틴산·칼슘·인·철분 등 영양소가 풍부하게 들어있다.\n특히 팥은 적은 양을 먹어도 포만감이 높아 최근 다이어트에도 도움을 준다.\n또한 팥 껍질에 함유된 안토시아닌은 이뇨작용으로 체내 불필요한 수분과 활성산소를 없애 붓기 제거와 노화 방지에 탁월하다.\n온라인 중앙일보 ‘애동지 팥떡 먹는 날’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오늘(22일)은 음력 11월 1일. 절기 중 밤의 길이가 가장 길다는 동지(冬至)다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "동지는 24절기 중 스물두번째 절기로 음력 11월에 들며 보통 양력 12월22~23일 경으로 북반구에서 태양의 남중고도가 가장 낮아 1년 중 밤의 길이가 가장 긴 날이다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "예로부터 동짓날이 되면 팥죽을 먹는데 이유는 팥죽의 붉은색으로 나쁜 기운을 물리치고 전염병을 예방하기 위해서다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 찹쌀로 새알심을 따로 만들어, 먹는 사람의 나이만큼 팥죽에 넣어먹는다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "올해 2014년 동지는 음력 초하루와 동지가 겹친 애동지다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "동지가 음력 11월 10일 안에 들면 애동지, 애기동지라고 하는데 전남지역에서는 아그동지, 소동지라고도 부른다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "예로부터 동지가 음력 11월 10일 안에 드는 '애동지'에는 팥죽을 쑤어먹으면 아이에게 좋지 않은 일이 생긴다는 속설이 있기 때문에 팥죽 대신 팥떡을 해먹었다고 한다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "팥떡의 주재료인 팥에는 비타민 B1을 비롯해 니코틴산·칼슘·인·철분 등 영양소가 풍부하게 들어있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "특히 팥은 적은 양을 먹어도 포만감이 높아 최근 다이어트에도 도움을 준다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또한 팥 껍질에 함유된 안토시아닌은 이뇨작용으로 체내 불필요한 수분과 활성산소를 없애 붓기 제거와 노화 방지에 탁월하다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인 중앙일보 ‘애동지 팥떡 먹는 날’ [사진 중앙포토]",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "애동지에 팥죽 대신 팥떡 먹는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

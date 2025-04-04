@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198379",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/꿈나무] 철학자 에코가 쓴 눈높이 동화",
+    "newsSubTitle": "",
+    "newsContent": "지구인 화성인 우주인 움베르토 에코 글, 에우제니오 카르미 그림, 김운찬 옮김, 웅진주니어, 116쪽, 1만원 '장미의 이름' '푸코의 진자'등의 저자 움베르토 에코가 쓴 어린이책. 반전.환경 등 시사적인 문제에 대해 진지하게 생각하게 만드는 동화 세편으로 이뤄져 있다.\n묵직한 주제를 담고 있지만 문장 자체는 초등학교 3학년 정도면 읽고 이해하는데 무리가 없을 정도로 쉽다.\n전쟁과 평화에 대한 메시지를 담은 첫번째 동화 '폭탄과 장군'은 돈 많은 부자와 권력욕에 사로잡힌 장군을 등장시켜 전쟁을 필요로 하는 사람이 누구인가에 대해 신랄하게 풍자한다.\n폭탄 속에 갇혀 있는 원자들이 '나쁜 장군'과 맞서 싸우기로 하고 폭탄 속에서 빠져나와 지하실에 숨는 바람에 세상에서 전쟁이 사라졌다는 게 이야기의 결말. 어린이 눈높이에 맞춘 재미있는 설정이다.\n두번째 동화 '지구인 화성인 우주인'은 다양성에 대한 이해를 주제로 삼고 있다.\n화성인을 본 뒤 '너무 못 생겼으니 죽여버려야겠다'고 결심한 지구인들. 하지만 그 화성인도 불쌍한 새를 애처롭게 생각한다는 사실을 알고는 동지의식을 느낀다.\n비록 화성인은 눈물을 흘리는 대신 코에서 두줄의 연기를 흘려내렸지만 말이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지구인 화성인 우주인 움베르토 에코 글, 에우제니오 카르미 그림, 김운찬 옮김, 웅진주니어, 116쪽, 1만원 '장미의 이름' '푸코의 진자'등의 저자 움베르토 에코가 쓴 어린이책. 반전.환경 등 시사적인 문제에 대해 진지하게 생각하게 만드는 동화 세편으로 이뤄져 있다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "묵직한 주제를 담고 있지만 문장 자체는 초등학교 3학년 정도면 읽고 이해하는데 무리가 없을 정도로 쉽다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "전쟁과 평화에 대한 메시지를 담은 첫번째 동화 '폭탄과 장군'은 돈 많은 부자와 권력욕에 사로잡힌 장군을 등장시켜 전쟁을 필요로 하는 사람이 누구인가에 대해 신랄하게 풍자한다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "폭탄 속에 갇혀 있는 원자들이 '나쁜 장군'과 맞서 싸우기로 하고 폭탄 속에서 빠져나와 지하실에 숨는 바람에 세상에서 전쟁이 사라졌다는 게 이야기의 결말. 어린이 눈높이에 맞춘 재미있는 설정이다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두번째 동화 '지구인 화성인 우주인'은 다양성에 대한 이해를 주제로 삼고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "화성인을 본 뒤 '너무 못 생겼으니 죽여버려야겠다'고 결심한 지구인들. 하지만 그 화성인도 불쌍한 새를 애처롭게 생각한다는 사실을 알고는 동지의식을 느낀다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "비록 화성인은 눈물을 흘리는 대신 코에서 두줄의 연기를 흘려내렸지만 말이다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "움베르토 에코의 '묵직한 동화'... '이것들'이 시사하는 것은 무엇인가",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

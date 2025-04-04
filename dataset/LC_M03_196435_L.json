@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196435",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Family건강] 전립선 환자 치료 놓치면 방광암 걸릴 가능성 커",
+    "newsSubTitle": "",
+    "newsContent": "전립선비대증 환자가 적절한 치료를 못 받거나 요로결석.감염 등 다른 비뇨기질환이 있을 땐 방광암 발생을 염두에 둬야 할 것 같다.\n서울대 의대 예방의학과 강대희 교수는 최근 미국 국립암연구소, 스웨덴 카롤린스카 연구소와 함께 1964년부터 83년까지 경요도 전립선절개술을 받은 전립선비대증 환자 7만9280명을 대상으로 방광암 발생률을 관찰했다.\n그 결과 추적기간이 4~6년이면 20%, 7~9년은 30%, 10~26년이면 50%에서 방광암 발생률이 증가하는 것을 확인했다.\n강 교수팀은 특히 이런 경향은 요로결석.감염 등 다른 비뇨기질환이 동반된 전립선비대증 환자에게서 가중돼 추적기간이 10년 이내면 1.7배, 10년 이상일 땐 2배까지 증가했다.\n이번 연구에 대해 강 교수는 \\\"전립선비대증 자체가 방광암 발생을 증가시키기보다 치료시기를 놓치거나 요로결석.감염 등 다른 비뇨기 질환을 동반할 때 방광암 발생률이 증가하는 것을 의미한다\\\"고 말했다.\n따라서 전립선 연령에 들어간 50세 이후 남성은 전립선비대증을 조기 발견하고, 평상시 발을 움직이는 운동, 더운 물 좌욕, 규칙적인 성생활 등 예방법을 실천해야 한다\\\"고 밝혔다.\n전립선비대증은 요도를 둘러싼 전립선이 비대해지는 질환. 소변 줄기가 가늘어지고, 소변을 참는 일도 힘들어 화장실을 자주 들락거린다.\n50대 이후 급증해 70대엔 70%에서 이런 배뇨 곤란 증상이 나타난다.\n초기 증상엔 전립선과 방광 근육을 이완시키는 약물 치료로 호전된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전립선비대증 환자가 적절한 치료를 못 받거나 요로결석.감염 등 다른 비뇨기질환이 있을 땐 방광암 발생을 염두에 둬야 할 것 같다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울대 의대 예방의학과 강대희 교수는 최근 미국 국립암연구소, 스웨덴 카롤린스카 연구소와 함께 1964년부터 83년까지 경요도 전립선절개술을 받은 전립선비대증 환자 7만9280명을 대상으로 방광암 발생률을 관찰했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 결과 추적기간이 4~6년이면 20%, 7~9년은 30%, 10~26년이면 50%에서 방광암 발생률이 증가하는 것을 확인했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "강 교수팀은 특히 이런 경향은 요로결석.감염 등 다른 비뇨기질환이 동반된 전립선비대증 환자에게서 가중돼 추적기간이 10년 이내면 1.7배, 10년 이상일 땐 2배까지 증가했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 연구에 대해 강 교수는 \\\"전립선비대증 자체가 방광암 발생을 증가시키기보다 치료시기를 놓치거나 요로결석.감염 등 다른 비뇨기 질환을 동반할 때 방광암 발생률이 증가하는 것을 의미한다\\\"고 말했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "따라서 전립선 연령에 들어간 50세 이후 남성은 전립선비대증을 조기 발견하고, 평상시 발을 움직이는 운동, 더운 물 좌욕, 규칙적인 성생활 등 예방법을 실천해야 한다\\\"고 밝혔다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "전립선비대증은 요도를 둘러싼 전립선이 비대해지는 질환. 소변 줄기가 가늘어지고, 소변을 참는 일도 힘들어 화장실을 자주 들락거린다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "50대 이후 급증해 70대엔 70%에서 이런 배뇨 곤란 증상이 나타난다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "초기 증상엔 전립선과 방광 근육을 이완시키는 약물 치료로 호전된다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전립선 비대증 치료하지 않으면 방광암 되어 돌아온다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193110",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "영·유아 '로타바이러스 장염' 백신 맞아야",
+    "newsSubTitle": "인제대학교 부산백병원 소아청소년과 신종범 교수",
+    "newsContent": "올해도 어김없이 봄과 함께 황사와 미세먼지, 심한 일교차라는 불청객이 찾아왔다.\n소아청소년과 진료실은 매일같이 감기 등 급성 상기도 감염으로 찾아오는 소아환자로 붐빈다.\n감염 환자는 이뿐이 아니다.\n호흡기 질환과 더불어 바이러스성 장염 환자가 많다.\n특히 로타바이러스 장염은 주의해야 할 질환 중 하나다.\n▲ 인제대학교 부산백병원 소아청소년과 신종범 교수 장염이라고 하면 여름에 유행하는 병이라 생각하기 쉽다.\n그런데 로타바이러스 장염은 매년 1~5월 발생률이 가장 높다.\n더구나 영·유아에게는 계절적인 차이 없이 연중 고르게 발생한다. 4세 이하 환자가 전체의 약 65%를 차지할 만큼 영·유아에게 주로 발생한다.\n로타바이러스의 생존력이 강해 흔히 쓰이는 비알코올성 손 소독제나 일반적인 감염 관리로는 쉽게 해결되지 않는다.\n개인위생 관리만으로 예방하기 무척 힘든 것이 특징이다.\n로타바이러스는 주로 대변에서 구강으로 전염된다.\n그 외에도 여러 경로로 감염된다.\n감염 후 1~3일의 짧은 잠복기를 거친 뒤 발열과 구토·복통·설사 증상이 나타난다.\n발열과 구토는 2일째에 사라지지만 복통과 설사는 1주일 정도 계속된다.\n길면 2~3주간 지속될 수 있다.\n증상이 오래 가다 보니 체내 수분을 제대로 보충해 주지 못하면 심한 탈수로 인해 생명이 위험해질 수 있다.\n항바이러스 치료제도 없어 일단 로타바이러스 장염에 걸리면 수분을 충분히 공급해 탈수를 막는 것밖에 별다른 치료법이 없다.\n이처럼 로타바이러스 장염은 대부분의 아기가 3~4세가 될 때까지 두세 번 이상 감염된다.\n개인위생이나 감염관리만으로는 바이러스의 특성상 감염을 예방하기가 힘들어 예방백신이 개발됐다.\n현재 국내에서 접종 가능한 로타바이러스 백신은 두 가지다.\n사람에게서 분리한 균주(사람 균주)를 이용한 백신과 동물·사람 균주 재배열 백신이 있다.\n두 백신 모두 유행하는 다섯 가지 로타바이러스 혈청형(바이러스 유형)을 동일하게 예방한다.\n다만 접종 횟수가 다르다.\n사람 균주 백신은 두 번, 유전자 재조합 균주 백신은 세 번 접종해야 한다.\n균주의 차이 때문이다.\n우리 몸은 두 번 로타바이러스에 감염되고 나면 중증 및 심각한 로타바이러스 장염에 대해 혈청형에 상관없이 100% 예방할 수 있는 면역력을 갖게 된다.\n사람 균주 백신은 이러한 자연감염 원리를 이용해 2회 접종만으로도 충분한 예방 효과를 발휘한다.\n특히 우리나라에선 생후 3개월부터 35개월 사이에 심한 증상을 보이는 로타바이러스 장염이 잘 발생하기 때문에 조기에 백신을 접종해 질환을 빨리 예방하는 것이 좋다.\n면역력이 약한 영·유아의 건강을 위해서는 백신이 있는 감염질환이라면 우선 예방접종을 받도록 하는 것이 최선이다.\n백신을 접종한 후에도 로타바이스가 유행하면 개인위생을 철저히 해야 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 30,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "올해도 어김없이 봄과 함께 황사와 미세먼지, 심한 일교차라는 불청객이 찾아왔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소아청소년과 진료실은 매일같이 감기 등 급성 상기도 감염으로 찾아오는 소아환자로 붐빈다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "감염 환자는 이뿐이 아니다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "호흡기 질환과 더불어 바이러스성 장염 환자가 많다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 로타바이러스 장염은 주의해야 할 질환 중 하나다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "▲ 인제대학교 부산백병원 소아청소년과 신종범 교수 장염이라고 하면 여름에 유행하는 병이라 생각하기 쉽다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그런데 로타바이러스 장염은 매년 1~5월 발생률이 가장 높다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "더구나 영·유아에게는 계절적인 차이 없이 연중 고르게 발생한다. 4세 이하 환자가 전체의 약 65%를 차지할 만큼 영·유아에게 주로 발생한다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "로타바이러스의 생존력이 강해 흔히 쓰이는 비알코올성 손 소독제나 일반적인 감염 관리로는 쉽게 해결되지 않는다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "개인위생 관리만으로 예방하기 무척 힘든 것이 특징이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "로타바이러스는 주로 대변에서 구강으로 전염된다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그 외에도 여러 경로로 감염된다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "감염 후 1~3일의 짧은 잠복기를 거친 뒤 발열과 구토·복통·설사 증상이 나타난다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "발열과 구토는 2일째에 사라지지만 복통과 설사는 1주일 정도 계속된다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "길면 2~3주간 지속될 수 있다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "증상이 오래 가다 보니 체내 수분을 제대로 보충해 주지 못하면 심한 탈수로 인해 생명이 위험해질 수 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "항바이러스 치료제도 없어 일단 로타바이러스 장염에 걸리면 수분을 충분히 공급해 탈수를 막는 것밖에 별다른 치료법이 없다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "이처럼 로타바이러스 장염은 대부분의 아기가 3~4세가 될 때까지 두세 번 이상 감염된다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "개인위생이나 감염관리만으로는 바이러스의 특성상 감염을 예방하기가 힘들어 예방백신이 개발됐다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "현재 국내에서 접종 가능한 로타바이러스 백신은 두 가지다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "사람에게서 분리한 균주(사람 균주)를 이용한 백신과 동물·사람 균주 재배열 백신이 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "두 백신 모두 유행하는 다섯 가지 로타바이러스 혈청형(바이러스 유형)을 동일하게 예방한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "다만 접종 횟수가 다르다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "사람 균주 백신은 두 번, 유전자 재조합 균주 백신은 세 번 접종해야 한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "균주의 차이 때문이다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "우리 몸은 두 번 로타바이러스에 감염되고 나면 중증 및 심각한 로타바이러스 장염에 대해 혈청형에 상관없이 100% 예방할 수 있는 면역력을 갖게 된다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "사람 균주 백신은 이러한 자연감염 원리를 이용해 2회 접종만으로도 충분한 예방 효과를 발휘한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "특히 우리나라에선 생후 3개월부터 35개월 사이에 심한 증상을 보이는 로타바이러스 장염이 잘 발생하기 때문에 조기에 백신을 접종해 질환을 빨리 예방하는 것이 좋다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 29,
+        "sentenceContent": "면역력이 약한 영·유아의 건강을 위해서는 백신이 있는 감염질환이라면 우선 예방접종을 받도록 하는 것이 최선이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 30,
+        "sentenceContent": "백신을 접종한 후에도 로타바이스가 유행하면 개인위생을 철저히 해야 한다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영유아라면 반드시 백신 맞아야... 매년 1~5월 발생률이 가장 높아",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 29,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 30,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

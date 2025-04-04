@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194717",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[week&개봉작] 다빈치 코드 外",
+    "newsSubTitle": "",
+    "newsContent": "다빈치 코드 감독:론 하워드 출연:톰 행크스, 오드리 토투, 이언 매컬런 장르:미스터리 등급:15세 내용:특별 강연을 위해 파리에 체류 중이던 하버드대 암호학자 로버트 랭던. 어느 깊은 밤, 그는 긴박한 호출을 받는다.\n루브르 박물관의 수석 큐레이터 자크 소니에르가 박물관에서 시체로 발견되었기 때문. 게다가 그는 살인 누명까지 뒤집어쓰게 될 지경이다.\n시체 주변에는 이해할 수 없는 암호로 가득 차 있었고, 이를 조사하고 누명을 벗기 위해 그는 자크의 손녀이자 암호학자인 소피와 함께 그 수수께끼를 풀어나간다.\n세일즈우먼 감독:비르진 와공 출연:안 코에상, 토니 토드, 미셸 봄포일 장르:드라마 등급:18세 내용:백과사전을 판매하는 세일즈우먼 마리는 누가 봐도 부러운 여성이다.\n그녀는 자상한 남편 프랑수아와 귀여운 아들과 함께 달콤한 부부 생활을 하고 있다.\n회사 생활 역시 잘 풀려 상사는 그녀에게 관리직으로의 승진을 제안한다.\n하지만 마리는 늘 자신의 삶에 무언가가 빠져 있다고 생각한다. 20자평:기혼여성이라면 누구나 공감할 불륜에 대한 보고서. 레밍 감독:도미니크 몰 출연:로랑 뤼카스, 샬럿 갱스부르, 샬럿 램플링 장르:드라마 등급:15세 내용:프랑스 남부의 낯선 도시로 이사 온 알랭과 베네딕트는 결혼 3년차 부부다.\n더 이상 남부러울 것이 없는 알랭과 베네딕트 부부는 언제나 행복해 보인다.\n그러던 어느 날 부부는 남편의 상사인 리샤르 부부를 식사 초대한다.\n하지만 식사 도중 왠지 리샤르의 부인 알리스는 점점 이상한 행동을 보인다.\n20자평:아무도 한치 앞을 예상할 수 없다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "다빈치 코드 감독:론 하워드 출연:톰 행크스, 오드리 토투, 이언 매컬런 장르:미스터리 등급:15세 내용:특별 강연을 위해 파리에 체류 중이던 하버드대 암호학자 로버트 랭던. 어느 깊은 밤, 그는 긴박한 호출을 받는다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "루브르 박물관의 수석 큐레이터 자크 소니에르가 박물관에서 시체로 발견되었기 때문. 게다가 그는 살인 누명까지 뒤집어쓰게 될 지경이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "시체 주변에는 이해할 수 없는 암호로 가득 차 있었고, 이를 조사하고 누명을 벗기 위해 그는 자크의 손녀이자 암호학자인 소피와 함께 그 수수께끼를 풀어나간다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "세일즈우먼 감독:비르진 와공 출연:안 코에상, 토니 토드, 미셸 봄포일 장르:드라마 등급:18세 내용:백과사전을 판매하는 세일즈우먼 마리는 누가 봐도 부러운 여성이다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그녀는 자상한 남편 프랑수아와 귀여운 아들과 함께 달콤한 부부 생활을 하고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "회사 생활 역시 잘 풀려 상사는 그녀에게 관리직으로의 승진을 제안한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 마리는 늘 자신의 삶에 무언가가 빠져 있다고 생각한다. 20자평:기혼여성이라면 누구나 공감할 불륜에 대한 보고서. 레밍 감독:도미니크 몰 출연:로랑 뤼카스, 샬럿 갱스부르, 샬럿 램플링 장르:드라마 등급:15세 내용:프랑스 남부의 낯선 도시로 이사 온 알랭과 베네딕트는 결혼 3년차 부부다.",
+        "sentenceSize": 166
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "더 이상 남부러울 것이 없는 알랭과 베네딕트 부부는 언제나 행복해 보인다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그러던 어느 날 부부는 남편의 상사인 리샤르 부부를 식사 초대한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "하지만 식사 도중 왠지 리샤르의 부인 알리스는 점점 이상한 행동을 보인다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "20자평:아무도 한치 앞을 예상할 수 없다.",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "루브르 박물관에서 벌어지는 수수께끼부터 기혼여성의 불륜 이야기까지... 이번 주 개봉작은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

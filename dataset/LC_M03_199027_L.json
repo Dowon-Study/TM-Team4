@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199027",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 고품질 유기농 알로에로 면역 보강",
+    "newsSubTitle": "",
+    "newsContent": "농식품부 장관상 그린알로에‘그린프리미엄베라골드400 그린알로에의 마시는 건강기능식품‘그린프리미엄베라골드400’(사진)은 알로에의 기능성을 갖추고 있으면서 산업적으로 성장 잠재력이 크다는 점을 인정받아 농림축산식품부 장관상을 수상했다.\n그린알로에는 체험마케팅 전략으로 브랜드 인지도와 소비자 신뢰도를 높였다.\n이 같은 전략으로 그린알로에는 회사를 설립한 지 불과 2년 만에 브랜드 마케팅 인력 규모가 2배로 급성장했다.\n소비자가 제품을 직접 사용하면서 쌓인 신뢰도가 제품 경쟁력으로 이어졌다는 의미다.\n품질을 끌어올리기 위한 노력도 돋보인다.\n그린알로에는 원료부터 깐깐하게 선택한다.\n그린프리미엄베라골드400의 주원료인 알로에는 미국 남부 지역에서 재배한 것만 사용한다.\n토양 품질이 우수하고 기후 조건이 알로에 재배에 최적화돼 있어 고품질의 유기농 알로에 생산이 가능해서다.\n여기에다 국제알로에기준심의협회 기준을 통과한 알로에만 선별해 동결건조공법으로 농축한다.\n그린알로에는 알로에 유효성분인 면역 다당체 함량을 높여 제품 경쟁력을 키웠다.\n면역 다당체는 인체 면역기능을 활성화시켜 면역력을 높여 준다.\n그린프리미엄베라골드400 한 잔(150ml)에는 고함량으로 배합한 면역 다당체 300㎎이 들어 있다.\n하루에 필요한 면역 다당체를 모두 섭취할 수 있다.\n합성보존료·합성감미료·합성착향료 같은 인공 성분 사용을 일절 배제한다.\n그린알로에가 추구하는 3무(無) 정책이다.\n이들 인공 성분 대신 천연 보존제를 사용해 소비자가 안심하고 먹을 수 있도록 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "농식품부 장관상 그린알로에‘그린프리미엄베라골드400 그린알로에의 마시는 건강기능식품‘그린프리미엄베라골드400’(사진)은 알로에의 기능성을 갖추고 있으면서 산업적으로 성장 잠재력이 크다는 점을 인정받아 농림축산식품부 장관상을 수상했다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그린알로에는 체험마케팅 전략으로 브랜드 인지도와 소비자 신뢰도를 높였다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 같은 전략으로 그린알로에는 회사를 설립한 지 불과 2년 만에 브랜드 마케팅 인력 규모가 2배로 급성장했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "소비자가 제품을 직접 사용하면서 쌓인 신뢰도가 제품 경쟁력으로 이어졌다는 의미다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "품질을 끌어올리기 위한 노력도 돋보인다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그린알로에는 원료부터 깐깐하게 선택한다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그린프리미엄베라골드400의 주원료인 알로에는 미국 남부 지역에서 재배한 것만 사용한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "토양 품질이 우수하고 기후 조건이 알로에 재배에 최적화돼 있어 고품질의 유기농 알로에 생산이 가능해서다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "여기에다 국제알로에기준심의협회 기준을 통과한 알로에만 선별해 동결건조공법으로 농축한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그린알로에는 알로에 유효성분인 면역 다당체 함량을 높여 제품 경쟁력을 키웠다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "면역 다당체는 인체 면역기능을 활성화시켜 면역력을 높여 준다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그린프리미엄베라골드400 한 잔(150ml)에는 고함량으로 배합한 면역 다당체 300㎎이 들어 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "하루에 필요한 면역 다당체를 모두 섭취할 수 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "합성보존료·합성감미료·합성착향료 같은 인공 성분 사용을 일절 배제한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "그린알로에가 추구하는 3무(無) 정책이다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "이들 인공 성분 대신 천연 보존제를 사용해 소비자가 안심하고 먹을 수 있도록 했다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "원료부터 깐깐하게 선택한 고품질의 '이것', 한 잔으로 하루 면역력 챙겨",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

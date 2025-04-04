@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199204",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"두경부암 조기 발견하면 완치 가능\\\"",
+    "newsSubTitle": "두경부암 전문가들, 캠페인 진행…김혜련 교수, 조기 진단 중요성 강조",
+    "newsContent": "두경부암 전문가들이 조기 발견의 중요성을 홍보하고 나섰다.\n한국 머크는 대한두경부종양학회, 대한갑상선두경부외과학회, 대한항암요법연구회와 함께 제1회 ‘두경부암 바로알기 캠페인(Head & Neck Cancer Awareness Campaign)’을 오는 13일까지 진행한다고 밝혔다.\n이번 캠페인은 유럽 13개국이 참여하는 두경부암 캠페인 ‘MAKE SENSE CAMPAIGN’처럼 11월 9일부터 13일까지를 두경부암 주간으로 지정하고, 질환 홍보에 집중한다.\n▲ 연세암병원 김혜련 교수가 두경부암에 대해 강의하고 있다.\n앞서 지난 7일에는 한양대학교 HIT 빌딩에서 전문가들이 △두경부암이란? △두경부암의 진단과 예방 △두경부암의 통합치료 및 수술적 치료 등을 주제로 강의를 진행했다.\n연세암병원 종양내과 김혜련 교수는 “두경부암은 다른 암에 비해 잘 알려져 있지 않아 처음 진단받은 환자 중 2/3가 이미 병기가 진행된 상태”라며 “5년 생존율이 44% 정도로 낮다. 두경부암에 대한 올바른 이해와 함께 정확한 조기 진단이 이뤄져야 한다”고 말했다.\n김 교수는 또 “두경부암은 조기에 발견하면 완치할 수 있다”며 조기 검진의 중요성을 강조했다.\n한편, 두경부암 바로알기 사이트(http://headneckcampaign.co.kr/)에서는 누구나 참여 가능한 퀴즈 이벤트를 진행한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "두경부암 전문가들이 조기 발견의 중요성을 홍보하고 나섰다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국 머크는 대한두경부종양학회, 대한갑상선두경부외과학회, 대한항암요법연구회와 함께 제1회 ‘두경부암 바로알기 캠페인(Head & Neck Cancer Awareness Campaign)’을 오는 13일까지 진행한다고 밝혔다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 캠페인은 유럽 13개국이 참여하는 두경부암 캠페인 ‘MAKE SENSE CAMPAIGN’처럼 11월 9일부터 13일까지를 두경부암 주간으로 지정하고, 질환 홍보에 집중한다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "▲ 연세암병원 김혜련 교수가 두경부암에 대해 강의하고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 지난 7일에는 한양대학교 HIT 빌딩에서 전문가들이 △두경부암이란? △두경부암의 진단과 예방 △두경부암의 통합치료 및 수술적 치료 등을 주제로 강의를 진행했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연세암병원 종양내과 김혜련 교수는 “두경부암은 다른 암에 비해 잘 알려져 있지 않아 처음 진단받은 환자 중 2/3가 이미 병기가 진행된 상태”라며 “5년 생존율이 44% 정도로 낮다. 두경부암에 대한 올바른 이해와 함께 정확한 조기 진단이 이뤄져야 한다”고 말했다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김 교수는 또 “두경부암은 조기에 발견하면 완치할 수 있다”며 조기 검진의 중요성을 강조했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, 두경부암 바로알기 사이트(http://headneckcampaign.co.kr/)에서는 누구나 참여 가능한 퀴즈 이벤트를 진행한다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이 암은 다른 암에 비해 잘 알려져 있지 않아 조기 진단이 이뤄지는 것이 중요...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

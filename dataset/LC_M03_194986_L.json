@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194986",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강 핫뉴스] 비만·쪼그려 앉기 등 여성 무릎관절염 주범",
+    "newsSubTitle": "",
+    "newsContent": "우리나라 여성의 무릎 관절염 원인이 비만과 다산, 쪼그려 앉는 생활 때문이라는 통계가 나왔다.\n이 같은 사실은 힘찬병원(인천시 연수동)의 이수찬 원장이 1998년 10월부터 2003년 10월까지 수술한 7천례(4천2백19명)의 인공관절수술 분석에서 드러났다.\n수술환자 중 여성이 차지하는 비율은 94%였다.\n이중 가사노동과 농사를 짓는 여성이 전체의 80%를 넘어 자세와 관절염의 깊은 상관관계를 보여줬다.\n특히 빨래.걸레 등 쪼그려 앉는 자세는 무릎에 치명적이다.\n서 있을 때보다 무릎뼈의 연골이 받는 압력이 7. 8배나 늘어나기 때문. 이번 조사에선 또 수술한 여성의 출산율이 평균 4.7회나 됐다.\n임신하면 10㎏ 이상 몸무게가 증가해 무릎에 부담을 주기 때문이다.\n이는 비만과의 깊은 상관성에서도 나타난다.\n수술환자 중 비만이 전체 여성의 79. 9%를 차지했다.\n따라서 나이가 들어 무릎관절염으로 고생하지 않으려면 가능하면 쪼그려 앉는 자세를 피해야 한다.\n또 비만을 줄이고, 무릎주변 근육을 강화하는 운동이 필요하다.\n이원장은 \\\"운동선수들이 무릎뼈가 닳아 약한데도 버티는 것은 운동을 통해 다리 근육을 발달시켰기 때문\\\"이라며 \\\"틈틈이 의자에 앉아 다리를 위로 들어주는 운동을 하라\\\"고 권했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우리나라 여성의 무릎 관절염 원인이 비만과 다산, 쪼그려 앉는 생활 때문이라는 통계가 나왔다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 같은 사실은 힘찬병원(인천시 연수동)의 이수찬 원장이 1998년 10월부터 2003년 10월까지 수술한 7천례(4천2백19명)의 인공관절수술 분석에서 드러났다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "수술환자 중 여성이 차지하는 비율은 94%였다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이중 가사노동과 농사를 짓는 여성이 전체의 80%를 넘어 자세와 관절염의 깊은 상관관계를 보여줬다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 빨래.걸레 등 쪼그려 앉는 자세는 무릎에 치명적이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서 있을 때보다 무릎뼈의 연골이 받는 압력이 7. 8배나 늘어나기 때문. 이번 조사에선 또 수술한 여성의 출산율이 평균 4.7회나 됐다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "임신하면 10㎏ 이상 몸무게가 증가해 무릎에 부담을 주기 때문이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이는 비만과의 깊은 상관성에서도 나타난다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "수술환자 중 비만이 전체 여성의 79. 9%를 차지했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "따라서 나이가 들어 무릎관절염으로 고생하지 않으려면 가능하면 쪼그려 앉는 자세를 피해야 한다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "또 비만을 줄이고, 무릎주변 근육을 강화하는 운동이 필요하다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이원장은 \\\"운동선수들이 무릎뼈가 닳아 약한데도 버티는 것은 운동을 통해 다리 근육을 발달시켰기 때문\\\"이라며 \\\"틈틈이 의자에 앉아 다리를 위로 들어주는 운동을 하라\\\"고 권했다.",
+        "sentenceSize": 101
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우리나라 무릎 관절염 수술 환자의 94%가 여성... 원인은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

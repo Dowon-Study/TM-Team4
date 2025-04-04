@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192941",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[Family건강] 신장병 자가진단 해봐요",
+    "newsSubTitle": "코넬대 방희정 교수 '위험지수' 개발",
+    "newsContent": "가정에서 간단하게 자신이 신장병에 걸렸는지를 판단할 수 있는 자가진단법이 한국인 학자에 의해 개발됐다.\n코넬대 의대 의료통계 및 역학과 방희정 교수가 개발한 '신장병 위험지수'는 질병에 영향을 주는 위험인자를 점수화해 누구나 쉽게 발병 가능성을 예측할 수 있다.\n위험인자는 나이.성별.고혈압 등 9가지. 각각의 인자는 신장병 발병에 미치는 영향 정도에 따라 1점에서 4점까지 배점했다.\n여기서 점수를 합산해 4점 이상이면 신장병을 앓고 있을 확률이 20% 이상으로 혈액검사가 필수적이다.\n또 4점 이하면 신장병 발병 가능성은 낮지만 1년에 한 번씩 검사를 받으라는 권고를 한다.\n방 교수는 미 국립의료통계센터의 건강.영양진단연구(1999~2000년)에 참여한 사람 중 최종 국립신장재단 분류에 의한 3기 이상 신장병 환자를 연구 대상자로 삼았다.\n이 진단표는 미국 국립신장병 교육프로그램(http//nkdep.nih.gov) 등 여러 의료정보 웹사이트에 올려질 예정이다.\n연구에는 코넬대 의대와 노스캐롤라이나대 의대 역학자와 신장 전문가들이 참여했으며, 방 교수가 제1저자로 참여한 논문은 의료전문지 '인터널 메디신 아카이브' 2월호에 게재됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가정에서 간단하게 자신이 신장병에 걸렸는지를 판단할 수 있는 자가진단법이 한국인 학자에 의해 개발됐다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "코넬대 의대 의료통계 및 역학과 방희정 교수가 개발한 '신장병 위험지수'는 질병에 영향을 주는 위험인자를 점수화해 누구나 쉽게 발병 가능성을 예측할 수 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "위험인자는 나이.성별.고혈압 등 9가지. 각각의 인자는 신장병 발병에 미치는 영향 정도에 따라 1점에서 4점까지 배점했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여기서 점수를 합산해 4점 이상이면 신장병을 앓고 있을 확률이 20% 이상으로 혈액검사가 필수적이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 4점 이하면 신장병 발병 가능성은 낮지만 1년에 한 번씩 검사를 받으라는 권고를 한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "방 교수는 미 국립의료통계센터의 건강.영양진단연구(1999~2000년)에 참여한 사람 중 최종 국립신장재단 분류에 의한 3기 이상 신장병 환자를 연구 대상자로 삼았다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 진단표는 미국 국립신장병 교육프로그램(http//nkdep.nih.gov) 등 여러 의료정보 웹사이트에 올려질 예정이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구에는 코넬대 의대와 노스캐롤라이나대 의대 역학자와 신장 전문가들이 참여했으며, 방 교수가 제1저자로 참여한 논문은 의료전문지 '인터널 메디신 아카이브' 2월호에 게재됐다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코넬대학 방희정 교수가 개발한 새로운 진단법, 여러 웹사이트 상 공개 예정",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

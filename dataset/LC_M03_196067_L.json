@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196067",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "오츠카제약, 아즈텍스 인수로 CNS 강화",
+    "newsSubTitle": "",
+    "newsContent": "오츠카제약이 암·중추신경계 분야 신약 파이프라인을 강화한다.\n오츠카제약은 7일 골수이형성증후군 치료제 '다코젠(Dacogen)' 등을 보유한 아스텍스사를 인수했다고 밝혔다.\n아스텍스는 1991년 바이오벤처로 출발해 영국·미국에 신물질 탐색, 임상연구 등을 수행하고 있다.\n또 프래그먼트 기반 신약개발 기술을 통해 지난 8년간 항암제·중추신경계 관련 신약 후보물질을 임상 R&D 단계까지 진행했다.\n다코젠 역시 이런 과정을 거쳐 발매했다.\n현재 다코젠은 전세계에서 2억 8000만 달러 규모의 매출을 올리고 있다.\n오츠카제약 관계자는 \\\"글로벌 오츠카제약에서 향후 집중하는 분야가 종양·중추신경계 분야\\\"라며 \\\"아스텍스 인수를 계기로 더 다양한 분야에서 성공적으로 신약을 개발해 출시할 것\\\"이라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오츠카제약이 암·중추신경계 분야 신약 파이프라인을 강화한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오츠카제약은 7일 골수이형성증후군 치료제 '다코젠(Dacogen)' 등을 보유한 아스텍스사를 인수했다고 밝혔다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아스텍스는 1991년 바이오벤처로 출발해 영국·미국에 신물질 탐색, 임상연구 등을 수행하고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 프래그먼트 기반 신약개발 기술을 통해 지난 8년간 항암제·중추신경계 관련 신약 후보물질을 임상 R&D 단계까지 진행했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다코젠 역시 이런 과정을 거쳐 발매했다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "현재 다코젠은 전세계에서 2억 8000만 달러 규모의 매출을 올리고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오츠카제약 관계자는 \\\"글로벌 오츠카제약에서 향후 집중하는 분야가 종양·중추신경계 분야\\\"라며 \\\"아스텍스 인수를 계기로 더 다양한 분야에서 성공적으로 신약을 개발해 출시할 것\\\"이라고 말했다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "오츠카제약, 아즈텍스사 인수로 기대되는 효과는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

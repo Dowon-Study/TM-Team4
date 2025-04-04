@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193463",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "눈높이 맞춰 꾸민 어린이 전문서점",
+    "newsSubTitle": "",
+    "newsContent": "아이와 엄마가 함께 책을 고르면 좋다기에 한 아이 엄마가 자녀를 데리고 서점에 갔더니 아이는 엉뚱한 것을 집어들고 떼를 쓴다고 합니다.\n몇 번 이렇게 실랑이를 벌였더니, 어찌나 귀찮았던지 다음부터는 데리고 가지 말아야겠다는 생각이 들더래요.\n이러다 보면 '너는 그냥 엄마가 갖다 주는 거나 읽어라' 싶기도 하겠지요.\n이 것 참 어려운 문제예요.\n분명 아이가 고른 책은 좋지 못한 것인데 무조건 안 된다고 할 수도 없고, 사주자니 돈이 아깝고요.\n서점 중에는 어린이 책도 신경 써서 잘 정리해 놓은 곳이 간혹 있지만, 보통 그런 기대를 하기는 어렵습니다.\n게다가 눈에 잘 보이는 곳에는 만화영화를 줄거리만 대충 짜 넣은 것들이나 저급한 출판물들이 진열돼 있기까지 합니다.\n서점에서는 아이들이 찾기 때문에(잘 팔리니까) 갖다 놓는다고 하겠지만, 없는 것을 일부러 찾지는 않을 것입니다.\n보이니 사달라 하고, 마지못해 사주다 보니 그런 형편없는 것들은 도무지 사라질 줄을 모릅니다.\n이 악순환의 고리를 끊기 위해서라도 서점에서 조악한 것들을 치워 버리고 좋은 어린이 책을 갖춰주기를 바란다면 너무 지나친 것일까요?\n다행히 우리 나라에는 10년 전부터 어린이 전문 서점이 꾸준히 생겨나서 지금은 전국에 걸쳐 80여 곳이 있습니다.\n전국의 어린이전문 서점 문의는 '일산 동화나라' ( 031-919-0518) 로 하시면 도움말을 얻을 수 있습니다.\n그 중 서울 이화여대 후문 쪽 '초방' (02-392-0277) 은 가장 먼저 생겨난 곳으로 '까막 나라에서 온 삽사리' , '만희네 집' 같은, 눈에 띄는 창작 그림책 외에도 여러 권을 기획했고, 그림책 원화전을 열기도 했어요.\n오는 12월 21일까지는 그림책 워크숍을 진행하고 있습니다.\n또 몇몇 어린이 전문서점에서도 회지를 발행하거나, 강의도 마련하고, 어머니 모임도 운영하고 있어 안목도 키우고 정보도 얻을 수 있어 좋은 반응을 얻고 있습니다.\n저는 이 글을 쓰기 위해 한 어린이 전문 서점에 찾아갔습니다.\n그 곳은 아이들이 마음껏 책을 읽을 수 있도록 책상과 의자를 준비해 두었더군요.\n아이들 눈 높이에 맞춘 책꽂이에는 책들이 종류별로 잘 정리돼 있었습니다.\n아이가 어느 책을 집어들더라도 '그건 안 돼!' 할만한 책도 없으니, 신경전 벌이는 일은 없을 테죠.\n아이와 함께 나들이 삼아 어린이 전문 서점으로 나가 책을 골라보세요.\n아이들이 읽고 싶은 책을 마음껏 고를 수 있도록 도와주는 일이야말로 즐거운 책읽기의 출발입니다",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이와 엄마가 함께 책을 고르면 좋다기에 한 아이 엄마가 자녀를 데리고 서점에 갔더니 아이는 엉뚱한 것을 집어들고 떼를 쓴다고 합니다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "몇 번 이렇게 실랑이를 벌였더니, 어찌나 귀찮았던지 다음부터는 데리고 가지 말아야겠다는 생각이 들더래요.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이러다 보면 '너는 그냥 엄마가 갖다 주는 거나 읽어라' 싶기도 하겠지요.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 것 참 어려운 문제예요.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "분명 아이가 고른 책은 좋지 못한 것인데 무조건 안 된다고 할 수도 없고, 사주자니 돈이 아깝고요.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서점 중에는 어린이 책도 신경 써서 잘 정리해 놓은 곳이 간혹 있지만, 보통 그런 기대를 하기는 어렵습니다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "게다가 눈에 잘 보이는 곳에는 만화영화를 줄거리만 대충 짜 넣은 것들이나 저급한 출판물들이 진열돼 있기까지 합니다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "서점에서는 아이들이 찾기 때문에(잘 팔리니까) 갖다 놓는다고 하겠지만, 없는 것을 일부러 찾지는 않을 것입니다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "보이니 사달라 하고, 마지못해 사주다 보니 그런 형편없는 것들은 도무지 사라질 줄을 모릅니다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 악순환의 고리를 끊기 위해서라도 서점에서 조악한 것들을 치워 버리고 좋은 어린이 책을 갖춰주기를 바란다면 너무 지나친 것일까요?",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "다행히 우리 나라에는 10년 전부터 어린이 전문 서점이 꾸준히 생겨나서 지금은 전국에 걸쳐 80여 곳이 있습니다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "전국의 어린이전문 서점 문의는 '일산 동화나라' ( 031-919-0518) 로 하시면 도움말을 얻을 수 있습니다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그 중 서울 이화여대 후문 쪽 '초방' (02-392-0277) 은 가장 먼저 생겨난 곳으로 '까막 나라에서 온 삽사리' , '만희네 집' 같은, 눈에 띄는 창작 그림책 외에도 여러 권을 기획했고, 그림책 원화전을 열기도 했어요.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "오는 12월 21일까지는 그림책 워크숍을 진행하고 있습니다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "또 몇몇 어린이 전문서점에서도 회지를 발행하거나, 강의도 마련하고, 어머니 모임도 운영하고 있어 안목도 키우고 정보도 얻을 수 있어 좋은 반응을 얻고 있습니다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "저는 이 글을 쓰기 위해 한 어린이 전문 서점에 찾아갔습니다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "그 곳은 아이들이 마음껏 책을 읽을 수 있도록 책상과 의자를 준비해 두었더군요.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "아이들 눈 높이에 맞춘 책꽂이에는 책들이 종류별로 잘 정리돼 있었습니다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "아이가 어느 책을 집어들더라도 '그건 안 돼!' 할만한 책도 없으니, 신경전 벌이는 일은 없을 테죠.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "아이와 함께 나들이 삼아 어린이 전문 서점으로 나가 책을 골라보세요.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "아이들이 읽고 싶은 책을 마음껏 고를 수 있도록 도와주는 일이야말로 즐거운 책읽기의 출발입니다",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이와 책을 고를 때 웃픈 엄마, 이젠 어린이 전문 서점으로 가보자!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

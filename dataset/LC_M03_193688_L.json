@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193688",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] “냉온 성분 함께 든 알로에, 몸이 찬 사람에게도 좋아”",
+    "newsSubTitle": "인터뷰 유니베라 도선길 연구소장",
+    "newsContent": "대형 알로에 농장은 멕시코·미국 등지에 있지만 이를 관리하는 회사는 다름 아닌 한국 기업이다.\n알로에 재배·가공·생산에서 판매까지 담당하는 회사는 한국의 유니베라가 유일하다.\n알로에 전문가인 유니베라 도선길 연구소장에게 알로에 대한 궁금증을 물었다.\nQ : 알로에를 집에서 기르는 사람도 있다.\n건강기능식품으로 만든 것과는 어떤 차이가 있나.\nA : “알로에라고 모두 먹을 수 있는 것이 아니다. 관상용과 식용이 다르다. 알로에는 뽑힌 후 여섯 시간이 지나면 유효성분이 손실되고 미생물이 번식하기 쉽다. 생초는 피부 진정 정도의 효과를 볼 수는 있다.” Q : 식품의약품안전처에서 알로에를 면역·피부·장 건강 개선에 효과가 있다고 인정했다.\n얼마만큼 먹어야 효과가 있나.\nA : “하루 100~420㎎ 섭취할 때 효과를 볼 수 있다고 고시돼 있다. 우리 연구에서는 하루 300㎎ 이상 섭취했을 때 체내 방어 능력이 확연히 높아진 것을 확인할 수 있었다.” Q : 알로에는 몸이 냉한 사람은 먹으면 안 된다는 말도 있던데.\nA : “잘못된 상식이다. 알로에는 찬 성분과 더운 성분이 같이 있어 항진된 부분은 진정시켜 주고 부족한 부분은 기능을 촉진시켜 줘 몸의 밸런스를 맞춘다. 특히 건강기능식품에는 알로에의 유효한 성분만 농축하므로 성질이 차다고 말할 수 없다. 모든 사람이 부작용 없이 건강하게 먹을 수 있다.” Q : 알로에도 국산이 좋나.\nA : “아니다. 알로에는 멕시코 북부, 미국 남부 처럼 아주 건조한 땅에서 자라야 유효 성분이 많아진다. 화학비료를 사용하면 잘 자라지 않기 때문에 자연 퇴비로 경작한 알로에가 좋다.” Q : 알로에 주스로도 효과를 볼 수 있나.\nA : “과육이 든 주스는 건강기능식품이 아니다. 저가의 과육과 설탕·첨가물을 넣은 음료일 뿐이다. 면역개선 같은 효과는 없다.”",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대형 알로에 농장은 멕시코·미국 등지에 있지만 이를 관리하는 회사는 다름 아닌 한국 기업이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "알로에 재배·가공·생산에서 판매까지 담당하는 회사는 한국의 유니베라가 유일하다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "알로에 전문가인 유니베라 도선길 연구소장에게 알로에 대한 궁금증을 물었다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "Q : 알로에를 집에서 기르는 사람도 있다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "건강기능식품으로 만든 것과는 어떤 차이가 있나.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "A : “알로에라고 모두 먹을 수 있는 것이 아니다. 관상용과 식용이 다르다. 알로에는 뽑힌 후 여섯 시간이 지나면 유효성분이 손실되고 미생물이 번식하기 쉽다. 생초는 피부 진정 정도의 효과를 볼 수는 있다.” Q : 식품의약품안전처에서 알로에를 면역·피부·장 건강 개선에 효과가 있다고 인정했다.",
+        "sentenceSize": 166
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "얼마만큼 먹어야 효과가 있나.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "A : “하루 100~420㎎ 섭취할 때 효과를 볼 수 있다고 고시돼 있다. 우리 연구에서는 하루 300㎎ 이상 섭취했을 때 체내 방어 능력이 확연히 높아진 것을 확인할 수 있었다.” Q : 알로에는 몸이 냉한 사람은 먹으면 안 된다는 말도 있던데.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "A : “잘못된 상식이다. 알로에는 찬 성분과 더운 성분이 같이 있어 항진된 부분은 진정시켜 주고 부족한 부분은 기능을 촉진시켜 줘 몸의 밸런스를 맞춘다. 특히 건강기능식품에는 알로에의 유효한 성분만 농축하므로 성질이 차다고 말할 수 없다. 모든 사람이 부작용 없이 건강하게 먹을 수 있다.” Q : 알로에도 국산이 좋나.",
+        "sentenceSize": 180
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "A : “아니다. 알로에는 멕시코 북부, 미국 남부 처럼 아주 건조한 땅에서 자라야 유효 성분이 많아진다. 화학비료를 사용하면 잘 자라지 않기 때문에 자연 퇴비로 경작한 알로에가 좋다.” Q : 알로에 주스로도 효과를 볼 수 있나.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "A : “과육이 든 주스는 건강기능식품이 아니다. 저가의 과육과 설탕·첨가물을 넣은 음료일 뿐이다. 면역개선 같은 효과는 없다.”",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "알로에 재배·가공·생산에서 판매까지 하는 세계 유일의 한국 유니베라 연구소장, '무물'에 답하다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

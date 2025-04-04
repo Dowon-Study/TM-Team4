@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196158",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "피부 미용에 좋은 '오크라', \\\"어떤 채소야?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "피부를 위한 채소 오크라의 효능이 공개됐다.\n10일 오전 방송된 SBS ‘좋은아침’에는 피부를 위한 채소 오크라의 효능과 실제로 효과를 본 한 주부의 내용이 방영됐다.\n오크라는 각종 비타민과 베타카로틴 성분이 풍부한 채소로 활성산소 제거와 콜라겐 형성에 도움을 주며 피부 진피층을 탄력 있게 만들어준다.\n고추와 비슷하게 생겼지만 점액이 강해 씹을수록 질긴 느낌을 준다.\n아프리카 북동부가 원산지이며 이집트의 클레오파트라와 중국의 양귀비가 피부미용을 위해 먹었다는 채소로 유명하다.\n서양에서는 여자의 손가락을 닮았다고 해서 레이디스 핑거라고도 불린다.\n이날 방송에는 오크라를 이용해 피부 개선 효과를 본 주부의 사연도 함께 방영됐다.\n방송에 출연한 한 주부는 인터뷰에서 “피부를 위해 좋은 채소를 인터넷에서 찾다가 이 채소(오크라)를 발견했다. 노폐물 배출에도 좋고 식이섬유가 풍부해 배변 활동에도 많은 도움을 준다”며 오크라를 이용하는 모습을 보였다.\n온라인 중앙일보 ‘오크라 효능’ [사진 SBS ‘좋은아침’ 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "피부를 위한 채소 오크라의 효능이 공개됐다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 오전 방송된 SBS ‘좋은아침’에는 피부를 위한 채소 오크라의 효능과 실제로 효과를 본 한 주부의 내용이 방영됐다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오크라는 각종 비타민과 베타카로틴 성분이 풍부한 채소로 활성산소 제거와 콜라겐 형성에 도움을 주며 피부 진피층을 탄력 있게 만들어준다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "고추와 비슷하게 생겼지만 점액이 강해 씹을수록 질긴 느낌을 준다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아프리카 북동부가 원산지이며 이집트의 클레오파트라와 중국의 양귀비가 피부미용을 위해 먹었다는 채소로 유명하다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서양에서는 여자의 손가락을 닮았다고 해서 레이디스 핑거라고도 불린다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날 방송에는 오크라를 이용해 피부 개선 효과를 본 주부의 사연도 함께 방영됐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "방송에 출연한 한 주부는 인터뷰에서 “피부를 위해 좋은 채소를 인터넷에서 찾다가 이 채소(오크라)를 발견했다. 노폐물 배출에도 좋고 식이섬유가 풍부해 배변 활동에도 많은 도움을 준다”며 오크라를 이용하는 모습을 보였다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 ‘오크라 효능’ [사진 SBS ‘좋은아침’ 캡처]",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "피부 미용의 최강자, 화장품이 아니다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

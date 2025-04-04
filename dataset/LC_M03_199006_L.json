@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199006",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "구글, 모기로 모기 잡는다…美 캘리포니아서 대규모 실험",
+    "newsSubTitle": "",
+    "newsContent": "구글의 모기업인 '알파벳'(Alphabet)의 생명공학 자회사인 '베릴리'(Verily)가 모기 매개의 질병 확산을 막기 위해 또 하나의 프로젝트를 시작한다.\n올여름 미국 캘리포니아주 프레즈노(Fresno)에 박테리아에 감염된 모기 2000만 마리를 방출한다.\n모기를 잡기 위해 모기를 푸는 셈이다.\n17일(현지시간) 미국 ZDnet 등에 따르면 이 프로젝트의 이름은 '디버그 프레즈노'(Debug Fresno)다.\n지카나 뎅기열, 치쿤쿠 같은 바이러스를 옮기는 '이집트모기'(Aedes aegypti)가 타깃이다.\n프레즈노에는 지난 2013년 처음 유입돼 센트럴밸리에서 급속히 개체 수가 늘어나고 있다.\n반면, 베릴리가 방출하는 모기는 '볼바키아'(Wolbachia)라는 자연 박테리아에 감염된 것으로 유전적으로 변형된 것은 아니다.\n또한 수컷 모기로 감염과는 무관하다.\n원리는 간단하다.\n박테리아에 감염된 베릴리의 모기를 풀어 암컷 모기와 짝짓기를 시킨다.\n베릴리 모기와 교배한 모기는 부화한 알을 낳지 못한다.\n이에 따라 모기 전체 개체 수가 감소하는 효과를 가져온다는 것이 베릴리 측의 설명이다.\n베릴리는 기계를 통해 자동으로 모기를 기르며, 수를 조절한다.\n미국 ZDnet 등에 따르면 이번 '디버그 프레즈노' 프로젝트는 프레즈노 지역 300에이커(1,214,056㎡) 범위에서 20주간 진행될 것으로 알려졌다.\n모기 개체 수 감소를 위한 노력은 이번이 처음이 아니다.\n앞서 '빌 앤드 멜린다 게이츠'(Bill and Melinda Gates) 역시 인도네시아 등 취약 지역에서 '이집트 모기'를 포획하는 '스마트 덫' 실험을 진행 중이다.\n64개의 방으로 구성된 이 덫은 적외선으로 종마다 다른 날갯짓 그림자 패턴을 읽어내 이집트 모기가 들어오면 문을 닫는 방식이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "구글의 모기업인 '알파벳'(Alphabet)의 생명공학 자회사인 '베릴리'(Verily)가 모기 매개의 질병 확산을 막기 위해 또 하나의 프로젝트를 시작한다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "올여름 미국 캘리포니아주 프레즈노(Fresno)에 박테리아에 감염된 모기 2000만 마리를 방출한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "모기를 잡기 위해 모기를 푸는 셈이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "17일(현지시간) 미국 ZDnet 등에 따르면 이 프로젝트의 이름은 '디버그 프레즈노'(Debug Fresno)다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지카나 뎅기열, 치쿤쿠 같은 바이러스를 옮기는 '이집트모기'(Aedes aegypti)가 타깃이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "프레즈노에는 지난 2013년 처음 유입돼 센트럴밸리에서 급속히 개체 수가 늘어나고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "반면, 베릴리가 방출하는 모기는 '볼바키아'(Wolbachia)라는 자연 박테리아에 감염된 것으로 유전적으로 변형된 것은 아니다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또한 수컷 모기로 감염과는 무관하다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "원리는 간단하다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "박테리아에 감염된 베릴리의 모기를 풀어 암컷 모기와 짝짓기를 시킨다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "베릴리 모기와 교배한 모기는 부화한 알을 낳지 못한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이에 따라 모기 전체 개체 수가 감소하는 효과를 가져온다는 것이 베릴리 측의 설명이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "베릴리는 기계를 통해 자동으로 모기를 기르며, 수를 조절한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "미국 ZDnet 등에 따르면 이번 '디버그 프레즈노' 프로젝트는 프레즈노 지역 300에이커(1,214,056㎡) 범위에서 20주간 진행될 것으로 알려졌다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "모기 개체 수 감소를 위한 노력은 이번이 처음이 아니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "앞서 '빌 앤드 멜린다 게이츠'(Bill and Melinda Gates) 역시 인도네시아 등 취약 지역에서 '이집트 모기'를 포획하는 '스마트 덫' 실험을 진행 중이다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "64개의 방으로 구성된 이 덫은 적외선으로 종마다 다른 날갯짓 그림자 패턴을 읽어내 이집트 모기가 들어오면 문을 닫는 방식이다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이것'과의 전쟁 뛰어든 구글... 되려 '이것'을 푼다고?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

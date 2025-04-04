@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197130",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "김상철 미술세계 주간 첫 개인전",
+    "newsSubTitle": "부채 100여개에 시·그림 풀어내 \\\"붓 꺾은지 15년 … 손 근질근질해 혼났다”",
+    "newsContent": "김상철(49·사진) 월간 미술세계 주간의 첫 개인전이 11일 서울 인사동 동산방 화랑에서 개막했다(20일까지, 02-733-5877). 100여 개의 부채에 자유분방한 붓질로 그린 그림들을 전시 중이다.\n작품은 인물과 동물의 표정이 생생하고 해학적인 데다 수준높은 자작 한시가 씌어있어 보는 이를 감탄하게 한다.\n박우홍 동산방 사장은 “문인화의 전통을 현대적으로 이은 좋은 작품들”이라고 평가했다.\n홍익대 동양화과를 졸업한 김 주간은 1984~88년 대만 문화대학에 유학해 동양예술학으로 석사학위를 받았다.\n그러나 92년 붓을 꺾고 인사동 공평아트센터의 관장이 되면서 전시기획자 겸 평론가로 변신했다.\n공평이 문을 닫은 지난해 미술세계로 옮겨 월 3~4회 평론을 싣고 있다.\n그는 겸임교수를 맡고있는 중앙대, 상명대를 비롯해 6곳의 대학에 강의를 나가는 한편, 학술 세미나 논문발표, 전시회 도록의 평론쓰기 등의 활동을 하고 있다.\n11일 개막식에서 만난 김주간은 “이제 화가의 꿈을 다시 꿀 수 있게 됐다”며 감개무량한 표정을 지었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김상철(49·사진) 월간 미술세계 주간의 첫 개인전이 11일 서울 인사동 동산방 화랑에서 개막했다(20일까지, 02-733-5877). 100여 개의 부채에 자유분방한 붓질로 그린 그림들을 전시 중이다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "작품은 인물과 동물의 표정이 생생하고 해학적인 데다 수준높은 자작 한시가 씌어있어 보는 이를 감탄하게 한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박우홍 동산방 사장은 “문인화의 전통을 현대적으로 이은 좋은 작품들”이라고 평가했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "홍익대 동양화과를 졸업한 김 주간은 1984~88년 대만 문화대학에 유학해 동양예술학으로 석사학위를 받았다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 92년 붓을 꺾고 인사동 공평아트센터의 관장이 되면서 전시기획자 겸 평론가로 변신했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "공평이 문을 닫은 지난해 미술세계로 옮겨 월 3~4회 평론을 싣고 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 겸임교수를 맡고있는 중앙대, 상명대를 비롯해 6곳의 대학에 강의를 나가는 한편, 학술 세미나 논문발표, 전시회 도록의 평론쓰기 등의 활동을 하고 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "11일 개막식에서 만난 김주간은 “이제 화가의 꿈을 다시 꿀 수 있게 됐다”며 감개무량한 표정을 지었다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김상철 미술세계 주간 첫 개인전... 100개의 부채에 파격적인 붓질로 그린 그림들 전시",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

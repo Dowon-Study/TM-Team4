@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198510",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[내 작품을 말한다]연출가 임영웅은...",
+    "newsSubTitle": "",
+    "newsContent": "임영웅(64)은 한국 현대연극을 이끌어 온 연출가다.\n1969년 극단 산울림을 창단하며 한국 정통 리얼리즘 연극의 토대를 닦아 왔다.\n뚝심이 대단해 69년 초연한 '고도를 기다리며' 를 31년 동안 부단히 연구하며 열 두 차례나 무대에 올린 것 하나만 봐도 그의 남다른 근성을 짐작할 수 있다.\n연기자들은 그를 '호랑이 선생님' 이라고 부른다.\n연습에서나 공연에서나 조금의 흐트러짐도 용납하지 않기 때문. 최근엔 불같은 성격이 다소 죽어 후배들이 '이 빠진 호랑이' 같다고 농담도 하지만 일본 NHK방송이 지난해 그를 다룬 프로그램에서 '한국 연극계의 사자' 로 표현할 만큼 그의 모습은 예나 지금이나 변함이 없다.\n연출가로는 채윤일, 심재찬, 채승훈, 이성렬 등이, 배우로는 송영창, 안석환, 한명구 등이 그의 '지옥훈련' 을 거쳐 한국 연극계의 기둥으로 성장했다.\n연극인으로는 드물게 경영적 감각도 갖춰 85년 사재를 털어 세운 연극전용 소극장 산울림을 통해 프로듀서 시스템(전통적 동인제 제작에서 벗어나 작품 기획에 따라 배우, 스태프 등을 기용)과 장기공연 체제를 정착시켰다.\n최근 공연계의 관심사인 공짜 초대권 추방도 그가 소극장을 세우면서 선구적으로 표방했던 목표 가운데 하나다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "임영웅(64)은 한국 현대연극을 이끌어 온 연출가다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1969년 극단 산울림을 창단하며 한국 정통 리얼리즘 연극의 토대를 닦아 왔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뚝심이 대단해 69년 초연한 '고도를 기다리며' 를 31년 동안 부단히 연구하며 열 두 차례나 무대에 올린 것 하나만 봐도 그의 남다른 근성을 짐작할 수 있다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연기자들은 그를 '호랑이 선생님' 이라고 부른다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연습에서나 공연에서나 조금의 흐트러짐도 용납하지 않기 때문. 최근엔 불같은 성격이 다소 죽어 후배들이 '이 빠진 호랑이' 같다고 농담도 하지만 일본 NHK방송이 지난해 그를 다룬 프로그램에서 '한국 연극계의 사자' 로 표현할 만큼 그의 모습은 예나 지금이나 변함이 없다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연출가로는 채윤일, 심재찬, 채승훈, 이성렬 등이, 배우로는 송영창, 안석환, 한명구 등이 그의 '지옥훈련' 을 거쳐 한국 연극계의 기둥으로 성장했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연극인으로는 드물게 경영적 감각도 갖춰 85년 사재를 털어 세운 연극전용 소극장 산울림을 통해 프로듀서 시스템(전통적 동인제 제작에서 벗어나 작품 기획에 따라 배우, 스태프 등을 기용)과 장기공연 체제를 정착시켰다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최근 공연계의 관심사인 공짜 초대권 추방도 그가 소극장을 세우면서 선구적으로 표방했던 목표 가운데 하나다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "연출가 임영웅, 극단 산울림 창단하며 '이 장르' 연극 토대를 닦아",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

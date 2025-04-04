@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198428",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "비즈니스 성공하려면 말하기보다 들어라",
+    "newsSubTitle": "'귀를 열어 실속을 챙기는…' 外",
+    "newsContent": "누구나 눈에 띄고 싶어하는 자기 광고 시대에 신간은 현란한 말재간 보다 오히려 '대화의 주도권을 포기하라' 는 역발상의 전략을 제시한다.\n특히 경쟁이 치열한 비즈니스 협상과 직장 생활에서 상대방에게 믿음을 심어주고 인간관계를 오래 이어가고 싶다면 먼저 '남의 말을 잘 듣는 사람' 이 돼야 한다는 것이다.\n신간의 저자 시카가와 사키오는 일본의 저명한 커뮤니케이션 컨설턴트이자 기업체 연수의 인기 강사다.\n저자는 강연할 때마다 리더십(Leadership) 의 'L' 은 '듣다(Listen) ' 의 'L' 로 해석돼야 한다고 강조한다.\n그가 제시한 '잘 듣기' 란 얼핏 소극적 자세로 보일 수도 있다.\n하지만 잘 들으려면 생각보다 훨씬 더 적극적인 태도를 갖춰야 한다고 저자는 말한다.\n그래서 상대방의 입장을 배려하고 마음을 헤아려 듣되 궁극적으로 자신이 원하는 대로 대화를 이끌어 가는 '비즈니스 기술로서의 듣기' 라는 점에서 이 책은 고도의 심리전과도 연결되는 현명하면서도 냉정한 대화 전략서라고 할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "누구나 눈에 띄고 싶어하는 자기 광고 시대에 신간은 현란한 말재간 보다 오히려 '대화의 주도권을 포기하라' 는 역발상의 전략을 제시한다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특히 경쟁이 치열한 비즈니스 협상과 직장 생활에서 상대방에게 믿음을 심어주고 인간관계를 오래 이어가고 싶다면 먼저 '남의 말을 잘 듣는 사람' 이 돼야 한다는 것이다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신간의 저자 시카가와 사키오는 일본의 저명한 커뮤니케이션 컨설턴트이자 기업체 연수의 인기 강사다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "저자는 강연할 때마다 리더십(Leadership) 의 'L' 은 '듣다(Listen) ' 의 'L' 로 해석돼야 한다고 강조한다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그가 제시한 '잘 듣기' 란 얼핏 소극적 자세로 보일 수도 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 잘 들으려면 생각보다 훨씬 더 적극적인 태도를 갖춰야 한다고 저자는 말한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그래서 상대방의 입장을 배려하고 마음을 헤아려 듣되 궁극적으로 자신이 원하는 대로 대화를 이끌어 가는 '비즈니스 기술로서의 듣기' 라는 점에서 이 책은 고도의 심리전과도 연결되는 현명하면서도 냉정한 대화 전략서라고 할 수 있다.",
+        "sentenceSize": 127
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비즈니스 협상 잘 하려면 '이것'만 기억하세요",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

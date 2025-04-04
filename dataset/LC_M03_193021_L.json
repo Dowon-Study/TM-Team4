@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193021",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[그래픽텔링]8일부터 독감 무료 예방접종···꼭 맞아야할 이유",
+    "newsSubTitle": "",
+    "newsContent": "아침·저녁으로 기온이 떨어지면서 독감(인플루엔자)과 신종 코로나바이러스 감염증(코로나19)의 동시 유행을 뜻하는 '더블 팬데믹'에 대한 우려가 커지고 있다.\n정부는 독감과 코로나19 환자가 뒤섞일 경우 방역 체계에 혼란이 올 수 있는 만큼, 올해는 반드시 독감 예방주사를 맞을 필요가 있다고 권고했다.\n정부는 올해 독감 백신 무료접종 대상자를 중·고생과 만 62∼64세까지 확대했다.\n독감 무료접종과 관련해 궁금한 사항을 문답으로 정리했다.\n━ Q 인플루엔자는 감기와 다른가요? 감기도 예방되나요.\n━ Q 독감에 걸리면 어떤 증상이 나타나나요.\n━ Q 독감 예방접종은 언제 하는 게 좋을까.\n━ Q 3월 독감 접종을 맞았는데 이번에도 맞아야 할까.\n━ Q 독감 백신 무료접종 대상자라면 언제든지 접종할 수 있나.\n━ Q 올해 무료접종 대상자가 확대됐다던데.\n━ Q 무료접종 대상이 아닌 성인은 언제 접종을 해야 할까.\n━ Q 생후 6개월 이전에는 독감 예방접종을 할 수 없나.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아침·저녁으로 기온이 떨어지면서 독감(인플루엔자)과 신종 코로나바이러스 감염증(코로나19)의 동시 유행을 뜻하는 '더블 팬데믹'에 대한 우려가 커지고 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정부는 독감과 코로나19 환자가 뒤섞일 경우 방역 체계에 혼란이 올 수 있는 만큼, 올해는 반드시 독감 예방주사를 맞을 필요가 있다고 권고했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정부는 올해 독감 백신 무료접종 대상자를 중·고생과 만 62∼64세까지 확대했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "독감 무료접종과 관련해 궁금한 사항을 문답으로 정리했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "━ Q 인플루엔자는 감기와 다른가요? 감기도 예방되나요.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "━ Q 독감에 걸리면 어떤 증상이 나타나나요.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "━ Q 독감 예방접종은 언제 하는 게 좋을까.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "━ Q 3월 독감 접종을 맞았는데 이번에도 맞아야 할까.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "━ Q 독감 백신 무료접종 대상자라면 언제든지 접종할 수 있나.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "━ Q 올해 무료접종 대상자가 확대됐다던데.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "━ Q 무료접종 대상이 아닌 성인은 언제 접종을 해야 할까.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "━ Q 생후 6개월 이전에는 독감 예방접종을 할 수 없나.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무료라고 덥석 덥석 맞기 무섭다면... 꼭 알아야 할 문답 정리했다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

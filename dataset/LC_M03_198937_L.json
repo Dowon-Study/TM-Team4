@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198937",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "우울증이 '호전'되기 시작할 때가 더 위험한 이유",
+    "newsSubTitle": "",
+    "newsContent": "주위에 우울증으로 치료를 받는 사람이 있다면 알아둬야 할 내용이 있다.\n바로 우울증이 '호전'될 때 의외로 자살이 많다는 것이다.\n우울증 환자의 약 80%가 자살을 시도하거나 자살할 가능성이 있는 것으로 알려져 있다.\n기본적으로 우울증 환자들은 자살에 대한 생각을 어떤 형태로든 가지고 있을 가능성이 높은 것이다.\n그런데 이들이 자살을 감행하는 시기가 의외로 중증이었던 우울증 증세가 호전되기 시작할 때가 많다는 점을 알아야 한다.\n삼성서울병원 정신과 홍진표 교수는 \\\"우울증이 너무 심하면 자살을 하고 싶어도 그것을 실행에 옮길 힘이 없는데, 증상이 호전되면 자살을 실행할 수 있을 정도의 활동성이 생기기 때문\\\"이라고 설명했다.\n심각한 우울증을 앓고 있는 환자가 주위에 있다면, 치료를 잘 받고 증세가 호전되기 시작할 때 더 주의를 기울여야 한다.\n\\\"확실히 전보다 나아지고 있어\\\"라고 말하면 \\\"잘됐다\\\"며 박수만 쳐줄 게 아니라 혼자 있거나 생각하는 시간이 늘어나지 않도록 챙겨줄 수 있으면 도움이 되겠다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "주위에 우울증으로 치료를 받는 사람이 있다면 알아둬야 할 내용이 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "바로 우울증이 '호전'될 때 의외로 자살이 많다는 것이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "우울증 환자의 약 80%가 자살을 시도하거나 자살할 가능성이 있는 것으로 알려져 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "기본적으로 우울증 환자들은 자살에 대한 생각을 어떤 형태로든 가지고 있을 가능성이 높은 것이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그런데 이들이 자살을 감행하는 시기가 의외로 중증이었던 우울증 증세가 호전되기 시작할 때가 많다는 점을 알아야 한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "삼성서울병원 정신과 홍진표 교수는 \\\"우울증이 너무 심하면 자살을 하고 싶어도 그것을 실행에 옮길 힘이 없는데, 증상이 호전되면 자살을 실행할 수 있을 정도의 활동성이 생기기 때문\\\"이라고 설명했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "심각한 우울증을 앓고 있는 환자가 주위에 있다면, 치료를 잘 받고 증세가 호전되기 시작할 때 더 주의를 기울여야 한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "\\\"확실히 전보다 나아지고 있어\\\"라고 말하면 \\\"잘됐다\\\"며 박수만 쳐줄 게 아니라 혼자 있거나 생각하는 시간이 늘어나지 않도록 챙겨줄 수 있으면 도움이 되겠다.",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우울증 환자가 '이 징후'를 보일 때가 오히려 더 위험하다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

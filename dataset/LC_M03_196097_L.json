@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196097",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "'홈 파티용' 크리스마스 레시피, 특별한 날 '글루바인'이란?",
+    "newsSubTitle": "",
+    "newsContent": "독일 지역에서 즐겨 마시는 글루바인에 대해 관심이 모이고 있다.\n글루바인이란 ‘따뜻한 와인’이라는 뜻의 독일어다.\n글루바인(Gluhwein)은 겨울이 몹시 추운 독일 지역과 스칸디나비아 지역에서 원기 회복이나 감기 예방을 위한 약으로 마시기 시작했다.\n축제나 벼룩시장 등에 가면 종이컵에 한 국자씩 부어서 파는 포장마차도 만날 수 있고, 크리스마스나 가족 행사 때 항상 빠지지 않고 준비되는 따뜻한 음료이기도 하다.\n독일에서는 오렌지 껍질이나 클로브(Clove), 시나몬(Cinnamon) 스틱, 여러 향신료를 넣은 티백을 와인에 넣어 좀 더 편리하게 글루바인을 마신다고 한다.\n설탕 대신 꿀을 넣어도 좋다.\n만드는 방법은 대부분 비슷하지만 나라마다 호칭이 다르다.\n프랑스에서는 뱅 쇼(Vin Chaud), 미국에서는 뮬드 와인(Mulled Wine)이라고 부른다.\n끓이면 완성된다.\n글루바인은 와인에 오렌지나 레몬, 기호에 따라 시나몬 스틱, 클로브를 넣고 20∼30분 은근히 끓이면 완성된다.\n온라인 중앙일보 ‘글루바인이란’ ‘글루바인이란’[중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "독일 지역에서 즐겨 마시는 글루바인에 대해 관심이 모이고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "글루바인이란 ‘따뜻한 와인’이라는 뜻의 독일어다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "글루바인(Gluhwein)은 겨울이 몹시 추운 독일 지역과 스칸디나비아 지역에서 원기 회복이나 감기 예방을 위한 약으로 마시기 시작했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "축제나 벼룩시장 등에 가면 종이컵에 한 국자씩 부어서 파는 포장마차도 만날 수 있고, 크리스마스나 가족 행사 때 항상 빠지지 않고 준비되는 따뜻한 음료이기도 하다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "독일에서는 오렌지 껍질이나 클로브(Clove), 시나몬(Cinnamon) 스틱, 여러 향신료를 넣은 티백을 와인에 넣어 좀 더 편리하게 글루바인을 마신다고 한다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "설탕 대신 꿀을 넣어도 좋다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "만드는 방법은 대부분 비슷하지만 나라마다 호칭이 다르다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "프랑스에서는 뱅 쇼(Vin Chaud), 미국에서는 뮬드 와인(Mulled Wine)이라고 부른다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "끓이면 완성된다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "글루바인은 와인에 오렌지나 레몬, 기호에 따라 시나몬 스틱, 클로브를 넣고 20∼30분 은근히 끓이면 완성된다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인 중앙일보 ‘글루바인이란’ ‘글루바인이란’[중앙포토]",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "따뜻한 와인 '글루바인' 만드는 방법은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

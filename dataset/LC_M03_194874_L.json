@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194874",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "소설〈소나기〉작가 황순원씨 별세",
+    "newsSubTitle": "",
+    "newsContent": "원로작가 황순원(黃順元) 씨가 14일 오전 8시 서울 사당3동 자택에서 별세했다.\n85세. 중학 교과서에 실린 단편소설 〈소나기〉로 한국인 마음에 순수한 사랑의 설렘을 영원히 아로새긴 黃씨는 평남 대동에서 출생, 숭실중학 재학시절인 16세 때부터 시를 발표하며 문재(文才) 를 드러내기 시작했다.\n1936년까지 시집 두권을 펴낸 그는 이후 소설에만 전념했다. 〈학〉〈카인의 후예〉〈인간접목〉〈나무들 비탈에 서다〉〈신들의 주사위〉등 불후의 명작을 남겼으며 예술원상, 3.1문화상, 대한민국문학상 등을 수상했다.\n해방 직후 월남해 57년부터 경희대 교수로 재직하다 80년 정년퇴임한 그의 문학세계는 85년 문학과지성사에서 펴낸 〈황순원전집〉12권에 집대성돼 있다.\n96년 은관문화훈장 수상을 거부한 바 있는 黃씨에게 정부는 금관문화훈장 추서를 검토하고 있다.\n빈소는 서울대병원 영안실(02-760-2011) , 발인은 18일 오전 8시, 장지는 충남 천원 풍산공원묘원이다.\n유족으로는 부인 양정길(楊正吉) 씨와 동규(東奎.시인.서울대 교수) 씨를 포함한 3남1녀가 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "원로작가 황순원(黃順元) 씨가 14일 오전 8시 서울 사당3동 자택에서 별세했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "85세. 중학 교과서에 실린 단편소설 〈소나기〉로 한국인 마음에 순수한 사랑의 설렘을 영원히 아로새긴 黃씨는 평남 대동에서 출생, 숭실중학 재학시절인 16세 때부터 시를 발표하며 문재(文才) 를 드러내기 시작했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1936년까지 시집 두권을 펴낸 그는 이후 소설에만 전념했다. 〈학〉〈카인의 후예〉〈인간접목〉〈나무들 비탈에 서다〉〈신들의 주사위〉등 불후의 명작을 남겼으며 예술원상, 3.1문화상, 대한민국문학상 등을 수상했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "해방 직후 월남해 57년부터 경희대 교수로 재직하다 80년 정년퇴임한 그의 문학세계는 85년 문학과지성사에서 펴낸 〈황순원전집〉12권에 집대성돼 있다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "96년 은관문화훈장 수상을 거부한 바 있는 黃씨에게 정부는 금관문화훈장 추서를 검토하고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "빈소는 서울대병원 영안실(02-760-2011) , 발인은 18일 오전 8시, 장지는 충남 천원 풍산공원묘원이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유족으로는 부인 양정길(楊正吉) 씨와 동규(東奎.시인.서울대 교수) 씨를 포함한 3남1녀가 있다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소설 『소나기』의 작가 황순원 별세, 사망 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

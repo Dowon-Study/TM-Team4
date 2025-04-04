@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193906",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "'마약 투약 의혹' 영화배우 양씨, 음성 판정 받아",
+    "newsSubTitle": "",
+    "newsContent": "마약 투약 의혹을 받아 온 영화배우 양 모씨가 국립과학수사연구원(이하 국과수) 정밀 검사 결과 마약 음성 판정을 받았다.\n21일 서울 강남경찰서는 마약류 관리에 관한 법률 위반 혐의로 입건된 양 씨에 대해 혐의 없음 결론을 내리고 불기소 의견으로 송치할 예정이라고 밝혔다.\n국과수에 양 씨의 모발 및 소변의 정밀감정을 의뢰한 결과 음성 반응이 나온 만큼 경찰은 양 씨를 혐의가 없다고 봤다.\n펜터민에 대해서는 양성 반응이 나왔으나 기타 마약류는 모두 음성 반응이 나왔고, 펜터민의 경우 정상적으로 처방 받은 의약품임이 확인됐다는 게 경찰 측의 설명이다.\n경찰은 이와 관련해 미디어SR에 \\\"음성 반응이 나왔기 때문에 22일자로 불기소 의견 송치 예정\\\"이라고 말했다.\n앞서 양 씨는 지난 4월 12일 오전 3시께 서울 강남구 논현동 인근 대로를 활보하다 갑자기 접근 중이던 차량에 뛰어드는 등 이상 행동을 보이다 경찰에 붙잡혔다.\n당시 경찰의 간이시약 검사 결과 양 씨에 대해 필로폰 양성 반응이 나왔고, 이에 경찰은 국과수에 정밀감정을 의뢰한 바 있다.\n양 씨는 경찰에 \\\"새 작품에 들어가기 위해 펜디메트라진(펜터민) 성분의 식욕억제제를 처방 받아 복용했다. 이번에는 한 번에 8알을 먹었다\\\"고 진술한 것으로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "마약 투약 의혹을 받아 온 영화배우 양 모씨가 국립과학수사연구원(이하 국과수) 정밀 검사 결과 마약 음성 판정을 받았다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "21일 서울 강남경찰서는 마약류 관리에 관한 법률 위반 혐의로 입건된 양 씨에 대해 혐의 없음 결론을 내리고 불기소 의견으로 송치할 예정이라고 밝혔다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국과수에 양 씨의 모발 및 소변의 정밀감정을 의뢰한 결과 음성 반응이 나온 만큼 경찰은 양 씨를 혐의가 없다고 봤다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "펜터민에 대해서는 양성 반응이 나왔으나 기타 마약류는 모두 음성 반응이 나왔고, 펜터민의 경우 정상적으로 처방 받은 의약품임이 확인됐다는 게 경찰 측의 설명이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "경찰은 이와 관련해 미디어SR에 \\\"음성 반응이 나왔기 때문에 22일자로 불기소 의견 송치 예정\\\"이라고 말했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 양 씨는 지난 4월 12일 오전 3시께 서울 강남구 논현동 인근 대로를 활보하다 갑자기 접근 중이던 차량에 뛰어드는 등 이상 행동을 보이다 경찰에 붙잡혔다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당시 경찰의 간이시약 검사 결과 양 씨에 대해 필로폰 양성 반응이 나왔고, 이에 경찰은 국과수에 정밀감정을 의뢰한 바 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "양 씨는 경찰에 \\\"새 작품에 들어가기 위해 펜디메트라진(펜터민) 성분의 식욕억제제를 처방 받아 복용했다. 이번에는 한 번에 8알을 먹었다\\\"고 진술한 것으로 알려졌다.",
+        "sentenceSize": 94
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영화배우 양 씨, 차량에 뛰어들어... 마약 검사 결과는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

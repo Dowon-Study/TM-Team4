@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194926",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "책장 술술 넘기면 '미술이 수리수리'",
+    "newsSubTitle": "",
+    "newsContent": "'미술이 수리수리'는 김영사가 고급예술을 대중에게 쉽게 전달하기 위해 기획한 '앗, 이건 예술이야' 시리즈의 세 번째 책. 미술에 처음 눈을 뜬 어린이들, 혹은 미술과는 담쌓고 살던 어른들에게 미술에 대한 호기심을 불러일으킬 수 있도록 구성됐다.\n책을 쓴 마이클 콕스는 읽는 이들이 글씨가 좀 많은 만화책을 읽듯 술술 넘기며 이름만 어렴풋하게 들어왔던 유명한 화가들 얘기를 들으며 쉽게 접근할 수 있도록 미술사의 뒷이야기를 중심으로 서술했다.\n재미있는 그림과 이야기를 읽으며 책장을 넘기다보면 서양미술에 대한 기본적인 지식에서 미술이란 무엇인가에 대한 본질적인 문제까지 생각하게 된다.\n이 책이 쉽게 읽기만 할 그림책으로 그치지 않는 건 현대미술에 대해 콕스가 던지는 신랄한 풍자때문. 자전거 핸들과 안장, 벽돌더미, 보아 구렁이의 껍질, 감자 2000kg 등을 내놓으며 가짜 작품을 찾아보라는 등의 그의 요구에 따르다보면 무엇이 예술인지 헷갈릴 법도 하다.\n어떤 작품이 뛰어난 예술이고, 어떤 작품은 미술가인척 하는 사기꾼의 장난인가?\n훌륭한 작품과 형편 없는 작품을 어떻게 하면 폼나게 구분할 수 있을까?",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'미술이 수리수리'는 김영사가 고급예술을 대중에게 쉽게 전달하기 위해 기획한 '앗, 이건 예술이야' 시리즈의 세 번째 책. 미술에 처음 눈을 뜬 어린이들, 혹은 미술과는 담쌓고 살던 어른들에게 미술에 대한 호기심을 불러일으킬 수 있도록 구성됐다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "책을 쓴 마이클 콕스는 읽는 이들이 글씨가 좀 많은 만화책을 읽듯 술술 넘기며 이름만 어렴풋하게 들어왔던 유명한 화가들 얘기를 들으며 쉽게 접근할 수 있도록 미술사의 뒷이야기를 중심으로 서술했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "재미있는 그림과 이야기를 읽으며 책장을 넘기다보면 서양미술에 대한 기본적인 지식에서 미술이란 무엇인가에 대한 본질적인 문제까지 생각하게 된다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 책이 쉽게 읽기만 할 그림책으로 그치지 않는 건 현대미술에 대해 콕스가 던지는 신랄한 풍자때문. 자전거 핸들과 안장, 벽돌더미, 보아 구렁이의 껍질, 감자 2000kg 등을 내놓으며 가짜 작품을 찾아보라는 등의 그의 요구에 따르다보면 무엇이 예술인지 헷갈릴 법도 하다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "어떤 작품이 뛰어난 예술이고, 어떤 작품은 미술가인척 하는 사기꾼의 장난인가?",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "훌륭한 작품과 형편 없는 작품을 어떻게 하면 폼나게 구분할 수 있을까?",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'앗, 이건 예술이야' 시리즈의 세 번째 책은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

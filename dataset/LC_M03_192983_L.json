@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192983",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[신간 리뷰] '신, 인간 그리고 과학'",
+    "newsSubTitle": "과학과 종교는 손잡을 수 있을까?",
+    "newsContent": "근대 이후 서양지성사는 과학과 신학의 대립의 역사였다.\n신이 창조한 아름다운 질서의 원리를 찾아내는데 만족했던 과학이 지동설을 필두로 급속한 발명과 발견을 통해 신의 권위에 도전하면서 갈등은 시작된다.\n교회와 과학계의 대립은 두 분야의 경계를 침범하지 않는다는 묵계 속에 휴전에 들어간다.\n철학은 두 분야의 휴전을 이끌어내는데 일조했다.\n적어도 과학이성으로 무장한 근대 과학자라면 평일엔 실험실에서 현미경을 들여다보다가 일요일엔 예배당에 가는 행동은 할 수 없었다.\n그러던 서양의 과학과 신학계에 다시 대화를 모색하는 움짐임이 일고 있다.\n신간 『신, 인간 그리고 과학』은 물리학.생물학.기독교신학.철학 등을 전공한 독일어권의 다섯 석학이 우주와 생명의 기원, 인간의 정신, 신(神)의 존재라는 주제를 놓고 사흘간 나눈 대화다.\n독일 바이에른 방송이 주관한 4부작 특집을 바탕으로 한 이 책은 과학과 신학과 철학의 접점을 모색한다.\n엇이 대화를 가능하게 했을까.\n신학에 싸움을 건 쪽도 과학이었지만 이번에도 20세기 자연과학의 성과가 반영되었다.\n그 주인공은 양자물리학이다.\n양자물리학은 과학의 새로운 발견에 그치지 않았다.\n물질과 정신을 엄격히 구별하는 데카르트의 이원론, 조건을 알면 그 결과를 예측할 수 있다는 결정론적 세계관 등 근대적 사고의 근본을 뒤흔든다.\n기실 과학적 발견 이라는 것도 과학자의 실존적 혹은 종교적 동기에 의한 '직관과 상상'의 방랑에서 비롯될 수 있는 것이다.\n과학과 종교가 한 머리 속에 공존할 수 있다는 생각은 서로가 마음을 열고 다가갈 수 있게 한다.\n게다가 세계대전의 참혹한 경험을 거쳐 가공할 무기의 제작, 환경오염과 생명복제에까지 이르른 오늘날 과학만능주의에 대한 반성을 요구하는 가운데 과학과 신학과 철학 사이에 대화는 더 이상 미룰 수 없게 되었다.\n이 책에서 어떤 결론을 기대하는 것은 성급하다.\n또 기독교 유일신의 존재여부에 관한 과도한 논의가 우리에게는 어색할 수 있다.\n그러나 서양문화에 이미 깊숙이 동화된 마당에 그들 세계관의 핵심을 살펴본다는 점에서 이 책에서 보여준 '대화' 의 의미는 줄어들지 않는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "근대 이후 서양지성사는 과학과 신학의 대립의 역사였다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "신이 창조한 아름다운 질서의 원리를 찾아내는데 만족했던 과학이 지동설을 필두로 급속한 발명과 발견을 통해 신의 권위에 도전하면서 갈등은 시작된다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "교회와 과학계의 대립은 두 분야의 경계를 침범하지 않는다는 묵계 속에 휴전에 들어간다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "철학은 두 분야의 휴전을 이끌어내는데 일조했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "적어도 과학이성으로 무장한 근대 과학자라면 평일엔 실험실에서 현미경을 들여다보다가 일요일엔 예배당에 가는 행동은 할 수 없었다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러던 서양의 과학과 신학계에 다시 대화를 모색하는 움짐임이 일고 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "신간 『신, 인간 그리고 과학』은 물리학.생물학.기독교신학.철학 등을 전공한 독일어권의 다섯 석학이 우주와 생명의 기원, 인간의 정신, 신(神)의 존재라는 주제를 놓고 사흘간 나눈 대화다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "독일 바이에른 방송이 주관한 4부작 특집을 바탕으로 한 이 책은 과학과 신학과 철학의 접점을 모색한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "엇이 대화를 가능하게 했을까.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "신학에 싸움을 건 쪽도 과학이었지만 이번에도 20세기 자연과학의 성과가 반영되었다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그 주인공은 양자물리학이다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "양자물리학은 과학의 새로운 발견에 그치지 않았다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "물질과 정신을 엄격히 구별하는 데카르트의 이원론, 조건을 알면 그 결과를 예측할 수 있다는 결정론적 세계관 등 근대적 사고의 근본을 뒤흔든다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "기실 과학적 발견 이라는 것도 과학자의 실존적 혹은 종교적 동기에 의한 '직관과 상상'의 방랑에서 비롯될 수 있는 것이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "과학과 종교가 한 머리 속에 공존할 수 있다는 생각은 서로가 마음을 열고 다가갈 수 있게 한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "게다가 세계대전의 참혹한 경험을 거쳐 가공할 무기의 제작, 환경오염과 생명복제에까지 이르른 오늘날 과학만능주의에 대한 반성을 요구하는 가운데 과학과 신학과 철학 사이에 대화는 더 이상 미룰 수 없게 되었다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이 책에서 어떤 결론을 기대하는 것은 성급하다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "또 기독교 유일신의 존재여부에 관한 과도한 논의가 우리에게는 어색할 수 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "그러나 서양문화에 이미 깊숙이 동화된 마당에 그들 세계관의 핵심을 살펴본다는 점에서 이 책에서 보여준 '대화' 의 의미는 줄어들지 않는다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "문제의 신간, 과학-신학-철학의 다섯 석학이 사흘간 나눈 대화...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

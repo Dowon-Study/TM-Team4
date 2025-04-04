@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193420",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강단신] 건강강좌 外",
+    "newsSubTitle": "",
+    "newsContent": "◆ 서울아산병원 남순열 교수(이비인후과)는 13일(목) 오후 2시 병원 6층 대강당에서 '쉰 목소리와 후두암의 원인과 치료'라는 주제로 건강강좌를 개최한다. 02-3010-6956/3057. ◆ 아유르베다에 정통한 사시다란 박사 초청강연회가 서울과 부산에서 열린다.\n부산강연회는 15일(토) 테라피 요가센터에서, 서울 강연회는 23일 서울 여성플라자 아트홀에서 진행될 예정이다.\n아유르베다의 실제와 치유기법 등이 소개된다.\n이와 함께 샨띠와남 요가 아카데미 워크숍도 25~27일 열린다.\nwww.shantiwanam.com, www.therapyyoga.net. ◆ 강북삼성병원이 여성 비뇨기질환을 전문으로 치료하는 '여성 웰빙케어링센터'를 개설한다.\n요실금.골반 재건술(자궁.질 탈출증 교정), 레이저 부인과 성형 등 의료서비스를 제공할 계획이다.\n50여 평 규모에 진료실.검사실.치료실 등 비뇨기 질환에 필요한 공간을 한 곳에 집중 배치했다.\n02-2001-2196. ◆ 김안과병원은 13일(목) 오후 3시 병원 강당에서 '해피아이 눈 건강강좌'를 실시한다.\n주제는 '근시교정수술'이며 김용란교수가 강의한다. 02-2639-7656~57.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆ 서울아산병원 남순열 교수(이비인후과)는 13일(목) 오후 2시 병원 6층 대강당에서 '쉰 목소리와 후두암의 원인과 치료'라는 주제로 건강강좌를 개최한다. 02-3010-6956/3057. ◆ 아유르베다에 정통한 사시다란 박사 초청강연회가 서울과 부산에서 열린다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "부산강연회는 15일(토) 테라피 요가센터에서, 서울 강연회는 23일 서울 여성플라자 아트홀에서 진행될 예정이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아유르베다의 실제와 치유기법 등이 소개된다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이와 함께 샨띠와남 요가 아카데미 워크숍도 25~27일 열린다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "www.shantiwanam.com, www.therapyyoga.net. ◆ 강북삼성병원이 여성 비뇨기질환을 전문으로 치료하는 '여성 웰빙케어링센터'를 개설한다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "요실금.골반 재건술(자궁.질 탈출증 교정), 레이저 부인과 성형 등 의료서비스를 제공할 계획이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "50여 평 규모에 진료실.검사실.치료실 등 비뇨기 질환에 필요한 공간을 한 곳에 집중 배치했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "02-2001-2196. ◆ 김안과병원은 13일(목) 오후 3시 병원 강당에서 '해피아이 눈 건강강좌'를 실시한다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "주제는 '근시교정수술'이며 김용란교수가 강의한다. 02-2639-7656~57.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "사시다란 박사 초청 강연회... 아유르베다의 실제와 치유기법 소개... '많관부'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

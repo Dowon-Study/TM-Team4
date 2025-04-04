@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194889",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "재폐업 유보 두고 의료계 내분 휩싸여",
+    "newsSubTitle": "",
+    "newsContent": "재폐업 유보를 두고 의료계가 내분에 휩싸였다.\n의학회.병원협회.전국시도의사회장회의는 의사협회의 재폐업 유보방침을 적극 지지하고 있으나 의권쟁취투쟁위원회와 전공의협의회 비상대책위원회는 재폐업 강행을 주장하고 있다.\n의료계의 의견이 나눠지면서 일부 회원들이 재폐업에 돌입할 가능성도 배제할 수 없어 8월 1일 전면 시행하는 의약분업이 차질을 빚을 가능성도 있다.\n◇ 폐업 유보 지지 = 24개 의료관련 학회의 모임인 의학회는 26일 긴급이사회에서 \\\"폐업을 유보하고 폐업여부를 묻는 찬반투표를 실시하지 않기로 한 의협 상임이사회의 결정을 지지한다\\\" 고 결의했다.\n병원협회도 폐업유보방침을 지지하는 성명서를 발표했다.\n의협과 전국시도의사회장단은 오후 연석회의에서 의쟁투의 폐업 찬반투표 실시결정에 대한 대책을 논의했다.\n◇ 폐업 강행 = 전공의협의회 김대중 (金大中) 회장을 비롯한 집행부는 이날 \\\"현 단계에서 폐업을 하는 것은 명분도 실리도 없다\\\" 는 내용의 성명서를 발표한 뒤 사퇴했다.\n전공의협의회를 이끌게 된 비대위는 의협 집행부의 폐업 유보방침과 관계없이 29일 전면파업을 하기로 했다.\n이에 앞서 의쟁투 중앙위원회는 회의에서 예정대로 27일 폐업 찬반투표를 실시하기로 했다.\n◇ 전망 = 전공의 중 서울대.신촌세브란스.충북대.전북대.서울백병원 등의 전공의 중 과반수가 파업 반대표를 던진 상황이라 비대위가 파업을 강행하더라도 지난 6월처럼 일사불란하게 참여하지는 않을 듯하다.\n의협집행부는 폐업을 유보했지만 8월 1일 의약분업에 어떻게 임할지는 의쟁투에 맡긴 상태여서 소극적 참여나 태업, 불복종운동 등으로 이어질 것이라는 게 의료계의 일반적인 관측이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "재폐업 유보를 두고 의료계가 내분에 휩싸였다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "의학회.병원협회.전국시도의사회장회의는 의사협회의 재폐업 유보방침을 적극 지지하고 있으나 의권쟁취투쟁위원회와 전공의협의회 비상대책위원회는 재폐업 강행을 주장하고 있다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "의료계의 의견이 나눠지면서 일부 회원들이 재폐업에 돌입할 가능성도 배제할 수 없어 8월 1일 전면 시행하는 의약분업이 차질을 빚을 가능성도 있다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "◇ 폐업 유보 지지 = 24개 의료관련 학회의 모임인 의학회는 26일 긴급이사회에서 \\\"폐업을 유보하고 폐업여부를 묻는 찬반투표를 실시하지 않기로 한 의협 상임이사회의 결정을 지지한다\\\" 고 결의했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "병원협회도 폐업유보방침을 지지하는 성명서를 발표했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "의협과 전국시도의사회장단은 오후 연석회의에서 의쟁투의 폐업 찬반투표 실시결정에 대한 대책을 논의했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "◇ 폐업 강행 = 전공의협의회 김대중 (金大中) 회장을 비롯한 집행부는 이날 \\\"현 단계에서 폐업을 하는 것은 명분도 실리도 없다\\\" 는 내용의 성명서를 발표한 뒤 사퇴했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "전공의협의회를 이끌게 된 비대위는 의협 집행부의 폐업 유보방침과 관계없이 29일 전면파업을 하기로 했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이에 앞서 의쟁투 중앙위원회는 회의에서 예정대로 27일 폐업 찬반투표를 실시하기로 했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "◇ 전망 = 전공의 중 서울대.신촌세브란스.충북대.전북대.서울백병원 등의 전공의 중 과반수가 파업 반대표를 던진 상황이라 비대위가 파업을 강행하더라도 지난 6월처럼 일사불란하게 참여하지는 않을 듯하다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "의협집행부는 폐업을 유보했지만 8월 1일 의약분업에 어떻게 임할지는 의쟁투에 맡긴 상태여서 소극적 참여나 태업, 불복종운동 등으로 이어질 것이라는 게 의료계의 일반적인 관측이다.",
+        "sentenceSize": 99
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "8월 1일 전면 시행 의약분업 차질, 알고 보니?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

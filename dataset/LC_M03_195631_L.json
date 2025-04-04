@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195631",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "고혈압·당뇨, 동네의원서 전화상담 할 수 있다",
+    "newsSubTitle": "26일부터 1870곳서 시범실시한 달 2회까지 진료수가 인정",
+    "newsContent": "이달 말부터 동네의원도 고혈압·당뇨병 등 만성질환 환자를 직접 관리한다.\n이를 위해 환자를 전화로 상담해도 월 2회까지 진료 수가가 인정된다.\n전화진료 수가 인정은 이번이 처음이다.\n보건복지부는 앞으로 1년 동안 시범사업에 참여할 동네의원 1870개를 선정했다고 11일 발표했다.\n이들 의원은 고혈압·당뇨병 등의 만성질환자를 진료한 뒤 환자별 세부관리계획을 만들어야 한다.\n한 달 또는 한 달 반 만에 약을 타러 올 때 대면(對面) 진료하고 그 사이에 전화 상담이나 원격 모니터링을 한다.\n월 2회까지 인정되는 전화 상담 수가는 회당 7510원이다.\n시범사업 기간에는 환자 본인 부담이 없다.\n전액 건강보험에서 지급한다.\n시범사업이 끝나면 환자가 일정 부분을 내야 한다.\n동네의원에 가면 진료비의 30%를 환자가 내는데, 전화 상담의 경우 이보다 낮게 책정될 전망이다.\n현재 진료 수가는 대면 진료에서만 인정한다.\n시범사업에 참여하는 의료기관은 월 100명까지 환자를 관리할 수 있다.\n계획수립·교육에 대해 월 1회 수가를 인정받는다.\n정부가 환자에게 블루투스 기능이 있는 혈압·혈당 기기를 대여한다.\n환자는 주 1회 이상 혈압·혈당치를 동네의원에 전송한다.\n의사는 문자나 e메일로 환자에게 필요한 사항을 전달한다.\n환자가 이처럼 지속적으로 관찰받을 때 수가는 월정액 1만520원이다.\n시범사업이어서 이것도 환자 부담이 없다.\n시범사업은 오는 26일 시스템 개시와 함께 시작된다.\n심각한 내과 질환이나 합병증을 동반하지 않은 고혈압·당뇨병 재진 환자는 누구나 참여할 수 있다.\n김건훈 복지부 보건의료정책과 기획제도팀장은 “예전에는 만성질환자들이 한두 달에 한 번 약을 처방받는 것 외에는 의료 서비스를 받지 못했지만 시범사업으로 추가 관리가 가능해졌다” 고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이달 말부터 동네의원도 고혈압·당뇨병 등 만성질환 환자를 직접 관리한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이를 위해 환자를 전화로 상담해도 월 2회까지 진료 수가가 인정된다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "전화진료 수가 인정은 이번이 처음이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보건복지부는 앞으로 1년 동안 시범사업에 참여할 동네의원 1870개를 선정했다고 11일 발표했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이들 의원은 고혈압·당뇨병 등의 만성질환자를 진료한 뒤 환자별 세부관리계획을 만들어야 한다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한 달 또는 한 달 반 만에 약을 타러 올 때 대면(對面) 진료하고 그 사이에 전화 상담이나 원격 모니터링을 한다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "월 2회까지 인정되는 전화 상담 수가는 회당 7510원이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "시범사업 기간에는 환자 본인 부담이 없다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "전액 건강보험에서 지급한다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "시범사업이 끝나면 환자가 일정 부분을 내야 한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "동네의원에 가면 진료비의 30%를 환자가 내는데, 전화 상담의 경우 이보다 낮게 책정될 전망이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "현재 진료 수가는 대면 진료에서만 인정한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "시범사업에 참여하는 의료기관은 월 100명까지 환자를 관리할 수 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "계획수립·교육에 대해 월 1회 수가를 인정받는다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "정부가 환자에게 블루투스 기능이 있는 혈압·혈당 기기를 대여한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "환자는 주 1회 이상 혈압·혈당치를 동네의원에 전송한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "의사는 문자나 e메일로 환자에게 필요한 사항을 전달한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "환자가 이처럼 지속적으로 관찰받을 때 수가는 월정액 1만520원이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "시범사업이어서 이것도 환자 부담이 없다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "시범사업은 오는 26일 시스템 개시와 함께 시작된다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "심각한 내과 질환이나 합병증을 동반하지 않은 고혈압·당뇨병 재진 환자는 누구나 참여할 수 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "김건훈 복지부 보건의료정책과 기획제도팀장은 “예전에는 만성질환자들이 한두 달에 한 번 약을 처방받는 것 외에는 의료 서비스를 받지 못했지만 시범사업으로 추가 관리가 가능해졌다” 고 말했다.",
+        "sentenceSize": 105
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고혈압·당뇨, 전화상담으로 진료 가능해졌다··· 어떻게?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

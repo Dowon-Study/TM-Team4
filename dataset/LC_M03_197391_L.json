@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197391",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 건강 챙기는 요리엔 아보카도오일",
+    "newsSubTitle": "헬스벨 알짜정보",
+    "newsContent": "아보카도는 ‘과일 중 보석’으로 불린다.\n그만큼 영양이 풍부해서다.\n단백질·비타민·미네랄을 비롯해 일반 과일에는 거의 없는 불포화지방산이 다량 함유됐다.\n채소·과일의 장점을 동시에 가졌다.\n아보카도의 가치가 널리 알려지면서 아보카도오일도 인기를 끌고 있다.\n시중에 판매 중인 아보카도오일 한 병에 대략 20개의 아보카도가 사용된다.\n아보카도를 오일로 압착하는 과정에서 각종 영양 성분의 함량과 체내 흡수율은 높아진다.\n특히 아보카도오일은 발연점(271도)이 높아 샐러드 드레싱부터 각종 볶음·튀김 요리까지 다양하게 활용할 수 있다.\n종근당건강의 ‘아보카도오일’(사진)은 열 공정을 최소화한 냉압착 공법을 적용해 아보카도 천연의 맛과 영양을 최대한 담았다.\n100% 엑스트라버진 오일이다.\n최상급의 원과를 맨 처음 압착한 오일을 말한다.\n영양소 파괴가 적어 좋은 성분이 보존되고 맛이 좋다.\n하루에 두 스푼만으로 충분한 영양을 섭취할 수 있다.\n종근당건강은 선착순 500명에게 ‘아보카도오일’을 유통 최저가로 판매한다.\n제품 문의나 구입은 전화를 통해 진행된다.\n기간 6월 25일~7월 2일",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아보카도는 ‘과일 중 보석’으로 불린다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그만큼 영양이 풍부해서다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "단백질·비타민·미네랄을 비롯해 일반 과일에는 거의 없는 불포화지방산이 다량 함유됐다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "채소·과일의 장점을 동시에 가졌다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아보카도의 가치가 널리 알려지면서 아보카도오일도 인기를 끌고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "시중에 판매 중인 아보카도오일 한 병에 대략 20개의 아보카도가 사용된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아보카도를 오일로 압착하는 과정에서 각종 영양 성분의 함량과 체내 흡수율은 높아진다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히 아보카도오일은 발연점(271도)이 높아 샐러드 드레싱부터 각종 볶음·튀김 요리까지 다양하게 활용할 수 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "종근당건강의 ‘아보카도오일’(사진)은 열 공정을 최소화한 냉압착 공법을 적용해 아보카도 천연의 맛과 영양을 최대한 담았다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "100% 엑스트라버진 오일이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "최상급의 원과를 맨 처음 압착한 오일을 말한다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "영양소 파괴가 적어 좋은 성분이 보존되고 맛이 좋다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "하루에 두 스푼만으로 충분한 영양을 섭취할 수 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "종근당건강은 선착순 500명에게 ‘아보카도오일’을 유통 최저가로 판매한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "제품 문의나 구입은 전화를 통해 진행된다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "기간 6월 25일~7월 2일",
+        "sentenceSize": 15
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "종근당건강의 아보카도오일 출시, 맛있고 영양 많은 아보카도의 파격적인 변신",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196145",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "우울증에 좋은 식품, 초콜릿·연어·호두…\\\"겨울철 우울증 조심하세요\\\"",
+    "newsSubTitle": "",
+    "newsContent": "우울증에 좋은 식품이 눈길을 끌고 있다.\n최근 미국의 건강생활 잡지 ‘이팅웰’은 겨울철에 겪기 쉬운 우울증에 좋은 식품을 소개했다.\n먼저 초콜릿에 들어있는 항우울 성분은 스트레스 호르몬인 코르티솔의 수치를 낮추는 역할을 하기 때문에 우울증에 좋다.\n가장 좋은 항우울제를 얻기 위해서는 카카오 함량이 높은 다크 초콜릿을 선택하는 것이 좋다.\n스위스 네슬레 연구센터에 따르면 스트레스에 지친 사람이 2주일 동안 매일 630g의 다크 초콜릿을 먹은 결과 코르티솔을 비롯한 스트레스 호르몬이 줄어들었다.\n단 초콜릿은 열량이 높으니 주의를 기울여야 한다.\n연어도 우울증에 좋다.\n연어의 오메가-3 지방산은 뇌 세포를 활성화하고 기분을 관장하는 두 가지 신경전달 물질인 도파민과 세로토닌의 수치를 높여준다.\n오메가-3 지방산은 연어와 청어 같은 해산물, 호두나 아마씨 분말에 많이 들어 있는 것으로 알려져있다.\n탄수화물을 갑자기 끊는 것은 좋지 않다.\n과학자들은 탄수화물이 세로토닌의 분비를 촉진하기 때문에 덜 먹게 되면 기분이 나빠지는 것으로 추정한다.\n온라인 중앙일보 ‘우울증에 좋은 식품’ [사진 YTN 방송 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우울증에 좋은 식품이 눈길을 끌고 있다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 미국의 건강생활 잡지 ‘이팅웰’은 겨울철에 겪기 쉬운 우울증에 좋은 식품을 소개했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "먼저 초콜릿에 들어있는 항우울 성분은 스트레스 호르몬인 코르티솔의 수치를 낮추는 역할을 하기 때문에 우울증에 좋다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "가장 좋은 항우울제를 얻기 위해서는 카카오 함량이 높은 다크 초콜릿을 선택하는 것이 좋다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "스위스 네슬레 연구센터에 따르면 스트레스에 지친 사람이 2주일 동안 매일 630g의 다크 초콜릿을 먹은 결과 코르티솔을 비롯한 스트레스 호르몬이 줄어들었다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "단 초콜릿은 열량이 높으니 주의를 기울여야 한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연어도 우울증에 좋다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연어의 오메가-3 지방산은 뇌 세포를 활성화하고 기분을 관장하는 두 가지 신경전달 물질인 도파민과 세로토닌의 수치를 높여준다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "오메가-3 지방산은 연어와 청어 같은 해산물, 호두나 아마씨 분말에 많이 들어 있는 것으로 알려져있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "탄수화물을 갑자기 끊는 것은 좋지 않다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "과학자들은 탄수화물이 세로토닌의 분비를 촉진하기 때문에 덜 먹게 되면 기분이 나빠지는 것으로 추정한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "온라인 중앙일보 ‘우울증에 좋은 식품’ [사진 YTN 방송 캡처]",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "겨울철에 겪기 쉬운 우울증, 도움되는 식품은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

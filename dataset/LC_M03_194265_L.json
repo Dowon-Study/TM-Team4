@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194265",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "고도근시 환자, 라식 부작용 높다",
+    "newsSubTitle": "강남·명동밝은세상안과 환자 819명 조사 결과",
+    "newsContent": "-6 디옵터 이상의 고도근시 환자는 라식 수술로 인한 부작용이 일반 환자에 비해 2.5배 이상 높다는 임상 결과가 나왔다.\n또 라식 수술 후 1년 내에 다시 근시가 진행되는 퇴행성 근시가 발생할 위험도 1.5배 이상 높은 것으로 조사됐다.\n이 같은 사실은 강남밝은세상안과 김진국, 명동밝은세상안과 이인식 원장팀이 지난해 병원을 찾은 환자 819명을 조사한 결과 밝혀졌다.\n부작용의 가장 큰 원인은 고도근시의 경우 일반 환자에 비해 평균 각막 두께가 얇기 때문. 각막 두께가 얇을 경우 라식 수술 시 각막을 자를 때(각막 절편) 문제가 발생할 수 있다.\n김 원장은 “130 칼날 사용시 95% 이내에서 73~149의 각막 절편 두께가 측정되고, 나머지 5%에서는 의사의 예측 영역을 벗어나는 절편 두께가 생성됐다”고 설명했다. 고도근시 환자 100명이 수술을 받으면 5명은 아주 얇거나 아주 두꺼운 각막 절편이 생긴다는 것이다.\n각막 절편이 얇으면 각막 주름, 상피내생 등 부작용 빈도가 증가하고, 두꺼우면 수술 시행 후 남는 잔여 각막에 많은 손실을 줄 수 있기 때문에 수술 후 각막의 안정성을 확보하기가 어렵다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "-6 디옵터 이상의 고도근시 환자는 라식 수술로 인한 부작용이 일반 환자에 비해 2.5배 이상 높다는 임상 결과가 나왔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "또 라식 수술 후 1년 내에 다시 근시가 진행되는 퇴행성 근시가 발생할 위험도 1.5배 이상 높은 것으로 조사됐다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 같은 사실은 강남밝은세상안과 김진국, 명동밝은세상안과 이인식 원장팀이 지난해 병원을 찾은 환자 819명을 조사한 결과 밝혀졌다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "부작용의 가장 큰 원인은 고도근시의 경우 일반 환자에 비해 평균 각막 두께가 얇기 때문. 각막 두께가 얇을 경우 라식 수술 시 각막을 자를 때(각막 절편) 문제가 발생할 수 있다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김 원장은 “130 칼날 사용시 95% 이내에서 73~149의 각막 절편 두께가 측정되고, 나머지 5%에서는 의사의 예측 영역을 벗어나는 절편 두께가 생성됐다”고 설명했다. 고도근시 환자 100명이 수술을 받으면 5명은 아주 얇거나 아주 두꺼운 각막 절편이 생긴다는 것이다.",
+        "sentenceSize": 153
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "각막 절편이 얇으면 각막 주름, 상피내생 등 부작용 빈도가 증가하고, 두꺼우면 수술 시행 후 남는 잔여 각막에 많은 손실을 줄 수 있기 때문에 수술 후 각막의 안정성을 확보하기가 어렵다.",
+        "sentenceSize": 104
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고도 근시 환자, 라식 수술 부작용의 규모는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

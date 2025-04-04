@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196534",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "'서양악기에 동양정신' 유이상 음악세계 분석",
+    "newsSubTitle": "",
+    "newsContent": "이 책은 음악학자 김용환(한세대) 교수가 한국예술연구소 연구원으로 있던 1995년과 97년에 낸 두 권의 연구서를 한 데 묶은 것이다.\n저자는 이 과정에서 작곡가 윤이상씨의 미망인 이수자 여사가 펴낸 회고록 『내 남편 윤이상』(상.하권, 창작과비평사, 1999년) 을 참고해 많은 부분을 손질했다고 말한다.\n제1부 「윤이상의 삶과 음악」은 윤씨의 생애를 짧게 정리한 부분을 제외하면, 서양악기에 동양의 사상과 세계관을 담아낸 윤씨의 작품들이 독일에서 어떻게 수용되고 있는지를 주로 다룬다.\n볼프강 부르데.\n크리스티안 마틴 슈미트.하랄트 쿤츠 등 독일 음악학자들이 윤씨의 오페라.교향곡.실내악을 나름대로 분석한 글들을 번역해 실었다.\n제2부는 「윤이상 협주곡의 수용」이다.\n저자는 윤씨가 초기 작품에 '가락' '낙양' '바라' '예악' 등 동양적인 표제를 붙인 데 반해 70년대 중반 이후엔 13곡의 협주곡을 발표하는 등 콘체르토에 특별히 애착을 보인다는 점에 주목한다.\n집단과 개인, 환경과 인간의 대립 및 화해 구조를 잘 나타내는 데 협주곡만큼 적절한 장르가 없기 때문이다.\n여기에는 '동백림 사건' 이 적잖은 영향을 미친다. '바이올린 협주곡 제1번' 은 분단된 조국의 통일을 염원하는 작곡자의 심정을 나타낸다.\n윤씨가 피아노 협주곡을 작곡하지 않은 이유에 대한 해석도 흥미롭다.\n목관악기나 현악기가 한국의 전통악기 특유의 주법이나 음색을 비교적 잘 낼 수 있는 데 반해 피아노는 그렇지 않기 때문이라는 것이다.\n또 '첼로 협주곡' 등 9개의 협주곡을 탄생과 비평(수용) .분석의 측면에서 살펴보고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이 책은 음악학자 김용환(한세대) 교수가 한국예술연구소 연구원으로 있던 1995년과 97년에 낸 두 권의 연구서를 한 데 묶은 것이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "저자는 이 과정에서 작곡가 윤이상씨의 미망인 이수자 여사가 펴낸 회고록 『내 남편 윤이상』(상.하권, 창작과비평사, 1999년) 을 참고해 많은 부분을 손질했다고 말한다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "제1부 「윤이상의 삶과 음악」은 윤씨의 생애를 짧게 정리한 부분을 제외하면, 서양악기에 동양의 사상과 세계관을 담아낸 윤씨의 작품들이 독일에서 어떻게 수용되고 있는지를 주로 다룬다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "볼프강 부르데.",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "크리스티안 마틴 슈미트.하랄트 쿤츠 등 독일 음악학자들이 윤씨의 오페라.교향곡.실내악을 나름대로 분석한 글들을 번역해 실었다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "제2부는 「윤이상 협주곡의 수용」이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "저자는 윤씨가 초기 작품에 '가락' '낙양' '바라' '예악' 등 동양적인 표제를 붙인 데 반해 70년대 중반 이후엔 13곡의 협주곡을 발표하는 등 콘체르토에 특별히 애착을 보인다는 점에 주목한다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "집단과 개인, 환경과 인간의 대립 및 화해 구조를 잘 나타내는 데 협주곡만큼 적절한 장르가 없기 때문이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "여기에는 '동백림 사건' 이 적잖은 영향을 미친다. '바이올린 협주곡 제1번' 은 분단된 조국의 통일을 염원하는 작곡자의 심정을 나타낸다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "윤씨가 피아노 협주곡을 작곡하지 않은 이유에 대한 해석도 흥미롭다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "목관악기나 현악기가 한국의 전통악기 특유의 주법이나 음색을 비교적 잘 낼 수 있는 데 반해 피아노는 그렇지 않기 때문이라는 것이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "또 '첼로 협주곡' 등 9개의 협주곡을 탄생과 비평(수용) .분석의 측면에서 살펴보고 있다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서양악기에 동양 정신 담아 완벽한 조화 녹여낸 유이상의 음악 세계",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

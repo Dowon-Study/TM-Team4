@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196396",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[이야기가있는욕실] 식탁보로 다양한 분위기 연출",
+    "newsSubTitle": "",
+    "newsContent": "3년 전 아파트에서 일반주택으로 이사를 왔어요.\n주택도 나름 좋긴 하지만, 욕실만큼은 아파트가 낫더군요.\n보온이 잘 안 되는 데다 큰 창문 때문에 어딘가 휑하고 차가운 분위기였죠.\n욕실을 아늑하게 꾸밀 만한 것이 없을까 고민하다, 식탁보를 만들고 남은 천을 이용해 보기로 했습니다.\n욕실을 썰렁하게 보이게 했던 큰 창문에 글루건을 이용해 천을 덧붙였어요.\n보통 타일 시트지를 이용하는데, 저는 색다르게 해보았죠.\n시트지에 비해 따뜻해 보이고, 물도 금세 마르기 때문에 관리하기도 편리해요.\n가격도 저렴하죠.\n계절 따라 천을 바꿔가며 다양한 분위기도 낼 수 있답니다.\n김해영(경기도 구리시 수택동) 중앙일보와 욕실 전문업체 아메리칸 스탠다드가 ‘이야기가 있는 욕실’을 찾습니다.\n아메리칸 스탠다드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려주세요.\n매주 1명을 선정해 소개하며, 50만원 상당의 욕실 제품도 드립니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "3년 전 아파트에서 일반주택으로 이사를 왔어요.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "주택도 나름 좋긴 하지만, 욕실만큼은 아파트가 낫더군요.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "보온이 잘 안 되는 데다 큰 창문 때문에 어딘가 휑하고 차가운 분위기였죠.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "욕실을 아늑하게 꾸밀 만한 것이 없을까 고민하다, 식탁보를 만들고 남은 천을 이용해 보기로 했습니다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "욕실을 썰렁하게 보이게 했던 큰 창문에 글루건을 이용해 천을 덧붙였어요.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "보통 타일 시트지를 이용하는데, 저는 색다르게 해보았죠.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "시트지에 비해 따뜻해 보이고, 물도 금세 마르기 때문에 관리하기도 편리해요.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "가격도 저렴하죠.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "계절 따라 천을 바꿔가며 다양한 분위기도 낼 수 있답니다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "김해영(경기도 구리시 수택동) 중앙일보와 욕실 전문업체 아메리칸 스탠다드가 ‘이야기가 있는 욕실’을 찾습니다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "아메리칸 스탠다드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려주세요.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "매주 1명을 선정해 소개하며, 50만원 상당의 욕실 제품도 드립니다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "식탁보의 변신은 무죄, 비싼 리모델링 버금가는 훌륭한 활용법",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

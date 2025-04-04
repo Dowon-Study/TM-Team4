@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194698",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[과학의향기] 몸은 하루 1시간씩 시차 적응 … 독일 간 태극전사들 7일 걸려",
+    "newsSubTitle": "",
+    "newsContent": "독일 월드컵 때문에 많은 국민이 독일 시간대에 맞춰 생활하고 있다.\n독일과의 시차는 서머타임 기준으로 7시간. 경기에 몰두한 시청자들이 장거리 여행을 할 때나 느껴지는 시차증후군을 호소한다.\n집중력과 판단력이 떨어지고, 머리가 멍해지는 두통 및 식욕.체력 저하 증세에 시달린다는 하소연들이다.\n우리 몸에는 아침에 자연스럽게 눈을 뜨고 밤에는 대낮처럼 불을 밝혀도 잠을 부르는 생체시계가 작동하고 있다.\n바로 대뇌 아래 시상하부에 존재하는 '마스터 신경세포'는 주기적으로 각각 다른 양의 PDF라는 분비물을 내보낸다.\n이 분비물은 신호 역할을 한다.\n주변 신경세포들은 PDF가 많으면 아침으로, PDF가 적으면 저녁으로 인식한다.\n생체시계 신경세포들이 이 같은 교신으로 밤에 졸리도록 하고, 아침 일정시간이 되면 깨어나도록 하는 것이다.\n생체시계 신경세포들은 사람이 시차가 나는 곳으로 이동을 하면 현지 시간에 서서히 맞춰진다.\n현지시간에 완전 적응할 때까지 체온.심박수.호르몬 분비.전해질 농도 등에 변화가 발생, 생리적인 무질서 현상을 경험하게 된다.\n이에 따라 밤에는 피곤해도 잠이 오지 않고, 업무나 운동에서 집중력과 판단력 저하, 졸음.두통.체력저하 등의 증세가 나타나는 것이다.\n미 항공우주국(NASA)에 따르면 보통 하루에 1시간씩 현지 시간에 맞춰 간다고 한다.\n따라서 태극 전사들도 유럽에 도착한 뒤 7일 정도 지나면 완전히 현지 시간에 적응하게 되는 셈이다.\n그래서 대표팀 감독.코치들은 최종 전지훈련지인 스코틀랜드에 도착하자마자 선수들이 시차를 되도록 빨리 극복하기 위해 그곳 시간에 맞춰 '강훈'이라는 특효약을 썼다.\n강한 육체적 운동에 따른 피곤함으로 저녁에 일찍 잠을 자도록 하려는 목적이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "독일 월드컵 때문에 많은 국민이 독일 시간대에 맞춰 생활하고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "독일과의 시차는 서머타임 기준으로 7시간. 경기에 몰두한 시청자들이 장거리 여행을 할 때나 느껴지는 시차증후군을 호소한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "집중력과 판단력이 떨어지고, 머리가 멍해지는 두통 및 식욕.체력 저하 증세에 시달린다는 하소연들이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "우리 몸에는 아침에 자연스럽게 눈을 뜨고 밤에는 대낮처럼 불을 밝혀도 잠을 부르는 생체시계가 작동하고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "바로 대뇌 아래 시상하부에 존재하는 '마스터 신경세포'는 주기적으로 각각 다른 양의 PDF라는 분비물을 내보낸다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 분비물은 신호 역할을 한다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "주변 신경세포들은 PDF가 많으면 아침으로, PDF가 적으면 저녁으로 인식한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "생체시계 신경세포들이 이 같은 교신으로 밤에 졸리도록 하고, 아침 일정시간이 되면 깨어나도록 하는 것이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "생체시계 신경세포들은 사람이 시차가 나는 곳으로 이동을 하면 현지 시간에 서서히 맞춰진다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "현지시간에 완전 적응할 때까지 체온.심박수.호르몬 분비.전해질 농도 등에 변화가 발생, 생리적인 무질서 현상을 경험하게 된다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이에 따라 밤에는 피곤해도 잠이 오지 않고, 업무나 운동에서 집중력과 판단력 저하, 졸음.두통.체력저하 등의 증세가 나타나는 것이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "미 항공우주국(NASA)에 따르면 보통 하루에 1시간씩 현지 시간에 맞춰 간다고 한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "따라서 태극 전사들도 유럽에 도착한 뒤 7일 정도 지나면 완전히 현지 시간에 적응하게 되는 셈이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그래서 대표팀 감독.코치들은 최종 전지훈련지인 스코틀랜드에 도착하자마자 선수들이 시차를 되도록 빨리 극복하기 위해 그곳 시간에 맞춰 '강훈'이라는 특효약을 썼다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "강한 육체적 운동에 따른 피곤함으로 저녁에 일찍 잠을 자도록 하려는 목적이다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "하루에 1시간씩 시차 적응하는 우리 몸... 독일 간 태극전사들에게 필요한 시간은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

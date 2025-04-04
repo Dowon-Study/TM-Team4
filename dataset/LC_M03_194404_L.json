@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194404",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "‘상감청자 테마’ 상설전 새 단장",
+    "newsSubTitle": "",
+    "newsContent": "삼성미술관 리움은 개관 3주년을 맞아 상설 전시품 중 일부(고미술 50여점과 현대미술 20여점)를 교체했다.\n특히 고미술 상설전시실인 뮤지엄1의 청자실은 고려 상감청자만으로 꾸몄다.\n테마 상설전 제목은 ‘불심치전(不甚直錢)! 상감청자’. 골동품 감식에 조예가 깊었던 명나라 조소(曺昭)가 “고려청자는 돈으로 가치를 매길 수 없을 정도로 귀중하다”고 칭송한 말에서 따왔다.\n일반에 처음 공개되는 ‘청자상감모란문바리때(보물1309호·사진右)’를 비롯해 ‘청자상감용봉문개합 및 승반(국보 220호)’ 등 국보·보물급 상감청자 50점을 소개한다.\n보존처리 문제로 1년에 한 달만 공개하는 겸재 정선의 ‘금강전도(국보 217호)’도 이달에 특별전시한다.\n근·현대미술 상설전시실인 ‘뮤지엄2’에는 중견 김홍주의 회화, 1999년 베니스비엔날레 한국관 작가 노상균의 설치작품, 배병우의 소나무 사진을 선보인다.\n개관 기념일인 13일에는 큐레이터와의 대화, 한국화 보존 특강 등의 행사를 마련했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "삼성미술관 리움은 개관 3주년을 맞아 상설 전시품 중 일부(고미술 50여점과 현대미술 20여점)를 교체했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특히 고미술 상설전시실인 뮤지엄1의 청자실은 고려 상감청자만으로 꾸몄다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "테마 상설전 제목은 ‘불심치전(不甚直錢)! 상감청자’. 골동품 감식에 조예가 깊었던 명나라 조소(曺昭)가 “고려청자는 돈으로 가치를 매길 수 없을 정도로 귀중하다”고 칭송한 말에서 따왔다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "일반에 처음 공개되는 ‘청자상감모란문바리때(보물1309호·사진右)’를 비롯해 ‘청자상감용봉문개합 및 승반(국보 220호)’ 등 국보·보물급 상감청자 50점을 소개한다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "보존처리 문제로 1년에 한 달만 공개하는 겸재 정선의 ‘금강전도(국보 217호)’도 이달에 특별전시한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "근·현대미술 상설전시실인 ‘뮤지엄2’에는 중견 김홍주의 회화, 1999년 베니스비엔날레 한국관 작가 노상균의 설치작품, 배병우의 소나무 사진을 선보인다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "개관 기념일인 13일에는 큐레이터와의 대화, 한국화 보존 특강 등의 행사를 마련했다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "삼성미술관 리움, 개관 3주년 기념 전시품 교체... 새로운 전시품은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

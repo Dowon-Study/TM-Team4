@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194747",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/즐겨읽기] 윤리경영의 힘",
+    "newsSubTitle": "",
+    "newsContent": "유한킴벌리 세계가 배우는 한국기업의 희망 조동성.문국현 외 지음, 한스미디어 264쪽, 1만2000원 유한킴벌리와 문국현 사장을 모르는 사람은 드물 것이다.\n윤리경영, 신뢰받는 기업, 존경받는 최고경영자 등 유한킴벌리와 문 사장에 대한 찬사는 끝이 없다.\n또 이 회사의 '4조2교대' 근무체제는 일자리 지키기의 대명사로 자리잡았다.\n하지만 미국과 유럽, 아시아를 휩쓴 세계적인 소비재 기업 프록터 앤드 갬블(P&G)도 한국에서는 맥을 못 출 정도의 경쟁력을 자랑한다.\n또 유한킴벌리가 합작기업 킴벌리클라크의 중국 지사를 회생시켰다는 사실을 아는 사람은 별로 없다.\n유한킴벌리는 윤리와 경영, 사회적 책임을 강조하면서도 뛰어난 실적을 내는 희한한 회사고, 문 사장은 이런 변화를 이끌어낸 주역이다.\n1995년부터 경영을 맡은 문 사장은 유한킴벌리의 힘이 '경영의 역설'에서 나온다며 이를 세 문장으로 압축한다.\n①혁신적인 경영은 원칙에서 시작한다.\n②기업의 사회성과 공익성 강화가 수익성 향상으로 이어진다.\n③기업의 효율성은 사람을 줄이는 것이 아니라, 지키고 키움으로써 달성할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유한킴벌리 세계가 배우는 한국기업의 희망 조동성.문국현 외 지음, 한스미디어 264쪽, 1만2000원 유한킴벌리와 문국현 사장을 모르는 사람은 드물 것이다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "윤리경영, 신뢰받는 기업, 존경받는 최고경영자 등 유한킴벌리와 문 사장에 대한 찬사는 끝이 없다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 이 회사의 '4조2교대' 근무체제는 일자리 지키기의 대명사로 자리잡았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 미국과 유럽, 아시아를 휩쓴 세계적인 소비재 기업 프록터 앤드 갬블(P&G)도 한국에서는 맥을 못 출 정도의 경쟁력을 자랑한다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 유한킴벌리가 합작기업 킴벌리클라크의 중국 지사를 회생시켰다는 사실을 아는 사람은 별로 없다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유한킴벌리는 윤리와 경영, 사회적 책임을 강조하면서도 뛰어난 실적을 내는 희한한 회사고, 문 사장은 이런 변화를 이끌어낸 주역이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "1995년부터 경영을 맡은 문 사장은 유한킴벌리의 힘이 '경영의 역설'에서 나온다며 이를 세 문장으로 압축한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "①혁신적인 경영은 원칙에서 시작한다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "②기업의 사회성과 공익성 강화가 수익성 향상으로 이어진다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "③기업의 효율성은 사람을 줄이는 것이 아니라, 지키고 키움으로써 달성할 수 있다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유한킴벌리 문국현 사장은 어떻게 성공적인 윤리경영의 표본이 되었을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

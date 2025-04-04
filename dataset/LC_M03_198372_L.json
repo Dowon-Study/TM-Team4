@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198372",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "살 빼는 약 '알리' 승인… 처방전 없어도 구입",
+    "newsSubTitle": "",
+    "newsContent": "미 식품의약국(FDA)은 소비자가 의사 처방 없이도 살 수 있는 살 빼는 약 '알리 (Alli)'의 판매를 승인했다고 24일 미국 언론이 보도했다.\nFDA가 처방이 필요없는 살 빼는 약을 승인한 것은 이번이 처음이다.\n그락소스미스클라인이 만든 이 약은 소화관에서 지방 흡수를 25% 정도 줄여준다.\n실험 결과 6개월간 알리를 복용하면 평균 2.4~2.8㎏의 체중이 주는 것으로 나타났다.\n그러나 실험 대상자의 절반이 설사하는 등 적지 않은 부작용이 있는 것으로 전해졌다.\n알리의 가격은 1주일분이 12~25달러로 전 세계 시장 규모가 최소 15억 달러는 될 것으로 예상된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미 식품의약국(FDA)은 소비자가 의사 처방 없이도 살 수 있는 살 빼는 약 '알리 (Alli)'의 판매를 승인했다고 24일 미국 언론이 보도했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "FDA가 처방이 필요없는 살 빼는 약을 승인한 것은 이번이 처음이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그락소스미스클라인이 만든 이 약은 소화관에서 지방 흡수를 25% 정도 줄여준다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "실험 결과 6개월간 알리를 복용하면 평균 2.4~2.8㎏의 체중이 주는 것으로 나타났다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 실험 대상자의 절반이 설사하는 등 적지 않은 부작용이 있는 것으로 전해졌다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "알리의 가격은 1주일분이 12~25달러로 전 세계 시장 규모가 최소 15억 달러는 될 것으로 예상된다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미국 FDA, '이 약' 처음으로 승인해... 부작용 없을까",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

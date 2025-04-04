@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196608",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[더오래]시어머니 뉘우치게 만든 며느리 웃음 한방",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 깍지외할미(11) 며느리 웃음 한방에 시어미 가슴 속 ‘훵~’ 오매~! 울 메눌아그가 웃었어라.\n보시요.\n웃는 저 모습이 을매나 이쁜지. 긍께 저러코롬 활짝 웃을 수 있는 아그를 으째서 맨날 인상만 쓰게 냅둬버렸능지 이 시어메 낮빠닥이 화끈거려 죽겄소. 시어매 위세가 뭐가 그리 높아야 된다는 것인지...\n안만 생각혀봐도 그동안 나잇살 먹은 내가 속창아리 읎시 넘 어른답지 못혔다는 것이었소. 시방부터라도 웃사람인 나부터 지랄 같은 성깔 내려놓고 매사에 조심혀야 쓰겄소. 웃물이 맑으면 아랫물이 맑다는 야그도 있는데, 모두가 이 시어메가 지대로 못 배워가꼬 그동안 메누리 탓만 혔소. 시방부턴 시어메 꼴랑 위세 같은 건 쓰레기통에 버리야겠소. 울 메눌아그야! 그려~ 그려! 고로코롬 매사 활짝 웃으랑께. 니가 웃응께 칙칙하고 묵직혔던 집안 때깔이 단박에 환해지잖혀. 아이구~! 니가 복덩인 걸 으째 시어매가 이제서야 알았능가 모르겄다.\n참말로 그동안 느자구 읎는 내 행실땜시롱 내가 껄쩍지근혀서 죽겄다.\n글고 내 딸 깍지에미야! 니도 단디 보았지?",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 깍지외할미(11) 며느리 웃음 한방에 시어미 가슴 속 ‘훵~’ 오매~! 울 메눌아그가 웃었어라.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보시요.",
+        "sentenceSize": 4
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "웃는 저 모습이 을매나 이쁜지. 긍께 저러코롬 활짝 웃을 수 있는 아그를 으째서 맨날 인상만 쓰게 냅둬버렸능지 이 시어메 낮빠닥이 화끈거려 죽겄소. 시어매 위세가 뭐가 그리 높아야 된다는 것인지...",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "안만 생각혀봐도 그동안 나잇살 먹은 내가 속창아리 읎시 넘 어른답지 못혔다는 것이었소. 시방부터라도 웃사람인 나부터 지랄 같은 성깔 내려놓고 매사에 조심혀야 쓰겄소. 웃물이 맑으면 아랫물이 맑다는 야그도 있는데, 모두가 이 시어메가 지대로 못 배워가꼬 그동안 메누리 탓만 혔소. 시방부턴 시어메 꼴랑 위세 같은 건 쓰레기통에 버리야겠소. 울 메눌아그야! 그려~ 그려! 고로코롬 매사 활짝 웃으랑께. 니가 웃응께 칙칙하고 묵직혔던 집안 때깔이 단박에 환해지잖혀. 아이구~! 니가 복덩인 걸 으째 시어매가 이제서야 알았능가 모르겄다.",
+        "sentenceSize": 296
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "참말로 그동안 느자구 읎는 내 행실땜시롱 내가 껄쩍지근혀서 죽겄다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "글고 내 딸 깍지에미야! 니도 단디 보았지?",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "며느리 숨통 조였던 시어머니, 속 없는 웃음 한 방에 죽을죄 지었다며 무릎 꿇다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

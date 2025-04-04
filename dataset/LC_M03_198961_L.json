@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198961",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[라이프 트렌드] 아보카도오일 하루 두 스푼으로 영양 보충",
+    "newsSubTitle": "오는 21일까지 할인 행사",
+    "newsContent": "아보카도는 비타민, 미네랄, 항산화 성분인 프로안토시아니딘 등 영양소가 풍부하다.\n단백질·지방 성분까지 함유해 ‘과일 중의 보석’ ‘숲속의 버터’라는 수식어가 붙을 정도다.\n아보카도에서 압축한 아보카도오일의 80% 이상은 혈관을 건강하게 만드는 불포화지방산이다.\n전 세계 곳곳의 먹을거리를 소개하는 책 『죽기 전에 꼭 먹어야 할 세계 음식 재료 1001』에서는 아보카도오일을 “걸쭉하고 벨벳처럼 부드러운 질감에 짙은 녹색의 빛깔이 어우러져 매력적인 식용유”라고 설명했다.\n또 아보카도오일은 발연점이 271도로, 콩기름(241도)·올리브오일(190도)보다 높아 샐러드 드레싱부터 튀김·볶음 요리까지 다양하게 활용할 수 있다.\n종근당건강의 ‘아보카도오일’(사진)은 100% 아보카도 과육과 껍질만을 담은 엑스트라버진 오일이다.\n오일 한 병에 아보카도 20개가 함유됐다.\n아보카도 최대 생산지이자 원산지인 멕시코의 하스(HASS) 품종을 사용했다.\n하스 품종 아보카도는 과육의 지방 함량이 20% 이상으로 높아 식감이 부드럽고 향미가 진하다.\n열을 가하지 않고 냉압착 공법을 적용해 아보카도의 천연의 맛·영양을 최대한 담아냈다.\n하루에 두 스푼만으로 충분한 영양을 섭취할 수 있다.\n종근당건강은 이달 14~21일 ‘아보카도오일’을 선착순 500명에게 유통 최저가로 판매한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아보카도는 비타민, 미네랄, 항산화 성분인 프로안토시아니딘 등 영양소가 풍부하다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "단백질·지방 성분까지 함유해 ‘과일 중의 보석’ ‘숲속의 버터’라는 수식어가 붙을 정도다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아보카도에서 압축한 아보카도오일의 80% 이상은 혈관을 건강하게 만드는 불포화지방산이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전 세계 곳곳의 먹을거리를 소개하는 책 『죽기 전에 꼭 먹어야 할 세계 음식 재료 1001』에서는 아보카도오일을 “걸쭉하고 벨벳처럼 부드러운 질감에 짙은 녹색의 빛깔이 어우러져 매력적인 식용유”라고 설명했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 아보카도오일은 발연점이 271도로, 콩기름(241도)·올리브오일(190도)보다 높아 샐러드 드레싱부터 튀김·볶음 요리까지 다양하게 활용할 수 있다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "종근당건강의 ‘아보카도오일’(사진)은 100% 아보카도 과육과 껍질만을 담은 엑스트라버진 오일이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오일 한 병에 아보카도 20개가 함유됐다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아보카도 최대 생산지이자 원산지인 멕시코의 하스(HASS) 품종을 사용했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하스 품종 아보카도는 과육의 지방 함량이 20% 이상으로 높아 식감이 부드럽고 향미가 진하다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "열을 가하지 않고 냉압착 공법을 적용해 아보카도의 천연의 맛·영양을 최대한 담아냈다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하루에 두 스푼만으로 충분한 영양을 섭취할 수 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "종근당건강은 이달 14~21일 ‘아보카도오일’을 선착순 500명에게 유통 최저가로 판매한다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이 과일' 하루 두 스푼이면 비타민부터 혈관 건강까지 OK!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

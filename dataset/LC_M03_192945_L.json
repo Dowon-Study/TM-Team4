@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192945",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[뉴스비타민] 햄버거 TV광고 규제 추진",
+    "newsSubTitle": "청소년 10명 중 1명꼴 비만이라는데 …",
+    "newsContent": "자녀가 TV 광고를 보다가 햄버거를 사달라고 조른 적 있으시지요.\n아이들 성화 때문에 사주기는 하더라도 마음은 개운치 않았던 경험도 있으실 거예요.\n식품의약품안전청이 2008년부터 햄버거 등 패스트푸드의 광고를 규제하는 방안을 추진하고 있다고 합니다. '어린이 먹거리 로드맵' 초안도 발표했습니다.\n콜라 등 탄산음료를 학교 매점에서 판매하지 못하게 하는 방안도 포함돼 있답니다.\n이 안이 실행되기까지는 관련 업계나 전문가들의 의견을 듣는 과정이 남아있습니다.\n정부가 이런 규제를 추진하는 것은 패스트푸드를 많이 먹은 청소년이 비만해지는 일을 줄여 보려는 것입니다.\n소아.청소년 10명 중 한 명이 비만이라는 조사도 있습니다.\n외국도 우리와 비슷합니다.\n영국은 오후 9시 이전에 인스턴트 식품과 탄산음료 광고를 금지하는 방안을 추진 중입니다.\n세계보건기구(WHO)도 광고 규제를 촉구하고 있습니다.\n지난달 유럽 53개국 보건장관은 이런 내용의 비만 저지 헌장을 채택하기도 했습니다.\n패스트푸드 광고가 실제로 청소년에게 좋지 않은 영향을 준다는 연구 결과도 있습니다.\n특히 식사에 대한 부모의 간섭이 줄어드는 청소년들이 영향을 많이 받는다고 합니다.\n미국에서는 10월 청소년이 패스트푸드 TV 광고를 보는 시간을 1주일에 30분 늘리면 비만도를 가늠하는 체질량지수가 1%씩 높아진다는 연구 결과도 나왔습니다.\n연구진은 \\\"패스트푸드 광고 시청을 금지할 경우 3~11세는 과체중 비율이 10% 감소하고, 12~18세 청소년은 12% 낮아진다고 주장했습니다. 식품업체들은 곤혹스러워하면서도 규제를 수용하는 입장입니다. '웰빙' 추세를 거스를 순 없기 때문입니다. 논란을 키우면 자칫 과학적 근거가 부족한 유해성까지 부각될 수 있다고 생각하는 것 같습니다. 맥도널드와 코카콜라 등 미국의 10개 대형 회사는 14일 초등학생을 대상으로 한 광고를 자제하겠다고 밝히기도 했습니다. 국내 패스트푸드 업체의 관계자는 \\\"정부가 규제를 강화하면 광고 내용을 아이들의 균형 있는 식생활, 규칙적인 운동 등을 강조하는 방향으로 전환할 것\\\"이라고 말했습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "자녀가 TV 광고를 보다가 햄버거를 사달라고 조른 적 있으시지요.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아이들 성화 때문에 사주기는 하더라도 마음은 개운치 않았던 경험도 있으실 거예요.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "식품의약품안전청이 2008년부터 햄버거 등 패스트푸드의 광고를 규제하는 방안을 추진하고 있다고 합니다. '어린이 먹거리 로드맵' 초안도 발표했습니다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "콜라 등 탄산음료를 학교 매점에서 판매하지 못하게 하는 방안도 포함돼 있답니다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 안이 실행되기까지는 관련 업계나 전문가들의 의견을 듣는 과정이 남아있습니다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정부가 이런 규제를 추진하는 것은 패스트푸드를 많이 먹은 청소년이 비만해지는 일을 줄여 보려는 것입니다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "소아.청소년 10명 중 한 명이 비만이라는 조사도 있습니다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "외국도 우리와 비슷합니다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "영국은 오후 9시 이전에 인스턴트 식품과 탄산음료 광고를 금지하는 방안을 추진 중입니다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "세계보건기구(WHO)도 광고 규제를 촉구하고 있습니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "지난달 유럽 53개국 보건장관은 이런 내용의 비만 저지 헌장을 채택하기도 했습니다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "패스트푸드 광고가 실제로 청소년에게 좋지 않은 영향을 준다는 연구 결과도 있습니다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "특히 식사에 대한 부모의 간섭이 줄어드는 청소년들이 영향을 많이 받는다고 합니다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "미국에서는 10월 청소년이 패스트푸드 TV 광고를 보는 시간을 1주일에 30분 늘리면 비만도를 가늠하는 체질량지수가 1%씩 높아진다는 연구 결과도 나왔습니다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "연구진은 \\\"패스트푸드 광고 시청을 금지할 경우 3~11세는 과체중 비율이 10% 감소하고, 12~18세 청소년은 12% 낮아진다고 주장했습니다. 식품업체들은 곤혹스러워하면서도 규제를 수용하는 입장입니다. '웰빙' 추세를 거스를 순 없기 때문입니다. 논란을 키우면 자칫 과학적 근거가 부족한 유해성까지 부각될 수 있다고 생각하는 것 같습니다. 맥도널드와 코카콜라 등 미국의 10개 대형 회사는 14일 초등학생을 대상으로 한 광고를 자제하겠다고 밝히기도 했습니다. 국내 패스트푸드 업체의 관계자는 \\\"정부가 규제를 강화하면 광고 내용을 아이들의 균형 있는 식생활, 규칙적인 운동 등을 강조하는 방향으로 전환할 것\\\"이라고 말했습니다.",
+        "sentenceSize": 353
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"아이들 건강 위해서라면…\" 정부 차원 규제 추진 중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196177",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "파미셀 줄기세포 상용화 확대 나선다",
+    "newsSubTitle": "혈액 감소로 다리자르는 중증 하지허혈증 상용화 임상시험계획 제출",
+    "newsContent": "파미셀이 줄기세포치료제 상용화 추가에 나선다.\n파미셀은 최근 줄기세포치료제 셀그램'으로 중증 하지허혈증 완화를 위한 상업화 임상시험계획(IND)를 식품의약품안전처에 제출했다고 밝혔다.\n그동안 파미셀은 보건복지부 국책과제로 중증 하지허혈과 난치성 발기부전 질환 줄기세포 치료제를 개발해왔다.\n다만 줄기세포 치료제 주입방식이 달라졌다.\n기존 치료효과를 높이기 위해 직접 혈관에 주입하던 방법과 달리 이번에는 허혈부위 근육에 직접 주입한다.\n파미셀은 지난 6월‘셀그램’을 투여한 하지허혈 동물모델에서 혈관형성 유도를 통해 혈액 순환을 개선시킨 연구 결과를 국제 학술지에 게재했다.\n파미셀 관계자는 \\\"이번 IND 신청은 정부 국책과제를 성공적으로 수행하면서 줄기세포를 근육주사로 사용할 수 있도록 편의성을 높였다\\\"고 말했다.\n실제 급·만성 중증 하지허혈 동물실험에서 줄기세포를 근육에 투여했을 때 증상이 의미있게 개선된 것으로 나타났다.\n시술 편의성을 높이면서 치료 비용을 낮춰 줄기세포치료제 보급 확산에도 긍정적일 것이라는 분석이다.\n파미셀 김현수 대표는 “세계 최초의 줄기세포치료제 하티셀그램-AMI와 이번 중증하지허혈의 약리학적인 기전이 동일하다”라며 “중증하지허혈 환자에게도 효과가 있을 것으로 기대한다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "파미셀이 줄기세포치료제 상용화 추가에 나선다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "파미셀은 최근 줄기세포치료제 셀그램'으로 중증 하지허혈증 완화를 위한 상업화 임상시험계획(IND)를 식품의약품안전처에 제출했다고 밝혔다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그동안 파미셀은 보건복지부 국책과제로 중증 하지허혈과 난치성 발기부전 질환 줄기세포 치료제를 개발해왔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다만 줄기세포 치료제 주입방식이 달라졌다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "기존 치료효과를 높이기 위해 직접 혈관에 주입하던 방법과 달리 이번에는 허혈부위 근육에 직접 주입한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "파미셀은 지난 6월‘셀그램’을 투여한 하지허혈 동물모델에서 혈관형성 유도를 통해 혈액 순환을 개선시킨 연구 결과를 국제 학술지에 게재했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "파미셀 관계자는 \\\"이번 IND 신청은 정부 국책과제를 성공적으로 수행하면서 줄기세포를 근육주사로 사용할 수 있도록 편의성을 높였다\\\"고 말했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "실제 급·만성 중증 하지허혈 동물실험에서 줄기세포를 근육에 투여했을 때 증상이 의미있게 개선된 것으로 나타났다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "시술 편의성을 높이면서 치료 비용을 낮춰 줄기세포치료제 보급 확산에도 긍정적일 것이라는 분석이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "파미셀 김현수 대표는 “세계 최초의 줄기세포치료제 하티셀그램-AMI와 이번 중증하지허혈의 약리학적인 기전이 동일하다”라며 “중증하지허혈 환자에게도 효과가 있을 것으로 기대한다”고 말했다.",
+        "sentenceSize": 104
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "줄기세포 치료제의 주입방식의 변화, 기대되는 효과는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

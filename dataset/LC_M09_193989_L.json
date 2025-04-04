@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M09_193989",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책과 생각",
+    "newsTitle": "‘경제학3.0’ ‘삼엽충’…1등 아니지만 기억해주오",
+    "newsSubTitle": "null",
+    "newsContent": "〈지난 10년, 놓쳐서는 안 될 아까운 책〉 강수돌 외 지음/부키·1만4800원 2010년 한해에 나온 새책은 모두 4만291종이었다.\n이 가운데 절반 정도는 중고생 참고서다.\n나머지의 일부가 팔리고 읽히고 이해된다.\n베스트셀러 등 아주 운좋은 책을 제외하면 대부분의 책은 선보인 지 1년이면 출판계에서 사망을 뜻하는 ‘절판’되는 게 현실이다.\n은 2000년부터 10년 동안 태어나자마자 잊히고 묻힌 대다수의 책에 관심을 기울였다.\n1등만 기억하는 세상의 법칙이 어김없이 적용되어 온 책시장에서 보기 드문 기획이다.\n세상 사람들에게 제 이름을 알리지 못하고 죽은 책 가운데 다시 부활하길 바라는 책 48권을 각계 전문가 46명이 추천했다.\n전문가들이 먼저 3~4권의 책을 추천했고 이 책 가운데 교보문고에서 발표한 분야별 밀레니엄 베스트 목록 100위 안에 들지 못한 책을 가려 최종적으로 필자들이 한권을 고르는 방식으로 선정했다(필자 2명은 각각 2권씩 골랐다). 우석훈 2.1연구소장은 김광수씨의 (더난)에 대해 지난 10년간 사회운동 과정에서 선보인 수많은 책 가운데 대중들의 행동을 이끌어낸 보기 드문 책인데도 2만권밖에 안 팔렸다고 아쉬워했다.\n지은이가 소장으로 있는 김광수경제연구소는 재벌과 부자에게 유리한 세제를 바꾸자고 주장하는 세금혁명당을 만드는 산파 구실을 했다.\n2007년 7월 아시아태평양이론물리센터에서 올해의 과학책으로 선정된 리처드 도킨스의 은 모든 언론이 대서특필했다.\n그런데 이날 함께 선정된 (지호)의 서평을 쓴 언론은 거의 없었다. ‘이보디보’는 진화론의 창시자 찰스 다윈이 죽은 후 유전학과 발생학으로 양분됐던 생물학을 통합 연구하려는 진화발생생물학의 약자다.\n130여년 동안 분리됐던 두 학문의 통합을 선언한 이 책은 생물학에서는 일대 사건으로 평가된다.\n과학책 번역가로 알려진 김명남씨는 (뿌리와이파리)을 아까운 책으로 골랐다.\n14살에 손수 캐낸 삼엽충과 사랑에 빠져 평생을 자연사박물관에서 삼엽충 전문가로 일해온 인물의 자서전인 이 책은 과학책에 기대할 수 있는 모든 요소를 담고 있지만 무미건조한 제목 덕분에 알려지지 않았다고 아쉬워했다.\n책쟁이들답게 선정의 어려움을 토로하는 이도 있었다.\n번역가 노태복씨는 10년간 출간된 책 가운데 단 한권을 고르라는 주문에 천리길의 초입에 선 나그네 심정처럼 아득했다고 말했다.\n그러나 아까운 책에 대한 설명이 없이 그저 좋은 책만 골라놓은 듯한 글들이 많아 아쉽다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "〈지난 10년, 놓쳐서는 안 될 아까운 책〉 강수돌 외 지음/부키·1만4800원 2010년 한해에 나온 새책은 모두 4만291종이었다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 가운데 절반 정도는 중고생 참고서다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "나머지의 일부가 팔리고 읽히고 이해된다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "베스트셀러 등 아주 운좋은 책을 제외하면 대부분의 책은 선보인 지 1년이면 출판계에서 사망을 뜻하는 ‘절판’되는 게 현실이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "은 2000년부터 10년 동안 태어나자마자 잊히고 묻힌 대다수의 책에 관심을 기울였다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1등만 기억하는 세상의 법칙이 어김없이 적용되어 온 책시장에서 보기 드문 기획이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "세상 사람들에게 제 이름을 알리지 못하고 죽은 책 가운데 다시 부활하길 바라는 책 48권을 각계 전문가 46명이 추천했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "전문가들이 먼저 3~4권의 책을 추천했고 이 책 가운데 교보문고에서 발표한 분야별 밀레니엄 베스트 목록 100위 안에 들지 못한 책을 가려 최종적으로 필자들이 한권을 고르는 방식으로 선정했다(필자 2명은 각각 2권씩 골랐다). 우석훈 2.1연구소장은 김광수씨의 (더난)에 대해 지난 10년간 사회운동 과정에서 선보인 수많은 책 가운데 대중들의 행동을 이끌어낸 보기 드문 책인데도 2만권밖에 안 팔렸다고 아쉬워했다.",
+        "sentenceSize": 231
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지은이가 소장으로 있는 김광수경제연구소는 재벌과 부자에게 유리한 세제를 바꾸자고 주장하는 세금혁명당을 만드는 산파 구실을 했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "2007년 7월 아시아태평양이론물리센터에서 올해의 과학책으로 선정된 리처드 도킨스의 은 모든 언론이 대서특필했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그런데 이날 함께 선정된 (지호)의 서평을 쓴 언론은 거의 없었다. ‘이보디보’는 진화론의 창시자 찰스 다윈이 죽은 후 유전학과 발생학으로 양분됐던 생물학을 통합 연구하려는 진화발생생물학의 약자다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "130여년 동안 분리됐던 두 학문의 통합을 선언한 이 책은 생물학에서는 일대 사건으로 평가된다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "과학책 번역가로 알려진 김명남씨는 (뿌리와이파리)을 아까운 책으로 골랐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "14살에 손수 캐낸 삼엽충과 사랑에 빠져 평생을 자연사박물관에서 삼엽충 전문가로 일해온 인물의 자서전인 이 책은 과학책에 기대할 수 있는 모든 요소를 담고 있지만 무미건조한 제목 덕분에 알려지지 않았다고 아쉬워했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "책쟁이들답게 선정의 어려움을 토로하는 이도 있었다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "번역가 노태복씨는 10년간 출간된 책 가운데 단 한권을 고르라는 주문에 천리길의 초입에 선 나그네 심정처럼 아득했다고 말했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "그러나 아까운 책에 대한 설명이 없이 그저 좋은 책만 골라놓은 듯한 글들이 많아 아쉽다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'1등 아니면 사망' 아깝게 잊혀진 책들은 어디에?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

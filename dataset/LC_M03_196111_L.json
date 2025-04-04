@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196111",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "8년째 동결된 식대 수가, 현행 원가의 86% 수준",
+    "newsSubTitle": "병협, \\\"복지부에 수가 인상 강력 요청 할 것\\\"",
+    "newsContent": "8년 째 동결된 입원환자의 식대 수가가 원가의 86% 수준에 불과하다는 연구결과가 나왔다.\n병원협회는 19일 ‘입원환자 식대 수가 개선방안’ 연구 결과를 공개하며 “입원환자식 1식당 평균 원가는 6077원인데 평균 수가는 5230원으로, 86% 수준에 그친다”고 밝혔다.\n입원환자가 먹는 한 끼 식사당 병원이 평균 847원씩의 적자를 보고 있는 셈이다.\n연구를 진행한 연세대 보건대학원 김태현 교수는 “이를 500병상 규모 병원에 비춰 보면 입원환자식 제공으로 연간 4억여원의 손실을 보고 있는 것으로 파악됐다”고 말했다.\n연구에서는 환자에게 양질의 식사를 제공할 수 있는 적정 입원환자식을 제공할 경우, 1식당 적정원가를 7099원으로 예상했다.\n만약, 수가인상 없이 입원환자식을 개선할 때는 병원 자체적으로 1식당 1849원을 더 부담해야 한다는 결론이 나온다.\n장기간의 식대수가의 동결이 식사의 질을 저하시킨다는 사실도 확인됐다.\n연구결과, 비교적 가격이 비싼 어육류군, 우유군 및 과일군이 처방지침의 기준에 충족해 제공하는 의료기관은 소수에 불과했다.\n김 교수는 “수가 개선은 물론, 의료기관전체에 적용할 수 있는 ‘환자식사 처방 표준 지침서’가 필요할 것”이라 말했다.\n이번 연구는 전체 병원 중을 종별, 병상규모와 지역수준을 고려해 8개로 나눈 뒤 임의 추출해 조사표를 발송, 회수된 자료를 토대로 이뤄졌다.\n모두 237개의 의료기관중 조사표가 수집된 기관수는 모두 89개(회수율 37.5%) 이 가운데 최종적인 분석 대상 기관은 77개였다.\n입원환자식의 자동 가격조정기전에는 환산지수 인상률이 반영됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "8년 째 동결된 입원환자의 식대 수가가 원가의 86% 수준에 불과하다는 연구결과가 나왔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "병원협회는 19일 ‘입원환자 식대 수가 개선방안’ 연구 결과를 공개하며 “입원환자식 1식당 평균 원가는 6077원인데 평균 수가는 5230원으로, 86% 수준에 그친다”고 밝혔다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "입원환자가 먹는 한 끼 식사당 병원이 평균 847원씩의 적자를 보고 있는 셈이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연구를 진행한 연세대 보건대학원 김태현 교수는 “이를 500병상 규모 병원에 비춰 보면 입원환자식 제공으로 연간 4억여원의 손실을 보고 있는 것으로 파악됐다”고 말했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연구에서는 환자에게 양질의 식사를 제공할 수 있는 적정 입원환자식을 제공할 경우, 1식당 적정원가를 7099원으로 예상했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "만약, 수가인상 없이 입원환자식을 개선할 때는 병원 자체적으로 1식당 1849원을 더 부담해야 한다는 결론이 나온다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "장기간의 식대수가의 동결이 식사의 질을 저하시킨다는 사실도 확인됐다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구결과, 비교적 가격이 비싼 어육류군, 우유군 및 과일군이 처방지침의 기준에 충족해 제공하는 의료기관은 소수에 불과했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김 교수는 “수가 개선은 물론, 의료기관전체에 적용할 수 있는 ‘환자식사 처방 표준 지침서’가 필요할 것”이라 말했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이번 연구는 전체 병원 중을 종별, 병상규모와 지역수준을 고려해 8개로 나눈 뒤 임의 추출해 조사표를 발송, 회수된 자료를 토대로 이뤄졌다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "모두 237개의 의료기관중 조사표가 수집된 기관수는 모두 89개(회수율 37.5%) 이 가운데 최종적인 분석 대상 기관은 77개였다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "입원환자식의 자동 가격조정기전에는 환산지수 인상률이 반영됐다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "입원환자가 한 끼 식사할 떄마다 병원은 적자?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

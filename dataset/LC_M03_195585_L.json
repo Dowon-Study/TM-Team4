@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195585",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[땅이야기 맛이야기] 충남(3) 할머니 손맛이 바로 이 맛이야, 시골손칼국수",
+    "newsSubTitle": "한국국토정보공사 공주지사 직원이 추천하는 맛집",
+    "newsContent": "비오는 날 찾게 되는 훈훈한 칼국수 '시골손칼국수'의 대표메뉴는 직접 담근 묵은 김치로 만든 김치칼국수다.\n깔끔한 멸치육수와 얼큰한 김치국물이 어우러져 어릴 적 할머니가 끓여주던 바로 그 칼국수가 된다.\n감자와 호박이 들어간 기본 칼국수도 김치칼국수 못지않는 깔끔함을 자랑한다.\n여름에는 직접 삶아 그때 그때 갈아 만드는 콩국수도 인기다.\n칼국수, 김치칼국수, 콩국수가 대표메뉴 전부지만 모두 빼어난 맛을 자랑한다.\n직접 반죽하고 직접 썰어 만드는 면발 칼국수집을 시작한 지 25년 동안 사장님은 매일 아침 그날 팔 국수반죽을 직접 했다.\n손으로 밀가루를 반죽하고 썰어낸 칼국수는 쫀득쫀득한 식감에서부터 차이가 난다.\n탱탱한 면발의 식감 못지않게 정갈한 밑반찬에도 정성이 가득하다.\n직접 밭에서 따온 고추를 절여 만든 고추 장아찌와, 열무김치, 배추김치 어느 하나 소홀함이 없다.\n여름에도 인기메뉴는 단연 김치칼국수 여름의 공식 인기메뉴는 콩국수다. '시골손칼국수'에서도 여름콩국수의 인기는 뜨겁다.\n비오는 여름날이면 너도나도 '시골손칼국수'를 찾아온다. 25년째 단골인 손님도 있고, 매일같이 출근도장을 찍는 손님도 있다.\n주말에는 입소문을 듣고 멀리서 찾아온 손님들이 많다.\n특별함이 없는 것이 오히려 장점 특별한 레시피가 중요한 것이 아니다.\n신선한 재료의 있는 그대로의 맛을 살리는 게 전부다.\n특별함이 없어 더 그리운 옛 맛을 느낄 수 있단다.\n시원한 멸치국물에 배어나오는 밀가루의 맛이 어린 시절 할머니가 끓여주던 그 칼국수와 닮았다.\n이곳을 찾는 이들은 어린시절 할머니의 칼국수 맛을 그리며 찾아오는 이들이 많다.\n출처. 한국국토정보공사, 2016 땅이야기 맛이야기",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "비오는 날 찾게 되는 훈훈한 칼국수 '시골손칼국수'의 대표메뉴는 직접 담근 묵은 김치로 만든 김치칼국수다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "깔끔한 멸치육수와 얼큰한 김치국물이 어우러져 어릴 적 할머니가 끓여주던 바로 그 칼국수가 된다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "감자와 호박이 들어간 기본 칼국수도 김치칼국수 못지않는 깔끔함을 자랑한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여름에는 직접 삶아 그때 그때 갈아 만드는 콩국수도 인기다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "칼국수, 김치칼국수, 콩국수가 대표메뉴 전부지만 모두 빼어난 맛을 자랑한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "직접 반죽하고 직접 썰어 만드는 면발 칼국수집을 시작한 지 25년 동안 사장님은 매일 아침 그날 팔 국수반죽을 직접 했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "손으로 밀가루를 반죽하고 썰어낸 칼국수는 쫀득쫀득한 식감에서부터 차이가 난다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "탱탱한 면발의 식감 못지않게 정갈한 밑반찬에도 정성이 가득하다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "직접 밭에서 따온 고추를 절여 만든 고추 장아찌와, 열무김치, 배추김치 어느 하나 소홀함이 없다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "여름에도 인기메뉴는 단연 김치칼국수 여름의 공식 인기메뉴는 콩국수다. '시골손칼국수'에서도 여름콩국수의 인기는 뜨겁다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "비오는 여름날이면 너도나도 '시골손칼국수'를 찾아온다. 25년째 단골인 손님도 있고, 매일같이 출근도장을 찍는 손님도 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "주말에는 입소문을 듣고 멀리서 찾아온 손님들이 많다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "특별함이 없는 것이 오히려 장점 특별한 레시피가 중요한 것이 아니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "신선한 재료의 있는 그대로의 맛을 살리는 게 전부다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "특별함이 없어 더 그리운 옛 맛을 느낄 수 있단다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "시원한 멸치국물에 배어나오는 밀가루의 맛이 어린 시절 할머니가 끓여주던 그 칼국수와 닮았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이곳을 찾는 이들은 어린시절 할머니의 칼국수 맛을 그리며 찾아오는 이들이 많다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "출처. 한국국토정보공사, 2016 땅이야기 맛이야기",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "25년 동안 찾게 되는 그리운 옛 맛 손칼국수 맛집은 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

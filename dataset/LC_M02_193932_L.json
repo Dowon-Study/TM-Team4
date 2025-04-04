@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193932",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "동해를 일본해로? '사냥의 시간' 자막 논란에 난감해진 넷플릭스",
+    "newsSubTitle": "",
+    "newsContent": "넷플릭스에서 개봉한 영화 '사냥의 시간'이 동해를 일본해로 잘못 표기해 논란에 휩싸였다.\n넷플릭스는 확인을 거쳐 이를 수정한다는 입장이다.\n24일 영화 '사냥의 시간'의 독일어 자막에 동해가 일본해로 그릇되게 표기됐다는 사실이 알려졌다. '사냥의 시간'은 한국시간으로 23일 오후 4시 넷플릭스를 통해 전 세계 190여 개국에 동시 공개됐다.\n하지만 공개 이후 이제훈(준석 역)의 \\\"저희 지금 동해 와 있어요\\\"라는 대사가 독일어 자막으로는 일본해(Japanischen Meer)로 오기된 것이 뒤늦게 발견돼 문제가 불거지게 됐디. 이와 관련해 넷플릭스 측은 미디어SR에 \\\"현재 각 언어 현지화 팀과 독일어 자막 같은 사례가 없는지 확인하고 있다\\\"면서 \\\"해당 과정이 완료되면 바로 자막을 수정할 것\\\"이라고 밝혔다.\n넷플릭스는 당초 '사냥의 시간'을 전 세계 엔터테인먼트 팬들을 위해 총 30개 언어 자막으로 서비스했으나, 표기에 있어 문제가 발생한 만큼 모든 자막에 대해 면밀히 확인을 거친다는 방침이다.\n한편, '사냥의 시간'은 새로운 인생을 위해 위험한 작전을 계획한 네 친구와 이를 뒤쫓는 정체불명의 추격자, 이들의 숨막히는 사냥의 시간을 담아낸 추격 스릴러다.\n이제훈, 안재홍, 최우식, 박정민, 박해수 등이 열연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "넷플릭스에서 개봉한 영화 '사냥의 시간'이 동해를 일본해로 잘못 표기해 논란에 휩싸였다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "넷플릭스는 확인을 거쳐 이를 수정한다는 입장이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "24일 영화 '사냥의 시간'의 독일어 자막에 동해가 일본해로 그릇되게 표기됐다는 사실이 알려졌다. '사냥의 시간'은 한국시간으로 23일 오후 4시 넷플릭스를 통해 전 세계 190여 개국에 동시 공개됐다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 공개 이후 이제훈(준석 역)의 \\\"저희 지금 동해 와 있어요\\\"라는 대사가 독일어 자막으로는 일본해(Japanischen Meer)로 오기된 것이 뒤늦게 발견돼 문제가 불거지게 됐디. 이와 관련해 넷플릭스 측은 미디어SR에 \\\"현재 각 언어 현지화 팀과 독일어 자막 같은 사례가 없는지 확인하고 있다\\\"면서 \\\"해당 과정이 완료되면 바로 자막을 수정할 것\\\"이라고 밝혔다.",
+        "sentenceSize": 212
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "넷플릭스는 당초 '사냥의 시간'을 전 세계 엔터테인먼트 팬들을 위해 총 30개 언어 자막으로 서비스했으나, 표기에 있어 문제가 발생한 만큼 모든 자막에 대해 면밀히 확인을 거친다는 방침이다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, '사냥의 시간'은 새로운 인생을 위해 위험한 작전을 계획한 네 친구와 이를 뒤쫓는 정체불명의 추격자, 이들의 숨막히는 사냥의 시간을 담아낸 추격 스릴러다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이제훈, 안재홍, 최우식, 박정민, 박해수 등이 열연했다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "넷플릭스 '사냥의 시간' 자막 논란... 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

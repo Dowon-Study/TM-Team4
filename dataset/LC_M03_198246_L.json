@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198246",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[행복한책읽기Review] 한국에 사표 내고 캐나다 간 기자의 수기",
+    "newsSubTitle": "",
+    "newsContent": "느리게 가는 버스 성우제 지음, 강 232쪽, 1만원 \\\"누가 가라고 등을 떠민 것은 아니지만\\\" 성우제(44)씨는 나이 마흔에 물 설고 낯선 캐나다로 떠났다.\n13년 봉직한, 처음이자 마지막 직장에 사표를 내고 아내와 어린 아들 손을 잡고 불안하게 새 땅에 뿌리를 내렸다.\n대학 시절 부르던 '흔들리지, 흔들리잖게' 노래를 흥얼거리며 이민 1세의 두려움을 삭이던 이 남자가 \\\"지극히 주관적인\\\" 수기를 썼다.\n대학원에서 불문학을 전공하고 '시사저널' 문화부 전문기자를 지냈으며 친형인 소설가 성석제씨 못지않은 문청(文靑)인 그가 쓸 수밖에 없는 캐나다 통신이다.\n이방인이 되어 바라본 한국과 캐나다는 어느 편에도 속하지 않은 처지 덕에 그의 눈을 더 선명하게 해 주었다.\n청각장애를 지닌 아이를 토론토 어린이 병원에 데리고 가 사랑과 감동 속에 수술을 받게 한 일, 개화기에 걸출한 풍속화가로 활동한 김준근의 그림을 온타리오 왕립박물관에서 발견한 사건, 마음 속 스승인 전신재.강성욱.김화영 교수를 기리는 추억 등 '느리게 가는 버스'에서 바라본 세상은 따뜻하고 따끔하다.\n언론인 감각에 작가 정신을 접붙인 그의 버스에 올라타면 우리가 다시 보인다.\n\\\"이민은 만병통치약이 아니다\\\"라는 그는 말한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "느리게 가는 버스 성우제 지음, 강 232쪽, 1만원 \\\"누가 가라고 등을 떠민 것은 아니지만\\\" 성우제(44)씨는 나이 마흔에 물 설고 낯선 캐나다로 떠났다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13년 봉직한, 처음이자 마지막 직장에 사표를 내고 아내와 어린 아들 손을 잡고 불안하게 새 땅에 뿌리를 내렸다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대학 시절 부르던 '흔들리지, 흔들리잖게' 노래를 흥얼거리며 이민 1세의 두려움을 삭이던 이 남자가 \\\"지극히 주관적인\\\" 수기를 썼다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대학원에서 불문학을 전공하고 '시사저널' 문화부 전문기자를 지냈으며 친형인 소설가 성석제씨 못지않은 문청(文靑)인 그가 쓸 수밖에 없는 캐나다 통신이다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이방인이 되어 바라본 한국과 캐나다는 어느 편에도 속하지 않은 처지 덕에 그의 눈을 더 선명하게 해 주었다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "청각장애를 지닌 아이를 토론토 어린이 병원에 데리고 가 사랑과 감동 속에 수술을 받게 한 일, 개화기에 걸출한 풍속화가로 활동한 김준근의 그림을 온타리오 왕립박물관에서 발견한 사건, 마음 속 스승인 전신재.강성욱.김화영 교수를 기리는 추억 등 '느리게 가는 버스'에서 바라본 세상은 따뜻하고 따끔하다.",
+        "sentenceSize": 168
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "언론인 감각에 작가 정신을 접붙인 그의 버스에 올라타면 우리가 다시 보인다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "\\\"이민은 만병통치약이 아니다\\\"라는 그는 말한다.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한국에 사표 내고 가족과 함께 낯선 땅 캐나다로 떠난 이야기, 이 사람이 쓴 책은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

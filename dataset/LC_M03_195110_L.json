@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195110",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[라이프 트렌드&] ‘건강백년’ 프로그램 통해 환자 중심 토털 케어",
+    "newsSubTitle": "티케이정형외과",
+    "newsContent": "평균수명이 늘어나면서 삶의 연장에서 오는 기쁨과 함께 삶을 영위하기 위해 고민해야 하는 문제도 늘어나고 있다.\n늘어난 삶을 유지하고 지켜낼 방안의 필요성이 절실해지고 있다.\n이런 면에서 티케이정형외과 김태균 원장은 육신이 앓는 질환의 치료와 함께 환자가 겪는 심리적 고통과 두려움까지 해결해주는 ‘삶의 보살핌’을 역설한다.\n김 원장은 “오늘날 30년 사용 가능한 첨단 인공관절이 보급돼 있지만, 이것을 구현할 수 있는 의료기술이 더욱 빛을 발하려면 노년의 면역·골건강·식생활·운동·정신건강 등에만 집중할 수 있는 쾌적하고 효율적인 공간과 시설이 우선돼야 하고, 여기에 의료진의 사명감과 높은 윤리의식으로 환자 스스로 ‘고귀한 대접을 받고 있다는 것’을 느끼게 해줘야 한다”고 강조한다.\n의료인과 직원이 함께하는 토론과 선행실습, 이를 토대로 한 프로그램 수립에 이어 다음 단계로의 점진적 회복 과정에서 느끼는 환자의 만족도를 높이는 것이 중요하다는 것이다.\n김 원장이 증상 치료와 원인적 치료까지 인술(仁術)을 펼침으로써 ‘세상에 꼭 필요한 병원’을 만들겠다는 생각으로 시작한 티케이정형외과는 ‘건강백년’이라는 특화된 건강프로그램을 통해 각종 정형외과 질환 및 골다공증을 비롯한 노인질환을 예방·관리하는 환자 중심의 토털 케어를 실천하고 있다.\n매년 1000건 이상의 수술을 하고 있다.\n김 원장은 ‘참된 의료인’의 덕목에 관한 에세이집 『오늘도 진료실에서 삶을 배웁니다』를 출간했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "평균수명이 늘어나면서 삶의 연장에서 오는 기쁨과 함께 삶을 영위하기 위해 고민해야 하는 문제도 늘어나고 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "늘어난 삶을 유지하고 지켜낼 방안의 필요성이 절실해지고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이런 면에서 티케이정형외과 김태균 원장은 육신이 앓는 질환의 치료와 함께 환자가 겪는 심리적 고통과 두려움까지 해결해주는 ‘삶의 보살핌’을 역설한다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김 원장은 “오늘날 30년 사용 가능한 첨단 인공관절이 보급돼 있지만, 이것을 구현할 수 있는 의료기술이 더욱 빛을 발하려면 노년의 면역·골건강·식생활·운동·정신건강 등에만 집중할 수 있는 쾌적하고 효율적인 공간과 시설이 우선돼야 하고, 여기에 의료진의 사명감과 높은 윤리의식으로 환자 스스로 ‘고귀한 대접을 받고 있다는 것’을 느끼게 해줘야 한다”고 강조한다.",
+        "sentenceSize": 202
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "의료인과 직원이 함께하는 토론과 선행실습, 이를 토대로 한 프로그램 수립에 이어 다음 단계로의 점진적 회복 과정에서 느끼는 환자의 만족도를 높이는 것이 중요하다는 것이다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김 원장이 증상 치료와 원인적 치료까지 인술(仁術)을 펼침으로써 ‘세상에 꼭 필요한 병원’을 만들겠다는 생각으로 시작한 티케이정형외과는 ‘건강백년’이라는 특화된 건강프로그램을 통해 각종 정형외과 질환 및 골다공증을 비롯한 노인질환을 예방·관리하는 환자 중심의 토털 케어를 실천하고 있다.",
+        "sentenceSize": 160
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "매년 1000건 이상의 수술을 하고 있다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김 원장은 ‘참된 의료인’의 덕목에 관한 에세이집 『오늘도 진료실에서 삶을 배웁니다』를 출간했다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "수명 늘어난 만큼 건강하게 늙는 것도 중요해져... 건강하게 늙으려면 어떻게?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

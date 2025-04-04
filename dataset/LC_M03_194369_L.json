@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194369",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[Family건강] 발견 늦고 치료 어려운 난소암 ‘약물+고온요법’ 생존율 ↑",
+    "newsSubTitle": "",
+    "newsContent": "난소암은 자궁경부암·유방암과 더불어 3대 여성암으로 꼽힌다.\n문제는 늦게 발견되는 데다 치료 성적이 매우 낮다는 것. 난소암 환자의 70% 이상이 3기 이후에 발견되고, 5년 평균 생존율은 32~45%에 불과하다.\n이렇게 악명 높은 난소암에 약물을 병행한 고온요법이 치료 효율을 탁월하게 높인 것으로 나타났다.\n강남성모병원 산부인과 이준모 교수는 1995년부터 2006년까지 난소암 1기 말에서 3기에 이르는 환자 96명을 대상으로 ‘복강 내 고온열 항암화학요법’을 실시한 결과, 5년 생존율을 최저 63%, 최고 84.6%까지 높였다고 미국부인종양학회지 최근호에 발표했다.\n5년 생존율이란 완치에 가까운 치료율를 보여준다는 의학적 의미를 지닌다.\n이 교수는 우선 수술로 암덩어리를 떼어낸 다음 6∼12회 보조 항암화학요법을 실시하고, 2차 확인수술(1차 항암치료 후 효과를 확인하기 위한 수술법)을 하면서 복강 내 고온열 항암화학요법을 실시했다. 고온열 항암화학요법은 암이 열에 취약하다는 점을 이용한 치료법. 정상 세포는 섭씨 50도가 넘어야 괴사되지만 암세포는 43도 내외면 죽는다.\n이런 온도의 차이를 이용해 지속적으로 열을 암세포에 접촉시키는 것. 수술은 복부를 열고 고압펌프를 이용해 항암제를 혼합한 가열된 물을 순환시키는 방식으로 진행된다.\n수술 성적은 항암제 파클리탁셀을 사용한 환자에서 84.6%(22명)로 가장 높았다.\n다음은 카르보플라틴이라는 항암제로 치료받은 환자들로 63%(45명)의 생존율을 보였다.\n반면 단순히 수술과 약물요법만을 받은 환자(29명)는 32.8%의 생존율에 그쳤다.\n약물 부작용은 구역·구토 등의 경미한 증상이 전부였다.\n이 교수는 “배 속에 항암제를 고루 분포시키고, 온도 역시 균일하게 접촉할 수 있는 기술이 개발되면 난치병인 난소암도 정복할 수 있을 것”이라고 자신감을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "난소암은 자궁경부암·유방암과 더불어 3대 여성암으로 꼽힌다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "문제는 늦게 발견되는 데다 치료 성적이 매우 낮다는 것. 난소암 환자의 70% 이상이 3기 이후에 발견되고, 5년 평균 생존율은 32~45%에 불과하다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이렇게 악명 높은 난소암에 약물을 병행한 고온요법이 치료 효율을 탁월하게 높인 것으로 나타났다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "강남성모병원 산부인과 이준모 교수는 1995년부터 2006년까지 난소암 1기 말에서 3기에 이르는 환자 96명을 대상으로 ‘복강 내 고온열 항암화학요법’을 실시한 결과, 5년 생존율을 최저 63%, 최고 84.6%까지 높였다고 미국부인종양학회지 최근호에 발표했다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "5년 생존율이란 완치에 가까운 치료율를 보여준다는 의학적 의미를 지닌다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 교수는 우선 수술로 암덩어리를 떼어낸 다음 6∼12회 보조 항암화학요법을 실시하고, 2차 확인수술(1차 항암치료 후 효과를 확인하기 위한 수술법)을 하면서 복강 내 고온열 항암화학요법을 실시했다. 고온열 항암화학요법은 암이 열에 취약하다는 점을 이용한 치료법. 정상 세포는 섭씨 50도가 넘어야 괴사되지만 암세포는 43도 내외면 죽는다.",
+        "sentenceSize": 190
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이런 온도의 차이를 이용해 지속적으로 열을 암세포에 접촉시키는 것. 수술은 복부를 열고 고압펌프를 이용해 항암제를 혼합한 가열된 물을 순환시키는 방식으로 진행된다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "수술 성적은 항암제 파클리탁셀을 사용한 환자에서 84.6%(22명)로 가장 높았다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다음은 카르보플라틴이라는 항암제로 치료받은 환자들로 63%(45명)의 생존율을 보였다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "반면 단순히 수술과 약물요법만을 받은 환자(29명)는 32.8%의 생존율에 그쳤다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "약물 부작용은 구역·구토 등의 경미한 증상이 전부였다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이 교수는 “배 속에 항암제를 고루 분포시키고, 온도 역시 균일하게 접촉할 수 있는 기술이 개발되면 난치병인 난소암도 정복할 수 있을 것”이라고 자신감을 보였다.",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "악명 높은 난소암, 생존율 높이는 치료법이 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

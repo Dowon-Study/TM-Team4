@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195766",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"한의약추진위? 한의약에 면죄부 주는 것\\\"",
+    "newsSubTitle": "의협, 한의사만 참여하는 추진위 비판",
+    "newsContent": "대한의사협회가 '한의약 표준임상진료지침' 개발과 '한의약추진위원회' 발족에 제동을 걸고 나섰다.\n의사 등 외부 전문가 없이 한의사만 참여하는 한의약추진위원회를 꾸리는 것은 제 논에 물대기라는 비판이다.\n의협은 한의사만을 포함한 한의약추진위원회 구성과 관련 4일 성명을 통해 “행위 자체의 안전성 및 유효성에 따른 효과 검증의 한계를 드러내게 돼 유명무실한 위원회로 전락할 것이 자명하다”고 우려를 표명했다.\n보건복지부는 대한한의사협회와 함께 한의약의 표준화·과학화 기반을 조성한다는 명목으로 범한의계가 참여하는 ‘근거중심 한의약 추진위원회’를 발족시킨 바 있다. 1차 회의는 이날 오후 개최됐다.\n의협은 정부와 한의계가 의료계 참여를 배제한 것에 대해 “한의약의 안전성과 효과성에 면죄부를 주기 위한 의도”라고 강도 높게 비판했다.\n한의약의 과학화와 표준화를 위한 것이라면 의료계와 함께 객관적으로 검증하고, 의료일원화 방안을 논의하는 것이 순서라는 것이다.\n의협은 추진위를 통해 생산된 결과물을 글로벌 스탠더드에 역행하는 소모적인 접근이라고 지적했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대한의사협회가 '한의약 표준임상진료지침' 개발과 '한의약추진위원회' 발족에 제동을 걸고 나섰다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "의사 등 외부 전문가 없이 한의사만 참여하는 한의약추진위원회를 꾸리는 것은 제 논에 물대기라는 비판이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "의협은 한의사만을 포함한 한의약추진위원회 구성과 관련 4일 성명을 통해 “행위 자체의 안전성 및 유효성에 따른 효과 검증의 한계를 드러내게 돼 유명무실한 위원회로 전락할 것이 자명하다”고 우려를 표명했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보건복지부는 대한한의사협회와 함께 한의약의 표준화·과학화 기반을 조성한다는 명목으로 범한의계가 참여하는 ‘근거중심 한의약 추진위원회’를 발족시킨 바 있다. 1차 회의는 이날 오후 개최됐다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "의협은 정부와 한의계가 의료계 참여를 배제한 것에 대해 “한의약의 안전성과 효과성에 면죄부를 주기 위한 의도”라고 강도 높게 비판했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한의약의 과학화와 표준화를 위한 것이라면 의료계와 함께 객관적으로 검증하고, 의료일원화 방안을 논의하는 것이 순서라는 것이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "의협은 추진위를 통해 생산된 결과물을 글로벌 스탠더드에 역행하는 소모적인 접근이라고 지적했다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대한의사협회, `한의약 추진위원회` 발족에 제동 걸어… 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

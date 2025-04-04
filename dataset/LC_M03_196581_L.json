@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196581",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "취업 면접…미로를 탈출하라, '후지산을 어떻게 옮길까?'",
+    "newsSubTitle": "",
+    "newsContent": "\\\"이 세상에 피아노 조율사가 몇명이나 있습니까.\\\" \\\"맨해튼의 전화번호부를 평균 몇번이나 펼쳐봐야 원하는 이름을 찾을 수 있습니까.\\\" \\\"시각 장애인을 위한 양념 수납 선반을 설계하시오.\\\" 면접관의 질문에 여기까지 입을 다물고 있었다면 당신은 분명 '탈락'의 쓴잔을 마셔야 한다.\n적어도 세계 최고의 기업 마이크로소프트사(MS)에서는 말이다.\nMS는 전통적인 면접 방법, 예컨대 '가족은 몇명이나 되나' '10년 후 당신의 모습은' '학교에서 방과 후 활동은 무엇을 했나' 등의 질문들을 버리고 '황당 면접'이라고도 불리는 '퍼즐 인터뷰' 방식을 수년째 사용하고 있다.\n이는 집에서 종이 그림 퍼즐 맞추기를 즐겨 하는 빌 게이츠 회장의 취미에서 비롯된 것일까?\n세계 초일류 기업이 그렇게 호락호락할 리 없다.\nMS는 \\\"한 회사의 운명은 인재를 선발하는 일에 달려 있다\\\"고 말할 정도로 사람을 중시한다.\n이들은 수많은 지원자 중 옥석을 가리기 위해 머리를 써야 하는 퍼즐, 난해한 수수께끼, 대답이 불가능한 문제들을 던진다.\n이를 통해 면접자의 일반적인 문제 해결 능력을 관찰한다.\n직무 능력이야 입사 후 트레이닝을 시키면 된다는 게 이들의 생각이다.\n최고 인재를 채용하기 위한 MS의 면접 방식은 현재 실리콘밸리.월스트리트 뿐 아니라 전세계 기업들의 인터뷰 관행을 바꿔놓고 있다.\n최근엔 '백두산을 옮기는 데 시간과 비용은 얼마나 드는가'(SK그룹) '서울 시내 주유소는 몇개나 되는가'(동부제강) 등 국내 기업도 이 방식을 채택한 바 있다.\n저자는 유행과도 같은 이런 변화에 대해 \\\"퍼즐을 푸는 추리력은 급변하는 시장에서 발생하는 실질적인 문제들을 해결하는 사고력과 관련이 있기 때문\\\"이라고 설명한다.\n책 제목이기도 한 '후지산을 어떻게 옮길 수 있을까'의 답은 정말로 있는 걸까?\n힌트는 후지산이 원추형이라는 데 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"이 세상에 피아노 조율사가 몇명이나 있습니까.\\\" \\\"맨해튼의 전화번호부를 평균 몇번이나 펼쳐봐야 원하는 이름을 찾을 수 있습니까.\\\" \\\"시각 장애인을 위한 양념 수납 선반을 설계하시오.\\\" 면접관의 질문에 여기까지 입을 다물고 있었다면 당신은 분명 '탈락'의 쓴잔을 마셔야 한다.",
+        "sentenceSize": 160
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "적어도 세계 최고의 기업 마이크로소프트사(MS)에서는 말이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "MS는 전통적인 면접 방법, 예컨대 '가족은 몇명이나 되나' '10년 후 당신의 모습은' '학교에서 방과 후 활동은 무엇을 했나' 등의 질문들을 버리고 '황당 면접'이라고도 불리는 '퍼즐 인터뷰' 방식을 수년째 사용하고 있다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이는 집에서 종이 그림 퍼즐 맞추기를 즐겨 하는 빌 게이츠 회장의 취미에서 비롯된 것일까?",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세계 초일류 기업이 그렇게 호락호락할 리 없다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "MS는 \\\"한 회사의 운명은 인재를 선발하는 일에 달려 있다\\\"고 말할 정도로 사람을 중시한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이들은 수많은 지원자 중 옥석을 가리기 위해 머리를 써야 하는 퍼즐, 난해한 수수께끼, 대답이 불가능한 문제들을 던진다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 통해 면접자의 일반적인 문제 해결 능력을 관찰한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "직무 능력이야 입사 후 트레이닝을 시키면 된다는 게 이들의 생각이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "최고 인재를 채용하기 위한 MS의 면접 방식은 현재 실리콘밸리.월스트리트 뿐 아니라 전세계 기업들의 인터뷰 관행을 바꿔놓고 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "최근엔 '백두산을 옮기는 데 시간과 비용은 얼마나 드는가'(SK그룹) '서울 시내 주유소는 몇개나 되는가'(동부제강) 등 국내 기업도 이 방식을 채택한 바 있다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "저자는 유행과도 같은 이런 변화에 대해 \\\"퍼즐을 푸는 추리력은 급변하는 시장에서 발생하는 실질적인 문제들을 해결하는 사고력과 관련이 있기 때문\\\"이라고 설명한다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "책 제목이기도 한 '후지산을 어떻게 옮길 수 있을까'의 답은 정말로 있는 걸까?",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "힌트는 후지산이 원추형이라는 데 있다.",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "후지산을 어떻게 옮길 수 있을까... 합격을 시키지 않기 위한 질문",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

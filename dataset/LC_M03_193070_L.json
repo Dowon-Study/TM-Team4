@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193070",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "탄산 즐겨먹는 청소년, 당 과잉섭취해 고혈압 위험 쑥",
+    "newsSubTitle": "청소년 가공식품 통한 당 섭취 57.5g WHO 섭취 기준(50g) 훌쩍 넘어 탄산음료 주4회 이상 마시면 대사증후군 위험 74% 증가 복지부, 여름 건강한 음료섭취 제안 커피·차에 시럽 넣지 말고 식품 영양표시 '당' 함량 확인하기",
+    "newsContent": "청소년이 콜라·이온음료 등 단맛 음료를 과하게 먹는 습관 때문에 당을 필요 이상으로 많이 섭취하고 있다.\n보건복지부와 한국건강증진개발원은 청소년 당 과잉 섭취가 비만과 만성질환의 원인이라며 여름철 건강한 음료 섭취 방법을 13일 제안했다.\n하루 8잔 이상의 물을 마시고 2잔 정도의 우유를 마시면 단맛 음료를 덜 마실 수 있다.\n커피·차 등 음료에 시럽·설탕을 넣지 않고, 가공식품의 영양표시에서 '당' 함량을 확인하는 것이 건강한 음료 섭취에 도움이 된다.\n식품의약품안전처에 따르면 우리나라 청소년(12~18세)의 하루 평균 당 섭취량(80g)은 다른 연령에 비해 높다.\n이중 가공식품을 통한 당 섭취량(57.5g)만으로도 세계 보건기구(WHO)의 당 섭취량 기준(약 50g)을 훌쩍 넘는다.\n특히 음료류를 통한 당 섭취가 가장 많다.\n청소년은 단맛 음료를 1주일에 평균 2.8회, 탄산음료는 2.1회 마시는 것으로 조사됐다.\n섭취량은 매년 증가하는 추세다.\n청소년 4명 중 1명은 주 3회 이상 탄산음료를 먹는다.\n당 과잉 섭취는 청소년에게서 비만과 만성질환 위험을 높인다.\n청소년 비만율은 2011년 12.2%에서 2016년 17.3%로 꾸준히 늘고 있다 연구에 따르면 가공식품을 통해 섭취한 당이 하루 권장 열량의 10%를 초과할 때 비만·당뇨병·고혈압이 발생할 위험이 각각 39%, 41%, 66% 높아진다.\n특히 탄산음료를 주 4회 이상 마시면 거의 섭취하지 않을 때보다 대사증후군의 위험도가 74% 높다.\n가당 음료를 많이 마시는 그룹에서는 제2형 당뇨병 발병 위험이 26% 증가한다.\n강재헌 서울백병원 가정의학과 교수는 \\\"음료를 통한 당 섭취가 많을수록 체중증가와 심혈관질환 등의 위험이 커진다\\\"며 \\\"청소년은 단맛 음료를 덜 먹으려고 노력해야 한다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "청소년이 콜라·이온음료 등 단맛 음료를 과하게 먹는 습관 때문에 당을 필요 이상으로 많이 섭취하고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보건복지부와 한국건강증진개발원은 청소년 당 과잉 섭취가 비만과 만성질환의 원인이라며 여름철 건강한 음료 섭취 방법을 13일 제안했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하루 8잔 이상의 물을 마시고 2잔 정도의 우유를 마시면 단맛 음료를 덜 마실 수 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "커피·차 등 음료에 시럽·설탕을 넣지 않고, 가공식품의 영양표시에서 '당' 함량을 확인하는 것이 건강한 음료 섭취에 도움이 된다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "식품의약품안전처에 따르면 우리나라 청소년(12~18세)의 하루 평균 당 섭취량(80g)은 다른 연령에 비해 높다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이중 가공식품을 통한 당 섭취량(57.5g)만으로도 세계 보건기구(WHO)의 당 섭취량 기준(약 50g)을 훌쩍 넘는다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 음료류를 통한 당 섭취가 가장 많다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "청소년은 단맛 음료를 1주일에 평균 2.8회, 탄산음료는 2.1회 마시는 것으로 조사됐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "섭취량은 매년 증가하는 추세다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "청소년 4명 중 1명은 주 3회 이상 탄산음료를 먹는다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "당 과잉 섭취는 청소년에게서 비만과 만성질환 위험을 높인다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "청소년 비만율은 2011년 12.2%에서 2016년 17.3%로 꾸준히 늘고 있다 연구에 따르면 가공식품을 통해 섭취한 당이 하루 권장 열량의 10%를 초과할 때 비만·당뇨병·고혈압이 발생할 위험이 각각 39%, 41%, 66% 높아진다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "특히 탄산음료를 주 4회 이상 마시면 거의 섭취하지 않을 때보다 대사증후군의 위험도가 74% 높다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "가당 음료를 많이 마시는 그룹에서는 제2형 당뇨병 발병 위험이 26% 증가한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "강재헌 서울백병원 가정의학과 교수는 \\\"음료를 통한 당 섭취가 많을수록 체중증가와 심혈관질환 등의 위험이 커진다\\\"며 \\\"청소년은 단맛 음료를 덜 먹으려고 노력해야 한다\\\"고 말했다.",
+        "sentenceSize": 102
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "당 과잉 섭취로 고혈압 위험 급증... 섭취량 매년 증가",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

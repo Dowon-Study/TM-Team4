@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197996",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[새로나온책] 열두 살 소령 外",
+    "newsSubTitle": "",
+    "newsContent": "◇열두 살 소령(아마두 쿠루마 지음, 유정애 옮김, 미래인, 296쪽, 9000원, 중학생 이상)=열두 살 소년이 소년병이 돼 겪은 일들을 풍자적으로 그린 소설. 총알받이가 돼 허무하게 죽어가는 수많은 소년병들과 아프리카 내전의 추악한 현실을 냉정하게 보여줬다.\n◇청사초롱이랑 꽃상여랑 관혼상제 이야기(햇살과나무꾼 글, 박지훈 그림, 해와나무, 76쪽, 1만3000원, 초등 3∼4학년)=‘옛 물건으로 만나는 우리 문화’시리즈 열번째 책이다.\n사주단자·나무기러기·무명 타래실·꽃상여·태 항아리 등 옛 물건을 보여주며 우리 전통 관혼상제의 관습과 정신을 소개했다.\n◇하지마 형제(이소민 글·그림, 문학동네, 40쪽, 9000원, 유아)=동생이 태어난 뒤 찬밥이 돼버린 형. “하지 마”란 잔소리만 듣는 신세다.\n그래서 부모 몰래 동생을 놀이동산에 데리고 가 돈과 맞바꿔버리는데. 끔찍한 꿈이었다.\n◇엄마 까투리(권정생 글, 김세현 그림, 낮은산, 44쪽, 1만원, 유아∼초등 저학년)=어머니의 사랑을 일깨우는 그림책. 산불이 나던 날, 엄마 까투리는 새끼 아홉 마리를 품에 안아 지켜내고 자신은 타 죽었다.\n살아남은 새끼들은 엄마 냄새가 감아 있는 그곳에 함께 모여 서로 모듬으며 자란다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◇열두 살 소령(아마두 쿠루마 지음, 유정애 옮김, 미래인, 296쪽, 9000원, 중학생 이상)=열두 살 소년이 소년병이 돼 겪은 일들을 풍자적으로 그린 소설. 총알받이가 돼 허무하게 죽어가는 수많은 소년병들과 아프리카 내전의 추악한 현실을 냉정하게 보여줬다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "◇청사초롱이랑 꽃상여랑 관혼상제 이야기(햇살과나무꾼 글, 박지훈 그림, 해와나무, 76쪽, 1만3000원, 초등 3∼4학년)=‘옛 물건으로 만나는 우리 문화’시리즈 열번째 책이다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사주단자·나무기러기·무명 타래실·꽃상여·태 항아리 등 옛 물건을 보여주며 우리 전통 관혼상제의 관습과 정신을 소개했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "◇하지마 형제(이소민 글·그림, 문학동네, 40쪽, 9000원, 유아)=동생이 태어난 뒤 찬밥이 돼버린 형. “하지 마”란 잔소리만 듣는 신세다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그래서 부모 몰래 동생을 놀이동산에 데리고 가 돈과 맞바꿔버리는데. 끔찍한 꿈이었다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "◇엄마 까투리(권정생 글, 김세현 그림, 낮은산, 44쪽, 1만원, 유아∼초등 저학년)=어머니의 사랑을 일깨우는 그림책. 산불이 나던 날, 엄마 까투리는 새끼 아홉 마리를 품에 안아 지켜내고 자신은 타 죽었다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "살아남은 새끼들은 엄마 냄새가 감아 있는 그곳에 함께 모여 서로 모듬으며 자란다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "누군가 아프리카 전쟁 한복판에 서 있다... 이 사람은 왜 총알받이가 되었나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

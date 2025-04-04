@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193052",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] “숙련된 의사 수술 능력 극대화하는 무기가 로봇”",
+    "newsSubTitle": "",
+    "newsContent": "인터뷰 산부인과 이선주·심승혁 교수 건국대병원 로봇수술센터 이선주·심승혁(산부인과) 교수는 골반·대동맥 부위 림프샘 절제술 등 난도 높은 수술도 절개창을 하나만 내는 싱글포트 로봇수술로 진행한다.\n복강경 수술에서 쌓은 수술 실력이 고난도 로봇수술을 가능케 한 원동력이다.\n이선주·심승혁 교수는 각각 산부인과 종양학 교과서와 산부인과 내시경학 교과서 집필에 참여했다.\n두 교수에게 산부인과 영역에서 로봇수술의 위치를 들었다.\nQ : 로봇이 복강경보다 치료 결과가 좋은가.\nA : 이선주 로봇은 복강경 수술로 어려웠던 부분을 보완해 준다.\n수술 결과는 서로 비슷하다.\n환자가 통증을 덜 느끼고 편하게 수술받을 수 있는 첨단 수술 방법이 선택지로 늘어났다는 점에서 의미가 있다.\n서울에서 부산으로 이동하는 수단이 과거에는 새마을호와 비행기만 있었는데 지금은 고속철도까지 탈 수 있는 것에 비유할 수 있다.\nQ : 모든 산부인과 암 수술에 로봇이 가능한가.\nA : 심승혁 암 환자의 치료 결과를 말하려면 생존율 지표가 나와야 하는데 개복·복강경·로봇 수술의 생존율을 비교하는 데이터가 충분히 축적되지 않은 암이 몇 가지 있다.\n자궁경부암과 난소암에 대해서는 세계적으로 협업해 데이터를 축적하는 중이다.\n기술적으로는 문제가 없지만 장기적인 종양 데이터는 아직 발표되지 않았다.\n환자 생존 데이터는 10년 이상 축적하는 기간이 필요하다.\nQ : 로봇수술 결과를 결정짓는 요소는. A : 이 개복·복강경 수술은 수술을 집도하는 의사와 보조하는 의사의 팀워크가 치료 결과에 영향을 미친다.\n하지만 로봇수술은 숙련된 의사 1명이 늘 일정한 수준을 유지하는 어시스턴트(로봇 기구)와 함께 수술을 하는 시스템이다.\n숙련된 의사 1명만으로도 최상의 치료 결과를 끌어낼 수 있다.\n로봇 기구는 의사가 치료 결과를 끌어올릴 수 있는 일종의 첨단 무기다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "인터뷰 산부인과 이선주·심승혁 교수 건국대병원 로봇수술센터 이선주·심승혁(산부인과) 교수는 골반·대동맥 부위 림프샘 절제술 등 난도 높은 수술도 절개창을 하나만 내는 싱글포트 로봇수술로 진행한다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "복강경 수술에서 쌓은 수술 실력이 고난도 로봇수술을 가능케 한 원동력이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이선주·심승혁 교수는 각각 산부인과 종양학 교과서와 산부인과 내시경학 교과서 집필에 참여했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "두 교수에게 산부인과 영역에서 로봇수술의 위치를 들었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "Q : 로봇이 복강경보다 치료 결과가 좋은가.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "A : 이선주 로봇은 복강경 수술로 어려웠던 부분을 보완해 준다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "수술 결과는 서로 비슷하다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "환자가 통증을 덜 느끼고 편하게 수술받을 수 있는 첨단 수술 방법이 선택지로 늘어났다는 점에서 의미가 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "서울에서 부산으로 이동하는 수단이 과거에는 새마을호와 비행기만 있었는데 지금은 고속철도까지 탈 수 있는 것에 비유할 수 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "Q : 모든 산부인과 암 수술에 로봇이 가능한가.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "A : 심승혁 암 환자의 치료 결과를 말하려면 생존율 지표가 나와야 하는데 개복·복강경·로봇 수술의 생존율을 비교하는 데이터가 충분히 축적되지 않은 암이 몇 가지 있다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "자궁경부암과 난소암에 대해서는 세계적으로 협업해 데이터를 축적하는 중이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "기술적으로는 문제가 없지만 장기적인 종양 데이터는 아직 발표되지 않았다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "환자 생존 데이터는 10년 이상 축적하는 기간이 필요하다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "Q : 로봇수술 결과를 결정짓는 요소는. A : 이 개복·복강경 수술은 수술을 집도하는 의사와 보조하는 의사의 팀워크가 치료 결과에 영향을 미친다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "하지만 로봇수술은 숙련된 의사 1명이 늘 일정한 수준을 유지하는 어시스턴트(로봇 기구)와 함께 수술을 하는 시스템이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "숙련된 의사 1명만으로도 최상의 치료 결과를 끌어낼 수 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "로봇 기구는 의사가 치료 결과를 끌어올릴 수 있는 일종의 첨단 무기다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "늘 일정한 수준을 유지한다면... 숙련된 의사 1명만으로도 충분",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

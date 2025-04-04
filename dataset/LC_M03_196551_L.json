@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196551",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "서양미술 기원에서 최신 흐름까지 조망",
+    "newsSubTitle": "〈클릭, 서양미술사〉",
+    "newsContent": "'동굴벽화에서 비디오아트까지' 라는 부제처럼 〈클릭, 서양미술사〉는 서양미술의 기원에서부터 가장 최신 흐름까지를 한데 모은 책이다.\n서양미술의 개괄을 살펴보고자 하는 사람은 지금까지 곰브리치의 〈서양미술사〉를 붙잡고 있기 마련이었다.\n이미 고전에 오른 책인만큼 가장 확실한 서양미술사 안내서임은 분명하지만 워낙 오래전에 쓰여진 책이라 당연히 최근 경향은 놓치고 있다.\n그런 점을 안타깝게 생각하는 독자에게 이 책은 특히 반가울 것이다.\n저자는 곰브리치만큼 유명한 미술사가는 아니지만 잡지 기고를 통해 대중을 위한 미술론을 추구해왔다.\n방대한 자료를 컬러도판들과 함께 체계적으로 잘 정리해 놓은 이 책도 저자의 그런 이력을 잘 보여준다.\n명쾌한 해설을 통해 독자들이 접근하기 쉬운 수준으로 썼으면서도 무게를 잃지 않고 있기 때문이다. (캐롤 스트릭랜드 지음.김호경 옮김.예경.2만3천원)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'동굴벽화에서 비디오아트까지' 라는 부제처럼 〈클릭, 서양미술사〉는 서양미술의 기원에서부터 가장 최신 흐름까지를 한데 모은 책이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서양미술의 개괄을 살펴보고자 하는 사람은 지금까지 곰브리치의 〈서양미술사〉를 붙잡고 있기 마련이었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이미 고전에 오른 책인만큼 가장 확실한 서양미술사 안내서임은 분명하지만 워낙 오래전에 쓰여진 책이라 당연히 최근 경향은 놓치고 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그런 점을 안타깝게 생각하는 독자에게 이 책은 특히 반가울 것이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "저자는 곰브리치만큼 유명한 미술사가는 아니지만 잡지 기고를 통해 대중을 위한 미술론을 추구해왔다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "방대한 자료를 컬러도판들과 함께 체계적으로 잘 정리해 놓은 이 책도 저자의 그런 이력을 잘 보여준다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "명쾌한 해설을 통해 독자들이 접근하기 쉬운 수준으로 썼으면서도 무게를 잃지 않고 있기 때문이다. (캐롤 스트릭랜드 지음.김호경 옮김.예경.2만3천원)",
+        "sentenceSize": 83
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "기원부터 가장 최신 흐름까지 완벽하게 모은 유일무이한 서양미술 역사서가 등장했다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

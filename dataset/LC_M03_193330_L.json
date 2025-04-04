@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193330",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[J-Style] 파리발 '마빡이 춤' 테크토닉",
+    "newsSubTitle": "‘춤 + 음악 + 패션’ 3각 쓰나미 신세대 문화 새 키워드 예고",
+    "newsContent": "‘텔미’ 노래와 패션, ‘마빡이’ 춤의 프랑스 파리 버전, 테크토닉(Tecktonik·이하 Tck)이 몰려온다.\nTck는 ‘테크노’와 ‘일렉트로닉’이 더해진 신조어다.\n7년 전 파리의 한 나이트 클럽에서 시작된 Tck는 유럽을 중심으로 서서히 기세를 확장하다 지난 연말 갑자기 확 번지며 전 세계 젊은이들을 휘감아 버렸다.\n닭 벼슬처럼 곧추세운 머리에 짙은 눈화장, 형광색 티셔츠와 꼭 맞는 청바지, 그리고 목 높은 운동화 차림은 언뜻 1980년대 복고 패션을 연상시킨다.\n여기저기 찔러대는 품세도 디스코를 추는 것과 비슷하다.\n다만 배경 음악은 빠르게 반복되는 강한 리듬의 테크노와 일렉트로닉이 섞여 있다.\n복고와 테크노의 절묘한 결합이랄까.\n에펠탑 아래서, 노트르담 성당 앞에서 Tck 솜씨를 뽐내는 젊은이들의 모습은 더 이상 낯선 풍경이 아니다.\n세계 최대의 동영상 사이트 유튜브에서 남성 댄서 ‘제이제이’의 Tck 동영상은 700만 번 이상 재생됐다.\n바야흐로 Tck가 음악 장르를 넘어 신세대 문화를 읽는 키워드가 될 태세다.\n유럽을 건너 북미와 남미까지 휩쓸고 있는 Tck 열풍. 내일 모레, 우리나라에서도 본격적인 Tck 파티가 열린다.\nTck 열기를 따라가 보자.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘텔미’ 노래와 패션, ‘마빡이’ 춤의 프랑스 파리 버전, 테크토닉(Tecktonik·이하 Tck)이 몰려온다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "Tck는 ‘테크노’와 ‘일렉트로닉’이 더해진 신조어다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "7년 전 파리의 한 나이트 클럽에서 시작된 Tck는 유럽을 중심으로 서서히 기세를 확장하다 지난 연말 갑자기 확 번지며 전 세계 젊은이들을 휘감아 버렸다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "닭 벼슬처럼 곧추세운 머리에 짙은 눈화장, 형광색 티셔츠와 꼭 맞는 청바지, 그리고 목 높은 운동화 차림은 언뜻 1980년대 복고 패션을 연상시킨다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여기저기 찔러대는 품세도 디스코를 추는 것과 비슷하다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다만 배경 음악은 빠르게 반복되는 강한 리듬의 테크노와 일렉트로닉이 섞여 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "복고와 테크노의 절묘한 결합이랄까.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "에펠탑 아래서, 노트르담 성당 앞에서 Tck 솜씨를 뽐내는 젊은이들의 모습은 더 이상 낯선 풍경이 아니다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "세계 최대의 동영상 사이트 유튜브에서 남성 댄서 ‘제이제이’의 Tck 동영상은 700만 번 이상 재생됐다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "바야흐로 Tck가 음악 장르를 넘어 신세대 문화를 읽는 키워드가 될 태세다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "유럽을 건너 북미와 남미까지 휩쓸고 있는 Tck 열풍. 내일 모레, 우리나라에서도 본격적인 Tck 파티가 열린다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "Tck 열기를 따라가 보자.",
+        "sentenceSize": 15
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘제이제이’ Tck 동영상 700만 번 이상 재생돼 '어마무시하다'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

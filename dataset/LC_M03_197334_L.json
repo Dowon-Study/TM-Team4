@@ -1,0 +1,438 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197334",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[더오래]코로나19 변종 생기면 백신이 무용지물 된다고?",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 이태호의 잘 먹고 잘살기(81) 최근 세계보건기구(WHO)가 “미국과 중남미에서 급격히 확산 중인 코로나바이러스는 중국 우한 바이러스의 변종이며 전염성이 최대 6배에 달한다”고 했다.\n요지는, 검사한 샘플의 약 30%가 바이러스의 표면에 있는 스파이크에 변이가 생겨 그렇다는 내용이다.\n꽤 유명한 국제학술지에 실린 거라 사실에 가깝다는 생각이다.\n혹여 이 변종이 국내에 유입될까 봐 걱정이다.\n아니 이미 유입됐다는 주장도 있다.\n그래도 치명률은 변하지 않는 것 같다니 다행이다.\n이에 덧붙여 문제시한 것은 “스파이크의 구조가 변화했으니 백신 개발에 영향을 줄 수 있다”고 우려한 대목이다.\n이를테면 신종이 창궐하면 지금 개발 중인 백신은 무용지물이 될 수 있다고 한 것. 그러나 이는 사실이 아닐 가능성이 높다고 본다.\n그 근거를 따져보자.\n백신은 코로나에 있는 단백질 등의 항원물질을 가지고 만든다.\n후보물질은 단백질, 인지질, 탄수화물, 핵산(DNA, RNA) 등이다.\n백신은 바이러스로부터 이들 물질만을 분리하여 만들 수도 있고, 바이러스를 약독화하거나 죽여 껍질만으로도 만들 수 있다.\n어느 게 좋은지는 동물실험과 임상연구를 거쳐 결정한다.\n가장 항체를 잘 만들어 주는 항원을 ‘항원성’이 강하다고 얘기한다.\n그럼 문제의 스파이크단백질을 들여다보자. (그림1)은 코로나의 스파이크가 숙주의 ACE2에 결합해 내부로 침입하는 모식도다.\nWHO의 주장은 이 스파이크에 변이가 생겨 ACE2에 결합력이 증가해 감염력이 높아졌다는 주장이었다.\n그럴 수는 있다.\n그러나 ‘기존 코로나로 만든 백신이 변종 바이러스에는 무용지물이 될 것이다’라는 주장하고는 얘기가 다르다.\n감염력의 증가는 보통 스파이크 속 수백개의 아미노산 중 극히 일부(1~2개)가 바뀌어 일어난다.\n그러나 이런 정도의 변이에 백신 개발을 우려한다는 것은 ‘너무 지나친 걱정이다’라는 것이 내 생각이다.\n그 이유를 설명하자.\n스파이크단백질 속에는 항체를 만들게 하는 부위가 여럿 있고, 이 각각에 대한 항체가 따로 생긴다는 사실이다(그림2). 이 항원 속 부위를 에피토프(epitop)라 하고 항원결정기(antigenic determinant)라고도 부른다.\n보통 십 수개의 아미노산이 에피토프가 된다.\n하나의 단백질에 항원결정기가 3개 있고 각각에 특이적인 항체도 3종류가 생겼다.\n모르긴 해도 스파이크에도 에피토프가 하나일 리는 없다고 짐작된다.\n에피토프마다 항체를 잘 만들고 못 만들고 하는 차이는 있다.\n이를 항원성의 ‘강약’으로 표현하며 이 중 가장 우수한 에피토프를 따로 떼어내어 백신을 만들기도 한다.\n가정 한번 해보자.\n만약 운 나쁘게 스파이크단백질에 오로지 하나의 에피토프만 있다고 치자.\n그것도 변이가 일어난 곳에. 그러면 기존 코로나의 스파이크로 만든 백신은 변종 바이러스에 무용지물이 될 수 있다.\n그러나 그럴 가능성은 작다.\n왜, 앞에 언급한 대로 스파이크에도 항원결정기가 여럿 있을 테니까. 더 중요한 것은 백신 개발을 스파이크만으로 하지 않는다는 점이다. (그림3)은 코로나의 전체 구조다.\n외부에는 스파이크단백질뿐만 아니라 여러 종류의 막단백질이 있다.\n즉 항원으로 될 수 있는 물질이 많이 노출돼 있다는 뜻이다.\n따라서 스파이크에 문제가 생기더라도 백신 개발에는 문제가 없다는 의미이기도 하다.\n한편은 새로 생긴 변종스파이크로 다시 백신 개발을 시도할 수도 있다.\n시간은 좀 더 늦어지겠지만. 실제 스파이크뿐만 아니라 다른 항원을 가지고 세계 각지에서 백신을 개발 중이다.\n걱정하지 말고 우리는 백신이 빨리 나오기만을 기다리면 된다.\n지금의 추세로 봐서는 백신이나 치료약이 나오기 전에는 쉽게 코로나가 근절될 것 같지가 않아 걱정이다.\n마지막으로 한 마디. 지금까지 의료와 건강 분야에서는 WHO가 가장 권위 있는 국제기구였다.\n그런데 이번 코로나 사태로 신뢰를 많이 잃었다.\n팬데믹 선언에 늑장을 부리고 어떤 결정을 내릴 때 정치적·외교적 이해관계가 고려된다는 오해까지 받아서다.\n갈팡질팡하는 모습도 보였다.\n코로나는 비말로만 전파된다 했다가 32개국 전문가 239명이 보낸 공개서한을 받아들여 “밀집한 실내 환경에서 공기 중 전파 가능성을 배제할 수 없다”고 입장을 바꿨다.\n또 “무증상 감염자가 다른 사람에게 코로나바이러스를 옮기는 경우는 거의 없다”고 했다가 비판이 일자 다음 날 이를 철회했다.\n변이 가능성에 부정적 관측을 하다가 또 말을 바꿨고, 더 나아가 위에 언급한 “스파이크 단백질 같은 치명적인 부분에 변이가 일어난다면 실제 백신 개발에 영향을 줄 수 있다”고 하는 등 실언이 너무 잦았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 46,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 이태호의 잘 먹고 잘살기(81) 최근 세계보건기구(WHO)가 “미국과 중남미에서 급격히 확산 중인 코로나바이러스는 중국 우한 바이러스의 변종이며 전염성이 최대 6배에 달한다”고 했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "요지는, 검사한 샘플의 약 30%가 바이러스의 표면에 있는 스파이크에 변이가 생겨 그렇다는 내용이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "꽤 유명한 국제학술지에 실린 거라 사실에 가깝다는 생각이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "혹여 이 변종이 국내에 유입될까 봐 걱정이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아니 이미 유입됐다는 주장도 있다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그래도 치명률은 변하지 않는 것 같다니 다행이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 덧붙여 문제시한 것은 “스파이크의 구조가 변화했으니 백신 개발에 영향을 줄 수 있다”고 우려한 대목이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를테면 신종이 창궐하면 지금 개발 중인 백신은 무용지물이 될 수 있다고 한 것. 그러나 이는 사실이 아닐 가능성이 높다고 본다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그 근거를 따져보자.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "백신은 코로나에 있는 단백질 등의 항원물질을 가지고 만든다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "후보물질은 단백질, 인지질, 탄수화물, 핵산(DNA, RNA) 등이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "백신은 바이러스로부터 이들 물질만을 분리하여 만들 수도 있고, 바이러스를 약독화하거나 죽여 껍질만으로도 만들 수 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "어느 게 좋은지는 동물실험과 임상연구를 거쳐 결정한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "가장 항체를 잘 만들어 주는 항원을 ‘항원성’이 강하다고 얘기한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "그럼 문제의 스파이크단백질을 들여다보자. (그림1)은 코로나의 스파이크가 숙주의 ACE2에 결합해 내부로 침입하는 모식도다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "WHO의 주장은 이 스파이크에 변이가 생겨 ACE2에 결합력이 증가해 감염력이 높아졌다는 주장이었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "그럴 수는 있다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "그러나 ‘기존 코로나로 만든 백신이 변종 바이러스에는 무용지물이 될 것이다’라는 주장하고는 얘기가 다르다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "감염력의 증가는 보통 스파이크 속 수백개의 아미노산 중 극히 일부(1~2개)가 바뀌어 일어난다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "그러나 이런 정도의 변이에 백신 개발을 우려한다는 것은 ‘너무 지나친 걱정이다’라는 것이 내 생각이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "그 이유를 설명하자.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "스파이크단백질 속에는 항체를 만들게 하는 부위가 여럿 있고, 이 각각에 대한 항체가 따로 생긴다는 사실이다(그림2). 이 항원 속 부위를 에피토프(epitop)라 하고 항원결정기(antigenic determinant)라고도 부른다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "보통 십 수개의 아미노산이 에피토프가 된다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "하나의 단백질에 항원결정기가 3개 있고 각각에 특이적인 항체도 3종류가 생겼다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "모르긴 해도 스파이크에도 에피토프가 하나일 리는 없다고 짐작된다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "에피토프마다 항체를 잘 만들고 못 만들고 하는 차이는 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "이를 항원성의 ‘강약’으로 표현하며 이 중 가장 우수한 에피토프를 따로 떼어내어 백신을 만들기도 한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "가정 한번 해보자.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 29,
+        "sentenceContent": "만약 운 나쁘게 스파이크단백질에 오로지 하나의 에피토프만 있다고 치자.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 30,
+        "sentenceContent": "그것도 변이가 일어난 곳에. 그러면 기존 코로나의 스파이크로 만든 백신은 변종 바이러스에 무용지물이 될 수 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 31,
+        "sentenceContent": "그러나 그럴 가능성은 작다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 32,
+        "sentenceContent": "왜, 앞에 언급한 대로 스파이크에도 항원결정기가 여럿 있을 테니까. 더 중요한 것은 백신 개발을 스파이크만으로 하지 않는다는 점이다. (그림3)은 코로나의 전체 구조다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 33,
+        "sentenceContent": "외부에는 스파이크단백질뿐만 아니라 여러 종류의 막단백질이 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 34,
+        "sentenceContent": "즉 항원으로 될 수 있는 물질이 많이 노출돼 있다는 뜻이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 35,
+        "sentenceContent": "따라서 스파이크에 문제가 생기더라도 백신 개발에는 문제가 없다는 의미이기도 하다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 36,
+        "sentenceContent": "한편은 새로 생긴 변종스파이크로 다시 백신 개발을 시도할 수도 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 37,
+        "sentenceContent": "시간은 좀 더 늦어지겠지만. 실제 스파이크뿐만 아니라 다른 항원을 가지고 세계 각지에서 백신을 개발 중이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 38,
+        "sentenceContent": "걱정하지 말고 우리는 백신이 빨리 나오기만을 기다리면 된다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 39,
+        "sentenceContent": "지금의 추세로 봐서는 백신이나 치료약이 나오기 전에는 쉽게 코로나가 근절될 것 같지가 않아 걱정이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 40,
+        "sentenceContent": "마지막으로 한 마디. 지금까지 의료와 건강 분야에서는 WHO가 가장 권위 있는 국제기구였다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 41,
+        "sentenceContent": "그런데 이번 코로나 사태로 신뢰를 많이 잃었다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 42,
+        "sentenceContent": "팬데믹 선언에 늑장을 부리고 어떤 결정을 내릴 때 정치적·외교적 이해관계가 고려된다는 오해까지 받아서다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 43,
+        "sentenceContent": "갈팡질팡하는 모습도 보였다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 44,
+        "sentenceContent": "코로나는 비말로만 전파된다 했다가 32개국 전문가 239명이 보낸 공개서한을 받아들여 “밀집한 실내 환경에서 공기 중 전파 가능성을 배제할 수 없다”고 입장을 바꿨다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 45,
+        "sentenceContent": "또 “무증상 감염자가 다른 사람에게 코로나바이러스를 옮기는 경우는 거의 없다”고 했다가 비판이 일자 다음 날 이를 철회했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 46,
+        "sentenceContent": "변이 가능성에 부정적 관측을 하다가 또 말을 바꿨고, 더 나아가 위에 언급한 “스파이크 단백질 같은 치명적인 부분에 변이가 일어난다면 실제 백신 개발에 영향을 줄 수 있다”고 하는 등 실언이 너무 잦았다.",
+        "sentenceSize": 114
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "3차에서 4차… n차 접종을 맞아도 끔찍한 코로나 굴레에서 벗어날 수 없는 걸까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 29,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 30,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 31,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 32,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 33,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 34,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 35,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 36,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 37,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 38,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 39,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 40,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 41,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 42,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 43,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 44,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 45,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 46,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

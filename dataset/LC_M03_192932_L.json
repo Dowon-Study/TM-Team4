@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192932",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[나도S라인!도전100일] 10kg 다이어트 … 88 사이즈 옷은 이제 가라",
+    "newsSubTitle": "",
+    "newsContent": "중앙일보와 대한비만체형학회가 공동으로 기획해 100일 동안 진행하는 ‘도전! S라인 프로젝트’가 막바지에 다다르고 있다.\n30~40대 주부 그린팀의 이송미(33세)씨는 현재 10㎏ 감량에 성공해 옷 사이즈가 88에서 66으로 두 단계나 줄었다.\n저녁 6시, 퇴근하고 집에 돌아온 이송미 씨는 주부로서 또 다른 일과가 시작된다.\n집 청소를 마치고 아이들과 저녁 식사를 한 뒤 운동을 하기 위해 매일 공원을 향한다.\n몸무게가 줄면서 기초대사량도 감소했기 때문에 그는 걸레질을 할 때도, 걷기 운동을 할 때도 이전보다 더 크게, 더 많이 움직이려고 노력한다.\n그는 “집안에 있을 때도 꼭 끼는 옷을 입어 몸을 긴장시키는 것이 다이어트에 많은 도움이 됐다”고 말했다.\n가장 힘든 것은 가족이 먹고 남은 음식 처리. 과거엔 음식이 아까워 먹어 치우는 식이었지만 이젠 처음부터 잔반을 남기지 않도록 노력하고, 설령 남더라도 과감하게 버린다.\n저녁 운동을 마치면 잠자리에 들기까지 음식의 유혹을 뿌리치기 힘들다.\n이땐 당근이나 토마토ㆍ오이처럼 칼로리는 낮으면서 씹는 즐거움을 주는 채소를 준비해 먹는다.\n이전에 하루 서너 잔씩 마시던 설탕ㆍ크림이 들어간 커피도 일절 끊고, 대신 물과 녹차를 많이 마신다.\n이씨는 그동안 식욕조절제 리덕틸을 1일 15㎎ 처방 받았으나 서서히 줄일 계획이다.\n생활습관이 잘 조절되고 있어 약 복용 없이도 요요현상에 대한 우려가 크지 않기 때문. 요즘엔 주위 사람들이 자신을 보며 감탄하는 모습에 자신감이 생겨 보험설계사로 고객을 만나는 것도 즐겁다.\n그린팀의 담당 의사인 드림클리닉 장두열 원장(36세) 역시 5㎏ 감량에 성공했다.\n장 원장은 매일 아침 30분 이상 유산소 운동을 하며 음식 섭취량을 대폭 줄였다.\n아침 식사로는 낫또를 즐겨 먹는다.\n콩은 단백질 함유량이 많아 칼로리는 낮은 대신 근육 감소를 막아 체중 조절에 필수 식품이다.\n장 원장은 이씨에게 “다이어트로는 지방세포 수가 주는 것이 아니기 때문에 방심하면 언제든지 살이 찔 수 있다”며 “적어도 뇌가 감소한 몸무게를 기억하는 ‘세트 포인트’를 1년간 유지해야 한다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중앙일보와 대한비만체형학회가 공동으로 기획해 100일 동안 진행하는 ‘도전! S라인 프로젝트’가 막바지에 다다르고 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "30~40대 주부 그린팀의 이송미(33세)씨는 현재 10㎏ 감량에 성공해 옷 사이즈가 88에서 66으로 두 단계나 줄었다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "저녁 6시, 퇴근하고 집에 돌아온 이송미 씨는 주부로서 또 다른 일과가 시작된다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "집 청소를 마치고 아이들과 저녁 식사를 한 뒤 운동을 하기 위해 매일 공원을 향한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "몸무게가 줄면서 기초대사량도 감소했기 때문에 그는 걸레질을 할 때도, 걷기 운동을 할 때도 이전보다 더 크게, 더 많이 움직이려고 노력한다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 “집안에 있을 때도 꼭 끼는 옷을 입어 몸을 긴장시키는 것이 다이어트에 많은 도움이 됐다”고 말했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "가장 힘든 것은 가족이 먹고 남은 음식 처리. 과거엔 음식이 아까워 먹어 치우는 식이었지만 이젠 처음부터 잔반을 남기지 않도록 노력하고, 설령 남더라도 과감하게 버린다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "저녁 운동을 마치면 잠자리에 들기까지 음식의 유혹을 뿌리치기 힘들다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이땐 당근이나 토마토ㆍ오이처럼 칼로리는 낮으면서 씹는 즐거움을 주는 채소를 준비해 먹는다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이전에 하루 서너 잔씩 마시던 설탕ㆍ크림이 들어간 커피도 일절 끊고, 대신 물과 녹차를 많이 마신다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이씨는 그동안 식욕조절제 리덕틸을 1일 15㎎ 처방 받았으나 서서히 줄일 계획이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "생활습관이 잘 조절되고 있어 약 복용 없이도 요요현상에 대한 우려가 크지 않기 때문. 요즘엔 주위 사람들이 자신을 보며 감탄하는 모습에 자신감이 생겨 보험설계사로 고객을 만나는 것도 즐겁다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그린팀의 담당 의사인 드림클리닉 장두열 원장(36세) 역시 5㎏ 감량에 성공했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "장 원장은 매일 아침 30분 이상 유산소 운동을 하며 음식 섭취량을 대폭 줄였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "아침 식사로는 낫또를 즐겨 먹는다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "콩은 단백질 함유량이 많아 칼로리는 낮은 대신 근육 감소를 막아 체중 조절에 필수 식품이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "장 원장은 이씨에게 “다이어트로는 지방세포 수가 주는 것이 아니기 때문에 방심하면 언제든지 살이 찔 수 있다”며 “적어도 뇌가 감소한 몸무게를 기억하는 ‘세트 포인트’를 1년간 유지해야 한다”고 말했다.",
+        "sentenceSize": 113
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "매일 밤마다 뿌리치기 힘든 유혹을 견뎌냈다... 어느덧 막바지",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

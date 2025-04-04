@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194372",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[Family건강] 침+탕약+레이저+ … 알레르기 비염 복합치료 ＂Good!”",
+    "newsSubTitle": "",
+    "newsContent": "한 가지 방법으로 고치기 힘든 알레르기 비염을 복합 치료하면 얼마나 효과를 볼까.\n영동한의원 김남선 원장은 1∼4일 국립대만대학병원 컨벤션센터에서 열린 국제동양의학 학술대회에서 “알레르기 비염 환자 2421명을 침·탕약·레이저·바이콤으로 복합 치료한 결과 코막힘과 콧물 증상이 크게 개선됐다”고 발표했다.\n김 원장은 환자군을 콧물을 주증상으로 하는 1812명과 코막힘이 심한 609명으로 분류해 치료했다.\n그 결과 콧물 그룹은 72%에서 매우 만족, 20.1%에서 조금 만족한 것으로 나타났다.\n또 코막힘 그룹은 매우 만족이 60.4%, 조금 만족이 25.3%였으며, 나머지는 효과가 미약했다.\n탕약은 소청룡탕(마황·백작약·오미자 등 8가지 한약재 사용)에 항염·소염 작용이 있는 소건중탕, 조혈기능과 면역력을 높이는 녹용을 합방했다.\n전자침은 코 주위의 영양혈 2곳과 인당혈 1곳, 손의 합곡혈 2곳을 약하게 자침했다.\n또 저출력 레이저로 코의 양쪽 점막을 각 5분씩 치료하고, 바이콤 치료를 했다.\n바이콤은 환자의 고유 파장을 건강한 파장으로 강화해 자생력을 활성화시킨다는 원리. 김 원장은 “성장기 어린이의 경우 코가 막혀 입으로 호흡하면 학습능력이 떨어지고, 성장 장애와 얼굴 부조화가 나타나므로 조기 치료를 해 줘야 한다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한 가지 방법으로 고치기 힘든 알레르기 비염을 복합 치료하면 얼마나 효과를 볼까.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영동한의원 김남선 원장은 1∼4일 국립대만대학병원 컨벤션센터에서 열린 국제동양의학 학술대회에서 “알레르기 비염 환자 2421명을 침·탕약·레이저·바이콤으로 복합 치료한 결과 코막힘과 콧물 증상이 크게 개선됐다”고 발표했다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김 원장은 환자군을 콧물을 주증상으로 하는 1812명과 코막힘이 심한 609명으로 분류해 치료했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 결과 콧물 그룹은 72%에서 매우 만족, 20.1%에서 조금 만족한 것으로 나타났다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 코막힘 그룹은 매우 만족이 60.4%, 조금 만족이 25.3%였으며, 나머지는 효과가 미약했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "탕약은 소청룡탕(마황·백작약·오미자 등 8가지 한약재 사용)에 항염·소염 작용이 있는 소건중탕, 조혈기능과 면역력을 높이는 녹용을 합방했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "전자침은 코 주위의 영양혈 2곳과 인당혈 1곳, 손의 합곡혈 2곳을 약하게 자침했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 저출력 레이저로 코의 양쪽 점막을 각 5분씩 치료하고, 바이콤 치료를 했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "바이콤은 환자의 고유 파장을 건강한 파장으로 강화해 자생력을 활성화시킨다는 원리. 김 원장은 “성장기 어린이의 경우 코가 막혀 입으로 호흡하면 학습능력이 떨어지고, 성장 장애와 얼굴 부조화가 나타나므로 조기 치료를 해 줘야 한다”고 말했다.",
+        "sentenceSize": 134
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "알레르기 비염에 효과적인 치료법 찾았다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

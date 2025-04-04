@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193480",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[스타가 반한 책] 손예진 영화배우",
+    "newsSubTitle": "타인 삶 표현하는 내겐 소설은 최고의 길잡이",
+    "newsContent": "‘내 머리 속의 지우개’를 찍으면서 일본 소설 두 권을 들었다.\n우연히도 사랑과 기억에 관한 얘기다.\n타인을 표현해야 하는 배우에게 소설은 사람을 이해하는 최고의 통로다.\n간접 경험이나마 책에 담긴 다양한 감정에 빠져보는 건 시나리오를 독해하는 것과 크게 다르지 않다. 『냉정과 열정 사이』로 유명한 에쿠니 가오리의 『울 준비는 되어 있다』(소담출판사)는 사랑이 지나간 자리에 남는 슬픔을 묘사한 단편 모음집이다.\n사랑은 별것이 아니라는 차가운 느낌을 주고, 그래서 삶에 희망을 주는 그런 소설은 아니지만 사랑을 지켜나간다는 게 얼마나 힘든 일인지를 보여준다.\n배우도 그렇다.\n매번 작품을 마칠 때마다 밀려드는 외로움과 쓸쓸함을 이겨내야 한다.\n변함없을 줄 알았던 사랑도 끝내 순간의 추억에 그치듯 배우는 내일의 사랑을 향해 어제의 인연에 ‘안녕’을 선언하는 사람일지 모른다.\n요시모토 바나나의 『암리타』(민음사)도 흥미로웠다.\n사고로 기억을 잃어버린 주인공이 ‘내 머리 속의 지우개’의 설정과 비슷했다.\n하지만 주인공은 영화와 다르게 여러 사람을 만나면서 옛일을 하나하나 떠올린다. “내게 이런 일도 있었던가”식의 물음을 통해 말로 표현하기 어려운 일상의 미묘한 감정을 신비롭게 표현했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘내 머리 속의 지우개’를 찍으면서 일본 소설 두 권을 들었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우연히도 사랑과 기억에 관한 얘기다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "타인을 표현해야 하는 배우에게 소설은 사람을 이해하는 최고의 통로다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "간접 경험이나마 책에 담긴 다양한 감정에 빠져보는 건 시나리오를 독해하는 것과 크게 다르지 않다. 『냉정과 열정 사이』로 유명한 에쿠니 가오리의 『울 준비는 되어 있다』(소담출판사)는 사랑이 지나간 자리에 남는 슬픔을 묘사한 단편 모음집이다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사랑은 별것이 아니라는 차가운 느낌을 주고, 그래서 삶에 희망을 주는 그런 소설은 아니지만 사랑을 지켜나간다는 게 얼마나 힘든 일인지를 보여준다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "배우도 그렇다.",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "매번 작품을 마칠 때마다 밀려드는 외로움과 쓸쓸함을 이겨내야 한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "변함없을 줄 알았던 사랑도 끝내 순간의 추억에 그치듯 배우는 내일의 사랑을 향해 어제의 인연에 ‘안녕’을 선언하는 사람일지 모른다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "요시모토 바나나의 『암리타』(민음사)도 흥미로웠다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "사고로 기억을 잃어버린 주인공이 ‘내 머리 속의 지우개’의 설정과 비슷했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하지만 주인공은 영화와 다르게 여러 사람을 만나면서 옛일을 하나하나 떠올린다. “내게 이런 일도 있었던가”식의 물음을 통해 말로 표현하기 어려운 일상의 미묘한 감정을 신비롭게 표현했다.",
+        "sentenceSize": 103
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "손예진의 '완소' 책 두 권, 책 속의 사랑과 기억에 관한 이야기는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193623",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[issue&] 비오틴과 비타민C가 만난 모발 영양제",
+    "newsSubTitle": "두일티앤디 '모타민'",
+    "newsContent": "중년여성의 모발이 가늘고 얇아지는 것은 탈모의 전조현상이다.\n모발건강에 도움을 주는 비오틴과 영국산 비타민C가 함께 들어있는 영양제가 출시됐다.\n건강식품 전문기업 두일티앤디가 공급하는 ‘모타민’(사진)은 가늘고 약한 머리카락을 굵고 강하게 만드는 데 도움을 줄 수 있는 제품이다.\n모타민에는 영국 DSM의 비타민C 500mg, 프랑스산 비오틴 5000ug, 유산균 5종이 들어있다.\n모발 영양제로 알려진 비오틴에 항산화 효과가 뛰어난 비타민C가 더해져 모발에 영양을 공급한다.\n모타민 주요 성분인 비오틴은 탈모 예방에 도움이 된다는 보고가 있다.\n몸속에 비오틴이 부족하면 탈모 가능성이 높다.\n투일티앤디 관계자는 “1993년 스위스 실험에 따르면 비오틴을 꾸준히 섭취한 그룹의 모발이 25% 이상 튼튼해졌으며, 손톱·발톱도 더 윤기 나게 만들었다”며 “한림대 등의 연구 결과에 따르면 비오틴이 지방 대사 촉진과 혈액 순환을 좋게 했다”고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중년여성의 모발이 가늘고 얇아지는 것은 탈모의 전조현상이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "모발건강에 도움을 주는 비오틴과 영국산 비타민C가 함께 들어있는 영양제가 출시됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "건강식품 전문기업 두일티앤디가 공급하는 ‘모타민’(사진)은 가늘고 약한 머리카락을 굵고 강하게 만드는 데 도움을 줄 수 있는 제품이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "모타민에는 영국 DSM의 비타민C 500mg, 프랑스산 비오틴 5000ug, 유산균 5종이 들어있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "모발 영양제로 알려진 비오틴에 항산화 효과가 뛰어난 비타민C가 더해져 모발에 영양을 공급한다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "모타민 주요 성분인 비오틴은 탈모 예방에 도움이 된다는 보고가 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "몸속에 비오틴이 부족하면 탈모 가능성이 높다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "투일티앤디 관계자는 “1993년 스위스 실험에 따르면 비오틴을 꾸준히 섭취한 그룹의 모발이 25% 이상 튼튼해졌으며, 손톱·발톱도 더 윤기 나게 만들었다”며 “한림대 등의 연구 결과에 따르면 비오틴이 지방 대사 촉진과 혈액 순환을 좋게 했다”고 설명했다.",
+        "sentenceSize": 142
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중년 여성에게 '마상' 입히는 탈모, '모타민'의 비오틴과 비타민c로 모발 영양 채워주자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

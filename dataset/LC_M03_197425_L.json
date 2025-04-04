@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197425",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "중국산 가짜 보톡스 유통 우려…식약처 주의 당부",
+    "newsSubTitle": "",
+    "newsContent": "식품의약품안전처는 중국에서 밀수입한 원부자재로 만든 가짜 '보툴리눔 주사제'(보톡스)의 국내유통 가능성이 확인됨에 따라 의료기관 등에서 진품 여부 등을 확인하고 사용해 줄 것을 4일 당부했다.\n위조 제품은 미간 주름 개선 등의 목적으로 사용되는 대웅제약의 보툴리눔 톡신 제제 '나보타주'를 모방해 만든 것이다.\n해당제품 명은 '대웅제약 나보타주'(성분명: 클로스트로디움 보툴리눔독소A형 100IU)이며 제조번호 및 유효기간은 ▲089139, 2019년 3월3일 ▲091743, 2019년 7월21일 ▲093103, 2019년 10월10일이다.\n위조 제품은 바닥이 오목하고 라벨 배경이 노란 미색인 것이 특징이다.\n정품은 바닥이 볼록하며 라벨의 배경색은 하얀색이다.\n제품명을 쓴 글씨도 위조 제품은 어두운 청색이지만, 진품은 밝은 청색이다.\n식약처 관계자는 \\\"해당 제조번호를 보유하고 있는 병·의원의 경우 제조사에 진·위품 여부를 확인한 후 사용하고, 반드시 정상적인 유통체계에 따라 제조·수입자 또는 의약품도매상 등을 통해 구입해달라\\\"고 당부했다.\n앞서 지난달 대구지방경찰청 국제범죄수사대는 중국에서 밀수입한 원료로 짝퉁 성형의약품을 제조·판매한 혐의(보건범죄특별조치법 등 위반)로 A(36)씨 등 5명을 구속하고, 같은 혐의로 B(41)씨 등 12명을 불구속 입건했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "식품의약품안전처는 중국에서 밀수입한 원부자재로 만든 가짜 '보툴리눔 주사제'(보톡스)의 국내유통 가능성이 확인됨에 따라 의료기관 등에서 진품 여부 등을 확인하고 사용해 줄 것을 4일 당부했다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "위조 제품은 미간 주름 개선 등의 목적으로 사용되는 대웅제약의 보툴리눔 톡신 제제 '나보타주'를 모방해 만든 것이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "해당제품 명은 '대웅제약 나보타주'(성분명: 클로스트로디움 보툴리눔독소A형 100IU)이며 제조번호 및 유효기간은 ▲089139, 2019년 3월3일 ▲091743, 2019년 7월21일 ▲093103, 2019년 10월10일이다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "위조 제품은 바닥이 오목하고 라벨 배경이 노란 미색인 것이 특징이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정품은 바닥이 볼록하며 라벨의 배경색은 하얀색이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "제품명을 쓴 글씨도 위조 제품은 어두운 청색이지만, 진품은 밝은 청색이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "식약처 관계자는 \\\"해당 제조번호를 보유하고 있는 병·의원의 경우 제조사에 진·위품 여부를 확인한 후 사용하고, 반드시 정상적인 유통체계에 따라 제조·수입자 또는 의약품도매상 등을 통해 구입해달라\\\"고 당부했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "앞서 지난달 대구지방경찰청 국제범죄수사대는 중국에서 밀수입한 원료로 짝퉁 성형의약품을 제조·판매한 혐의(보건범죄특별조치법 등 위반)로 A(36)씨 등 5명을 구속하고, 같은 혐의로 B(41)씨 등 12명을 불구속 입건했다.",
+        "sentenceSize": 124
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가짜 보톡스 주의··· 중국산 짝퉁 의약품 테러에 국내 의료계 '비상'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

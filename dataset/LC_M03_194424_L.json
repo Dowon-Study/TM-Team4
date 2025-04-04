@@ -1,0 +1,240 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194424",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[아하!통신세상] ⑩ 패키지 할인",
+    "newsSubTitle": "인터넷 + 전화 +α 결합 상품 혜택 커",
+    "newsContent": "회사원 신동석(29·서울 홍제동)씨는 최근 통신 요금을 한 달에 1만원 정도 절약하고 있다.\n초고속 인터넷, 전화, TV포털 요금을 묶어서 내는 하나로텔레콤의 결합상품에 가입했기 때문이다.\n신씨는 “몇 년 동안 같은 서비스를 이용해야 한다는 조건 때문에 망설였는데 막상 가입하니 돈을 절약할 수 있어 좋다”고 말했다.\n대형 할인마트에 가면 ‘2 for 1’ 제품이 있다.\n두 가지 상품을 묶어 기존 가격보다 싸게 판매하는 것이다.\n통신 상품에도 비슷한 서비스가 있다.\n두세 가지 서비스를 묶어서 한꺼번에 파는 결합상품이다.\n소비자가 한 회사의 무선인터넷과 TV서비스를 함께 이용할 경우 요금을 일정 금액 할인해 준다.\n업체에 따라 할인 비율은 다르다.\nKT와 SK텔레콤 등 선발업체들은 후발주자인 하나로텔레콤·LG데이콤 등에 비해 할인 폭이 작다.\n업체별 결합상품에 대해 알아봤다.\n1위 업체 “인터넷과 휴대전화 한번에”=KT와 KTF는 초고속 인터넷 서비스인 메가패스와 이동전화 서비스 ‘쇼(show)’를 묶은 상품을 지난달 선보였다. ‘메가패스+show’ 상품은 메가패스 이용료(3년 약정)와 쇼의 기본료를 10%씩 할인해 준다.\n인터넷 서비스의 약정 기간을 늘리면 할인폭도 더 커진다.\n또 이 회사의 ‘메가패스+와이브로’ 상품은 메가패스 10%, 무선인터넷 와이브로를 10∼20% 싸게 해주는 서비스다.\nSK텔레콤은 방송사업자들과 제휴해 휴대전화 요금과 초고속 인터넷 이용료를 할인해 주고 있다.\n이 회사의 ‘투게더팩’은 휴대전화 이용자가 티브로드·C&M·CJ케이블넷의 초고속 인터넷을 이용할 경우 휴대전화 기본요금 3000원을 깎아주고 인터넷 요금도 10%까지 할인해 준다.\n이 회사 김혜진 과장은 “결합 상품 가입자가 휴대전화를 많이 쓸 경우 추가 할인도 해준다”고 말했다.\n후발주자 “월 1만원까지 할인”=하나로텔레콤은 초고속 인터넷, 유선전화, 하나 TV 서비스를 묶은 ‘TPS(Triple Play service)’를 제공하고 있다.\n서비스 이용료는 한 달에 4만3000원. 단 3년 이상 하나로텔레콤의 서비스를 이용하겠다고 약정해야 가입할 수 있다.\n또 초고속 인터넷과 TV포털 서비스를 묶은 ‘DPS’ 상품도 있다.\n이용료는 한 달에 3만6000원이다.\nLG데이콤과 파워콤은 인터넷 전화와 초고속 인터넷 ‘엑스피드’를 묶은 상품을 선보였다.\n이 상품을 사용할 경우 인터넷 요금을 최대 10%까지 할인받을 수 있다.\n이 회사 관계자는 “인터넷 전화가 일반 전화에 비해 싸기 때문에 전체 요금을 한 달에 1만원 이상 절약할 수 있다”며 “LG텔레콤과 함께 휴대전화 요금을 묶은 상품도 내놓을 계획”이라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 24,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "회사원 신동석(29·서울 홍제동)씨는 최근 통신 요금을 한 달에 1만원 정도 절약하고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "초고속 인터넷, 전화, TV포털 요금을 묶어서 내는 하나로텔레콤의 결합상품에 가입했기 때문이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신씨는 “몇 년 동안 같은 서비스를 이용해야 한다는 조건 때문에 망설였는데 막상 가입하니 돈을 절약할 수 있어 좋다”고 말했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대형 할인마트에 가면 ‘2 for 1’ 제품이 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두 가지 상품을 묶어 기존 가격보다 싸게 판매하는 것이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "통신 상품에도 비슷한 서비스가 있다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두세 가지 서비스를 묶어서 한꺼번에 파는 결합상품이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "소비자가 한 회사의 무선인터넷과 TV서비스를 함께 이용할 경우 요금을 일정 금액 할인해 준다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "업체에 따라 할인 비율은 다르다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "KT와 SK텔레콤 등 선발업체들은 후발주자인 하나로텔레콤·LG데이콤 등에 비해 할인 폭이 작다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "업체별 결합상품에 대해 알아봤다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "1위 업체 “인터넷과 휴대전화 한번에”=KT와 KTF는 초고속 인터넷 서비스인 메가패스와 이동전화 서비스 ‘쇼(show)’를 묶은 상품을 지난달 선보였다. ‘메가패스+show’ 상품은 메가패스 이용료(3년 약정)와 쇼의 기본료를 10%씩 할인해 준다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "인터넷 서비스의 약정 기간을 늘리면 할인폭도 더 커진다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또 이 회사의 ‘메가패스+와이브로’ 상품은 메가패스 10%, 무선인터넷 와이브로를 10∼20% 싸게 해주는 서비스다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "SK텔레콤은 방송사업자들과 제휴해 휴대전화 요금과 초고속 인터넷 이용료를 할인해 주고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "이 회사의 ‘투게더팩’은 휴대전화 이용자가 티브로드·C&M·CJ케이블넷의 초고속 인터넷을 이용할 경우 휴대전화 기본요금 3000원을 깎아주고 인터넷 요금도 10%까지 할인해 준다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이 회사 김혜진 과장은 “결합 상품 가입자가 휴대전화를 많이 쓸 경우 추가 할인도 해준다”고 말했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "후발주자 “월 1만원까지 할인”=하나로텔레콤은 초고속 인터넷, 유선전화, 하나 TV 서비스를 묶은 ‘TPS(Triple Play service)’를 제공하고 있다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "서비스 이용료는 한 달에 4만3000원. 단 3년 이상 하나로텔레콤의 서비스를 이용하겠다고 약정해야 가입할 수 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "또 초고속 인터넷과 TV포털 서비스를 묶은 ‘DPS’ 상품도 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "이용료는 한 달에 3만6000원이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "LG데이콤과 파워콤은 인터넷 전화와 초고속 인터넷 ‘엑스피드’를 묶은 상품을 선보였다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "이 상품을 사용할 경우 인터넷 요금을 최대 10%까지 할인받을 수 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "이 회사 관계자는 “인터넷 전화가 일반 전화에 비해 싸기 때문에 전체 요금을 한 달에 1만원 이상 절약할 수 있다”며 “LG텔레콤과 함께 휴대전화 요금을 묶은 상품도 내놓을 계획”이라고 말했다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "회사원 신동석 씨, 통신 요금 한 달에 1만 원 절약... 어떻게 절약했을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

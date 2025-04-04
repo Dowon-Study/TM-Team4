@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196675",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[라이프 트렌드] 중년 이후 더 필요한 근육 기능 유지 도와",
+    "newsSubTitle": "종근당건강 '밸런스파워'",
+    "newsContent": "중년이 지나면 매년 근골격이 200~300g씩 줄어든다. 80대가 되면 30대 때 근육의 절반만 남는다.\n팔다리가 얇아지고 다리 힘이 약해져 쉽게 피로해진다.\n이럴 경우 낙상으로 인한 골절사고 위험이 높아진다.\n지난해 ‘국제비만저널’에 실린 연구에선 근육량이 줄면 신경조직 감소나 뇌 수축에 영향을 미쳐 치매 발병 위험을 높일 수 있다는 가능성이 제기됐다.\n2015년 영국 킹스칼리지런던 연구진은 국제학술지 ‘노인학’에서 “중년 이후 뇌 건강은 다리 근육에 달려 있다”고 밝혔다.\n종근당건강은 중·노년의 근육을 관리할 수 있는 건강기능식품 ‘밸런스파워’(사진)를 출시했다.\n이 제품엔 근육 기능 유지와 신경 전달에 필요한 칼슘이 들어 있다.\n칼슘은 근육을 형성하는 단백질인 액틴·미오신을 결합해 근육의 이완·수축 작용을 유지한다.\n또 칼슘·인의 흡수를 돕는 비타민D와 단백질·아미노산 대사에 필요한 비타민B6, 에너지 생성에 도움을 주는 니아신·판토텐산·아연이 주원료로 함유됐다.\n부원료로는 근육 생성에 필요한 필수아미노산인 L류신·L이소류신·L발린이 첨가됐다.\n이 제품은 파우치에 담긴 액상 형태로 휴대가 용이하고 간편하게 섭취할 수 있다.\n하루 한 번 1포 섭취로 근육 기능을 관리할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중년이 지나면 매년 근골격이 200~300g씩 줄어든다. 80대가 되면 30대 때 근육의 절반만 남는다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "팔다리가 얇아지고 다리 힘이 약해져 쉽게 피로해진다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이럴 경우 낙상으로 인한 골절사고 위험이 높아진다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난해 ‘국제비만저널’에 실린 연구에선 근육량이 줄면 신경조직 감소나 뇌 수축에 영향을 미쳐 치매 발병 위험을 높일 수 있다는 가능성이 제기됐다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2015년 영국 킹스칼리지런던 연구진은 국제학술지 ‘노인학’에서 “중년 이후 뇌 건강은 다리 근육에 달려 있다”고 밝혔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "종근당건강은 중·노년의 근육을 관리할 수 있는 건강기능식품 ‘밸런스파워’(사진)를 출시했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 제품엔 근육 기능 유지와 신경 전달에 필요한 칼슘이 들어 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "칼슘은 근육을 형성하는 단백질인 액틴·미오신을 결합해 근육의 이완·수축 작용을 유지한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 칼슘·인의 흡수를 돕는 비타민D와 단백질·아미노산 대사에 필요한 비타민B6, 에너지 생성에 도움을 주는 니아신·판토텐산·아연이 주원료로 함유됐다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "부원료로는 근육 생성에 필요한 필수아미노산인 L류신·L이소류신·L발린이 첨가됐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 제품은 파우치에 담긴 액상 형태로 휴대가 용이하고 간편하게 섭취할 수 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "하루 한 번 1포 섭취로 근육 기능을 관리할 수 있다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중년 이후 근골격량 대폭 줄어... 30대 근육의 절반도 안 남아 충격",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

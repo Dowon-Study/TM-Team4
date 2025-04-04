@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195798",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"메르스 예방효과 있어요\\\" 허위광고 무더기 철퇴",
+    "newsSubTitle": "식약처, 판매업체 32곳·블로그 105곳 고발조치",
+    "newsContent": "메르스 사태를 계기로 우후죽순 늘어난 자칭 ‘메르스 예방 기능식품’이 무더기 철퇴를 맞았다.\n식품의약품안전처는 10일 ‘메르스 예방’, ‘면역역 증진’ 등으로 허위·과대광고를 한 인터넷 판매업체 32곳을 적발해 지자체에 행정처분 또는 고발조치토록 요청했다.\n블로그 105곳도 레이더망에 걸렸다.\n식약처는 인터넷 포털사이트 운영자에게 해당 블로그의 차단을 요청했다.\nA업체는 비타민·무기질 건강기능식품을 ‘비타민C와 비타민D가 인체의 면역력을 키워줘서 메르스에도 안 걸리게 해준다’고 광고했다.\nB블로그는 수세미배즙을 ‘메르스 예방법’, ‘호흡기 면역력을 키우는 제품’이라고 광고했다.\nC블로그 역시 모링가환제품을 ‘메르스 예방법으로 면역력 강화가 가장 중요하다. 면역력 강화·개선 식품을 소개한다’고 광고했다.\n식약처는 “허위·과대광고로 인한 소비자 피해사례를 막기 위해 지속적인 단속을 실시할 예정”이라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "메르스 사태를 계기로 우후죽순 늘어난 자칭 ‘메르스 예방 기능식품’이 무더기 철퇴를 맞았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "식품의약품안전처는 10일 ‘메르스 예방’, ‘면역역 증진’ 등으로 허위·과대광고를 한 인터넷 판매업체 32곳을 적발해 지자체에 행정처분 또는 고발조치토록 요청했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "블로그 105곳도 레이더망에 걸렸다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "식약처는 인터넷 포털사이트 운영자에게 해당 블로그의 차단을 요청했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "A업체는 비타민·무기질 건강기능식품을 ‘비타민C와 비타민D가 인체의 면역력을 키워줘서 메르스에도 안 걸리게 해준다’고 광고했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "B블로그는 수세미배즙을 ‘메르스 예방법’, ‘호흡기 면역력을 키우는 제품’이라고 광고했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "C블로그 역시 모링가환제품을 ‘메르스 예방법으로 면역력 강화가 가장 중요하다. 면역력 강화·개선 식품을 소개한다’고 광고했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "식약처는 “허위·과대광고로 인한 소비자 피해사례를 막기 위해 지속적인 단속을 실시할 예정”이라고 밝혔다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "메르스 예방 식품, 판매업체 32곳 블로그 105곳 등 무더기 철퇴 맞은 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

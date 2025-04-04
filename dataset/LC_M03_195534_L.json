@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195534",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 당신] 알레르기 검사 어떻게 하나?",
+    "newsSubTitle": "식품 추출물로 피부 테스트 음식 직접 먹어 반응 보기도",
+    "newsContent": "식품 알레르기를 줄이려면 알레르기를 일으키는 원인 식품이 무엇인지 정확하게 파악하는 게 제일 중요하다.\n원인 식품을 확인하는 방법은 크게 피부 시험과 혈액 검사, 식품 경구 유발 시험 등 세 가지다.\n피부 시험은 식품 추출물과 식염수·히스타민을 팔이나 등에 묻힌 뒤 각 물질로 인한 피부 반응을 비교하는 방식이다.\n히스타민은 알레르기를 일으키는 물질로 피부를 붉게 변화시킨다.\n히스타민보다 반응 면적이 넓거나 지름이 3㎜ 이상일 때 해당 식품에 알레르기가 있는 것으로 판단한다.\n혈액 검사는 체내 특정 단백질(항체)을 확인하는 검사다.\n식품 알레르기 환자는 식품 종류에 따라 각각 다른 항체를 품고 있다.\n이를 검출해 역으로 원인 식품을 파악한다.\n피부질환이 있거나 항히스타민제를 먹는 환자, 여러 식품이 복합적으로 알레르기를 일으키는 환자는 추가 검사가 필요하다.\n이때는 의사 지시에 따라 음식을 직접 먹는 식품 경구 유발 시험을 한다.\n일반 식품을 그대로 쓰되 양을 늘려가는 ‘개방형 시험법’과 불투명한 캡슐에 싸서 맛과 형태를 없앤 ‘맹검형 시험법’이 있다.\n맹검형 시험법이 더 객관적이다.\n부작용이나 응급상황이 발생할 수 있으므로 알레르기 전문의가 시행한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "식품 알레르기를 줄이려면 알레르기를 일으키는 원인 식품이 무엇인지 정확하게 파악하는 게 제일 중요하다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "원인 식품을 확인하는 방법은 크게 피부 시험과 혈액 검사, 식품 경구 유발 시험 등 세 가지다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "피부 시험은 식품 추출물과 식염수·히스타민을 팔이나 등에 묻힌 뒤 각 물질로 인한 피부 반응을 비교하는 방식이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "히스타민은 알레르기를 일으키는 물질로 피부를 붉게 변화시킨다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "히스타민보다 반응 면적이 넓거나 지름이 3㎜ 이상일 때 해당 식품에 알레르기가 있는 것으로 판단한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "혈액 검사는 체내 특정 단백질(항체)을 확인하는 검사다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "식품 알레르기 환자는 식품 종류에 따라 각각 다른 항체를 품고 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 검출해 역으로 원인 식품을 파악한다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "피부질환이 있거나 항히스타민제를 먹는 환자, 여러 식품이 복합적으로 알레르기를 일으키는 환자는 추가 검사가 필요하다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이때는 의사 지시에 따라 음식을 직접 먹는 식품 경구 유발 시험을 한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "일반 식품을 그대로 쓰되 양을 늘려가는 ‘개방형 시험법’과 불투명한 캡슐에 싸서 맛과 형태를 없앤 ‘맹검형 시험법’이 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "맹검형 시험법이 더 객관적이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "부작용이나 응급상황이 발생할 수 있으므로 알레르기 전문의가 시행한다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "알레르기 일으키는 원인 식품, 어떻게 알 수 있나... 검사 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

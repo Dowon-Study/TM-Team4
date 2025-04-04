@@ -1,0 +1,240 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193095",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "노인 중심 1차 의료가 만성질환 관리 전략 1순위",
+    "newsSubTitle": "서울대 의대 가정의학교실 조비룡 교수",
+    "newsContent": "[중앙일보헬스미디어] 2011년 유엔총회의 어젠다는 ‘만성질환(비전염성질환)’이었다.\n유엔총회의 어젠다로 질병이 거론된 건 ‘에이즈’ 이후 두 번째였다.\n의료계 밖의 첫 반응은 질병 관련 어젠다 선정이 의아하다는 것이었다.\n하지만 선정 이유에 공감하기 시작했다.\n설명 자료에는 ‘전 세계적으로 대부분의 질환은 줄어들고 있지만 고혈압·당뇨병·심장병 등 만성질환은 지속적으로 증가하고 있다’는 지적이 있었다.\n또 사망자의 60% 이상이 만성질환으로 숨지고, 선진국에서도 만성질환은 줄지 않고 있다고 꼬집었다.\n특히 ‘현 의료체계로는 이런 추세가 지속될 것이라며, 전 세계가 만성질환으로 인해 큰 어려움을 겪을 수밖에 없을 것’이라고 우려했다.\n왜 선진국조차 만성질환을 조절하지 못하고 있는 것일까.\n가장 큰 이유는 만성질환 증가가 인구 고령화의 주요 산물이기 때문이다.\n사고나 감염병으로 일찍 사망하던 과거에는 만성질환이 문제되지 않았지만 건강관리를 잘해 오래 살게 되면 이 자체가 만성질환의 가장 큰 위험요인이 된다.\n고령화가 급격하게 진행되는 요즘 사회에서 만성질환의 증가는 피할 수 없는 결과다.\n최근 세계보건기구(WHO)나 여러 국가에서는 만성질환을 ▶조절 가능한 만성질환 ▶그렇지 못한 만성질환으로 나눠서 접근하기 시작했다.\n가령 70세 이전에 발생하는 만성질환이나 고혈압·당뇨를 잘 조절하지 못해 발생하는 응급실 방문·입원의 경우 전자로 분류하는 것이다.\n그 뒤 만성질환 조절을 정책적으로 강화한 선진국에선 발생이 줄어들기 시작했다.\n만성질환의 주요 위험요인인 좋지 못한 생활습관과 고혈압·당뇨·고지혈증·비만을 잘 조절하면 그 피해를 상당 부분 줄일 수 있다는 것이다.\n따라서 만성질환 관리의 첫 번째 전략은 건강 위험요인을 선제적으로 조절하는 것이다.\n각국 정부는 생활습관으로 인한 건강 위험요인 관리를 국가의 책임범위 안에 넣기 시작했다.\n예산을 투입하고 반(半)강제적으로 관리해 추후 비용이 더 많이 드는 질병 또는 합병증 발생을 줄이는 쪽으로 전략을 변경했다.\n중간 단계에 속하는 만성질환을 철저히 관리하는 것도 꼭 필요한 전략이다.\n중간 단계의 만성질환을 잘 조절함으로써 중풍·심근경색과 같은 더 큰 합병증을 막을 수 있기 때문이다.\n만성질환 관리를 위해서는 전 국민을 대상으로 정책이 펼쳐져야 한다.\n그리고 그 중심에는 ‘노인 의료’가 자리하고 있다.\n노인들은 오랫동안 지속돼 스스로 고치기 어려운 나쁜 생활습관과 고혈압·고지혈증·당뇨 같은 만성질환을 이미 갖고 있어 합병증으로 악화될 위험성이 높다.\n노인에 대한 건강관리를 위해 포괄적으로 접근하고, 주치의 같은 의사가 여러 부분의 건강관리를 조정해 주고, 일상생활에서의 불편에 대해 언제나 조언을 받을 수 있어야 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 24,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[중앙일보헬스미디어] 2011년 유엔총회의 어젠다는 ‘만성질환(비전염성질환)’이었다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유엔총회의 어젠다로 질병이 거론된 건 ‘에이즈’ 이후 두 번째였다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "의료계 밖의 첫 반응은 질병 관련 어젠다 선정이 의아하다는 것이었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 선정 이유에 공감하기 시작했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "설명 자료에는 ‘전 세계적으로 대부분의 질환은 줄어들고 있지만 고혈압·당뇨병·심장병 등 만성질환은 지속적으로 증가하고 있다’는 지적이 있었다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 사망자의 60% 이상이 만성질환으로 숨지고, 선진국에서도 만성질환은 줄지 않고 있다고 꼬집었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 ‘현 의료체계로는 이런 추세가 지속될 것이라며, 전 세계가 만성질환으로 인해 큰 어려움을 겪을 수밖에 없을 것’이라고 우려했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "왜 선진국조차 만성질환을 조절하지 못하고 있는 것일까.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "가장 큰 이유는 만성질환 증가가 인구 고령화의 주요 산물이기 때문이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "사고나 감염병으로 일찍 사망하던 과거에는 만성질환이 문제되지 않았지만 건강관리를 잘해 오래 살게 되면 이 자체가 만성질환의 가장 큰 위험요인이 된다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "고령화가 급격하게 진행되는 요즘 사회에서 만성질환의 증가는 피할 수 없는 결과다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "최근 세계보건기구(WHO)나 여러 국가에서는 만성질환을 ▶조절 가능한 만성질환 ▶그렇지 못한 만성질환으로 나눠서 접근하기 시작했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "가령 70세 이전에 발생하는 만성질환이나 고혈압·당뇨를 잘 조절하지 못해 발생하는 응급실 방문·입원의 경우 전자로 분류하는 것이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그 뒤 만성질환 조절을 정책적으로 강화한 선진국에선 발생이 줄어들기 시작했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "만성질환의 주요 위험요인인 좋지 못한 생활습관과 고혈압·당뇨·고지혈증·비만을 잘 조절하면 그 피해를 상당 부분 줄일 수 있다는 것이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "따라서 만성질환 관리의 첫 번째 전략은 건강 위험요인을 선제적으로 조절하는 것이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "각국 정부는 생활습관으로 인한 건강 위험요인 관리를 국가의 책임범위 안에 넣기 시작했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "예산을 투입하고 반(半)강제적으로 관리해 추후 비용이 더 많이 드는 질병 또는 합병증 발생을 줄이는 쪽으로 전략을 변경했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "중간 단계에 속하는 만성질환을 철저히 관리하는 것도 꼭 필요한 전략이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "중간 단계의 만성질환을 잘 조절함으로써 중풍·심근경색과 같은 더 큰 합병증을 막을 수 있기 때문이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "만성질환 관리를 위해서는 전 국민을 대상으로 정책이 펼쳐져야 한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "그리고 그 중심에는 ‘노인 의료’가 자리하고 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "노인들은 오랫동안 지속돼 스스로 고치기 어려운 나쁜 생활습관과 고혈압·고지혈증·당뇨 같은 만성질환을 이미 갖고 있어 합병증으로 악화될 위험성이 높다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "노인에 대한 건강관리를 위해 포괄적으로 접근하고, 주치의 같은 의사가 여러 부분의 건강관리를 조정해 주고, 일상생활에서의 불편에 대해 언제나 조언을 받을 수 있어야 한다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "2011년 유엔총회 어젠다, 선정에 의아한 반응이었으나... 나중엔 공감",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

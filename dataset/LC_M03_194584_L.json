@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194584",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[짤막소식] 방콕·앙코르와트·푸껫을 돌아보는 자유여행 상품 外",
+    "newsSubTitle": "",
+    "newsContent": "◆배낭여행 전문인 '하나로항공'(www.HanaroTravel.com)가 12일 일정으로 방콕.앙코르와트.푸껫을 돌아보는 자유여행 상품을 만들었다.\n참가비는 120만원 정도이며, 인천~방콕, 방콕~푸껫 항공편과 현지 숙박(방콕 3박+앙코르와트 4박+ 푸껫 3박)이 포함된다.\n숙박은 3성급 호텔에서 한다.\n내년 1, 2월 중 출발한다. 02-734-3100. ◆여행사닷컴(www.good.co.kr)이 스페인과 포르투갈, 모로코의 문화를 11일 동안 체험하는 패키지 상품을 내놓았다.\n루프트한자 독일 항공을 이용한다.\n내년 3월 말까지 매주 목요일 출발. 참가비는 165만원. 1600-6000. ◆넥스투어가 캐나다 여행 팁을 제공해 주는 고객을 선발해 150만원 상당의 캐나다 여행권을 준다.\n브리티시 컬럼비아주의 밴쿠버.휘슬러.빅토리아 등의 도시에서 즐길 만한 볼거리, 쇼핑 품목 등을 소개하면 된다.\n이벤트 기간은 내년 1월 19일까지다. 02-2222-7882. ◆서울 63빌딩이 내년 1월 1일 '새해 일출 체험전'을 개최한다.\n오전 6시30분에 전망대를 개방하며, 입장객에게 수족관.아이맥스영화관 50% 할인권을 준다.\n수족관 및 영화관을 평소보다 일찍 연다. 02-789-5663. ◆서울 코엑스아쿠아리움이 겨울방학 특별전시 행사를 내년 2월 말까지 한다. '내 어릴 적 키우던 금붕어'라는 주제로, 16종의 금붕어 500여 마리를 선보인다.\n아쿠아리움 입장객에게는 코엑스몰 아셈광장에 개장하는 스케이트 장비 임대료 할인권도 준다. 02-6002-6200.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆배낭여행 전문인 '하나로항공'(www.HanaroTravel.com)가 12일 일정으로 방콕.앙코르와트.푸껫을 돌아보는 자유여행 상품을 만들었다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "참가비는 120만원 정도이며, 인천~방콕, 방콕~푸껫 항공편과 현지 숙박(방콕 3박+앙코르와트 4박+ 푸껫 3박)이 포함된다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "숙박은 3성급 호텔에서 한다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "내년 1, 2월 중 출발한다. 02-734-3100. ◆여행사닷컴(www.good.co.kr)이 스페인과 포르투갈, 모로코의 문화를 11일 동안 체험하는 패키지 상품을 내놓았다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "루프트한자 독일 항공을 이용한다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "내년 3월 말까지 매주 목요일 출발. 참가비는 165만원. 1600-6000. ◆넥스투어가 캐나다 여행 팁을 제공해 주는 고객을 선발해 150만원 상당의 캐나다 여행권을 준다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "브리티시 컬럼비아주의 밴쿠버.휘슬러.빅토리아 등의 도시에서 즐길 만한 볼거리, 쇼핑 품목 등을 소개하면 된다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이벤트 기간은 내년 1월 19일까지다. 02-2222-7882. ◆서울 63빌딩이 내년 1월 1일 '새해 일출 체험전'을 개최한다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "오전 6시30분에 전망대를 개방하며, 입장객에게 수족관.아이맥스영화관 50% 할인권을 준다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "수족관 및 영화관을 평소보다 일찍 연다. 02-789-5663. ◆서울 코엑스아쿠아리움이 겨울방학 특별전시 행사를 내년 2월 말까지 한다. '내 어릴 적 키우던 금붕어'라는 주제로, 16종의 금붕어 500여 마리를 선보인다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "아쿠아리움 입장객에게는 코엑스몰 아셈광장에 개장하는 스케이트 장비 임대료 할인권도 준다. 02-6002-6200.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방콕·앙코르와트·푸껫 여행 비용 얼마나 될까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

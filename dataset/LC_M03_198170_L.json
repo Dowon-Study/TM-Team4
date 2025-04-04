@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198170",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Family건강] 만성 두통, 뚝!",
+    "newsSubTitle": "황금+홍화+산사+은행 순수 한약재 복용하니",
+    "newsContent": "만성 두통에 한방 치료 효과가 좋은 것으로 나타났다.\n풀과나무한의원(김제영 원장)과 우석대 한의대(육태한 교수) 연구팀은 \\\"만성 두통에 시달려온 환자 73명에게 황금.홍화를 주재료로 한약 치료를 한 결과, 통증 정도가 67.4%로 크게 줄어들었다\\\"고 대한한방신경정신과학회지 4월호에 발표했다.\n환자는 1~10년 두통을 앓아왔으며, 한 달에 15일 이상, 하루 4시간 이상 통증이 계속된 사람을 임상연구 대상으로 했다.\n이들이 약을 복용한 기간은 1~3개월(평균 1.8개월). 환자들 90%가 MRI(자기공명영상장치) 등 정밀 진단을 평균 2.4회 받았고, 습관적으로 진통제를 복용한 사람도 52.1%나 됐다.\n두통의 호전 정도는 통증지수를 이용해 검증했다.\n가장 심한 두통을 10점으로 했을 때 대상자들은 투약 전 8.99에서 치료후 2.93으로 통증이 크게 줄었다.\n뇌청혈해독탕으로 명명한 약재의 주재료는 황금.홍화.산사.은행 등 순수 한약재다.\n김 원장은 \\\"황금은 체내의 습을 말리고, 열을 내리는 효과가 탁월하며, 홍화는 혈액을 돌려 풀어주고, 어혈을 풀어내는 효과가 있다\\\"고 말했다.\n그는 또 \\\"산사는 소화기능을 돕고, 은행은 담음을 없애며, 폐.위의 탁한 기운을 맑게 한다\\\"고 덧붙였다.\n연구팀은 \\\"한방은 개인 증상.병력.발병기간.체질에 따라 약제의 종류.용량.침과 같은 병행요법을 개인별로 조절할 수 있는 장점이 있다\\\"고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "만성 두통에 한방 치료 효과가 좋은 것으로 나타났다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "풀과나무한의원(김제영 원장)과 우석대 한의대(육태한 교수) 연구팀은 \\\"만성 두통에 시달려온 환자 73명에게 황금.홍화를 주재료로 한약 치료를 한 결과, 통증 정도가 67.4%로 크게 줄어들었다\\\"고 대한한방신경정신과학회지 4월호에 발표했다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "환자는 1~10년 두통을 앓아왔으며, 한 달에 15일 이상, 하루 4시간 이상 통증이 계속된 사람을 임상연구 대상으로 했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들이 약을 복용한 기간은 1~3개월(평균 1.8개월). 환자들 90%가 MRI(자기공명영상장치) 등 정밀 진단을 평균 2.4회 받았고, 습관적으로 진통제를 복용한 사람도 52.1%나 됐다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두통의 호전 정도는 통증지수를 이용해 검증했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "가장 심한 두통을 10점으로 했을 때 대상자들은 투약 전 8.99에서 치료후 2.93으로 통증이 크게 줄었다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "뇌청혈해독탕으로 명명한 약재의 주재료는 황금.홍화.산사.은행 등 순수 한약재다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김 원장은 \\\"황금은 체내의 습을 말리고, 열을 내리는 효과가 탁월하며, 홍화는 혈액을 돌려 풀어주고, 어혈을 풀어내는 효과가 있다\\\"고 말했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그는 또 \\\"산사는 소화기능을 돕고, 은행은 담음을 없애며, 폐.위의 탁한 기운을 맑게 한다\\\"고 덧붙였다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "연구팀은 \\\"한방은 개인 증상.병력.발병기간.체질에 따라 약제의 종류.용량.침과 같은 병행요법을 개인별로 조절할 수 있는 장점이 있다\\\"고 밝혔다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이 질환'에 한방 치료 효과 만점... 통증 정도 67.4% 크게 감소",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

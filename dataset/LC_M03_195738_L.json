@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195738",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "비임균성 요도염이란, 소변을 볼 때마다 요도가 화끈거리며 통증 있다면?",
+    "newsSubTitle": "",
+    "newsContent": "비임균성 요도염이 온라인 포털사이트를 중심으로 화제가 되고 있다.\n소변 보기 시작할 때 요도 쪽이 아프다면 요도염일 가능성이 크다.\n소변을 볼 때마다 요도가 화끈거리며 통증이 있고 간지럽기도 하다.\n요도염으론 임균성 요도염과 비임균성 요도염이 있는데, 임균성 요도염은 성병 중 요도가 임균에 감염된 것이고, 비임균성 요도염은 임질균 이외의 병원균이 성교 또는 성행위로 감염된 것이다.\n비임균성 요도염을 일으키는 원인은 박테리아인 클라미디아(Chlamydia trachomatis)와 유레아플라스마(Ureaplasma urealyticum), 또는 바이러스인 헤르페스 바이러스, 아데노 바이러스, 그리고 기생충인 트리코모나스에 의한 감염이다.\n이 중 가장 흔히 비임균성 요도염을 일으키는 것은 클라미디아로 알려져 있다.\n주된 감염 경로는 요도 입구를 통한 상행성 감염이며, 자궁경부염 혹은 질염과 동반된 경우가 많다.\n비임균성 요도염은 1-2주 간의 항생제 사용으로 대부분 잘 치료된다.\n증상이 없는 사람도 치료를 하는 이유는, 그 자체의 불편감과 합병증을 방지하려 하기 때문이기도 하지만, 증상 없이 균을 가지고 있다가 다른 사람에게로 전파할 위험을 차단하기 위해서이기도 하다.\n성행위로 옮길 수 있어 대체로 성병의 범주에 넣지만, 성행위로만 전염이 된 것이 아닌 경우도 있으니 걸렸다고 해서 배우자의 부정 등 과한 상상은 하지 않아도 된다고 전문가들은 말한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "비임균성 요도염이 온라인 포털사이트를 중심으로 화제가 되고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소변 보기 시작할 때 요도 쪽이 아프다면 요도염일 가능성이 크다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소변을 볼 때마다 요도가 화끈거리며 통증이 있고 간지럽기도 하다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "요도염으론 임균성 요도염과 비임균성 요도염이 있는데, 임균성 요도염은 성병 중 요도가 임균에 감염된 것이고, 비임균성 요도염은 임질균 이외의 병원균이 성교 또는 성행위로 감염된 것이다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "비임균성 요도염을 일으키는 원인은 박테리아인 클라미디아(Chlamydia trachomatis)와 유레아플라스마(Ureaplasma urealyticum), 또는 바이러스인 헤르페스 바이러스, 아데노 바이러스, 그리고 기생충인 트리코모나스에 의한 감염이다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 중 가장 흔히 비임균성 요도염을 일으키는 것은 클라미디아로 알려져 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "주된 감염 경로는 요도 입구를 통한 상행성 감염이며, 자궁경부염 혹은 질염과 동반된 경우가 많다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "비임균성 요도염은 1-2주 간의 항생제 사용으로 대부분 잘 치료된다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "증상이 없는 사람도 치료를 하는 이유는, 그 자체의 불편감과 합병증을 방지하려 하기 때문이기도 하지만, 증상 없이 균을 가지고 있다가 다른 사람에게로 전파할 위험을 차단하기 위해서이기도 하다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "성행위로 옮길 수 있어 대체로 성병의 범주에 넣지만, 성행위로만 전염이 된 것이 아닌 경우도 있으니 걸렸다고 해서 배우자의 부정 등 과한 상상은 하지 않아도 된다고 전문가들은 말한다.",
+        "sentenceSize": 102
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소변볼 때 화끈거리며 통증 있고 간지럽기도 하다면 질병 감염 의심해봐야… 감염 경로는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

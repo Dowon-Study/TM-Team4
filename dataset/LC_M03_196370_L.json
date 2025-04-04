@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196370",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[J-Choice] MCM ‘팝 크로코’ 백",
+    "newsSubTitle": "",
+    "newsContent": "똑같은 백이라도 나라마다 선호하는 크기와 색상·무늬는 제각각이다.\n이런 차이는 전 세계에 판매되는 브랜드의 히트 상품을 통해 보면 분명히 드러난다.\n올 상반기 MCM이 내놓아 인기를 얻은 ‘팝 크로코’백을 보자. ‘팝 크로코’는 소가죽에 악어가죽 무늬를 새기고 여기에 광택을 더했다.\n조금 고리타분해 보일 수도 있는 악어가죽 무늬 가방이지만 젊은 감각을 더한 광택에다 신선한 색감으로 국내외 젊은 패션 리더들의 눈길을 끌었다.\n국내 소비자들은 붉은 벽돌빛이 감도는 오렌지색을 선호했다.\n하지만 유럽의 패션 리더들은 보랏빛에 더 주목했다.\nMCM 상품기획 담당 조보영 이사는 “유럽에선 짙은 색 의상이나 흰색 옷에 묘하게 어울리는 보랏빛 액세서리로 강렬한 대비효과를 주는 ‘고딕 럭셔리 룩’이 유행인 반면 국내에선 친환경 패션의 영향으로 자연의 토양 빛을 닮은 오렌지색 가방이 인기였다”고 소개했다.\n스타일을 마무리하는 데 가방이 큰 역할을 해내기 때문에 전체적인 의상의 분위기와 맞아떨어지는 백의 색깔이 지역마다 달랐다는 얘기다.\n두 가지 색상 외에 검정 백도 출시돼 있다.\n인기에 힘입어 10월에는 푸른색과 갈색 모델도 추가될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "똑같은 백이라도 나라마다 선호하는 크기와 색상·무늬는 제각각이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이런 차이는 전 세계에 판매되는 브랜드의 히트 상품을 통해 보면 분명히 드러난다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "올 상반기 MCM이 내놓아 인기를 얻은 ‘팝 크로코’백을 보자. ‘팝 크로코’는 소가죽에 악어가죽 무늬를 새기고 여기에 광택을 더했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "조금 고리타분해 보일 수도 있는 악어가죽 무늬 가방이지만 젊은 감각을 더한 광택에다 신선한 색감으로 국내외 젊은 패션 리더들의 눈길을 끌었다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "국내 소비자들은 붉은 벽돌빛이 감도는 오렌지색을 선호했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 유럽의 패션 리더들은 보랏빛에 더 주목했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "MCM 상품기획 담당 조보영 이사는 “유럽에선 짙은 색 의상이나 흰색 옷에 묘하게 어울리는 보랏빛 액세서리로 강렬한 대비효과를 주는 ‘고딕 럭셔리 룩’이 유행인 반면 국내에선 친환경 패션의 영향으로 자연의 토양 빛을 닮은 오렌지색 가방이 인기였다”고 소개했다.",
+        "sentenceSize": 145
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "스타일을 마무리하는 데 가방이 큰 역할을 해내기 때문에 전체적인 의상의 분위기와 맞아떨어지는 백의 색깔이 지역마다 달랐다는 얘기다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "두 가지 색상 외에 검정 백도 출시돼 있다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "인기에 힘입어 10월에는 푸른색과 갈색 모델도 추가될 예정이다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "올 상반기 길거리에 '팝 크로코' 백만 있었다, 인기 고공행진",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

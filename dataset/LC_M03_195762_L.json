@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195762",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "자장면 칼로리, 집밥 백선생 백종원의 자장면…'칼로리가 이 정도였다니'",
+    "newsSubTitle": "",
+    "newsContent": "자장면 칼로리, 집밥 백선생 백종원이 선보인 요리 '칼로리엄청나네' 집밥 백선생 백종원이 자장면 요리를 선보이며 자장면 칼로리가 네티즌 사이에서 화제다.\n집밥 백선생 백종원의 자장면 칼로리는 1인분 기준 864kcal로 면 요리 가운데 가장 높다.\n같은 면 종류인 냄비우동이 702kcal, 메밀국수가 456kcal, 비빔국수가 425kcal다.\n이날 집밥 백선생 백종원은 짬뽕 요리법도 공개했다.\n자장면 칼로리가 오히려 짬뽕보다도 높은 것으로도 나타났다.\n짬뽕의 칼로리는 788kcal 정도다.\n짬뽕 칼로리는 한 그릇에 788㎉나 되는 고칼로리 음식이다.\n짬뽕의 칼로리는 1인분 기준 788㎉로 햄버거 세트 칼로리인 763㎉와 맞먹는 수준이다.\n같은 면 요리 중 가장 높은 칼로리로 알려진 것은 예상밖에 864㎉인 자장면이였다.\n이밖에 냄비우동 702㎉, 잔치국수 420㎉로 짬뽕에 비해 낮은 칼로리다.\n외식 음식중 칼로리가 가장 높은 것은 돼지고기 수육(보쌈)으로 조사됐다.\n칼로리는 무려 1,206㎉이다.\n그 뒤로는 감자탕(960㎉), 돼지갈비구이(941㎉) 순으로 나타났다.\n이외에도 삼계탕, 해물크림소스 스파게티, 잡채밥, 잣죽, 크림소스 스파게티, 간짜장, 삼선짜장면 순으로 높은 칼로리를 보유하고 있다..\n한편 지난 3일 식품의약품안전처가 발표한 ‘외식 영양성분’ 자료집에 따르면 짬뽕(4천㎎)의 나트륨 함량이 가장 높았고 이어 중식 우동(3,396㎎), 간장게장(3,221㎎) 순이었다.\n이외에 열무냉면, 김치우동, 소고기 육개장, 짬뽕밥, 울면, 기스면, 삼선우동이 10위까지를 차지했다.\n식약처는 전반적으로 국물 음식의 나트륨 함량이 높게 나타났다며 되도록 국물 섭취를 줄이는 식습관을 가져야한다고 충고했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "자장면 칼로리, 집밥 백선생 백종원이 선보인 요리 '칼로리엄청나네' 집밥 백선생 백종원이 자장면 요리를 선보이며 자장면 칼로리가 네티즌 사이에서 화제다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "집밥 백선생 백종원의 자장면 칼로리는 1인분 기준 864kcal로 면 요리 가운데 가장 높다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "같은 면 종류인 냄비우동이 702kcal, 메밀국수가 456kcal, 비빔국수가 425kcal다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 집밥 백선생 백종원은 짬뽕 요리법도 공개했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "자장면 칼로리가 오히려 짬뽕보다도 높은 것으로도 나타났다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "짬뽕의 칼로리는 788kcal 정도다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "짬뽕 칼로리는 한 그릇에 788㎉나 되는 고칼로리 음식이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "짬뽕의 칼로리는 1인분 기준 788㎉로 햄버거 세트 칼로리인 763㎉와 맞먹는 수준이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "같은 면 요리 중 가장 높은 칼로리로 알려진 것은 예상밖에 864㎉인 자장면이였다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이밖에 냄비우동 702㎉, 잔치국수 420㎉로 짬뽕에 비해 낮은 칼로리다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "외식 음식중 칼로리가 가장 높은 것은 돼지고기 수육(보쌈)으로 조사됐다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "칼로리는 무려 1,206㎉이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그 뒤로는 감자탕(960㎉), 돼지갈비구이(941㎉) 순으로 나타났다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이외에도 삼계탕, 해물크림소스 스파게티, 잡채밥, 잣죽, 크림소스 스파게티, 간짜장, 삼선짜장면 순으로 높은 칼로리를 보유하고 있다..",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "한편 지난 3일 식품의약품안전처가 발표한 ‘외식 영양성분’ 자료집에 따르면 짬뽕(4천㎎)의 나트륨 함량이 가장 높았고 이어 중식 우동(3,396㎎), 간장게장(3,221㎎) 순이었다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "이외에 열무냉면, 김치우동, 소고기 육개장, 짬뽕밥, 울면, 기스면, 삼선우동이 10위까지를 차지했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "식약처는 전반적으로 국물 음식의 나트륨 함량이 높게 나타났다며 되도록 국물 섭취를 줄이는 식습관을 가져야한다고 충고했다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "집밥 백선생 백종원이 선보인 '칼로리 폭탄' 요리는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196411",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[꼭 알아야 할 가스 상식] 가스보일러도 가스중독 위험",
+    "newsSubTitle": "",
+    "newsContent": "2004년 4월 경기도 시흥시 매화동에서 한 집에 살던 일가족 세 명 중 두 명이 갑자기 죽었다.\n집에 불이 난 것도 아니고, 살인강도가 벌어진 것도 아니었다.\n범인은 가스였다.\n연탄난방이 가스보일러로 거의 바뀐 요즘도 가스중독 사고가 일어난다.\n가스보일러를 설치한 가정에서도 일산화탄소에 중독될 수 있기 때문이다.\n매화동 사건이 그런 경우다.\n가스보일러 배기구에 새가 둥지를 틀고 있던 게 원인이었다.\n배기구가 막히면서 역류한 배기가스(일산화탄소)가 집안으로 들어온 것이다.\n겨울철 가스사고 중 가장 위험한 것은 ‘연탄 시절’과 다름없이 가스보일러에서 나오는 일산화탄소다.\n사고가 일어나는 횟수도 제일 많고, 사망확률도 높다.\n사고 1건당 0.96명이 사망한다.\n일산화탄소에 중독되면 두통과 현기증이 일어나고 장시간 흡입할 경우 죽음에 이른다.\n가스보일러 사고는 보일러와 배기통 연결부위에서 새어나온 배기가스가 실내에 유입되어 일어나는 경우가 대부분이다.\n가스가 연소할 때 많은 양의 공기를 소비하기 때문에 보일러는 반드시 전용공간에 설치해야 한다.\n실내에 있으면 자칫 질식사고가 일어날 수 있다.\n전용보일러실이 있다 하더라도 일반 가정에서는 창고로 쓰는 경우가 많다.\n쌓아둔 물건은 공기의 흐름을 막아 불완전연소를 일으켜 보일러 수명을 단축시킨다.\n겨울철에 오랫동안 집을 비우더라도 전기 콘센트를 빼거나 중간 밸브를 잠그면 안 된다.\n보일러실에 설치된 동파 방지장치의 작동이 중단되어 얼어붙을 수 있기 때문이다.\n특별한 이유 없이 평소에 머리가 아프면 가스보일러실 문을 점검해 보자.\n간단한 수고가 가족의 안전을 지킨다.\n이장우 차장(한국가스안전공사 사고조사팀)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2004년 4월 경기도 시흥시 매화동에서 한 집에 살던 일가족 세 명 중 두 명이 갑자기 죽었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "집에 불이 난 것도 아니고, 살인강도가 벌어진 것도 아니었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "범인은 가스였다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연탄난방이 가스보일러로 거의 바뀐 요즘도 가스중독 사고가 일어난다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "가스보일러를 설치한 가정에서도 일산화탄소에 중독될 수 있기 때문이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "매화동 사건이 그런 경우다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "가스보일러 배기구에 새가 둥지를 틀고 있던 게 원인이었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "배기구가 막히면서 역류한 배기가스(일산화탄소)가 집안으로 들어온 것이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "겨울철 가스사고 중 가장 위험한 것은 ‘연탄 시절’과 다름없이 가스보일러에서 나오는 일산화탄소다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "사고가 일어나는 횟수도 제일 많고, 사망확률도 높다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "사고 1건당 0.96명이 사망한다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "일산화탄소에 중독되면 두통과 현기증이 일어나고 장시간 흡입할 경우 죽음에 이른다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "가스보일러 사고는 보일러와 배기통 연결부위에서 새어나온 배기가스가 실내에 유입되어 일어나는 경우가 대부분이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "가스가 연소할 때 많은 양의 공기를 소비하기 때문에 보일러는 반드시 전용공간에 설치해야 한다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "실내에 있으면 자칫 질식사고가 일어날 수 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "전용보일러실이 있다 하더라도 일반 가정에서는 창고로 쓰는 경우가 많다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "쌓아둔 물건은 공기의 흐름을 막아 불완전연소를 일으켜 보일러 수명을 단축시킨다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "겨울철에 오랫동안 집을 비우더라도 전기 콘센트를 빼거나 중간 밸브를 잠그면 안 된다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "보일러실에 설치된 동파 방지장치의 작동이 중단되어 얼어붙을 수 있기 때문이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "특별한 이유 없이 평소에 머리가 아프면 가스보일러실 문을 점검해 보자.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "간단한 수고가 가족의 안전을 지킨다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "이장우 차장(한국가스안전공사 사고조사팀)",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일가족 살해한 범인은 바로 가스보일러",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

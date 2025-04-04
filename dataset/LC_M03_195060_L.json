@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195060",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "박보검, 말년 병장됐다 ‘떨어지는 낙엽도 조심’…마지막 공식행사도",
+    "newsSubTitle": "",
+    "newsContent": "해군에서 복무 중인 배우 박보검(28)이 병장이 됐다.\n2일 군 관계자에 따르면 해군 군악·의장대대 소속 문화홍보병으로 복무 중인 박보검이 전날부로 병장 계급장을 달았다.\n박보검은 지난해 8월 31일부터 군 복무를 시작했다.\n그전부터 해군 군악·의장대대 문화홍보병 건반 파트에 지원해 실기 및 면접시험을 거쳐 합격했다.\n박보검의 전역 예정일은 내년 4월 30일이다.\n전역 전 휴가 등을 사용할 경우 이르면 3월 전후 군복을 벗을 수도 있다.\n박보검은 현재 복무 중 휴가가 한 달 이상 남은 것으로 알려졌다.\n현재 전군은 신종 코로나바이러스 감염증(코로나19) 재확산 방지를 위해 전역 전 개인 휴가 사용 시 부대 복귀 없이 전역하도록 하고 있다. ‘작대기 네 개’ 병장이 된 박보검은 오는 9일 오후 7시 30분 서울 올림픽공원 올림픽홀에서 열리는 해군 창설 76주년 기념 호국음악회에서 사회를 맡을 예정이다.\n군 관계자는 복무 중 사실상의 마지막 공식 행사라고 전했다.\n이후 남은 복무 기간에는 해군 내부적으로 열리는 부대별 사기 진작 차원의 ‘안보콘서트’ 등에 참여할 예정인 것으로 전해졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "해군에서 복무 중인 배우 박보검(28)이 병장이 됐다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2일 군 관계자에 따르면 해군 군악·의장대대 소속 문화홍보병으로 복무 중인 박보검이 전날부로 병장 계급장을 달았다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박보검은 지난해 8월 31일부터 군 복무를 시작했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그전부터 해군 군악·의장대대 문화홍보병 건반 파트에 지원해 실기 및 면접시험을 거쳐 합격했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박보검의 전역 예정일은 내년 4월 30일이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전역 전 휴가 등을 사용할 경우 이르면 3월 전후 군복을 벗을 수도 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "박보검은 현재 복무 중 휴가가 한 달 이상 남은 것으로 알려졌다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현재 전군은 신종 코로나바이러스 감염증(코로나19) 재확산 방지를 위해 전역 전 개인 휴가 사용 시 부대 복귀 없이 전역하도록 하고 있다. ‘작대기 네 개’ 병장이 된 박보검은 오는 9일 오후 7시 30분 서울 올림픽공원 올림픽홀에서 열리는 해군 창설 76주년 기념 호국음악회에서 사회를 맡을 예정이다.",
+        "sentenceSize": 169
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "군 관계자는 복무 중 사실상의 마지막 공식 행사라고 전했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이후 남은 복무 기간에는 해군 내부적으로 열리는 부대별 사기 진작 차원의 ‘안보콘서트’ 등에 참여할 예정인 것으로 전해졌다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "해군 복무 박보검, 병장 됐다... 전역 날짜는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

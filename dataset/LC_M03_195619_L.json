@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195619",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[속보] 식약처, 한미약품 ‘올리타정’ 허가 취소 않기로",
+    "newsSubTitle": "",
+    "newsContent": "사망에 이를수 있는 중증 부작용이 확인돼 논란을 빚은 한미약품 ‘올리타정(성분명 올무티닙)’의 판매가 계속 허용된다.\n식품의약품안전처는 4일 중앙약사심의위원회를 열고 논의한 결과, 한미약품의 내성 표적 폐암 신약에 대해 말기암 환자의 치료를 고려해 허가를 그대로 유지한다고 밝혔다.\n대신 부작용 발생 가능성에 대해 환자에게 자세히 알리고, 복용 동의를 받는 등 제한적으로 사용하도록 했다.\n이 약은 다른 치료제에 내성이 생긴 폐암 환자들을 위한 항암제로, 지난 7월 베링거잉겔하임에 총 7억3000만 달러(약 8037억원) 규모의 기술 수출 계약을 맺었다.\n그렇지만 영국 제약 업체 아스트라제네카가 개발한 폐암 치료 신약이 지난해 11월 미국을 시작으로 올해 유럽과 일본 등에서 잇따라 승인을 받으며 올리타정의 시장성은 위축됐다.\n더군다나 국내 임상시험 과정에서 피부 괴사 부작용으로 환자 2명이 사망하는 등 새로운 부작용이 발견되자 베링거잉겔하임은 신약에 대한 권한을 한미약품에 반환했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "사망에 이를수 있는 중증 부작용이 확인돼 논란을 빚은 한미약품 ‘올리타정(성분명 올무티닙)’의 판매가 계속 허용된다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "식품의약품안전처는 4일 중앙약사심의위원회를 열고 논의한 결과, 한미약품의 내성 표적 폐암 신약에 대해 말기암 환자의 치료를 고려해 허가를 그대로 유지한다고 밝혔다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대신 부작용 발생 가능성에 대해 환자에게 자세히 알리고, 복용 동의를 받는 등 제한적으로 사용하도록 했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 약은 다른 치료제에 내성이 생긴 폐암 환자들을 위한 항암제로, 지난 7월 베링거잉겔하임에 총 7억3000만 달러(약 8037억원) 규모의 기술 수출 계약을 맺었다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그렇지만 영국 제약 업체 아스트라제네카가 개발한 폐암 치료 신약이 지난해 11월 미국을 시작으로 올해 유럽과 일본 등에서 잇따라 승인을 받으며 올리타정의 시장성은 위축됐다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "더군다나 국내 임상시험 과정에서 피부 괴사 부작용으로 환자 2명이 사망하는 등 새로운 부작용이 발견되자 베링거잉겔하임은 신약에 대한 권한을 한미약품에 반환했다.",
+        "sentenceSize": 89
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한미약품 ‘올리타정' 논란... 어떤 문제 있길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

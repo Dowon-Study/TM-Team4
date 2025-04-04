@@ -1,0 +1,258 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195366",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "커피에 탄산수를 섞는다?…집에서 만드는 특별한 '아이스 커피' 3",
+    "newsSubTitle": "",
+    "newsContent": "찌는 듯한 더위에 무기력해지기 쉬운 여름. 이때 필요한 건 얼음이 가득 든 차가운 커피 한 잔이 아닐까.\n집을 카페처럼 꾸미는 홈 카페 족이 늘면서 커피 머신이나 핸드드립 같은 커피 용품과 원두를 찾는 사람도 늘고 있다.\n여기에 특별한 커피를 위한 레시피는 필수. 서울 웨스틴조선호텔의 왕은아 바리스타가 제안하는 홈 커피 레시피를 소개한다.\n━ 탄산을 넣어 청량한 ‘아이스 드립 에이드’ 얼음과 커피만으로는 부족하다고 느낄 때 마시면 좋은 게 바로 아이스 드립 에이드다.\n준비물은 드립용 원두 30g, 물 120g, 얼음, 탄산수다.\n만드는 방법은 드립 커피 추출과 비슷하다.\n드리퍼에 필터지를 끼우고 뜨거운 물로 린싱(필터를 적셔 헹구는 과정)한다.\n린싱에 사용한 물은 버린다.\n다음은 본격적으로 커피를 내릴 차례. 아래 서버에 얼음을 담는다.\n드리퍼에 곱게 간 원두 30g을 담고 커피가 적셔질 만큼 골고루 물을 부은 후, 30초 정도 뜸을 들인다.\n그 다음 원두 중심에서 바깥쪽으로 원을 그리며 물을 붓는다.\n컵에 갓 내린 아이스 드립 커피를 따르고 시원한 탄산수를 붓는다.\n탄산수의 양은 기호에 따라 조절하면 된다.\n커피의 시원함과 톡 쏘는 탄산이 만나 더위를 잊을 만큼 청량한 맛을 즐길 수 있다.\n━ 코코넛밀크를 넣은 이국적 느낌의 ‘샤케라또’ 커피의 나라 이탈리에서 여름마다 즐겨 먹는 커피가 있다.\n바로 샤케라또. 에스프레소와 얼음 조각을 넣고 흔들어서 만들기 때문에 부드러운 거품이 특징이다.\n준비물은 칵테일 쉐이킹 컵과 얼음, 에스프레소 투 샷, 코코넛 밀크 1작은술이다.\n만드는 방법은 간단하다.\n칵테일 쉐이킹 컵에 얼음과 에스프레소, 코코넛밀크를 넣고 힘껏 흔든 후 잔에 담으면 끝. 집에 칵테일 쉐이킹 컵이 없다면 미숫가루나 선식을 섞을 때 사용하는 쉐이커를 써도 된다.\n━ 아이스크림을 넣어 달콤한 ‘오지 아이스’ 최근 유행하는 호주식 카페에 가면 꼭 마셔봐야 할 커피가 오지 아이스다.\n호주에선 아이스 커피에 얼음 대신 아이스크림을 넣는다.\n지친 오후 달콤한 커피가 생각날 때 마시면 좋다.\n준비물은 더치원액 50mL, 우유 200mL, 바닐라 아이스크림 1스쿱, 파넬라(정제되지 않은 유기농 사탕수수)다.\n컵에 더치원액과 우유를 넣고 바닐라 아이스크림을 한 스쿱 올린 다음 파넬라를 솔솔 뿌려주면 완성된다.\n일반 라떼보다 달콤하면서 파네랄 특유의 쫀득한 식감과 진한 단맛, 커피와 아이스크림 특유의 부드러운 맛이 있어 누구나 좋아할 만한 맛이다.\n만약 집에 파넬라가 없다면 가루 설탕을 뿌려도 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 26,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "찌는 듯한 더위에 무기력해지기 쉬운 여름. 이때 필요한 건 얼음이 가득 든 차가운 커피 한 잔이 아닐까.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "집을 카페처럼 꾸미는 홈 카페 족이 늘면서 커피 머신이나 핸드드립 같은 커피 용품과 원두를 찾는 사람도 늘고 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "여기에 특별한 커피를 위한 레시피는 필수. 서울 웨스틴조선호텔의 왕은아 바리스타가 제안하는 홈 커피 레시피를 소개한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "━ 탄산을 넣어 청량한 ‘아이스 드립 에이드’ 얼음과 커피만으로는 부족하다고 느낄 때 마시면 좋은 게 바로 아이스 드립 에이드다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "준비물은 드립용 원두 30g, 물 120g, 얼음, 탄산수다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "만드는 방법은 드립 커피 추출과 비슷하다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "드리퍼에 필터지를 끼우고 뜨거운 물로 린싱(필터를 적셔 헹구는 과정)한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "린싱에 사용한 물은 버린다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다음은 본격적으로 커피를 내릴 차례. 아래 서버에 얼음을 담는다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "드리퍼에 곱게 간 원두 30g을 담고 커피가 적셔질 만큼 골고루 물을 부은 후, 30초 정도 뜸을 들인다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그 다음 원두 중심에서 바깥쪽으로 원을 그리며 물을 붓는다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "컵에 갓 내린 아이스 드립 커피를 따르고 시원한 탄산수를 붓는다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "탄산수의 양은 기호에 따라 조절하면 된다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "커피의 시원함과 톡 쏘는 탄산이 만나 더위를 잊을 만큼 청량한 맛을 즐길 수 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "━ 코코넛밀크를 넣은 이국적 느낌의 ‘샤케라또’ 커피의 나라 이탈리에서 여름마다 즐겨 먹는 커피가 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "바로 샤케라또. 에스프레소와 얼음 조각을 넣고 흔들어서 만들기 때문에 부드러운 거품이 특징이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "준비물은 칵테일 쉐이킹 컵과 얼음, 에스프레소 투 샷, 코코넛 밀크 1작은술이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "만드는 방법은 간단하다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "칵테일 쉐이킹 컵에 얼음과 에스프레소, 코코넛밀크를 넣고 힘껏 흔든 후 잔에 담으면 끝. 집에 칵테일 쉐이킹 컵이 없다면 미숫가루나 선식을 섞을 때 사용하는 쉐이커를 써도 된다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "━ 아이스크림을 넣어 달콤한 ‘오지 아이스’ 최근 유행하는 호주식 카페에 가면 꼭 마셔봐야 할 커피가 오지 아이스다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "호주에선 아이스 커피에 얼음 대신 아이스크림을 넣는다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "지친 오후 달콤한 커피가 생각날 때 마시면 좋다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "준비물은 더치원액 50mL, 우유 200mL, 바닐라 아이스크림 1스쿱, 파넬라(정제되지 않은 유기농 사탕수수)다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "컵에 더치원액과 우유를 넣고 바닐라 아이스크림을 한 스쿱 올린 다음 파넬라를 솔솔 뿌려주면 완성된다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "일반 라떼보다 달콤하면서 파네랄 특유의 쫀득한 식감과 진한 단맛, 커피와 아이스크림 특유의 부드러운 맛이 있어 누구나 좋아할 만한 맛이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "만약 집에 파넬라가 없다면 가루 설탕을 뿌려도 된다.",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무더위에 지친 여름에 필수인 아이스커피, 맛있게 마실 수 있는 비법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197157",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK책갈피] 동양화 속에서 만나는 철학과 시심",
+    "newsSubTitle": "",
+    "newsContent": "동양 명화 감상 이성희 지음, 니케, 232쪽, 1만3000원 동양화는 허(虛)와 실(實)의 경영을 중시하는 그림이다.\n구도를 장법(章法), 포국(布局) 또는 치진포세(置陳布勢)라 부르니 바둑에 비유하면 맞춤하다.\n살아있는 눈[活眼]이 많으면 바둑을 이기는데 이 살아있는 눈이 그림에서 허한 곳이다.\n살아있는 눈을 만들려면 놓는 돌[實子]을 잘 두어야 하니 곧 실이다.\n이처럼 허와 실이 서로 도와 서로를 이루는 것이 동양화라 할 수 있다.\n한국.중국.일본의 옛 그림을 찾아 떠난 지은이의 마음 또한 허와 실의 경계를 노닌다.\n장자(莊子) 철학 연구자로서 \\\"조물자와 벗이 되어 (…) 망연히 속세 밖을 방황하고 무위의 경계에서 소요\\\"한다.\n팔대산인(1626~1705)이 그린 '하압도'의 연꽃 봉오리를 보고 \\\"잎사귀 하나 없이 우주 가운데 솟아 있다\\\"고 썼다.\n심사정(1707~69)의 '선유도'에서 정지용(1902~50)의 시 \\\"바다는 뿔뿔이/달아나려고 했다/푸른 도마뱀 떼같이 재재발렀다\\\"를 떠올리는 것은 지은이가 시인인 까닭도 있겠지만 시(詩).서(書).화(畵)가 한 몸이었던 동양화의 뿌리 덕이다.\n어몽룡(1566~?)의 '월매(月梅)' 앞에서 김광섭(1906~77)의 \\\"정월달 한국의 창호지에는/매화가 핀다\\\"를 읊조린다.\n석도(1642~1718)의 산수화에서 \\\"비 그친 아침의 물비린내\\\"(함성호)를 맡는다.\n동양화는 성김과 빽빽함, 모임과 흩어짐, 가벼움과 무거움, 마름과 젖음, 강함과 부드러움, 큼과 작음이 두루 연을 맺는다.\n그 자연으로 돌아가자고, 천지에서 노닐자고 이끄는 지은이의 눈길이 부드럽다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "동양 명화 감상 이성희 지음, 니케, 232쪽, 1만3000원 동양화는 허(虛)와 실(實)의 경영을 중시하는 그림이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "구도를 장법(章法), 포국(布局) 또는 치진포세(置陳布勢)라 부르니 바둑에 비유하면 맞춤하다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "살아있는 눈[活眼]이 많으면 바둑을 이기는데 이 살아있는 눈이 그림에서 허한 곳이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "살아있는 눈을 만들려면 놓는 돌[實子]을 잘 두어야 하니 곧 실이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이처럼 허와 실이 서로 도와 서로를 이루는 것이 동양화라 할 수 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한국.중국.일본의 옛 그림을 찾아 떠난 지은이의 마음 또한 허와 실의 경계를 노닌다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "장자(莊子) 철학 연구자로서 \\\"조물자와 벗이 되어 (…) 망연히 속세 밖을 방황하고 무위의 경계에서 소요\\\"한다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "팔대산인(1626~1705)이 그린 '하압도'의 연꽃 봉오리를 보고 \\\"잎사귀 하나 없이 우주 가운데 솟아 있다\\\"고 썼다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "심사정(1707~69)의 '선유도'에서 정지용(1902~50)의 시 \\\"바다는 뿔뿔이/달아나려고 했다/푸른 도마뱀 떼같이 재재발렀다\\\"를 떠올리는 것은 지은이가 시인인 까닭도 있겠지만 시(詩).서(書).화(畵)가 한 몸이었던 동양화의 뿌리 덕이다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "어몽룡(1566~?)의 '월매(月梅)' 앞에서 김광섭(1906~77)의 \\\"정월달 한국의 창호지에는/매화가 핀다\\\"를 읊조린다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "석도(1642~1718)의 산수화에서 \\\"비 그친 아침의 물비린내\\\"(함성호)를 맡는다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "동양화는 성김과 빽빽함, 모임과 흩어짐, 가벼움과 무거움, 마름과 젖음, 강함과 부드러움, 큼과 작음이 두루 연을 맺는다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그 자연으로 돌아가자고, 천지에서 노닐자고 이끄는 지은이의 눈길이 부드럽다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "은밀하게 숨기고 채운다… 심장 터질듯한 감동 주는 동양화의 허와 실",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

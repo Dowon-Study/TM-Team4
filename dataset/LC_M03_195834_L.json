@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195834",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "중국 간 메르스 의심자, 감염 사실 확인",
+    "newsSubTitle": "",
+    "newsContent": "고열 등 중동호흡기증후군(MERS·메르스) 증세를 보이다 중국으로 출국한 회사원(44)이 중국 보건당국에 의해 메르스 감염자로 28일 잠정 확인됐다.\n지난 20일 국내에서 최초 환자가 발생한 이후 여덟 번째 메르스 감염 환자다.\n질병관리본부의 한 관계자는 메르스 감염과 관련해 “중국 광둥(廣東)성 당국이 이 환자를 병원에 격리해 유전자 검사를 실시한 결과 양성판정이 나와 중앙정부에서 다시 확인 작업을 하고 있다고 알려왔다”고 말했다.\n중국중앙방송(CC-TV)은 이에 앞서 “한국에서 온 메르스 의심환자가 홍콩을 경유해 광둥성 후이저우(惠州)시에 들어왔고, 현재 격리치료를 받고 있다”고 보도했다.\n이 환자는 최초 환자와 같은 병실(2인실)에 입원한 뒤 확진 판정을 받은 세 번째 환자(76)의 아들이다.\n지난 16일 아버지 병실에 왔다가 메르스에 감염된 것으로 추정된다.\n이 여덟 번째 메르스 감염 환자가 지난 26일 홍콩을 거쳐 중국으로 가기까지 국내에서 접촉한 사람은 회사 동료, 병원 의료진, 항공기 승무원 등 수백 명이다.\n질병관리본부가 파악한 격리 대상자만 100명이 넘을 것으로 예상된다.\n메르스 감염 환자인 그가 중국에 감으로써 메르스가 인접국으로도 번지는 게 아니냐는 우려도 나온다.\n여덟 번째 메르스 감염 환자는 질병관리본부의 최초 격리 대상자 리스트에 들어 있지 않았다.\n19일 열이 나기 시작해 보건소 직원, 대학병원 응급실 의료진에게 감염 의심 사실을 알렸으나 이들은 이를 관계 당국에 보고하지 않았다.\n그는 지난 26일 중국으로 출장을 떠났고, 그를 돌봤던 응급실 의사가 다음날 의심 환자 진료 사실을 신고했다.\n정부는 국제보건규약에 따라 중국 정부에 이 사실을 알렸으며, 중국 보건당국은 이 남성의 소재를 파악해 병원 1인실에 격리한 뒤 검사를 실시했다.\n질병관리본부는 이 환자가 접촉한 의료진 10명을 자가격리시켰다.\n직장 동료 180명 중 근접 접촉자를 파악 중이다.\n질병관리본부는 또 이 환자가 탄 항공기에 탑승했다 귀국한 승무원 3명에 대해서도 격리 조치를 취했으며, 홍콩행과 광둥성행 두 항공기 탑승객 중 환자가 앉은 좌석의 앞뒤, 좌우 승객 56명의 소재를 추적 중이다.\n중국으로 간 메르스 의심자 소식을 들은 네티즌들은 “중국 간 메르스 의심자, 대박 어떻게 되나” “중국 간 메르스 의심자, 무섭다 조심해야되는데” “중국 간 메르스 의심자, 중국이 위험하다” “중국 간 메르스 의심자, 큰일이네” 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "고열 등 중동호흡기증후군(MERS·메르스) 증세를 보이다 중국으로 출국한 회사원(44)이 중국 보건당국에 의해 메르스 감염자로 28일 잠정 확인됐다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 20일 국내에서 최초 환자가 발생한 이후 여덟 번째 메르스 감염 환자다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "질병관리본부의 한 관계자는 메르스 감염과 관련해 “중국 광둥(廣東)성 당국이 이 환자를 병원에 격리해 유전자 검사를 실시한 결과 양성판정이 나와 중앙정부에서 다시 확인 작업을 하고 있다고 알려왔다”고 말했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "중국중앙방송(CC-TV)은 이에 앞서 “한국에서 온 메르스 의심환자가 홍콩을 경유해 광둥성 후이저우(惠州)시에 들어왔고, 현재 격리치료를 받고 있다”고 보도했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 환자는 최초 환자와 같은 병실(2인실)에 입원한 뒤 확진 판정을 받은 세 번째 환자(76)의 아들이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 16일 아버지 병실에 왔다가 메르스에 감염된 것으로 추정된다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 여덟 번째 메르스 감염 환자가 지난 26일 홍콩을 거쳐 중국으로 가기까지 국내에서 접촉한 사람은 회사 동료, 병원 의료진, 항공기 승무원 등 수백 명이다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "질병관리본부가 파악한 격리 대상자만 100명이 넘을 것으로 예상된다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "메르스 감염 환자인 그가 중국에 감으로써 메르스가 인접국으로도 번지는 게 아니냐는 우려도 나온다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "여덟 번째 메르스 감염 환자는 질병관리본부의 최초 격리 대상자 리스트에 들어 있지 않았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "19일 열이 나기 시작해 보건소 직원, 대학병원 응급실 의료진에게 감염 의심 사실을 알렸으나 이들은 이를 관계 당국에 보고하지 않았다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그는 지난 26일 중국으로 출장을 떠났고, 그를 돌봤던 응급실 의사가 다음날 의심 환자 진료 사실을 신고했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "정부는 국제보건규약에 따라 중국 정부에 이 사실을 알렸으며, 중국 보건당국은 이 남성의 소재를 파악해 병원 1인실에 격리한 뒤 검사를 실시했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "질병관리본부는 이 환자가 접촉한 의료진 10명을 자가격리시켰다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "직장 동료 180명 중 근접 접촉자를 파악 중이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "질병관리본부는 또 이 환자가 탄 항공기에 탑승했다 귀국한 승무원 3명에 대해서도 격리 조치를 취했으며, 홍콩행과 광둥성행 두 항공기 탑승객 중 환자가 앉은 좌석의 앞뒤, 좌우 승객 56명의 소재를 추적 중이다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "중국으로 간 메르스 의심자 소식을 들은 네티즌들은 “중국 간 메르스 의심자, 대박 어떻게 되나” “중국 간 메르스 의심자, 무섭다 조심해야되는데” “중국 간 메르스 의심자, 중국이 위험하다” “중국 간 메르스 의심자, 큰일이네” 등의 반응을 보였다.",
+        "sentenceSize": 139
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여덟 번째 메르스 감염 환자, 중국에서 양성 판정… 접촉자만 수백 명?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195540",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "철인경기 완주한 86세 수녀님이 젊은이들에게 전하는 말",
+    "newsSubTitle": "",
+    "newsContent": "미국 워싱턴주 스포캔에 있는 성당엔 마돈나 버너라는 86세의 수녀가 있다.\n그녀의 취미는 철인3종경기다.\n철인경기는 수영(3.9㎞)ㆍ자전거(180㎞)ㆍ마라톤(42.195㎞)을 모두 완주하는 스포츠다.\n20대도 하기 힘든 스포츠지만 버너 수녀는 40년 전 한 신부의 권유로 이 종목에 도전했다.\n그 신부는 “마음과 몸과 영혼의 조화를 이루는 방법으로 달리기가 좋다”고 권했다고 한다.\n이후 버너 수녀는 달리기로 성당에 출퇴근하며 훈련을 시작했다.\n일이 끝나면 집에서 약 60㎞ 거리에 있는 호수로 자전거를 타고 가서 수영 연습도 했다.\n그렇게 훈련한 결과 52세였던 1982년 철인경기를 완주했다.\n이후 계속된 도전으로 2005년엔 하와이에서 열린 철인대회를 완주했다.\n그 이후로 그녀는 ‘강철 수녀’(Iron Nun)라는 별명을 얻었다.\n버너 수녀를 최근 소개한 미국 건강 뉴스 전문 매체 팝슈가(Popsugar)는 “지금까지도 그녀는 계속 강해지고 있다”고 소개했다.\n팝슈가에 따르면 그녀는 \\\"고연령대 참가자를 위한 대회를 더 많이 열어달라\\\"는 활동도 하고 있다.\n현재 버너 수녀는 철인경기 80~84세 대회 최단시간 완주기록 보유자다.\n실력을 인정받은 그녀는 한때 나이키 광고에도 출연했다.\n나이키는 “나이에 대한 선입견을 깬 사람”이라고 그녀를 평가했다.\n하지만 그녀는 훈련 중에 골반 골절 부상을 당해 2014년 하와이 철인경기엔 참가하지 못했다.\n그렇지만 그녀는 포기하지 않고 있다고 한다.\n버너 수녀는 이 매체를 통해 “유일한 실패가 있다면 그것은 도전하지 않는 것(The only failure is not to try)”이라며 “당신이 노력한다면 그 자체가 성공(Your effort in itself is a success)”이라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미국 워싱턴주 스포캔에 있는 성당엔 마돈나 버너라는 86세의 수녀가 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그녀의 취미는 철인3종경기다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "철인경기는 수영(3.9㎞)ㆍ자전거(180㎞)ㆍ마라톤(42.195㎞)을 모두 완주하는 스포츠다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "20대도 하기 힘든 스포츠지만 버너 수녀는 40년 전 한 신부의 권유로 이 종목에 도전했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 신부는 “마음과 몸과 영혼의 조화를 이루는 방법으로 달리기가 좋다”고 권했다고 한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 버너 수녀는 달리기로 성당에 출퇴근하며 훈련을 시작했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "일이 끝나면 집에서 약 60㎞ 거리에 있는 호수로 자전거를 타고 가서 수영 연습도 했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그렇게 훈련한 결과 52세였던 1982년 철인경기를 완주했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이후 계속된 도전으로 2005년엔 하와이에서 열린 철인대회를 완주했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그 이후로 그녀는 ‘강철 수녀’(Iron Nun)라는 별명을 얻었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "버너 수녀를 최근 소개한 미국 건강 뉴스 전문 매체 팝슈가(Popsugar)는 “지금까지도 그녀는 계속 강해지고 있다”고 소개했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "팝슈가에 따르면 그녀는 \\\"고연령대 참가자를 위한 대회를 더 많이 열어달라\\\"는 활동도 하고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "현재 버너 수녀는 철인경기 80~84세 대회 최단시간 완주기록 보유자다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "실력을 인정받은 그녀는 한때 나이키 광고에도 출연했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "나이키는 “나이에 대한 선입견을 깬 사람”이라고 그녀를 평가했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "하지만 그녀는 훈련 중에 골반 골절 부상을 당해 2014년 하와이 철인경기엔 참가하지 못했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "그렇지만 그녀는 포기하지 않고 있다고 한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "버너 수녀는 이 매체를 통해 “유일한 실패가 있다면 그것은 도전하지 않는 것(The only failure is not to try)”이라며 “당신이 노력한다면 그 자체가 성공(Your effort in itself is a success)”이라고 말했다.",
+        "sentenceSize": 143
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "86세 수녀님이 철인경기 완주한 비결은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

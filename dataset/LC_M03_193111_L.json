@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193111",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "올림픽 앞둔 브라질, 독감 사망자 급증",
+    "newsSubTitle": "질병관리본부, 출국 한 달 전 인플루엔자 백신 접종 권고",
+    "newsContent": "오는 8월 리우데자네이루 올림픽을 앞둔 브라질에 20여년 만에 지난 2009년 당시 대유행했던 H1N1형 독감 바이러스가 퍼지면서 사망자가 급증하고 있다.\n우리와 계절이 반대인 브라질은 현재 20여년 만에 가장 추운 날씨가 이어지고 있다.\n브라질 보건당국에 따르면 17일 기준 올해 1월부터 독감 바이러스에 감염된 환자는 5214명으로 이 가운데 1003명이 사망했다.\n전년과 비교했을 때 사망자가 28배나 많은 수준이다.\n이에 브라질 보건부는 노약자를 중심으로 인플루엔자 백신 접종을 서두르고 있다.\n현재까지 2760만명에게 백신을 접종해 약 95% 이상 접종률을 기록했다.\n국내 보건당국 또한 리우 올림픽을 한달 여 앞두고 ‘리우올림픽 감염병 예방수칙’을 발표하며 주의를 요구했다.\n올림픽 참관 혹은 여름휴가를 맞아 브라질을 비롯한 해외여행을 앞두고 있다면 인플루엔자와 같은 일반 감염질환과 모기 매개 감염병에 대한 대응이 필요하다.\n출국 전 감염내과나 해외여행클리닉을 발문해 필요한 예방접종을 하고 건강을 상담받는 게 좋다.\n특히, 브라질에서 유행하는 독감 바이러스를 예방하기 위해선 지난겨울 백신을 접종했다고 하더라도 출국 한 달 전 추가 접종이 필요하다고 강조했다. 고대구로병원 감염내과 정희진교수는 “인플루엔자는 전염성이 매우 강한 질환으로, 이번 올림픽 시즌은 여름 휴가시즌과 겹침에 따라 해외 방문객이 급증할 것으로 전망되어 인플루엔자 예방에 각별한 주의가 필요하다”고 말했다.\n이번에 유행하는 인플루엔자 유형은 2009년 신종플루 당시와 비슷한 H1N1형이다.\n여기에 최근에는 인플루엔자 B형 바이러스 2종이 동시에 유행하는 양상이다.\n세계보건기구(WHO)와 미국 질병예방통제센터(CDC)는 한 번에 네 가지 바이러스 유형을 예방할 수 있는 ‘4가 백신’ 접종을 권장하고 있다.\n한국에서도 지난해 9월 출시된 GSK의 ‘플루아릭스 테트라’를 시작으로 4가 인플루엔자 백신 접종이 가능해졌다.\n고령층 및 만성질환자의 경우 쉽게 감염되고 합병증이 심하게 나타나는 경향이 있으므로, 예방 범위가 넓은 인플루엔자 백신을 접종해두는 게 좋다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오는 8월 리우데자네이루 올림픽을 앞둔 브라질에 20여년 만에 지난 2009년 당시 대유행했던 H1N1형 독감 바이러스가 퍼지면서 사망자가 급증하고 있다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우리와 계절이 반대인 브라질은 현재 20여년 만에 가장 추운 날씨가 이어지고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "브라질 보건당국에 따르면 17일 기준 올해 1월부터 독감 바이러스에 감염된 환자는 5214명으로 이 가운데 1003명이 사망했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전년과 비교했을 때 사망자가 28배나 많은 수준이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 브라질 보건부는 노약자를 중심으로 인플루엔자 백신 접종을 서두르고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "현재까지 2760만명에게 백신을 접종해 약 95% 이상 접종률을 기록했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "국내 보건당국 또한 리우 올림픽을 한달 여 앞두고 ‘리우올림픽 감염병 예방수칙’을 발표하며 주의를 요구했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "올림픽 참관 혹은 여름휴가를 맞아 브라질을 비롯한 해외여행을 앞두고 있다면 인플루엔자와 같은 일반 감염질환과 모기 매개 감염병에 대한 대응이 필요하다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "출국 전 감염내과나 해외여행클리닉을 발문해 필요한 예방접종을 하고 건강을 상담받는 게 좋다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "특히, 브라질에서 유행하는 독감 바이러스를 예방하기 위해선 지난겨울 백신을 접종했다고 하더라도 출국 한 달 전 추가 접종이 필요하다고 강조했다. 고대구로병원 감염내과 정희진교수는 “인플루엔자는 전염성이 매우 강한 질환으로, 이번 올림픽 시즌은 여름 휴가시즌과 겹침에 따라 해외 방문객이 급증할 것으로 전망되어 인플루엔자 예방에 각별한 주의가 필요하다”고 말했다.",
+        "sentenceSize": 202
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이번에 유행하는 인플루엔자 유형은 2009년 신종플루 당시와 비슷한 H1N1형이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "여기에 최근에는 인플루엔자 B형 바이러스 2종이 동시에 유행하는 양상이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "세계보건기구(WHO)와 미국 질병예방통제센터(CDC)는 한 번에 네 가지 바이러스 유형을 예방할 수 있는 ‘4가 백신’ 접종을 권장하고 있다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "한국에서도 지난해 9월 출시된 GSK의 ‘플루아릭스 테트라’를 시작으로 4가 인플루엔자 백신 접종이 가능해졌다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "고령층 및 만성질환자의 경우 쉽게 감염되고 합병증이 심하게 나타나는 경향이 있으므로, 예방 범위가 넓은 인플루엔자 백신을 접종해두는 게 좋다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "올림픽 앞둔 브라질에서 급증... 전년과 비교해 28배 많아",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

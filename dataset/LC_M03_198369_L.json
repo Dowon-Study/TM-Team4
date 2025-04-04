@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198369",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "제대로 된 연극 다 모였네",
+    "newsSubTitle": "내달 서울·부산 연극제 \\\"수준 높은 연극 만들 것\\\"",
+    "newsContent": "5월은 가정의 달이지만 연극의 달이기도 하다.\n굵직한 연극제가 서울과 부산에서 동시에 열린다.\n올해로 벌써 27회째를 맞은 서울연극제는 정통 연극만으로 관객과 정면 승부하겠다는 우직함이 돋보인다.\n부산국제연극제는 참신한 주제와 최신 해외 작품들로 부산을 '무대 예술의 메카'로 만들겠다는 복안이다.\n◆ 서울연극제 2일부터 21일까지 9개 작품이 올려진다.\n공연장은 아르코 예술극장 대극장 등 네 곳. 다섯편은 초연이고 네편은 재연이다. '극단 76'의 '리어왕'(기국서 연출)은 올해 창단 30주년을 기념해 무대에 오르는 경우. 지난해 좋은 평가를 받은 '아름다운 남자' '여행' '지상의 모든 밤들' 등이 다시 한번 관객과 만난다.\n초연작중에선 스페인 국가 문학상 희곡 부분을 수상한 '엠빠르 리베라', 미스테리 방식으로 오감을 자극하는 위성신 연출의 '닭집에 갔었다' 등이 눈에 띤다. 02-765-7500 ◆ 부산국제연극제 5일부터 15일까지 7개국 17개 작품이 선보인다.\n부산은 올 연극제의 큰 주제를 '넌버벌(non-verbal 비언어극)'로 잡았다.\n대사 없이 소리와 움직임만으로 승부하는 국.내외 작품들이 대거 무대에 올려진다.\n개막작인 발라간은 지난해 영국의 에딘버러 프린지 페스티벌에서 호평 받은 독일 작품. 수준 높은 라이브 연주와 서커스.마임이 어우러진다.\n미국 극단 레인펜 43이 만든 '모자 쓴 두 남자'는 마치 1930년대 무성 영화를 옮겨놓은 듯한, 코믹하면서도 아스라한 공연이다.\n이밖에 시민들의 자발적인 참여로 꾸려지는 '10분 연극제'는 진정한 축제의 의미를 살릴 것으로 기대된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "5월은 가정의 달이지만 연극의 달이기도 하다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "굵직한 연극제가 서울과 부산에서 동시에 열린다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "올해로 벌써 27회째를 맞은 서울연극제는 정통 연극만으로 관객과 정면 승부하겠다는 우직함이 돋보인다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "부산국제연극제는 참신한 주제와 최신 해외 작품들로 부산을 '무대 예술의 메카'로 만들겠다는 복안이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◆ 서울연극제 2일부터 21일까지 9개 작품이 올려진다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "공연장은 아르코 예술극장 대극장 등 네 곳. 다섯편은 초연이고 네편은 재연이다. '극단 76'의 '리어왕'(기국서 연출)은 올해 창단 30주년을 기념해 무대에 오르는 경우. 지난해 좋은 평가를 받은 '아름다운 남자' '여행' '지상의 모든 밤들' 등이 다시 한번 관객과 만난다.",
+        "sentenceSize": 155
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "초연작중에선 스페인 국가 문학상 희곡 부분을 수상한 '엠빠르 리베라', 미스테리 방식으로 오감을 자극하는 위성신 연출의 '닭집에 갔었다' 등이 눈에 띤다. 02-765-7500 ◆ 부산국제연극제 5일부터 15일까지 7개국 17개 작품이 선보인다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "부산은 올 연극제의 큰 주제를 '넌버벌(non-verbal 비언어극)'로 잡았다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "대사 없이 소리와 움직임만으로 승부하는 국.내외 작품들이 대거 무대에 올려진다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "개막작인 발라간은 지난해 영국의 에딘버러 프린지 페스티벌에서 호평 받은 독일 작품. 수준 높은 라이브 연주와 서커스.마임이 어우러진다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "미국 극단 레인펜 43이 만든 '모자 쓴 두 남자'는 마치 1930년대 무성 영화를 옮겨놓은 듯한, 코믹하면서도 아스라한 공연이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이밖에 시민들의 자발적인 참여로 꾸려지는 '10분 연극제'는 진정한 축제의 의미를 살릴 것으로 기대된다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대사 없는 연극이 있다고? 궁금하면 '여기'로 오세요",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

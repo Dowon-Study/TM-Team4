@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194506",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BookBriefing] '동양미술사 상·하' 外",
+    "newsSubTitle": "",
+    "newsContent": "◆중국 일본은 물론 인도, 서역, 동남아까지 5개 지역의 미술을 한눈에 살핀 '동양미술사 상.하'(한정희 외 지음, 미진사, 각 300.424쪽, 각 2만2000.2만7000원)이 나왔다.\n젊은 연구자들이 참여한 국내 최초의 개설서로, 1100여 컷의 컬러도판을 실어 볼거리로도 훌륭하다.\n◆14세기 영국과 프랑스 간의 백년전쟁을 배경으로 영국 정치사의 극적인 장면을 사실적이면서도 흥미진진하게 표현해낸 역사소설 '포르투나의 미소'(레베카 가블레 지음, 박종대 옮김, 이레, 전 4권 각 440쪽 안팎, 각 1만500원)이 나왔다.\n지은이는 독일출신으로 유럽에서는 '역사소설의 여왕'이란 평을 들을 정도로 인정받는다고 한다.\n◆도서출판 말글빛냄에서 인문사회과학 각 분야의 역사를 인물 중심으로 알기 쉽게 정리한 시리즈 '내가 사랑하는…'를 냈다.\n심리학자(아드리안 우어반 지음, 조희진 옮김, 192쪽)편과 철학자(크리스티아네 슐뤼터 지음, 조희진 옮김, 224쪽) 편이 우선 선보였는데 각각 프로이트에서 바츨라빅까지, 그리고 소크라테스에서 슬로터다이크까지 주요 인물들의 생애, 사상, 저서를 소개했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆중국 일본은 물론 인도, 서역, 동남아까지 5개 지역의 미술을 한눈에 살핀 '동양미술사 상.하'(한정희 외 지음, 미진사, 각 300.424쪽, 각 2만2000.2만7000원)이 나왔다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "젊은 연구자들이 참여한 국내 최초의 개설서로, 1100여 컷의 컬러도판을 실어 볼거리로도 훌륭하다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "◆14세기 영국과 프랑스 간의 백년전쟁을 배경으로 영국 정치사의 극적인 장면을 사실적이면서도 흥미진진하게 표현해낸 역사소설 '포르투나의 미소'(레베카 가블레 지음, 박종대 옮김, 이레, 전 4권 각 440쪽 안팎, 각 1만500원)이 나왔다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지은이는 독일출신으로 유럽에서는 '역사소설의 여왕'이란 평을 들을 정도로 인정받는다고 한다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◆도서출판 말글빛냄에서 인문사회과학 각 분야의 역사를 인물 중심으로 알기 쉽게 정리한 시리즈 '내가 사랑하는…'를 냈다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "심리학자(아드리안 우어반 지음, 조희진 옮김, 192쪽)편과 철학자(크리스티아네 슐뤼터 지음, 조희진 옮김, 224쪽) 편이 우선 선보였는데 각각 프로이트에서 바츨라빅까지, 그리고 소크라테스에서 슬로터다이크까지 주요 인물들의 생애, 사상, 저서를 소개했다.",
+        "sentenceSize": 143
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "동양 미술을 한눈에 볼 수 있는 '동양미술사'... 그 외 읽을만한 인문학 책들은 뭐가 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

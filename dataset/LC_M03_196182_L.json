@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196182",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"정리 안 된 병원차트 스캔은 무용지물...하드디스크 낭비\\\"",
+    "newsSubTitle": "[2014 빅메디포럼] 연세의료원, 빅데이터 활용 조건 제시",
+    "newsContent": "▲ 연세의료원 김성수 의료정보실장이 병원에서 생산되는 정보의 전산화 조건과 필요성을 설명하고 있다.\n\\\"차트를 스캔해서 저장하는 것은 쓸데 없이 하드디스크를 낭비하는 것밖에 안 된다.\\\" 최근 병원에서는 종이 차트가 사라지고 있다.\n차트를 스캔해 보관하는 이미지 형태의 차트가 이를 대체하고 있다.\n하지만 단순히 차트를 스캔하는 것은 무의미하다는 지적이다.\n차트가 분류되지 않은 상태로 보관되는 이상 빅데이터로서 활용될 수 없다는 이유에서다.\n연세의료원 김성수 의료정보실장은 지난 27일 중앙일보 헬스미디어가 '병원의 성공적인 미래, 빅데이터와 특허에서 찾다'를 주제로 개최한 빅메디포럼에서 이같이 밝혔다.\n김 실장은 먼저 연세의료원의 빅데이터 현황을 설명했다.\n그는 \\\"연세의료원에 연간 초진으로 오는 사람이 45만2701명, 재진환자까지 합치면 234만8515명으로 월 평균 19만55710명\\\"이라며 \\\"이렇게 연세의료원이 갖고 있는 데이터가 약 360테라바이트\\\"라고 운을 뗐다.\n그러면서 데이터 확보보다 데이터 정리의 중요성을 강조했다.\n김 실장은 \\\"쏟아져 있는 데이터를 각 방에 정리해야 한다. 차트를 스캔해서 저장하는 것은 쓸데 없이 하드디스크를 낭비하는 것밖에 안 된다\\\"며 \\\"차라리 종이차트로 보관하는 것이 나을 수 있다\\\"고 지적했다.\n그는 그 이유에 대해 \\\"자료를 정리하지 않고 보관하면 찾기만 더 어려워진다\\\"며 \\\"데이터는 갖고 있는 것이 가치 있는 것이 아니라 활용할 수 있어야 한다\\\"고 말했다.\n구슬이 서 말이라도 꿰어야 보배라는 얘기다.\n▲ 연세의료원 김성수 의료정보실장 빅데이터를 활용하기 위해서는 별도의 전략이 필요하다는 점도 언급했다.\n김 실장은 \\\"현재 세브란스병원에서 로봇수술을 엄청나게 하고 있는데 로그파일을 우리가 건드릴 수 없다\\\"면서 \\\"이 자료들을 이용하면 좋은 로봇을 만들 수 있지만 이 자료들은 다빈치를 업그레이드 하고 참조하는 자료로 쓰일 뿐 대부분 버려진다. 불공정 계약인 셈\\\"이라고 지적했다.\n병원에서 생산되는 자료 중에는 활용가치가 높은 자료가 풍부하지만 계약 등으로 인한 현 실정 상 제대로 활용하지 못한다는 얘기다.\n특히 \\\"이런 식으로 나가면 결국 빅데이터로 돈을 버는 곳은 오라클밖에 없을 것\\\"이라며 \\\"라이센스 비용 다 지불하면서 빅데이터로는 이익을 내지 못한다고 본다. 병원들은 빅데이터 이용 전략을 세워야 한다\\\"고 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "▲ 연세의료원 김성수 의료정보실장이 병원에서 생산되는 정보의 전산화 조건과 필요성을 설명하고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "\\\"차트를 스캔해서 저장하는 것은 쓸데 없이 하드디스크를 낭비하는 것밖에 안 된다.\\\" 최근 병원에서는 종이 차트가 사라지고 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "차트를 스캔해 보관하는 이미지 형태의 차트가 이를 대체하고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 단순히 차트를 스캔하는 것은 무의미하다는 지적이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "차트가 분류되지 않은 상태로 보관되는 이상 빅데이터로서 활용될 수 없다는 이유에서다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연세의료원 김성수 의료정보실장은 지난 27일 중앙일보 헬스미디어가 '병원의 성공적인 미래, 빅데이터와 특허에서 찾다'를 주제로 개최한 빅메디포럼에서 이같이 밝혔다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김 실장은 먼저 연세의료원의 빅데이터 현황을 설명했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 \\\"연세의료원에 연간 초진으로 오는 사람이 45만2701명, 재진환자까지 합치면 234만8515명으로 월 평균 19만55710명\\\"이라며 \\\"이렇게 연세의료원이 갖고 있는 데이터가 약 360테라바이트\\\"라고 운을 뗐다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그러면서 데이터 확보보다 데이터 정리의 중요성을 강조했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "김 실장은 \\\"쏟아져 있는 데이터를 각 방에 정리해야 한다. 차트를 스캔해서 저장하는 것은 쓸데 없이 하드디스크를 낭비하는 것밖에 안 된다\\\"며 \\\"차라리 종이차트로 보관하는 것이 나을 수 있다\\\"고 지적했다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그는 그 이유에 대해 \\\"자료를 정리하지 않고 보관하면 찾기만 더 어려워진다\\\"며 \\\"데이터는 갖고 있는 것이 가치 있는 것이 아니라 활용할 수 있어야 한다\\\"고 말했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "구슬이 서 말이라도 꿰어야 보배라는 얘기다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "▲ 연세의료원 김성수 의료정보실장 빅데이터를 활용하기 위해서는 별도의 전략이 필요하다는 점도 언급했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "김 실장은 \\\"현재 세브란스병원에서 로봇수술을 엄청나게 하고 있는데 로그파일을 우리가 건드릴 수 없다\\\"면서 \\\"이 자료들을 이용하면 좋은 로봇을 만들 수 있지만 이 자료들은 다빈치를 업그레이드 하고 참조하는 자료로 쓰일 뿐 대부분 버려진다. 불공정 계약인 셈\\\"이라고 지적했다.",
+        "sentenceSize": 156
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "병원에서 생산되는 자료 중에는 활용가치가 높은 자료가 풍부하지만 계약 등으로 인한 현 실정 상 제대로 활용하지 못한다는 얘기다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "특히 \\\"이런 식으로 나가면 결국 빅데이터로 돈을 버는 곳은 오라클밖에 없을 것\\\"이라며 \\\"라이센스 비용 다 지불하면서 빅데이터로는 이익을 내지 못한다고 본다. 병원들은 빅데이터 이용 전략을 세워야 한다\\\"고 강조했다.",
+        "sentenceSize": 123
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"연세의료원의 빅데이터 수집 전략, 이대로는 쓸데없는 짓\"... 그 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

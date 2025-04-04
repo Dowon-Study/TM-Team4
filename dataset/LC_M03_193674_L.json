@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193674",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 당신] 남성 M자형 탈모에 효과 좋아",
+    "newsSubTitle": "이 약 아세요? ‘아보다트’",
+    "newsContent": "탈모는 전 세계 모든 남성의 고민이다.\n한국인 남성 중에는 이마 양쪽의 머리카락이 빠지면서 파고드는 ‘M자형 탈모’가 많다.\n국내 탈모 남성 3114명을 대상으로 2014년 진행한 조사에서 82.2%가 M자형 탈모인 것으로 나타났다.\n기존 치료제는 정수리 탈모에는 탁월하지만 M자형 탈모에는 효과가 조금 떨어지는 것으로 알려져 있다.\nGSK의 아보다트(사진)는 M자형 탈모에 효과가 좋다.\n탈모를 일으키는 경로를 추가로 차단하기 때문이다.\n탈모는 남성호르몬인 테스토스테론이 특정 ‘효소’를 만나 디하이드테스토스테론(DHT)이란 물질로 바뀌어 탈모를 유발한다.\n지금까지 밝혀진 효소의 종류는 세 가지. 기존 치료제가 한 가지 효소만 억제했다면 아보다트는 두 가지를 억제한다.\n복용 6개월째 효소 억제 효과는 94.7%로 기존 치료제(70.9%)보다 높다.\n탈모 치료제 복용을 주저하는 남성은 ‘성기능 저하’라는 부작용을 이유로 꼽는다.\n그러나 알려진 바와 달리 성기능 저하는 매우 드물다.\n아보다트의 경우 올해 발표한 임상시험 결과 복용 1년간 정자 수가 5000만 개 이하로 떨어진 사례는 없는 것으로 나타났다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "탈모는 전 세계 모든 남성의 고민이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국인 남성 중에는 이마 양쪽의 머리카락이 빠지면서 파고드는 ‘M자형 탈모’가 많다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국내 탈모 남성 3114명을 대상으로 2014년 진행한 조사에서 82.2%가 M자형 탈모인 것으로 나타났다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "기존 치료제는 정수리 탈모에는 탁월하지만 M자형 탈모에는 효과가 조금 떨어지는 것으로 알려져 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "GSK의 아보다트(사진)는 M자형 탈모에 효과가 좋다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "탈모를 일으키는 경로를 추가로 차단하기 때문이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "탈모는 남성호르몬인 테스토스테론이 특정 ‘효소’를 만나 디하이드테스토스테론(DHT)이란 물질로 바뀌어 탈모를 유발한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지금까지 밝혀진 효소의 종류는 세 가지. 기존 치료제가 한 가지 효소만 억제했다면 아보다트는 두 가지를 억제한다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "복용 6개월째 효소 억제 효과는 94.7%로 기존 치료제(70.9%)보다 높다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "탈모 치료제 복용을 주저하는 남성은 ‘성기능 저하’라는 부작용을 이유로 꼽는다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그러나 알려진 바와 달리 성기능 저하는 매우 드물다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "아보다트의 경우 올해 발표한 임상시험 결과 복용 1년간 정자 수가 5000만 개 이하로 떨어진 사례는 없는 것으로 나타났다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'뽀시래기' 시절 '비담' 했던 남성도 절망케 하는 탈모, M자형 탈모에 효과 좋은 치료제가 등장했다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

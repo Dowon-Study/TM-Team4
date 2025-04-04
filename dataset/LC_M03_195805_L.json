@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195805",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "장염에 좋은 음식, 초기 탈수 막기 위해 이것 필수로 섭취해야해…",
+    "newsSubTitle": "",
+    "newsContent": "장염에 좋은 음식, 탈수 막는 게 중요…흰 죽 맛있게 끓이는 법은? ‘배탈엔 그저 굶는 게 최고’라는 말이 있지만, 그건 어른들 경우에만 해당된다.\n장염에 걸려 설사를 하는 아이들은 쉽게 탈수 현상이 오고 이를 방치할 때에는 목숨이 위태로울 수 있다.\n보리차든, 흰죽이든 뭐라도 먹여야 하며, 음식물을 먹지 못할 경우엔 병원에 입원해 링거라도 맞혀야 한다는 것. 장염은 일단 초기의 탈수를 막는 게 중요한데, 한의사들은 쌀뜨물이나 숭늉, 묽은 미음을 권한다.\n아이의 입맛에 맞게 소금과 설탕으로 간한 뒤 수시로 먹인다.\n일단 설사가 멈췄다면, 반드시 흰죽을 고집할 필요는 없을 것이다.\n흰죽을 먹여 상태가 좋아졌다면, 야채죽이나 소고기 간 죽도 영양을 위해 좋다.\n흰죽을 맛있게 먹는 방법도 있다.\n흰 죽을 맛있게 끓이려면, 우선 물의 양을 처음부터 잘 잡아야 한다.\n불린 쌀의 7배의 물이 적당량. 물이 모자라 중간에 물을 첨가하면 맛이 없어진다.\n고소한 맛을 낸다고, 쌀가루로 죽을 끓이는 사람도 있지만 그렇지 않다.\n소화흡수를 위해서라면 통으로 죽을 쑨 뒤 대나무 체에 한번 내려서 주는 게 좋다.\n중간에 물이 넘쳐도 맛이 없으니 냄비 옆에 지키고 서서 잘 저어주어야 하는 것이 중요하다.\n온라인 중앙일보 ‘장염에 좋은 음식’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "장염에 좋은 음식, 탈수 막는 게 중요…흰 죽 맛있게 끓이는 법은? ‘배탈엔 그저 굶는 게 최고’라는 말이 있지만, 그건 어른들 경우에만 해당된다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "장염에 걸려 설사를 하는 아이들은 쉽게 탈수 현상이 오고 이를 방치할 때에는 목숨이 위태로울 수 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "보리차든, 흰죽이든 뭐라도 먹여야 하며, 음식물을 먹지 못할 경우엔 병원에 입원해 링거라도 맞혀야 한다는 것. 장염은 일단 초기의 탈수를 막는 게 중요한데, 한의사들은 쌀뜨물이나 숭늉, 묽은 미음을 권한다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아이의 입맛에 맞게 소금과 설탕으로 간한 뒤 수시로 먹인다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "일단 설사가 멈췄다면, 반드시 흰죽을 고집할 필요는 없을 것이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "흰죽을 먹여 상태가 좋아졌다면, 야채죽이나 소고기 간 죽도 영양을 위해 좋다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "흰죽을 맛있게 먹는 방법도 있다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "흰 죽을 맛있게 끓이려면, 우선 물의 양을 처음부터 잘 잡아야 한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "불린 쌀의 7배의 물이 적당량. 물이 모자라 중간에 물을 첨가하면 맛이 없어진다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "고소한 맛을 낸다고, 쌀가루로 죽을 끓이는 사람도 있지만 그렇지 않다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "소화흡수를 위해서라면 통으로 죽을 쑨 뒤 대나무 체에 한번 내려서 주는 게 좋다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "중간에 물이 넘쳐도 맛이 없으니 냄비 옆에 지키고 서서 잘 저어주어야 하는 것이 중요하다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "온라인 중앙일보 ‘장염에 좋은 음식’ [사진 중앙포토]",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "장염에 걸려 설사하는 아이들, 목숨 위협하는 탈수… 막아주는 음식은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

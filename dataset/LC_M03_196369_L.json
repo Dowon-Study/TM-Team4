@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196369",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Life] 노인 척추수술, 전신 대신 부위마취로",
+    "newsSubTitle": "통증 적고 회복 빨라",
+    "newsContent": "‘척추수술을 해야 할까, 아니면 고통을 그대로 견뎌야 할까’. 허리가 아프신 80세 이상 노인을 모시고 있는 가족의 고민이다.\n하지만 수술 대상이 되는 것은 나이가 아니라 건강상태다.\n당뇨나 고혈압과 같은 지병이 없고, 건강하게 일상생활을 영위하신다면 수술로 삶의 질을 높이는 것이 나은 선택일 수 있다.\n이렇게 노인 척추수술을 가능케 한 것 중 하나가 마취의 발전이다.\n노인들이 ‘큰 수술’로 알고 있는 척추관협착증을 수술할 때 종래에는 전신마취를 했다.\n기관지에 관을 꽂고 마취제를 흡입하면 온몸의 근육이 마비돼 인공호흡기에 의존해야 한다.\n특히 전신마취는 간에 독성이 있고, 뇌·콩팥 등 다른 장기의 손상도 우려돼 사전에 검사가 필요하다.\n의식도 빨리 돌아오지 않는다.\n뇌의 의식중추가 회복돼야 하기 때문에 20∼30분이 걸린다는 것. 이를 대체한 것이 경막외 마취다.\n경막은 척추신경을 싸고 있는 막. 이 부위에 약물을 주입해 수술부위만 마취시키는 것이다.\n이때 깨어 있는 의식은 수면마취로 잠시 잠들게 한다.\n경막외 마취는 스스로 호흡할 수 있고, 뇌가 마취된 것이 아니기 때문에 수술이 끝난 뒤 자고 일어난 것처럼 5분 만에 의식이 돌아온다.\n또 하루 이틀 정도는 척추신경이 마취돼 수술부위의 통증이 거의 없다는 장점도 있다.\n더조은병원 도은식 원장은 2004년부터 2007년까지 861명의 환자를‘수면부위마취 시술법’으로 치료한 결과 환자의 만족도가 85%를 넘었다고 밝혔다.\n나이별로 보면 60대 이상 477명의 55.4%가 경막외 마취를 한 반면 10∼39세의 경우엔 5.6%, 40∼59세는 38%만이 이 시술을 받았다.\n질환별로는 척추관협착증(52.3%)에서 다른 척추질환(디스크 11.8%, 척추불안정증 35.9)보다 경막외 마취가 많았다.\n특히 전신마취는 수술 후 통증 때문에 며칠 침상안정을 취해야 했지만 경막외 마취를 한 경우엔 다음날 보행이 가능한 것으로 나타났다.\n도 원장은 “경막외 마취법은 수술 후 통증이 적고, 전신마취를 하지 않아 일상생활로 복귀가 빠르다”며 “만성질환자 및 노년층에 안전한 시술법”이라고 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘척추수술을 해야 할까, 아니면 고통을 그대로 견뎌야 할까’. 허리가 아프신 80세 이상 노인을 모시고 있는 가족의 고민이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하지만 수술 대상이 되는 것은 나이가 아니라 건강상태다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당뇨나 고혈압과 같은 지병이 없고, 건강하게 일상생활을 영위하신다면 수술로 삶의 질을 높이는 것이 나은 선택일 수 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이렇게 노인 척추수술을 가능케 한 것 중 하나가 마취의 발전이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "노인들이 ‘큰 수술’로 알고 있는 척추관협착증을 수술할 때 종래에는 전신마취를 했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "기관지에 관을 꽂고 마취제를 흡입하면 온몸의 근육이 마비돼 인공호흡기에 의존해야 한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 전신마취는 간에 독성이 있고, 뇌·콩팥 등 다른 장기의 손상도 우려돼 사전에 검사가 필요하다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "의식도 빨리 돌아오지 않는다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "뇌의 의식중추가 회복돼야 하기 때문에 20∼30분이 걸린다는 것. 이를 대체한 것이 경막외 마취다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "경막은 척추신경을 싸고 있는 막. 이 부위에 약물을 주입해 수술부위만 마취시키는 것이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이때 깨어 있는 의식은 수면마취로 잠시 잠들게 한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "경막외 마취는 스스로 호흡할 수 있고, 뇌가 마취된 것이 아니기 때문에 수술이 끝난 뒤 자고 일어난 것처럼 5분 만에 의식이 돌아온다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "또 하루 이틀 정도는 척추신경이 마취돼 수술부위의 통증이 거의 없다는 장점도 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "더조은병원 도은식 원장은 2004년부터 2007년까지 861명의 환자를‘수면부위마취 시술법’으로 치료한 결과 환자의 만족도가 85%를 넘었다고 밝혔다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "나이별로 보면 60대 이상 477명의 55.4%가 경막외 마취를 한 반면 10∼39세의 경우엔 5.6%, 40∼59세는 38%만이 이 시술을 받았다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "질환별로는 척추관협착증(52.3%)에서 다른 척추질환(디스크 11.8%, 척추불안정증 35.9)보다 경막외 마취가 많았다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "특히 전신마취는 수술 후 통증 때문에 며칠 침상안정을 취해야 했지만 경막외 마취를 한 경우엔 다음날 보행이 가능한 것으로 나타났다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "도 원장은 “경막외 마취법은 수술 후 통증이 적고, 전신마취를 하지 않아 일상생활로 복귀가 빠르다”며 “만성질환자 및 노년층에 안전한 시술법”이라고 강조했다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "불가능해만 보였던 노인 척추 수술, 마취의 발전으로 통증 없이 해결한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

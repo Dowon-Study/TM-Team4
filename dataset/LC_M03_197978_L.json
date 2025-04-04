@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197978",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[HEALTH Life] 폐암 진단 방사선 걱정없이 OK",
+    "newsSubTitle": "MRI 이용 새 기술 선보여",
+    "newsContent": "방사선 피폭 우려 없이 높은 해상도를 갖는 폐암 진단 기술이 국내 의료진에 의해 소개됐다.\n삼성서울병원 영상의학과 이경수 교수팀은 영상의학의 권위지인 『래디올로지』 인터넷 최신판에 자기공명영상장치(MRI)를 이용한 폐암의 진단 기술(종양 크기, 림프선 전이, 타 장기 전이 여부)과 진단의 유효성을 발표했다.\n이 교수는 조직검사에서 폐암으로 진단된 165명(남 125, 여 40)의 비소세포성 폐암 환자를 대상으로 전신 MRI와 기존의 유일한 영상 진단장비인 PET-CT의 진단 정확도를 비교했다.\n그 결과 MRI 진단이 PET-CT와 대등한 정확도를 나타냈다는 것. 종양 발견의 경우 PET-CT(82%)보다 높은 진단율(86%)을 보였 다.\n이 교수는 “PET-CT 검사 시 부득이하게 피폭되는 방사선 조사가 전혀 없으면서 PET-CT 검사의 약점인 암세포의 뇌·간·신장 전이 확인까지 할 수 있어 좀 더 정확한 진단이 가능해졌다”고 말했다.\n이 교수팀은 현재 MRI 진단의 임상 적응증을 폐암·유방암·대장암·신장암 등 원발성 종양의 전이와 다발성 골수종·골육종 등 전신 영상검사가 필요한 질환까지 넓히기 위해 효과적이고 안전한 진단법을 연구하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방사선 피폭 우려 없이 높은 해상도를 갖는 폐암 진단 기술이 국내 의료진에 의해 소개됐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "삼성서울병원 영상의학과 이경수 교수팀은 영상의학의 권위지인 『래디올로지』 인터넷 최신판에 자기공명영상장치(MRI)를 이용한 폐암의 진단 기술(종양 크기, 림프선 전이, 타 장기 전이 여부)과 진단의 유효성을 발표했다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 교수는 조직검사에서 폐암으로 진단된 165명(남 125, 여 40)의 비소세포성 폐암 환자를 대상으로 전신 MRI와 기존의 유일한 영상 진단장비인 PET-CT의 진단 정확도를 비교했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 결과 MRI 진단이 PET-CT와 대등한 정확도를 나타냈다는 것. 종양 발견의 경우 PET-CT(82%)보다 높은 진단율(86%)을 보였 다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 교수는 “PET-CT 검사 시 부득이하게 피폭되는 방사선 조사가 전혀 없으면서 PET-CT 검사의 약점인 암세포의 뇌·간·신장 전이 확인까지 할 수 있어 좀 더 정확한 진단이 가능해졌다”고 말했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 교수팀은 현재 MRI 진단의 임상 적응증을 폐암·유방암·대장암·신장암 등 원발성 종양의 전이와 다발성 골수종·골육종 등 전신 영상검사가 필요한 질환까지 넓히기 위해 효과적이고 안전한 진단법을 연구하고 있다.",
+        "sentenceSize": 117
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "앞으로 '이 걱정' 없이 폐암 진단 받을 수 있다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

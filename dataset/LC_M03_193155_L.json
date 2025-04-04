@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193155",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "일동후디스, 그릭요거트 후디스 오가닉 GREEK 출시",
+    "newsSubTitle": "",
+    "newsContent": "일동후디스는 그리스 전통 홈메이드 방식으로 유기농 농축원유에 유산균만 넣어 만든 '후디스 오가닉 GREEK퓨어'와 '후디스 오가닉 GREEK네이처'를 출시했다고 밝혔다.\n그릭요거트는 일반 요거트보다 더 많은 우유를 발효·농축시켜 만든다.\n그만큼 수분이 많이 제거돼 마치 크림치즈처럼 단단하고 부드럽다.\n거꾸로 들어도 흘러내리지 않는다.\n깊고 풍부한 맛을 느낄 수 있는 것도 장점이다.\n미국 건강 월간지 '헬스'는 이미 지난 2006년에 그릭 요구르트를 세계 5대 건강식품 중 하나로 선정하기도 했다.\n회사 측은 후디스 오가닉 그릭퓨어는 인공첨가물을 넣지 않고 한 컵 한 컵 개별 발효시켜 만들어 우유보다 약 2배 많은 칼슘·단백질을 함유하고 있다고 설명했다.\n앞서 일동후디스는 2012년 국내 최초로 그릭요거트인 '후디스 GREEK'출시하면서 그릭요거트 시장을 선도하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일동후디스는 그리스 전통 홈메이드 방식으로 유기농 농축원유에 유산균만 넣어 만든 '후디스 오가닉 GREEK퓨어'와 '후디스 오가닉 GREEK네이처'를 출시했다고 밝혔다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그릭요거트는 일반 요거트보다 더 많은 우유를 발효·농축시켜 만든다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그만큼 수분이 많이 제거돼 마치 크림치즈처럼 단단하고 부드럽다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "거꾸로 들어도 흘러내리지 않는다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "깊고 풍부한 맛을 느낄 수 있는 것도 장점이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "미국 건강 월간지 '헬스'는 이미 지난 2006년에 그릭 요구르트를 세계 5대 건강식품 중 하나로 선정하기도 했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "회사 측은 후디스 오가닉 그릭퓨어는 인공첨가물을 넣지 않고 한 컵 한 컵 개별 발효시켜 만들어 우유보다 약 2배 많은 칼슘·단백질을 함유하고 있다고 설명했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "앞서 일동후디스는 2012년 국내 최초로 그릭요거트인 '후디스 GREEK'출시하면서 그릭요거트 시장을 선도하고 있다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일동후디스, 그리스 전통 홈메이드 방식으로 만든 제품 출시",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195672",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 당신] 서울국제내분비학회, 25개국 1300명 참여 열기",
+    "newsSubTitle": "학계 브리핑",
+    "newsContent": "4회째를 맞은 서울국제내분비학회(SICEM)가 성황리에 막을 내렸다.\n대한내분비학회 주최로 4월 28일부터 5월 1일까지 4일간 쉐라톤 그랜드 워커힐 호텔에서 개최된 SICEM 에는 전 세계 25개국 1300여 명의 내분비학 관련 의사와 전문가들이 참석했다.\n70여 명의 국제적 권위자가 초청돼 뜨거운 관심을 모았다.\n특히 당뇨병 분야 권위자인 크리스토스 맨트조로스 박사(Dr. Christos Mantzoros)의 강연과 다양한 국제 심포지엄이 마련돼 큰 호응을 얻었다.\n전통적인 방식의 종이포스터 발표가 아닌, 전자포스터(e-poster)를 도입해 보다 발전된 학술대회의 면모도 보였다.\n대한내분비학회 안철우 학술이사(강남세브란스병원)는 “국제 협력 노력의 결과 논문(초록) 제출 편수의 45%를 아시아 국가가 차지할 만큼 아시아의 뜨거운 관심을 받고 있다”고 설명했다.\n송영기 이사장(서울아산병원)은 “앞으로는 아시아에서의 명성을 토대로 세계로 발전하기 위해 더욱 노력할 것”이라고 강조했다.\n대한내분비학회는 1982년 창립된 국내 대표 의학술 단체로, 지난해 8월에는 대한내분비학회의 학회지(Endocrinology and Metabolism)가 세계 최대 규모 학술 데이터베이스(SCOPUS)의 등재 평가를 통과해 국제적 학회로서 인정받은 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "4회째를 맞은 서울국제내분비학회(SICEM)가 성황리에 막을 내렸다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "대한내분비학회 주최로 4월 28일부터 5월 1일까지 4일간 쉐라톤 그랜드 워커힐 호텔에서 개최된 SICEM 에는 전 세계 25개국 1300여 명의 내분비학 관련 의사와 전문가들이 참석했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "70여 명의 국제적 권위자가 초청돼 뜨거운 관심을 모았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 당뇨병 분야 권위자인 크리스토스 맨트조로스 박사(Dr. Christos Mantzoros)의 강연과 다양한 국제 심포지엄이 마련돼 큰 호응을 얻었다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "전통적인 방식의 종이포스터 발표가 아닌, 전자포스터(e-poster)를 도입해 보다 발전된 학술대회의 면모도 보였다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "대한내분비학회 안철우 학술이사(강남세브란스병원)는 “국제 협력 노력의 결과 논문(초록) 제출 편수의 45%를 아시아 국가가 차지할 만큼 아시아의 뜨거운 관심을 받고 있다”고 설명했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "송영기 이사장(서울아산병원)은 “앞으로는 아시아에서의 명성을 토대로 세계로 발전하기 위해 더욱 노력할 것”이라고 강조했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "대한내분비학회는 1982년 창립된 국내 대표 의학술 단체로, 지난해 8월에는 대한내분비학회의 학회지(Endocrinology and Metabolism)가 세계 최대 규모 학술 데이터베이스(SCOPUS)의 등재 평가를 통과해 국제적 학회로서 인정받은 바 있다.",
+        "sentenceSize": 145
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "내분비계 만큼은 아시아가 강세, 한국의 내분비학회 열기는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

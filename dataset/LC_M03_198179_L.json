@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198179",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[week&쉼] 왕의 밥상",
+    "newsSubTitle": "내일부터 운현궁서 궁중 음식전 … 시식 행사도",
+    "newsContent": "\\\"조선시대 임금님은 하루에 다섯번 수라상을 받았습니다. 이른 아침 죽이나 미음으로 차린 초조반상을 드시고 아침상(조수라상)을 받았습니다. 정오쯤에 국수나 만두로 요리한 낮것상을 대하고, 저녁 수라 사이에 다과로 차린 간식상을 받았습니다. 오후 9시쯤에 국수로 차린 야참까지 드셨습니다.\\\" 궁중음식연구원 한복려 이사장의 설명이다.\n28일부터 다음달 6일까지 궁중음식연구원 주최로 운현궁 노안당에서 '조선왕조 궁중음식으로의 초대-궁중음식전'이 열린다.\n조선시대 임금님 수라상은 물론 궁중 상차림과 궁중 잔칫상을 재현한다.\n수라상의 경우엔 1900년대 초 고종의 상차림으로서, 초조반상을 시작으로 야참까지 5차례에 이르는 왕의 하루 식생활을 살펴볼 수 있다.\n궁중 잔칫상은 1795년 정조시대 상차림으로 '대전진어찬안상' '대전소별미상' '내외빈상'이 차려진다.\n궁중 상차림과 함께 궁중음식연구원이 자문했던 드라마 '대장금'과 관련한 음식과 자료도 소개한다.\n드라마에 사용했던 도구와 대본, 촬영현장 사진 등은 처음 공개하는 것이란다. 29일(오후 1~4시)과 5월 2일(오후 1~3시)에는 화전.다식.화채 등을 직접 맛볼 수 있는 시식 기회도 마련한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"조선시대 임금님은 하루에 다섯번 수라상을 받았습니다. 이른 아침 죽이나 미음으로 차린 초조반상을 드시고 아침상(조수라상)을 받았습니다. 정오쯤에 국수나 만두로 요리한 낮것상을 대하고, 저녁 수라 사이에 다과로 차린 간식상을 받았습니다. 오후 9시쯤에 국수로 차린 야참까지 드셨습니다.\\\" 궁중음식연구원 한복려 이사장의 설명이다.",
+        "sentenceSize": 185
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일부터 다음달 6일까지 궁중음식연구원 주최로 운현궁 노안당에서 '조선왕조 궁중음식으로의 초대-궁중음식전'이 열린다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "조선시대 임금님 수라상은 물론 궁중 상차림과 궁중 잔칫상을 재현한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "수라상의 경우엔 1900년대 초 고종의 상차림으로서, 초조반상을 시작으로 야참까지 5차례에 이르는 왕의 하루 식생활을 살펴볼 수 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "궁중 잔칫상은 1795년 정조시대 상차림으로 '대전진어찬안상' '대전소별미상' '내외빈상'이 차려진다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "궁중 상차림과 함께 궁중음식연구원이 자문했던 드라마 '대장금'과 관련한 음식과 자료도 소개한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "드라마에 사용했던 도구와 대본, 촬영현장 사진 등은 처음 공개하는 것이란다. 29일(오후 1~4시)과 5월 2일(오후 1~3시)에는 화전.다식.화채 등을 직접 맛볼 수 있는 시식 기회도 마련한다.",
+        "sentenceSize": 109
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'조선왕조 궁중음식으로의 초대'... 왕의 밥상은 하루 '몇 번' 이었을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

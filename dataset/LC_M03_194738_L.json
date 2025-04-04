@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194738",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/꿈나무] 이야기가 튀어오르네",
+    "newsSubTitle": "",
+    "newsContent": "오즈의 마법사 L 프랭크 봄 원작 로버트 사부다 제작, 푸른 삼나무 옮김 넥서스주니어, 60쪽, 3만8000원 세계적인 팝업북(책을 펼치면 그림이 입체적으로 튀어오르는 책) 아티스트 로버트 사부다의 작품. 2000년 영문판이 처음 나온 뒤 그해 '뉴욕타임스'의 베스트셀러에 선정된 사부다의 대표작이다.\n지난해 국내에서 출간된 사부다의 '이상한 나라의 앨리스'도 비싼 책값(3만8000원)이 무색하게 초판 5000부가 석달 만에 매진될 만큼 호응이 뜨거웠다. '오즈의 …'에 들인 사부다의 아이디어는 감탄할 만하다.\n책 첫 장부터 캔자스의 회오리 바람이 빙글빙글 불어오고, 또 다른 장에선 눈부신 에메랄드 성이 우뚝 솟는다.\n순식간에 동그랗게 부풀어 올라 빙글빙글 돌아가는 오즈의 에메랄드빛 기구는 이 책의 하이라이트다.\n장난감 뺨치게 신기한 갖은 장치에 반해 '읽을' 생각 못할 독자를 위해서일까.\n성우들이 읽어주는 한글 오디오 CD도 끼워준다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오즈의 마법사 L 프랭크 봄 원작 로버트 사부다 제작, 푸른 삼나무 옮김 넥서스주니어, 60쪽, 3만8000원 세계적인 팝업북(책을 펼치면 그림이 입체적으로 튀어오르는 책) 아티스트 로버트 사부다의 작품. 2000년 영문판이 처음 나온 뒤 그해 '뉴욕타임스'의 베스트셀러에 선정된 사부다의 대표작이다.",
+        "sentenceSize": 168
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난해 국내에서 출간된 사부다의 '이상한 나라의 앨리스'도 비싼 책값(3만8000원)이 무색하게 초판 5000부가 석달 만에 매진될 만큼 호응이 뜨거웠다. '오즈의 …'에 들인 사부다의 아이디어는 감탄할 만하다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "책 첫 장부터 캔자스의 회오리 바람이 빙글빙글 불어오고, 또 다른 장에선 눈부신 에메랄드 성이 우뚝 솟는다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "순식간에 동그랗게 부풀어 올라 빙글빙글 돌아가는 오즈의 에메랄드빛 기구는 이 책의 하이라이트다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "장난감 뺨치게 신기한 갖은 장치에 반해 '읽을' 생각 못할 독자를 위해서일까.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "성우들이 읽어주는 한글 오디오 CD도 끼워준다.",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "사부다의 베스트셀러 대표작, 책마다 색다른 감동을 선사한다는 감탄할 만한 아이디어는 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

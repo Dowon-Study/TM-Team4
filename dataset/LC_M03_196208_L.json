@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196208",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "위탁 출장검진, 사무장병원 위장전술?",
+    "newsSubTitle": "공단, 허위부당청구 신고인 16명에 1억 6351만원 지급",
+    "newsContent": "#O병원은 출장검진을 하기 위해 의료업을 할 수 없는 비의료인과 계약했다.\n출장검진과 관련된 모든 권한을 가진 비의료인은 장비, 인력 등을 제공해 검진을 실시하고 발생한 매출 중 일부를 O병원대표자에게 지급했다.\n이처럼 O병원은 비의료인에게 출장검진을 위탁경영하는 방법으로 4억 5123만원을 부당 청구해 챙겼다.\n#A병원은 동일 소재지에 있는 타 요양병원에 입원 중인 환자를 서류 상 퇴원 시킨 후 실제 A병원에 입원해 진료 받은 사실이 없음에도 입원해 진료 받은 것처럼 진료기록부를 허위로 작성했다.\nA병원은 입원료 등 총 453만원을 허위⋅부당 청구했다.\n#D요양병원은 근무하지 않거나 비상근으로 근무하는 의사를 상근인력으로, 입원환자 간호업무에 종사하지 않는 간호사를 입원환자 전담 간호 인력으로 허위 신고해 입원료를 가산청구 했다.\n또 영양사 면허를 대여하거나 비상근 근무자를 상근으로 허위 신고해 입원 환자에 대한 식대를 가산, 청구하는 방법으로 총 2억 3634만원을 부당 청구했다.\n#N약국은 의사의 진찰행위 없이 약국만 내방하거나, 원거리에 살고 있는 전화상담자들에게 약을 조제해 지급하고 또는 택배로 우송한 후 동일 건물 내 ○○의원으로 조제한 내역을 일괄 전달해 내원한 것처럼 진찰 및 처방전을 허위 발행했다.\n이런 수법으로 챙긴 부당청구액은 총 1878만원이다.\n국민건강보험공단(이사장 김종대)은 26일 ‘2012년도 제3차 중앙포상심의위원회’를 열고 허위부당청구를 신고한 16명의 요양기관 내부종사자와 일반 신고인에게 총1억6351만원의 포상금을 지급키로 했다고 밝혔다.\n이들이 신고한 요양기관은 건강보험 진료비 15억1836만원을 허위·부당하게 청구받았다.\n이날 심의 결과 최고 포상금은 5천100만원으로 사무장병원이 위탁출장검진 형태로 위장해 요양급여를 부당하게 수급받은 행태를 고발한 사람에게 지급됐다.\n이들은 공단으로부터 4억 5124만원의 진료비를 부당하게 청구해 받았다.\n공단은 2005년 7월부터 ‘내부공익신고 제도’를 통해 요양기관이 허위․부당청구한 173억900백만원을 환수했다.\n이에 따른 신고포상금은 총 22억 6095만원에 이른다.\n특히 최근에는 사무장병원과 보험사기로 인한 부정행위를 신고하는 내부종사자의 수가 늘어나고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "#O병원은 출장검진을 하기 위해 의료업을 할 수 없는 비의료인과 계약했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "출장검진과 관련된 모든 권한을 가진 비의료인은 장비, 인력 등을 제공해 검진을 실시하고 발생한 매출 중 일부를 O병원대표자에게 지급했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이처럼 O병원은 비의료인에게 출장검진을 위탁경영하는 방법으로 4억 5123만원을 부당 청구해 챙겼다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "#A병원은 동일 소재지에 있는 타 요양병원에 입원 중인 환자를 서류 상 퇴원 시킨 후 실제 A병원에 입원해 진료 받은 사실이 없음에도 입원해 진료 받은 것처럼 진료기록부를 허위로 작성했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "A병원은 입원료 등 총 453만원을 허위⋅부당 청구했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "#D요양병원은 근무하지 않거나 비상근으로 근무하는 의사를 상근인력으로, 입원환자 간호업무에 종사하지 않는 간호사를 입원환자 전담 간호 인력으로 허위 신고해 입원료를 가산청구 했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 영양사 면허를 대여하거나 비상근 근무자를 상근으로 허위 신고해 입원 환자에 대한 식대를 가산, 청구하는 방법으로 총 2억 3634만원을 부당 청구했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "#N약국은 의사의 진찰행위 없이 약국만 내방하거나, 원거리에 살고 있는 전화상담자들에게 약을 조제해 지급하고 또는 택배로 우송한 후 동일 건물 내 ○○의원으로 조제한 내역을 일괄 전달해 내원한 것처럼 진찰 및 처방전을 허위 발행했다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이런 수법으로 챙긴 부당청구액은 총 1878만원이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "국민건강보험공단(이사장 김종대)은 26일 ‘2012년도 제3차 중앙포상심의위원회’를 열고 허위부당청구를 신고한 16명의 요양기관 내부종사자와 일반 신고인에게 총1억6351만원의 포상금을 지급키로 했다고 밝혔다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이들이 신고한 요양기관은 건강보험 진료비 15억1836만원을 허위·부당하게 청구받았다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이날 심의 결과 최고 포상금은 5천100만원으로 사무장병원이 위탁출장검진 형태로 위장해 요양급여를 부당하게 수급받은 행태를 고발한 사람에게 지급됐다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이들은 공단으로부터 4억 5124만원의 진료비를 부당하게 청구해 받았다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "공단은 2005년 7월부터 ‘내부공익신고 제도’를 통해 요양기관이 허위․부당청구한 173억900백만원을 환수했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "이에 따른 신고포상금은 총 22억 6095만원에 이른다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "특히 최근에는 사무장병원과 보험사기로 인한 부정행위를 신고하는 내부종사자의 수가 늘어나고 있다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "4억 5천만 원 부당 청구한 병원 적발··· 비의료인에게 출장검진을?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

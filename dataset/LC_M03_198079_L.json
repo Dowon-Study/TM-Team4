@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198079",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "안 먹고 집에 놔둔 약 약국에 가져오세요",
+    "newsSubTitle": "오늘부터 25일까지 약효·복용법 알려줘",
+    "newsContent": "주부 박미영(38.서울 독산동)씨는 얼마 전 냉장고에서 소화제를 꺼내 먹으려다 약 색깔이 좀 변한 것을 보고 의아해했다.\n통에 든 약을 사서 몇 알만 먹고 일부러 냉장 보관해둔 것이기 때문이다.\n친구인 약사에게 물어본 결과 \\\"개봉한 약을 냉장고에 넣어두면 습기 때문에 오히려 변하기 쉽다\\\"는 얘기를 들은 박씨는 결국 남은 약을 모두 버리고 말았다.\n대한약사회가 15일 제21회 약의 날을 맞아 전국 2만여 약국을 통해 '약 바로 알기 캠페인'을 벌인다.\n사용설명서를 잃어버려 정확한 약효.복용법을 모르는 약을 15일부터 25일까지 약국에 가져가면 약사로부터 자세한 설명을 들을 수 있다.\n약사회의 원희목 회장은 \\\"어느 가정이든 연고나 소화제 등 상비약 몇 개는 쌓아놓고 있게 마련\\\"이라며 \\\"국민에게 정확한 사용법과 부작용 정보를 전달해 의약품의 오남용을 막으려는 취지\\\"라고 말했다.\n의약품의 일반적 유효기간은 2~3년이다.\n하지만 의사 처방약은 먹다 남았을 때 즉시 버리는 것이 좋다.\n가정에서 가장 오남용하기 쉬운 약 중의 하나가 소화제다.\n약사회 김병진 홍보이사는 \\\"속쓰릴 때 주로 먹는 제산제와 속이 더부룩할 때 먹는 소화효소제는 성분이나 약효가 전혀 다르다\\\"며 \\\"특히 물약 형태의 소화제는 잠시 정신이 몽롱해지는 부작용이 있는 것도 있어 함부로 먹어선 안 된다\\\"고 말했다.\n또 연고류도 용도를 정확히 알고 사용해야 하며, 마개를 잃어버리는 등 밀폐상태가 좋지 않으면 유효기간 이내라도 약효가 떨어진다.\n그리고 '서늘한 곳에서 실온 보관'토록 돼 있는 대부분의 약품은 냉장보관 하면 오히려 습도 때문에 변질되기 쉽다.\n다만 복용 직전에 물에 타서 먹는 건조시럽류는 일단 물과 섞은 뒤엔 냉장 보관해야 하고, 그것도 일주일 정도 지나면 복용하지 않는 게 좋다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "주부 박미영(38.서울 독산동)씨는 얼마 전 냉장고에서 소화제를 꺼내 먹으려다 약 색깔이 좀 변한 것을 보고 의아해했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "통에 든 약을 사서 몇 알만 먹고 일부러 냉장 보관해둔 것이기 때문이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "친구인 약사에게 물어본 결과 \\\"개봉한 약을 냉장고에 넣어두면 습기 때문에 오히려 변하기 쉽다\\\"는 얘기를 들은 박씨는 결국 남은 약을 모두 버리고 말았다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대한약사회가 15일 제21회 약의 날을 맞아 전국 2만여 약국을 통해 '약 바로 알기 캠페인'을 벌인다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사용설명서를 잃어버려 정확한 약효.복용법을 모르는 약을 15일부터 25일까지 약국에 가져가면 약사로부터 자세한 설명을 들을 수 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "약사회의 원희목 회장은 \\\"어느 가정이든 연고나 소화제 등 상비약 몇 개는 쌓아놓고 있게 마련\\\"이라며 \\\"국민에게 정확한 사용법과 부작용 정보를 전달해 의약품의 오남용을 막으려는 취지\\\"라고 말했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "의약품의 일반적 유효기간은 2~3년이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 의사 처방약은 먹다 남았을 때 즉시 버리는 것이 좋다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "가정에서 가장 오남용하기 쉬운 약 중의 하나가 소화제다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "약사회 김병진 홍보이사는 \\\"속쓰릴 때 주로 먹는 제산제와 속이 더부룩할 때 먹는 소화효소제는 성분이나 약효가 전혀 다르다\\\"며 \\\"특히 물약 형태의 소화제는 잠시 정신이 몽롱해지는 부작용이 있는 것도 있어 함부로 먹어선 안 된다\\\"고 말했다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "또 연고류도 용도를 정확히 알고 사용해야 하며, 마개를 잃어버리는 등 밀폐상태가 좋지 않으면 유효기간 이내라도 약효가 떨어진다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그리고 '서늘한 곳에서 실온 보관'토록 돼 있는 대부분의 약품은 냉장보관 하면 오히려 습도 때문에 변질되기 쉽다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "다만 복용 직전에 물에 타서 먹는 건조시럽류는 일단 물과 섞은 뒤엔 냉장 보관해야 하고, 그것도 일주일 정도 지나면 복용하지 않는 게 좋다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전 국민 올바른 약사용을 위해 대한약사회가 이 캠페인을 벌인다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

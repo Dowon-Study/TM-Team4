@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195494",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "여름이면 특히 더 심해진다는 이 두드러기",
+    "newsSubTitle": "",
+    "newsContent": "고온다습한 날씨가 이어지는 가운데 콜린성 두드러기로 인한 불편함을 호소하는 사람들이 늘고 있다.\n두드러기는 피부나 점막에 존재하는 혈관의 투과성(물질분자의 통과나 침입을 허용하는 성질)이 증가하면서 일시적으로 혈장 성분이 조직 내에 축적돼 피부가 부풀어 오르며 가려움증이 나타나는 피부질환이다.\n피부묘기증, 아나필락시스 등 두드러기에도 다양한 종류가 있다.\n이 중 콜린성 두드러기는 과도한 운동, 정신적 스트레스 혹은 더운 환경에의 노출 등으로 인해 심부 체온이 1도 이상 높아질 때 발생한다.\n콜린성 두드러기의 원인은 아직 밝혀지지 않았지만, 전문가들은 체온을 조절하는 신체 반응과 관계가 있을 것으로 추정하고 있다.\n올라간 체온을 낮추기 위해 부교감신경에서 아세틸콜린이 나오는데 이를 땀샘에 있는 수용체가 아닌 비만세포가 받으면서 콜린성두드러기가 나타난다.\n쉽게 말하면 땀이 나야 하는데 땀은 제대로 안나고 애꿎은 살갗이 부풀어오른다는 뜻이다.\n주로 몸통에 1~2㎜ 정도의 작은 팽진(부풀어 오르는 발진)이 여러 개 생기고 그 주위에 1~2㎝ 정도의 홍반성 발진이 나타나는 것이 특징이다.\n심한 가려움증과 따가움을 동반하며 복통·현기증도 함께 나타날 수 있다.\n예방하는 대표적인 방법은 인스턴트 음식이나 고추, 마늘, 겨자 등 열이 많은 음식을 피하는 것이 있다.\n과도한 실내 운동, 찜질 등 갑작스럽게 체온이 상승할 수 있는 상황은 가급적 피해야 한다.\n일교차가 심한 날엔 갈아입을 수 있는 옷을 준비하는 것이 좋다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "고온다습한 날씨가 이어지는 가운데 콜린성 두드러기로 인한 불편함을 호소하는 사람들이 늘고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "두드러기는 피부나 점막에 존재하는 혈관의 투과성(물질분자의 통과나 침입을 허용하는 성질)이 증가하면서 일시적으로 혈장 성분이 조직 내에 축적돼 피부가 부풀어 오르며 가려움증이 나타나는 피부질환이다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "피부묘기증, 아나필락시스 등 두드러기에도 다양한 종류가 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 중 콜린성 두드러기는 과도한 운동, 정신적 스트레스 혹은 더운 환경에의 노출 등으로 인해 심부 체온이 1도 이상 높아질 때 발생한다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "콜린성 두드러기의 원인은 아직 밝혀지지 않았지만, 전문가들은 체온을 조절하는 신체 반응과 관계가 있을 것으로 추정하고 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "올라간 체온을 낮추기 위해 부교감신경에서 아세틸콜린이 나오는데 이를 땀샘에 있는 수용체가 아닌 비만세포가 받으면서 콜린성두드러기가 나타난다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "쉽게 말하면 땀이 나야 하는데 땀은 제대로 안나고 애꿎은 살갗이 부풀어오른다는 뜻이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "주로 몸통에 1~2㎜ 정도의 작은 팽진(부풀어 오르는 발진)이 여러 개 생기고 그 주위에 1~2㎝ 정도의 홍반성 발진이 나타나는 것이 특징이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "심한 가려움증과 따가움을 동반하며 복통·현기증도 함께 나타날 수 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "예방하는 대표적인 방법은 인스턴트 음식이나 고추, 마늘, 겨자 등 열이 많은 음식을 피하는 것이 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "과도한 실내 운동, 찜질 등 갑작스럽게 체온이 상승할 수 있는 상황은 가급적 피해야 한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "일교차가 심한 날엔 갈아입을 수 있는 옷을 준비하는 것이 좋다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고온다습한 날씨를 좋아하는 두드러기는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

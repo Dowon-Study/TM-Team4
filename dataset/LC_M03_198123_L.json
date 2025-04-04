@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198123",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "서울바로크합주단 유럽 순회 연주 호평",
+    "newsSubTitle": "＂깨끗하게 다양하게 움직이는 소리”",
+    "newsContent": "서울바로크합주단(사진)의 리더 김민(65·서울대 음대) 교수는 지난 세 달 중 두 달 반을 꼬박 유럽에서 보냈다.\n그는 “올해처럼 유럽 페스티벌 연주를 많이 한 적이 없었다”라고 말한다. 6월17일 핀란드의 낭타리 페스티벌을 시작으로 8월 말까지 룩셈부르크 에히터나흐, 독일 자르브뤼켄의 슈파이어 여름음악제 등 총 6개의 페스티벌에서 연주했다.\n9월부터는 3번의 연주가 더 남아있다.\n1965년 창단한 이래 가장 ‘국제적’인 해를 보내고 있는 셈이다.\n2000년 ‘UN Staff Day 콘서트’에 초청받은 이후 해외의 잇딴 ‘러브콜’을 받아온 서울바로크합주단은 유럽에서 “국경을 뛰어넘은 이교도들의 예술”이라는 평가를 받았다.\n독일의 정상급 축제인 바이로이트에 30년째 초청받아 참가하고 있는 김민 교수는 “한국의 실내악단이나 오케스트라는 독주자에 비해 외국에 초청받는 경우가 드물다”며 “올해 우리 합주단이 바쁘다는 사실은 한국 앙상블의 미래가 밝다는 점을 시사한다”고 말했다.\n유럽 현지 언론은 호평을 아끼지 않았다.\n프랑크푸르트 알게마이네 자이퉁은 6월29일자에서 라인가우 페스티벌의 리뷰 기사를 통해 “한국의 기악 앙상블이 서양의 시각에서 볼 때도 흠잡을 데 없는 연주회를 만들었다”며 “잘 다듬어진 가운데 광채를 발하는, 다양하게 움직이는 소리를 만들었다”고 평했다.\n특히 쇼스타코비치의 전주곡과 스케르초, 윤이상의 ‘타피스(Tapis)’ 연주가 좋은 평가를 받았다.\n지역신문인 비스바덴 쿠리어는 “소름돋는 피아니시모, 작곡가의 의도에 적중한 연주”라고 했으며 역시 지역신문인 RHP도 “아주 깨끗한 오케스트라”라고 평했다.\n함께 연주한 김수연(20·바이올린), 백나영(28·첼로)씨도 이들 지역언론을 통해 각각 “아름다운 소리”와 “완벽한 기술의 연주자”로 평가됐다.\n이 악단은 9월11일 예술의전당에서 정기연주회를 연 후 28일 다시 독일로 떠난다.\n할레에서 열리는 국제 헨델 페스티벌과 바이덴에서의 막스레거 페스티벌 등 3회의 초청연주를 소화할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서울바로크합주단(사진)의 리더 김민(65·서울대 음대) 교수는 지난 세 달 중 두 달 반을 꼬박 유럽에서 보냈다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그는 “올해처럼 유럽 페스티벌 연주를 많이 한 적이 없었다”라고 말한다. 6월17일 핀란드의 낭타리 페스티벌을 시작으로 8월 말까지 룩셈부르크 에히터나흐, 독일 자르브뤼켄의 슈파이어 여름음악제 등 총 6개의 페스티벌에서 연주했다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "9월부터는 3번의 연주가 더 남아있다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "1965년 창단한 이래 가장 ‘국제적’인 해를 보내고 있는 셈이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2000년 ‘UN Staff Day 콘서트’에 초청받은 이후 해외의 잇딴 ‘러브콜’을 받아온 서울바로크합주단은 유럽에서 “국경을 뛰어넘은 이교도들의 예술”이라는 평가를 받았다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "독일의 정상급 축제인 바이로이트에 30년째 초청받아 참가하고 있는 김민 교수는 “한국의 실내악단이나 오케스트라는 독주자에 비해 외국에 초청받는 경우가 드물다”며 “올해 우리 합주단이 바쁘다는 사실은 한국 앙상블의 미래가 밝다는 점을 시사한다”고 말했다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유럽 현지 언론은 호평을 아끼지 않았다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "프랑크푸르트 알게마이네 자이퉁은 6월29일자에서 라인가우 페스티벌의 리뷰 기사를 통해 “한국의 기악 앙상블이 서양의 시각에서 볼 때도 흠잡을 데 없는 연주회를 만들었다”며 “잘 다듬어진 가운데 광채를 발하는, 다양하게 움직이는 소리를 만들었다”고 평했다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "특히 쇼스타코비치의 전주곡과 스케르초, 윤이상의 ‘타피스(Tapis)’ 연주가 좋은 평가를 받았다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "지역신문인 비스바덴 쿠리어는 “소름돋는 피아니시모, 작곡가의 의도에 적중한 연주”라고 했으며 역시 지역신문인 RHP도 “아주 깨끗한 오케스트라”라고 평했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "함께 연주한 김수연(20·바이올린), 백나영(28·첼로)씨도 이들 지역언론을 통해 각각 “아름다운 소리”와 “완벽한 기술의 연주자”로 평가됐다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이 악단은 9월11일 예술의전당에서 정기연주회를 연 후 28일 다시 독일로 떠난다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "할레에서 열리는 국제 헨델 페스티벌과 바이덴에서의 막스레거 페스티벌 등 3회의 초청연주를 소화할 예정이다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한국의 이 합주단, 유럽 순회 연주 호평... \"아름다운 소리\" 찬사",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

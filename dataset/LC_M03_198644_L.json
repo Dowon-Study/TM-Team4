@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198644",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 십자인대 파열, 미세절개 수술로 흉터 걱정 뚝",
+    "newsSubTitle": "",
+    "newsContent": "전문의 칼럼 심재앙 가천대 길병원 정형외과 교수 최근 레포츠 인구가 늘면서 젊은 층에서도 십자인대 파열이 흔하게 발생한다.\n십자인대는 무릎관절 내 전방과 후방에 X자로 교차해 관절의 안정성을 유지하는 역할을 한다.\n부분적 혹은 완전히 손상된 인대를 보존·재건하는 수술이 주된 치료 방법이다.\n부분적으로 손상됐을 땐 냉찜질을 하거나 목발 사용과 같은 재활 치료가 이뤄진다.\n완전히 손상됐을 땐 본인의 힘줄을 이용하는 자가건 혹은 타인의 힘줄을 이용해 재건 수술을 하게 된다.\n십자인대 재건술의 경우 과거에는 긴 절개를 통해 개방해 수술했지만, 최근에는 작은 절개를 통해 관절경을 활용한 수술을 한다.\n그런데도 관절경이나 수술 기구들이 삽입되는 5㎜ 정도의 구멍 외에 재건된 인대를 고정하는 과정에서 짧게나마 절개를 하기 때문에 추가로 2~3㎝ 정도의 흉터가 남는다.\n다행히 이를 보완한 수술법이 있다.\n관절경 수술과 최근에 발전된 이식건의 고정 기기를 이용해 십자인대 재건술을 시행하는 ‘무절개 십자인대 재건술’이다.\n기존의 관절경을 이용한 재건술과 효과는 같으면서 절개 범위가 작고 출혈·부종과 같은 부작용 발생 위험이 적으며 회복 기간이 빠른 게 장점이다.\n무엇보다 5~7㎜ 정도의 작은 절개로 수술을 마칠 수 있어 흉터가 눈에 띄게 준다.\n하지만 이 수술법은 많은 장점에도 불구하고 수술 난도가 매우 높아 반드시 숙련된 의료진에게 수술받아야 한다.\n십자인대 재건술은 자가건 혹은 타가건을 이용해 십자인대를 만들어 손상된 인대를 대체한다.\n인대는 뼈에 붙어 있는 구조물이지만 수술 과정에서 인대를 뼈에 붙이는 것은 불가능하다.\n인대가 원래 부착된 정확한 위치에 터널을 만들어 이식건을 통과시킨 후 고정하면 추후 뼈와 이식건이 붙으면서 십자인대로서 기능하게 된다.\n따라서 정확한 터널의 위치를 선정하는 것이 매우 중요하다.\n최근에는 수술 후 조기 재활을 통해 빠른 일상생활 혹은 운동 복귀를 선호하기 때문에 적절한 이식건의 고정도 중요하다.\n십자인대 재건술은 단순히 파열된 인대를 대신해 이식건으로 갈아 끼우는 것이 아니라 환자의 상황과 여건에 맞는 맞춤 치료가 필수적이다.\n따라서 무조건 좋다는 것을 선택하기보다 다양한 사항을 고려해 결정할 필요가 있다.\n무엇보다 자신에게 가장 적합한 십자인대 수술 방법을 선택하기 위해선 숙련된 의료진을 선택하는 것이 중요하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전문의 칼럼 심재앙 가천대 길병원 정형외과 교수 최근 레포츠 인구가 늘면서 젊은 층에서도 십자인대 파열이 흔하게 발생한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "십자인대는 무릎관절 내 전방과 후방에 X자로 교차해 관절의 안정성을 유지하는 역할을 한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "부분적 혹은 완전히 손상된 인대를 보존·재건하는 수술이 주된 치료 방법이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "부분적으로 손상됐을 땐 냉찜질을 하거나 목발 사용과 같은 재활 치료가 이뤄진다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "완전히 손상됐을 땐 본인의 힘줄을 이용하는 자가건 혹은 타인의 힘줄을 이용해 재건 수술을 하게 된다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "십자인대 재건술의 경우 과거에는 긴 절개를 통해 개방해 수술했지만, 최근에는 작은 절개를 통해 관절경을 활용한 수술을 한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그런데도 관절경이나 수술 기구들이 삽입되는 5㎜ 정도의 구멍 외에 재건된 인대를 고정하는 과정에서 짧게나마 절개를 하기 때문에 추가로 2~3㎝ 정도의 흉터가 남는다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "다행히 이를 보완한 수술법이 있다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "관절경 수술과 최근에 발전된 이식건의 고정 기기를 이용해 십자인대 재건술을 시행하는 ‘무절개 십자인대 재건술’이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "기존의 관절경을 이용한 재건술과 효과는 같으면서 절개 범위가 작고 출혈·부종과 같은 부작용 발생 위험이 적으며 회복 기간이 빠른 게 장점이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "무엇보다 5~7㎜ 정도의 작은 절개로 수술을 마칠 수 있어 흉터가 눈에 띄게 준다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "하지만 이 수술법은 많은 장점에도 불구하고 수술 난도가 매우 높아 반드시 숙련된 의료진에게 수술받아야 한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "십자인대 재건술은 자가건 혹은 타가건을 이용해 십자인대를 만들어 손상된 인대를 대체한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "인대는 뼈에 붙어 있는 구조물이지만 수술 과정에서 인대를 뼈에 붙이는 것은 불가능하다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "인대가 원래 부착된 정확한 위치에 터널을 만들어 이식건을 통과시킨 후 고정하면 추후 뼈와 이식건이 붙으면서 십자인대로서 기능하게 된다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "따라서 정확한 터널의 위치를 선정하는 것이 매우 중요하다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "최근에는 수술 후 조기 재활을 통해 빠른 일상생활 혹은 운동 복귀를 선호하기 때문에 적절한 이식건의 고정도 중요하다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "십자인대 재건술은 단순히 파열된 인대를 대신해 이식건으로 갈아 끼우는 것이 아니라 환자의 상황과 여건에 맞는 맞춤 치료가 필수적이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "따라서 무조건 좋다는 것을 선택하기보다 다양한 사항을 고려해 결정할 필요가 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "무엇보다 자신에게 가장 적합한 십자인대 수술 방법을 선택하기 위해선 숙련된 의료진을 선택하는 것이 중요하다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "레포츠 인구 늘면서 젊은 층에도 흔한 십자인대 파열... '이 수술법'으로 흉터 걱정 뚝",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

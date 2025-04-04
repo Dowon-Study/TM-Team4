@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195554",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "트럼프가 복용하는 탈모 치료제가 발기부전 일으킬 확률",
+    "newsSubTitle": "",
+    "newsContent": "도널드 트럼프 미국 대통령이 복용하는 것으로 알려진 탈모치료제가 발기부전을 유발할 수 있다는 연구결과가 나왔다.\n12일 의학전문매체 스태트(STAT)에 따르면 미국 노스웨스턴대 의대 연구팀은 탈모 치료제로 쓰이는 성분인 피나스테리드나 두타스테리드가 발기부전ㆍ사정장애ㆍ오르가즘장애 등의 부작용을 일으킬 위험이 있다고 보도했다.\n이 치료제는 장기 복용하면 효과를 나타내고, 약을 끊으면 몇달 뒤 다시 탈모가 시작된다.\n남성 호르몬 계통 약이기 때문에 여성은 복용하면 안된다.\n연구팀은 1992~2013년 탈모치료 목적으로 이 성분을 복용한 남성 1만2000명의 사례를 분석했다.\n그 중 7개월 이상 이 약을 복용한 사람중 1.3%에게서 ‘지속적 발기장애’ 등의 부작용이 나타났다.\n7개월 미만 복용자 중에선 0.44%가 부작용을 겪었다.\n연구팀은 발기장애가 90일 이상 지속되는 것을 지속적 장애로 봤다.\n다만 이번 연구에선 약 복용 이전부터 발기부전 증상이 있었던 남성이 얼마나 포함돼있는지는 확인되지 않았다.\n연구팀 벨크나프 교수는 “부작용 발생 비율이 낮은 것으로 생각할 수 있지만 추가 연구를 통해 정확하게 평가할 필요가 있다”고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "도널드 트럼프 미국 대통령이 복용하는 것으로 알려진 탈모치료제가 발기부전을 유발할 수 있다는 연구결과가 나왔다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12일 의학전문매체 스태트(STAT)에 따르면 미국 노스웨스턴대 의대 연구팀은 탈모 치료제로 쓰이는 성분인 피나스테리드나 두타스테리드가 발기부전ㆍ사정장애ㆍ오르가즘장애 등의 부작용을 일으킬 위험이 있다고 보도했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 치료제는 장기 복용하면 효과를 나타내고, 약을 끊으면 몇달 뒤 다시 탈모가 시작된다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "남성 호르몬 계통 약이기 때문에 여성은 복용하면 안된다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연구팀은 1992~2013년 탈모치료 목적으로 이 성분을 복용한 남성 1만2000명의 사례를 분석했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 중 7개월 이상 이 약을 복용한 사람중 1.3%에게서 ‘지속적 발기장애’ 등의 부작용이 나타났다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "7개월 미만 복용자 중에선 0.44%가 부작용을 겪었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구팀은 발기장애가 90일 이상 지속되는 것을 지속적 장애로 봤다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다만 이번 연구에선 약 복용 이전부터 발기부전 증상이 있었던 남성이 얼마나 포함돼있는지는 확인되지 않았다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "연구팀 벨크나프 교수는 “부작용 발생 비율이 낮은 것으로 생각할 수 있지만 추가 연구를 통해 정확하게 평가할 필요가 있다”고 설명했다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "트럼프가 복용하는 탈모 치료제가 가진 부작용의 정체는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

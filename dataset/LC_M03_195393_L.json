@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195393",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[한 끗 리빙] 늘어난 니트 소매, 5분이면 새것처럼",
+    "newsSubTitle": "",
+    "newsContent": "봄에 입기 좋은 얇은 니트 스웨터는 조금만 자주 입어도 목과 소매 부분이 늘어나 우글우글한 모양이 되기 쉽다.\n이렇게 늘어난 부분은 문방구에서 파는 물풀과 물을 섞어 분무기로 뿌린 뒤 다리미의 스팀을 쏘이면 새 것처럼 돌아온다.\n뜨거운 스팀으로 늘어난 니트 조직을 수축시킨 다음 이를 물풀로 고정시키는 원리다.\n물은 100mL(종이컵 반 컵), 물풀은 밥숟가락 한 개 정도면 된다.\n다리미 스팀을 쏘일 때는 니트 밑에 습기 흡수용 수건이나 키친타월을 깐다.\n단, 세탁하면 풀이 녹아 없어져 다시 늘어진 원래 형태로 돌아온다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "봄에 입기 좋은 얇은 니트 스웨터는 조금만 자주 입어도 목과 소매 부분이 늘어나 우글우글한 모양이 되기 쉽다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이렇게 늘어난 부분은 문방구에서 파는 물풀과 물을 섞어 분무기로 뿌린 뒤 다리미의 스팀을 쏘이면 새 것처럼 돌아온다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뜨거운 스팀으로 늘어난 니트 조직을 수축시킨 다음 이를 물풀로 고정시키는 원리다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "물은 100mL(종이컵 반 컵), 물풀은 밥숟가락 한 개 정도면 된다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다리미 스팀을 쏘일 때는 니트 밑에 습기 흡수용 수건이나 키친타월을 깐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "단, 세탁하면 풀이 녹아 없어져 다시 늘어진 원래 형태로 돌아온다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "예쁘지만 조심스러운 니트... 늘어난 목과 소매 되돌릴 수 있는 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

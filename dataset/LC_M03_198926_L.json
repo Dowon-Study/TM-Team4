@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198926",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[한 끗 리빙] 겨울용 니트모자 세탁법",
+    "newsSubTitle": "",
+    "newsContent": "겨울용 비니(니트 모자)는 뜨거운 물에 빨면 줄어들 위험이 있으니 미지근한 물을 사용한다.\n세제는 울샴푸가 기본. 머리카락과 두피의 피지로 생긴 때를 없애는 것이니 헤어샴푸도 효과적이다.\n대야에 모자가 잠길 정도로 물을 받아놓고 샴푸를 푼 뒤 모자를 5분 정도 담가 때를 불린다.\n손으로 주물러 불은 때를 제거하고 거품이 나지 않을 때까지 깨끗한 물로 헹군다.\n혹 줄어들었다면 찬물에 린스를 조금 풀어 담가놨다가 손으로 늘리면 쉽게 모양이 잡힌다.\n말릴 때는 모자를 마른 수건 사이에 넣고 수건을 말아 눌러 물기를 뺀다.\n비닐 봉지에 넣고 드라이어로 찬바람을 쏘이면 빨리 마른다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "겨울용 비니(니트 모자)는 뜨거운 물에 빨면 줄어들 위험이 있으니 미지근한 물을 사용한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "세제는 울샴푸가 기본. 머리카락과 두피의 피지로 생긴 때를 없애는 것이니 헤어샴푸도 효과적이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대야에 모자가 잠길 정도로 물을 받아놓고 샴푸를 푼 뒤 모자를 5분 정도 담가 때를 불린다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "손으로 주물러 불은 때를 제거하고 거품이 나지 않을 때까지 깨끗한 물로 헹군다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "혹 줄어들었다면 찬물에 린스를 조금 풀어 담가놨다가 손으로 늘리면 쉽게 모양이 잡힌다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "말릴 때는 모자를 마른 수건 사이에 넣고 수건을 말아 눌러 물기를 뺀다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "비닐 봉지에 넣고 드라이어로 찬바람을 쏘이면 빨리 마른다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "겨울용 '이것' 뜨거운 물에 빨면 변형... 미지근한 물 사용해야",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193135",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "계란 노른자, 100g당 138kcal…노른자 섭취하니 ‘반전효과’ 이럴수가!",
+    "newsSubTitle": "",
+    "newsContent": "‘완전식품’으로 알려진 달걀이 조리 방법에 따라 칼로리가 달리지는 것으로 알려져 화제다.\n계란은 100g당 약 138kcal로 달걀 1개는 80kcal 정도다.\n만약 계란을 훈제로 조리한다면 달걀 1개의 칼로리는 75kcal로 낮아지지만 프라이를 하면 기름이 들어가 열량이 120kcal 정도로 높아진다.\n계란은 고단백 식품으로 비타민이 상대적으로 적게 함유돼 있다.\n그러므로 비타민이 풍부한 채소들과 함께 섭취하는 것이 좋다.\n또 계란을 고를 때에는 껍데기가 까칠까칠한 것이 좋으며 흔들 때 묵직하게 흔들림이 없어야 한다.\n계란을 보관할 때는 뾰족한 곳이 아래로 가도록 놓는 것이 오래간다.\n계란에는 철분, 레시틴, 콜린 등의 풍부한 영양소가 함유돼 집중력, 학습력을 향상시킨다.\n치매 예방에도 효과적이다.\n대표적 고단백 저칼로리 식품인 달걀에는 피로 물질을 분해하는 메티오닌이 함유돼 있어 면역력 증진과 피로회복에도 좋다.\n트립토판 성분은 달걀 100g당 125mg이 있어 숙면을 유도해 컨디션 회복이나 잠이 부족한 사람들에게 좋다.\n특히 계란 노른자에는 레시틴, 루테인 성분이 풍부하다.\n과거 달걀 노른자가 콜레스테롤 수치를 높인다고 전해지기도 했지만 레시틴 성분이 콜레스테롤 성분을 저하시키는데 탁월하다는 사실이 밝혀졌다.\n또한 루테인 성분은 시력보호 기능 역할을 한다.\n온라인 중앙일보 ‘계란 노른자’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘완전식품’으로 알려진 달걀이 조리 방법에 따라 칼로리가 달리지는 것으로 알려져 화제다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "계란은 100g당 약 138kcal로 달걀 1개는 80kcal 정도다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "만약 계란을 훈제로 조리한다면 달걀 1개의 칼로리는 75kcal로 낮아지지만 프라이를 하면 기름이 들어가 열량이 120kcal 정도로 높아진다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "계란은 고단백 식품으로 비타민이 상대적으로 적게 함유돼 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러므로 비타민이 풍부한 채소들과 함께 섭취하는 것이 좋다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 계란을 고를 때에는 껍데기가 까칠까칠한 것이 좋으며 흔들 때 묵직하게 흔들림이 없어야 한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "계란을 보관할 때는 뾰족한 곳이 아래로 가도록 놓는 것이 오래간다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "계란에는 철분, 레시틴, 콜린 등의 풍부한 영양소가 함유돼 집중력, 학습력을 향상시킨다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "치매 예방에도 효과적이다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "대표적 고단백 저칼로리 식품인 달걀에는 피로 물질을 분해하는 메티오닌이 함유돼 있어 면역력 증진과 피로회복에도 좋다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "트립토판 성분은 달걀 100g당 125mg이 있어 숙면을 유도해 컨디션 회복이나 잠이 부족한 사람들에게 좋다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "특히 계란 노른자에는 레시틴, 루테인 성분이 풍부하다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "과거 달걀 노른자가 콜레스테롤 수치를 높인다고 전해지기도 했지만 레시틴 성분이 콜레스테롤 성분을 저하시키는데 탁월하다는 사실이 밝혀졌다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또한 루테인 성분은 시력보호 기능 역할을 한다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "온라인 중앙일보 ‘계란 노른자’ [사진 중앙포토]",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "조리 방법에 따라 천차만별로 달라지는 '완전식품'의 비밀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

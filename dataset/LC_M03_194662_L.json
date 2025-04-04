@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194662",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[week&in&Out레저] 31일부터 서울 코엑스서 박람회",
+    "newsSubTitle": "국내여행의 모든 것",
+    "newsContent": "국내 최대 규모의 국내여행 전문 박람회인 '내나라여행박람회'가 31일부터 9월 3일까지 나흘간 서울 삼성동 코엑스 태평양홀에서 열린다.\n문화관광부.한국관광공사 등이 주최하는 행사로 전국 66개 지방자치단체와 공공 기관, 83개 관광업체 등이 참가한다.\n올해 박람회의 주제는 '웰빙과 교육 - 내 삶에 쉼표, 자녀에게 느낌표'이며 다양한 체험 여행 정보를 제공한다.\n전국 여행지에서 이뤄지는 우수 체험 프로그램을 행사장에서 상시 운영하며, 전통 혼례 시연, 양주 별산대 공연, 비보이 공연 등 문화.예술.전통이 접목된 볼거리도 선사한다.\n여행용품과 관광기념품, 각 지역 특산물도 전시.판매한다.\n참가 기관 또는 업체별로 경품도 제공한다.\n한국관광공사의 경우 현장 설문조사에 응하는 사람들에게 여행 안내 책자를 선물한다.\n박람회 관람료는 어른 2000원, 초.중.고등학생은 무료다.\n행사 홈페이지(www.naenara.or.kr)에 회원으로 가입하면 무료 초청장도 인쇄할 수 있다.\n문의 '내나라여행박람회'사무국 02-6000-1414~7.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국내 최대 규모의 국내여행 전문 박람회인 '내나라여행박람회'가 31일부터 9월 3일까지 나흘간 서울 삼성동 코엑스 태평양홀에서 열린다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "문화관광부.한국관광공사 등이 주최하는 행사로 전국 66개 지방자치단체와 공공 기관, 83개 관광업체 등이 참가한다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "올해 박람회의 주제는 '웰빙과 교육 - 내 삶에 쉼표, 자녀에게 느낌표'이며 다양한 체험 여행 정보를 제공한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전국 여행지에서 이뤄지는 우수 체험 프로그램을 행사장에서 상시 운영하며, 전통 혼례 시연, 양주 별산대 공연, 비보이 공연 등 문화.예술.전통이 접목된 볼거리도 선사한다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여행용품과 관광기념품, 각 지역 특산물도 전시.판매한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "참가 기관 또는 업체별로 경품도 제공한다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한국관광공사의 경우 현장 설문조사에 응하는 사람들에게 여행 안내 책자를 선물한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "박람회 관람료는 어른 2000원, 초.중.고등학생은 무료다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "행사 홈페이지(www.naenara.or.kr)에 회원으로 가입하면 무료 초청장도 인쇄할 수 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "문의 '내나라여행박람회'사무국 02-6000-1414~7.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국내 최대 규모 여행 전문 박람회 '내나라여행박람회', 어디에서 열리나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

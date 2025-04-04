@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193358",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[편집자레터] 그래도 살 맛 나는 책동네",
+    "newsSubTitle": "",
+    "newsContent": "출판계를 취재하다 보면 참 이상한 동네란 생각이 들 때가 많습니다.\n다른 업종에 비해 이악스럽기가 덜한 것이 그 중 하나입니다.\n말인즉 ‘문화산업’이라 그럴 수도 있고 책이란 것이 서로 직접 경쟁하는 상품이 아닌 덕인지도 모릅니다. ‘마티’라고, 인문 번역서를 주로 내는 일인 출판사가 있습니다.\n2005년에 문을 연 뒤 20종 남짓 책을 냈는데 인터넷서점에서 대부분 별 4개 이상을 받았습니다.\n책 좋아하는 이들은 아는, 속이 꽉 찬 출판사라 할 수 있죠.\n이 출판사가 올 1월 몸살을 앓았습니다. 『기억-제3제국의 중심에서』이란 신간을 냈는데 오탈자가 많다고 리콜을 했다가 낭패를 겪었습니다.\n큰 출판사라도 초판의 오류는 어지간하면 넘어갑니다.\n이름에 흠이 갈 수도 있고, 비용이 만만치 않은 탓입니다.\n그런데 신생 출판사가, 아니 신생이라서 겁 없이 저지른 겁니다.\n초판 2500부 중 700부를 출고했기에 이것만 바꾸면 될 줄 알았는데 서점에서 기존의 다른 책까지 마구 반품을 하더랍니다.\n다 팔려도 간신히 굴러갈 작은 살림에 재고는 쌓여가고 운영비 압박에 졸리다 보니 한때 문 닫을 생각을 할 지경까지 몰렸답니다.\n이 때 마티를 살린 이들은 ‘인문사회과학 영업인회의’(회장 양정수)를 통해 알게 된 출판인들이었습니다.\n우선 편집업무만 아는 정희경 마티대표에게 원가 줄이기· 책값 책정에서 신간 소개· 거래처 관리 요령까지 생생한 현장 노하우를 전했습니다.\n수금 등의 영업 업무를 자기 일처럼 대신 거들기도 하더라죠.\n어느 출판사 대표는 줄여 옮긴 사무실의 보증금까지 지원했답니다.\n그것도 이제이북스, 청어람, 역사비평사 등 이른바 ‘안 팔리는’ 책을 내는 출판사에서 나섰다죠.\n이유는 딱 하나 “너희 같은 책이 많이 나와야 한다. 문을 닫기엔 너무 아깝다” 였답니다.\n최근에 만난 정 대표는 뒤늦게 이런 이야기를 전하며 “여러 분이 십시일반으로 도와줘 기운을 얻었습니다. 이제 좋은 책을 내 그 분들의 기대에 보답해야죠”라고 각오를 다지더군요.\n쌀독에서 인심 난다고들 하지만 출판계는 꼭 그렇지만은 아닌 모양입니다.\n그러기에 불황이다, 양극화다 하고 비명을 터뜨리면서도 볼 만한 책들이 꾸준히 나오는가 봅니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "출판계를 취재하다 보면 참 이상한 동네란 생각이 들 때가 많습니다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "다른 업종에 비해 이악스럽기가 덜한 것이 그 중 하나입니다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "말인즉 ‘문화산업’이라 그럴 수도 있고 책이란 것이 서로 직접 경쟁하는 상품이 아닌 덕인지도 모릅니다. ‘마티’라고, 인문 번역서를 주로 내는 일인 출판사가 있습니다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2005년에 문을 연 뒤 20종 남짓 책을 냈는데 인터넷서점에서 대부분 별 4개 이상을 받았습니다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "책 좋아하는 이들은 아는, 속이 꽉 찬 출판사라 할 수 있죠.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 출판사가 올 1월 몸살을 앓았습니다. 『기억-제3제국의 중심에서』이란 신간을 냈는데 오탈자가 많다고 리콜을 했다가 낭패를 겪었습니다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "큰 출판사라도 초판의 오류는 어지간하면 넘어갑니다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이름에 흠이 갈 수도 있고, 비용이 만만치 않은 탓입니다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그런데 신생 출판사가, 아니 신생이라서 겁 없이 저지른 겁니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "초판 2500부 중 700부를 출고했기에 이것만 바꾸면 될 줄 알았는데 서점에서 기존의 다른 책까지 마구 반품을 하더랍니다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "다 팔려도 간신히 굴러갈 작은 살림에 재고는 쌓여가고 운영비 압박에 졸리다 보니 한때 문 닫을 생각을 할 지경까지 몰렸답니다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이 때 마티를 살린 이들은 ‘인문사회과학 영업인회의’(회장 양정수)를 통해 알게 된 출판인들이었습니다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "우선 편집업무만 아는 정희경 마티대표에게 원가 줄이기· 책값 책정에서 신간 소개· 거래처 관리 요령까지 생생한 현장 노하우를 전했습니다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "수금 등의 영업 업무를 자기 일처럼 대신 거들기도 하더라죠.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "어느 출판사 대표는 줄여 옮긴 사무실의 보증금까지 지원했답니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "그것도 이제이북스, 청어람, 역사비평사 등 이른바 ‘안 팔리는’ 책을 내는 출판사에서 나섰다죠.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이유는 딱 하나 “너희 같은 책이 많이 나와야 한다. 문을 닫기엔 너무 아깝다” 였답니다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "최근에 만난 정 대표는 뒤늦게 이런 이야기를 전하며 “여러 분이 십시일반으로 도와줘 기운을 얻었습니다. 이제 좋은 책을 내 그 분들의 기대에 보답해야죠”라고 각오를 다지더군요.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "쌀독에서 인심 난다고들 하지만 출판계는 꼭 그렇지만은 아닌 모양입니다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "그러기에 불황이다, 양극화다 하고 비명을 터뜨리면서도 볼 만한 책들이 꾸준히 나오는가 봅니다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "다른 업종에 비해 이악스럽기가 덜한 출판계 '클라스'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

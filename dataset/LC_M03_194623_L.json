@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194623",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"자, 이래도 계속 담배 피울 테요?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "호주정부는 금연운동을 위한 충격요법으로 올해 3월부터 '공포의 이미지' 1차 시리즈 를 시작한데 이어 1일부터 2단계로 튜브에 휘감겨 있는 신생아 사진 등을 담배갑에 인쇄, 충격을 더해주고 있다.\n이날 호주언론에 공개된 이 신생아 사진은 흡연자들에게 흡연의 폐해를 엄중 경고하는 적나라한 공포의 이미지 2차 시리즈 7장 가운데 하나. 새로 선보일 이미지들은 흡연에 따른 건강문제로 폐암, 심장병, 뇌졸중, 실명, 태아에 미치는 영향, 흡연의 중독성, 담배연기의 독성 문제를 다루고 있다.\n실명을 경고하는 눈의 섬뜩한 이미지에서부터 심장우회술 수술장면, 폐의 내부 모습에 이르기까지 흡연자들에게 담배를 끊도록 유도하기 위한 충격적인 이미지를 사용하고 있다.\n한 임상심리학자는 부모들이 이 소름끼치는 이미지들을 자녀들에게 설명해 주어야 할 것이라며 흡연하는 부모들은 자녀들에게 설명하는 데 애를 먹게 될 것이라고 말했다.\n이러한 이미지들은 안내문과 금연상담전화(Quitline) 로고 및 전화번호를 포함하여 답배갑 앞면의 30%와 뒷면의 90%를 점하도록 돼 있다.\n1차 시리즈 이미지들은 발의 괴저와 구강암으로 썩은 입 등을 포함하고 있으며 이로 인해 기록적으로 많은 수의 흡연자들이 담배를 끊은것으로 전해지고 있다.\n특히 청소년에게 상당한 금연효과를 미쳐 청소년 흡연율이 지난 2002년의 13%에서 올해는 8.4%로 줄어든 것으로 조사됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "호주정부는 금연운동을 위한 충격요법으로 올해 3월부터 '공포의 이미지' 1차 시리즈 를 시작한데 이어 1일부터 2단계로 튜브에 휘감겨 있는 신생아 사진 등을 담배갑에 인쇄, 충격을 더해주고 있다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 호주언론에 공개된 이 신생아 사진은 흡연자들에게 흡연의 폐해를 엄중 경고하는 적나라한 공포의 이미지 2차 시리즈 7장 가운데 하나. 새로 선보일 이미지들은 흡연에 따른 건강문제로 폐암, 심장병, 뇌졸중, 실명, 태아에 미치는 영향, 흡연의 중독성, 담배연기의 독성 문제를 다루고 있다.",
+        "sentenceSize": 162
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "실명을 경고하는 눈의 섬뜩한 이미지에서부터 심장우회술 수술장면, 폐의 내부 모습에 이르기까지 흡연자들에게 담배를 끊도록 유도하기 위한 충격적인 이미지를 사용하고 있다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한 임상심리학자는 부모들이 이 소름끼치는 이미지들을 자녀들에게 설명해 주어야 할 것이라며 흡연하는 부모들은 자녀들에게 설명하는 데 애를 먹게 될 것이라고 말했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이러한 이미지들은 안내문과 금연상담전화(Quitline) 로고 및 전화번호를 포함하여 답배갑 앞면의 30%와 뒷면의 90%를 점하도록 돼 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1차 시리즈 이미지들은 발의 괴저와 구강암으로 썩은 입 등을 포함하고 있으며 이로 인해 기록적으로 많은 수의 흡연자들이 담배를 끊은것으로 전해지고 있다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 청소년에게 상당한 금연효과를 미쳐 청소년 흡연율이 지난 2002년의 13%에서 올해는 8.4%로 줄어든 것으로 조사됐다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "호주 정부, 금연운동 위해 꺼내 든 히든카드 충격요법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

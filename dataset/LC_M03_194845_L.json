@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194845",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "전총리가 제시하는 일본 미래상",
+    "newsSubTitle": "",
+    "newsContent": "나카소네 야스히로(83) 는 총리가 되기 이전 '준비된 총리'로 불렸고,총리직을 물러난 이후 '국가정책의 나침판'으로 통하는 거물 전략가다.\n그는 이번 책을 내면서 \\\"총리가 되고 싶은 사람의 교과서가 되길 바란다\\\"고 희망했다.\n21세기를 이끌어갈 사람에게 제시하는 일본의 미래상이라는 얘기다.\n국가개조 전략의 바탕에는 일본 정통 보수주의자의 위기감과 철학이 깔려 있다.\n위기감이란 1990년대의 경제적 저성장과 정당정치의 혼란상이다.\n나카소네는 이같은 '전후 최대의 위기'를 타개하기 위해서는 \\\"패전이후 점령군 미국에 의해 만들어진 체제를 극복하고 일본의 혼(魂) 을 찾아야 한다\\\"고 주장한다.\n전략가답게 헌법 ·교육기본법의 개정과 행정개혁의 구체적 방향 등을 꼼꼼하게 제시하고 있다.\n최근 교과서 개정에서 드러난 일본내 보수화 흐름을 이해하고, 나아가 일본사회의 미래를 내다볼 수 있게 해준다는 점에서 작지만 무거운 책이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "나카소네 야스히로(83) 는 총리가 되기 이전 '준비된 총리'로 불렸고,총리직을 물러난 이후 '국가정책의 나침판'으로 통하는 거물 전략가다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그는 이번 책을 내면서 \\\"총리가 되고 싶은 사람의 교과서가 되길 바란다\\\"고 희망했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "21세기를 이끌어갈 사람에게 제시하는 일본의 미래상이라는 얘기다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "국가개조 전략의 바탕에는 일본 정통 보수주의자의 위기감과 철학이 깔려 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "위기감이란 1990년대의 경제적 저성장과 정당정치의 혼란상이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "나카소네는 이같은 '전후 최대의 위기'를 타개하기 위해서는 \\\"패전이후 점령군 미국에 의해 만들어진 체제를 극복하고 일본의 혼(魂) 을 찾아야 한다\\\"고 주장한다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "전략가답게 헌법 ·교육기본법의 개정과 행정개혁의 구체적 방향 등을 꼼꼼하게 제시하고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최근 교과서 개정에서 드러난 일본내 보수화 흐름을 이해하고, 나아가 일본사회의 미래를 내다볼 수 있게 해준다는 점에서 작지만 무거운 책이다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "준비된 총리에서 국가 정책의 나침판으로, 나카소네 야스히로… 알고 보니?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

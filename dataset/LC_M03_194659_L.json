@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194659",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "LA출신 한인 대학원생, 에이즈 예방·치료법 발견",
+    "newsSubTitle": "'네이처' 자매지에 논문 게재 쾌거",
+    "newsContent": "LA 출신의 20대 대학원생이 에이즈 치료와 예방에 새로운 메카니즘을 발견해 화제가 되고 있다.\n캘리포니아 배크맨대학원(Beckman Research Institue of the City orf Hope)에 재학중인 김희보(27.사진)씨는 27일자 '스트럭처럴 바이올로지'를 통해 그의 연구 논문을 발표했다.\n스트럭처럴 바이올로지는 세계적인 과학저널지 '네이처지'의 자매지로 논문 게재 자체만으로도 전세계의 주목을 받는 저명 학술잡지다.\n게다가 이번 논문게재는 김씨가 아직 학생신분이라는 점때문에 더 이례적인 일로 주목받고 있다.\n김씨가 발견한 새로운 에이즈 예방.치료법은 RNA를 이용해 HIV(에이즈 바이러스)의 체내 침투에 필요한 CCR5라는 물질의 생성을 막는 혁신적인 매카니즘이다.\n칼택에서 바이올로지를 전공한 김씨는 베크맨대학원에 진학해 'RNA 간섭(Interference)'분야의 최고의 권위자인 존 로시(John J. Rossi) 밑에서 함께 연구하고 있다.\n김석원 목사(올랜도 충현교회 담임)의 외아들인 김씨는 이번 성과에 대해 \\\"먼저 하나님께 감사한다\\\"며 \\\"에이즈 퇴치에 1년이라도 앞당길수 있는 하나의 밑거름이 되었으면 한다\\\"고 소감을 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "LA 출신의 20대 대학원생이 에이즈 치료와 예방에 새로운 메카니즘을 발견해 화제가 되고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "캘리포니아 배크맨대학원(Beckman Research Institue of the City orf Hope)에 재학중인 김희보(27.사진)씨는 27일자 '스트럭처럴 바이올로지'를 통해 그의 연구 논문을 발표했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "스트럭처럴 바이올로지는 세계적인 과학저널지 '네이처지'의 자매지로 논문 게재 자체만으로도 전세계의 주목을 받는 저명 학술잡지다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "게다가 이번 논문게재는 김씨가 아직 학생신분이라는 점때문에 더 이례적인 일로 주목받고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김씨가 발견한 새로운 에이즈 예방.치료법은 RNA를 이용해 HIV(에이즈 바이러스)의 체내 침투에 필요한 CCR5라는 물질의 생성을 막는 혁신적인 매카니즘이다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "칼택에서 바이올로지를 전공한 김씨는 베크맨대학원에 진학해 'RNA 간섭(Interference)'분야의 최고의 권위자인 존 로시(John J. Rossi) 밑에서 함께 연구하고 있다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김석원 목사(올랜도 충현교회 담임)의 외아들인 김씨는 이번 성과에 대해 \\\"먼저 하나님께 감사한다\\\"며 \\\"에이즈 퇴치에 1년이라도 앞당길수 있는 하나의 밑거름이 되었으면 한다\\\"고 소감을 전했다.",
+        "sentenceSize": 110
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "LA 출신 한인 대학원생이 밝혀낸 에이즈 치료와 예방법 화제... 밝혀낸 메커니즘은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

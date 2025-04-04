@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196138",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "여수에도 대학병원 건립될까? '유치팀 가동'",
+    "newsSubTitle": "여수대 국동캠퍼스 내 전문병원 설립 이행약속 촉구 예정",
+    "newsContent": "전남 여수시가 민선 6기 핵심공약 중 하나인 대학병원 유치에 박차를 가하기로 했다.\n시에 따르면 최근 대학병원 유치 전담 기획팀(TF)을 발족하고 대학병원 유치를 위한 본격적인 활동에 나섰다.\n이에 따라 기획팀은 먼저 과거 전남대가 여수대와 통합 과정에서 조건으로 내걸었던 국동캠퍼스 내 전문병원 설립 약속이행을 촉구한다는 방침이다.\n특히 시민 여론의 공론화를 위해 내달 8일까지 범시민운동 추진위원회 위원을 모집하고, 분위기 조성에 나서기로 했다.\n이와 함께 순천대 의과대학이 신설될 경우 부설병원은 여수에 설립하도록 추진한다는 계획이다.\n이를 위해 여수시는 순천대 의대 설립과 부속병원 유치를 위한 지지서명을 받아 보건복지부에 제출키로 했다.\n여수시는 대학병원을 유치할 경우 30만 시민들에게 질 높은 의료서비스를 제공하고, 전남동부권 의료거점 도시로 도약할 수 있을 것으로 내다봤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전남 여수시가 민선 6기 핵심공약 중 하나인 대학병원 유치에 박차를 가하기로 했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "시에 따르면 최근 대학병원 유치 전담 기획팀(TF)을 발족하고 대학병원 유치를 위한 본격적인 활동에 나섰다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 따라 기획팀은 먼저 과거 전남대가 여수대와 통합 과정에서 조건으로 내걸었던 국동캠퍼스 내 전문병원 설립 약속이행을 촉구한다는 방침이다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 시민 여론의 공론화를 위해 내달 8일까지 범시민운동 추진위원회 위원을 모집하고, 분위기 조성에 나서기로 했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이와 함께 순천대 의과대학이 신설될 경우 부설병원은 여수에 설립하도록 추진한다는 계획이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 위해 여수시는 순천대 의대 설립과 부속병원 유치를 위한 지지서명을 받아 보건복지부에 제출키로 했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여수시는 대학병원을 유치할 경우 30만 시민들에게 질 높은 의료서비스를 제공하고, 전남동부권 의료거점 도시로 도약할 수 있을 것으로 내다봤다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여수시 대학병원 유치팀 가동, 대학병원 건립 실현되나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

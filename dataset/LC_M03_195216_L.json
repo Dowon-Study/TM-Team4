@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195216",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[서소문사진관] 북한의 신종 코로나바이러스 긴급조치는, 우엉물약 생산",
+    "newsSubTitle": "",
+    "newsContent": "북한은 신종 코로나바이러스 치료제로 우엉 추출액을 생산하고 있다고 보도했다.\n북한의 선전 매체 '서광'은 10일 신종 코로나바이러스 감염증을 예방하기 위해 '우웡(우엉) 항비루스(바이러스) 물약' 생산에 힘을 쏟고 있다고 보도했다.\n이것은 '긴급조치'의 일환이라고 특별히 강조했다.\n약병에는 한글로 '우웡 항비루스 물약'이라는 이름이 적혀있고, 영어(Burdock Antiviral Solution)와 독일어(Antivirale Lösung aus Klette)로도 약 이름을 표기했다.\nBurdock, Klette 모두 우엉이라는 뜻이다.\n상표 아래에는 '조선어린이 후원협회'라는 단체명이 적혀 있다.\n병뚜껑에는 계량컵을 덮어 놓았는데 30ml까지 따를 수 있다.\n우엉은 우리 주변에 흔해 귀한 대접을 받지 못하지만 이로운 효능이 많다. 『동의보감』에서 밝힌 우엉의 효능은 \\\"오장의 나쁜 기운을 제거하고 하복부의 내장통증 치료에 좋다\\\"는 것이다.\n우엉을 잘랐을 때 나오는 끈적거리는 성분이 리그닌인데, 이것이 항암작용을 하는 것으로 알려졌다.\n또한 혈액 속의 콜레스테롤을 배출시켜 혈관 질환에 좋고, 면역력 강화에도 효능이 있다고 한다.\n우한에서 발생한 코로나바이러스 감염증은 '신종'이기 때문에 치료제가 아직 없다. 11일 오전 방지환 중앙감염병병원 운영센터장은 국립중앙의료원에서 기자회견을 열고 \\\"에이즈 치료제와 말라리아 치료제 등 항바이러스제를 사용하는 방안을 고려하고 있다\\\"고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "북한은 신종 코로나바이러스 치료제로 우엉 추출액을 생산하고 있다고 보도했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "북한의 선전 매체 '서광'은 10일 신종 코로나바이러스 감염증을 예방하기 위해 '우웡(우엉) 항비루스(바이러스) 물약' 생산에 힘을 쏟고 있다고 보도했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이것은 '긴급조치'의 일환이라고 특별히 강조했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "약병에는 한글로 '우웡 항비루스 물약'이라는 이름이 적혀있고, 영어(Burdock Antiviral Solution)와 독일어(Antivirale Lösung aus Klette)로도 약 이름을 표기했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "Burdock, Klette 모두 우엉이라는 뜻이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "상표 아래에는 '조선어린이 후원협회'라는 단체명이 적혀 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "병뚜껑에는 계량컵을 덮어 놓았는데 30ml까지 따를 수 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "우엉은 우리 주변에 흔해 귀한 대접을 받지 못하지만 이로운 효능이 많다. 『동의보감』에서 밝힌 우엉의 효능은 \\\"오장의 나쁜 기운을 제거하고 하복부의 내장통증 치료에 좋다\\\"는 것이다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "우엉을 잘랐을 때 나오는 끈적거리는 성분이 리그닌인데, 이것이 항암작용을 하는 것으로 알려졌다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또한 혈액 속의 콜레스테롤을 배출시켜 혈관 질환에 좋고, 면역력 강화에도 효능이 있다고 한다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "우한에서 발생한 코로나바이러스 감염증은 '신종'이기 때문에 치료제가 아직 없다. 11일 오전 방지환 중앙감염병병원 운영센터장은 국립중앙의료원에서 기자회견을 열고 \\\"에이즈 치료제와 말라리아 치료제 등 항바이러스제를 사용하는 방안을 고려하고 있다\\\"고 밝혔다.",
+        "sentenceSize": 144
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "북한은 왜 코로나 치료제에 우엉을 사용했을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

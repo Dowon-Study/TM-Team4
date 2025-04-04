@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198117",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[week&] 여섯 개의 손, 여섯 개의 세상",
+    "newsSubTitle": "",
+    "newsContent": "앙드레 김·안효주·이상민·박정헌·최현숙·주종우 앙드레 김 · 안효주 · 이상민여기, 손 여섯 개 있습니다.\n그런데 예사롭지 않습니다.\n이들 손이 말합니다.\n주름지고 투박합니다.\n패션 거장입니다.\n미치면 보여요.\n곳곳에 칼자국 입니다.\n초밥 명인입니다.\n상상력이 힘이죠.\n휘고 울퉁불퉁합니다.\n코트의 사령관입니다.\n땀이 삶이에요.\n성한 손가락이 두 개입니다.\n산 호랑이입니다.\n도전은 짜릿하죠.\n희고 곱습니다.\n미의 전령입니다.\n자신을 가꾸세요.\n부드럽고 섬세합니다.\n생명지킴이 입니다.\n물러서지 맙시다.\n박정헌 · 최현숙 · 주종우지금, 손을 펴 보세요.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "앙드레 김·안효주·이상민·박정헌·최현숙·주종우 앙드레 김 · 안효주 · 이상민여기, 손 여섯 개 있습니다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그런데 예사롭지 않습니다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이들 손이 말합니다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "주름지고 투박합니다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "패션 거장입니다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "미치면 보여요.",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "곳곳에 칼자국 입니다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "초밥 명인입니다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "상상력이 힘이죠.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "휘고 울퉁불퉁합니다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "코트의 사령관입니다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "땀이 삶이에요.",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "성한 손가락이 두 개입니다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "산 호랑이입니다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "도전은 짜릿하죠.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "희고 곱습니다.",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "미의 전령입니다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "자신을 가꾸세요.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "부드럽고 섬세합니다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "생명지킴이 입니다.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "물러서지 맙시다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "박정헌 · 최현숙 · 주종우지금, 손을 펴 보세요.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여섯 개의 손, 여섯 개의 세상... 그들의 못난 손에서 탄생한 수많은 명작...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

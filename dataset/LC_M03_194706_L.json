@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194706",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[경혈을알면나도한의사] 정수리·뒷골이 아플 때",
+    "newsSubTitle": "간·신장 문제 … 발가락 사이 자극",
+    "newsContent": "머리 꼭대기인 정수리에 두통이 오는 사람이 있다.\n이때는 간(肝)에 열을 의심할 수 있다.\n화로 인해 스트레스가 생기면 간에 열이 쌓이고, 정수리로 그 열이 뻗친다.\n불을 지피면 불꽃이 위로 올라가는 것과 같은 이치다.\n이때 머리꼭지뿐 아니라 눈이 충혈되는 증상도 수반한다.\n또 실내가 더우면 두통이 심해지고, 찬바람을 쐬면 통증이 가라앉는 특징을 보인다.\n심한 경우 얼음주머니를 머리에 올려놓아야 진통이 된다.\n뒷골이 아프거나 당기며 어깨와 등까지 아프다고 호소(후두통)하는 사람도 있다.\n이 경우엔 신장 쪽에 문제가 있을 가능성이 높다.\n목 뒤편 척추뼈를 따라 통증을 동반하기도 한다.\n반면 목 뒤편 양쪽 근육 쪽이나 허리의 양 근육 부위가 아프고, 당긴다면 간에 문제가 있을 확률이 높다.\n흔히 '뒷골 당긴다'는 증상은 간.신장 모두 해당되므로 유의해 관찰해야 한다.\n◆호일침 자극요법=간에 지나친 과부하가 걸렸을 때 간열을 조절하고, 해소해 주는 명혈이 1-B이다.\n이쑤시개처럼 생긴 뾰족한 것으로 혈자리를 자극한다. 10초간 지그시 눌러주기를 10회 정도 반복한다.\n엄지 발가락과 두 번째 발가락이 만나는 부분이다.\n반면 신장 기능을 개선하는 자극점은 5-C와 7-D다. ?\n생활요법=잦은 분노심은 정수리 두통뿐 아니라 중풍을 일으키는 주요한 원인이 된다.\n열로 인해 피가 탁해지고 머리 쪽 혈관에 순환장애를 일으키기 때문이다.\n무엇보다 마음을 가라앉히고 화를 피하는 지혜가 요구된다.\n후두통을 개선하려면 무리한 성생활로 인한 과로를 피한다.\n김광호 호일침한의원장 www.hoilchim.co.kr",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "머리 꼭대기인 정수리에 두통이 오는 사람이 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이때는 간(肝)에 열을 의심할 수 있다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "화로 인해 스트레스가 생기면 간에 열이 쌓이고, 정수리로 그 열이 뻗친다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "불을 지피면 불꽃이 위로 올라가는 것과 같은 이치다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이때 머리꼭지뿐 아니라 눈이 충혈되는 증상도 수반한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 실내가 더우면 두통이 심해지고, 찬바람을 쐬면 통증이 가라앉는 특징을 보인다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "심한 경우 얼음주머니를 머리에 올려놓아야 진통이 된다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "뒷골이 아프거나 당기며 어깨와 등까지 아프다고 호소(후두통)하는 사람도 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이 경우엔 신장 쪽에 문제가 있을 가능성이 높다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "목 뒤편 척추뼈를 따라 통증을 동반하기도 한다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "반면 목 뒤편 양쪽 근육 쪽이나 허리의 양 근육 부위가 아프고, 당긴다면 간에 문제가 있을 확률이 높다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "흔히 '뒷골 당긴다'는 증상은 간.신장 모두 해당되므로 유의해 관찰해야 한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "◆호일침 자극요법=간에 지나친 과부하가 걸렸을 때 간열을 조절하고, 해소해 주는 명혈이 1-B이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이쑤시개처럼 생긴 뾰족한 것으로 혈자리를 자극한다. 10초간 지그시 눌러주기를 10회 정도 반복한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "엄지 발가락과 두 번째 발가락이 만나는 부분이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "반면 신장 기능을 개선하는 자극점은 5-C와 7-D다. ?",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "생활요법=잦은 분노심은 정수리 두통뿐 아니라 중풍을 일으키는 주요한 원인이 된다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "열로 인해 피가 탁해지고 머리 쪽 혈관에 순환장애를 일으키기 때문이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "무엇보다 마음을 가라앉히고 화를 피하는 지혜가 요구된다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "후두통을 개선하려면 무리한 성생활로 인한 과로를 피한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "김광호 호일침한의원장 www.hoilchim.co.kr",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "두통이 정수리·뒷골로 오는 사람의 문제 부위와 치료 요법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

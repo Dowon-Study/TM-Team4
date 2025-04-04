@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193650",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"뚱뚱하면 미세먼지에 더 취약하다\\\" 연구결과 나와",
+    "newsSubTitle": "",
+    "newsContent": "미세먼지가 복부비만을 가진 남성의 폐기능 저하를 촉진시킨다는 연구결과가 나왔다.\n16일 서울대 김현진·박진호·조비룡·김종일 교수팀이 남성 1876명을 조사한 결과를 발표했다.\n연구 결과 복부지방이 많은 사람은 미세먼지 농도가 약 10μg/㎥씩 높은 곳에 머물수록 폐활량 지수도 약 10%씩 더 감소하는 것으로 나타났다.\n연구팀은 2009년부터 2014년까지 서울대병원 건강검진센터를 방문한 남성 1,876명의 거주지와, 해당 거주지의 연평균 미세먼지 농도를 조사했다.\n그리고 복부 CT를 통해 총 복부지방을 측정한 후 폐활량을 측정했다.\n그 결과 내장지방 또는 피하지방의 단면적이 200㎠를 초과하는 성인(평균 허리둘레 98cm)은 미세먼지 농도가 약 10(μg/㎥) 증가할 때마다 폐기능도 약 10% 더 감소하는 것으로 나타났다.\n반면 단면적 200㎠ 이하(평균 허리둘레 87cm)의 성인은 동일한 농도의 미세먼지에 노출됐을 때도 유의미한 폐기능 저하가 관찰되지 않았다.\n김현진 보건환경연구소 교수는 \\\"대기오염은 기도염증 및 염증 매개인자와 산화스트레스를 증가시킨다. 지방세포와 대기오염 두가지가 겹쳐져 결국 더 심한 폐기능 저하로 이어질 수 있다\\\"고 설명했다.\n서울대병원 가정의학과 박진호 교수는 \\\"이 연구는 복부비만인 성인이 미세먼지 노출시 폐기능 감소 정도가 훨씬 크다는 것을 처음으로 규명했다는 점이 큰 의의가 있다\\\"며 \\\"복부비만이 있는 사람은 그 자체로 각종 호흡기질환과 심뇌혈관 질환이 더 잘 걸릴 뿐만 아니라 미세먼지에의 노출에 의해 해당 질환의 발병 증가 및 악화가 잘 일어날 수 있음을 알고 복부지방 감량을 위해 노력해야 한다\\\"고 강조했다.\n해당 연구결과는 비만분야 권위지인 '국제비만학회지(International Journal of Obesity)' 최근 호에 게재됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미세먼지가 복부비만을 가진 남성의 폐기능 저하를 촉진시킨다는 연구결과가 나왔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "16일 서울대 김현진·박진호·조비룡·김종일 교수팀이 남성 1876명을 조사한 결과를 발표했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구 결과 복부지방이 많은 사람은 미세먼지 농도가 약 10μg/㎥씩 높은 곳에 머물수록 폐활량 지수도 약 10%씩 더 감소하는 것으로 나타났다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연구팀은 2009년부터 2014년까지 서울대병원 건강검진센터를 방문한 남성 1,876명의 거주지와, 해당 거주지의 연평균 미세먼지 농도를 조사했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그리고 복부 CT를 통해 총 복부지방을 측정한 후 폐활량을 측정했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 결과 내장지방 또는 피하지방의 단면적이 200㎠를 초과하는 성인(평균 허리둘레 98cm)은 미세먼지 농도가 약 10(μg/㎥) 증가할 때마다 폐기능도 약 10% 더 감소하는 것으로 나타났다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "반면 단면적 200㎠ 이하(평균 허리둘레 87cm)의 성인은 동일한 농도의 미세먼지에 노출됐을 때도 유의미한 폐기능 저하가 관찰되지 않았다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김현진 보건환경연구소 교수는 \\\"대기오염은 기도염증 및 염증 매개인자와 산화스트레스를 증가시킨다. 지방세포와 대기오염 두가지가 겹쳐져 결국 더 심한 폐기능 저하로 이어질 수 있다\\\"고 설명했다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "서울대병원 가정의학과 박진호 교수는 \\\"이 연구는 복부비만인 성인이 미세먼지 노출시 폐기능 감소 정도가 훨씬 크다는 것을 처음으로 규명했다는 점이 큰 의의가 있다\\\"며 \\\"복부비만이 있는 사람은 그 자체로 각종 호흡기질환과 심뇌혈관 질환이 더 잘 걸릴 뿐만 아니라 미세먼지에의 노출에 의해 해당 질환의 발병 증가 및 악화가 잘 일어날 수 있음을 알고 복부지방 감량을 위해 노력해야 한다\\\"고 강조했다.",
+        "sentenceSize": 224
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "해당 연구결과는 비만분야 권위지인 '국제비만학회지(International Journal of Obesity)' 최근 호에 게재됐다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "복부 비만인들에게 '팩폭', \"뚱뚱하면 미세먼지에 더 취약하다\" 연구 결과 나와",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

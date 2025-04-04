@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193112",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "'절개 대신 입 통해 수술' 갑상선 치료 새 장 열었다",
+    "newsSubTitle": "고대 안암병원 개발 '로봇 경구 갑상선 수술' 세계로 확산",
+    "newsContent": "박 모(62,여성) 씨는 올해 초 병원에서 오른쪽 갑상선에 암을 발견했다.\n수술이 필요한 상황. 하지만 목에 남는 흉터와 통증이 걱정돼 수술이 꺼려졌다.\n그 때, 입을 통해 갑상선을 치료하는 '로봇 경구 갑상선 수술'을 접했다.\n수술은 성공했고, 박 씨는 다음 날부터 자유롭게 식사를 하는 등 큰 무리 없이 일상생활에 적응할 수 있었다.\n고대 안암병원 갑상선센터 김훈엽 교수가 개발한 갑상선 분야 '노츠(NOTES, Natural Orifice Transluminal Endoscopic Surgery, 자연 개구부 수술)’수술법이 세계적으로 시행되며 주목받고 있다. ‘입’이라는 자연개구부를 이용해 갑상선을 수술하는 방법으로, 흉터를 아예 남기지 않는 획기적인 수술법이다.\n30일 고대 안암병원에 따르면 이런'로봇 경구 갑상선 수술’은 기존의 로봇 갑상선 수술의 단점을 보완했다.\n기존 로봇 갑상선 수술은 수술 공간을 확보하기 위해 겨드랑이나 귀 뒤, 혹은 가슴에서부터 갑상선이 있는 목까지 피부를 들어올려야 했다.\n이로 인해 전통적인 절개 수술보다 눈에 보이지 않게 피부를 더 많이 잘라야 했고, 그만큼 통증이 심하고 수술 시간도 길었다.\n진정한 최소 침습 수술이라 말하기 어려웠던 것이다.\n반면 로봇 경구 갑상선 수술은 입안에 5mm 크기의 작은 구멍 2개와 20mm 크기의 구멍 1개를 통해 수술을 진행한다.\n상처가 적고, 입과 목까지 거리(수술 거리)가 짧아 수술 시간과 통증을 줄일 수 있다.\n가장 큰 장점은 수술 후 흉터가 전혀 남지 않는다는 점이다.\n수술 후 2주 뒤엔 입안 상처가 희미해지고, 한 달쯤 지나면 완전히 아문다. 이 수술법은 외과학 분야 저널인 외과 내시경지(Surgical Endoscopy)지에 논문으로 출판됐고, 노츠 수술의 세계 양대 학회로 꼽히는 미국 노스카(NOSCAR) 학회에서 수상할 만큼 독창성을 인정받았다.\n특히, 지난달에는 김훈엽 교수가 수술법을 전수한 미국 존스홉킨스병원에서 실시하며 미국 학계의 이목을 끌고 있다.\n일본, 중국, 싱가포르, 태국 등에서도 내시경을 이용한 경구 갑상선 수술을 시작하는 상황이다.\n김훈엽 교수는 “기존 수술법과 비교해 흉터가 전혀 없고, 통증이 적고, 수술 시간을 줄일 수 있는 것이 가장 큰 장점”이라 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "박 모(62,여성) 씨는 올해 초 병원에서 오른쪽 갑상선에 암을 발견했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "수술이 필요한 상황. 하지만 목에 남는 흉터와 통증이 걱정돼 수술이 꺼려졌다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 때, 입을 통해 갑상선을 치료하는 '로봇 경구 갑상선 수술'을 접했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "수술은 성공했고, 박 씨는 다음 날부터 자유롭게 식사를 하는 등 큰 무리 없이 일상생활에 적응할 수 있었다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "고대 안암병원 갑상선센터 김훈엽 교수가 개발한 갑상선 분야 '노츠(NOTES, Natural Orifice Transluminal Endoscopic Surgery, 자연 개구부 수술)’수술법이 세계적으로 시행되며 주목받고 있다. ‘입’이라는 자연개구부를 이용해 갑상선을 수술하는 방법으로, 흉터를 아예 남기지 않는 획기적인 수술법이다.",
+        "sentenceSize": 188
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "30일 고대 안암병원에 따르면 이런'로봇 경구 갑상선 수술’은 기존의 로봇 갑상선 수술의 단점을 보완했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "기존 로봇 갑상선 수술은 수술 공간을 확보하기 위해 겨드랑이나 귀 뒤, 혹은 가슴에서부터 갑상선이 있는 목까지 피부를 들어올려야 했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이로 인해 전통적인 절개 수술보다 눈에 보이지 않게 피부를 더 많이 잘라야 했고, 그만큼 통증이 심하고 수술 시간도 길었다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "진정한 최소 침습 수술이라 말하기 어려웠던 것이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "반면 로봇 경구 갑상선 수술은 입안에 5mm 크기의 작은 구멍 2개와 20mm 크기의 구멍 1개를 통해 수술을 진행한다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "상처가 적고, 입과 목까지 거리(수술 거리)가 짧아 수술 시간과 통증을 줄일 수 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "가장 큰 장점은 수술 후 흉터가 전혀 남지 않는다는 점이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "수술 후 2주 뒤엔 입안 상처가 희미해지고, 한 달쯤 지나면 완전히 아문다. 이 수술법은 외과학 분야 저널인 외과 내시경지(Surgical Endoscopy)지에 논문으로 출판됐고, 노츠 수술의 세계 양대 학회로 꼽히는 미국 노스카(NOSCAR) 학회에서 수상할 만큼 독창성을 인정받았다.",
+        "sentenceSize": 161
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "특히, 지난달에는 김훈엽 교수가 수술법을 전수한 미국 존스홉킨스병원에서 실시하며 미국 학계의 이목을 끌고 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "일본, 중국, 싱가포르, 태국 등에서도 내시경을 이용한 경구 갑상선 수술을 시작하는 상황이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "김훈엽 교수는 “기존 수술법과 비교해 흉터가 전혀 없고, 통증이 적고, 수술 시간을 줄일 수 있는 것이 가장 큰 장점”이라 강조했다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'절개 대신 입 통해 수술' 획기적 기술 도입",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

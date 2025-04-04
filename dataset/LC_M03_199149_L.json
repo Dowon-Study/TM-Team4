@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199149",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 혈압 수치, 앱 통해 PC·휴대전화로 전송",
+    "newsSubTitle": "[웰빙제품] 블루투스 혈압계",
+    "newsContent": "스스로 잰 혈압 수치를 애플리케이션(앱)을 통해 컴퓨터나 휴대전화로 전송·관리할 수 있는 혈압계가 나왔다.\n보령제약그룹 가족사 보령A&D메디칼이 내놓은 블루투스 혈압계(모델명 UA-651BLE·사진)다.\n일반 가정용 혈압계는 혈압 측정 후 측정 데이터를 혈압계 LCD창으로 확인하는 데 그쳤다.\n반면에 이 혈압계는 내장돼 있는 무선기능을 통해 측정 데이터를 PC·휴대전화로 송신할 수 있다.\n수신기기 내 소프트웨어나 스마트폰 앱(A&D Connect Smart)을 통해 대량의 데이터를 확인·관리하거나 e메일 혹은 SNS를 통해 데이터를 공유할 수 있어 일일 혈압관리에도 도움이 된다.\n앱은 구글플레이·앱스토어에서 다운로드받을 수 있다.\n특히 이 혈압계에는 혈압 측정값이 평균 수치와 25% 이상 차이가 나면 불규칙 맥파 마크가 나타나 체계적인 혈압 관리를 할 수 있다.\nUA-651BLE는 유럽고혈압학회(ESH) 임상시험을 통과하고 미 식품의약국(FDA) 승인, 국제 인증기관 컨티뉴아(Continua Health Aliance)의 의료기술 인증을 받았다.\n자세한 정보는 보령A&D메디칼 홈페이지(www.boryungand.co.kr) 를 보면 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "스스로 잰 혈압 수치를 애플리케이션(앱)을 통해 컴퓨터나 휴대전화로 전송·관리할 수 있는 혈압계가 나왔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보령제약그룹 가족사 보령A&D메디칼이 내놓은 블루투스 혈압계(모델명 UA-651BLE·사진)다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일반 가정용 혈압계는 혈압 측정 후 측정 데이터를 혈압계 LCD창으로 확인하는 데 그쳤다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "반면에 이 혈압계는 내장돼 있는 무선기능을 통해 측정 데이터를 PC·휴대전화로 송신할 수 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "수신기기 내 소프트웨어나 스마트폰 앱(A&D Connect Smart)을 통해 대량의 데이터를 확인·관리하거나 e메일 혹은 SNS를 통해 데이터를 공유할 수 있어 일일 혈압관리에도 도움이 된다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앱은 구글플레이·앱스토어에서 다운로드받을 수 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 이 혈압계에는 혈압 측정값이 평균 수치와 25% 이상 차이가 나면 불규칙 맥파 마크가 나타나 체계적인 혈압 관리를 할 수 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "UA-651BLE는 유럽고혈압학회(ESH) 임상시험을 통과하고 미 식품의약국(FDA) 승인, 국제 인증기관 컨티뉴아(Continua Health Aliance)의 의료기술 인증을 받았다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "자세한 정보는 보령A&D메디칼 홈페이지(www.boryungand.co.kr) 를 보면 된다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "스스로 잰 '이것' 수치, 앱 통해 모바일로 전송한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

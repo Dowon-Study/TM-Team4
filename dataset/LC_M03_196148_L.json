@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196148",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "천식과 COPD에 관여하는 인체 미생물 군집 규명",
+    "newsSubTitle": "만성 호흡기 질환 예방 및 치료약 개발에 새로운 패러다임 제시",
+    "newsContent": "천식과 COPD에 관여하는 인체 미생물 군집이 규명됐다.\n만성 호흡기 질환 예방 및 치료약 개발에 새로운 패러다임이란 평가다.\n중앙대학교 의과대학 미생물학교실 김원용 교수, 호흡기알레르기내과 신종욱 교수(중앙대학교병원), 경영경제대학 응용통계학과 박상규 교수팀이 천식과 만성폐쇄성폐질환(COPD)에 관여하는 인체 미생물 군집을 새롭게 규명했다.\n지금까지는 만성 호흡기 질환인 천식과 만성폐쇄성폐질환에는 하부 호흡기도에 존재하는 미생물들이 관여한다고 알려진 가운데, 상부 호흡기도에 존재하는 미생물들에 대한 역할은 알려져 있지 않았다.\n김원용․신종욱․박상규 교수 연구진은 공동연구를 통해 천식과 만성폐쇄성폐질환 환자와 정상인의 상부 호흡기에 존재하는 모든 세균 군집을 메타지노믹스 (Metagenomics)기법으로 분석했다.\n그 결과, 정상인에서는 박테로이데테스(Bacteroidetes) 문에 속하는 연쇄구균(Streptococcus), 베일로넬라(Veillonella), 프레보텔라(Prevotella) 및 나이세리아속균(Neisseria)들이 많이 존재했다.\n반면 천식과 COPD 환자에서는 프로테오박테리아(Proteobacteria) 문에 속하는 슈도모나스(Pseudomonas)와 페르미쿠테스(Firmicutes) 문에 속하는 젖산간균(Lactobacillus)들이 많이 존재하는 것을 확인했다.\n이러한 결과는 천식과 COPD의 발병과 밀접한 관련이 있는 흡연자의 구강에서 나이세리아속균(Neisseria)이 감소한다는 기존의 보고를 뒷받침하고 있으며, 박테로이데테스(Bacteroidetes) 문 세균들이 구강과 상부 호흡기도의 건강을 유지하는데 매우 중요한 역할을 한다는 사실을 확인할 수 있었다.\n김원용 교수는 “이번 연구결과는 만성 호흡기 질환인 천식과 만성폐쇄성폐질환의 예방 및 치료약을 개발하는데 새로운 패러다임을 제시할 것으로 전망된다”고 말했다.\n이번 연구 분석에는 전체 미생물 군집의 유전체를 차세대 염기서열분석기법(NGS, Next Generation Sequencing)과 대용량 유전체 정보를 생물정보 빅데이터로 해석하는 첨단 기술이 활용됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "천식과 COPD에 관여하는 인체 미생물 군집이 규명됐다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "만성 호흡기 질환 예방 및 치료약 개발에 새로운 패러다임이란 평가다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "중앙대학교 의과대학 미생물학교실 김원용 교수, 호흡기알레르기내과 신종욱 교수(중앙대학교병원), 경영경제대학 응용통계학과 박상규 교수팀이 천식과 만성폐쇄성폐질환(COPD)에 관여하는 인체 미생물 군집을 새롭게 규명했다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지금까지는 만성 호흡기 질환인 천식과 만성폐쇄성폐질환에는 하부 호흡기도에 존재하는 미생물들이 관여한다고 알려진 가운데, 상부 호흡기도에 존재하는 미생물들에 대한 역할은 알려져 있지 않았다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김원용․신종욱․박상규 교수 연구진은 공동연구를 통해 천식과 만성폐쇄성폐질환 환자와 정상인의 상부 호흡기에 존재하는 모든 세균 군집을 메타지노믹스 (Metagenomics)기법으로 분석했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 결과, 정상인에서는 박테로이데테스(Bacteroidetes) 문에 속하는 연쇄구균(Streptococcus), 베일로넬라(Veillonella), 프레보텔라(Prevotella) 및 나이세리아속균(Neisseria)들이 많이 존재했다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "반면 천식과 COPD 환자에서는 프로테오박테리아(Proteobacteria) 문에 속하는 슈도모나스(Pseudomonas)와 페르미쿠테스(Firmicutes) 문에 속하는 젖산간균(Lactobacillus)들이 많이 존재하는 것을 확인했다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이러한 결과는 천식과 COPD의 발병과 밀접한 관련이 있는 흡연자의 구강에서 나이세리아속균(Neisseria)이 감소한다는 기존의 보고를 뒷받침하고 있으며, 박테로이데테스(Bacteroidetes) 문 세균들이 구강과 상부 호흡기도의 건강을 유지하는데 매우 중요한 역할을 한다는 사실을 확인할 수 있었다.",
+        "sentenceSize": 170
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김원용 교수는 “이번 연구결과는 만성 호흡기 질환인 천식과 만성폐쇄성폐질환의 예방 및 치료약을 개발하는데 새로운 패러다임을 제시할 것으로 전망된다”고 말했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이번 연구 분석에는 전체 미생물 군집의 유전체를 차세대 염기서열분석기법(NGS, Next Generation Sequencing)과 대용량 유전체 정보를 생물정보 빅데이터로 해석하는 첨단 기술이 활용됐다.",
+        "sentenceSize": 114
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "천식·COPD 관여 인체 미생물 군집 규명... 만성 호흡기 질환 치료 가능할까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

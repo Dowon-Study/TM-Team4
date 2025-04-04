@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194447",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK북카페] 오늘을 사는 도시인의 자화상",
+    "newsSubTitle": "",
+    "newsContent": "이혼했지만 다시 만나야 하는 남녀가 있다.\n스물한 살에 만난 여자와 스물여덟 살에 결혼해 스물아홉에 헤어진 남자. 부모의 강권으로 재혼 전문 결혼정보회사에 가입해 맞선을 보고 다니는 서른네 살의 그와 전처는 아주 가끔 소소하게 서로 안부를 챙기는 ‘친하지 않은 친구’ 수준의 쿨한 관계를 유지한다.\n하지만 이 쿨한 관계가 갑작스레 삐걱대기 시작한다.\n함께 키우다 전처가 데리고 간 개 ‘몽이’ 때문이다.\n새 남자 친구가 개를 싫어하자 전처는 “너 말고는 진짜 믿을 만한 데가 없다”는 아이러니한 주장을 앞세워 그에게 개를 떠안긴다.\n개의 양육을 둘러싼 이들의 실랑이는 자식의 양육권을 놓고 이혼한 부부가 벌이는 밀고 당기기와 점점 닮아간다.\n그렇지만 이들의 갈등은 맥없이 끝난다.\n전처를 태우고 달리던 그가 낸 새벽의 교통사고 탓이다.\n그와 그녀는 암묵적인 합의하에 뺑소니를 치고 그는 체념하듯 ‘몽이’를 받아들인다.\n현실을 “자유의 대가로서 고독을 지불해야 하듯 이곳은 ‘기브 앤 테이크’의 계약으로 이뤄진 거대한 네트워크”라 여기게 된 그는 이제 ‘그런 대로 평온한 일상’으로 돌아온다.\n책에는 작가에게 2004년 이효석 문학상을 안긴 이 소설 ‘타인의 고독’을 비롯한 열 편의 단편이 실렸다.\n단편에는 익명의 섬처럼 살아가는 현대인의 모습이 다양한 방식으로 그려진다.\n그렇지만 이들에게 공통점은 있다.\n소설 속 주인공들은 현실의 견고하고 안온한 성을 지키기 위해 암묵적인 합의하에 불법을 자행하거나 신경을 거스르는 사실을 외면하고, 혹은 자신을 합리화할 논거를 찾아낸다.\n원조교제한 소녀를 태우고 음주운전을 하다 소녀를 죽인 아들을 위해 거액의 합의금을 건넨 뒤 아들에게 소녀의 죽음을 알리지도 않고 사건의 전말을 묻지도 않는 부모(‘어금니’)나 여자 환자를 추행한 혐의를 받는 의사 남자 친구를 위해 흥신소 직원을 사서 환자의 약점을 찾아내 귀띔하는 간호사(‘익명의 당신에게’), 부부관계 없이 살면서도 ‘잔잔한 저녁호수 같은 사랑의 위력’이란 미사려구를 앞세워 결혼의 안정성에 안도하는 주인공(‘어두워지기 전에’) 등이 그렇다.\n책은 작가의 문체만큼이나 경쾌하게 읽혀 트렌디한 TV 단막극 몇 편을 본 듯한 느낌이다.\n이야기를 풀어나가는 작가의 솜씨에서도 이유를 찾을 수 있겠지만 70년대에 태어나 80∼90년대에 정규교육과정을 밟은 세대가 공감할 수 있는 장치들이 많은 덕이다.\n게다가 책장을 덮는 순간에는 약간의 안도감도 든다. ‘오늘’을 사는 갑남을녀들이 나와 비슷한 생각과 고민을 하고 비슷한 동선을 밟으며 살고 있다고 넌지시 알려주는 것 같아서다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이혼했지만 다시 만나야 하는 남녀가 있다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "스물한 살에 만난 여자와 스물여덟 살에 결혼해 스물아홉에 헤어진 남자. 부모의 강권으로 재혼 전문 결혼정보회사에 가입해 맞선을 보고 다니는 서른네 살의 그와 전처는 아주 가끔 소소하게 서로 안부를 챙기는 ‘친하지 않은 친구’ 수준의 쿨한 관계를 유지한다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 이 쿨한 관계가 갑작스레 삐걱대기 시작한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "함께 키우다 전처가 데리고 간 개 ‘몽이’ 때문이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "새 남자 친구가 개를 싫어하자 전처는 “너 말고는 진짜 믿을 만한 데가 없다”는 아이러니한 주장을 앞세워 그에게 개를 떠안긴다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "개의 양육을 둘러싼 이들의 실랑이는 자식의 양육권을 놓고 이혼한 부부가 벌이는 밀고 당기기와 점점 닮아간다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그렇지만 이들의 갈등은 맥없이 끝난다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "전처를 태우고 달리던 그가 낸 새벽의 교통사고 탓이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그와 그녀는 암묵적인 합의하에 뺑소니를 치고 그는 체념하듯 ‘몽이’를 받아들인다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "현실을 “자유의 대가로서 고독을 지불해야 하듯 이곳은 ‘기브 앤 테이크’의 계약으로 이뤄진 거대한 네트워크”라 여기게 된 그는 이제 ‘그런 대로 평온한 일상’으로 돌아온다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "책에는 작가에게 2004년 이효석 문학상을 안긴 이 소설 ‘타인의 고독’을 비롯한 열 편의 단편이 실렸다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "단편에는 익명의 섬처럼 살아가는 현대인의 모습이 다양한 방식으로 그려진다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그렇지만 이들에게 공통점은 있다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "소설 속 주인공들은 현실의 견고하고 안온한 성을 지키기 위해 암묵적인 합의하에 불법을 자행하거나 신경을 거스르는 사실을 외면하고, 혹은 자신을 합리화할 논거를 찾아낸다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "원조교제한 소녀를 태우고 음주운전을 하다 소녀를 죽인 아들을 위해 거액의 합의금을 건넨 뒤 아들에게 소녀의 죽음을 알리지도 않고 사건의 전말을 묻지도 않는 부모(‘어금니’)나 여자 환자를 추행한 혐의를 받는 의사 남자 친구를 위해 흥신소 직원을 사서 환자의 약점을 찾아내 귀띔하는 간호사(‘익명의 당신에게’), 부부관계 없이 살면서도 ‘잔잔한 저녁호수 같은 사랑의 위력’이란 미사려구를 앞세워 결혼의 안정성에 안도하는 주인공(‘어두워지기 전에’) 등이 그렇다.",
+        "sentenceSize": 257
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "책은 작가의 문체만큼이나 경쾌하게 읽혀 트렌디한 TV 단막극 몇 편을 본 듯한 느낌이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이야기를 풀어나가는 작가의 솜씨에서도 이유를 찾을 수 있겠지만 70년대에 태어나 80∼90년대에 정규교육과정을 밟은 세대가 공감할 수 있는 장치들이 많은 덕이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "게다가 책장을 덮는 순간에는 약간의 안도감도 든다. ‘오늘’을 사는 갑남을녀들이 나와 비슷한 생각과 고민을 하고 비슷한 동선을 밟으며 살고 있다고 넌지시 알려주는 것 같아서다.",
+        "sentenceSize": 98
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "도시인의 자화상을 그린 책... 이효석 문학상 수상작은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194484",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "'더 뮤지컬 어워드' 수상작 어떻게 뽑았나",
+    "newsSubTitle": "",
+    "newsContent": "부문별 수상자(작)는 까다로운 수학 공식 푸는 것 못지않게 복잡한 계산을 통해 나왔다.\n전체 점수는 본심 심사 위원(10명)이 60%, 일반인 심사단(200명)이 30%, 예심 심사 위원(40명)이 10%의 지분을 갖는, 6대3대1의 비율로 구성돼 있다.\n우선 본심 심사 위원은 각 부문 후보에 대해 순위만 매길 수 있다.\n이에 따라 점수가 부과된다.\n즉 후보가 4개일 경우 1위 100점, 2위 75점, 3위 50점, 4위 25점이다.\n후보가 5개라면 1위 100점, 2위 80점 등 20점씩 차등을 두며 후보가 3개일 경우 1위 100점, 2위 67점, 3위 33점이다.\n10명의 심사 위원으로부터 모두 1위로 지명되면 1000점 만점을 얻게 된다.\n1000점은 기준점이다.\n일반인 심사는 200명이 각자 부문별로 하나씩 지명하며 1인당 1점이다.\n200명 모두 한 후보에 투표할 경우 200점 만점이 된다.\n기준점인 1000점에 맞추기 위해 일반인 심사단 점수에 5를 곱하게 된다.\n예심 심사 위원 40명도 일반인 심사와 같다.\n역시 기준점 1000점에 맞추기 위해 25를 곱한다.\n이렇게 각 부분에서 나온 점수에 각각 6과 3과 1을 곱하고, 이를 모두 합치면 각 후보의 최종 점수가 된다.\n이 최종 점수에 따라 수상자가 결정된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "부문별 수상자(작)는 까다로운 수학 공식 푸는 것 못지않게 복잡한 계산을 통해 나왔다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "전체 점수는 본심 심사 위원(10명)이 60%, 일반인 심사단(200명)이 30%, 예심 심사 위원(40명)이 10%의 지분을 갖는, 6대3대1의 비율로 구성돼 있다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "우선 본심 심사 위원은 각 부문 후보에 대해 순위만 매길 수 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 따라 점수가 부과된다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "즉 후보가 4개일 경우 1위 100점, 2위 75점, 3위 50점, 4위 25점이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "후보가 5개라면 1위 100점, 2위 80점 등 20점씩 차등을 두며 후보가 3개일 경우 1위 100점, 2위 67점, 3위 33점이다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "10명의 심사 위원으로부터 모두 1위로 지명되면 1000점 만점을 얻게 된다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "1000점은 기준점이다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "일반인 심사는 200명이 각자 부문별로 하나씩 지명하며 1인당 1점이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "200명 모두 한 후보에 투표할 경우 200점 만점이 된다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "기준점인 1000점에 맞추기 위해 일반인 심사단 점수에 5를 곱하게 된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "예심 심사 위원 40명도 일반인 심사와 같다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "역시 기준점 1000점에 맞추기 위해 25를 곱한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이렇게 각 부분에서 나온 점수에 각각 6과 3과 1을 곱하고, 이를 모두 합치면 각 후보의 최종 점수가 된다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "이 최종 점수에 따라 수상자가 결정된다.",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"수학 공식 못지않게 복잡한 계산을 통해 선정\"... '더 뮤지컬 어워드' 수상작 선정 방식은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

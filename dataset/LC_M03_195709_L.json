@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195709",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "환자정보 유출 이렇게 막아야…의료정보보호 컨퍼런스 개최",
+    "newsSubTitle": "",
+    "newsContent": "개인의료정보 보안의 중요성은 날로 커지고 있다.\n지난 7월에는 사상 최대 규모의 환자정보 유출사건이 일어나기도 했다.\n환자정보 유출을 막기 위한 ‘2015 스마트의료 정보보호 컨퍼런스’가 오는 19~20일 한국과학기술회관에서 개최된다.\n올해로 3회째인 이번 컨퍼런스에선 의료보안, 의료표준기술, 모바일 바이오메트릭스 등에 대해 드림시큐리티 김영진 연구소장, 삼성의료원 이병기 교수, 연세대 김재희 교수가 각각 발표한다.\n둘째 날인 20일에는 의료융합기술 동향과 의료보안기술 동향에 대한 발표가 이어진다.\n스마트의료보안포럼의 한근희 의장(고려대 교수)은 “이번 컨퍼런스에서는 최근 의료분야에서 부각되는 각종 정보보호에 대한 최신의 트렌드 및 이슈 등에 대해 국내 최고의 전문가들이 발표를 진행할 예정”이라고 소개했다.\n한국정보보호학회 홈페이지(www.kiisc.or.kr)를 통해서 사전등록할 수 있으며, 현장등록도 가능하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개인의료정보 보안의 중요성은 날로 커지고 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 7월에는 사상 최대 규모의 환자정보 유출사건이 일어나기도 했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "환자정보 유출을 막기 위한 ‘2015 스마트의료 정보보호 컨퍼런스’가 오는 19~20일 한국과학기술회관에서 개최된다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "올해로 3회째인 이번 컨퍼런스에선 의료보안, 의료표준기술, 모바일 바이오메트릭스 등에 대해 드림시큐리티 김영진 연구소장, 삼성의료원 이병기 교수, 연세대 김재희 교수가 각각 발표한다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "둘째 날인 20일에는 의료융합기술 동향과 의료보안기술 동향에 대한 발표가 이어진다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "스마트의료보안포럼의 한근희 의장(고려대 교수)은 “이번 컨퍼런스에서는 최근 의료분야에서 부각되는 각종 정보보호에 대한 최신의 트렌드 및 이슈 등에 대해 국내 최고의 전문가들이 발표를 진행할 예정”이라고 소개했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한국정보보호학회 홈페이지(www.kiisc.or.kr)를 통해서 사전등록할 수 있으며, 현장등록도 가능하다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "IT가 겪던 고충 알겠다… 병원들 환자 개인정보 보호에 골머리?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

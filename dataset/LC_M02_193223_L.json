@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193223",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "블랙핑크 오는 6월 컴백…흥행 불패 이어간다",
+    "newsSubTitle": "",
+    "newsContent": "그룹 블랙핑크가 오는 6월 컴백한다. 4일 블랙핑크 소속사 YG엔터테인먼트 측은 미디어SR에 \\\"블랙핑크가 6월 중 컴백할 예정\\\"이라며 \\\"정확한 날짜가 확정되면 팬들에게 가장 먼저 공식적으로 알릴 계획\\\"이라고 밝혔다.\n앞서 멤버 제니는 SNS 라이브를 통해 신곡을 녹음하는 듯한 모습을 공개해 화제를 모았다.\n해당 영상에는 블랙핑크 멤버들 외에 지드래곤도 등장해 궁금증을 더했다.\n블랙핑크는 지난 4월 발매한 '킬 디스 러브' 이후 해외 활동에 주력해 왔다.\n국내에는 1년 2개월여 만에 컴백이다.\n이에 따라 블랙핑크가 어떤 콘셉트로 돌아올지 기대가 모아지고 있다.\n앞서 발표한 모든 노래가 인기곡 반열에 오른 만큼 흥행 불패 신화를 이어갈지도 관심거리다.\n한편 블랙핑크는 지수, 제니, 로제, 리사로 구성된 4인조 그룹이다.\n지난 2016년 디지털 싱글 앨범 '스퀘어 원'(SQUARE ONE)으로 데뷔해 '휘파람', '붐바야', '불장난', '스테이'(STAY), '마지막처럼', '뚜두뚜두 (DDU-DU DDU-DU)' 등 다수 곡을 히트시키는 등 큰 사랑을 받고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 블랙핑크가 오는 6월 컴백한다. 4일 블랙핑크 소속사 YG엔터테인먼트 측은 미디어SR에 \\\"블랙핑크가 6월 중 컴백할 예정\\\"이라며 \\\"정확한 날짜가 확정되면 팬들에게 가장 먼저 공식적으로 알릴 계획\\\"이라고 밝혔다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "앞서 멤버 제니는 SNS 라이브를 통해 신곡을 녹음하는 듯한 모습을 공개해 화제를 모았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "해당 영상에는 블랙핑크 멤버들 외에 지드래곤도 등장해 궁금증을 더했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "블랙핑크는 지난 4월 발매한 '킬 디스 러브' 이후 해외 활동에 주력해 왔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "국내에는 1년 2개월여 만에 컴백이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 따라 블랙핑크가 어떤 콘셉트로 돌아올지 기대가 모아지고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 발표한 모든 노래가 인기곡 반열에 오른 만큼 흥행 불패 신화를 이어갈지도 관심거리다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 블랙핑크는 지수, 제니, 로제, 리사로 구성된 4인조 그룹이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지난 2016년 디지털 싱글 앨범 '스퀘어 원'(SQUARE ONE)으로 데뷔해 '휘파람', '붐바야', '불장난', '스테이'(STAY), '마지막처럼', '뚜두뚜두 (DDU-DU DDU-DU)' 등 다수 곡을 히트시키는 등 큰 사랑을 받고 있다.",
+        "sentenceSize": 139
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "블랙핑크 6월 컴백! 지드래곤 버프까지...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197106",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[금연100%성공전략] ② 금단 증상 심하면",
+    "newsSubTitle": "니코틴 패치 붙이면 효과 금연 성공률 2배 높아져",
+    "newsContent": "2008년 무자년 새해, 온 가족 앞에서 금연을 선언한 나결심씨. 며칠간 잘 버티던 그가 힘겨움을 호소해 왔다.\n바위 같은 굳은 맹세였지만 금단증세가 나타나면서 흔들리기 시작했다.\n의지만으로 끊기 어려운 것이 담배라는 것을 잘 알게 된 그에게 지금 당장 필요한 것은 무엇일까.\n그것은 다름아닌 ‘니코틴’이다.\n니코틴 덩어리인 담배를 끊기로 했는데 무슨 말일까.\n하지만 니코틴을 담배가 아닌 다른 방법으로 공급해주면서 서서히 담배의 유혹에서 벗어나야 할 시점이 바로 지금이다.\n금연보조제로 널리 사용되는 ‘니코틴 패치’를 붙여야 한다.\n물론 니코틴 패치를 붙였다고 담배가 저절로 끊어지는 것은 아니다.\n니코틴 패치는 금연 의지가 있는 사람이 금단 증상으로 고생하지 않고 끊을 수 있게 도와주는 금연보조제일 뿐이다.\n담배를 끊은 상태에서 니코틴을 공급해주면 금단 증상이 줄어든다. 특히 니코틴 의존도(2007년 12월 18일자 건강섹션 기사 참조)가 3점 이상이거나 하루에 10개비 이상 피우는 흡연자, 또는 이전의 금연 시도에서 금단 증상이 심했던 사람에게 니코틴 패치는 매우 유용하다.\n니코틴 패치는 병원이나 약국에서 구할 수 있고, 지역 보건소 등에서는 상담을 통해 무료 제공한다.\n니코틴 패치의 혈중 니코틴 농도는 담배를 피울 때에 비해 3분의 1에서 절반 정도에 그친다.\n특히 발암물질인 타르와 일산화탄소가 없어 건강에도 해가 없다.\n다만 패치를 붙인 뒤에는 담배를 피우지 않아야 한다.\n담배를 계속 피우면 혈중 니코틴 농도가 상승해 구토, 심한 두통은 물론 심혈관 이상 등을 유발할 수 있어 반드시 주의해야 한다.\n니코틴 패치는 금연 날 아침부터 털 없는 부위에 매일 한 장씩 붙인다.\n피부보호를 위해 한 곳에 연속으로 붙이는 것을 피한다.\n부작용으로 피부가 가렵거나 부을 수 있고 불면증, 속이 메슥거리는 증상이 나타날 수 있으나 심하지는 않다.\n다만 임신부나 협심증 환자·심근경색증이 최근에 있었다면 사용하지 않는 것이 좋다.\n니코틴 대체요법은 6~8주 사용한다.\n니코틴 패치를 사용하면 금연 성공률이 2배 이상 높아진다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2008년 무자년 새해, 온 가족 앞에서 금연을 선언한 나결심씨. 며칠간 잘 버티던 그가 힘겨움을 호소해 왔다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "바위 같은 굳은 맹세였지만 금단증세가 나타나면서 흔들리기 시작했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "의지만으로 끊기 어려운 것이 담배라는 것을 잘 알게 된 그에게 지금 당장 필요한 것은 무엇일까.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그것은 다름아닌 ‘니코틴’이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "니코틴 덩어리인 담배를 끊기로 했는데 무슨 말일까.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 니코틴을 담배가 아닌 다른 방법으로 공급해주면서 서서히 담배의 유혹에서 벗어나야 할 시점이 바로 지금이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "금연보조제로 널리 사용되는 ‘니코틴 패치’를 붙여야 한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "물론 니코틴 패치를 붙였다고 담배가 저절로 끊어지는 것은 아니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "니코틴 패치는 금연 의지가 있는 사람이 금단 증상으로 고생하지 않고 끊을 수 있게 도와주는 금연보조제일 뿐이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "담배를 끊은 상태에서 니코틴을 공급해주면 금단 증상이 줄어든다. 특히 니코틴 의존도(2007년 12월 18일자 건강섹션 기사 참조)가 3점 이상이거나 하루에 10개비 이상 피우는 흡연자, 또는 이전의 금연 시도에서 금단 증상이 심했던 사람에게 니코틴 패치는 매우 유용하다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "니코틴 패치는 병원이나 약국에서 구할 수 있고, 지역 보건소 등에서는 상담을 통해 무료 제공한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "니코틴 패치의 혈중 니코틴 농도는 담배를 피울 때에 비해 3분의 1에서 절반 정도에 그친다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "특히 발암물질인 타르와 일산화탄소가 없어 건강에도 해가 없다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "다만 패치를 붙인 뒤에는 담배를 피우지 않아야 한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "담배를 계속 피우면 혈중 니코틴 농도가 상승해 구토, 심한 두통은 물론 심혈관 이상 등을 유발할 수 있어 반드시 주의해야 한다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "니코틴 패치는 금연 날 아침부터 털 없는 부위에 매일 한 장씩 붙인다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "피부보호를 위해 한 곳에 연속으로 붙이는 것을 피한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "부작용으로 피부가 가렵거나 부을 수 있고 불면증, 속이 메슥거리는 증상이 나타날 수 있으나 심하지는 않다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "다만 임신부나 협심증 환자·심근경색증이 최근에 있었다면 사용하지 않는 것이 좋다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "니코틴 대체요법은 6~8주 사용한다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "니코틴 패치를 사용하면 금연 성공률이 2배 이상 높아진다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아찔한 중독… 금단 현상에는 니코틴 패치",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195780",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "메디시티대구협의회, 신임 차순도 회장 선임",
+    "newsSubTitle": "",
+    "newsContent": "메디시티대구협의회가 신임 회장으로 차순도(車淳道) 現 대구의료관광진흥원장을 선임하기로 의결했다.\n차 회장은 1953년 대구 출신으로 경북대학교 의학전공 학사, 병리학전공 석사를 거쳐, 충남대학교에서 병리학전공(산부인과학) 박사학위를 받고 계명대학교 동산의료원 교수로 임용됐다.\n임용 이후 계명대학교 동산의료원 교육연구부장, 부원장, 기획정보처장을 거쳐 15대, 16대 의료원장을 연임하였으며, 현재 대구의료관광진흥원장으로 역임 중에 있다.\n차 원장은 수 십 차례 병리학 연구성과를 바탕으로 대한부인종양콜포스코피학회 수상하였으며, 다수 국제규모학술지 논문수록으로 산부인과 명의로 정평이 나있다.\n특히 대구의료관광진흥원 원장을 역임하면서 대구의료관광 해외 인지도 제고 업적을 평가 받아 2014년 보건복지부 장관상을 수상했다.\n전국 최초로 문화체육관광부 의료관광클러스터 사업에 선정되는 등 의료산업에 대한 이해도와 전문성을 충분히 겸비한 것으로 평가받고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "메디시티대구협의회가 신임 회장으로 차순도(車淳道) 現 대구의료관광진흥원장을 선임하기로 의결했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "차 회장은 1953년 대구 출신으로 경북대학교 의학전공 학사, 병리학전공 석사를 거쳐, 충남대학교에서 병리학전공(산부인과학) 박사학위를 받고 계명대학교 동산의료원 교수로 임용됐다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "임용 이후 계명대학교 동산의료원 교육연구부장, 부원장, 기획정보처장을 거쳐 15대, 16대 의료원장을 연임하였으며, 현재 대구의료관광진흥원장으로 역임 중에 있다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "차 원장은 수 십 차례 병리학 연구성과를 바탕으로 대한부인종양콜포스코피학회 수상하였으며, 다수 국제규모학술지 논문수록으로 산부인과 명의로 정평이 나있다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 대구의료관광진흥원 원장을 역임하면서 대구의료관광 해외 인지도 제고 업적을 평가 받아 2014년 보건복지부 장관상을 수상했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전국 최초로 문화체육관광부 의료관광클러스터 사업에 선정되는 등 의료산업에 대한 이해도와 전문성을 충분히 겸비한 것으로 평가받고 있다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "메디시티 대구협의회, 신임 회장으로 차순도 現 대구 의료관광진흥원장을 선임한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196723",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "갑자기 살찐 여성, 우울증 앓기 쉽다",
+    "newsSubTitle": "고려대·가톨릭대 공동 연구팀 1만8000여명 조사 최근 1년 간 체중 변화 따른 우울증 유병률 분석 체중 증가, 유지보다 우울증 유병률 1.57배 높아 여성·40대 이상·비만이 아닌 경우 유병률 더 높아 \\\"체중변화는 정신 건강의 '신호' 관심 가져야\\\"",
+    "newsContent": "갑자기 살이 찐 사람은 몸무게를 유지하는 사람보다 우울증을 더 많이 앓는 것으로 나타났다.\n고려대 의대·가톨릭대 의대 공동 연구팀은 2010~2012년 국민건강영양조사에 참여한 성인 남녀 1만7813명을 대상으로 최근 1년간 체중 변화와 우울증 간의 연관성을 조사해 22일 결과를 발표했다.\n연구팀은 국민건강영양조사의 건강 설문을 통해 대상자를 체중증가·체중감소·변화 없음 등 3그룹으로 나눴다.\n우울증은 의사의 진단을 받은 경우만 분석 대상에 포함했다.\n조사 결과 최근 1년간 체중 변화가 없는 사람이 1만2036명으로 가장 많았고 체중 증가 3224명, 체중 감소 2553명 순이었다.\n상대적으로 19~59세는 체중이 늘어난 사람이 많았고 60세 이후는 체중이 줄어든 사람이 많았다.\n이를 토대로 연구팀은 나이·성별·흡연·음주·운동 여부 등 우울증과 관련된 요인을 보정한 뒤 체중 변화와 우울증 유병률의 관계를 분석했다.\n그 결과 체중이 증가한 그룹은 체중 변화가 없는 그룹보다 우울증 유병률이 1.57배 높았다.\n체중이 감소한 그룹은 체중 변화와 우울증 간의 관계가 명확히 나타나지 않았다.\n특히 체중이 증가한 그룹 중에서도 ▶여성 ▶40세 이상 ▶비만이 아닌 사람은 우울증 유병률이 더 높게 나타났다.\n연구팀은 \\\"여성의 경우 남성보다 체형에 관심이 많고, 체형이 변화에 따라 자존감도 떨어지기 쉽다\\\" 며 \\\"특히, 본래 비만이 아니었던 사람이 갑자기 살이 찌면 체형에 대한 불안감이 커지고, 비만에 대한 스트레스를 느껴 우울증의 위험을 높일 수 있다\\\"고 해석했다.\n연구에 참여한 고려대 안암병원 김양현 교수(가정의학과)는 \\\"이번 조사만으로 체중이 늘어 우울증이 생겼는지, 반대로 우울증 때문에 체중이 늘어났는지 여부는 명확히 알 수 없다\\\"면서도 \\\"단, 체중 변화가 우울증을 비롯해 정신 건강의 '신호'가 될 수 있다는 점은 분명하다. 갑자기 살이 쪘다면 자신의 내면을 한번 쯤 돌아봐야 한다\\\"고 조언했다.\n한편, 이번 연구는 대한가정의학회지 최신호에 실렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "갑자기 살이 찐 사람은 몸무게를 유지하는 사람보다 우울증을 더 많이 앓는 것으로 나타났다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "고려대 의대·가톨릭대 의대 공동 연구팀은 2010~2012년 국민건강영양조사에 참여한 성인 남녀 1만7813명을 대상으로 최근 1년간 체중 변화와 우울증 간의 연관성을 조사해 22일 결과를 발표했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구팀은 국민건강영양조사의 건강 설문을 통해 대상자를 체중증가·체중감소·변화 없음 등 3그룹으로 나눴다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "우울증은 의사의 진단을 받은 경우만 분석 대상에 포함했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "조사 결과 최근 1년간 체중 변화가 없는 사람이 1만2036명으로 가장 많았고 체중 증가 3224명, 체중 감소 2553명 순이었다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "상대적으로 19~59세는 체중이 늘어난 사람이 많았고 60세 이후는 체중이 줄어든 사람이 많았다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 토대로 연구팀은 나이·성별·흡연·음주·운동 여부 등 우울증과 관련된 요인을 보정한 뒤 체중 변화와 우울증 유병률의 관계를 분석했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그 결과 체중이 증가한 그룹은 체중 변화가 없는 그룹보다 우울증 유병률이 1.57배 높았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "체중이 감소한 그룹은 체중 변화와 우울증 간의 관계가 명확히 나타나지 않았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "특히 체중이 증가한 그룹 중에서도 ▶여성 ▶40세 이상 ▶비만이 아닌 사람은 우울증 유병률이 더 높게 나타났다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "연구팀은 \\\"여성의 경우 남성보다 체형에 관심이 많고, 체형이 변화에 따라 자존감도 떨어지기 쉽다\\\" 며 \\\"특히, 본래 비만이 아니었던 사람이 갑자기 살이 찌면 체형에 대한 불안감이 커지고, 비만에 대한 스트레스를 느껴 우울증의 위험을 높일 수 있다\\\"고 해석했다.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "연구에 참여한 고려대 안암병원 김양현 교수(가정의학과)는 \\\"이번 조사만으로 체중이 늘어 우울증이 생겼는지, 반대로 우울증 때문에 체중이 늘어났는지 여부는 명확히 알 수 없다\\\"면서도 \\\"단, 체중 변화가 우울증을 비롯해 정신 건강의 '신호'가 될 수 있다는 점은 분명하다. 갑자기 살이 쪘다면 자신의 내면을 한번 쯤 돌아봐야 한다\\\"고 조언했다.",
+        "sentenceSize": 194
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "한편, 이번 연구는 대한가정의학회지 최신호에 실렸다.",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "갑자기 살찐 여성, 우울증으로 자살하는 사건 속출",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

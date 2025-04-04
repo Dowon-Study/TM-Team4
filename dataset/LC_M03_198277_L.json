@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198277",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "과잉행동 증세 어린이 초등교 한 반에 1명꼴",
+    "newsSubTitle": "치료환자 3년간 3배로 늘어",
+    "newsContent": "초등학교 1학년인 이모(8)군은 또래 친구들과 싸움을 자주 한다.\n특히 여학생에게 짓궂게 굴어 선생님에게 자주 야단을 맞는다.\n수업시간에 갑자기 화장실을 간다고 밖으로 나가는 등 주의력도 산만하다.\n이런 증세는 유치원 다닐 때 나타났다.\n이군은 소아정신과에서 주의력 결핍.과잉행동장애(ADHD) 진단을 받고 약물 치료를 받았다.\n잠시 나아지는가 싶더니 초등학교 들어와 증세가 오히려 심해졌다.\n이군의 부모는 다시 병원에 가서 치료를 받아야 할지 고민 중이다.\n어린이와 청소년을 중심으로 이군과 같은 ADHD 환자가 크게 늘고 있는 것으로 나타났다.\n열린우리당 장복심 의원이 19일 건강보험심사평가원에서 받은 보험급여 청구현황 자료에 따르면 ADHD 치료를 받은 환자는 2002년 1만3373명에서 지난해 4만1662명으로 늘었다.\n치료약 보험청구금액도 2002년 5억693만원에서 2005년 44억3288만원으로 증가했다.\n최근 3년간 환자는 3.1배로, 치료약 청구금액은 8.7배로 규모가 커진 것이다.\n안동현 한양대 교수가 4개 초등학교 학생 3000여 명을 4년간 조사한 결과, 3.8%가 ADHD 환자인 것으로 조사됐다.\n초등학교 한 반에 한 명 정도가 환자인 셈이다.\n우리나라에서 최근 ADHD 환자가 급증하는 이유는 사회적 관심이 높아지면서 이제야 통계로 잡히고 있기 때문이라는 분석이 지배적이다.\n정철근 기자 ◆ ADHD(attention deficit hyperactivity disorder)=충동적이고 무절제한 과잉행동을 보이고, 집중력 부족으로 심한 학습장애를 보이는 질병으로 주로 소아와 청소년들에게서 나타난다.\n학습.자기통제 등을 관장하는 뇌 신경전달 물질에 이상이 있을 경우 유발되는 것으로 학계에 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "초등학교 1학년인 이모(8)군은 또래 친구들과 싸움을 자주 한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특히 여학생에게 짓궂게 굴어 선생님에게 자주 야단을 맞는다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "수업시간에 갑자기 화장실을 간다고 밖으로 나가는 등 주의력도 산만하다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이런 증세는 유치원 다닐 때 나타났다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이군은 소아정신과에서 주의력 결핍.과잉행동장애(ADHD) 진단을 받고 약물 치료를 받았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "잠시 나아지는가 싶더니 초등학교 들어와 증세가 오히려 심해졌다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이군의 부모는 다시 병원에 가서 치료를 받아야 할지 고민 중이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "어린이와 청소년을 중심으로 이군과 같은 ADHD 환자가 크게 늘고 있는 것으로 나타났다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "열린우리당 장복심 의원이 19일 건강보험심사평가원에서 받은 보험급여 청구현황 자료에 따르면 ADHD 치료를 받은 환자는 2002년 1만3373명에서 지난해 4만1662명으로 늘었다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "치료약 보험청구금액도 2002년 5억693만원에서 2005년 44억3288만원으로 증가했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "최근 3년간 환자는 3.1배로, 치료약 청구금액은 8.7배로 규모가 커진 것이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "안동현 한양대 교수가 4개 초등학교 학생 3000여 명을 4년간 조사한 결과, 3.8%가 ADHD 환자인 것으로 조사됐다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "초등학교 한 반에 한 명 정도가 환자인 셈이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "우리나라에서 최근 ADHD 환자가 급증하는 이유는 사회적 관심이 높아지면서 이제야 통계로 잡히고 있기 때문이라는 분석이 지배적이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "정철근 기자 ◆ ADHD(attention deficit hyperactivity disorder)=충동적이고 무절제한 과잉행동을 보이고, 집중력 부족으로 심한 학습장애를 보이는 질병으로 주로 소아와 청소년들에게서 나타난다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "학습.자기통제 등을 관장하는 뇌 신경전달 물질에 이상이 있을 경우 유발되는 것으로 학계에 알려졌다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "요즘 초등학교에서 '이 환자' 급증... 한 반에 한 명꼴?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

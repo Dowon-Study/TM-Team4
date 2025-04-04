@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193072",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스 신간 『식욕의 배신』외 1건",
+    "newsSubTitle": "",
+    "newsContent": "헬스 신간 ━ 『식욕의 배신』 김소울 지음 DSBOOKS 276쪽, 1만3000원 다이어트 실패의 원인을 심리학적으로 분석한 『식욕의 배신』이 발간됐다.\n휴가철을 앞두고 다이어트하려는 사람이 많다.\n운동·식이요법 등 다양한 방법으로 시도하지만 번번이 실패하기 일쑤다.\n저자는 다이어트 실패 요인이 ‘가짜 식욕’에 있다고 봤다.\n감정을 보상받고 스트레스를 회피하기 위해 의지와 상관없이 식욕이 발생한다는 것이다.\n자신의 모습을 인정하고 가치를 높이는 다이어트법을 소개한다.\n━ 『굿바이 과민대장증후군』 이진원 지음 바른북스 256쪽, 1만5000원 대장질환 치료·예방 안내서 『굿바이 과민대장증후군』이 출간됐다.\n한국인에게 과민성 대장증후군은 흔한 질병이다.\n한의사인 저자는 민간요법과 영양제, 통합의학적 치료법 등 질병과 관련한 모든 의학적 내용을 누구나 알기 쉽게 서술한다.\n일상생활에서 질병을 이겨내는 방법과 과민성 대장증후군에 대해 잘못 알려진 정보, 자가진단법은 물론 장 건강에 도움이 되는 식단 관리법까지 알려줘 실용성을 더했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "헬스 신간 ━ 『식욕의 배신』 김소울 지음 DSBOOKS 276쪽, 1만3000원 다이어트 실패의 원인을 심리학적으로 분석한 『식욕의 배신』이 발간됐다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "휴가철을 앞두고 다이어트하려는 사람이 많다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "운동·식이요법 등 다양한 방법으로 시도하지만 번번이 실패하기 일쑤다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "저자는 다이어트 실패 요인이 ‘가짜 식욕’에 있다고 봤다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "감정을 보상받고 스트레스를 회피하기 위해 의지와 상관없이 식욕이 발생한다는 것이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "자신의 모습을 인정하고 가치를 높이는 다이어트법을 소개한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "━ 『굿바이 과민대장증후군』 이진원 지음 바른북스 256쪽, 1만5000원 대장질환 치료·예방 안내서 『굿바이 과민대장증후군』이 출간됐다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한국인에게 과민성 대장증후군은 흔한 질병이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한의사인 저자는 민간요법과 영양제, 통합의학적 치료법 등 질병과 관련한 모든 의학적 내용을 누구나 알기 쉽게 서술한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "일상생활에서 질병을 이겨내는 방법과 과민성 대장증후군에 대해 잘못 알려진 정보, 자가진단법은 물론 장 건강에 도움이 되는 식단 관리법까지 알려줘 실용성을 더했다.",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "실패의 원인 심리학적으로 분석... 원인은 '가짜 식욕'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

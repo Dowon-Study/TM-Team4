@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196652",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스 신간 『COPD 완치혁명 100년』外 1건",
+    "newsSubTitle": "",
+    "newsContent": "『COPD 완치혁명 100년』 김남선 지음 상상나무, 240쪽 숨길이 망가지는 병 ‘만성 폐쇄성 폐 질환(COPD)’ 환자가 늘고 있다.\n악화하면 호흡곤란, 흉통이 심해지는 건 물론 사망할 위험이 커진다. 『COPD 완치혁명 100년』은 폐 건강에 도움되는 한방요법을 담았다.\n영동한의원 원장인 저자가 38년간 50만 명이 넘는 환자를 돌보며 얻은 COPD 치료 노하우를 풀어낸다.\n저자가 개발한 ‘한방 칵테일 복합요법’을 활용한 치료 사례를 소개한다. 『케토 다이어트』 리앤 보겔 지음 라이팅하우스, 430쪽 요즘 가장 떠오르는 체중 감량법은 ‘케토 다이어트’다.\n고지방·중단백질·저탄수화물 식사를 기본으로 한다.\n인체가 당분이 아닌 지방을 주연료로 사용하도록 몸을 변화시켜 체중을 감량한다. 『케토 다이어트』는 개인의 건강 상태와 식습관에 따라 유연하게 접근할 수 있는 케토 다이어트 비결을 제시한다.\n초심자가 따라 하기 쉽도록 다섯 가지 유형별 4주 식단 계획표와 125가지 레시피를 알려준다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "『COPD 완치혁명 100년』 김남선 지음 상상나무, 240쪽 숨길이 망가지는 병 ‘만성 폐쇄성 폐 질환(COPD)’ 환자가 늘고 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "악화하면 호흡곤란, 흉통이 심해지는 건 물론 사망할 위험이 커진다. 『COPD 완치혁명 100년』은 폐 건강에 도움되는 한방요법을 담았다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영동한의원 원장인 저자가 38년간 50만 명이 넘는 환자를 돌보며 얻은 COPD 치료 노하우를 풀어낸다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "저자가 개발한 ‘한방 칵테일 복합요법’을 활용한 치료 사례를 소개한다. 『케토 다이어트』 리앤 보겔 지음 라이팅하우스, 430쪽 요즘 가장 떠오르는 체중 감량법은 ‘케토 다이어트’다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "고지방·중단백질·저탄수화물 식사를 기본으로 한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "인체가 당분이 아닌 지방을 주연료로 사용하도록 몸을 변화시켜 체중을 감량한다. 『케토 다이어트』는 개인의 건강 상태와 식습관에 따라 유연하게 접근할 수 있는 케토 다이어트 비결을 제시한다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "초심자가 따라 하기 쉽도록 다섯 가지 유형별 4주 식단 계획표와 125가지 레시피를 알려준다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신간 'COPD 완치 혁명 100년', 숨이 안 쉬어지는 병 COPD 환자 대폭 늘어... 심하면 사망에 이르러",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

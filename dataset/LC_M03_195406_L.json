@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195406",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스 신간",
+    "newsSubTitle": "",
+    "newsContent": "『움직여라, 당신의 뇌가 젊어진다』 안데르스 한센 지음 반니 280쪽, 1만5000원 뇌 건강법을 소개한 『움직여라, 당신의 뇌가 젊어진다』가 발간됐다.\n현대인은 스트레스·불안장애에 시달린다.\n디지털 기기의 대중화로 몸은 편해졌지만 집중력·기억력 감소로 고민한다.\n정신과 의사인 저자는 몸과 뇌 건강이 밀접하게 연결돼 있다고 주장한다.\n운동은 뇌 속 호르몬 생성을 활성화해 스트레스·우울·불안·행복·창의성에 긍정적인 영향을 미친다.\n일상에서 신체 활동량 늘리는 법, 운동법을 안내한다. 『천연약』 이케다 아키코·학연플러스 편집부 지음 한문화 256쪽, 1만5000원 식물 영양소 활용법을 담은 『천연약』이 나왔다.\n식물은 그 자체로 천연 성분의 약이다.\n저자는 식물에 들어 있는 다양한 화학물질인 피토케미컬이 건강 증진에 도움이 된다고 말한다.\n감기, 알레르기, 피로, 두통, 위장 질환, 여성 질환 등 40여 개 증상을 130여 종의 식물로 완화하는 법을 제시한다.\n마시기, 먹기, 향 맡기, 목욕하기, 찜질하기 등 효과적인 식물별 활용 팁을 전수한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "『움직여라, 당신의 뇌가 젊어진다』 안데르스 한센 지음 반니 280쪽, 1만5000원 뇌 건강법을 소개한 『움직여라, 당신의 뇌가 젊어진다』가 발간됐다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "현대인은 스트레스·불안장애에 시달린다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "디지털 기기의 대중화로 몸은 편해졌지만 집중력·기억력 감소로 고민한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정신과 의사인 저자는 몸과 뇌 건강이 밀접하게 연결돼 있다고 주장한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "운동은 뇌 속 호르몬 생성을 활성화해 스트레스·우울·불안·행복·창의성에 긍정적인 영향을 미친다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일상에서 신체 활동량 늘리는 법, 운동법을 안내한다. 『천연약』 이케다 아키코·학연플러스 편집부 지음 한문화 256쪽, 1만5000원 식물 영양소 활용법을 담은 『천연약』이 나왔다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "식물은 그 자체로 천연 성분의 약이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "저자는 식물에 들어 있는 다양한 화학물질인 피토케미컬이 건강 증진에 도움이 된다고 말한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "감기, 알레르기, 피로, 두통, 위장 질환, 여성 질환 등 40여 개 증상을 130여 종의 식물로 완화하는 법을 제시한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "마시기, 먹기, 향 맡기, 목욕하기, 찜질하기 등 효과적인 식물별 활용 팁을 전수한다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "현대인의 뇌 건강, 신체 건강까지 아우르는 헬스 신간은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

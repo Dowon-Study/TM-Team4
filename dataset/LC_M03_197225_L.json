@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197225",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[FOCUS] '개인의 죽음'",
+    "newsSubTitle": "",
+    "newsContent": "\\\"용이한 감시를 위해 디자인된 상상 속의 개념인 원형 감옥(panopicon) 이란 더 이상 환상 속의 건물이 아니다. 그것은 권력이 작동하는 이상적인 형태다\\\" . 철학자 미셸 푸코의 이 말은 은유였다.\n프라이버시가 현대사회 속에서 어떻게 위협받고 있는가를 다룬 『개인의 죽음』의 저자는 푸코의 말이 오늘날 일상의 현실로 변해있음을 입증하고 있다.\n이때 권력이란 인터넷 등 정보기술의 발달이 포함된 '일상 속에 편재(偏在) 한 감시체계' 를 말한다.\n이처럼 이 책은 새로운 형태의 감시와 권력에 대한 구체적인 정보를 담고 있다.\n동시에 조지 오웰의 『1984년』과 20세기의 정보전 등까지 포괄한 인문서로서도 훌륭하다.\n결국 근대를 이끌었던 개인의 정체성을 어떻게 지킬 것인가가 이 책이 던지는 질문이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"용이한 감시를 위해 디자인된 상상 속의 개념인 원형 감옥(panopicon) 이란 더 이상 환상 속의 건물이 아니다. 그것은 권력이 작동하는 이상적인 형태다\\\" . 철학자 미셸 푸코의 이 말은 은유였다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "프라이버시가 현대사회 속에서 어떻게 위협받고 있는가를 다룬 『개인의 죽음』의 저자는 푸코의 말이 오늘날 일상의 현실로 변해있음을 입증하고 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이때 권력이란 인터넷 등 정보기술의 발달이 포함된 '일상 속에 편재(偏在) 한 감시체계' 를 말한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이처럼 이 책은 새로운 형태의 감시와 권력에 대한 구체적인 정보를 담고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "동시에 조지 오웰의 『1984년』과 20세기의 정보전 등까지 포괄한 인문서로서도 훌륭하다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "결국 근대를 이끌었던 개인의 정체성을 어떻게 지킬 것인가가 이 책이 던지는 질문이다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "프라이버시가 현대사회 속에서 어떻게 아찔한 위협을 받고 있는가를 다룬 '개인의 죽음'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

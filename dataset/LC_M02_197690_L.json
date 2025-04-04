@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197690",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "셀리턴, 지체장애인협회에 화장품 세트 전달…\\\"기부 문화 장려\\\"",
+    "newsSubTitle": "'뷰티풀 마인드 캠페인' 일환으로 지속적인 나눔 활동 펼쳐",
+    "newsContent": "뷰티&헬스케어 전문기업 셀리턴은 '뷰티풀 마인드 캠페인'의 일환으로 인천지체장애인협회 남동구지회에 화장품 3종 세트를 전달했다고 30일 밝혔다.\n지난29일 셀리턴은 사단법인 수와진의 사랑더하기 사무실을 방문해 앰플과 크림 등 세가지 제품으로 구성된 화장품 100 세트를 전달했다.\n셀리턴 관계자는 미디어SR에 \\\"코로나19로 인해 언택트 흐름이 계속되면서 더 큰 어려움을 겪었을 장애인 분들께 작은 위로가 되길 바라는 마음에 준비했다\\\"며 \\\"앞으로도 나눔을 필요로 하는 다양한 곳에 필요한 활동을 지속적으로 이어 나가겠다\\\"고 말했다.\n사단법인 수와진의 사랑더하기 단체는 몇 해 전부터 셀리턴과 함께 심장병 환우 및 불우이웃 돕기를 위한 활동을 함께 추진해온 곳이다.\n이번에 전달하는 물품은 인천시 남동구 내 지체장애인협회 등록 장애인 가구에 전달될 예정이다.\n셀리턴의 '뷰티풀 마인드 캠페인'은 사회에 선한 영향력을 주고 싶다는 기업의 이념을 담아 기부 문화를 장려하고 확대하기 위해 기획된 사회공헌 프로그램이다.\n한편, 셀리턴은 코로나 위기로 어려움을 겪고 있는 수혜처를 발굴해 기부 릴레이를 진행하고 있으며, 지난해에는 소비자들이 직접 기부 활동에 참여할 수 있는 구매 연계형 기부 프로프로그램을 진행한 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "뷰티&헬스케어 전문기업 셀리턴은 '뷰티풀 마인드 캠페인'의 일환으로 인천지체장애인협회 남동구지회에 화장품 3종 세트를 전달했다고 30일 밝혔다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난29일 셀리턴은 사단법인 수와진의 사랑더하기 사무실을 방문해 앰플과 크림 등 세가지 제품으로 구성된 화장품 100 세트를 전달했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "셀리턴 관계자는 미디어SR에 \\\"코로나19로 인해 언택트 흐름이 계속되면서 더 큰 어려움을 겪었을 장애인 분들께 작은 위로가 되길 바라는 마음에 준비했다\\\"며 \\\"앞으로도 나눔을 필요로 하는 다양한 곳에 필요한 활동을 지속적으로 이어 나가겠다\\\"고 말했다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사단법인 수와진의 사랑더하기 단체는 몇 해 전부터 셀리턴과 함께 심장병 환우 및 불우이웃 돕기를 위한 활동을 함께 추진해온 곳이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번에 전달하는 물품은 인천시 남동구 내 지체장애인협회 등록 장애인 가구에 전달될 예정이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "셀리턴의 '뷰티풀 마인드 캠페인'은 사회에 선한 영향력을 주고 싶다는 기업의 이념을 담아 기부 문화를 장려하고 확대하기 위해 기획된 사회공헌 프로그램이다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 셀리턴은 코로나 위기로 어려움을 겪고 있는 수혜처를 발굴해 기부 릴레이를 진행하고 있으며, 지난해에는 소비자들이 직접 기부 활동에 참여할 수 있는 구매 연계형 기부 프로프로그램을 진행한 바 있다.",
+        "sentenceSize": 113
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "셀리턴이 인천지체장애인협회에 화장품세트 전달한 사연은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

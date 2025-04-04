@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198774",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "마누라가 무섭니? 남자들 술자리 단골메뉴",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 80돌 아이(12) 작가노트 젊으나 늙으나 기혼 남자들에겐 무서운 사람이 꼭 한 사람 있습니다.\n바로 ‘아내’, ‘마누라‘란 이름의 여자입니다. 무슨 쓸데없는 얘기냐고 콧방귀를 뀌는 사람도 있겠지요. 하지만 그런 사람일수록 무서운 사람은 꼭 존재하고 있습니다. 거대한 미국의 대통령 ‘도널드 트럼프’도 자기 부인 ‘멜라니아’에겐 꼼짝달싹 못 하는 거 뉴스 영상에서 많이 보았지 않습니까? 원래 남자들이란 친구들과 술 한 잔 먹으며 ‘마누라’얘기가 나오면 저마다 “웃겼어! 마누라가 무섭다니? 내 앞에서 그런 문자 쓰지 마! 어림없다니까”라고 폼 잡으며 으스댄답니다.\n아내, 마누라분들. 그냥 예쁘게 봐주세요.\n집에서 꼼짝 못 하는 남편, 밖에서나‘기’팍팍 살려 으스대라고 하세요.\n남편들의‘스트레스’반전은 곧 가정생활의 활력소이잖아요.\n보세요.\n조금 전까지 밖에서 친구들 앞에서 펄펄 뛰던 남편, 집 현관문 열고 들어서자마자 슬금슬금 아내 눈치 보잖아요. ㅋㅋㅋ",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 80돌 아이(12) 작가노트 젊으나 늙으나 기혼 남자들에겐 무서운 사람이 꼭 한 사람 있습니다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "바로 ‘아내’, ‘마누라‘란 이름의 여자입니다. 무슨 쓸데없는 얘기냐고 콧방귀를 뀌는 사람도 있겠지요. 하지만 그런 사람일수록 무서운 사람은 꼭 존재하고 있습니다. 거대한 미국의 대통령 ‘도널드 트럼프’도 자기 부인 ‘멜라니아’에겐 꼼짝달싹 못 하는 거 뉴스 영상에서 많이 보았지 않습니까? 원래 남자들이란 친구들과 술 한 잔 먹으며 ‘마누라’얘기가 나오면 저마다 “웃겼어! 마누라가 무섭다니? 내 앞에서 그런 문자 쓰지 마! 어림없다니까”라고 폼 잡으며 으스댄답니다.",
+        "sentenceSize": 262
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아내, 마누라분들. 그냥 예쁘게 봐주세요.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "집에서 꼼짝 못 하는 남편, 밖에서나‘기’팍팍 살려 으스대라고 하세요.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "남편들의‘스트레스’반전은 곧 가정생활의 활력소이잖아요.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "보세요.",
+        "sentenceSize": 4
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "조금 전까지 밖에서 친구들 앞에서 펄펄 뛰던 남편, 집 현관문 열고 들어서자마자 슬금슬금 아내 눈치 보잖아요. ㅋㅋㅋ",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "늙으나 젊으나 한국이나 외국이나 남자들이 제일 무서워하는 '이 사람'은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

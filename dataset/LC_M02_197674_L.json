@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197674",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "경찰, 조작 논란 '프로듀스' 시리즈 참여 소속사 압수수색",
+    "newsSubTitle": "",
+    "newsContent": "경찰이 '프로듀스X101'에 이어 '프로듀스48'까지 압수수색을 벌이며 수사에 속도를 내고 있다.\n1일 경찰은 '프로듀스X101' 투표 조작 의혹과 관련해 오디션에 참여한 일부 기획사를 대상으로 압수수색을 실시했다.\n이날 수사의 대상이 된 건 울림·MBK·스타쉽엔터테인먼트 등 3개 회사다.\n오디션 참가자 중 순위 조작에 연루된 연습생은 아직 밝혀지진 않았다.\n경찰은 압수수색을 통해 컴퓨터 하드디스크 등을 확보, 순위 조작 개입 여부를 규명할 것으로 보인다.\n이에 대해 경찰은 미디어SR에 \\\"수사가 진행되는 부분에 대해서는 자세하게 상황을 밝히기가 어렵다\\\"며 말을 아꼈다.\n경찰은 '프로듀스X101'뿐만 아니라 Mnet이 방송한 오디션 프로그램 전반에 걸쳐 수사를 확대해가고 있다.\n해당 프로그램에 더해 '프로듀스48'에 참가한 일부 소속사에 대한 압수수색도 진행됐다는 전언이다.\n두 프로그램 모두 제작진이 결승 득표수에 손댄 정황이 포착된 것으로 알려졌다.\nMnet이 지난 2017년 방송한 '아이돌 학교' 역시 수사 대상이 됐다.\n경찰은 '아이돌 학교'에 대해서는 3차례에 걸친 압수수색을 진행한 상태다.\n투표 조작으로 인해 합격자가 뒤바뀐 게 아니냐는 의혹도 나오지만 Mnet 측은 조심스러운 입장만 전하는 상황이다.\nMnet 측은 미디어SR에 \\\"현재로서는 입장을 밝히기가 어렵다. 보도 내용을 확인하고 있는 상황\\\"이라고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "경찰이 '프로듀스X101'에 이어 '프로듀스48'까지 압수수색을 벌이며 수사에 속도를 내고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1일 경찰은 '프로듀스X101' 투표 조작 의혹과 관련해 오디션에 참여한 일부 기획사를 대상으로 압수수색을 실시했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 수사의 대상이 된 건 울림·MBK·스타쉽엔터테인먼트 등 3개 회사다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오디션 참가자 중 순위 조작에 연루된 연습생은 아직 밝혀지진 않았다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "경찰은 압수수색을 통해 컴퓨터 하드디스크 등을 확보, 순위 조작 개입 여부를 규명할 것으로 보인다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 대해 경찰은 미디어SR에 \\\"수사가 진행되는 부분에 대해서는 자세하게 상황을 밝히기가 어렵다\\\"며 말을 아꼈다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "경찰은 '프로듀스X101'뿐만 아니라 Mnet이 방송한 오디션 프로그램 전반에 걸쳐 수사를 확대해가고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "해당 프로그램에 더해 '프로듀스48'에 참가한 일부 소속사에 대한 압수수색도 진행됐다는 전언이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "두 프로그램 모두 제작진이 결승 득표수에 손댄 정황이 포착된 것으로 알려졌다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "Mnet이 지난 2017년 방송한 '아이돌 학교' 역시 수사 대상이 됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "경찰은 '아이돌 학교'에 대해서는 3차례에 걸친 압수수색을 진행한 상태다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "투표 조작으로 인해 합격자가 뒤바뀐 게 아니냐는 의혹도 나오지만 Mnet 측은 조심스러운 입장만 전하는 상황이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "Mnet 측은 미디어SR에 \\\"현재로서는 입장을 밝히기가 어렵다. 보도 내용을 확인하고 있는 상황\\\"이라고 설명했다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "Mnet 오디션 프로 연이은 부정 의혹에 경찰이 이 정도 수사까지?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

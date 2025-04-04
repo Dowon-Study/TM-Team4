@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195735",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "심평원, 예산 965억원 남았는데도 추가 요청",
+    "newsSubTitle": "김명연 의원 \\\"지급받은 건보재정 중 예산 집행률은 88%에 불과\\\"",
+    "newsContent": "건강보험심사평가원이 매년 확보한 예산이 남음에도 불구하고 건강보험으로부터 지급받는 예산을 오히려 해마다 늘리고 있는 것으로 드러났다.\n새누리당 김명연 의원(보건복지위원회)에 따르면 심평원의 지난해 이익잉여금은 965억원에 달했다.\n그러나 건강보험으로부터 지급받는 부담금은 전년도에 비해 두 배나 늘렸다.\n심평원은 건강보험재정에서 지급받는 부담금을 기반으로 기관을 운영한다.\n실제 2014년도 전체 수입 2104억원 중 84.3%인 2616억원은 건강보험재정에서 지급되는 부담금이었다.\n그러나 정작 심평원이 사용한 돈(예산 집행률)은 87.8%에 불과한 실정. 애초에 과도하게 많은 예산을 책정해 건강보험재정을 사용하고 있다는 게 김 의원의 비판이다.\n김 의원은 “국민의 건강을 위해 사용돼야 할 건강보험료가 일개 기관의 방만 경영에 사용돼선 안 된다”며 “적절한 금액을 산정하고 이를 복지부가 나서서 적극 관리·감독해야 한다”고 주문했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "건강보험심사평가원이 매년 확보한 예산이 남음에도 불구하고 건강보험으로부터 지급받는 예산을 오히려 해마다 늘리고 있는 것으로 드러났다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "새누리당 김명연 의원(보건복지위원회)에 따르면 심평원의 지난해 이익잉여금은 965억원에 달했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러나 건강보험으로부터 지급받는 부담금은 전년도에 비해 두 배나 늘렸다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "심평원은 건강보험재정에서 지급받는 부담금을 기반으로 기관을 운영한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "실제 2014년도 전체 수입 2104억원 중 84.3%인 2616억원은 건강보험재정에서 지급되는 부담금이었다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 정작 심평원이 사용한 돈(예산 집행률)은 87.8%에 불과한 실정. 애초에 과도하게 많은 예산을 책정해 건강보험재정을 사용하고 있다는 게 김 의원의 비판이다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김 의원은 “국민의 건강을 위해 사용돼야 할 건강보험료가 일개 기관의 방만 경영에 사용돼선 안 된다”며 “적절한 금액을 산정하고 이를 복지부가 나서서 적극 관리·감독해야 한다”고 주문했다.",
+        "sentenceSize": 105
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "심평원, 예산 남아도 해마다 예산 증액 요청해… 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

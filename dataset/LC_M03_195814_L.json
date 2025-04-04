@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195814",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "벌써 세 번째 고개 숙인 삼성서울병원장",
+    "newsSubTitle": "\\\"메르스 최다 발생…여러 번 사과해도 지나치지 않다\\\"",
+    "newsContent": "삼성서울병원 송재훈 원장이 메르스 사태와 관련 또 다시 고개를 숙였다.\n이번이 벌써 세 번째다.\n송 원장은 지난 23일 이재용 삼성전자 부회장이 그룹 차원의 공식 사과문을 발표한 이후 단상에 올라 대국민 사과를 했다.\n그는 “이미 두 차례 사과 했지만 여러 번 해도 지나치지 않다”며 “저희 병원에서 메르스 사태가 발생해 큰 걱정을 끼쳤고, 어떤 사과를 해도 지나치지 않다고 생각한다”고 말했다.\n이어 “메르스 환자가 가장 많이 발생한 병원으로서 책임감을 느낀다”며 “사태수습 후 외부 전문가를 포함한 병원 쇄신위원회를 만들어 이번 사태의 발생 원인에 대해 철저히 규명하고 위기관리 시스템을 전면적으로 개선하겠다”고 말했다.\n이에 앞서 송 원장은 정부가 환자 발생 병원이름을 공개한 7일, 응급실 이송요원(137번 환자)이 확진판정을 받은 14일에도 각각 대국민 사과와 함께 고개를 숙인 바 있다.\n첫 번째 사과의 경우 삼성서울병원에서 발생한 환자의 상태 및 대응책 등을 설명하는 데 중점을 뒀다.\n다만 책임소재에 대해선 다소 애매한 태도와 함께 억울하다는 인상을 줬다는 평가다.\n당시 송 원장은 “국매 첫 메르스 환자인 1번 환자를 최초로 진단, 잠복기 동안 2차 감염 없이 관리했다”며 “14번 환자의 경우 평택성모병원에 입원한 기록을 뒤늦게 정부로부터 받았다”고 해명했다.\n그러나 이어진 두 번째 사과에서는 ‘국민 여러분께 사죄드립니다’라는 사과문 제목에서 알 수 있듯 책임소재에서 한 발 물러선 모습을 보이기도 했다.\n첫 번째 사과 이후 일주일 동안 삼성서울병원에서 확진자가 쏟아진데다 국회 메르스 대책 특별위원회에서 ‘국가가 뚫린 것’이라는 병원 관계자의 발언으로 여론이 악화돼 있을 때였다.\n여기에 이송요원의 확진사실까지 알려지며 추가 확산 우려가 제기되기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "삼성서울병원 송재훈 원장이 메르스 사태와 관련 또 다시 고개를 숙였다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번이 벌써 세 번째다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "송 원장은 지난 23일 이재용 삼성전자 부회장이 그룹 차원의 공식 사과문을 발표한 이후 단상에 올라 대국민 사과를 했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 “이미 두 차례 사과 했지만 여러 번 해도 지나치지 않다”며 “저희 병원에서 메르스 사태가 발생해 큰 걱정을 끼쳤고, 어떤 사과를 해도 지나치지 않다고 생각한다”고 말했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “메르스 환자가 가장 많이 발생한 병원으로서 책임감을 느낀다”며 “사태수습 후 외부 전문가를 포함한 병원 쇄신위원회를 만들어 이번 사태의 발생 원인에 대해 철저히 규명하고 위기관리 시스템을 전면적으로 개선하겠다”고 말했다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 앞서 송 원장은 정부가 환자 발생 병원이름을 공개한 7일, 응급실 이송요원(137번 환자)이 확진판정을 받은 14일에도 각각 대국민 사과와 함께 고개를 숙인 바 있다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "첫 번째 사과의 경우 삼성서울병원에서 발생한 환자의 상태 및 대응책 등을 설명하는 데 중점을 뒀다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "다만 책임소재에 대해선 다소 애매한 태도와 함께 억울하다는 인상을 줬다는 평가다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "당시 송 원장은 “국매 첫 메르스 환자인 1번 환자를 최초로 진단, 잠복기 동안 2차 감염 없이 관리했다”며 “14번 환자의 경우 평택성모병원에 입원한 기록을 뒤늦게 정부로부터 받았다”고 해명했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그러나 이어진 두 번째 사과에서는 ‘국민 여러분께 사죄드립니다’라는 사과문 제목에서 알 수 있듯 책임소재에서 한 발 물러선 모습을 보이기도 했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "첫 번째 사과 이후 일주일 동안 삼성서울병원에서 확진자가 쏟아진데다 국회 메르스 대책 특별위원회에서 ‘국가가 뚫린 것’이라는 병원 관계자의 발언으로 여론이 악화돼 있을 때였다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "여기에 이송요원의 확진사실까지 알려지며 추가 확산 우려가 제기되기도 했다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "삼성서울병원장, 메르스 사태로 세 번째 대국민 사과… 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

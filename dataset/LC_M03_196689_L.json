@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196689",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "모처럼만의 웃음에 가슴 설렌 '마눌바보'",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 마눌님! 마눌님(23) 마눌이 웃었습니다.\n마눌이 웃은 게 뭐 그리 신기한 일이냐고 하겠지만 나한테는 참으로 오랜만에 보는 웃음이었습니다.\n내가 백수 되고도 한참을 그늘진 얼굴만 보았는데 오늘 어쩌다 본 마눌의 저 환한 웃음은 나로 하여금 가슴 설레게 했습니다.\n새까맣게만 물 들은 내 마음속에 이리저리 엉켜있었던 그 많은 수심이 신기하게도 한꺼번에 시원하게 풀어졌습니다. ‘그래그래, 당신은 웃어야 예쁘다니까. 그 예쁜 얼굴을 왜 찡그리고 살아?’ 혼잣말로 중얼거렸는데 마눌이 귀담아들었는가 봅니다.\n웃던 얼굴을 살짝 돌리더니 입을 삐죽이며 눈을 흘깁니다.\n아~! 옛 모습 그대로입니다.\n아직도 이놈의 삼식이는 영 밉지는 않은가 봅니다.\n나는 어쩔 수 없는 ‘마눌바보’입니다. ㅋ",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 마눌님! 마눌님(23) 마눌이 웃었습니다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "마눌이 웃은 게 뭐 그리 신기한 일이냐고 하겠지만 나한테는 참으로 오랜만에 보는 웃음이었습니다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "내가 백수 되고도 한참을 그늘진 얼굴만 보았는데 오늘 어쩌다 본 마눌의 저 환한 웃음은 나로 하여금 가슴 설레게 했습니다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "새까맣게만 물 들은 내 마음속에 이리저리 엉켜있었던 그 많은 수심이 신기하게도 한꺼번에 시원하게 풀어졌습니다. ‘그래그래, 당신은 웃어야 예쁘다니까. 그 예쁜 얼굴을 왜 찡그리고 살아?’ 혼잣말로 중얼거렸는데 마눌이 귀담아들었는가 봅니다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "웃던 얼굴을 살짝 돌리더니 입을 삐죽이며 눈을 흘깁니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아~! 옛 모습 그대로입니다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아직도 이놈의 삼식이는 영 밉지는 않은가 봅니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "나는 어쩔 수 없는 ‘마눌바보’입니다. ㅋ",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "10년 만에 웃음을 보인 아내... \"왈칵 눈물 쏟아져 하루종일 몸을 겨누지 못했다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

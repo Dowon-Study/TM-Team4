@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192906",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[이야기가있는욕실] ‘수납장 세면대’로 바꾸니 확 트여",
+    "newsSubTitle": "",
+    "newsContent": "우리 집 욕실 문을 열면 세면대와 거울이 보입니다.\n자주 청소를 해야 하죠.\n아무리 깨끗하게 관리해도 세면대 아래 배수관에 생기는 잦은 물때 때문에 청결한 느낌이 나지 않았습니다.\n물을 많이 쓰는 여름을 맞아, 일단 세면대만이라도 바꾸기로 했습니다.\n배수관이 보이지 않도록 수납장이 있는 세면대를 설치했어요.\n자질구레한 욕실 소품을 모두 정리할 수 있었지요.\n욕실이 훨씬 넓어 보여 대만족입니다.\n홍봉희(경기도 안양시 동안구 평안동) 중앙일보와 욕실전문업체 아메리칸 스탠다드가 ‘이야기가 있는 욕실’의 사연을 찾습니다.\n아메리칸 스탠다드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려주세요.\n매주 1명을 선정해 소개하며, 50만원 상당의 욕실 제품도 드립니다.\n1588-5903. Life&Style 섹션 '레인보우' 홈 가기 joins.com/rainbow ▶ Life ▶ Me ▶ J-Style ▶ Art ▶ week& ▶ Book",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우리 집 욕실 문을 열면 세면대와 거울이 보입니다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "자주 청소를 해야 하죠.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아무리 깨끗하게 관리해도 세면대 아래 배수관에 생기는 잦은 물때 때문에 청결한 느낌이 나지 않았습니다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "물을 많이 쓰는 여름을 맞아, 일단 세면대만이라도 바꾸기로 했습니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "배수관이 보이지 않도록 수납장이 있는 세면대를 설치했어요.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "자질구레한 욕실 소품을 모두 정리할 수 있었지요.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "욕실이 훨씬 넓어 보여 대만족입니다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "홍봉희(경기도 안양시 동안구 평안동) 중앙일보와 욕실전문업체 아메리칸 스탠다드가 ‘이야기가 있는 욕실’의 사연을 찾습니다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아메리칸 스탠다드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려주세요.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "매주 1명을 선정해 소개하며, 50만원 상당의 욕실 제품도 드립니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "1588-5903. Life&Style 섹션 '레인보우' 홈 가기 joins.com/rainbow ▶ Life ▶ Me ▶ J-Style ▶ Art ▶ week& ▶ Book",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "욕실 넓어 보이게 하려면 세면대를 바꿔라",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

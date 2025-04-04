@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196243",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "우유 한 잔으로 스트레스를 확!",
+    "newsSubTitle": "",
+    "newsContent": "우유 한 잔으로 스트레스를 낮출 수 있다는 연구결과가 나왔다.\n우유 속에 함유된 단백질과 락티움이 스트레스를 완화시키는 역할을 한다고 데일리매일 온라인판이 28일(현지시각) 보도했다.\n프랑스 과학자들은 갓난아기가 우유를 마시고 침착해졌다는 점에 착안, 20년간 스트레스와 우유의 상관관계를 연구했다.\n190명의 지원자들을 상대로 테스트한 결과 우유 속에 함유된 락티움이 뇌의 감각 기관에 활동하면서 불안과 스트레스를 조절한다는 것을 발견했다.\n특히 우유 단백질의 80%를 차지하는 ‘카세인’은 혈압을 낮추고 스트레스에 의해 분비되는 호르몬과 코르티솔의 생성을 억제시켜 줌으로서 만성스트레스로 인해 생길 수 있는 심장병, 우울증의 발병 예방을 돕는 것으로 나타났다.\n과학자들은 우유 속에 들은 락티움이나 카세인이 소화되면 제 효과를 발휘하기 힘들기 때문에 성인은 다량의 우유를 섭취해야 한다고 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우유 한 잔으로 스트레스를 낮출 수 있다는 연구결과가 나왔다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우유 속에 함유된 단백질과 락티움이 스트레스를 완화시키는 역할을 한다고 데일리매일 온라인판이 28일(현지시각) 보도했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "프랑스 과학자들은 갓난아기가 우유를 마시고 침착해졌다는 점에 착안, 20년간 스트레스와 우유의 상관관계를 연구했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "190명의 지원자들을 상대로 테스트한 결과 우유 속에 함유된 락티움이 뇌의 감각 기관에 활동하면서 불안과 스트레스를 조절한다는 것을 발견했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 우유 단백질의 80%를 차지하는 ‘카세인’은 혈압을 낮추고 스트레스에 의해 분비되는 호르몬과 코르티솔의 생성을 억제시켜 줌으로서 만성스트레스로 인해 생길 수 있는 심장병, 우울증의 발병 예방을 돕는 것으로 나타났다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "과학자들은 우유 속에 들은 락티움이나 카세인이 소화되면 제 효과를 발휘하기 힘들기 때문에 성인은 다량의 우유를 섭취해야 한다고 강조했다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "스트레스 완화, 우유 한 잔이면 해결된다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

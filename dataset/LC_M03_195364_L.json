@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195364",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스 신간 『킬러 스트레스』 외 1건",
+    "newsSubTitle": "",
+    "newsContent": "━ 『킬러 스트레스』 HK특별취재팀 지음 에디터 248쪽 스트레스는 그때그때 풀지 못하고 쌓이면 몸속에서 ‘킬러 스트레스’로 바뀌어 다양한 질병을 일으킨다.\n특히 돌연사·만성질환·정신질환 발병과 관련이 깊다. 『킬러 스트레스』는 스트레스가 어떻게 심신에 병을 일으키는지, 스트레스를 예방하고 해소하려면 어떤 방법이 가장 효과적인지 알기 쉽게 설명한다.\n스트레스를 푸는 데 효과가 증명된 ‘코핑’ ‘마인드풀니스’를 일상생활에서 실천하는 방법을 알려준다.\n━ 『GMO 논란의 암호를 풀다』 최낙언 지음 예문당 272쪽 유전자 재조합 식품(GMO)에 불안감을 호소하는 사람이 많다.\nGMO를 먹었을 때 뜻하지 않게 생길 수 있는 인체 부작용에 대한 우려다. 『GMO 논란의 암호를 풀다』는 GMO의 안전성을 평가한 다양한 연구결과를 제시해 GMO의 실체에 접근한다.\nGMO를 둘러싼 안전성 이슈를 과학적으로 설명하고 궁금증을 풀어준다.\n저자는 유전자 기술에 대한 편견에서 벗어나 진지한 성찰을 시작할 시점이라고 강조한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ 『킬러 스트레스』 HK특별취재팀 지음 에디터 248쪽 스트레스는 그때그때 풀지 못하고 쌓이면 몸속에서 ‘킬러 스트레스’로 바뀌어 다양한 질병을 일으킨다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특히 돌연사·만성질환·정신질환 발병과 관련이 깊다. 『킬러 스트레스』는 스트레스가 어떻게 심신에 병을 일으키는지, 스트레스를 예방하고 해소하려면 어떤 방법이 가장 효과적인지 알기 쉽게 설명한다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "스트레스를 푸는 데 효과가 증명된 ‘코핑’ ‘마인드풀니스’를 일상생활에서 실천하는 방법을 알려준다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "━ 『GMO 논란의 암호를 풀다』 최낙언 지음 예문당 272쪽 유전자 재조합 식품(GMO)에 불안감을 호소하는 사람이 많다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "GMO를 먹었을 때 뜻하지 않게 생길 수 있는 인체 부작용에 대한 우려다. 『GMO 논란의 암호를 풀다』는 GMO의 안전성을 평가한 다양한 연구결과를 제시해 GMO의 실체에 접근한다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "GMO를 둘러싼 안전성 이슈를 과학적으로 설명하고 궁금증을 풀어준다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "저자는 유전자 기술에 대한 편견에서 벗어나 진지한 성찰을 시작할 시점이라고 강조한다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "스트레스의 원인과 해소부터 GMO 알아보기까지... 건강 정보 가득한 책은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

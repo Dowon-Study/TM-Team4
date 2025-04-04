@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193321",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "종합병원급 실력 갖춘 전문병원 37곳 선정",
+    "newsSubTitle": "복지부, 진료 수가 혜택",
+    "newsContent": "우리들병원·미즈메디·김안과병원을 포함한 전국 37개 병원이 전문병원 시범사업 기관으로 선정됐다.\n보건복지가족부는 27일 6개 진료과목 4개 질환별 전문병원을 선정하고 다음달부터 2차 시범사업에 들어간다고 밝혔다.\n전문병원이란 중소 규모의 병원 중 산부인과·외과 등 특정 진료과목에서 종합병원급의 의료 서비스를 제공하는 기관을 말한다.\n심장질환·화상질환 등 특정 질환을 가진 환자는 전문병원에서 고난도의 치료를 받을 수 있다.\n복지부는 환자가 종합병원으로만 집중되는 의료의 불균형을 해소하기 위해 2005년부터 중소병원 중심의 전문병원제 도입을 검토해왔다.\n1차 시범사업은 21개 병원을 대상으로 올해 1월까지 실시됐다.\n2010년 5월까지 진행되는 2차 시범사업은 전문의 수, 병상 수, 진료실적, 의료 시설 등 보다 세분화된 기준을 적용해 37개 병원을 선정했다.\n선정된 병원은 ‘전문병원 시범 기관’이라는 명칭을 사용하게 되며 복지부가 전공의 수련병원을 지정하고 진료 수가를 정할 때 인센티브를 받는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우리들병원·미즈메디·김안과병원을 포함한 전국 37개 병원이 전문병원 시범사업 기관으로 선정됐다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보건복지가족부는 27일 6개 진료과목 4개 질환별 전문병원을 선정하고 다음달부터 2차 시범사업에 들어간다고 밝혔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "전문병원이란 중소 규모의 병원 중 산부인과·외과 등 특정 진료과목에서 종합병원급의 의료 서비스를 제공하는 기관을 말한다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "심장질환·화상질환 등 특정 질환을 가진 환자는 전문병원에서 고난도의 치료를 받을 수 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "복지부는 환자가 종합병원으로만 집중되는 의료의 불균형을 해소하기 위해 2005년부터 중소병원 중심의 전문병원제 도입을 검토해왔다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1차 시범사업은 21개 병원을 대상으로 올해 1월까지 실시됐다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2010년 5월까지 진행되는 2차 시범사업은 전문의 수, 병상 수, 진료실적, 의료 시설 등 보다 세분화된 기준을 적용해 37개 병원을 선정했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "선정된 병원은 ‘전문병원 시범 기관’이라는 명칭을 사용하게 되며 복지부가 전공의 수련병원을 지정하고 진료 수가를 정할 때 인센티브를 받는다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우리들병원·미즈메디·김안과병원 등 전문병원 시범사업 기관으로 선정 '클라스' 입증 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

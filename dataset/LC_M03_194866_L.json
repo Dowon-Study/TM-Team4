@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194866",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "남성우월주의에 대한 선전포고",
+    "newsSubTitle": "",
+    "newsContent": "소설가 양귀자의 대중 소설 '나는 소망한다. 내게 금지된 것을' 을 기억하시는지.\n그 작가가 웬일로 통속소설을 썼나 해서 더 화제가 된 이 작품은 페미니즘 입장에서 '개전의 정이 없는' 이 땅의 남성들에게 복수의 펀치 한 방을 날렸다.\n그것이 픽션의 백일몽이라고 젖혀두지 말 일이다.\n이번에는 유럽에서 핵펀치가 날아들었다. '복수한 다음에 인생을 즐기자' 는 유럽판 양귀자 소설이다.\n작가 에바 쉴러는 '유럽의 여성 독자들을 해방시켰다' 는 평가를 받고 있는 주인공. 10여년 전의 데뷔작 '다른 남자를 꿈꾸는 여자' 도 1백만부 이상 팔렸다.\n이번 신간 역시 '못된 남성' 을 단호하게 응징한다.\n출세를 위해 돈 많은 다른 여자를 찾아 떠난 옛 동거남 미하엘에게 처참한 복수를 하는 내용이다.\n예전 소설의 상당수는 성공을 위해 여자를 배신한 남자를 진부할 정도로 다뤘다.\n이제는 그런 '못된 행태' 와 남성우월주의에 대한 선전포고가 시작된 것일까?",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "소설가 양귀자의 대중 소설 '나는 소망한다. 내게 금지된 것을' 을 기억하시는지.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그 작가가 웬일로 통속소설을 썼나 해서 더 화제가 된 이 작품은 페미니즘 입장에서 '개전의 정이 없는' 이 땅의 남성들에게 복수의 펀치 한 방을 날렸다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그것이 픽션의 백일몽이라고 젖혀두지 말 일이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번에는 유럽에서 핵펀치가 날아들었다. '복수한 다음에 인생을 즐기자' 는 유럽판 양귀자 소설이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "작가 에바 쉴러는 '유럽의 여성 독자들을 해방시켰다' 는 평가를 받고 있는 주인공. 10여년 전의 데뷔작 '다른 남자를 꿈꾸는 여자' 도 1백만부 이상 팔렸다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 신간 역시 '못된 남성' 을 단호하게 응징한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "출세를 위해 돈 많은 다른 여자를 찾아 떠난 옛 동거남 미하엘에게 처참한 복수를 하는 내용이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "예전 소설의 상당수는 성공을 위해 여자를 배신한 남자를 진부할 정도로 다뤘다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이제는 그런 '못된 행태' 와 남성우월주의에 대한 선전포고가 시작된 것일까?",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유럽의 양귀자, 에바 쉴러 남성에게 핵펀치 날려… 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

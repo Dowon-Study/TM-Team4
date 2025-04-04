@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198667",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[지금 이 시각] 코로나 신규확진 이틀 연속 700명대, 105일만에 최다",
+    "newsSubTitle": "",
+    "newsContent": "코로나 19 확산 세가 거세다. 21일 신규 확진 735명으로 이틀 연속 700명대를 기록했고, 지난 1월 7일(869명) 이후 105일 만의 최다 수치다.\n최근 주말 검사 건수 감소 영향으로 주 초반까지 확진자 발생이 주춤하다가 중반부터 급증하는 패턴이 반복되고 있다.\n방역 당국의 추적이 어려운 각종 소모임을 통한 감염이 속출하고 있어 당분간 확진자 규모는 더 커질 가능성이 높다.\n정부는 상황이 악화할 경우 사회적 거리 두기 단계 격상이나 다중 이용시설의 영업시간 제한을 오후 10시에서 9시로 1시간 앞당기는 방안을 검토하고 있다.\n하지만 아직은 관리 가능한 수준이라며 추가 방역 조치에는 신중한 입장을 취하고 있다.\n22일 오전 서울역 앞에 마련된 임시선별검사소를 찾은 시민들이 검체 검사를 기다리고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "코로나 19 확산 세가 거세다. 21일 신규 확진 735명으로 이틀 연속 700명대를 기록했고, 지난 1월 7일(869명) 이후 105일 만의 최다 수치다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 주말 검사 건수 감소 영향으로 주 초반까지 확진자 발생이 주춤하다가 중반부터 급증하는 패턴이 반복되고 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "방역 당국의 추적이 어려운 각종 소모임을 통한 감염이 속출하고 있어 당분간 확진자 규모는 더 커질 가능성이 높다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정부는 상황이 악화할 경우 사회적 거리 두기 단계 격상이나 다중 이용시설의 영업시간 제한을 오후 10시에서 9시로 1시간 앞당기는 방안을 검토하고 있다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 아직은 관리 가능한 수준이라며 추가 방역 조치에는 신중한 입장을 취하고 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "22일 오전 서울역 앞에 마련된 임시선별검사소를 찾은 시민들이 검체 검사를 기다리고 있다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코로나 신규 확진 이틀 연속 700명대... 방역 당국 추적이 어려운 '이것' 통한 감염 속출",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

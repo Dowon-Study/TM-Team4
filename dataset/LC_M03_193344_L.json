@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193344",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "2007 중앙 시조 대상 심사평",
+    "newsSubTitle": "단아하면서 격정적인 고유의 필법 생생",
+    "newsContent": "올해 중앙시조대상 본심에는, 세 분 선고위원의 손을 거쳐 올라온 여러 중견 시인의 작품들이 부쳐졌다.\n등단 15년을 넘긴 명망 있는 시인들인지라, 시적 완결성과 품격에서 매우 안정적인 성취도를 보여주는 실례들로 가득 차 있었다.\n오랜 토론을 통해 심사위원들은 이승은 시인의 ‘복사꽃 그늘’을 대상작으로 선정했다.\n이승은 시인은 1979년 등단해 그동안 격조 있는 시상과 단아한 시 세계를 줄곧 보여주었고, 한편으로는 모던한 감각으로 현대시조에 요청되는 현대적 감각을 대담하게 보여주는 등 독자적인 시적 균형을 유지해왔다.\n특별히 심사위원들은 그의 많은 시편이 견지하는 균질성을 높이 평가했다.\n그 가운데 ‘복사꽃 그늘’은 격정과 내성을 동시에 보여주는 그의 필법을 유감없이 보여주고 있었다.\n심사위원들은 이 작품이 수상작으로 손색이 없다고 뜻을 모았다.\n신인상 부문은 경쟁이 심했다.\n등단 10년 미만의 시인들을 검토한 결과 심사위원은 우은숙 시인의 작품을 집중적으로 주목했다.\n특히 생활적 실감을 따스한 시선으로 풀어내어 단단한 시상을 보여주는 데 성공한 ‘따뜻한 하루’를 높이 평가했다.\n대상과 신인상 수상자가 더욱 활발한 시적 진경을 이루길 마음 깊이 부탁드린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "올해 중앙시조대상 본심에는, 세 분 선고위원의 손을 거쳐 올라온 여러 중견 시인의 작품들이 부쳐졌다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "등단 15년을 넘긴 명망 있는 시인들인지라, 시적 완결성과 품격에서 매우 안정적인 성취도를 보여주는 실례들로 가득 차 있었다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오랜 토론을 통해 심사위원들은 이승은 시인의 ‘복사꽃 그늘’을 대상작으로 선정했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이승은 시인은 1979년 등단해 그동안 격조 있는 시상과 단아한 시 세계를 줄곧 보여주었고, 한편으로는 모던한 감각으로 현대시조에 요청되는 현대적 감각을 대담하게 보여주는 등 독자적인 시적 균형을 유지해왔다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특별히 심사위원들은 그의 많은 시편이 견지하는 균질성을 높이 평가했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 가운데 ‘복사꽃 그늘’은 격정과 내성을 동시에 보여주는 그의 필법을 유감없이 보여주고 있었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "심사위원들은 이 작품이 수상작으로 손색이 없다고 뜻을 모았다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "신인상 부문은 경쟁이 심했다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "등단 10년 미만의 시인들을 검토한 결과 심사위원은 우은숙 시인의 작품을 집중적으로 주목했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "특히 생활적 실감을 따스한 시선으로 풀어내어 단단한 시상을 보여주는 데 성공한 ‘따뜻한 하루’를 높이 평가했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "대상과 신인상 수상자가 더욱 활발한 시적 진경을 이루길 마음 깊이 부탁드린다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'세젤멋' 이승은 시인의 ‘복사꽃 그늘’ 대상",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

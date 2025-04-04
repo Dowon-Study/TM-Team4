@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193722",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "전복구이 잘 만드는 법, 입맛 잡아주고 기력 회복에 좋아 '이것만 알면 OK'",
+    "newsSubTitle": "",
+    "newsContent": "여름철 입맛도 잡아주고 기력 회복에도 좋은 전복구이 잘 만드는 법이 화제다.\n전복은 비타민과 인, 아연 등이 풍부해 남성들 원기 회복에 좋고 노약자는 물론 성장기 어린이와 임산부에게 좋은 보양식으로 알려져 있다, 전복구이 잘 만드는 법으로는 먼저 전복은 조리용 솔로 문질러 깨끗이 씻은 뒤 껍데기에서 살을 떼어내 준비한다.\n또한 전복 내장을 떼어내고 사선으로 칼집을 낸다.\n그릇에 간장, 참기름, 마늘을 넣고 골고루 섞으며 양념장을 앞 뒤로 바르고 껍데기에 넣는다.\n달군 석쇠 위에 올려 노릇하게 구워가며 양념을 바르고 한입 크기로 썰면 된다.\n금강에서 잡은 싱싱한 메기를 지역 특산물인 인삼과 함께 끓여 맛 또한 훌륭하다.\n여기에 민물고기를 튀겨 초고추장 양념을 한 도리뱅뱅이까지 곁들여도 좋다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "여름철 입맛도 잡아주고 기력 회복에도 좋은 전복구이 잘 만드는 법이 화제다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "전복은 비타민과 인, 아연 등이 풍부해 남성들 원기 회복에 좋고 노약자는 물론 성장기 어린이와 임산부에게 좋은 보양식으로 알려져 있다, 전복구이 잘 만드는 법으로는 먼저 전복은 조리용 솔로 문질러 깨끗이 씻은 뒤 껍데기에서 살을 떼어내 준비한다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또한 전복 내장을 떼어내고 사선으로 칼집을 낸다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그릇에 간장, 참기름, 마늘을 넣고 골고루 섞으며 양념장을 앞 뒤로 바르고 껍데기에 넣는다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "달군 석쇠 위에 올려 노릇하게 구워가며 양념을 바르고 한입 크기로 썰면 된다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "금강에서 잡은 싱싱한 메기를 지역 특산물인 인삼과 함께 끓여 맛 또한 훌륭하다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여기에 민물고기를 튀겨 초고추장 양념을 한 도리뱅뱅이까지 곁들여도 좋다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "기력 회복·영양 만점 누구나 좋아하는 '최애' 전복구이, 잘 만드는 법 따로 있어 '화제'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

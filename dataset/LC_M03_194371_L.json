@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194371",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "‘한국고전번역원’ 공식 출범",
+    "newsSubTitle": "예산 지원 … 안정적 운영 기대",
+    "newsContent": "‘한국고전번역원’(이하 번역원·원장 박석무)이 4일 공식 출범했다(사진). 번역원은 그동안 국내 한문 고전 번역의 산실이었던 ‘민족문화추진회’(이하 민추)의 업무·재산·인력을 발전적으로 계승한다.\n이날 오전 11시 서울 세종문화회관 세종홀에서 조순 전 민추 회장과 서남수 교육인적자원부 차관, 유기홍 국회의원(대통합민주신당), 국사편찬위원회 유영렬 위원장 등 각계 인사가 참석한 가운데 개원식이 열렸다.\n이로써 1965년 창설된 ‘민추’는 42년만에 그 소임을 다하고 해체됐다.\n민추가 민간 법인이었던 반면, 번역원은 교육인적자원부 출연기관으로 위상이 크게 강화됐다.\n박석무 초대 번역원장은 “한문고전 번역의 새 시대를 열어갈 번역원이 이제라도 정부출연기관으로 출범하게 된 것을 다행스럽게 생각한다”며 “보다 체계적이고 종합적인 번역을 추진함으로써 한국학 연구의 기초를 더욱 튼튼하게 구축해 나갈 것”이라고 다짐했다.\n조순 전 민추 회장은 축사를 통해 “번역원이 민추의 과거 일을 그대로 승계한다는 생각만으로는 안되며 새로운 것을 계발하고 적극 개척하고, 나아가 번역의 후계 세대 양성에도 더욱 힘써줄 것”을 당부했다.\n번역원 전신인 민추는 ‘조선왕조실록’ ‘승정원일기’ 를 번역하고 각종 문집류를 정리하는 등 주목할만한 업적을 냈으나, 1년 단위로 정부 보조금을 타서 운영했기 때문에 체계적인 계획을 세울 수 없었다는 불만이 쌓여 왔다.\n번역원은 국가 예산의 지원을 안정적으로 받게됨으로써 민추의 구조적 한계를 극복할 수 있게 됐다.\n고전 번역에 뜻을 둔 인재들이 더 많이 번역원의 문을 두드릴 것으로도 기대되고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘한국고전번역원’(이하 번역원·원장 박석무)이 4일 공식 출범했다(사진). 번역원은 그동안 국내 한문 고전 번역의 산실이었던 ‘민족문화추진회’(이하 민추)의 업무·재산·인력을 발전적으로 계승한다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 오전 11시 서울 세종문화회관 세종홀에서 조순 전 민추 회장과 서남수 교육인적자원부 차관, 유기홍 국회의원(대통합민주신당), 국사편찬위원회 유영렬 위원장 등 각계 인사가 참석한 가운데 개원식이 열렸다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이로써 1965년 창설된 ‘민추’는 42년만에 그 소임을 다하고 해체됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "민추가 민간 법인이었던 반면, 번역원은 교육인적자원부 출연기관으로 위상이 크게 강화됐다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박석무 초대 번역원장은 “한문고전 번역의 새 시대를 열어갈 번역원이 이제라도 정부출연기관으로 출범하게 된 것을 다행스럽게 생각한다”며 “보다 체계적이고 종합적인 번역을 추진함으로써 한국학 연구의 기초를 더욱 튼튼하게 구축해 나갈 것”이라고 다짐했다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "조순 전 민추 회장은 축사를 통해 “번역원이 민추의 과거 일을 그대로 승계한다는 생각만으로는 안되며 새로운 것을 계발하고 적극 개척하고, 나아가 번역의 후계 세대 양성에도 더욱 힘써줄 것”을 당부했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "번역원 전신인 민추는 ‘조선왕조실록’ ‘승정원일기’ 를 번역하고 각종 문집류를 정리하는 등 주목할만한 업적을 냈으나, 1년 단위로 정부 보조금을 타서 운영했기 때문에 체계적인 계획을 세울 수 없었다는 불만이 쌓여 왔다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "번역원은 국가 예산의 지원을 안정적으로 받게됨으로써 민추의 구조적 한계를 극복할 수 있게 됐다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "고전 번역에 뜻을 둔 인재들이 더 많이 번역원의 문을 두드릴 것으로도 기대되고 있다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘한국고전번역원’ 공식 출범, 기대되는 효과는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

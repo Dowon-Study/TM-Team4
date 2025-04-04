@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198384",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/꿈나무]신선을 놀래키는 방법이 뭐냐 하면…",
+    "newsSubTitle": "",
+    "newsContent": "검은 섬의 전설 한창훈 글, 한주연 그림, 사계절출판사 148쪽, 8500원 \\\"아빠는 왜 동화책 안써?\\\"란 초등학교 5학년 짜리 딸의 채근을 받고 소설가 한창훈이 내놓은 첫 동화집이다.\n그동안 '바다가 아름다운 이유' '홍합' 등 바다와 섬 사람들의 이야기를 내놨던 작가는 이번에도 섬을 소재로 삼았다.\n자신의 고향 거문도에서 전해 내려오는 전설 일곱 편을 엮었다.\n마치 딸에게 직접 들려주듯 '~이지''~이야' 등의 구어체로 풀어내린 구수하고 맛깔스런 글솜씨가 읽는 재미를 더한다.\n어머니를 살리려고 고래고래 고함을 질러 신선들을 놀라게 한 풍개의 효성을 그린 '신선바위와 삼백냥굴', 용의 도움으로 고래를 타게 된 키 작은 딱지의 이야기 '고래딱지', 밥 많이 먹는다고 구박을 받다 맨손으로 왜구들을 무찔러 마을을 구한 청년 '오돌이' 이야기 등에는 주인공들의 용기와 배짱이 가득하다.\n또 까마귀를 친구처럼 대하다 까마귀에게 도움을 받는 '효자 박윤하'나 배에 숨어든 쥐에게 자기 밥을 나눠주는 '화장 영감' 등은 자연과 조화롭게 살아가는 삶의 미덕을 전하고 있다.\n거문도의 독특한 분위기를 프레스코 기법(회반죽 벽이 마르기 전 가루물감을 녹여 그린 벽화)으로 신비롭게 살린 삽화도 눈길을 끈다.\n삽화를 그린 한주연은 작가의 친동생이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "검은 섬의 전설 한창훈 글, 한주연 그림, 사계절출판사 148쪽, 8500원 \\\"아빠는 왜 동화책 안써?\\\"란 초등학교 5학년 짜리 딸의 채근을 받고 소설가 한창훈이 내놓은 첫 동화집이다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그동안 '바다가 아름다운 이유' '홍합' 등 바다와 섬 사람들의 이야기를 내놨던 작가는 이번에도 섬을 소재로 삼았다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "자신의 고향 거문도에서 전해 내려오는 전설 일곱 편을 엮었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "마치 딸에게 직접 들려주듯 '~이지''~이야' 등의 구어체로 풀어내린 구수하고 맛깔스런 글솜씨가 읽는 재미를 더한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "어머니를 살리려고 고래고래 고함을 질러 신선들을 놀라게 한 풍개의 효성을 그린 '신선바위와 삼백냥굴', 용의 도움으로 고래를 타게 된 키 작은 딱지의 이야기 '고래딱지', 밥 많이 먹는다고 구박을 받다 맨손으로 왜구들을 무찔러 마을을 구한 청년 '오돌이' 이야기 등에는 주인공들의 용기와 배짱이 가득하다.",
+        "sentenceSize": 170
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 까마귀를 친구처럼 대하다 까마귀에게 도움을 받는 '효자 박윤하'나 배에 숨어든 쥐에게 자기 밥을 나눠주는 '화장 영감' 등은 자연과 조화롭게 살아가는 삶의 미덕을 전하고 있다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "거문도의 독특한 분위기를 프레스코 기법(회반죽 벽이 마르기 전 가루물감을 녹여 그린 벽화)으로 신비롭게 살린 삽화도 눈길을 끈다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "삽화를 그린 한주연은 작가의 친동생이다.",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이것'만 있으면 신선을 놀래키는 건 식은 죽 먹기? 거문도 전설 파헤쳐보니...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

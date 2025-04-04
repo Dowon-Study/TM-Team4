@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193137",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "백수오 파동 문제는 결국 종자 탓?",
+    "newsSubTitle": "충북 백수오 재배 농가 10%에서 이엽우피소 발견돼",
+    "newsContent": "[배지영 기자의 식품X파일] 백수오 파동 문제는 결국 종자 문제인 것으로 보입니다.\n얼마 전 충북도 농업기술원이 백수오 재배 실태 조사를 했는데, 적은 수이긴하지만 이엽우피소가 발견됐습니다.\n충북도 농업기술원은 백수오가 진품임을 보증하는 ‘사실확인증’ 발급을 위해 도내 183개 백수오 농가에 대해 백수오 재배 실태 조사를 실시했다고 합니다.\n충북도는 국내 백수오 생산량의 60%를 차지하고 있는 곳입니다.\n그런데 그 결과, 전체 백수오 재배 면적 140㏊(564필지) 중 92.4㏊(372필지)가 양호한 것으로 나타났지만 14.3㏊(58필지)에서는 한 필지당 1~2포기씩의 이엽우피소가 발견됐습니다.\n20.9㏊(84필지)는 백수오가 5개월 미만이어서 육안으로 식별할 수 없는 상태였고 나머지 12.4㏊(50필지)는 백수오를 재배하지 않은 것으로 조사됐습니다.\n어떻게 된 일일까요.\n충북도 농업기술원은 이엽우피소가 발견된 것에 대해 농가가 시중에서 구입한 백수오 종자에 이엽우피소 씨앗이 섞였을 것 가능성이 큰 것으로 추측하고 있습니다.\n또 이엽우피소 씨앗이 바람에 날려 왔을 가능성도 배제하지 않고 있다고 합니다.\n농가에서 믿고 사온 종자에 이엽우피소 씨앗이 섞여있었으므로 결국 농가도, 내추럴앤도텍도, 홈소핑도 약간은 억울한 심정이겠지요.\n물론 이엽우피소 혼입 여부 확인을 못한 제조사의 도의적 책임을 피할 수는 없겠지만 말입니다.\n그래서 충북도에서는 종자에 대한 관리를 시작할 것으로 보입니다.\n도 관계자는 \\\"백수오 소비자의 신뢰 회복을 위해 제천에 종묘 보급센터 건립을 추진하고 있다\\\"며 \\\"이 센터가 본격적으로 가동되면 백수오 종자에 이엽우피소 종자가 섞이지 않을 것\\\"이라고 설명했습니다.\n한편 제천에서는 이번 백수오 사건의 대책 마련으로 종자 은행 및 종자 보급 센터 건립을 추진계획 중이라고 합니다.\n올해 생산되는 백수오에 대해 1억7300만원의 사업비를 들여 GAP인증을 할 계획이라고 하네요.\n충북도의 행보는 바람직해 보입니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[배지영 기자의 식품X파일] 백수오 파동 문제는 결국 종자 문제인 것으로 보입니다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "얼마 전 충북도 농업기술원이 백수오 재배 실태 조사를 했는데, 적은 수이긴하지만 이엽우피소가 발견됐습니다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "충북도 농업기술원은 백수오가 진품임을 보증하는 ‘사실확인증’ 발급을 위해 도내 183개 백수오 농가에 대해 백수오 재배 실태 조사를 실시했다고 합니다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "충북도는 국내 백수오 생산량의 60%를 차지하고 있는 곳입니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그런데 그 결과, 전체 백수오 재배 면적 140㏊(564필지) 중 92.4㏊(372필지)가 양호한 것으로 나타났지만 14.3㏊(58필지)에서는 한 필지당 1~2포기씩의 이엽우피소가 발견됐습니다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "20.9㏊(84필지)는 백수오가 5개월 미만이어서 육안으로 식별할 수 없는 상태였고 나머지 12.4㏊(50필지)는 백수오를 재배하지 않은 것으로 조사됐습니다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "어떻게 된 일일까요.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "충북도 농업기술원은 이엽우피소가 발견된 것에 대해 농가가 시중에서 구입한 백수오 종자에 이엽우피소 씨앗이 섞였을 것 가능성이 큰 것으로 추측하고 있습니다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 이엽우피소 씨앗이 바람에 날려 왔을 가능성도 배제하지 않고 있다고 합니다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "농가에서 믿고 사온 종자에 이엽우피소 씨앗이 섞여있었으므로 결국 농가도, 내추럴앤도텍도, 홈소핑도 약간은 억울한 심정이겠지요.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "물론 이엽우피소 혼입 여부 확인을 못한 제조사의 도의적 책임을 피할 수는 없겠지만 말입니다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그래서 충북도에서는 종자에 대한 관리를 시작할 것으로 보입니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "도 관계자는 \\\"백수오 소비자의 신뢰 회복을 위해 제천에 종묘 보급센터 건립을 추진하고 있다\\\"며 \\\"이 센터가 본격적으로 가동되면 백수오 종자에 이엽우피소 종자가 섞이지 않을 것\\\"이라고 설명했습니다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "한편 제천에서는 이번 백수오 사건의 대책 마련으로 종자 은행 및 종자 보급 센터 건립을 추진계획 중이라고 합니다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "올해 생산되는 백수오에 대해 1억7300만원의 사업비를 들여 GAP인증을 할 계획이라고 하네요.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "충북도의 행보는 바람직해 보입니다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소비자 신뢰 잃은 충북도, 뒤늦게 후속 조치",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

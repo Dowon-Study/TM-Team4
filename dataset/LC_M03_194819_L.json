@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194819",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "침묵 털고 일어서는 침목",
+    "newsSubTitle": "",
+    "newsContent": "조각가 정현(45)씨. 인체를 줄기차게 형상화해온 작가. 1992년 제1회 개인전에서 98년 제4회까지 사람의 몸을 예술로 더듬었다.\n그의 다섯번째 개인전은 6월 5일부터 24일까지 마련된다.\n장소는 서울 사간동금호미술관. 작가의 인체 탐색은 이번 전시에서도 여전하다.\n모든 작품은 인간을 떠나 존재할 수 없다는 게 그의 예술관이다.\n출품작의 재료는 나무. 그것도 보통 나무가 아니라 침목이다.\n기차 철길의 레일아래에 깔린 바로 그 나무를 택했다.\n정씨는 이 침목을 쪼개고 깎아서 인체로 다시탄생시켰다.\n그가 침목에 눈길을 주는 이유는 뭘까.\n콜타르를 뒤집어쓴 침목은 레일을 말없이 받쳐 주며 수십년을 견뎌낸다.\n철마가 지날 때마다 눌려오는 엄청난 압력. 그의침묵과 인고가 있기에 기차는 굴러간다.\n그러나 사람들은 그 고마움을 잘 모른다.\n비바람을 이기며 기차의 순탄한 운행을 도와 주는 침목. 작가는 이를 묵묵히 역사의 수레바퀴를 굴려 온 민중에 비유한다.\n억압받으면서도 강인함을 잃지 않는 생명의 근본에 주목하는 것. 발상 자체가 무척 싱그럽다.\n정씨는 침목의 오랜 침묵을 깨뜨려 주고자 한다.\n형상은 사람의 모습. 그는 침목을 새롭게 조형화함으로써 새 생명을 불어넣고 있다.\n침목은 매우 단단하다.\n그래서 작업하는 데 상당한 힘이 든다.\n그는 이를 잘라내고 다시 엮어 특유의 목소리를 부여한다.\n등이 바로 그렇다.\n이들 형상에서 침목을 연상하기란 쉽지 않다.\n작품재료가 침목이라는 얘기를 듣고 나서야 고개가 끄덕여진다.\n작가는 인체는 생명이 사는 그릇이라고 생각한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "조각가 정현(45)씨. 인체를 줄기차게 형상화해온 작가. 1992년 제1회 개인전에서 98년 제4회까지 사람의 몸을 예술로 더듬었다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그의 다섯번째 개인전은 6월 5일부터 24일까지 마련된다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "장소는 서울 사간동금호미술관. 작가의 인체 탐색은 이번 전시에서도 여전하다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "모든 작품은 인간을 떠나 존재할 수 없다는 게 그의 예술관이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "출품작의 재료는 나무. 그것도 보통 나무가 아니라 침목이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "기차 철길의 레일아래에 깔린 바로 그 나무를 택했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "정씨는 이 침목을 쪼개고 깎아서 인체로 다시탄생시켰다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그가 침목에 눈길을 주는 이유는 뭘까.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "콜타르를 뒤집어쓴 침목은 레일을 말없이 받쳐 주며 수십년을 견뎌낸다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "철마가 지날 때마다 눌려오는 엄청난 압력. 그의침묵과 인고가 있기에 기차는 굴러간다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그러나 사람들은 그 고마움을 잘 모른다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "비바람을 이기며 기차의 순탄한 운행을 도와 주는 침목. 작가는 이를 묵묵히 역사의 수레바퀴를 굴려 온 민중에 비유한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "억압받으면서도 강인함을 잃지 않는 생명의 근본에 주목하는 것. 발상 자체가 무척 싱그럽다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "정씨는 침목의 오랜 침묵을 깨뜨려 주고자 한다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "형상은 사람의 모습. 그는 침목을 새롭게 조형화함으로써 새 생명을 불어넣고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "침목은 매우 단단하다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "그래서 작업하는 데 상당한 힘이 든다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "그는 이를 잘라내고 다시 엮어 특유의 목소리를 부여한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "등이 바로 그렇다.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "이들 형상에서 침목을 연상하기란 쉽지 않다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "작품재료가 침목이라는 얘기를 듣고 나서야 고개가 끄덕여진다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "작가는 인체는 생명이 사는 그릇이라고 생각한다.",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정현의 인체 탐색, 사람의 몸을 더듬다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

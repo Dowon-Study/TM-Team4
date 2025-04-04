@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194517",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "[week&기자콩밥시식기] 재소자 식단 영양가 분석해 보니 …",
+    "newsSubTitle": "저지방 건강식 평균 열량 2600 ~ 2800㎉ 칼슘·비타민 기준치 이상",
+    "newsContent": "천안 개방교도소에서 매달 열리는 급식관리위원회의 모습. 교도소장·교정공무원·외부 음식전문가는 물론 재소자 대표까지 한자리에 모여 재소자 식단의 개선점 등을 논의한다.\n보리밥에 따뜻한 국과 반찬 한두 가지로 구성된 재소자 식단. 겉보기엔 빈약하기 그지없어 보여도 속 내용은 실속 그 자체다.\n하루 평균 섭취열량은 2600~2800㎉. 한국인 섭취기준(2600㎉)을 살짝 웃도는 수준이다.\n그 안에는 당질 500g, 지방 45g, 단백질 100g 정도로 당질.지방.단백질의 비율이 71%: 14%: 15%에 이른다.\n이는 한국인의 3대 영양소 열량 섭취기준 구성비(당질:지방:단백질=55~70%:15~25%:10~20%)와 비교해 볼 때 단백질은 비슷하게 섭취하면서 지방은 낮은 수준이다.\n고기 위주의 고지방.고칼로리 식단으로 상징되는 현대인의 식단과는 정반대인 저지방 건강식단으로 분석할 수 있다.\n게다가 인체의 뼈나 혈액을 구성하는 중요 영양성분인 무기질과 비타민류의 섭취에도 문제가 없는 균형 잡힌 식단이다.\n특히 뼈의 건강을 좌우하는 무기질 영양소인 칼슘의 경우 1000㎎(섭취기준 700~1000㎎)으로 한국인 섭취기준을 넘어서고 있다.\n비타민의 경우엔 과잉 독성의 우려가 있는 비타민 A는 710RE(섭취기준 750RE)로 기준치를 밑돌고 있으나, 과잉 독성 우려가 없는 수용성 비타민들은 전반적으로 기준치를 넘어서고 있다.\n구체적으로 비타민 B1은 2.9㎎(기준치 1.2㎎), 비타민 B2는 1.7㎎(기준치 1.2㎎), 비타민 C는 187㎎(기준치 100㎎). 별도의 영양보충제가 필요 없을 정도로 훌륭한 식단이다.\n이처럼 균형 잡힌 식단을 제공받는 만큼 건강한 몸으로 사회로 다시 돌아와 건전하고 올바른 생활을 해주었으면 하는 바람이다.\n정혜경 교수 (호서대 식품영양학과)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "천안 개방교도소에서 매달 열리는 급식관리위원회의 모습. 교도소장·교정공무원·외부 음식전문가는 물론 재소자 대표까지 한자리에 모여 재소자 식단의 개선점 등을 논의한다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보리밥에 따뜻한 국과 반찬 한두 가지로 구성된 재소자 식단. 겉보기엔 빈약하기 그지없어 보여도 속 내용은 실속 그 자체다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하루 평균 섭취열량은 2600~2800㎉. 한국인 섭취기준(2600㎉)을 살짝 웃도는 수준이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 안에는 당질 500g, 지방 45g, 단백질 100g 정도로 당질.지방.단백질의 비율이 71%: 14%: 15%에 이른다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이는 한국인의 3대 영양소 열량 섭취기준 구성비(당질:지방:단백질=55~70%:15~25%:10~20%)와 비교해 볼 때 단백질은 비슷하게 섭취하면서 지방은 낮은 수준이다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "고기 위주의 고지방.고칼로리 식단으로 상징되는 현대인의 식단과는 정반대인 저지방 건강식단으로 분석할 수 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "게다가 인체의 뼈나 혈액을 구성하는 중요 영양성분인 무기질과 비타민류의 섭취에도 문제가 없는 균형 잡힌 식단이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히 뼈의 건강을 좌우하는 무기질 영양소인 칼슘의 경우 1000㎎(섭취기준 700~1000㎎)으로 한국인 섭취기준을 넘어서고 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "비타민의 경우엔 과잉 독성의 우려가 있는 비타민 A는 710RE(섭취기준 750RE)로 기준치를 밑돌고 있으나, 과잉 독성 우려가 없는 수용성 비타민들은 전반적으로 기준치를 넘어서고 있다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "구체적으로 비타민 B1은 2.9㎎(기준치 1.2㎎), 비타민 B2는 1.7㎎(기준치 1.2㎎), 비타민 C는 187㎎(기준치 100㎎). 별도의 영양보충제가 필요 없을 정도로 훌륭한 식단이다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이처럼 균형 잡힌 식단을 제공받는 만큼 건강한 몸으로 사회로 다시 돌아와 건전하고 올바른 생활을 해주었으면 하는 바람이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "정혜경 교수 (호서대 식품영양학과)",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "빈약해 보이는 재소자 식단, 영양가는 과연?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194761",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "쉬운 번역· 그림 넣은 어린이 성경 나왔다",
+    "newsSubTitle": "",
+    "newsContent": "성경 전문 출판사인 ㈜아가페(www.iagape.co.kr)가 국내 최초로 어린이 눈높이에 맞춘 '쉬운성경'을 출간했다.\n이 책은 김의원 총신대 총장 등 10명의 복음주의 신학자들이 지난 8년간 원문과 직접 대조해 번역하고 현직 초등학교 교사 4명의 교열 및 서울교대 정길남 교수의 감수를 받았다.\n지금까지 나온 성경은 어른 중심이고 그나마 고어가 많아 어린이들이 읽고 이해하는데 많은 어려움이 있었다.\n이 책은 기존의 성경과 똑같은 쪽수를 갖고 있으면서 어린이들을 위해 평이한 번역을 한 것이 가장 큰 특색이다.\n또 어려운 단어는 따로 뜻을 풀이하고 영어 단어도 병기했다.\n여기에 성경속에서 생길 수 있는 궁금증과 풍속.인물.지명에 대한 설명과 그림을 곳곳에 삽입, 이해를 돕고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "성경 전문 출판사인 ㈜아가페(www.iagape.co.kr)가 국내 최초로 어린이 눈높이에 맞춘 '쉬운성경'을 출간했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 책은 김의원 총신대 총장 등 10명의 복음주의 신학자들이 지난 8년간 원문과 직접 대조해 번역하고 현직 초등학교 교사 4명의 교열 및 서울교대 정길남 교수의 감수를 받았다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지금까지 나온 성경은 어른 중심이고 그나마 고어가 많아 어린이들이 읽고 이해하는데 많은 어려움이 있었다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 책은 기존의 성경과 똑같은 쪽수를 갖고 있으면서 어린이들을 위해 평이한 번역을 한 것이 가장 큰 특색이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 어려운 단어는 따로 뜻을 풀이하고 영어 단어도 병기했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "여기에 성경속에서 생길 수 있는 궁금증과 풍속.인물.지명에 대한 설명과 그림을 곳곳에 삽입, 이해를 돕고 있다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국내 최초, 어린이에게도 '쉬운 성경'이 등장했다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193601",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 건강·맛 함께 챙기는 생활 속 가벼운 습관 들여야",
+    "newsSubTitle": "[전문의 칼럼] 우리의원 가정의학과 최종수 원장",
+    "newsContent": "현대는 비만인 사람은 마치 죄인처럼 비난과 조롱을 늘 감수하며 살아야 하는 사회가 됐다.\n눈만 뜨면 맛있는 음식을 찾아다니는 미식가들의 ‘먹방(먹는 방송)’을 지켜보면서도 한편으로는 다이어트와 사투를 벌여야 한다.\n외모를 위해서든, 건강을 위해서든 목적은 달라도 매일 늘어나는 뱃살을 걱정하고 다이어트를 위해 투쟁한다.\n하지만 비만은 더 이상 단순히 외형상의 문제가 아니게 됐다.\n세계보건기구(WHO)는 1996년에 비만을 질병으로 규정한 바 있다.\n이후 세계 각국에서는 비만율을 줄이기 위해 애쓰고 있다.\n이제는 대한민국 역시 비만을 질병으로 분류하고, 비만 인구를 줄이기 위한 전쟁을 선포했다.\n국민건강보험 통계에 따르면 한국 성인 약 3명 중 1명, 청소년의 약 5명 중 1명은 비만인 것으로 나타났다.\n하지만 늘어나는 비만 인구만큼이나 다이어트를 위해 노력하는 인구 또한 적지 않다.\n실제로 소셜네트워크서비스(SNS)에는 ‘#다이어트식단’ ‘#헬스타그램’ ‘#몸스타그램’ 등 다이어트와 건강미를 강조하는 해시태그들이 인기 게시물로 업로드되고 있다.\n보건복지부와 통계청 자료에 따르면 지난 1년간 체중 조절 노력 여부를 조사한 결과 20~40대 2명 중 1명은 체중을 유지하거나 조절하기 위해 노력한 것으로 조사됐다.\n20대의 경우 10명 중 7명은 외모를 위해 체중을 조절한 반면, 연령이 증가할수록 건강 향상 및 건강 문제로 인해 체중을 조절하려고 노력하는 것으로 나타났다.\n이를 위해 사람들은 몸을 움직여 칼로리를 소모하고 식습관을 조절한다.\n특히 기름지고 짠 음식, 국물 등의 섭취를 제한한다.\n그중에서도 식사 후 무심코 찾게 되는 디저트나 음식의 감칠맛을 위해 포함돼 있는 당을 끊기 위해 노력한다.\n설탕은 과다하게 섭취할수록 포만감을 쉽게 느끼지 못해 식사량 조절에 어려움을 느낄 수 있기 때문에 섭취한 당의 양만큼 칼로리가 증가하는 결과로 이어질 수 있다.\n당이 지방으로 전환돼 비만으로 이어지기 쉬워지기 때문이다.\n하지만 최근에는 설탕을 대체해 건강한 단맛을 섭취할 수 있는 ‘알룰로스(Allulose)’와 같은 차세대 대체 감미료 등도 개발되고 있다.\n대체 감미료는 설탕에 가까운 당도를 지니며 설탕보다 열량이 적어 건강한 식습관을 만드는 데 도움이 될 수 있다.\n일일 권장 섭취량(WHO 당 섭취 권장량 50g) 안에서 설탕보다 열량이 낮은 대체 감미료를 선택한다면 먹는 즐거움과 건강함까지 동시에 챙길 수 있는 생활 속 가벼운 습관이 될 수 있음을 기억하자.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "현대는 비만인 사람은 마치 죄인처럼 비난과 조롱을 늘 감수하며 살아야 하는 사회가 됐다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "눈만 뜨면 맛있는 음식을 찾아다니는 미식가들의 ‘먹방(먹는 방송)’을 지켜보면서도 한편으로는 다이어트와 사투를 벌여야 한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "외모를 위해서든, 건강을 위해서든 목적은 달라도 매일 늘어나는 뱃살을 걱정하고 다이어트를 위해 투쟁한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 비만은 더 이상 단순히 외형상의 문제가 아니게 됐다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세계보건기구(WHO)는 1996년에 비만을 질병으로 규정한 바 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 세계 각국에서는 비만율을 줄이기 위해 애쓰고 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이제는 대한민국 역시 비만을 질병으로 분류하고, 비만 인구를 줄이기 위한 전쟁을 선포했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "국민건강보험 통계에 따르면 한국 성인 약 3명 중 1명, 청소년의 약 5명 중 1명은 비만인 것으로 나타났다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하지만 늘어나는 비만 인구만큼이나 다이어트를 위해 노력하는 인구 또한 적지 않다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "실제로 소셜네트워크서비스(SNS)에는 ‘#다이어트식단’ ‘#헬스타그램’ ‘#몸스타그램’ 등 다이어트와 건강미를 강조하는 해시태그들이 인기 게시물로 업로드되고 있다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "보건복지부와 통계청 자료에 따르면 지난 1년간 체중 조절 노력 여부를 조사한 결과 20~40대 2명 중 1명은 체중을 유지하거나 조절하기 위해 노력한 것으로 조사됐다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "20대의 경우 10명 중 7명은 외모를 위해 체중을 조절한 반면, 연령이 증가할수록 건강 향상 및 건강 문제로 인해 체중을 조절하려고 노력하는 것으로 나타났다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이를 위해 사람들은 몸을 움직여 칼로리를 소모하고 식습관을 조절한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "특히 기름지고 짠 음식, 국물 등의 섭취를 제한한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "그중에서도 식사 후 무심코 찾게 되는 디저트나 음식의 감칠맛을 위해 포함돼 있는 당을 끊기 위해 노력한다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "설탕은 과다하게 섭취할수록 포만감을 쉽게 느끼지 못해 식사량 조절에 어려움을 느낄 수 있기 때문에 섭취한 당의 양만큼 칼로리가 증가하는 결과로 이어질 수 있다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "당이 지방으로 전환돼 비만으로 이어지기 쉬워지기 때문이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "하지만 최근에는 설탕을 대체해 건강한 단맛을 섭취할 수 있는 ‘알룰로스(Allulose)’와 같은 차세대 대체 감미료 등도 개발되고 있다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "대체 감미료는 설탕에 가까운 당도를 지니며 설탕보다 열량이 적어 건강한 식습관을 만드는 데 도움이 될 수 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "일일 권장 섭취량(WHO 당 섭취 권장량 50g) 안에서 설탕보다 열량이 낮은 대체 감미료를 선택한다면 먹는 즐거움과 건강함까지 동시에 챙길 수 있는 생활 속 가벼운 습관이 될 수 있음을 기억하자.",
+        "sentenceSize": 110
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "건강·맛 함께 챙기는 생활 속 '가성비' 습관 들여야",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

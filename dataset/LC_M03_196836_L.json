@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196836",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "해독 작용·항암 효과 탁월'제 2의 인삼'…오가피 구입 요령은?",
+    "newsSubTitle": "",
+    "newsContent": "'오가피 구입 요령' 오가피 구입 요령에 관심이 집중됐다.\n구입요령은 속이 하얗고 깨끗하게 건조된 것이 좋다.\n오가피는 국내에도 다량 생산되며 중국에서 많이 생산되고 있는 약재로 나무껍질을 주로 약용으로 사용하는 약재이다.\n오가피는 오갈피나무 뿌리의 껍질을 말린 것으로, 특유의 냄새가 있고 맛은 맵고 쓰며 성질은 따뜻한 것이 특징이다.\n인삼처럼 잎이 다섯 개로 갈라져 있고 그 효능도 비슷해 '제2의 인삼'으로 불린다.\n오가피는 전체적으로 색이 국산이 중국산에 비해 밝은 황색을 띠고 있으며 중국산의 경우는 국산보다는 짙은 색을 띠고 있으며 겉표면 역시도 거친 편이다.\n오가피는 나무껍질이므로 가지와 같이 섞여져 있는 것은 품질이 양호하지 못하다.\n주로 오가피 차로 즐겨 마시며, 오가피는 혈액순환에 좋으며 기운을 회복하는데 도움을 준다고. 오가피는 해독 작용과 항암효과가 탁월한 아칸토산이 함유되어 있어 고혈압, 당뇨, 관절염 예방에 좋다.\n오가피 구입 요령 소식을 접한 네티즌들은 “오가피 구입 요령? 그렇구나”, “오가피 구입 요령, 깨끗한 것으로”, “오가피 구입 요령, 친구한테 말해줘야겠다” 등의 반응을 보였다.\n온라인 중앙일보 '오가피 구입 요령'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'오가피 구입 요령' 오가피 구입 요령에 관심이 집중됐다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "구입요령은 속이 하얗고 깨끗하게 건조된 것이 좋다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오가피는 국내에도 다량 생산되며 중국에서 많이 생산되고 있는 약재로 나무껍질을 주로 약용으로 사용하는 약재이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오가피는 오갈피나무 뿌리의 껍질을 말린 것으로, 특유의 냄새가 있고 맛은 맵고 쓰며 성질은 따뜻한 것이 특징이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "인삼처럼 잎이 다섯 개로 갈라져 있고 그 효능도 비슷해 '제2의 인삼'으로 불린다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오가피는 전체적으로 색이 국산이 중국산에 비해 밝은 황색을 띠고 있으며 중국산의 경우는 국산보다는 짙은 색을 띠고 있으며 겉표면 역시도 거친 편이다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오가피는 나무껍질이므로 가지와 같이 섞여져 있는 것은 품질이 양호하지 못하다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "주로 오가피 차로 즐겨 마시며, 오가피는 혈액순환에 좋으며 기운을 회복하는데 도움을 준다고. 오가피는 해독 작용과 항암효과가 탁월한 아칸토산이 함유되어 있어 고혈압, 당뇨, 관절염 예방에 좋다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "오가피 구입 요령 소식을 접한 네티즌들은 “오가피 구입 요령? 그렇구나”, “오가피 구입 요령, 깨끗한 것으로”, “오가피 구입 요령, 친구한테 말해줘야겠다” 등의 반응을 보였다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 '오가피 구입 요령'",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "다량 생산되지만 효능은 '인삼'과 똑닮은 '초 고성능' 오가피… 어떻길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

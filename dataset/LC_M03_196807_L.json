@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196807",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "단백질 섭취 가이드, 과다 섭취하면 오히려 '독'…어떻게 먹어야 좋을까?",
+    "newsSubTitle": "",
+    "newsContent": "‘단백질 섭취 가이드’ 단백질 섭취 가이드가 화제다.\n최근 단백질 섭취 가이드이 주목받고 있다.\n단백질은 많은 수의 아미노산이 결합해 만들어진 유기물로서, 체내에서 생성할 수 있는 불필수 아미노산과 체내에서 합성이 불가능하여 반드시 식품으로 섭취해야 하는 필수 아미노산으로 구분된다.\n성인의 경우 체내에서 생성되는 11가지 불필수 아미노산이 있다.\n단백질의 종류는 이 20 종의 아미노산이 어떤 순서로 몇 개씩 연결되는지에 따라 달라지게 된다.\n단백질의 구조는 1차, 2차, 3차, 4차로 나누어지고, 셀 수 없이 많은 펩티드 결합(아미노산들의 결합)에 의해 연결돼있다.\n흔히 단백질이라고 하면 근육을 구성하는 물질로만 생각하기 쉽지만, 실제로 단백질은 우리 몸에서 여러 형태로 다양한 기능들을 수행한다.\n피부의 탄력을 유지해주는 콜라겐, 우리 몸이 세균이나 바이러스 같은 외부 침입에 맞서 싸우는 면역시스템의 중추적 역할을 하는 항체, 몸 곳곳에 산소를 운반하는 적혈구의 혈색소 등을 구성한다.\n탈모를 예방하고 싶다면 영양소를 고루 섭취하되, 모발의 구성성분인 단백질을 특히 잘 먹어야 한다.\n또한 식물성 에스트로겐의 일종인 이소플라본이 풍부한 음식도 도움이 된다.\n특히 콩·두부·콩나물에는 단백질·이소플라본이 풍부하게 들어 있기 때문이다.\n이에 단백질 섭취량을 제한하면 음식물을 통해서만 섭취할 수 있는 필수 아미노산을 공급받지 못하게 된다.\n이로 인해 성장기에는 성장 저하가 일어날 수 있고, 다이어트 시에 면역력 저하나, 빈혈 등의 부작용이 나타날 위험이 있다.\n단백질 과다 섭취에 따른 부작용은 정확하게 밝혀진 바는 없으나, 단백질을 과다 섭취하게 되면 단백질 분해 과정에서 체내 질소 노폐물이 많이 형성되어, 노폐물을 걸러 주는 기능을 담당하는 신장에 과도한 부담을 주는 것으로 알려져 있다.\n또한 최근에는 단백질 과다 섭취가 여성의 골밀도를 낮추거나 자궁암의 위험을 높인다는 연구 결과도 있으니 주의해야 한다. ‘단백질 섭취 가이드’ 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘단백질 섭취 가이드’ 단백질 섭취 가이드가 화제다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 단백질 섭취 가이드이 주목받고 있다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "단백질은 많은 수의 아미노산이 결합해 만들어진 유기물로서, 체내에서 생성할 수 있는 불필수 아미노산과 체내에서 합성이 불가능하여 반드시 식품으로 섭취해야 하는 필수 아미노산으로 구분된다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "성인의 경우 체내에서 생성되는 11가지 불필수 아미노산이 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "단백질의 종류는 이 20 종의 아미노산이 어떤 순서로 몇 개씩 연결되는지에 따라 달라지게 된다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "단백질의 구조는 1차, 2차, 3차, 4차로 나누어지고, 셀 수 없이 많은 펩티드 결합(아미노산들의 결합)에 의해 연결돼있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "흔히 단백질이라고 하면 근육을 구성하는 물질로만 생각하기 쉽지만, 실제로 단백질은 우리 몸에서 여러 형태로 다양한 기능들을 수행한다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "피부의 탄력을 유지해주는 콜라겐, 우리 몸이 세균이나 바이러스 같은 외부 침입에 맞서 싸우는 면역시스템의 중추적 역할을 하는 항체, 몸 곳곳에 산소를 운반하는 적혈구의 혈색소 등을 구성한다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "탈모를 예방하고 싶다면 영양소를 고루 섭취하되, 모발의 구성성분인 단백질을 특히 잘 먹어야 한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또한 식물성 에스트로겐의 일종인 이소플라본이 풍부한 음식도 도움이 된다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "특히 콩·두부·콩나물에는 단백질·이소플라본이 풍부하게 들어 있기 때문이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이에 단백질 섭취량을 제한하면 음식물을 통해서만 섭취할 수 있는 필수 아미노산을 공급받지 못하게 된다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이로 인해 성장기에는 성장 저하가 일어날 수 있고, 다이어트 시에 면역력 저하나, 빈혈 등의 부작용이 나타날 위험이 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "단백질 과다 섭취에 따른 부작용은 정확하게 밝혀진 바는 없으나, 단백질을 과다 섭취하게 되면 단백질 분해 과정에서 체내 질소 노폐물이 많이 형성되어, 노폐물을 걸러 주는 기능을 담당하는 신장에 과도한 부담을 주는 것으로 알려져 있다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "또한 최근에는 단백질 과다 섭취가 여성의 골밀도를 낮추거나 자궁암의 위험을 높인다는 연구 결과도 있으니 주의해야 한다. ‘단백질 섭취 가이드’ 온라인 중앙일보",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "많이 섭취하면 99% 자궁암 걸린다... 많이 먹으면 '독'이 되는 단백질",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

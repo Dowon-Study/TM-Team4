@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197644",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "그루잠프로덕션, 'SNAP'공연 통해 문화복지의 문을 열다",
+    "newsSubTitle": "",
+    "newsContent": "그루잠프로덕션의 '스냅(SNAP)' 공연. /그루잠프로덕션 제공 특별한 능력을갖춘 요정들이 시공을 넘어 연금술사, 드리머, 플로리스트 등 다양한 인물들을 만나며 벌어지는 이야기를 미디어 아트, 마임, 슬랩스틱으로 표현하는 그루잠프로덕션의 '스냅(SNAP)' 공연. 세계 4대 주요 공연 예술 시장이며 세계 각국의 프로모터와 극장 관계자들이 참가하는 공연 축제인 '에든버러 프린지 페스티벌'에서 영국을 뜨겁게 달구었던 그루잠프로덕션은 3~5일 BNK부산은행 본점 대강당에서 무료로 공연을 선보인다.\n어떤 특별한 관객들이기에 실력파 마술사들이 함께 모여 만들어내는 이 공연을 무료로 볼 수 있는 걸까?\n그루잠프로덕션은 지난해 다문화 가족, 외국인 거주자, 문화 소외 계층을 위해 공연한 데 이어 올해도 역시 부산 사회 복지 단체와 문화 소외 계층을 초청하기로 했다.\n올해는 MNK부산은행 창립 50주년을 맞이하여 부산사회공헌정보센터와 자리를 마련했으며 총 6차례의 무료 공연을 펼칠 예정이다.\n그루잠프로덕션은 지난 4월 부산사회복지연대와 문화복지 활동을 실천하는 '문화+복지 실천 협약'을 체결하였으며, 문화 소외 계층에게 문화 복지를 제공하는 것뿐 아니라 문화 복지를 일반 시민에게도 확대하려고 노력하고 있다.\n더 나아가 문화재생산기금을 마련해 지역 예술 단체에 기회를 줌으로써 문화 복지 향상에 힘을 쏟고 있다.\n티켓은 부산사회공헌정보센터 홈페이지에서 선착순으로 신청할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그루잠프로덕션의 '스냅(SNAP)' 공연. /그루잠프로덕션 제공 특별한 능력을갖춘 요정들이 시공을 넘어 연금술사, 드리머, 플로리스트 등 다양한 인물들을 만나며 벌어지는 이야기를 미디어 아트, 마임, 슬랩스틱으로 표현하는 그루잠프로덕션의 '스냅(SNAP)' 공연. 세계 4대 주요 공연 예술 시장이며 세계 각국의 프로모터와 극장 관계자들이 참가하는 공연 축제인 '에든버러 프린지 페스티벌'에서 영국을 뜨겁게 달구었던 그루잠프로덕션은 3~5일 BNK부산은행 본점 대강당에서 무료로 공연을 선보인다.",
+        "sentenceSize": 277
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "어떤 특별한 관객들이기에 실력파 마술사들이 함께 모여 만들어내는 이 공연을 무료로 볼 수 있는 걸까?",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그루잠프로덕션은 지난해 다문화 가족, 외국인 거주자, 문화 소외 계층을 위해 공연한 데 이어 올해도 역시 부산 사회 복지 단체와 문화 소외 계층을 초청하기로 했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "올해는 MNK부산은행 창립 50주년을 맞이하여 부산사회공헌정보센터와 자리를 마련했으며 총 6차례의 무료 공연을 펼칠 예정이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그루잠프로덕션은 지난 4월 부산사회복지연대와 문화복지 활동을 실천하는 '문화+복지 실천 협약'을 체결하였으며, 문화 소외 계층에게 문화 복지를 제공하는 것뿐 아니라 문화 복지를 일반 시민에게도 확대하려고 노력하고 있다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "더 나아가 문화재생산기금을 마련해 지역 예술 단체에 기회를 줌으로써 문화 복지 향상에 힘을 쏟고 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "티켓은 부산사회공헌정보센터 홈페이지에서 선착순으로 신청할 수 있다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "실력파 마술사들이 6번이나 이런 공연 여는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

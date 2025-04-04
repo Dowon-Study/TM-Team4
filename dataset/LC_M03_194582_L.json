@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194582",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강단신] 램브란트 치과그룹 外",
+    "newsSubTitle": "",
+    "newsContent": "◆ 램브란트 치과그룹(회장 김사엽)은 최근 중국 상하이에서 램브란트치과 개원식을 했다.\n램브란트 치과그룹(www.lamplant.com)은 임플란트 전문 치과 체인병원으로 국내에 15개의 회원병원을 운영하고 있다.\n이번 상하이에 이어 하얼빈.닝보.베이징에 직영병원을 개설할 예정. ◆ 아주대병원 정신과가 '외상후 스트레스성 장애'의 치료에 효과적인 'EMDR 치료'를 도입했다.\n이 치료법은 안구운동을 시켜 부정적이고 기분 나쁜 생각을 줄여주는 것이다.\n병원 측은 외상후 스트레스성 장애 외에 공포증.공황 발작.성학대 등의 치료에 폭넓게 이용할 계획. 031-219-5814. ◆ 한국노바티스는 한국이 노바티스 본사 국제임상연구조직(ICRO)의 정회원 국가로 승격되고, 노바티스 항암제 분야 임상연구에 대한 투자 확대 국가로 최근 지정됐다고 밝혔다.\n◆ 삼성서울병원 비뇨기과는 과민성방광 치료제(일본에서 개발한 이미다페니신) 임상시험을 위해 과민성 방광 환자를 모집한다.\n임상시험은 12주간 진행되며 검사비.치료비는 전액 무료. 02-3410-3558, 3559.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆ 램브란트 치과그룹(회장 김사엽)은 최근 중국 상하이에서 램브란트치과 개원식을 했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "램브란트 치과그룹(www.lamplant.com)은 임플란트 전문 치과 체인병원으로 국내에 15개의 회원병원을 운영하고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 상하이에 이어 하얼빈.닝보.베이징에 직영병원을 개설할 예정. ◆ 아주대병원 정신과가 '외상후 스트레스성 장애'의 치료에 효과적인 'EMDR 치료'를 도입했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 치료법은 안구운동을 시켜 부정적이고 기분 나쁜 생각을 줄여주는 것이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "병원 측은 외상후 스트레스성 장애 외에 공포증.공황 발작.성학대 등의 치료에 폭넓게 이용할 계획. 031-219-5814. ◆ 한국노바티스는 한국이 노바티스 본사 국제임상연구조직(ICRO)의 정회원 국가로 승격되고, 노바티스 항암제 분야 임상연구에 대한 투자 확대 국가로 최근 지정됐다고 밝혔다.",
+        "sentenceSize": 165
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "◆ 삼성서울병원 비뇨기과는 과민성방광 치료제(일본에서 개발한 이미다페니신) 임상시험을 위해 과민성 방광 환자를 모집한다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "임상시험은 12주간 진행되며 검사비.치료비는 전액 무료. 02-3410-3558, 3559.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아주대 병원 정신과에서 안구운동 치료법 도입한 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

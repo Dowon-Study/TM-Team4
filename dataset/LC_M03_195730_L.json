@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195730",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[TONG] '예쁜 한글' 타투로 나눠주는 대학생들",
+    "newsSubTitle": "",
+    "newsContent": "한글은 모양만으로도 참 예쁘다는 건 우리만의 느낌일까.\n한글의 예쁨을 더 많은 사람들에게 알릴 수 없을까.\n2년 전, 이 같은 물음을 품은 대학생들이 있었다.\n그들은 생각을 행동으로 옮겨 홍대 거리에서 한글로 디자인한 타투 스티커(헤나)를 사람들에게 붙여주는 행사를 만들었다.\n서울·경인지역 대학생 연합 광고 동아리 ‘애드플래쉬’(AD.FLASH)의 한글날 이벤트 ‘한글자국’은 이렇게 시작됐다.\n이후 2년간 애드플래쉬는 약 1000명에게 한글 타투 스티커를 나눠줬다.\n올해에는 홍대 앞 행사에 하루 앞선 8일 오후 서울 양재고등학교에 찾아가 청소년들과 한글의 아름다움을 나누는 이벤트도 TONG과 함께 진행했다.\n애드플래쉬의 2015년 2학기 회장을 맡고 있는 김창현(26·세종대)씨와 올해 한글자국 이벤트를 담당하는 웹부장 성민지(21·인천대)씨는 “준비하는 과정이 쉽지는 않지만 받는 분들이 좋아하는 모습을 보면 힘이 난다”고 입을 모았다.\n전국 600여 명 청소년기자단이 보고 느낀 세상을 TONG에서 만나세요.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한글은 모양만으로도 참 예쁘다는 건 우리만의 느낌일까.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한글의 예쁨을 더 많은 사람들에게 알릴 수 없을까.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "2년 전, 이 같은 물음을 품은 대학생들이 있었다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그들은 생각을 행동으로 옮겨 홍대 거리에서 한글로 디자인한 타투 스티커(헤나)를 사람들에게 붙여주는 행사를 만들었다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서울·경인지역 대학생 연합 광고 동아리 ‘애드플래쉬’(AD.FLASH)의 한글날 이벤트 ‘한글자국’은 이렇게 시작됐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 2년간 애드플래쉬는 약 1000명에게 한글 타투 스티커를 나눠줬다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "올해에는 홍대 앞 행사에 하루 앞선 8일 오후 서울 양재고등학교에 찾아가 청소년들과 한글의 아름다움을 나누는 이벤트도 TONG과 함께 진행했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "애드플래쉬의 2015년 2학기 회장을 맡고 있는 김창현(26·세종대)씨와 올해 한글자국 이벤트를 담당하는 웹부장 성민지(21·인천대)씨는 “준비하는 과정이 쉽지는 않지만 받는 분들이 좋아하는 모습을 보면 힘이 난다”고 입을 모았다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "전국 600여 명 청소년기자단이 보고 느낀 세상을 TONG에서 만나세요.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한글날 이벤트 `한글 자국`, 한글의 아름다움 더 많은 사람에게 알리고 싶어… 그 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

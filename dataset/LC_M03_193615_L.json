@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193615",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 춘곤증 쫓는 비타민 10여 종, 미네랄 함유",
+    "newsSubTitle": "",
+    "newsContent": "이 약 아세요?\nGC녹십자 ‘비맥스 시리즈’ 봄이 되면 신진대사가 활발해지면서 몸에 필요한 영양소가 늘어난다.\n대표적인 영양소가 비타민이다.\n비타민의 소모량이 늘면서 춘곤증 등 몸이 피곤함을 더욱 느끼게 된다.\n따라서 봄에는 전문가들도 고함량 비타민 섭취를 권한다.\nGC녹십자의 고함량 기능성 비타민제 ‘비맥스 시리즈’(사진)는 ‘약사가 권하는 비타민’으로 입소문을 탄 일반의약품이다.\nTV·라디오 광고 없이 출시 5년 만인 지난해 연 매출 100억원을 돌파했다. ‘활성비타민’으로 불리는 비타민B군을 포함해 비타민 10여 종과 마그네슘·아연 같은 미네랄이 균형 있게 함유돼 있다.\n육체 피로, 체력 저하를 개선하는 한편 신경·근육 통증 완화에도 도움을 준다. ‘비맥스 시리즈’는 모두 네 종류로 구성돼 있다.\n20~40대 학생·직장인을 겨냥한 ‘비맥스 액티브’와 ‘비맥스 골드’에는 활성비타민이 고함량 함유돼 있다.\n40대 이상 중·장년층은 마그네슘과 아연 함량을 높인 ‘비맥스 리퀴드’와 ‘비맥스 에이스’를 통해 피로 해소는 물론 눈 떨림, 근육 경련 등의 증상을 완화할 수 있다.\n최근 GC녹십자는 현대인을 위한 ‘비맥스 시리즈’ 소포장 제품을 출시했다. ‘비맥스 액티브’와 ‘비맥스 골드’는 1포에 1정, ‘비맥스 리퀴드’는 한 박스에 10캡슐이 들어 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이 약 아세요?",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "GC녹십자 ‘비맥스 시리즈’ 봄이 되면 신진대사가 활발해지면서 몸에 필요한 영양소가 늘어난다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대표적인 영양소가 비타민이다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "비타민의 소모량이 늘면서 춘곤증 등 몸이 피곤함을 더욱 느끼게 된다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "따라서 봄에는 전문가들도 고함량 비타민 섭취를 권한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "GC녹십자의 고함량 기능성 비타민제 ‘비맥스 시리즈’(사진)는 ‘약사가 권하는 비타민’으로 입소문을 탄 일반의약품이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "TV·라디오 광고 없이 출시 5년 만인 지난해 연 매출 100억원을 돌파했다. ‘활성비타민’으로 불리는 비타민B군을 포함해 비타민 10여 종과 마그네슘·아연 같은 미네랄이 균형 있게 함유돼 있다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "육체 피로, 체력 저하를 개선하는 한편 신경·근육 통증 완화에도 도움을 준다. ‘비맥스 시리즈’는 모두 네 종류로 구성돼 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "20~40대 학생·직장인을 겨냥한 ‘비맥스 액티브’와 ‘비맥스 골드’에는 활성비타민이 고함량 함유돼 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "40대 이상 중·장년층은 마그네슘과 아연 함량을 높인 ‘비맥스 리퀴드’와 ‘비맥스 에이스’를 통해 피로 해소는 물론 눈 떨림, 근육 경련 등의 증상을 완화할 수 있다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "최근 GC녹십자는 현대인을 위한 ‘비맥스 시리즈’ 소포장 제품을 출시했다. ‘비맥스 액티브’와 ‘비맥스 골드’는 1포에 1정, ‘비맥스 리퀴드’는 한 박스에 10캡슐이 들어 있다.",
+        "sentenceSize": 100
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "몸에 필요한 영양소 늘어나는 봄, '약잘알'들은 모두 안다는 '비맥스 시리즈' 섭취하면 좋아...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

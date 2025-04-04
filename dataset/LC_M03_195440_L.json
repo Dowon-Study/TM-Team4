@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195440",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "닭가슴살 전문 ‘맛있닭’, 단백질 높인 ‘더담은 도시락’ 인기",
+    "newsSubTitle": "",
+    "newsContent": "직장인 이현아(28·가명)씨는 점심시간마다 시판 도시락으로 건강관리에 열을 올리고 있다.\n얼마 전까지 닭가슴살과 각종 채소로 직접 도시락을 싸서 다녔지만 잦은 야근으로 도저히 식단을 챙길 여유가 없어 방법을 바꿨다.\n이씨는 “예전에는 자극적인 맛에 영양 성분도 별로라는 인식이 있었는데, 오히려 직접 싸는 것보다 체계적으로 탄수화물, 단백질, 지방 비율을 관리할 수 있어 앞으로도 꾸준히 사 먹을 것 같다”고 말했다.\n도시락의 인기가 식을 줄 모른다.\n업계에 따르면 국내 간편 도시락의 시장 규모는 2013년 700억원에서 2016년 5000억원대로 3년 새 7배 이상 급성장했다.\n주목할 만한 점은 최근 웰빙 트렌드와 맞물리면서 ‘닭가슴살 도시락’의 매출도 늘고 있다는 것이다.\n이들 제품은 내세우는 특장점이 다르기 때문에 섭취 목적에 맞춰 적절한 제품을 선택하는 게 좋다.\n특히 운동과 병행하여 멋지고 탄탄한 몸매를 만드는 것이 목적이라면 단백질 함량을 확인해야 한다.\n닭가슴살 전문 브랜드 ‘맛있닭’은 닭가슴살의 함량을 높인 ‘더담은 도시락’ 5종을 선보이고 있다.\n닭가슴살 스테이크, 스팀 닭가슴살, 닭가슴살 소시지 등 하이서울 브랜드 인증을 받은 맛있닭의 베스트셀러 제품과 퀴노아, 연근, 곤드레나물, 새우 등 영양이 뛰어난 슈퍼푸드를 적절히 조합해 균형 잡힌 영양을 공급한다.\n특히 닭가슴살 함량을 개당 100g으로 맞춘 것이 가장 큰 장점이다.\n1팩 섭취 시 1회 단백질 흡수량인 30g 상당의 단백질을 섭취할 수 있어 영양 불균형에 시달리는 직장인은 물론, 헬스트레이너, 보디빌딩 선수 등 전문가들의 뜨거운 호응을 얻고 있다.\n열량 역시 300kcal 수준으로 한끼 식사로 부담없이 섭취할 수 있다.\n맛있닭 관계자는 “닭가슴살 도시락 출시 두 달 만에 매출이 급상승세를 그리고 있다. 가격대가 다소 높은 편인데도 고객들이 영양학적 가치를 알아본 결과라고 생각한다”면서 “맛과 영양을 모두 만족하는 닭가슴살 도시락으로 더 많은 사랑을 받을 것으로 기대하고 있다”고 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "직장인 이현아(28·가명)씨는 점심시간마다 시판 도시락으로 건강관리에 열을 올리고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "얼마 전까지 닭가슴살과 각종 채소로 직접 도시락을 싸서 다녔지만 잦은 야근으로 도저히 식단을 챙길 여유가 없어 방법을 바꿨다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이씨는 “예전에는 자극적인 맛에 영양 성분도 별로라는 인식이 있었는데, 오히려 직접 싸는 것보다 체계적으로 탄수화물, 단백질, 지방 비율을 관리할 수 있어 앞으로도 꾸준히 사 먹을 것 같다”고 말했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "도시락의 인기가 식을 줄 모른다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "업계에 따르면 국내 간편 도시락의 시장 규모는 2013년 700억원에서 2016년 5000억원대로 3년 새 7배 이상 급성장했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "주목할 만한 점은 최근 웰빙 트렌드와 맞물리면서 ‘닭가슴살 도시락’의 매출도 늘고 있다는 것이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이들 제품은 내세우는 특장점이 다르기 때문에 섭취 목적에 맞춰 적절한 제품을 선택하는 게 좋다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히 운동과 병행하여 멋지고 탄탄한 몸매를 만드는 것이 목적이라면 단백질 함량을 확인해야 한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "닭가슴살 전문 브랜드 ‘맛있닭’은 닭가슴살의 함량을 높인 ‘더담은 도시락’ 5종을 선보이고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "닭가슴살 스테이크, 스팀 닭가슴살, 닭가슴살 소시지 등 하이서울 브랜드 인증을 받은 맛있닭의 베스트셀러 제품과 퀴노아, 연근, 곤드레나물, 새우 등 영양이 뛰어난 슈퍼푸드를 적절히 조합해 균형 잡힌 영양을 공급한다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "특히 닭가슴살 함량을 개당 100g으로 맞춘 것이 가장 큰 장점이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "1팩 섭취 시 1회 단백질 흡수량인 30g 상당의 단백질을 섭취할 수 있어 영양 불균형에 시달리는 직장인은 물론, 헬스트레이너, 보디빌딩 선수 등 전문가들의 뜨거운 호응을 얻고 있다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "열량 역시 300kcal 수준으로 한끼 식사로 부담없이 섭취할 수 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "맛있닭 관계자는 “닭가슴살 도시락 출시 두 달 만에 매출이 급상승세를 그리고 있다. 가격대가 다소 높은 편인데도 고객들이 영양학적 가치를 알아본 결과라고 생각한다”면서 “맛과 영양을 모두 만족하는 닭가슴살 도시락으로 더 많은 사랑을 받을 것으로 기대하고 있다”고 전했다.",
+        "sentenceSize": 151
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "식을 줄 모르는 간편 도시락 인기... 단백질까지 높인 닭가슴살 도시락은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

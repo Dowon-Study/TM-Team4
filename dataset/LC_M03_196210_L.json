@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196210",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "류마티스관절염 새로운 치료 표적물질 발견",
+    "newsSubTitle": "서울성모병원 류마티스센터, 류마티스 관절염 새로운 치료 표적물질 발견",
+    "newsContent": "국내 의료진이 류마티스 관절염의 새로운 치료 표적 물질을 찾기 위한 새로운 연구결과를 내놓았다.\nTh17은 류마티스 관절염에서 중요한 병인 세포이다.\n하지만 그동안 자가면역질환에서 Th17세포가 어떻게 분화하고 발병에 어떠한 영향을 주는지 알려진 내용이 한정돼 있었다.\n가톨릭대학교 서울성모병원 류마티스센터 김호연․주지현 교수팀은 류마티스 관절염의 병인으로 거론되고 있는 Th17 세포에 대한 새로운 연구기전을 밝혔다.\n연구팀은 총 56명의 환자를 조사한 결과 류마티스 관절염 환자에 증가되는 Th17 세포는 전사인자인 STAT3 발현에 의해 질병이 활성화 되고 염증이 진행된다는 사실을 관찰했다.\nSTAT3 발현을 조절하면 Th17 세포기능을 억제하고, STAT5 매개 면역조절 T세포 발현이 증가하여 류마티스 관절염 환자의 질병활성도를 억제할 수 있다.\n연구팀은 류마티스 관절염에서 STAT3의 발현 증가는 Th17분화에 꼭 필요한 요소중의 하나이며, STAT3 및 STAT5 매개 Th17-Treg 세포의 비율이 질병의 활성도와 질병조절에 중요한 역할을 하는 것을 관찰했다.\n류마티스 관절염은 자기 관절 조직 내 일부를 병인항원으로 인식해 공격하는 자가면역질환의 하나다.\n관절을 둘러싸고 있는 활막에 염증이 생겨 연골과 뼈를 파괴하는 질환으로 염증의 원인이 아직 밝혀지지 않은 만큼 치료도 쉽지 않다.\n관절뿐 만 아니라 관절의 여러 부위에서 염증을 일으키는 전신질환으로 만성 염증이 전신을 침범해 환자에게 고통을 불러키는 질병이다.\n피로감, 식욕 부진, 전신 쇠약감과 몸이 뻣뻣해지는 현상 등 일상생활에 끊임없이 장애를 유발시킨다.\n김호연 교수는 “이번 연구는 류마티스관절염 발병에 새로운 기표로서 STAT3전사인자의 발현정도가 병의 치료 표적 물질로 인정되는 새로운 약제 개발에 중요한 기초자료가 될 것이다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국내 의료진이 류마티스 관절염의 새로운 치료 표적 물질을 찾기 위한 새로운 연구결과를 내놓았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "Th17은 류마티스 관절염에서 중요한 병인 세포이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 그동안 자가면역질환에서 Th17세포가 어떻게 분화하고 발병에 어떠한 영향을 주는지 알려진 내용이 한정돼 있었다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "가톨릭대학교 서울성모병원 류마티스센터 김호연․주지현 교수팀은 류마티스 관절염의 병인으로 거론되고 있는 Th17 세포에 대한 새로운 연구기전을 밝혔다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연구팀은 총 56명의 환자를 조사한 결과 류마티스 관절염 환자에 증가되는 Th17 세포는 전사인자인 STAT3 발현에 의해 질병이 활성화 되고 염증이 진행된다는 사실을 관찰했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "STAT3 발현을 조절하면 Th17 세포기능을 억제하고, STAT5 매개 면역조절 T세포 발현이 증가하여 류마티스 관절염 환자의 질병활성도를 억제할 수 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연구팀은 류마티스 관절염에서 STAT3의 발현 증가는 Th17분화에 꼭 필요한 요소중의 하나이며, STAT3 및 STAT5 매개 Th17-Treg 세포의 비율이 질병의 활성도와 질병조절에 중요한 역할을 하는 것을 관찰했다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "류마티스 관절염은 자기 관절 조직 내 일부를 병인항원으로 인식해 공격하는 자가면역질환의 하나다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "관절을 둘러싸고 있는 활막에 염증이 생겨 연골과 뼈를 파괴하는 질환으로 염증의 원인이 아직 밝혀지지 않은 만큼 치료도 쉽지 않다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "관절뿐 만 아니라 관절의 여러 부위에서 염증을 일으키는 전신질환으로 만성 염증이 전신을 침범해 환자에게 고통을 불러키는 질병이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "피로감, 식욕 부진, 전신 쇠약감과 몸이 뻣뻣해지는 현상 등 일상생활에 끊임없이 장애를 유발시킨다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "김호연 교수는 “이번 연구는 류마티스관절염 발병에 새로운 기표로서 STAT3전사인자의 발현정도가 병의 치료 표적 물질로 인정되는 새로운 약제 개발에 중요한 기초자료가 될 것이다”고 말했다.",
+        "sentenceSize": 105
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "Th17 세포의 새로운 발견··· 류마티스 관절염 이제는 정복되나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

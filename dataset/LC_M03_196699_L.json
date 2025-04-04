@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196699",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 의료계 소식-성북 우리아이들병원 다음달 개원",
+    "newsSubTitle": "",
+    "newsContent": "의료법인 우리아이들의료재단의 우리아이들병원이 3월 서울 성북구에 개원한다.\n성북 우리아이들병원은 지상 10층, 지하 3층에 입원병실 60병상 규모로 소아청소년과 전문의 13명이 진료한다.\n소아 진료와 함께 소아심장과·소아내분비과·소아영상의학과·튼튼클리닉(영유아 검진, 모유 수유, 영양클리닉)·마음튼튼클리닉(소아정신건강의학과, 인지정서발달연구소)을 개설해 전문적이고 세분화된 진료 서비스를 제공한다.\n특히 일반 소아 진료가 이뤄지는 2층과 영유아 검진, 예방접종 등이 이뤄지는 3층의 병원 내 이동 동선을 분리해 감염 위험을 최소화했다.\n병실도 1·2인실만 운영해 원내 감염 위험을 줄이는 한편 쾌적한 입원 환경을 구축했다.\n정확한 진단·검사를 위해 소아에게 특화한 저선량 디지털 X선, 정밀초음파, 심장초음파 기기 등 영상의학 장비를 갖췄다.\n결과를 신속히 확인할 수 있는 최신 임상병리 기기도 운영한다.\n우리아이들병원은 2013년 서울 구로구에 개원한 후 지금까지 80여만 명의 환자를 치료한 서울 서남권의 대표적인 어린이병원이다.\n현재 17명의 전문의가 소아청소년의 몸과 마음을 함께 돌보는 ‘토털케어 시스템’을 선보이고 있다.\n우리아이들의료재단 정성관 이사장은 “최상의 의료 서비스를 신속하고 친절하게 제공해 아이들이 밝고 건강하게 자랄 수 있도록 돕겠다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "의료법인 우리아이들의료재단의 우리아이들병원이 3월 서울 성북구에 개원한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "성북 우리아이들병원은 지상 10층, 지하 3층에 입원병실 60병상 규모로 소아청소년과 전문의 13명이 진료한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소아 진료와 함께 소아심장과·소아내분비과·소아영상의학과·튼튼클리닉(영유아 검진, 모유 수유, 영양클리닉)·마음튼튼클리닉(소아정신건강의학과, 인지정서발달연구소)을 개설해 전문적이고 세분화된 진료 서비스를 제공한다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 일반 소아 진료가 이뤄지는 2층과 영유아 검진, 예방접종 등이 이뤄지는 3층의 병원 내 이동 동선을 분리해 감염 위험을 최소화했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "병실도 1·2인실만 운영해 원내 감염 위험을 줄이는 한편 쾌적한 입원 환경을 구축했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정확한 진단·검사를 위해 소아에게 특화한 저선량 디지털 X선, 정밀초음파, 심장초음파 기기 등 영상의학 장비를 갖췄다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "결과를 신속히 확인할 수 있는 최신 임상병리 기기도 운영한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "우리아이들병원은 2013년 서울 구로구에 개원한 후 지금까지 80여만 명의 환자를 치료한 서울 서남권의 대표적인 어린이병원이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "현재 17명의 전문의가 소아청소년의 몸과 마음을 함께 돌보는 ‘토털케어 시스템’을 선보이고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "우리아이들의료재단 정성관 이사장은 “최상의 의료 서비스를 신속하고 친절하게 제공해 아이들이 밝고 건강하게 자랄 수 있도록 돕겠다”고 말했다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "성북구 우리아이들 병원 개원… 지상 10층로 성북구 최대 규모",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194586",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "[살림UP] 계란말이에 계란만 쏙 ? 다시마국물·설탕·조미술 …",
+    "newsSubTitle": "제대로 넣으면 훌륭한 요리",
+    "newsContent": "도시락 반찬의 추억으로 남아 있는 계란말이는 잘만 하면 메인 메뉴도 될 수 있다.\n술안주로도 훌륭하다.\n하지만 단단하고 두툼하면서 부드럽게 만드는 것은 생각만큼 쉽지 않다.\n계란에 물을 적당히 섞어 끈기없게 잘 풀어주고, 팬에 겉도는 기름을 닦아낸 뒤 부치는 게 '성공 100% 계란말이 비법'의 핵심이다.\n▶재료=계란 4개, 간장 1/2 작은술, 조미술 1큰술, 다시마국물 4큰술, 설탕 1/2작은술, 소금 약간, 식용유 약간 ▶만드는 법 ① 그릇에 계란을 풀고 나머지 재료를 넣어 나무젓가락으로 살살 섞은 뒤 고운 체에 걸러 알끈을 제거한다(다시마국물은 냄비에 물 5컵을 붓고 10×10㎝ 크기의 다시마 1장을 넣어 30분 정도 불린 다음 약한 불에서 10분 정도 끓인다). ② 사각팬에 기름을 조금 둘러 뜨거워지면 종이 타월로 여분의 기름을 닦아낸다.\n③ 얇게 지단 부치는 분량 정도의 계란 물을 부어 윗면이 익기 시작하면 적당한 간격으로 말아 나간다.\n④ 팬 끝까지 한번 말아준 계란말이는 한쪽으로 밀어 놓는다.\n팬에 다시 기름을 조금 두르고 종이 타월로 닦아낸 뒤 나머지 계란 물을 부어 자연스럽게 연결한다.\n⑤ 이 과정을 3~4번 반복한 뒤 겉면을 노릇하게 구워낸다.\n뜨거울 때 김발에 널고 단단하게 말아 풀어지지 않게 모양을 정돈한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "도시락 반찬의 추억으로 남아 있는 계란말이는 잘만 하면 메인 메뉴도 될 수 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "술안주로도 훌륭하다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 단단하고 두툼하면서 부드럽게 만드는 것은 생각만큼 쉽지 않다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "계란에 물을 적당히 섞어 끈기없게 잘 풀어주고, 팬에 겉도는 기름을 닦아낸 뒤 부치는 게 '성공 100% 계란말이 비법'의 핵심이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "▶재료=계란 4개, 간장 1/2 작은술, 조미술 1큰술, 다시마국물 4큰술, 설탕 1/2작은술, 소금 약간, 식용유 약간 ▶만드는 법 ① 그릇에 계란을 풀고 나머지 재료를 넣어 나무젓가락으로 살살 섞은 뒤 고운 체에 걸러 알끈을 제거한다(다시마국물은 냄비에 물 5컵을 붓고 10×10㎝ 크기의 다시마 1장을 넣어 30분 정도 불린 다음 약한 불에서 10분 정도 끓인다). ② 사각팬에 기름을 조금 둘러 뜨거워지면 종이 타월로 여분의 기름을 닦아낸다.",
+        "sentenceSize": 251
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "③ 얇게 지단 부치는 분량 정도의 계란 물을 부어 윗면이 익기 시작하면 적당한 간격으로 말아 나간다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "④ 팬 끝까지 한번 말아준 계란말이는 한쪽으로 밀어 놓는다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "팬에 다시 기름을 조금 두르고 종이 타월로 닦아낸 뒤 나머지 계란 물을 부어 자연스럽게 연결한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "⑤ 이 과정을 3~4번 반복한 뒤 겉면을 노릇하게 구워낸다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "뜨거울 때 김발에 널고 단단하게 말아 풀어지지 않게 모양을 정돈한다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "두툼하고 부드러운 계란말이, 100% 성공 비법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

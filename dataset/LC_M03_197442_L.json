@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197442",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "유방암 치료제 ‘입랜스’ 아시아 환자 효과 확인",
+    "newsSubTitle": "기존 치료제 대비 PFS 11.8개월 연장…非아시아 환자보다 효과↑",
+    "newsContent": "[김진구 기자] 화이자의 유방암 치료제 ‘입랜스(성분명 팔보시클립)’의 아시아 환자 대상 임상시험 결과가 발표됐다.\n기존 치료제 대비 무진행생존기간이 긴 것으로 나타났다.\n특히, 비아시아인에 비해 더 긍정적인 효과를 보이는 것으로도 확인됐다.\n지난 16~19일 싱가포르에서 열린 2016 유럽종양학회 아시아회의(ESMO Asia)에선 폐경 후 HR+/HER2- 진행성 유방암 환자 666명을 대상으로 한 3상 임상연구(PALOMA-2) 결과가 공개됐다.\n무진행 생존기간 중간값(mPFS)은 입랜스-레트로졸 병용 투여군이 24.8개월, 레트로졸 단독 투여군은 14.5개월이었다.\n이번 연구에 참여한 아시아(95명), 비아시아(571명) 그룹 데이터를 비교한 결과, 아시아인의 입랜스-레트로졸 병용투여군의 mPFS는 25.7개월이었다.\n비아시아 그룹의 경우 24.8개월이었다.\n레트로졸 단독투여군과의 차이 역시 각각 11.8개월, 8.9개월로 아시아인에게 더 효과적인 것으로 나타났다.\n종양 축소 등 치료에 따른 질병 반응을 측정하는 객관적 반응률(ORR)과 임상으로 인한 완전관해, 부분관해, 안정병변 달성여부를 측정하는 임상효용율(CBR)은 측정 가능한 질병군에서 두 그룹 모두 레트로졸 단독투여군 대비 유사한 개선 효과를 보였다.\n아시아 그룹의 입랜스-레트로졸 병용군은 ORR 62%, CBR 85%를 보였으며, 비아시아 그룹의 병용군은 ORR 61%, CBR 86%을 기록했다.\n한국화이자제약 항암제 사업부 송찬우 전무는 “이번 아시아 그룹 분석 결과를 포함해 입랜스의 효과를 입증하는 임상적 데이터들이 지속적으로 확인되고 있다”며 “이러한 결과가 전이성 유방암 환자 및 의료진에게 희망적인 소식이 되길 바란다”고 말했다.\n한편, 입랜스는 세포 분열과 성장을 조절하는 사이클린 의존성 키나아제(CDK) 4/6을 선별적으로 억제해 암세포의 증식을 막는2 새로운 기전의 경구용 전이성 유방암 치료제다.\n지난 8월 식품의약품안전처로부터 폐경 후 여성의 일차 내분비 요법으로서 레트로졸 병용 또는 내분비요법 후 질환이 진행된 여성에서 풀베스트란트 병용요법으로 승인받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 화이자의 유방암 치료제 ‘입랜스(성분명 팔보시클립)’의 아시아 환자 대상 임상시험 결과가 발표됐다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "기존 치료제 대비 무진행생존기간이 긴 것으로 나타났다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히, 비아시아인에 비해 더 긍정적인 효과를 보이는 것으로도 확인됐다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 16~19일 싱가포르에서 열린 2016 유럽종양학회 아시아회의(ESMO Asia)에선 폐경 후 HR+/HER2- 진행성 유방암 환자 666명을 대상으로 한 3상 임상연구(PALOMA-2) 결과가 공개됐다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "무진행 생존기간 중간값(mPFS)은 입랜스-레트로졸 병용 투여군이 24.8개월, 레트로졸 단독 투여군은 14.5개월이었다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 연구에 참여한 아시아(95명), 비아시아(571명) 그룹 데이터를 비교한 결과, 아시아인의 입랜스-레트로졸 병용투여군의 mPFS는 25.7개월이었다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "비아시아 그룹의 경우 24.8개월이었다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "레트로졸 단독투여군과의 차이 역시 각각 11.8개월, 8.9개월로 아시아인에게 더 효과적인 것으로 나타났다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "종양 축소 등 치료에 따른 질병 반응을 측정하는 객관적 반응률(ORR)과 임상으로 인한 완전관해, 부분관해, 안정병변 달성여부를 측정하는 임상효용율(CBR)은 측정 가능한 질병군에서 두 그룹 모두 레트로졸 단독투여군 대비 유사한 개선 효과를 보였다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "아시아 그룹의 입랜스-레트로졸 병용군은 ORR 62%, CBR 85%를 보였으며, 비아시아 그룹의 병용군은 ORR 61%, CBR 86%을 기록했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "한국화이자제약 항암제 사업부 송찬우 전무는 “이번 아시아 그룹 분석 결과를 포함해 입랜스의 효과를 입증하는 임상적 데이터들이 지속적으로 확인되고 있다”며 “이러한 결과가 전이성 유방암 환자 및 의료진에게 희망적인 소식이 되길 바란다”고 말했다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "한편, 입랜스는 세포 분열과 성장을 조절하는 사이클린 의존성 키나아제(CDK) 4/6을 선별적으로 억제해 암세포의 증식을 막는2 새로운 기전의 경구용 전이성 유방암 치료제다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "지난 8월 식품의약품안전처로부터 폐경 후 여성의 일차 내분비 요법으로서 레트로졸 병용 또는 내분비요법 후 질환이 진행된 여성에서 풀베스트란트 병용요법으로 승인받았다.",
+        "sentenceSize": 92
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "끔찍한 유방암... 치료제 ‘입랜스’, 아시아 환자에게 효과 있어!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

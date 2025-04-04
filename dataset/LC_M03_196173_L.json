@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196173",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "거짓 병원 후기에 환자들이 속고 있다?",
+    "newsSubTitle": "일반인이 쓴 것처럼 올린 병원 후기, 알고보면 바이럴마케팅",
+    "newsContent": "유명 병원들이 온라인 바이럴마케팅을 통한 광고글로 환자들을 현혹하고 있다는 문제가 제기됐다.\n인터넷 블로그나 커뮤니티에 올라온 병원 체험기나 이용후기를 통해서다.\n과거 환자가 병원을 선택하는 기준은 입소문이나 전단지 광고 등이었다.\n하지만 최근 온라인 정보검색을 통해 수집한 정보를 통해 의료기관을 선택하는 경우가 많아졌다.\n환자는 병원 선택에 앞서 병원 홈페이지나 포털사이트의 지식답변서비스를 통해 치료 사례나 후기를 참고한다는 조사 결과도 있다.\n이에 대한치과의사협회(회장 최남섭)는 최근 “인터넷상의 불법적인 광고의 실태를 수집‧조사한 결과, 대형 네트워크치과를 비롯해 강남의 유명한 성형외과, 안과, 한의원에 이르기까지 소위 ‘바이럴마케팅’이라는 형식의 광고글들이 난무하고 있는 것으로 확인됐다”고 문제를 제기했다.\n바이럴마케팅은 원래 소비자의 자발적 입소문을 통한 광고를 의미했다.\n하지만 최근에는 기업 등이 금전적 대가를 주고 정상적인 이용후기나 체험기 등의 형식으로 온라인상에 컨텐츠를 게시하게 함으로써 ‘조작된 광고 효과’를 도모하는 것으로 의미가 변질됐다는 게 치협의 지적이다.\n실제 온라인상에서 이같은 바이럴마케팅 실태를 확인하는 것은 어렵지 않다.\n여러 업체들이 성형외과, 안과, 치과, 한의원 등의 바이럴마케팅 등을 대행하며 후기글 작성하는 아르바이트를 모집하고 있다.\n▲ 병원 바이럴마케팅업체의 홈페이지 캡쳐 화면. 현행 의료법령에서는 허위광고나 과장광고 및 객관적 근거가 인정되지 않는 광고, 치료경험담으로 표현되는 광고 등을 금지하고 있다.\n복지부도 바이럴마케팅을 통한 의료광고에 대해 “치료경험담을 불특정다수에게 광고하는 것은 의료법에 저촉된다”며 “소비자들에게 의료기관과 무관한 개인이 글을 작성하는 것처럼 오인혼동하게 하는 것은 부적절할 것으로 판단된다”는 유권해석을 내놓기도 했다.\n하지만 아직까지 바이럴마케팅에 대해 적극적인 단속이나 규제가 이뤄진 적은 없다.\n의료계 내부의 자율정화에 의지하고 있는 상황이다.\n▲ 병원 바이럴마케팅업체가 올린 '치과 포스팅 알바' 모집 게시글. 이에 치협은 “그간 수집한 온라인상의 불법 의료광고에 대해 엄정한 처벌과 일벌백계를 위해 관련 단체인 대한의사협회, 대한한의사협회 등과 연계해 고발조치할 예정”이라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유명 병원들이 온라인 바이럴마케팅을 통한 광고글로 환자들을 현혹하고 있다는 문제가 제기됐다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "인터넷 블로그나 커뮤니티에 올라온 병원 체험기나 이용후기를 통해서다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "과거 환자가 병원을 선택하는 기준은 입소문이나 전단지 광고 등이었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 최근 온라인 정보검색을 통해 수집한 정보를 통해 의료기관을 선택하는 경우가 많아졌다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "환자는 병원 선택에 앞서 병원 홈페이지나 포털사이트의 지식답변서비스를 통해 치료 사례나 후기를 참고한다는 조사 결과도 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 대한치과의사협회(회장 최남섭)는 최근 “인터넷상의 불법적인 광고의 실태를 수집‧조사한 결과, 대형 네트워크치과를 비롯해 강남의 유명한 성형외과, 안과, 한의원에 이르기까지 소위 ‘바이럴마케팅’이라는 형식의 광고글들이 난무하고 있는 것으로 확인됐다”고 문제를 제기했다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "바이럴마케팅은 원래 소비자의 자발적 입소문을 통한 광고를 의미했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 최근에는 기업 등이 금전적 대가를 주고 정상적인 이용후기나 체험기 등의 형식으로 온라인상에 컨텐츠를 게시하게 함으로써 ‘조작된 광고 효과’를 도모하는 것으로 의미가 변질됐다는 게 치협의 지적이다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "실제 온라인상에서 이같은 바이럴마케팅 실태를 확인하는 것은 어렵지 않다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "여러 업체들이 성형외과, 안과, 치과, 한의원 등의 바이럴마케팅 등을 대행하며 후기글 작성하는 아르바이트를 모집하고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "▲ 병원 바이럴마케팅업체의 홈페이지 캡쳐 화면. 현행 의료법령에서는 허위광고나 과장광고 및 객관적 근거가 인정되지 않는 광고, 치료경험담으로 표현되는 광고 등을 금지하고 있다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "복지부도 바이럴마케팅을 통한 의료광고에 대해 “치료경험담을 불특정다수에게 광고하는 것은 의료법에 저촉된다”며 “소비자들에게 의료기관과 무관한 개인이 글을 작성하는 것처럼 오인혼동하게 하는 것은 부적절할 것으로 판단된다”는 유권해석을 내놓기도 했다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "하지만 아직까지 바이럴마케팅에 대해 적극적인 단속이나 규제가 이뤄진 적은 없다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "의료계 내부의 자율정화에 의지하고 있는 상황이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "▲ 병원 바이럴마케팅업체가 올린 '치과 포스팅 알바' 모집 게시글. 이에 치협은 “그간 수집한 온라인상의 불법 의료광고에 대해 엄정한 처벌과 일벌백계를 위해 관련 단체인 대한의사협회, 대한한의사협회 등과 연계해 고발조치할 예정”이라고 밝혔다.",
+        "sentenceSize": 135
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "온라인 정보검색으로 병원을 선택했다가 낭패를 볼 수도 있는 까닭은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

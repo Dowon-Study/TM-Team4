@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194992",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[이건 이렇지요] 유통기한만 보지말고 영양표시 읽어라",
+    "newsSubTitle": "",
+    "newsContent": "요즘 대형 할인매장이나 수퍼마켓에 가면 식품의 뒷면에 조그만 글자로 쓰인 영양표시(라벨)를 꼼꼼히 읽는 소비자들이 적지 않습니다.\n이는 우리 국민의 영양과 건강에 대한 관심이 부쩍 높아졌다는 사실을 반영하지요.\n그러나 아직은 \\\"유통기한 정도만 본다\\\"거나 \\\"귀찮아서 보지 않는다\\\"는 소비자가 훨씬 많습니다.\n영양표시만 잘 봐도 자신이나 가족 건강에 큰 도움을 얻을 수 있는데도 말입니다.\n만약 영양표시가 없다면 기업들은 자사 제품에 유리한 정보만 밝히기를 원할 것입니다.\n그래서 국민 건강에 중요한 성분(열량.단백질.탄수화물.지방.콜레스테롤.나트륨.비타민.미네랄 함량 등)을 제품에 알리도록 한 것이 영양표시입니다.\n짧은 쇼핑시간에 영양표시를 일일이 읽고 제품을 구입하기가 귀찮으시다고요?\n그렇다면 자신이나 가족의 건강에 중요한 한두 가지 영양소 함량이라도 읽기를 권합니다.\n가령 체중 문제로 고심한다면 열량 하나만이라도 보고 사세요.\n고지혈증이 있다면 콜레스테롤, 고혈압이 걱정이면 나트륨, 어머니가 유방암에 걸린 병력이 있다면 지방, 골다공증이 염려스러우면 칼슘, 당뇨병이 있다면 탄수화물을 집중적으로 보는 것이 좋겠지요(한국보건산업진흥원 정해랑 박사). 영양표시의 수치를 읽을 때 표시된 함량의 산출 기준이 무엇인지를 살피는 것도 중요합니다.\n어떤 제품의 1백g당 열량과 1회 분량당 열량은 완전히 다르기 때문입니다.\n영양소 함량을 읽는 것이 번거로우면 무가당.저칼로리.칼슘 강화.고단백 등 영양소 함량 강조 표시라도 눈 여겨 봐야 합니다.\n무.저.감소.강화.첨가.함유 등의 용어는 일정 기준에 도달하는 경우에만 사용할 수 있도록 규정돼 있기 때문이죠(삼성서울병원 조영연 영양파트장). 제품 앞면에 커다랗게 적힌 '저열량''저염' 용어만 보고 구입해도 열량.나트륨 섭취를 줄일 수 있다는 말입니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "요즘 대형 할인매장이나 수퍼마켓에 가면 식품의 뒷면에 조그만 글자로 쓰인 영양표시(라벨)를 꼼꼼히 읽는 소비자들이 적지 않습니다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이는 우리 국민의 영양과 건강에 대한 관심이 부쩍 높아졌다는 사실을 반영하지요.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러나 아직은 \\\"유통기한 정도만 본다\\\"거나 \\\"귀찮아서 보지 않는다\\\"는 소비자가 훨씬 많습니다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "영양표시만 잘 봐도 자신이나 가족 건강에 큰 도움을 얻을 수 있는데도 말입니다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "만약 영양표시가 없다면 기업들은 자사 제품에 유리한 정보만 밝히기를 원할 것입니다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그래서 국민 건강에 중요한 성분(열량.단백질.탄수화물.지방.콜레스테롤.나트륨.비타민.미네랄 함량 등)을 제품에 알리도록 한 것이 영양표시입니다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "짧은 쇼핑시간에 영양표시를 일일이 읽고 제품을 구입하기가 귀찮으시다고요?",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그렇다면 자신이나 가족의 건강에 중요한 한두 가지 영양소 함량이라도 읽기를 권합니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "가령 체중 문제로 고심한다면 열량 하나만이라도 보고 사세요.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "고지혈증이 있다면 콜레스테롤, 고혈압이 걱정이면 나트륨, 어머니가 유방암에 걸린 병력이 있다면 지방, 골다공증이 염려스러우면 칼슘, 당뇨병이 있다면 탄수화물을 집중적으로 보는 것이 좋겠지요(한국보건산업진흥원 정해랑 박사). 영양표시의 수치를 읽을 때 표시된 함량의 산출 기준이 무엇인지를 살피는 것도 중요합니다.",
+        "sentenceSize": 174
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "어떤 제품의 1백g당 열량과 1회 분량당 열량은 완전히 다르기 때문입니다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "영양소 함량을 읽는 것이 번거로우면 무가당.저칼로리.칼슘 강화.고단백 등 영양소 함량 강조 표시라도 눈 여겨 봐야 합니다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "무.저.감소.강화.첨가.함유 등의 용어는 일정 기준에 도달하는 경우에만 사용할 수 있도록 규정돼 있기 때문이죠(삼성서울병원 조영연 영양파트장). 제품 앞면에 커다랗게 적힌 '저열량''저염' 용어만 보고 구입해도 열량.나트륨 섭취를 줄일 수 있다는 말입니다.",
+        "sentenceSize": 143
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "장 볼 때 우리 가족 건강을 지킬 수 있는 간단한 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

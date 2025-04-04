@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196625",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "위안부 할머니 증언, 시로 미국에 알렸다",
+    "newsSubTitle": "에밀리 정민 윤, 한국어판 시집 내",
+    "newsContent": "“이 책이 반일 민족주의적으로 읽히는 걸 원치 않아요. 일본군 위안부의 증언을 중심에 뒀지만, 아시아계, 또 현대 여성들의 경험을 감싸고 싶었습니다.” 재미 시인 에밀리 정민 윤(29·사진)이 일본군 위안부 피해 여성들의 증언을 토대로 만든 데뷔 시집 『우리 종족의 특별한 잔인함(A Cruelty Special to Our Species)』(2018년, 하퍼콜린스) 한국어 번역본(열림원) 출간을 맞아 13일 기자간담회를 열었다. ‘증언들’ ‘일상의 불운’ 등을 통해 그는 전쟁의 폭력, 인종 차별에 주목했다.\n인쇄 방식이 독특하다.\n할머니들의 증언은 한 문장을 한 번에 읽기가 쉽지 않다.\n행이 여러 번 바뀌고 소절이 떨어져 있다. “시를 읽는 것을 불편하게 해 내용과 연결하고 싶었어요.” 그는 이런 작업을 ‘찾은 시(found poetry)’라고 설명했다.\n2002년 캐나다로 이주한 윤씨는 미국 뉴욕대 문예창작 석사과정 중 ‘증언들’ 등의 초안을 썼다.\n서문에서 “‘위안부’ 역사를 아는 이가 미국에 많이 없다는 것을 알고, 피해자 목소리를 들려주려 쓰기 시작한 뒤 멈출 수 없었다”고 했다.\n그는 한국어판과 관련해 “한국에선 위안부 역사를 알리는 일이 필요없지만 ‘알림’이 아닌 ‘지속시킴’의 역할을 하고 싶다”고 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "“이 책이 반일 민족주의적으로 읽히는 걸 원치 않아요. 일본군 위안부의 증언을 중심에 뒀지만, 아시아계, 또 현대 여성들의 경험을 감싸고 싶었습니다.” 재미 시인 에밀리 정민 윤(29·사진)이 일본군 위안부 피해 여성들의 증언을 토대로 만든 데뷔 시집 『우리 종족의 특별한 잔인함(A Cruelty Special to Our Species)』(2018년, 하퍼콜린스) 한국어 번역본(열림원) 출간을 맞아 13일 기자간담회를 열었다. ‘증언들’ ‘일상의 불운’ 등을 통해 그는 전쟁의 폭력, 인종 차별에 주목했다.",
+        "sentenceSize": 286
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "인쇄 방식이 독특하다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "할머니들의 증언은 한 문장을 한 번에 읽기가 쉽지 않다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "행이 여러 번 바뀌고 소절이 떨어져 있다. “시를 읽는 것을 불편하게 해 내용과 연결하고 싶었어요.” 그는 이런 작업을 ‘찾은 시(found poetry)’라고 설명했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2002년 캐나다로 이주한 윤씨는 미국 뉴욕대 문예창작 석사과정 중 ‘증언들’ 등의 초안을 썼다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서문에서 “‘위안부’ 역사를 아는 이가 미국에 많이 없다는 것을 알고, 피해자 목소리를 들려주려 쓰기 시작한 뒤 멈출 수 없었다”고 했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 한국어판과 관련해 “한국에선 위안부 역사를 알리는 일이 필요없지만 ‘알림’이 아닌 ‘지속시킴’의 역할을 하고 싶다”고 했다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "위안부 할머니의 절절하게 애끓는 사연, 미국에 울려 퍼지다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

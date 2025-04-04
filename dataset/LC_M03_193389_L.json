@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193389",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK책갈피] 서양철학을 '머리 아프지 않게'",
+    "newsSubTitle": "",
+    "newsContent": "철학 남경태 지음, 들녘, 560쪽, 2만3000원 교양.책.과학에 이은 '사람이 알아야 할 모든 것'시리즈 중 네 번째로, 첫 국내 저술이란 점에서 눈길을 끄는 책이다.\n그렇다고 부제에 겁먹을 필요는 없다. '만학(萬學)의 제왕'이라는 철학의 모든 것을 책 한 권에 담아낸다는 것은 불가능하니까. 정확하게 말하자면 철학사, 그것도 서양철학사를 다뤘다.\n서양철학사라면 윌 듀란트의 '철학이야기'나 버트란드 러셀, 요한네스 힐쉬베르거, S.P. 램프레히트의 것이 많이 알려졌다.\n사회학을 전공한 지은이가 쓴 이 책은 그에 비해 몇 가지 특장을 지녔다.\n우선은 현학적이지도 않고 '개론서'류의 딱딱한 교재형식이 아니다. '개념어 사전' 등 이전 저술에서 방대한 독서량을 바탕으로 한 주관적이고도 대중적인 글쓰기의 전범을 보여준 지은이의 내공이 십분 발휘됐다.\n독특한 서술 체계도 돋보인다.\n철학사를 관통하는 흐름을 세계론-인간론-인식론 세 단계로 정리했다.\n세계론은 인간 주변 자연세계에 대한 관심이다.\n이 궁금증이 어느 정도 풀리면 자기 자신의 존재에 의문을 품기에 이른다.\n인간론이다.\n그 다음 세계라는 대상과 인간이란 주체를 두고 \\\"주체가 대상을 어떻게 인식하는가?\\\"가 궁금해진다는것이다.\n이런 큰 줄기를 따르다 보면 고대 그리스 철학자들이 던진 최초의 철학적 질문이 '세상 만물의 공통적인 요소는 무엇인가'였던 배경, 중세 스콜라 철학이 기독교에 봉사하게 된 사연, 20세기 들어 언어가 철학의 큰 과제로 떠오른 이유 등을 알게 된다.\n인물이나 에피소드 중심으로 철학사를 살피다 보면 자칫 놓치기 쉬운 대목이다.\n끊임없이 오늘의 현실과 연관 지우려 한 노력도 평가할 만하다.\n소쉬르와 레비스트로스의 구조주의를 설명하면서 \\\"사회마다 다양한 문화적 특성과 차이가 존재하지만 모든 사회의 심층에는 사회의 성립과 존속을 가능케 하는 것, 즉 보편적 성질이 있다…음악에서 국악과 재즈의 협주가 가능한 이유는 그 때문이다…에릭 클랩턴의 블루스인 '갓 투 허리(Got to hurry)'와 김민기의 국악가요인 '가뭄'은 오로지 다섯 음의 패턴으로만 진행된다\\\"고 하는 식이다.\n20세기 현대 철학에 상당 부분을 할애한 것도 이 책의 미덕이다.\n대부분의 서양철학사 책이 19세기까지 다룬 데 반해 하이데거, 사르트르에서 푸코와 들뢰즈, 데리다까지 친숙하면서도 알쏭달쏭한 인물들의 사유체계를 명쾌하게 풀어나간다.\n색다른 분석틀이나 종횡무진하는 설명에 힘입어 이 책은 지성사를 다룬 빼어난 교양서가 되었다.\n하지만 참고문헌과 찾아보기가 있었다면 더 알찼겠다는 아쉬움은 남는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "철학 남경태 지음, 들녘, 560쪽, 2만3000원 교양.책.과학에 이은 '사람이 알아야 할 모든 것'시리즈 중 네 번째로, 첫 국내 저술이란 점에서 눈길을 끄는 책이다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그렇다고 부제에 겁먹을 필요는 없다. '만학(萬學)의 제왕'이라는 철학의 모든 것을 책 한 권에 담아낸다는 것은 불가능하니까. 정확하게 말하자면 철학사, 그것도 서양철학사를 다뤘다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서양철학사라면 윌 듀란트의 '철학이야기'나 버트란드 러셀, 요한네스 힐쉬베르거, S.P. 램프레히트의 것이 많이 알려졌다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사회학을 전공한 지은이가 쓴 이 책은 그에 비해 몇 가지 특장을 지녔다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "우선은 현학적이지도 않고 '개론서'류의 딱딱한 교재형식이 아니다. '개념어 사전' 등 이전 저술에서 방대한 독서량을 바탕으로 한 주관적이고도 대중적인 글쓰기의 전범을 보여준 지은이의 내공이 십분 발휘됐다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "독특한 서술 체계도 돋보인다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "철학사를 관통하는 흐름을 세계론-인간론-인식론 세 단계로 정리했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "세계론은 인간 주변 자연세계에 대한 관심이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이 궁금증이 어느 정도 풀리면 자기 자신의 존재에 의문을 품기에 이른다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "인간론이다.",
+        "sentenceSize": 6
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그 다음 세계라는 대상과 인간이란 주체를 두고 \\\"주체가 대상을 어떻게 인식하는가?\\\"가 궁금해진다는것이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이런 큰 줄기를 따르다 보면 고대 그리스 철학자들이 던진 최초의 철학적 질문이 '세상 만물의 공통적인 요소는 무엇인가'였던 배경, 중세 스콜라 철학이 기독교에 봉사하게 된 사연, 20세기 들어 언어가 철학의 큰 과제로 떠오른 이유 등을 알게 된다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "인물이나 에피소드 중심으로 철학사를 살피다 보면 자칫 놓치기 쉬운 대목이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "끊임없이 오늘의 현실과 연관 지우려 한 노력도 평가할 만하다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "소쉬르와 레비스트로스의 구조주의를 설명하면서 \\\"사회마다 다양한 문화적 특성과 차이가 존재하지만 모든 사회의 심층에는 사회의 성립과 존속을 가능케 하는 것, 즉 보편적 성질이 있다…음악에서 국악과 재즈의 협주가 가능한 이유는 그 때문이다…에릭 클랩턴의 블루스인 '갓 투 허리(Got to hurry)'와 김민기의 국악가요인 '가뭄'은 오로지 다섯 음의 패턴으로만 진행된다\\\"고 하는 식이다.",
+        "sentenceSize": 218
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "20세기 현대 철학에 상당 부분을 할애한 것도 이 책의 미덕이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "대부분의 서양철학사 책이 19세기까지 다룬 데 반해 하이데거, 사르트르에서 푸코와 들뢰즈, 데리다까지 친숙하면서도 알쏭달쏭한 인물들의 사유체계를 명쾌하게 풀어나간다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "색다른 분석틀이나 종횡무진하는 설명에 힘입어 이 책은 지성사를 다룬 빼어난 교양서가 되었다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "하지만 참고문헌과 찾아보기가 있었다면 더 알찼겠다는 아쉬움은 남는다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "남경태 작가의 '철학'... 철학책이라 '엄근진' 할 거라는 생각은 오산... ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

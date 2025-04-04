@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196141",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "동치미 어원 '동침(冬沈)=겨울에 먹는 김치'…너무 많이 먹지는 말 것",
+    "newsSubTitle": "",
+    "newsContent": "동치미의 어원이 화제다. ‘동치미’는 주재료인 무에 배 등을 곁들여 만든 시원하고 특유의 쌉쌀한 맛이 일품인 ‘물김치’를 뜻한다.\n동치미의 어원은 ‘동침(冬沈)’이라는 한자어에서 나왔다.\n본래 김치의 어원이 침채(沈菜)인데 동침은 겨울 동(冬)자에 김치를 나타내는 침(沈)자를 써 ‘동침’, 즉 ‘겨울에 먹는 김치’란 뜻으로 만들어졌다.\n이 ‘동침’은 시간이 흐르면서 차츰 부르기 편한 동치미로 말이 바뀌어 오늘날처럼 동치미로 부르게 됐다.\n동치미는 전통 발효식품이다.\n동치미에는 식이섬유가 풍부해 다이어트에 효과가 있다.\n동치미에는 탄수화물의 일종인 펙틴이 들어있는데 펙틴은 장 운동에 도움을 줘 변비를 개선하고 노폐물을 배출시킨다.\n동치미와 군고구마를 함께 먹으면 동치미 속 섬유질이 치아 사이를 청소해 주기기 때문에 충치가 예방되는 효능이 있다.\n단 동치미는 나트륨의 함유가 조금 높은 편에 속하니 너무 많이 섭취해서는 안 된다.\n온라인 중앙일보 ‘동치미 어원’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "동치미의 어원이 화제다. ‘동치미’는 주재료인 무에 배 등을 곁들여 만든 시원하고 특유의 쌉쌀한 맛이 일품인 ‘물김치’를 뜻한다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "동치미의 어원은 ‘동침(冬沈)’이라는 한자어에서 나왔다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "본래 김치의 어원이 침채(沈菜)인데 동침은 겨울 동(冬)자에 김치를 나타내는 침(沈)자를 써 ‘동침’, 즉 ‘겨울에 먹는 김치’란 뜻으로 만들어졌다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 ‘동침’은 시간이 흐르면서 차츰 부르기 편한 동치미로 말이 바뀌어 오늘날처럼 동치미로 부르게 됐다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "동치미는 전통 발효식품이다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "동치미에는 식이섬유가 풍부해 다이어트에 효과가 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "동치미에는 탄수화물의 일종인 펙틴이 들어있는데 펙틴은 장 운동에 도움을 줘 변비를 개선하고 노폐물을 배출시킨다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "동치미와 군고구마를 함께 먹으면 동치미 속 섬유질이 치아 사이를 청소해 주기기 때문에 충치가 예방되는 효능이 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "단 동치미는 나트륨의 함유가 조금 높은 편에 속하니 너무 많이 섭취해서는 안 된다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 ‘동치미 어원’ [사진 중앙포토]",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "특유의 감칠맛 일품인 동치미, 숨겨진 어원은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194701",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK꿈나무] 할머니가 주문을 외자 콩떡으로 변했어요",
+    "newsSubTitle": "",
+    "newsContent": "까만 콩떡이 될 뻔한 최현호 노경실 지음, 정민아 그림 느림보, 92쪽, 8000원 어린이책 분야의 스테디셀러 중 하나인 '상계동 아이들'을 쓴 노경실 작가의 신작이다.\n지난해 발표했던 '최현호는 왜 집으로 돌아왔을까'(웅진씽크하우스)의 바로 그 최현호가 주인공이다(현호는 작가의 조카 이름이라고 한다). 전작에서 경시대회 성적표를 엄마한테 보여줄까 말까 고민하다 호랑이의 안내를 받아 '뭐리라리고리' 라는 이름도 이상한 마을로 간 현호. 이번에는 바이올린 케이스에서 꺼낸 마법의 빨간 지팡이를 이용해 떠난 상상의 나라에서 이상한 할머니 때문에 까만 콩떡이 될 뻔한 위기에 처한다.\n눈이 휙휙 돌아갈 정도의 빠른 사건 전개와 리얼한 묘사 덕분인지 책장이 술술 넘어간다.\n할머니가 현호를 콩떡으로 만들기 위해 엉덩이를 손바닥으로 내리치는 장면에서는 정말로 현호의 비명 소리가 들려오는 듯 하다.\n찜통 냄비 속에 갇혀버린 현호. 콩떡이 돼버린 현호는 어떻게 탈출할 수 있을까.\n날치와 가물치로 변한 친구들은 다시 본 모습으로 돌아올 수 있을까.\n주문이라도 함께 외워보고 싶은 심정이다.\n\\\"산디나라나 비투 나나니 로야 무리디 수르디빌라소 ….\\\" 현호의 다음 모험은 무엇인지 궁금해진다.\n그림책이라고 해도 좋을 만큼 삽화 비중이 커서 가벼운 마음으로 머리를 식히기에 좋은 소품이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "까만 콩떡이 될 뻔한 최현호 노경실 지음, 정민아 그림 느림보, 92쪽, 8000원 어린이책 분야의 스테디셀러 중 하나인 '상계동 아이들'을 쓴 노경실 작가의 신작이다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난해 발표했던 '최현호는 왜 집으로 돌아왔을까'(웅진씽크하우스)의 바로 그 최현호가 주인공이다(현호는 작가의 조카 이름이라고 한다). 전작에서 경시대회 성적표를 엄마한테 보여줄까 말까 고민하다 호랑이의 안내를 받아 '뭐리라리고리' 라는 이름도 이상한 마을로 간 현호. 이번에는 바이올린 케이스에서 꺼낸 마법의 빨간 지팡이를 이용해 떠난 상상의 나라에서 이상한 할머니 때문에 까만 콩떡이 될 뻔한 위기에 처한다.",
+        "sentenceSize": 230
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "눈이 휙휙 돌아갈 정도의 빠른 사건 전개와 리얼한 묘사 덕분인지 책장이 술술 넘어간다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "할머니가 현호를 콩떡으로 만들기 위해 엉덩이를 손바닥으로 내리치는 장면에서는 정말로 현호의 비명 소리가 들려오는 듯 하다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "찜통 냄비 속에 갇혀버린 현호. 콩떡이 돼버린 현호는 어떻게 탈출할 수 있을까.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "날치와 가물치로 변한 친구들은 다시 본 모습으로 돌아올 수 있을까.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "주문이라도 함께 외워보고 싶은 심정이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "\\\"산디나라나 비투 나나니 로야 무리디 수르디빌라소 ….\\\" 현호의 다음 모험은 무엇인지 궁금해진다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그림책이라고 해도 좋을 만큼 삽화 비중이 커서 가벼운 마음으로 머리를 식히기에 좋은 소품이다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이상한 마을 가더니 이번엔 까만 콩떡 될 위기 처한 현호의 이야기 담긴 책은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

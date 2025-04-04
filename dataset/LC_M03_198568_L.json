@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198568",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[틴틴/키즈] '잉글리시 로즈'",
+    "newsSubTitle": "샘내고 따돌려서 미안해, 친구야 마돈나 지음, 제프리 플비마리 그림, 김원숙 옮김, 문학사상사, 9천5백원",
+    "newsContent": "팝 가수 마돈나가 썼다해서 화제가 된 책. 그러나 작가의 유명세에 가려 책 내용은 별로 알려지지 않았다.\n어린 시절 어머니가 없었던 마돈다는 자신보다 유복하거나 예쁜 아이들에게 질투심을 느꼈다고 한다.\n나중에 성장하고 나서야 그런 감정이 의미 없는 시간 낭비라는 것을 깨달았는데 이번에는 마돈나의 아이들이 유명한 엄마를 둔 탓에 친구들 사이에 따돌림을 당하고 있다고 한다.\n이런 경험이 마돈나가 글을 쓴 배경이다.\n영국 런던에 사는 열한살 소녀 네 명의 또래 집단인 '잉글리시 로즈'는 같은 동네에 사는 예쁜 비나를 시기한다.\n놀이에 끼워주지 않고 못 본척 무시하기 일쑤다.\n그러던 어느 날 또래들은 비나가 집안 일을 도맡아 해야 하는 외로운 처지라는 것을 알고 마음을 열고 친구가 된다는 이야기다.\n마돈나는 질투심을 이기려면 입장을 바꿔 생각하는 것보다 더 좋은 방법이 없다고 말한다.\n문학적으로 뛰어나지는 않지만 자신의 경험을 솔직하게 풀어내 감동을 자아낸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "팝 가수 마돈나가 썼다해서 화제가 된 책. 그러나 작가의 유명세에 가려 책 내용은 별로 알려지지 않았다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "어린 시절 어머니가 없었던 마돈다는 자신보다 유복하거나 예쁜 아이들에게 질투심을 느꼈다고 한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "나중에 성장하고 나서야 그런 감정이 의미 없는 시간 낭비라는 것을 깨달았는데 이번에는 마돈나의 아이들이 유명한 엄마를 둔 탓에 친구들 사이에 따돌림을 당하고 있다고 한다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이런 경험이 마돈나가 글을 쓴 배경이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "영국 런던에 사는 열한살 소녀 네 명의 또래 집단인 '잉글리시 로즈'는 같은 동네에 사는 예쁜 비나를 시기한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "놀이에 끼워주지 않고 못 본척 무시하기 일쑤다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러던 어느 날 또래들은 비나가 집안 일을 도맡아 해야 하는 외로운 처지라는 것을 알고 마음을 열고 친구가 된다는 이야기다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "마돈나는 질투심을 이기려면 입장을 바꿔 생각하는 것보다 더 좋은 방법이 없다고 말한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "문학적으로 뛰어나지는 않지만 자신의 경험을 솔직하게 풀어내 감동을 자아낸다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘이 가수’가 쓴 책에는 어떤 이야기가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

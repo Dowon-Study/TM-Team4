@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194910",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "화끈한 북잔치 '하늘.樂'",
+    "newsSubTitle": "",
+    "newsContent": "21세기를 살아가는 현대인의 숨통을 터줄 시원한 공연이 찾아온다.\n타악 단체 뿌리패 예술단(단장 전인근)의 타악 퍼포먼스 '하늘.樂'. 호암아트홀에서 펼쳐지는 이번 공연은 북소리가 가진 호탕함을 최대한 선보일 예정. '하늘.樂'에는 타악공연의 대명사로 알려진 사물놀이 이상의 볼거리와 힘이 준비되어 있다.\n특별제작된 국내 초대형 북을 비롯, 선조들이 사용하던 다듬이 돌, 통 대나무 등 가지각색의 북들이 관객의 시선마저 두드려 준다.\n다양한 북들사이로 무용단의 춤사위도 펼쳐진다. '여명', '파워코리아', '풍운', '천상', '동방의 빛' 등 이름이 붙여진 각 장은 우리 고유의 가락뿐만 아니라 락(Rock), 삼바(Samba)등 이국적인 음악들로 가득 채워져 나온다.\n여느 퍼포먼스처럼 '하늘.樂'도 한마디로 규정지을 수 없는 성격을 가진 공연. 태고의 원시미(美)를 가장 잘 간직해온 악기, 북의 웅장한 울림이 아쉽다면 찾아가볼 무대이다.\n공연안내 ▶ 기간 : 3.31. - 4.2. ▶ 장소 : 호암아트홀 ▶ 문의 : 02-338-6288 ▶ 인터넷예매 : TicketLink",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "21세기를 살아가는 현대인의 숨통을 터줄 시원한 공연이 찾아온다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "타악 단체 뿌리패 예술단(단장 전인근)의 타악 퍼포먼스 '하늘.樂'. 호암아트홀에서 펼쳐지는 이번 공연은 북소리가 가진 호탕함을 최대한 선보일 예정. '하늘.樂'에는 타악공연의 대명사로 알려진 사물놀이 이상의 볼거리와 힘이 준비되어 있다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특별제작된 국내 초대형 북을 비롯, 선조들이 사용하던 다듬이 돌, 통 대나무 등 가지각색의 북들이 관객의 시선마저 두드려 준다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다양한 북들사이로 무용단의 춤사위도 펼쳐진다. '여명', '파워코리아', '풍운', '천상', '동방의 빛' 등 이름이 붙여진 각 장은 우리 고유의 가락뿐만 아니라 락(Rock), 삼바(Samba)등 이국적인 음악들로 가득 채워져 나온다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여느 퍼포먼스처럼 '하늘.樂'도 한마디로 규정지을 수 없는 성격을 가진 공연. 태고의 원시미(美)를 가장 잘 간직해온 악기, 북의 웅장한 울림이 아쉽다면 찾아가볼 무대이다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "공연안내 ▶ 기간 : 3.31. - 4.2. ▶ 장소 : 호암아트홀 ▶ 문의 : 02-338-6288 ▶ 인터넷예매 : TicketLink",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "현대인의 숨통을 터줄 시원한 공연이 열린다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

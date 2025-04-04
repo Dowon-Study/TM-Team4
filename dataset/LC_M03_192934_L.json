@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192934",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[짤막소식] 서울대 음악대학 外",
+    "newsSubTitle": "",
+    "newsContent": "◆서울대 음악대학이 19일 첫 홈커밍데이 축제를 연다. 교직원.재학생뿐 아니라 동문 5000여 명을 초청하는 행사로, 음대 콘서트홀에서는 피아노.성악.관현악.작곡.국악과의 작은 음악회와 특강이 마련돼있다.\n음악회에서는 드보르자크의 피아노 퀸텟을 비롯, 작곡과 학생들의 작품이 공연된다.\n02-880-7960. ◆서울 서초동 모차르트홀에서는 스승과 제자 시리즈를 시작한다.\n첫 회는 30일 오후 7시30분 이화여대 배일환 교수와 제자로 구성된 첼로 앙상블 '이화첼리'가 꾸민다.\n장애인 연주자 박민수(재즈 피아노).이상재(클라리넷)도 찬조 출연한다. 02-3472-8222. ◆국립국악원의 창작악단은 지난해에 이어 두 번째로 실내악 연주 무대를 마련했다.\n창작악단이 이돈응(서울대)교수, 연극.무용음악 작곡가 강은구씨 등에게 직접 위촉한 실내악 다섯 곡이 연주된다.\n31일 오후 7시30분 국립국악원 예악당. 02-580-3391.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆서울대 음악대학이 19일 첫 홈커밍데이 축제를 연다. 교직원.재학생뿐 아니라 동문 5000여 명을 초청하는 행사로, 음대 콘서트홀에서는 피아노.성악.관현악.작곡.국악과의 작은 음악회와 특강이 마련돼있다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "음악회에서는 드보르자크의 피아노 퀸텟을 비롯, 작곡과 학생들의 작품이 공연된다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "02-880-7960. ◆서울 서초동 모차르트홀에서는 스승과 제자 시리즈를 시작한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "첫 회는 30일 오후 7시30분 이화여대 배일환 교수와 제자로 구성된 첼로 앙상블 '이화첼리'가 꾸민다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "장애인 연주자 박민수(재즈 피아노).이상재(클라리넷)도 찬조 출연한다. 02-3472-8222. ◆국립국악원의 창작악단은 지난해에 이어 두 번째로 실내악 연주 무대를 마련했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "창작악단이 이돈응(서울대)교수, 연극.무용음악 작곡가 강은구씨 등에게 직접 위촉한 실내악 다섯 곡이 연주된다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "31일 오후 7시30분 국립국악원 예악당. 02-580-3391.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "홈커밍데이 축제, \"동문 5,000여 명 초청하겠다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

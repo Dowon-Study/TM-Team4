@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198380",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/즐겨읽기] 유한한 삶 앞에 누구나 쓸쓸하니",
+    "newsSubTitle": "",
+    "newsContent": "세월 황주리 글·그림, 이레, 280쪽, 1만 원 황주리씨는 그림과 글이 다 되는 화가다.\n검정 선으로 말끔하게 두른 원색의 구상 회화도 좋거니와 산뜻한 글솜씨도 만만치 않아서 산문집 세 권에 번역서까지 내놨다.\n그림을 곁들인 그의 수필은 보는 맛과 읽는 맛이 잘 어우러진 또 하나의 작품이다. '세월'은 제목 그대로 세월의 무게가 무겁게 느껴지는 나이에 이른 황씨의 단상이다.\n\\\"이렇게 세월이 빨리 갈 줄은 정말 몰랐다\\\"는 작가는 솔직하게 털어놓는다.\n\\\"내게 있어 그림을 그리는 일은 눈앞에서 감쪽같이 사라지는 시간들을 붙잡기 위한 소박한 밥상이었다. 그렇게 눈 깜짝할 새 사라진 세월들을 저 가득 쌓인 그림들과 바꿨다는 생각이 아주 가끔은 대견하게 느껴지기도 한다.\\\" 여름-가을-겨울-봄의 순서로 엮은 글은 과거와 현재를 뒤섞으며 세월처럼 그림과 함께 흘러간다.\n\\\"유한한 삶 앞에서 우리 모두는 쓸쓸하다. 어느 날 그대도 백발이 성성하리니 오늘은 내일의 젊음이라 그저 열심히 살아갈밖에\\\"의 깨달음이 전해진다.\n안경과 돌에 그린 '명상' 연작과 함께 2000년대에 제작한 근작 60여 점이 덤으로 따라와 푸짐하다.\n이 그림은 13일까지 서울 관훈동 갤러리 아트사이드에서 열리고 있는 '황주리 개인전'에 가면 볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세월 황주리 글·그림, 이레, 280쪽, 1만 원 황주리씨는 그림과 글이 다 되는 화가다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "검정 선으로 말끔하게 두른 원색의 구상 회화도 좋거니와 산뜻한 글솜씨도 만만치 않아서 산문집 세 권에 번역서까지 내놨다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그림을 곁들인 그의 수필은 보는 맛과 읽는 맛이 잘 어우러진 또 하나의 작품이다. '세월'은 제목 그대로 세월의 무게가 무겁게 느껴지는 나이에 이른 황씨의 단상이다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "\\\"이렇게 세월이 빨리 갈 줄은 정말 몰랐다\\\"는 작가는 솔직하게 털어놓는다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "\\\"내게 있어 그림을 그리는 일은 눈앞에서 감쪽같이 사라지는 시간들을 붙잡기 위한 소박한 밥상이었다. 그렇게 눈 깜짝할 새 사라진 세월들을 저 가득 쌓인 그림들과 바꿨다는 생각이 아주 가끔은 대견하게 느껴지기도 한다.\\\" 여름-가을-겨울-봄의 순서로 엮은 글은 과거와 현재를 뒤섞으며 세월처럼 그림과 함께 흘러간다.",
+        "sentenceSize": 176
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "\\\"유한한 삶 앞에서 우리 모두는 쓸쓸하다. 어느 날 그대도 백발이 성성하리니 오늘은 내일의 젊음이라 그저 열심히 살아갈밖에\\\"의 깨달음이 전해진다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "안경과 돌에 그린 '명상' 연작과 함께 2000년대에 제작한 근작 60여 점이 덤으로 따라와 푸짐하다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 그림은 13일까지 서울 관훈동 갤러리 아트사이드에서 열리고 있는 '황주리 개인전'에 가면 볼 수 있다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "세월의 무상함에 눈물에 고일 때... '이 그림'을 보면 또 다른 깨달음이 전해져",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

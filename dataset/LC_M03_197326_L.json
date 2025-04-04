@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197326",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[단신]국회자살예방포럼 국제세미나 개최",
+    "newsSubTitle": "",
+    "newsContent": "제3회 국회자살예방포럼 국제세미나가 29일 오후 1시30분 국회 의원회관 대회의실에서 주한미국대사관, 주한덴마크대사관, 보건복지부 등과 함께 개최된다.\n이번 세미나는 신종 코로나바이러스 감염증(코로나19) 상황 속에서 자살예방 정책과 사례를 공유하고, 국제적인 자살예방문화 확산 방향을 논의한다.\n국회자살예방포럼은 생명의 소중함을 중요하게 생각하고 자살예방을 위한 법과 제도 개선, 예산 배정, 문화 확산 등을 추진하기 위해 만들어진 국회의원 연구모임이다.\n윤호중 더불어민주당 의원과 윤재옥 국민의힘 의원이 공동대표를 맡고 여야 52명의 국회의원이 참여하고 있다.\n이날 행사에는 박병석 국회의장과 박능후 복지부장관, 해리해리스 주한미국대사, 제임스 최 주한호주대사, 아이너 옌센 주한 덴마크 대사가 참석한다.\n세미나는 코로나19 방역 지침에 따라 50명 이하로 참석 인원을 제한하며, 오후 2시부터 유튜브(http://youtube.com/channel/UCpVPWT4zl7pHbFU6uE266gg)에서 생중계를 시청할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "제3회 국회자살예방포럼 국제세미나가 29일 오후 1시30분 국회 의원회관 대회의실에서 주한미국대사관, 주한덴마크대사관, 보건복지부 등과 함께 개최된다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번 세미나는 신종 코로나바이러스 감염증(코로나19) 상황 속에서 자살예방 정책과 사례를 공유하고, 국제적인 자살예방문화 확산 방향을 논의한다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국회자살예방포럼은 생명의 소중함을 중요하게 생각하고 자살예방을 위한 법과 제도 개선, 예산 배정, 문화 확산 등을 추진하기 위해 만들어진 국회의원 연구모임이다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "윤호중 더불어민주당 의원과 윤재옥 국민의힘 의원이 공동대표를 맡고 여야 52명의 국회의원이 참여하고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 행사에는 박병석 국회의장과 박능후 복지부장관, 해리해리스 주한미국대사, 제임스 최 주한호주대사, 아이너 옌센 주한 덴마크 대사가 참석한다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "세미나는 코로나19 방역 지침에 따라 50명 이하로 참석 인원을 제한하며, 오후 2시부터 유튜브(http://youtube.com/channel/UCpVPWT4zl7pHbFU6uE266gg)에서 생중계를 시청할 수 있다.",
+        "sentenceSize": 123
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "개인에게도 사회에게도 끔찍한 일… 자살 막기 위한 국제세미나 개최됐다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

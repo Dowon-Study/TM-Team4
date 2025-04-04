@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193497",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "소설 '장길산' 개정판 출간",
+    "newsSubTitle": "총 12권으로 늘리고 내용 수정",
+    "newsContent": "소설가 황석영씨의 대하소설 '장길산'(창비) 개정판이 출간됐다.\n외형적인 가장 큰 변화는 기존 10권에서 12권으로 늘어난 점이다.\n출판사는 읽기 편하게 하기 위해 활자 배치를 예전보다 성기게 하고 권 당 쪽수를 300~350쪽으로 줄여 조정하다 보니 2권이 늘었다고 설명했다.\n대장(大章) 아래 소장(小章) 구분도 세분화해 호흡이 늘어지지 않도록 했다.\n내용도 일부 바뀌었다.\n종장 '귀면' 부분에 관(官)이 장길산으로 보이는 광대를 학살했다는 대목을 추가했다.\n관도 광대가 '가짜 장길산'임을 알고 있었지만 민심의 이반을 잠재우는 효과를 노려 '사건 해결'을 조작했다는 것이다.\n초판에서는 장길산이 단순히 잡히지 않는 것으로 처리됐었다.\n종장 '운주 미륵'의 전설도 초판에는 천민 사이에 전해져 내려온 것으로 처리됐으나 개정판에서는 후백제 유민 사이에 전해 내려온 것으로 바꾸었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "소설가 황석영씨의 대하소설 '장길산'(창비) 개정판이 출간됐다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "외형적인 가장 큰 변화는 기존 10권에서 12권으로 늘어난 점이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "출판사는 읽기 편하게 하기 위해 활자 배치를 예전보다 성기게 하고 권 당 쪽수를 300~350쪽으로 줄여 조정하다 보니 2권이 늘었다고 설명했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대장(大章) 아래 소장(小章) 구분도 세분화해 호흡이 늘어지지 않도록 했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "내용도 일부 바뀌었다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "종장 '귀면' 부분에 관(官)이 장길산으로 보이는 광대를 학살했다는 대목을 추가했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "관도 광대가 '가짜 장길산'임을 알고 있었지만 민심의 이반을 잠재우는 효과를 노려 '사건 해결'을 조작했다는 것이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "초판에서는 장길산이 단순히 잡히지 않는 것으로 처리됐었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "종장 '운주 미륵'의 전설도 초판에는 천민 사이에 전해져 내려온 것으로 처리됐으나 개정판에서는 후백제 유민 사이에 전해 내려온 것으로 바꾸었다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "독자들에게 '완내스'로 나타난 '장길산' 개정판 출간",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

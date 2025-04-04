@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193026",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "“샤넬 가격 오른다” 백화점 문 열자 매장 질주, 입장 대기 222명",
+    "newsSubTitle": "",
+    "newsContent": "12일 오전 11시 30분경 서울 소공동 롯데백화점 본점 샤넬 매장 앞에는 사람들이 줄을 서 있었다.\n백화점 문을 연 지 1시간밖에 되지 않았는데 이미 입장 대기팀은 222명에 달했다.\n샤넬이 오는 14일부터 가격을 인상한다는 소식이 전해지자 인상 전에 제품을 사려는 사람들이 몰려든 것이다.\n올해 티파니·프라다·루이뷔통 등 다수의 명품 브랜드들이 동시에 가격을 올린 데 이어, 이달 샤넬의 가격 인상 소식에 백화점 매장마다 이런 해프닝이 벌어지고 있다.\n대기 시간만 최소 1시간 30분에서 길게는 3시간이 넘는다.\n소비자 사이에서 ‘샤테크(샤넬+재테크)’라는 말이 나올 정도로 샤넬은 투자 가치가 높은 브랜드로 꼽혀 수요가 몰리고 있다는 분석이다.\n그러다 보니 백화점 문이 열리자마자 매장으로 달려가는 ‘오픈 런(OPEN RUN)’이 펼쳐진다.\n인근 신세계백화점 본점에서도 샤넬 매장 밖에 모여있는 사람은 어림잡아 30여 명. 매장 안에는 더 많은 수의 사람이 있었다.\n수입 브랜드들은 제품 원가 상승, 최저임금 인상 등을 이유로 매년 수차례씩 가격을 인상해 왔다.\n올해는 코로나19 사태가 다소 완화되는 시점에 일제히 가격 인상에 나서 ‘보복 소비’를 노렸다는 분석이 나온다.\n특히 샤넬은 이미 지난 2019년 10월 인기 가방들의 가격을 100만원가량 올린 데 이어 7개월 만에 또 가격을 올리는 것이라 더 이목이 쏠렸다.\n이날 현대백화점을 찾은 이모씨는 “샤넬은 어차피 가격이 계속 오를 거라 인상 전에 사놓으면 이득”이라며 “요즘은 주말에도 백화점에 사람이 없었는데 샤넬 때문에 난리가 났다”고 말했다.\n이에 대해 샤넬 코리아 측은 “공식 발표를 따로 하진 않았지만, 글로벌에서 가격 인상이 있었던 건 맞다”는 입장을 밝혔다.\n인상 폭은 인기 품목을 중심으로 약 7~17% 선으로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "12일 오전 11시 30분경 서울 소공동 롯데백화점 본점 샤넬 매장 앞에는 사람들이 줄을 서 있었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "백화점 문을 연 지 1시간밖에 되지 않았는데 이미 입장 대기팀은 222명에 달했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "샤넬이 오는 14일부터 가격을 인상한다는 소식이 전해지자 인상 전에 제품을 사려는 사람들이 몰려든 것이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "올해 티파니·프라다·루이뷔통 등 다수의 명품 브랜드들이 동시에 가격을 올린 데 이어, 이달 샤넬의 가격 인상 소식에 백화점 매장마다 이런 해프닝이 벌어지고 있다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "대기 시간만 최소 1시간 30분에서 길게는 3시간이 넘는다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소비자 사이에서 ‘샤테크(샤넬+재테크)’라는 말이 나올 정도로 샤넬은 투자 가치가 높은 브랜드로 꼽혀 수요가 몰리고 있다는 분석이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러다 보니 백화점 문이 열리자마자 매장으로 달려가는 ‘오픈 런(OPEN RUN)’이 펼쳐진다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "인근 신세계백화점 본점에서도 샤넬 매장 밖에 모여있는 사람은 어림잡아 30여 명. 매장 안에는 더 많은 수의 사람이 있었다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "수입 브랜드들은 제품 원가 상승, 최저임금 인상 등을 이유로 매년 수차례씩 가격을 인상해 왔다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "올해는 코로나19 사태가 다소 완화되는 시점에 일제히 가격 인상에 나서 ‘보복 소비’를 노렸다는 분석이 나온다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "특히 샤넬은 이미 지난 2019년 10월 인기 가방들의 가격을 100만원가량 올린 데 이어 7개월 만에 또 가격을 올리는 것이라 더 이목이 쏠렸다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이날 현대백화점을 찾은 이모씨는 “샤넬은 어차피 가격이 계속 오를 거라 인상 전에 사놓으면 이득”이라며 “요즘은 주말에도 백화점에 사람이 없었는데 샤넬 때문에 난리가 났다”고 말했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이에 대해 샤넬 코리아 측은 “공식 발표를 따로 하진 않았지만, 글로벌에서 가격 인상이 있었던 건 맞다”는 입장을 밝혔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "인상 폭은 인기 품목을 중심으로 약 7~17% 선으로 알려졌다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코로나 영향으로 '보복 소비' 증가... 1시간 만에 매장 앞 대기 222명에 달해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

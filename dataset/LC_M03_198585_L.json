@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198585",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강 핫뉴스] 택시기사 전립선질환 많아 外",
+    "newsSubTitle": "",
+    "newsContent": "*** 택시기사 전립선질환 많아 택시기사들이 전립선질환에 많이 걸리는 것으로 나타났다.\n서울아산병원 비뇨기과 김청수 교수는 최근 택시기사 2백52명을 조사한 결과 70%인 1백77명에서 전립선염과 전립선비대증이 나타났다고 밝혔다.\n특히 특이항원 검사에선 5명이 4ng/㎖ 이상으로 전립선암이 의심됐다.\n중등도 환자는 48%인 1백22명, 증상이 심한 환자는 22%인 55명이나 됐다.\n또 생활만족도 조사에선 1백86명이 \\\"소변 보는 데 불편함을 느낀다\\\"고 응답했으며, \\\"견딜 수 없을 정도로 괴롭다\\\"는 기사도 31명이었다.\n김교수는 \\\"오랜시간 앉아 있으면 회음부와 골반근육이 긴장돼 소변 역류가 생기고, 혈액순환이 안될 뿐 아니라 소변을 자주 참아 방광 근육에 문제가 생긴다\\\"고 말했다.\n따라서 2시간 간격으로 일어나 골반근육의 긴장을 풀어주고, 하체 운동과 더운물 좌욕을 자주 하며, 소변을 참지 말 것을 권했다.\n*** 딱지 안 생기는 1회용 밴드 흉터를 남기지 않는 1회용 밴드가 나왔다.\n지난해 세계 최초로 두께 2㎜짜리 폴리우레탄 폼형 드레싱제를 개발한 벤처기업 바이오폴이 기존 드레싱제에 물과 세균 침투를 막아주는 점착필름을 부착, 가정에서 사용하는 '메디폼F'를 일동제약을 통해 출시했다.\n샤워나 운동을 해도 잘 떨어지지 않고, 한번 붙이면 2~3일 갈아줄 필요가 없다.\n메디폼F는 상처 부위가 적절한 습도로 유지되도록 최적의 피부재생 환경을 조성함으로써 상처 치유기간이 건조 드레싱보다 배나 빠르다.\n또 흉터의 원인이 되는 딱지가 생기지 않으며, 떼어낼 때 재생피부의 손상을 방지한다.\n크기는 7.5×10cm, 10×12cm 두 가지로 가격은 1장에 3천원과 4천5백원. 02-526-3335~7",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "*** 택시기사 전립선질환 많아 택시기사들이 전립선질환에 많이 걸리는 것으로 나타났다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울아산병원 비뇨기과 김청수 교수는 최근 택시기사 2백52명을 조사한 결과 70%인 1백77명에서 전립선염과 전립선비대증이 나타났다고 밝혔다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 특이항원 검사에선 5명이 4ng/㎖ 이상으로 전립선암이 의심됐다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "중등도 환자는 48%인 1백22명, 증상이 심한 환자는 22%인 55명이나 됐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 생활만족도 조사에선 1백86명이 \\\"소변 보는 데 불편함을 느낀다\\\"고 응답했으며, \\\"견딜 수 없을 정도로 괴롭다\\\"는 기사도 31명이었다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김교수는 \\\"오랜시간 앉아 있으면 회음부와 골반근육이 긴장돼 소변 역류가 생기고, 혈액순환이 안될 뿐 아니라 소변을 자주 참아 방광 근육에 문제가 생긴다\\\"고 말했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "따라서 2시간 간격으로 일어나 골반근육의 긴장을 풀어주고, 하체 운동과 더운물 좌욕을 자주 하며, 소변을 참지 말 것을 권했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "*** 딱지 안 생기는 1회용 밴드 흉터를 남기지 않는 1회용 밴드가 나왔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지난해 세계 최초로 두께 2㎜짜리 폴리우레탄 폼형 드레싱제를 개발한 벤처기업 바이오폴이 기존 드레싱제에 물과 세균 침투를 막아주는 점착필름을 부착, 가정에서 사용하는 '메디폼F'를 일동제약을 통해 출시했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "샤워나 운동을 해도 잘 떨어지지 않고, 한번 붙이면 2~3일 갈아줄 필요가 없다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "메디폼F는 상처 부위가 적절한 습도로 유지되도록 최적의 피부재생 환경을 조성함으로써 상처 치유기간이 건조 드레싱보다 배나 빠르다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "또 흉터의 원인이 되는 딱지가 생기지 않으며, 떼어낼 때 재생피부의 손상을 방지한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "크기는 7.5×10cm, 10×12cm 두 가지로 가격은 1장에 3천원과 4천5백원. 02-526-3335~7",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "택시기사들이 많이 걸리는 '이 질환'은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

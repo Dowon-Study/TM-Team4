@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195520",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "차의과학대학교, 난치병 환우 돕는 ‘아름다운 동행’ 사회공헌협약 체결",
+    "newsSubTitle": "현대그린푸드·현대백화점과 자선미술전시회·바자회 열어 기금 마련",
+    "newsContent": "[이민영 기자] 차의과학대학교(총장 이훈규)가 24일 현대그린푸드, 현대백화점판교점과 지역밀착형 사회공헌 협약을 체결했다.\n차의과학대학교는 미술치료대학원과 미술힐링 프로그램, 스포츠의학대학원과 지역사회 어르신 대상 메디컬 피트니스(Medical-Fitness) 등 전문성을 특화한 사회공헌사업을 진행할 계획이다.\n또 자선미술전회, 자선바자회, 자선음악회 등을 진행해 기금을 조성하고 난치병 환우, 다문화가족 의료와 장학사업을 후원할 계획이다.\n차의과학대학교는 지역사회 사업장과 함께 지역밀착형 사회공헌사업 ‘아름다운 동행’ 공익사업을 진행해왔다.\n서울 강남을 비롯해 경기도 분당, 판교, 포천 등 차의과학대학교와 차병원이 위치한 지역사회 음식점, 커피숍, 화원, 부동산, 자동차 판매점, 도시락 전문점 등 100개 사업장이 매월 정기적으로 소액기부를 하며 이웃사랑을 실천하고 있다.\n한편, 차병원(설립자 차광렬)은 우즈베키스탄, 카자흐스탄 등의 고려인을 대상으로 사랑의 메신저 운동의 일환으로 심장병 수술을 지난 20년간 시행해 왔다.\n차의과학대학교는 ‘생명사랑’의 창학이념을 바탕으로 난치병 환우들이 건강을 되찾을 수 있도록 연구와 의료지원을 하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[이민영 기자] 차의과학대학교(총장 이훈규)가 24일 현대그린푸드, 현대백화점판교점과 지역밀착형 사회공헌 협약을 체결했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "차의과학대학교는 미술치료대학원과 미술힐링 프로그램, 스포츠의학대학원과 지역사회 어르신 대상 메디컬 피트니스(Medical-Fitness) 등 전문성을 특화한 사회공헌사업을 진행할 계획이다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 자선미술전회, 자선바자회, 자선음악회 등을 진행해 기금을 조성하고 난치병 환우, 다문화가족 의료와 장학사업을 후원할 계획이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "차의과학대학교는 지역사회 사업장과 함께 지역밀착형 사회공헌사업 ‘아름다운 동행’ 공익사업을 진행해왔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서울 강남을 비롯해 경기도 분당, 판교, 포천 등 차의과학대학교와 차병원이 위치한 지역사회 음식점, 커피숍, 화원, 부동산, 자동차 판매점, 도시락 전문점 등 100개 사업장이 매월 정기적으로 소액기부를 하며 이웃사랑을 실천하고 있다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 차병원(설립자 차광렬)은 우즈베키스탄, 카자흐스탄 등의 고려인을 대상으로 사랑의 메신저 운동의 일환으로 심장병 수술을 지난 20년간 시행해 왔다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "차의과학대학교는 ‘생명사랑’의 창학이념을 바탕으로 난치병 환우들이 건강을 되찾을 수 있도록 연구와 의료지원을 하고 있다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "차의과학대학교, 현대백화점 판교점과 사회공헌 협약 체결... 앞으로의 계획은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

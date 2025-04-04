@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197258",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "시험대 오르는 '벤처 뮤지컬'",
+    "newsSubTitle": "",
+    "newsContent": "독특한 제작방식의 뮤지컬이 다음달 12일 문예회관 대극장에서 개막된다.\n이른바 '벤처 뮤지컬' 이다.\n연기자.제작진 모두 노 개런티로 출연하는 소액주주들이다.\n참가자들은 공연이 끝난 후 투자지분만큼 수익을 나눠갖게 된다.\n요즘 유행하는 스톡옵션제다. 화제의 작품은 러시아 록 뮤지컬 '유노나 이 아보스' (러시아어로 '어쩌면 희망이…' 라는 뜻) 를 우리 정서에 맞게 각색한 '아보스' (사진) . 당초 서울뮤지컬컴퍼니측이 '비련' 이라는 이름으로 올릴 예정이었으나 자금난에 빠진 극단측이 지난 10일께 공연을 포기하자 그동안 연습해온 연기자.스텝 20여명이 한 명의 이탈자도 없이 뜻을 모아 '사망' 직전의 작품을 되살려내게 됐다. '궁하면 통한다' 란 옛말이 연상될 정도다.\n작품성을 높이 평가한 연극평론가 이혜경 교수(국민대) 가 제작총괄을 맡은 것도 특징이다.\n그는 \\\"이번 시도를 통해 한국 뮤지컬 제작의 새로운 모델을 보여주겠다\\\" 고 말했다. '아보스' 는 1980년 러시아에서 초연된 이래 유럽.미국에서 호평을 받았으며 인류의 구원과 신에 대한 갈망 등을 나이 차를 뛰어넘는 남녀의 사랑으로 풀어가는 작품이다.\n서양 클래식 선율에 록 사운드를 접목한 음악이 흥미롭다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "독특한 제작방식의 뮤지컬이 다음달 12일 문예회관 대극장에서 개막된다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이른바 '벤처 뮤지컬' 이다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연기자.제작진 모두 노 개런티로 출연하는 소액주주들이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "참가자들은 공연이 끝난 후 투자지분만큼 수익을 나눠갖게 된다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "요즘 유행하는 스톡옵션제다. 화제의 작품은 러시아 록 뮤지컬 '유노나 이 아보스' (러시아어로 '어쩌면 희망이…' 라는 뜻) 를 우리 정서에 맞게 각색한 '아보스' (사진) . 당초 서울뮤지컬컴퍼니측이 '비련' 이라는 이름으로 올릴 예정이었으나 자금난에 빠진 극단측이 지난 10일께 공연을 포기하자 그동안 연습해온 연기자.스텝 20여명이 한 명의 이탈자도 없이 뜻을 모아 '사망' 직전의 작품을 되살려내게 됐다. '궁하면 통한다' 란 옛말이 연상될 정도다.",
+        "sentenceSize": 255
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "작품성을 높이 평가한 연극평론가 이혜경 교수(국민대) 가 제작총괄을 맡은 것도 특징이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 \\\"이번 시도를 통해 한국 뮤지컬 제작의 새로운 모델을 보여주겠다\\\" 고 말했다. '아보스' 는 1980년 러시아에서 초연된 이래 유럽.미국에서 호평을 받았으며 인류의 구원과 신에 대한 갈망 등을 나이 차를 뛰어넘는 남녀의 사랑으로 풀어가는 작품이다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "서양 클래식 선율에 록 사운드를 접목한 음악이 흥미롭다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'벤처 뮤지컬' 전쟁터같이 살벌한 문화예술계에서 살아남을 수 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

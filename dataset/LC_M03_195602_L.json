@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195602",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "'1일 1달걀' 뇌졸중 위험 12% 낮춘다",
+    "newsSubTitle": "",
+    "newsContent": "하루에 달걀을 하나씩 먹으면 뇌졸중 위험이 12% 낮아진다는 연구 결과가 나왔다.\n1일 영국 언론 데일리메일은 미국 에피스태트 연구소(EpiStat Institute)의 도미니크 알렉산더 박사 연구팀이 1082년부터 2015년까지 33년 동안 달걀과 심장병, 뇌졸중 사이의 연관성을 다룬 역학연구 논문들을 종합 분석한 결과 이 같이 밝혀졌다고 보도했다.\n달걀과 심장병 연구에는 27만6000명, 뇌졸중 연구에는 30만8000명이 참가했다.\n알렉산더 박사의 연구 결과에 따르면 달걀을 매일 한 개씩 먹었을 때 심장병 위험은 커지지 않고 뇌졸중 위험은 12% 낮아지는 것으로 나타났다.\n뇌졸중 위험이 낮아지는 원인은 아직 정확히 밝혀지지 않았다.\n알렉산더 박사는 다만 달걀에 산화스트레스와 염증을 진정시키는 항산화 성분 등 이로운 영양소들이 많다고 설명했다.\n또 혈압을 낮추는 데 도움이 되는 단백질도 풍부하다고 박사는 덧붙였다.\n달걀 노른자에는 단백질과 항산화물질(루테인, 제아잔틴) 6g과 비타민 E, D, A가 들어있다.\n루테인은 동맥의 혈전 형성을 억제하고, 비타민E는 심장병 환자의 심근경색 위험을 낮춰주는 효과가 있는 것으로 알려져있다.\n연구 결과는 미국 영양학회 저널 최신호에 실렸다.\n한편 미국 보건후생부는 지난해 발표한 새로운 '미국인 식사지침(Dietary Guideline 2015~2020)'을 통해 지방이 적은 단백질 식품으로 달걀 섭취를 권장했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "하루에 달걀을 하나씩 먹으면 뇌졸중 위험이 12% 낮아진다는 연구 결과가 나왔다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1일 영국 언론 데일리메일은 미국 에피스태트 연구소(EpiStat Institute)의 도미니크 알렉산더 박사 연구팀이 1082년부터 2015년까지 33년 동안 달걀과 심장병, 뇌졸중 사이의 연관성을 다룬 역학연구 논문들을 종합 분석한 결과 이 같이 밝혀졌다고 보도했다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "달걀과 심장병 연구에는 27만6000명, 뇌졸중 연구에는 30만8000명이 참가했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "알렉산더 박사의 연구 결과에 따르면 달걀을 매일 한 개씩 먹었을 때 심장병 위험은 커지지 않고 뇌졸중 위험은 12% 낮아지는 것으로 나타났다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "뇌졸중 위험이 낮아지는 원인은 아직 정확히 밝혀지지 않았다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "알렉산더 박사는 다만 달걀에 산화스트레스와 염증을 진정시키는 항산화 성분 등 이로운 영양소들이 많다고 설명했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 혈압을 낮추는 데 도움이 되는 단백질도 풍부하다고 박사는 덧붙였다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "달걀 노른자에는 단백질과 항산화물질(루테인, 제아잔틴) 6g과 비타민 E, D, A가 들어있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "루테인은 동맥의 혈전 형성을 억제하고, 비타민E는 심장병 환자의 심근경색 위험을 낮춰주는 효과가 있는 것으로 알려져있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "연구 결과는 미국 영양학회 저널 최신호에 실렸다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "한편 미국 보건후생부는 지난해 발표한 새로운 '미국인 식사지침(Dietary Guideline 2015~2020)'을 통해 지방이 적은 단백질 식품으로 달걀 섭취를 권장했다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "하루에 하나씩 먹으면 뇌졸중 위험 12% 낮아진다··· 어떤 음식이길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

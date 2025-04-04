@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196526",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "대권 후보주자 8명의 '숨겨진 진실'",
+    "newsSubTitle": "",
+    "newsContent": "대선이 내년으로 다가왔지만 막상 출마가 예상되는 인사들에 대해 대다수 국민들이 알고 있는 정보는 그다지 많지 않다.\n매스컴을 통해 전달된 파편화된 정보가 고작인데다, 그나마의 정보도 갖고 있지않은 유권자들은 인상이나 느낌, 혹은 편견에 의지해 투표에 임할 수 밖에 없다.\n후보자에 대한 다양한 정보 확보는 성공적인 선거를 위한 핵심 요소로 후보에대한 풍부하고 객관적인 정보는 고질적인 지역주의를 타파하는 데도 큰 도움이 될터이다.\n이런 점에서 대권 도전 가능 주자 8명을 선정해 이들의 인간적 면모에 초점을맞춰 쓴 「위기의 한국 누구에게 맡길 것인가」(생각의 나무刊.조성관 지음)는 주목을 끈다.\n대권 후보 가능 주자로 선정된 8명은 김중권 노무현 박근혜 이인제 이한동 이회창 정몽준 한화갑(이상 가나다순)으로 각종 여론조사 결과와 저자 개인의 판단, 당내 역학구도와 세력 등에 의거해 선정했다.\n이에 따라 김종필 정동영 김근태 등은 빠졌다.\n저자는 \\\"언론에서 다루지 않은 \\\"정치 지도자의 숨겨진 진실을 보여 주고자 후보자 주변 사람들의 이야기, 개개인의 습관과 성격, 지극히 개인적인 사안들을 조명했다\\\"고 밝히고 있다.\n이들의 집안 이야기에서부터 용인술, 삶의 중요한 결단과 관련된 일화, 배우자들의 면면 등이 부담없는 필치로 소개돼 있다.\n저자는 현재 「주간조선」 기자로 일하고 있으며 「월간조선」에서도 10년동안근무했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대선이 내년으로 다가왔지만 막상 출마가 예상되는 인사들에 대해 대다수 국민들이 알고 있는 정보는 그다지 많지 않다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "매스컴을 통해 전달된 파편화된 정보가 고작인데다, 그나마의 정보도 갖고 있지않은 유권자들은 인상이나 느낌, 혹은 편견에 의지해 투표에 임할 수 밖에 없다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "후보자에 대한 다양한 정보 확보는 성공적인 선거를 위한 핵심 요소로 후보에대한 풍부하고 객관적인 정보는 고질적인 지역주의를 타파하는 데도 큰 도움이 될터이다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이런 점에서 대권 도전 가능 주자 8명을 선정해 이들의 인간적 면모에 초점을맞춰 쓴 「위기의 한국 누구에게 맡길 것인가」(생각의 나무刊.조성관 지음)는 주목을 끈다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "대권 후보 가능 주자로 선정된 8명은 김중권 노무현 박근혜 이인제 이한동 이회창 정몽준 한화갑(이상 가나다순)으로 각종 여론조사 결과와 저자 개인의 판단, 당내 역학구도와 세력 등에 의거해 선정했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 따라 김종필 정동영 김근태 등은 빠졌다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "저자는 \\\"언론에서 다루지 않은 \\\"정치 지도자의 숨겨진 진실을 보여 주고자 후보자 주변 사람들의 이야기, 개개인의 습관과 성격, 지극히 개인적인 사안들을 조명했다\\\"고 밝히고 있다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이들의 집안 이야기에서부터 용인술, 삶의 중요한 결단과 관련된 일화, 배우자들의 면면 등이 부담없는 필치로 소개돼 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "저자는 현재 「주간조선」 기자로 일하고 있으며 「월간조선」에서도 10년동안근무했다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대선이 내년인데… 아무도 모르게 꽁꽁 숨겨둔 비밀, 대권 후보 주자 8명을 파헤친다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

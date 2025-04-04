@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194645",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[문화in] 추사의 작품 값은? 부르는게 값 세한도 최소 50억원",
+    "newsSubTitle": "",
+    "newsContent": "예술도 예술이지만 추사의 작품은 대체 얼마나 할까.\n취향.관점에 따라 평가가 엇갈리고, 값도 들쭉날쭉 하는 게 예술품의 생리지만 추사는 단연 한국 고미술 시장에서 최고 대우를 받는 작가다.\n예컨대 '세한도'가 인사동에 나오면 얼마를 받을 수 있을까. '부르는 게 값'이 정답이다.\n서지학자 김영복씨는 \\\"최소 50억원은 나갈 것\\\"이라고 말했다.\n웬만한 중소기업의 1년 매출액과 맞먹는 액수다.\n현재 전해지는 추사의 작품은 대략 600여점. 개인.해외 소장품도 많아 정확한 통계를 알 수 없다. 300~400편으로 추정되는 서간(書簡.편지)까지 포함한 숫자다.\n비교적 작은 작품인 추사의 편지는 미술시장에서 500만~1000만원 선에서 거래된다.\n실제로 올 4, 6월 서울옥션에 나온 추사의 행서(行書) 편지는 각각 550만원, 600만원에 낙찰됐다.\n김영복씨는 \\\"작품성을 인정받으면 3000만원까지 올라갈 수 있다\\\"고 말했다.\n대련(對聯.문이나 기둥에 써 붙이는 대구)이나 현판(縣板) 등 큰 글씨로 쓴 작품은 1억원 가까이 한다.\n올 2월 서울옥션에선 추사의 칠언시 대련이 8400만원에 경매됐다.\n추사가 정통했던 예서(隸書) 작품은 다른 서체보다 두 배 높게 받을 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "예술도 예술이지만 추사의 작품은 대체 얼마나 할까.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "취향.관점에 따라 평가가 엇갈리고, 값도 들쭉날쭉 하는 게 예술품의 생리지만 추사는 단연 한국 고미술 시장에서 최고 대우를 받는 작가다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "예컨대 '세한도'가 인사동에 나오면 얼마를 받을 수 있을까. '부르는 게 값'이 정답이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서지학자 김영복씨는 \\\"최소 50억원은 나갈 것\\\"이라고 말했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "웬만한 중소기업의 1년 매출액과 맞먹는 액수다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "현재 전해지는 추사의 작품은 대략 600여점. 개인.해외 소장품도 많아 정확한 통계를 알 수 없다. 300~400편으로 추정되는 서간(書簡.편지)까지 포함한 숫자다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "비교적 작은 작품인 추사의 편지는 미술시장에서 500만~1000만원 선에서 거래된다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "실제로 올 4, 6월 서울옥션에 나온 추사의 행서(行書) 편지는 각각 550만원, 600만원에 낙찰됐다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김영복씨는 \\\"작품성을 인정받으면 3000만원까지 올라갈 수 있다\\\"고 말했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "대련(對聯.문이나 기둥에 써 붙이는 대구)이나 현판(縣板) 등 큰 글씨로 쓴 작품은 1억원 가까이 한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "올 2월 서울옥션에선 추사의 칠언시 대련이 8400만원에 경매됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "추사가 정통했던 예서(隸書) 작품은 다른 서체보다 두 배 높게 받을 수 있다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "취향·관점에 따라 들쭉날쭉하는 예술품의 생리... 이를 거스르는 추사의 작품 가치는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

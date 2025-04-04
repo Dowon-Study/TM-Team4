@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193452",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "홍성유씨 장편소설 '나설 때와…' 펴내",
+    "newsSubTitle": "",
+    "newsContent": "원로작가 홍성유(73.사진) 씨가 장편소설 『나설 때와 물러설 때』를 최근 펴냈다.\n1957년 장편 『비극은 없다』를 발표하며 작품활동을 시작한 홍씨는 『사랑과 죽음의 세월』, 영화 '장군의 아들' 원작인 『인생극장』등 주로 장편소설만 고집해온 작가. 특히 70년대 후반부터 전국 곳곳의 유별난 맛집을 깔끔한 입맛과 구수한 이야기로 소개하며 식도락 기행의 장을 연 '맛의 대가' 로도 잘 알려져있다. 『정복자』이후 8년만에 발표한 이번 작품은 홍건적 침입으로 혼란스런 고려말을 배경으로 한 시대물. 북쪽 변방 보부상 백현아가 여진족 추장 퉁두란티무르와 이성계를 만나 홍건적을 물리치는 활약상을 그리고 있다.\n홍건적에 빼앗긴 수도 개경 수복에 큰 공을 세운 백현아는 그 논공행상을 놓고 벌이는 권력암투를 보고 물러나 다시 보부상으로 돌아간다.\n나라를 구하는 장부의 소임만 다했으면 됐지 무얼 더 바라겠느냐는 것이다.\n홍씨는 책 서문에서 \\\"장부로서 때를 분별할 줄 아는 참용기는 어느 시대나 필요한 것이나 오늘의 정치상황에 비추어볼 때 더욱 그렇다\\\" 고 밝혔다.\n그런 인물을 고려말 역사에 맞춰 창조하기 위해 혼신을 다한 홍씨는 지난 2월 뇌출혈로 쓰러져 투병중이다.\n현실 정치권에 대해 시사하는 바도 크지만 노작가의 예스러운 이야기와 문체가 읽을 맛을 더하게 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "원로작가 홍성유(73.사진) 씨가 장편소설 『나설 때와 물러설 때』를 최근 펴냈다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1957년 장편 『비극은 없다』를 발표하며 작품활동을 시작한 홍씨는 『사랑과 죽음의 세월』, 영화 '장군의 아들' 원작인 『인생극장』등 주로 장편소설만 고집해온 작가. 특히 70년대 후반부터 전국 곳곳의 유별난 맛집을 깔끔한 입맛과 구수한 이야기로 소개하며 식도락 기행의 장을 연 '맛의 대가' 로도 잘 알려져있다. 『정복자』이후 8년만에 발표한 이번 작품은 홍건적 침입으로 혼란스런 고려말을 배경으로 한 시대물. 북쪽 변방 보부상 백현아가 여진족 추장 퉁두란티무르와 이성계를 만나 홍건적을 물리치는 활약상을 그리고 있다.",
+        "sentenceSize": 292
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "홍건적에 빼앗긴 수도 개경 수복에 큰 공을 세운 백현아는 그 논공행상을 놓고 벌이는 권력암투를 보고 물러나 다시 보부상으로 돌아간다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "나라를 구하는 장부의 소임만 다했으면 됐지 무얼 더 바라겠느냐는 것이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "홍씨는 책 서문에서 \\\"장부로서 때를 분별할 줄 아는 참용기는 어느 시대나 필요한 것이나 오늘의 정치상황에 비추어볼 때 더욱 그렇다\\\" 고 밝혔다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그런 인물을 고려말 역사에 맞춰 창조하기 위해 혼신을 다한 홍씨는 지난 2월 뇌출혈로 쓰러져 투병중이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "현실 정치권에 대해 시사하는 바도 크지만 노작가의 예스러운 이야기와 문체가 읽을 맛을 더하게 한다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'낄끼빠빠' 할 줄 아는 참 용기 그려낸 홍성유씨 장편소설 출간",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

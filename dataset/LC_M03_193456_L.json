@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193456",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "영화의 서사구조 낱낱이 해부한 '영화 서술학'",
+    "newsSubTitle": "",
+    "newsContent": "문자의 등장 이전에 구두로 이뤄지는 송창(誦唱) 문화,활자의 등장과 함께 대세를 이뤄온 문자문화,그리고 영화라고 하는 위력적인 복제예술. 이 삼자 사이의 공통점은 무엇이고,영화 장르 특유의 이야기를 풀어가는 방식인 서사(敍事) ,혹은 서술의 독자적인 문법은 무엇일까.\n신간『영화 서술학』은 이에 대한 학술적인 대답이다.\n소르본 누벨대의 프랑수와 조스트교수와 몬트리올대의 앙드레 고드로가 공동저술한 이 책은 영화를 이해하는 방법론으로 서술학이 가장 효율적이라는 판단 아래 보다 구체적인 해부를 시도한다.\n탐정영화와 코미디 영화,유성영화와 무성영화 사이의 유사성과 차이까지 꼼꼼히 파고들어간다.\n서술학의 핵심 개념은 누가 말을 하는가 하는 발화(發話) 혹은 서술자,시간,시점 등에 관해 방법적으로 소개를 한다.\n다소 전문적인 내용이라서 정독을 해야 비로서 이해가 가능하지만, '시민 케인'등 이미 익숙해진 영화를 텍스트 삼아 설명이 돼있어 해독이 불가능할 정도는 아니다.\n상대적으로 연구가 많이 된 이웃사촌 장르인 문학서술학을 염두에 두고 읽어도 좋을 듯 싶다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "문자의 등장 이전에 구두로 이뤄지는 송창(誦唱) 문화,활자의 등장과 함께 대세를 이뤄온 문자문화,그리고 영화라고 하는 위력적인 복제예술. 이 삼자 사이의 공통점은 무엇이고,영화 장르 특유의 이야기를 풀어가는 방식인 서사(敍事) ,혹은 서술의 독자적인 문법은 무엇일까.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "신간『영화 서술학』은 이에 대한 학술적인 대답이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소르본 누벨대의 프랑수와 조스트교수와 몬트리올대의 앙드레 고드로가 공동저술한 이 책은 영화를 이해하는 방법론으로 서술학이 가장 효율적이라는 판단 아래 보다 구체적인 해부를 시도한다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "탐정영화와 코미디 영화,유성영화와 무성영화 사이의 유사성과 차이까지 꼼꼼히 파고들어간다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서술학의 핵심 개념은 누가 말을 하는가 하는 발화(發話) 혹은 서술자,시간,시점 등에 관해 방법적으로 소개를 한다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다소 전문적인 내용이라서 정독을 해야 비로서 이해가 가능하지만, '시민 케인'등 이미 익숙해진 영화를 텍스트 삼아 설명이 돼있어 해독이 불가능할 정도는 아니다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "상대적으로 연구가 많이 된 이웃사촌 장르인 문학서술학을 염두에 두고 읽어도 좋을 듯 싶다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘1도 모르겠는’ 영화 서사구조 낱낱이 해부, 익숙한 영화를 텍스트 삼아 이해력 도와 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

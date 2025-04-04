@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195545",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "밥 딜런, 넉달 만에 노벨문학상 수상",
+    "newsSubTitle": "",
+    "newsContent": "노벨상 시상식 논란 불참을 빚은 가수 밥 딜런이 넉달 만에 노벨문학상을 받았다.\n2일 노벨 문학상을 시상하는 스웨덴 예술원에 따르면 딜런은 현지 시각으로 지난 1일 스웨덴 스톡홀름 공연을 앞두고 공연장 인근의 한 호텔에서 2016년 노벨문학상 증서와 메달을 받았다.\n이날 시상식은 딜런의 요청에 따라 스웨덴 예술원 관계자 등 소규모 인원만 참여하는 비공개 행사로 진행됐다.\n스웨덴 예술원 관계자는 \\\"딜런은 매우 멋지고 다정한 사람이었다\\\"며 \\\"행사는 무사히 잘 치러졌다\\\"고 말했다.\n딜런은 노벨문학상 수상 후 스톡홀름 워터프론트에서 공연을 가졌지만, 수상과 관련된 내용은 일체 언급하지 않았다.\n이날 공연에는 사라 다니우스 사무총장 등 스웨덴 학술원 관계자들도 찾아와 관람했다.\n딜런은 지난해 10월 노벨문학상 수상자로 선정했지만, 보름이 지나도록 연락이 닿지 않아 수상 거부 논란을 빚었었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "노벨상 시상식 논란 불참을 빚은 가수 밥 딜런이 넉달 만에 노벨문학상을 받았다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2일 노벨 문학상을 시상하는 스웨덴 예술원에 따르면 딜런은 현지 시각으로 지난 1일 스웨덴 스톡홀름 공연을 앞두고 공연장 인근의 한 호텔에서 2016년 노벨문학상 증서와 메달을 받았다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 시상식은 딜런의 요청에 따라 스웨덴 예술원 관계자 등 소규모 인원만 참여하는 비공개 행사로 진행됐다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "스웨덴 예술원 관계자는 \\\"딜런은 매우 멋지고 다정한 사람이었다\\\"며 \\\"행사는 무사히 잘 치러졌다\\\"고 말했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "딜런은 노벨문학상 수상 후 스톡홀름 워터프론트에서 공연을 가졌지만, 수상과 관련된 내용은 일체 언급하지 않았다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 공연에는 사라 다니우스 사무총장 등 스웨덴 학술원 관계자들도 찾아와 관람했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "딜런은 지난해 10월 노벨문학상 수상자로 선정했지만, 보름이 지나도록 연락이 닿지 않아 수상 거부 논란을 빚었었다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "밥 딜런, 노벨문학상 넉 달만에 수상 받아... 무슨 일이?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

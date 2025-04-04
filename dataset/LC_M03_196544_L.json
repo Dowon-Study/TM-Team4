@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196544",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[신간] '모든 것은 이브로부터 시작되었다'",
+    "newsSubTitle": "동서고금 염문의 여주인공 총집합",
+    "newsContent": "세계사에 이름 꽤나 날린 여자들의 추문담을 담은 책이다.\n그러니 남성들에겐 책 읽는 기분이 삼삼할지 모르지만,솔직히 여성들은 기분 나쁠 것 같다.\n추천인 윤구병(전 충북대 철학과 교수)씨는 '인문학자들에게 똥침주기'라는 표현을 써 책의 가치를 부여했지만, 글쎄다. 책은 아담의 짝 이브로부터 시작해서, '배꼽 춤을 추는 스파이' 마타 하리로 끝낸다.\n첫째 인물과 마지막 인물 사이의 격(格)의 차이는 하늘과 땅 만큼 크다.\n그 사이는 볼 것도 없다.'구약시대의 사기꾼'이자 삼손을 능갈쳐먹은 데릴라, '유혹의 귀재' 클레오파트라,애마부인(알몸으로 말 타기를 좋아했으니까)의 시조 마담 고다이버, '정력적인 여장부' 예카테리나 여제 등. 소위 당대 염문(좋은 뜻에서라도)의 주인공 13명을 모아 '사건'의 개요를 해설했다.\n솔직히 내용이야 읽어보면 될 테고(이런 책은 내용을 소개하면 재미는 '꽝'이다), 이 책은 엄청난 장점이 하나 있다.\n저자의 재치 있는 글쓰기를, 옮긴이가 기름칠을 잘 해 윤나게 만들었다.\n사실 뻔한 내용보다는 이런 감각을 따라가는 게 훨씬 재미있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세계사에 이름 꽤나 날린 여자들의 추문담을 담은 책이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그러니 남성들에겐 책 읽는 기분이 삼삼할지 모르지만,솔직히 여성들은 기분 나쁠 것 같다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "추천인 윤구병(전 충북대 철학과 교수)씨는 '인문학자들에게 똥침주기'라는 표현을 써 책의 가치를 부여했지만, 글쎄다. 책은 아담의 짝 이브로부터 시작해서, '배꼽 춤을 추는 스파이' 마타 하리로 끝낸다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "첫째 인물과 마지막 인물 사이의 격(格)의 차이는 하늘과 땅 만큼 크다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 사이는 볼 것도 없다.'구약시대의 사기꾼'이자 삼손을 능갈쳐먹은 데릴라, '유혹의 귀재' 클레오파트라,애마부인(알몸으로 말 타기를 좋아했으니까)의 시조 마담 고다이버, '정력적인 여장부' 예카테리나 여제 등. 소위 당대 염문(좋은 뜻에서라도)의 주인공 13명을 모아 '사건'의 개요를 해설했다.",
+        "sentenceSize": 166
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "솔직히 내용이야 읽어보면 될 테고(이런 책은 내용을 소개하면 재미는 '꽝'이다), 이 책은 엄청난 장점이 하나 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "저자의 재치 있는 글쓰기를, 옮긴이가 기름칠을 잘 해 윤나게 만들었다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "사실 뻔한 내용보다는 이런 감각을 따라가는 게 훨씬 재미있다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "추하디 추한 소문의 중심에 선 역사 속 여성들 이야기, 현대 여성들의 따가운 눈초리를 극복할 수 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

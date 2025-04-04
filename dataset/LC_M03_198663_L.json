@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198663",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[라이프 트렌드&] 수술이나 방사선·항암치료 전후, 면역력 높이는 치료는 선택 아닌 필수",
+    "newsSubTitle": "기고",
+    "newsContent": "백신 접종이 시작되면 잠잠해질 줄 알았던 코로나19 바이러스가 좀처럼 그 기세가 줄지 않고 있다.\n최근에는 서울의 한 대학병원에서 감염자가 발생해 의료시설 일부를 폐쇄하기도 했다.\n특히 수술이 시급한 말기 암 환자의 경우 수술이 취소되거나 길어지면 위태로운 상황에 처할 수 있다.\n암 환자의 경우 면역력이 크게 떨어져 있기 때문에 바이러스에 취약할뿐 아니라 자칫 입원치료 자체에 두려움을 가질 수 있기 때문에 이 기간에 적절한 치료를 병행하는 것이 중요하다.\n후유증이나 부작용, 특별한 관리가 필요한 암 수술이나 방사선·항암치료 전후에 체내 면역력을 높이는 암 면역치료가 그 대안이 될 수 있다.\n이미 미국의 유명 암 병원에서도 한의학의 침 치료나 면역치료를 대안치료의 하나로 적극적으로 연구하고 활용하고 있다.\n방사선, 특히 정상세포까지 함께 파괴하는 항암치료를 받는 경우 면역치료는 선택이 아니라 필수다.\n면역력을 높여주는 면역치료를 통해 수술 가능한 몸 상태 유지는 물론 일상생활이 가능한 건강 상태를 유지할 수 있기 때문에 암환자의 삶의 질을 크게 높일 수 있다.\n또한 면역암치료를 통해 암 전이를 예방하고, 떨어진 면역력을 일정 수준 이상으로 높이는 효과를 기대할 수 있다.\n면역치료는 환자 자신이 가지고 있는 면역력을 활성화함으로써 암을 치료하는 간접적인 치료방법으로 수술·화학요법(항암치료)·방사선요법에 이어 제4의 요법이라 불린다.\n미슬토나 싸이모신알파와 같은 면역 증강제를 투여해 면역세포가 암세포를 공격하도록 하거나 환자의 혈액에서 면역세포를 추출해 약 500~1000배로 증식해 다시 투여하는 맞춤형 면역치료 등 종류도 다양하다.\n면역치료의 최대 장점은 개인의 체질과 건강상태에 맞춘 맞춤형 치료계획 수립이 가능하다는 점이다.\n신체에 세균이나 바이러스가 침투하면 몸은 이를 억제할 면역체계를 활성화 시킨다.\n감염증 발생 시 염증반응으로 열이 나는 것도 체내 면역작용에 의한 것이다.\n특히 면역력은 암세포의 작용도 억제한다.\n면역 암치료는 몸이 암세포와 싸워서 이길 수 있는 자체 방어력을 높이는 방법이다.\n수술 후 항암치료와 방사선치료 시 발생되는 탈모·구토·빈혈·우울증 등을 감소시키는 효과도 기대할 수 있다.\n또 맞춤치료를 통해 표준 암치료의 효율을 높이고, 높아진 면역력 덕분에 삶의 질을 향상시키는 데에도 도움을 준다.\n최근에는 자신의 신체 면역력 지수를 수치로 확인할 수 있다.\nNK(Natural Killer·자연살상)세포 활성도 검사가 대표적인데 NK세포는 세균·바이러스 등 이물질이 침투했을 때 1차 방어를 담당하며 암세포 감시 기능을 담당한다.\n검사는 혈액 내 NK세포를 인위적으로 활성화시킨 뒤 분비되는 인터페론-감마의 양을 효소면역분석법(ELISA)으로 측정한다.\n보통의 암 환자의 경우 수치가 500pg/㎖ 미만으로 면역력 관리가 필요한 수치를 기록하게 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "백신 접종이 시작되면 잠잠해질 줄 알았던 코로나19 바이러스가 좀처럼 그 기세가 줄지 않고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근에는 서울의 한 대학병원에서 감염자가 발생해 의료시설 일부를 폐쇄하기도 했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 수술이 시급한 말기 암 환자의 경우 수술이 취소되거나 길어지면 위태로운 상황에 처할 수 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "암 환자의 경우 면역력이 크게 떨어져 있기 때문에 바이러스에 취약할뿐 아니라 자칫 입원치료 자체에 두려움을 가질 수 있기 때문에 이 기간에 적절한 치료를 병행하는 것이 중요하다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "후유증이나 부작용, 특별한 관리가 필요한 암 수술이나 방사선·항암치료 전후에 체내 면역력을 높이는 암 면역치료가 그 대안이 될 수 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이미 미국의 유명 암 병원에서도 한의학의 침 치료나 면역치료를 대안치료의 하나로 적극적으로 연구하고 활용하고 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "방사선, 특히 정상세포까지 함께 파괴하는 항암치료를 받는 경우 면역치료는 선택이 아니라 필수다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "면역력을 높여주는 면역치료를 통해 수술 가능한 몸 상태 유지는 물론 일상생활이 가능한 건강 상태를 유지할 수 있기 때문에 암환자의 삶의 질을 크게 높일 수 있다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또한 면역암치료를 통해 암 전이를 예방하고, 떨어진 면역력을 일정 수준 이상으로 높이는 효과를 기대할 수 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "면역치료는 환자 자신이 가지고 있는 면역력을 활성화함으로써 암을 치료하는 간접적인 치료방법으로 수술·화학요법(항암치료)·방사선요법에 이어 제4의 요법이라 불린다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "미슬토나 싸이모신알파와 같은 면역 증강제를 투여해 면역세포가 암세포를 공격하도록 하거나 환자의 혈액에서 면역세포를 추출해 약 500~1000배로 증식해 다시 투여하는 맞춤형 면역치료 등 종류도 다양하다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "면역치료의 최대 장점은 개인의 체질과 건강상태에 맞춘 맞춤형 치료계획 수립이 가능하다는 점이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "신체에 세균이나 바이러스가 침투하면 몸은 이를 억제할 면역체계를 활성화 시킨다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "감염증 발생 시 염증반응으로 열이 나는 것도 체내 면역작용에 의한 것이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "특히 면역력은 암세포의 작용도 억제한다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "면역 암치료는 몸이 암세포와 싸워서 이길 수 있는 자체 방어력을 높이는 방법이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "수술 후 항암치료와 방사선치료 시 발생되는 탈모·구토·빈혈·우울증 등을 감소시키는 효과도 기대할 수 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "또 맞춤치료를 통해 표준 암치료의 효율을 높이고, 높아진 면역력 덕분에 삶의 질을 향상시키는 데에도 도움을 준다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "최근에는 자신의 신체 면역력 지수를 수치로 확인할 수 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "NK(Natural Killer·자연살상)세포 활성도 검사가 대표적인데 NK세포는 세균·바이러스 등 이물질이 침투했을 때 1차 방어를 담당하며 암세포 감시 기능을 담당한다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "검사는 혈액 내 NK세포를 인위적으로 활성화시킨 뒤 분비되는 인터페론-감마의 양을 효소면역분석법(ELISA)으로 측정한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "보통의 암 환자의 경우 수치가 500pg/㎖ 미만으로 면역력 관리가 필요한 수치를 기록하게 된다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "수술-방사선-항암치료 전후, '이 치료'는 이제 필수",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

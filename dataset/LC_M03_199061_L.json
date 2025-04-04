@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199061",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[땅이야기 맛이야기] 경남(2) 하동 섬진강의 참맛으로 가득한, 이화가든",
+    "newsSubTitle": "한국국토정보공사 경남지역본부 직원이 추천하는 맛집",
+    "newsContent": "재첩 본고장 하동의 대표 맛집 하동 섬진강 청정지역에서 잡은 재첩은 그 맛과 영양이 풍부한 것으로 유명하다.\n22년 전통의 하동 맛집 '이화가든'에서는 섬진강에서 갓 잡아 올린 싱싱한 재첩과 참게를 다채로운 요리들로 즐길 수 있다.\n오랜 노하우를 지닌 하동 토박이 부부가 운영하고 있으며, 하동을 대표하는 음식들을 두루 맛볼 수 있어 하동의 맛이 총망라된 곳이라 할 만하다.\n재첩 중의 재첩으로 맛낸 일품요리 재첩으로 이름난 하동이지만 하동의 모든 재첩이 같은 것은 아니다.\n재첩의 맛은 무엇보다 염도가 중요한데, 이곳은 섬진강 하류에서 잡히는 재첩 중 최적의 염도를 지닌 것을 재료로 쓰고 있다.\n또한 가마솥을 이용한 전통 방식으로 직접 재첩을 가공하고, 1년 중 재첩이 가장 맛있는 5월에 재료를 구매하는 등 재료 본연의 맛을 살리는 데 많은 정성을 쏟고 있다.\n재첩의 참맛이 가득, ‘모듬정식’ 신선한 재료에 남다른 정성이 담긴 이곳 ‘재첩국’은 구수하면서 시원한 맛, 부드러운 식감이 돋보인다.\n재첩국과 기본 반찬으로 구성된 메뉴가 있지만, 다양한 재첩 요리를 한번에 즐기기 좋은 것은 ‘모듬정식’이다.\n재첩국과 재첩무침회, 재첩부침 등을 함께 즐길 수 있는 모듬정식은 자극적이지 않은 깔끔한 감칠맛이 일품으로, 다채로운 재첩 요리의 진수를 맛볼 수 있다.\n섬진강 참게로 만든 건강식들 섬진강 참게로 만든 ‘참게가리장’은 하동 내에서도 보기 드문 귀하디귀한 메뉴다.\n껍질째 갈은 참게에 10가지 곡물이 들어간 건강식으로 부드러운 식감과 고소한 맛이 입맛을 돋운다.\n섬진강 참게의 싱싱한 맛을 잘 살린 ‘참게탕’ 또한 빼놓을 수 없다.\n얼큰한 국물과 푸짐한 건더기를 함께 즐길 수 있어 게장 못지않게 밥도둑이라 불릴 만한 이 집 대표 국물요리다.\n출처. 한국국토정보공사, 2016 땅이야기 맛이야기",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "재첩 본고장 하동의 대표 맛집 하동 섬진강 청정지역에서 잡은 재첩은 그 맛과 영양이 풍부한 것으로 유명하다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22년 전통의 하동 맛집 '이화가든'에서는 섬진강에서 갓 잡아 올린 싱싱한 재첩과 참게를 다채로운 요리들로 즐길 수 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오랜 노하우를 지닌 하동 토박이 부부가 운영하고 있으며, 하동을 대표하는 음식들을 두루 맛볼 수 있어 하동의 맛이 총망라된 곳이라 할 만하다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "재첩 중의 재첩으로 맛낸 일품요리 재첩으로 이름난 하동이지만 하동의 모든 재첩이 같은 것은 아니다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "재첩의 맛은 무엇보다 염도가 중요한데, 이곳은 섬진강 하류에서 잡히는 재첩 중 최적의 염도를 지닌 것을 재료로 쓰고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 가마솥을 이용한 전통 방식으로 직접 재첩을 가공하고, 1년 중 재첩이 가장 맛있는 5월에 재료를 구매하는 등 재료 본연의 맛을 살리는 데 많은 정성을 쏟고 있다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "재첩의 참맛이 가득, ‘모듬정식’ 신선한 재료에 남다른 정성이 담긴 이곳 ‘재첩국’은 구수하면서 시원한 맛, 부드러운 식감이 돋보인다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "재첩국과 기본 반찬으로 구성된 메뉴가 있지만, 다양한 재첩 요리를 한번에 즐기기 좋은 것은 ‘모듬정식’이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "재첩국과 재첩무침회, 재첩부침 등을 함께 즐길 수 있는 모듬정식은 자극적이지 않은 깔끔한 감칠맛이 일품으로, 다채로운 재첩 요리의 진수를 맛볼 수 있다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "섬진강 참게로 만든 건강식들 섬진강 참게로 만든 ‘참게가리장’은 하동 내에서도 보기 드문 귀하디귀한 메뉴다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "껍질째 갈은 참게에 10가지 곡물이 들어간 건강식으로 부드러운 식감과 고소한 맛이 입맛을 돋운다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "섬진강 참게의 싱싱한 맛을 잘 살린 ‘참게탕’ 또한 빼놓을 수 없다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "얼큰한 국물과 푸짐한 건더기를 함께 즐길 수 있어 게장 못지않게 밥도둑이라 불릴 만한 이 집 대표 국물요리다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "출처. 한국국토정보공사, 2016 땅이야기 맛이야기",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "하동 섬진강에서 잡은 '이것'... 이화가든에서 맛보세요",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

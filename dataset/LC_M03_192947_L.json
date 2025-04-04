@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192947",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[살림UP] 유기농 먹거리 드시나요?",
+    "newsSubTitle": "이런 마크 붙었는지 사기 전에 꼭 확인하세요",
+    "newsContent": "가족 건강을 생각해 먹거리만큼은 친환경 재료를 쓰겠다는 주부들이 많다.\n하지만 '유기농''천연''자연'등 숱한 꼬리표가 어떤 차이가 있는지, 믿을 만한 표시인지 아는 경우는 얼마나 될까.\n국립농산물품질관리원(www.naqs.go.kr)이 인정한 친환경 농산물 인증마크는 단 하나, 사과모양 마크(사진)다.\n마크 밑에 '유기농산물''전환기유기농산물''무농약농산물''저농약농산물'이란 글자가 씌어 있다.\n결국 '천연''자연''무공해''저공해''내추럴'등의 꼬리표는 모두 소비자들을 현혹시키는 문구일 확률이 높다는 것이다.\n인증마크 밑의 글씨는 유기합성농약과 화학비료를 사용하지 않은 기간, 사용한 용량에 따라 붙여진다. '유기농산물'은 전환기간(다년생 작물은 3년, 그 외 작물은 2년) 이상 유기합성농약과 화학비료를 사용하지 않은 땅에서 재배한 농산물에 붙인다. '전환기유기농산물'은 1년 이상 유기합성농약과 화학비료를 사용하지 않은 땅에서 기른 농산물에, '무농약농산물'은 유기합성농약은 사용하지 않았지만 화학비료는 권장시비량의 3분의 1 이내에서 사용했을 경우 붙여준다. '저농약농산물'은 기준이 좀 더 복잡하다.\n유기합성농약을 사용하긴 했지만 살포 횟수를 농약 안전사용 기준의 절반 이하로 쓰고, 제초제는 사용하지 않고, 화학비료는 권장 시비량의 2분의 1 이내만 사용해야 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가족 건강을 생각해 먹거리만큼은 친환경 재료를 쓰겠다는 주부들이 많다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하지만 '유기농''천연''자연'등 숱한 꼬리표가 어떤 차이가 있는지, 믿을 만한 표시인지 아는 경우는 얼마나 될까.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국립농산물품질관리원(www.naqs.go.kr)이 인정한 친환경 농산물 인증마크는 단 하나, 사과모양 마크(사진)다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "마크 밑에 '유기농산물''전환기유기농산물''무농약농산물''저농약농산물'이란 글자가 씌어 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "결국 '천연''자연''무공해''저공해''내추럴'등의 꼬리표는 모두 소비자들을 현혹시키는 문구일 확률이 높다는 것이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "인증마크 밑의 글씨는 유기합성농약과 화학비료를 사용하지 않은 기간, 사용한 용량에 따라 붙여진다. '유기농산물'은 전환기간(다년생 작물은 3년, 그 외 작물은 2년) 이상 유기합성농약과 화학비료를 사용하지 않은 땅에서 재배한 농산물에 붙인다. '전환기유기농산물'은 1년 이상 유기합성농약과 화학비료를 사용하지 않은 땅에서 기른 농산물에, '무농약농산물'은 유기합성농약은 사용하지 않았지만 화학비료는 권장시비량의 3분의 1 이내에서 사용했을 경우 붙여준다. '저농약농산물'은 기준이 좀 더 복잡하다.",
+        "sentenceSize": 278
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유기합성농약을 사용하긴 했지만 살포 횟수를 농약 안전사용 기준의 절반 이하로 쓰고, 제초제는 사용하지 않고, 화학비료는 권장 시비량의 2분의 1 이내만 사용해야 한다.",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"건강 생각한다면 식재료 살 때 꼭 확인하세요\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193575",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[건강한 가족] 헬스 신간 『암, 나는 나 너는 너』外",
+    "newsSubTitle": "",
+    "newsContent": "김범석 지음 아카데미북 244쪽 암은 현대인이 가장 두려워하는 질환이다.\n암으로 진단받으면 무엇을 어디서부터 어떻게 해야 할지 몰라 막막하다. 『암, 나는 나 너는 너』는 암 진단을 받은 환자를 위한 안내서다.\n서울대병원 암 전문의인 저자가 진료실에서 자주 받는 질문 위주로 내용을 구성했다. ‘무엇을 먹을 것인가’ ‘암 치료 후 어떻게 건강관리를 해야 하나’ 등 암 환자와 가족이 가장 궁금해하는 점을 상세히 다룬다.\n조셉 머콜라 지음 판미동 428쪽 미토콘드리아가 질병 치료의 열쇠로 떠올랐다.\n세포의 에너지원을 만드는 공장인 미토콘드리아는 케톤 생성이 활발할 때 최적의 상태를 유지한다. 『케톤하는 몸』은 의사, 자연 건강법 전문가가 알려주는 식사 가이드북이다.\n저자는 적은 탄수화물, 적절한 단백질, 좋은 지방을 섭취할 때 케톤 생성이 활성화한다고 말한다. ‘저탄고지 케톤식’이 질병 치유에 어떻게 관여하는지 의학적으로 풀어낸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김범석 지음 아카데미북 244쪽 암은 현대인이 가장 두려워하는 질환이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "암으로 진단받으면 무엇을 어디서부터 어떻게 해야 할지 몰라 막막하다. 『암, 나는 나 너는 너』는 암 진단을 받은 환자를 위한 안내서다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서울대병원 암 전문의인 저자가 진료실에서 자주 받는 질문 위주로 내용을 구성했다. ‘무엇을 먹을 것인가’ ‘암 치료 후 어떻게 건강관리를 해야 하나’ 등 암 환자와 가족이 가장 궁금해하는 점을 상세히 다룬다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "조셉 머콜라 지음 판미동 428쪽 미토콘드리아가 질병 치료의 열쇠로 떠올랐다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세포의 에너지원을 만드는 공장인 미토콘드리아는 케톤 생성이 활발할 때 최적의 상태를 유지한다. 『케톤하는 몸』은 의사, 자연 건강법 전문가가 알려주는 식사 가이드북이다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "저자는 적은 탄수화물, 적절한 단백질, 좋은 지방을 섭취할 때 케톤 생성이 활성화한다고 말한다. ‘저탄고지 케톤식’이 질병 치유에 어떻게 관여하는지 의학적으로 풀어낸다.",
+        "sentenceSize": 94
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "『암, 나는 나 너는 너』는 암 진단을 받은 환자를 위한 띵안내서",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

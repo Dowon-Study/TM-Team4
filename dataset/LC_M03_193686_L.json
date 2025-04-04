@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193686",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "한국인 지카 감염자 정액서 살아있는 바이러스 첫 검출",
+    "newsSubTitle": "",
+    "newsContent": "한국인 지카바이러스 감염환자의 정액에서 살아있는 지카바이러스가 처음으로 분리, 검출됐다.\n성접촉 감염이 가능하다는 사실이 국내에서도 입증된 것이다.\n서울대병원 오명돈 교수팀은 지카 바이러스 감염환자의 정액을 채취해 유전자 검사와 바이러스 배양검사를 통해 살아있는 지카바이러스를 분리했다고 3일 밝혔다.\n이같은 내용은 대한의학회 국제학술지(JKMS) 7월호 온라인판에 발표됐다.\n논문에 따르면 감염 환자는 올해 초 해외에서 모기에 물려 지카 바이러스에 감염됐다.\n귀국 후 5일이 지난 후부터 발열 증상을 보였고 의료기관을 방문했다.\n의심 환자로 신고된 후 질병관리본부에서 최종 양성 판정을 받았다.\n연구팀은 확진 판정 7일 후 정액에 대한 검사를 실시해 살아있는 바이러스를 분리, 검출했다.\n살아있는 바이러스의 정액 검출은 성접촉 전파 가능성을 뒷받침하는 것이라는 게 연구팀의 설명이다.\n대개 검사에서 유전자 조각이나 항원이 검출돼도 바이러스가 죽은 상태라면 전파가 되지 않는다.\n하지만 살아있는 상태의 바이러스라면 전파 위험이 커지게 된다.\n다만 아직까지 연구가 가야할 길은 멀다.\n지카 바이러스가 정액으로 배출되는 기간이 얼마나 오래인지는 아직 정확히 알려진바가 없다.\n지금까지 성접촉에 의한 지카바이러스 감염은 미국, 프랑스, 이탈리아, 뉴질랜드, 칠레 등 9개국에서 보고됐다.\n특히 미국에서만 8건이 발생했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국인 지카바이러스 감염환자의 정액에서 살아있는 지카바이러스가 처음으로 분리, 검출됐다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "성접촉 감염이 가능하다는 사실이 국내에서도 입증된 것이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서울대병원 오명돈 교수팀은 지카 바이러스 감염환자의 정액을 채취해 유전자 검사와 바이러스 배양검사를 통해 살아있는 지카바이러스를 분리했다고 3일 밝혔다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이같은 내용은 대한의학회 국제학술지(JKMS) 7월호 온라인판에 발표됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "논문에 따르면 감염 환자는 올해 초 해외에서 모기에 물려 지카 바이러스에 감염됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "귀국 후 5일이 지난 후부터 발열 증상을 보였고 의료기관을 방문했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "의심 환자로 신고된 후 질병관리본부에서 최종 양성 판정을 받았다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구팀은 확진 판정 7일 후 정액에 대한 검사를 실시해 살아있는 바이러스를 분리, 검출했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "살아있는 바이러스의 정액 검출은 성접촉 전파 가능성을 뒷받침하는 것이라는 게 연구팀의 설명이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "대개 검사에서 유전자 조각이나 항원이 검출돼도 바이러스가 죽은 상태라면 전파가 되지 않는다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하지만 살아있는 상태의 바이러스라면 전파 위험이 커지게 된다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "다만 아직까지 연구가 가야할 길은 멀다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "지카 바이러스가 정액으로 배출되는 기간이 얼마나 오래인지는 아직 정확히 알려진바가 없다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "지금까지 성접촉에 의한 지카바이러스 감염은 미국, 프랑스, 이탈리아, 뉴질랜드, 칠레 등 9개국에서 보고됐다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "특히 미국에서만 8건이 발생했다.",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "지카 바이러스 감염자, 성접촉으로 감염시킬 수 있다 밝혀져… '이왜진?'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

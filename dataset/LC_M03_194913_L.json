@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194913",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "화순.나주 보육시설 어린이들 만든 인형 70점 전시",
+    "newsSubTitle": "",
+    "newsContent": "시골 코흘리개들이 손수 만든 인형 등 작품 전시회를 대도시에서 가져 눈길을 끌고 있다.\n전남보육시설엽합회 화순.나주지회가 지난 6일부터 롯데백화점 광주점 8층 화랑에서 '아이들이 만드는 세상' 이란 주제로 전시회를 갖고 있는 것. 오는 16일까지 열리는 이 전시회는 화순.나주지역의 4~6살짜리 꼬마들이 어린이집에서 종이.철사.조각천 등 갖가지 폐품으로 만든 인형 40여점을 전시하고 있다.\n또 폐은박지를 활용한 2호 크기 액자 30여점도 내걸고 있다.\n이들 작품에서는 기성 미술인들이 즐겨 불어넣는 신비감은 찾아볼 수 없지만 예쁜 한복을 차려 입은 엄마의 모습을 주름종이로 얼기설기 꾸며놓는 등 작품마다 순수함과 동심이 넘쳐난다.\n꽃을 쌌던 포장지나 헌옷가지.시든 나뭇가지 등으로 엮어 놓은 인형 등엔 시골 어린이들의 이야기가 담겨 있다.\n오는 10일부터 3일 동안은 어린이들이 전시장에서 직접 작품을 만드는 현장 체험학습 이벤트도 열린다.\n나주 다시어린이집 임정순(56) 원장은 \\\"또래집단의 놀이문화 속에서 만들어지는 것들도 얼마든지 예술 작품이 될 수 있다\\\" 며 \\\"아이들이 대도시에서 전시회를 갖는데 대해 자랑스러워 하고 있다\\\" 고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "시골 코흘리개들이 손수 만든 인형 등 작품 전시회를 대도시에서 가져 눈길을 끌고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "전남보육시설엽합회 화순.나주지회가 지난 6일부터 롯데백화점 광주점 8층 화랑에서 '아이들이 만드는 세상' 이란 주제로 전시회를 갖고 있는 것. 오는 16일까지 열리는 이 전시회는 화순.나주지역의 4~6살짜리 꼬마들이 어린이집에서 종이.철사.조각천 등 갖가지 폐품으로 만든 인형 40여점을 전시하고 있다.",
+        "sentenceSize": 169
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 폐은박지를 활용한 2호 크기 액자 30여점도 내걸고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들 작품에서는 기성 미술인들이 즐겨 불어넣는 신비감은 찾아볼 수 없지만 예쁜 한복을 차려 입은 엄마의 모습을 주름종이로 얼기설기 꾸며놓는 등 작품마다 순수함과 동심이 넘쳐난다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "꽃을 쌌던 포장지나 헌옷가지.시든 나뭇가지 등으로 엮어 놓은 인형 등엔 시골 어린이들의 이야기가 담겨 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오는 10일부터 3일 동안은 어린이들이 전시장에서 직접 작품을 만드는 현장 체험학습 이벤트도 열린다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "나주 다시어린이집 임정순(56) 원장은 \\\"또래집단의 놀이문화 속에서 만들어지는 것들도 얼마든지 예술 작품이 될 수 있다\\\" 며 \\\"아이들이 대도시에서 전시회를 갖는데 대해 자랑스러워 하고 있다\\\" 고 말했다.",
+        "sentenceSize": 117
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "롯데백화점 광주점 8층 화랑에서 열린 전시회는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

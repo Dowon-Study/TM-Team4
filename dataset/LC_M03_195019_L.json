@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195019",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "우유가 빨갛게 변했다…'자궁 모양' 시리얼이 탄생한 이유",
+    "newsSubTitle": "",
+    "newsContent": "생리컵을 제조하는 브랜드 '인티미나(Intimina)'가 생리를 주제로 한 자궁 모양의 시리얼을 출시해 화제다.\n인티미나 지난 3일(현지시각) 홈페이지를 통해 자궁 모양의 라즈베리맛 시리얼 '피리어드 크런치'를 출시했다고 밝혔다.\n제품명인 피리어드 크런치의 '피리어드(Period)'는 영어로 생리를 뜻한다.\n홈페이지에 따르면 인티미나는 가정에서 생리에 대한 대화가 부족하다는 인식을 제고하기 위해 이같은 제품을 만들었다고 밝혔다.\n인티미나가 2000명 이상의 성인을 대상으로 한 설문조사에 따르면 이들 중 절반(48%)이 생리 문제에 대해 공개적으로 이야기하는 것을 부끄러워한다고 답했다.\n또한 4분의 3 이상(77%)이 생리에 관련된 이야기를 가족과 나눠본 적이 없다고 말했다.\n이들은 82%의 사람들이 자궁이 어디에 있는지 정확하게 알지 못한다는 연구 결과도 언급했다.\n이에 인티미나는 제품 상자에 자궁에 대한 자세한 설명을 적었으며, 빨간색의 시리얼은 여성의 자궁 모양을 그대로 본떠 만들었다고 전했다.\n시리얼은 실제 자궁처럼 난소, 자궁, 질, 자궁 경부의 모양이 그대로 재현됐고, 라즈베리 맛으로 우유를 부으면 빨갛게 변한다.\n인티미나의 브랜드 메니저는 \\\"생리는 자연스러운 것이고 이에 대해 이야기하는 것은 정상적이어야 하지만 가정에서 생리에 대한 대화가 거의 없는 게 현실\\\"이라며 \\\"육체적, 정신적 건강을 위해 생리에 대해 더 많이 이야기해야 한다. 이것이 시리얼을 개발한 이유\\\"라고 말했다.\n산부인과 전문의 쉬리 다터 박사는 \\\"생리는 우리의 자연스러운 일부이기 때문에 많은 사람이 생리에 대해 이야기하는 것을 불편하게 여기고 있다는 소식을 듣게 되어 매우 우려스럽다\\\"며 \\\"이 시리얼로 인해 생리에 대한 대화를 시작하고 아침 식탁의 장벽을 허물기를 기대한다\\\"고 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "생리컵을 제조하는 브랜드 '인티미나(Intimina)'가 생리를 주제로 한 자궁 모양의 시리얼을 출시해 화제다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "인티미나 지난 3일(현지시각) 홈페이지를 통해 자궁 모양의 라즈베리맛 시리얼 '피리어드 크런치'를 출시했다고 밝혔다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "제품명인 피리어드 크런치의 '피리어드(Period)'는 영어로 생리를 뜻한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "홈페이지에 따르면 인티미나는 가정에서 생리에 대한 대화가 부족하다는 인식을 제고하기 위해 이같은 제품을 만들었다고 밝혔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "인티미나가 2000명 이상의 성인을 대상으로 한 설문조사에 따르면 이들 중 절반(48%)이 생리 문제에 대해 공개적으로 이야기하는 것을 부끄러워한다고 답했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 4분의 3 이상(77%)이 생리에 관련된 이야기를 가족과 나눠본 적이 없다고 말했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이들은 82%의 사람들이 자궁이 어디에 있는지 정확하게 알지 못한다는 연구 결과도 언급했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 인티미나는 제품 상자에 자궁에 대한 자세한 설명을 적었으며, 빨간색의 시리얼은 여성의 자궁 모양을 그대로 본떠 만들었다고 전했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "시리얼은 실제 자궁처럼 난소, 자궁, 질, 자궁 경부의 모양이 그대로 재현됐고, 라즈베리 맛으로 우유를 부으면 빨갛게 변한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "인티미나의 브랜드 메니저는 \\\"생리는 자연스러운 것이고 이에 대해 이야기하는 것은 정상적이어야 하지만 가정에서 생리에 대한 대화가 거의 없는 게 현실\\\"이라며 \\\"육체적, 정신적 건강을 위해 생리에 대해 더 많이 이야기해야 한다. 이것이 시리얼을 개발한 이유\\\"라고 말했다.",
+        "sentenceSize": 153
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "산부인과 전문의 쉬리 다터 박사는 \\\"생리는 우리의 자연스러운 일부이기 때문에 많은 사람이 생리에 대해 이야기하는 것을 불편하게 여기고 있다는 소식을 듣게 되어 매우 우려스럽다\\\"며 \\\"이 시리얼로 인해 생리에 대한 대화를 시작하고 아침 식탁의 장벽을 허물기를 기대한다\\\"고 전했다.",
+        "sentenceSize": 158
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인티미나, 자궁 모양의 시리얼 출시... 생리에 관련된 이야기를 가정에서 한다고?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

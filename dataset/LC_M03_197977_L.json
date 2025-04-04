@@ -1,0 +1,240 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197977",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "채소·과일 농약 없애려면 물에 담가 여러 번 씻어야",
+    "newsSubTitle": "설사 계속 땐 설탕·소금 물 자주 마시길",
+    "newsContent": "소비자에게 잔류 농약은 식중독균보다 훨씬 큰 공포감으로 다가온다.\n농약을 사용하지 않는 ‘유기농 식품’이 고가에도 불구하고 잘 팔리는 이유다.\n식재료에 농약이 많이 묻어 있으면 조리하는 손 등에 접촉성 피부염이 생길 수 있다.\n농약은 또 면역력을 떨어뜨린다.\n감기에 잘 걸리게 하고 피로를 쉬 느끼게 한다.\n농약 중엔 발암물질로 의심되는 것도 상당수다.\n극소량의 농약이라도 장기간(10∼30년) 섭취하면 암을 유발할 수 있다.\n가정 HACCP에서 잔류 농약의 섭취를 줄이는 방법은 다음 세 가지다.\n첫째, 마트에서 유기 농산물 마크나 유기농 가공식품 마크가 붙은 식품을 산다.\n둘째, 식품 구입 시 외양만 보고 고르지 않는다.\n채소의 벌레 먹은 흔적은 농약을 사용하지 않았다는 유력한 증거일 수 있다.\n반면 외양이 너무 싱싱하고 때깔이 좋으면 과도한 농약 사용을 의심해야 한다.\n셋째, 마트에서 사온 채소·과일·곡류 등 농산물을 잘 씻어 먹는다.\n세척만 잘해도 농약 잔류량이 크게 감소하는 것은 요즘 보급된 농약 대부분이 농산물 내부로 침투하지 않고 표면에만 머물러 있기 때문이다.\n농촌진흥청이 최근 이와 관련된 의미 있는 연구결과를 발표했다.\n상추·배추 등 잎채소를 고인 물에서 2∼3회(물을 교체) 씻어냈더니 잔류 농약이 80% 이상 감소했다.\n농진청 유해물질과 권혜영 박사는 “물에 담가 여러 번 씻는 것이 흐르는 물에 한번 씻는 것보다 잔류 농약 제거 효과가 크게는 두 배까지 높았다”며 “담금물에 소금이나 주방용 중성세제를 넣어 채소를 씻으면 잔류농약 제거 효과가 더 높아진다”고 전했다.\n농진청 연구에선 또 채소를 데치기만 해도 잔류농약이 65% 이상 제거되는 것으로 밝혀졌다.\n채소를 볶거나 물에 넣어 끓이는(채소국) 과정에서도 잔류 농약이 파괴되거나 날아가는 것으로 확인됐다.\n전문가들이 채소를 가열할 때 조리 용기의 뚜껑을 열어 두라고 하는 것은 이래서다.\n발효 과정에서도 잔류 농약이 줄어들었다.\n이는 발효 미생물에 의해 농약이 분해되는 것을 뜻한다.\n실제로 얼갈이 배추와 열무를 재료로 해서 김치를 담가봤다.\n잔류 농약은 소금에 절이고 세척하는 과정에서 55% 이상, 발효 과정에서 70∼91% 감소했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 24,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "소비자에게 잔류 농약은 식중독균보다 훨씬 큰 공포감으로 다가온다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "농약을 사용하지 않는 ‘유기농 식품’이 고가에도 불구하고 잘 팔리는 이유다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "식재료에 농약이 많이 묻어 있으면 조리하는 손 등에 접촉성 피부염이 생길 수 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "농약은 또 면역력을 떨어뜨린다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "감기에 잘 걸리게 하고 피로를 쉬 느끼게 한다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "농약 중엔 발암물질로 의심되는 것도 상당수다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "극소량의 농약이라도 장기간(10∼30년) 섭취하면 암을 유발할 수 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "가정 HACCP에서 잔류 농약의 섭취를 줄이는 방법은 다음 세 가지다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "첫째, 마트에서 유기 농산물 마크나 유기농 가공식품 마크가 붙은 식품을 산다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "둘째, 식품 구입 시 외양만 보고 고르지 않는다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "채소의 벌레 먹은 흔적은 농약을 사용하지 않았다는 유력한 증거일 수 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "반면 외양이 너무 싱싱하고 때깔이 좋으면 과도한 농약 사용을 의심해야 한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "셋째, 마트에서 사온 채소·과일·곡류 등 농산물을 잘 씻어 먹는다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "세척만 잘해도 농약 잔류량이 크게 감소하는 것은 요즘 보급된 농약 대부분이 농산물 내부로 침투하지 않고 표면에만 머물러 있기 때문이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "농촌진흥청이 최근 이와 관련된 의미 있는 연구결과를 발표했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "상추·배추 등 잎채소를 고인 물에서 2∼3회(물을 교체) 씻어냈더니 잔류 농약이 80% 이상 감소했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "농진청 유해물질과 권혜영 박사는 “물에 담가 여러 번 씻는 것이 흐르는 물에 한번 씻는 것보다 잔류 농약 제거 효과가 크게는 두 배까지 높았다”며 “담금물에 소금이나 주방용 중성세제를 넣어 채소를 씻으면 잔류농약 제거 효과가 더 높아진다”고 전했다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "농진청 연구에선 또 채소를 데치기만 해도 잔류농약이 65% 이상 제거되는 것으로 밝혀졌다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "채소를 볶거나 물에 넣어 끓이는(채소국) 과정에서도 잔류 농약이 파괴되거나 날아가는 것으로 확인됐다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "전문가들이 채소를 가열할 때 조리 용기의 뚜껑을 열어 두라고 하는 것은 이래서다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "발효 과정에서도 잔류 농약이 줄어들었다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "이는 발효 미생물에 의해 농약이 분해되는 것을 뜻한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "실제로 얼갈이 배추와 열무를 재료로 해서 김치를 담가봤다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "잔류 농약은 소금에 절이고 세척하는 과정에서 55% 이상, 발효 과정에서 70∼91% 감소했다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "음식 재료에 묻어있는 농약 제거하려면 '이 방법' 사용해야...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

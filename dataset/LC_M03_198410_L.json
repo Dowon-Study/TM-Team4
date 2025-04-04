@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198410",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "미국 출판사들 역사 교과서 개정 속앓이",
+    "newsSubTitle": "",
+    "newsContent": "미국 역사 교과서 출판사들이 9.11 미 테러 대참사와 미국의 아프가니스탄 공습 등의 초대형 사건 앞에서 교과서 개정 문제로 곤혹스러워 하고 있다.\n맥그로우-힐 출판사의 경우 테러 직전 개정판 인쇄를 목전에 두고 있다 이번 사건으로 많은 부분을 수정해야 할 처지에 놓였다.\n이들은 \\\"개정판이 순식간에 낡은 책이 됐다\\\"며 긴급 개정 작업에 들어갔다.\n이들을 괴롭히는 첫번째 문제는 바로 시간 부족. 미국 교과서 협의회측은 \\\"모든 사건이 현재 진행 중이기 때문에 교과서 출판계가 곤경에 처해있다\\\"고 설명했다.\n교과서의 경우 역사적 사건에 대한 철저한 고찰과 분석을 거쳐야 하기 때문에 저술에 오랜 시간이 소요된다.\n하지만 매년 신학기가 되면 역사 교과서를 개정판으로 교체하는 학교들이 상당수에 달하기 때문에 시간을 질질 끌 수도 없는 노릇이다.\n특히 미국 학교들은 한번 새 교과서를 도입하면 5년 정도씩 교체 않고 사용하는 관례가 일반화돼 있기 때문에 이번에 개정판을 출시하지 못하면 앞으로 수 년 동안 학생들의 교과 과정에 이번 역사적 사건이 빠지게 되는 것이다.\n시간상의 문제에 더해 오사마 빈 라덴을 이번 테러의 주범으로 게재할지 여부를 놓고도 교과서 출판계는 진퇴양난에 빠져있다.\n아직 1백% 확실한 물증이 미 행정부에 의해 제시되지 않은 상황에서 그의 배후 사실을 역사적 진실로 기록하기도 이른 감이 있고, 그렇다고 그의 존재를 빼고 테러 사건을 기술하기란 너무 허전한데다 미디어를 통해 이번 사건을 접한 대다수 국민 정서에도 맞지 않다는 판단 때문이다.\n현재로선 빈 라덴에 대한 역사적 평가보다 그에 대해 확실히 입증된 사실만을 객관적으로 그리는 방향으로 의견이 모아지고 있다.\n예를 들어 시안이 나온 프렌티스 홀 출판사의 중학교 역사 교과서의 경우 9.11 테러 전 불과 몇 문단 정도로만 기술된 '테러리즘'을 20페이지 가량으로 늘려 이번 사건에 관한 객관적 기술에 주력하고 있다.\n관련 사진은 아이들의 정서를 고려해 충돌과 붕괴 장면 대신 구조대원들 사진과 벽돌 잔해를 배경으로 성조기가 나부끼는 사진을 사용하기로 했다.\n이로 인해 한반도의 긴장과 남아프리카공화국의 인종 차별 철폐 등과 관련한 내용이 대폭 축소됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미국 역사 교과서 출판사들이 9.11 미 테러 대참사와 미국의 아프가니스탄 공습 등의 초대형 사건 앞에서 교과서 개정 문제로 곤혹스러워 하고 있다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "맥그로우-힐 출판사의 경우 테러 직전 개정판 인쇄를 목전에 두고 있다 이번 사건으로 많은 부분을 수정해야 할 처지에 놓였다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이들은 \\\"개정판이 순식간에 낡은 책이 됐다\\\"며 긴급 개정 작업에 들어갔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들을 괴롭히는 첫번째 문제는 바로 시간 부족. 미국 교과서 협의회측은 \\\"모든 사건이 현재 진행 중이기 때문에 교과서 출판계가 곤경에 처해있다\\\"고 설명했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "교과서의 경우 역사적 사건에 대한 철저한 고찰과 분석을 거쳐야 하기 때문에 저술에 오랜 시간이 소요된다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 매년 신학기가 되면 역사 교과서를 개정판으로 교체하는 학교들이 상당수에 달하기 때문에 시간을 질질 끌 수도 없는 노릇이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 미국 학교들은 한번 새 교과서를 도입하면 5년 정도씩 교체 않고 사용하는 관례가 일반화돼 있기 때문에 이번에 개정판을 출시하지 못하면 앞으로 수 년 동안 학생들의 교과 과정에 이번 역사적 사건이 빠지게 되는 것이다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "시간상의 문제에 더해 오사마 빈 라덴을 이번 테러의 주범으로 게재할지 여부를 놓고도 교과서 출판계는 진퇴양난에 빠져있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아직 1백% 확실한 물증이 미 행정부에 의해 제시되지 않은 상황에서 그의 배후 사실을 역사적 진실로 기록하기도 이른 감이 있고, 그렇다고 그의 존재를 빼고 테러 사건을 기술하기란 너무 허전한데다 미디어를 통해 이번 사건을 접한 대다수 국민 정서에도 맞지 않다는 판단 때문이다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "현재로선 빈 라덴에 대한 역사적 평가보다 그에 대해 확실히 입증된 사실만을 객관적으로 그리는 방향으로 의견이 모아지고 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "예를 들어 시안이 나온 프렌티스 홀 출판사의 중학교 역사 교과서의 경우 9.11 테러 전 불과 몇 문단 정도로만 기술된 '테러리즘'을 20페이지 가량으로 늘려 이번 사건에 관한 객관적 기술에 주력하고 있다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "관련 사진은 아이들의 정서를 고려해 충돌과 붕괴 장면 대신 구조대원들 사진과 벽돌 잔해를 배경으로 성조기가 나부끼는 사진을 사용하기로 했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이로 인해 한반도의 긴장과 남아프리카공화국의 인종 차별 철폐 등과 관련한 내용이 대폭 축소됐다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미국 '이것' 교과서 개정 문제 출판사 골머리... 5년 관례 깨고 긴급 개정되나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196636",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 가슴 멍울, 유방암 아니라는데 그냥 둬도 괜찮나?",
+    "newsSubTitle": "",
+    "newsContent": "전문의 칼럼 강성수 일산차병원 유방센터 교수 가슴에 이전에 없던 멍울이 만져지면 ‘유방암이 아닐까?’ 걱정하게 된다.\n하지만 멍울의 대부분은 유방암이 아니다.\n조직검사 결과 암이 아닌 양성종양으로 판명됐을 땐 어떻게 대처해야 할까.\n유방 양성종양은 유방에 생기는 암을 제외한 모든 종양으로 비교적 젊은 여성에게 많이 발생한다.\n양성종양이 나중에 암으로 진행되지 않을까 걱정하는 경우가 많지만, 양성종양의 대부분은 암이 아닌 상태로 유지되므로 지나치게 걱정할 필요는 없다.\n단, 양성종양 중에서도 일부 꼭 제거가 필요한 경우가 있다.\n그중 대표적인 것이 ‘엽상종양’이다.\n유방에 생기는 가장 흔한 양성종양인 섬유선종과 유사해 증상이나 영상 소견만으로는 구분하기 어렵고, 증식 속도가 빠른 특징이 있다.\n최근 2~3개월 동안에 2~3㎝에 이를 정도로 빨리 커졌다면 바로 조직검사를 시행하기도 한다.\n엽상종양으로 진단되면 주위 정상 조직을 1㎝ 정도 포함해 절제하는 광범위 절제술을 시행한다.\n병리학적으로 양성·경계성·악성의 세 가지로 분류하지만 임상 양상이나 치료법은 거의 유사하다.\n이외에도 조직검사로 정확한 진단 후 치료 방향을 결정해야 하는 양성 종양이 있다. ▶혈성(血性) 유두 분비물을 동반한 유관 유두종 ▶다발성 유관 유두종 ▶세침흡인 검사에서 비정형 세포가 발견된 경우 등에서는 좀 더 확실한 진단을 위해 절제 조직검사를 권한다.\n특히 갱년기 증상 치료 또는 뼈 건강 등의 이유로 복합 여성호르몬제를 복용하는 경우에는 유방암 발생 위험도를 감안해 적극적으로 검사를 권유한다.\n또 멍울에 대해 과도하게 불안감을 느끼거나 스트레스를 받을 때는 진단과 치료 목적의 절제 조직검사를 고려해볼 수 있다.\n절제 조직검사는 수술적인 방법과 진공흡입 보조장치를 이용한 방법으로 시행할 수 있다.\n수술적인 방법은 대개 건강보험이 적용돼 비용이 상대적으로 저렴하지만 유두와 유륜에서 많이 떨어져 있는 병소는 피부에 흉터를 남길 수 있다.\n진공흡입 보조장치를 이용한 방법은 흉터가 거의 남지 않지만 많은 부분에서 건강보험이 적용되지 않아 상대적으로 비용 부담이 크다.\n양성종양은 꾸준히 관찰만 잘하면 크게 걱정할 필요가 없는 질환이다.\n만일 자신에게 양성종양이 있다면 매달 자가 검진과 함께 지속해서 검진을 받아 보는 게 좋다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전문의 칼럼 강성수 일산차병원 유방센터 교수 가슴에 이전에 없던 멍울이 만져지면 ‘유방암이 아닐까?’ 걱정하게 된다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하지만 멍울의 대부분은 유방암이 아니다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "조직검사 결과 암이 아닌 양성종양으로 판명됐을 땐 어떻게 대처해야 할까.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유방 양성종양은 유방에 생기는 암을 제외한 모든 종양으로 비교적 젊은 여성에게 많이 발생한다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "양성종양이 나중에 암으로 진행되지 않을까 걱정하는 경우가 많지만, 양성종양의 대부분은 암이 아닌 상태로 유지되므로 지나치게 걱정할 필요는 없다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "단, 양성종양 중에서도 일부 꼭 제거가 필요한 경우가 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그중 대표적인 것이 ‘엽상종양’이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "유방에 생기는 가장 흔한 양성종양인 섬유선종과 유사해 증상이나 영상 소견만으로는 구분하기 어렵고, 증식 속도가 빠른 특징이 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "최근 2~3개월 동안에 2~3㎝에 이를 정도로 빨리 커졌다면 바로 조직검사를 시행하기도 한다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "엽상종양으로 진단되면 주위 정상 조직을 1㎝ 정도 포함해 절제하는 광범위 절제술을 시행한다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "병리학적으로 양성·경계성·악성의 세 가지로 분류하지만 임상 양상이나 치료법은 거의 유사하다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이외에도 조직검사로 정확한 진단 후 치료 방향을 결정해야 하는 양성 종양이 있다. ▶혈성(血性) 유두 분비물을 동반한 유관 유두종 ▶다발성 유관 유두종 ▶세침흡인 검사에서 비정형 세포가 발견된 경우 등에서는 좀 더 확실한 진단을 위해 절제 조직검사를 권한다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "특히 갱년기 증상 치료 또는 뼈 건강 등의 이유로 복합 여성호르몬제를 복용하는 경우에는 유방암 발생 위험도를 감안해 적극적으로 검사를 권유한다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또 멍울에 대해 과도하게 불안감을 느끼거나 스트레스를 받을 때는 진단과 치료 목적의 절제 조직검사를 고려해볼 수 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "절제 조직검사는 수술적인 방법과 진공흡입 보조장치를 이용한 방법으로 시행할 수 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "수술적인 방법은 대개 건강보험이 적용돼 비용이 상대적으로 저렴하지만 유두와 유륜에서 많이 떨어져 있는 병소는 피부에 흉터를 남길 수 있다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "진공흡입 보조장치를 이용한 방법은 흉터가 거의 남지 않지만 많은 부분에서 건강보험이 적용되지 않아 상대적으로 비용 부담이 크다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "양성종양은 꾸준히 관찰만 잘하면 크게 걱정할 필요가 없는 질환이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "만일 자신에게 양성종양이 있다면 매달 자가 검진과 함께 지속해서 검진을 받아 보는 게 좋다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가슴에 없던 멍울... 그냥 두면 암으로 발전될 가능성 농후",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

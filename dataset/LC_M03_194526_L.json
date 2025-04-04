@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194526",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"운동하면 머리 좋아진다\\\"",
+    "newsSubTitle": "뉴스위크 \\\"뇌에 새로운 신경세포 생겨나\\\"",
+    "newsContent": "#1. 일리노이대 연구원 찰스 힐먼은 대학생 259명에게 달리기.팔굽혀 펴기.윗몸 일으키기 등을 시켰다.\n이후 실시된 수학.읽기 능력 공인 시험에서 운동 능력이 뛰어난 학생이 높은 성적을 냈다.\n#2. 세계적 생명공학연구소인 솔크연구소와 컬럼비아대 메디컬센터 연구팀은 석 달간 운동을 한 건강한 성인의 뇌에 새로운 신경세포가 생겨났다는 연구 결과를 지난주 발표했다.\n이는 나이가 들수록 뇌의 신경세포는 감소한다는 그간의 통념을 깬 것이다.\n또 이 세포는 학습과 기억을 관장한다. '운동을 하면 머리가 좋아진다'는 주장을 뒷받침하는 연구 결과가 속속 발표되고 있다고 미 시사주간지 뉴스위크 최신호(3월 26일자)가 보도했다.\n뉴스위크에 따르면 운동은 늙은 신경세포 간에 연결된 망을 만들어내며, 뇌 세포에 혈액과 영양을 공급한다.\n특히 운동을 할수록 뇌에서 생기는 향신경성 물질(BDNF)은 지적 능력을 향상시킨다.\n하버드대 정신과 의사 존 래티는 \\\"운동은 집중력과 침착성은 높이고 충동성은 낮춰 (우울증 치료제인) 프로작과 리탈린을 복용하는 것과 비슷한 효과가 있다\\\"고 설명했다.\n또 운동을 중간에 그만두면 신경세포가 잘 작동하지 않으며, 효과를 유지하려면 지속적으로 운동해야 한다고 연구자들은 말한다.\n이 같은 연구에 따라 교육당국은 학생들의 운동 시간을 늘리려 하고 있다.\n지난달 켄터키주 상원은 8학년(중학교 2학년에 해당)까지 매일 30분씩 운동을 하도록 하는 법안을 통과시켰다.\n일리노이주의 학교에서도 언어 능력이 부족한 학생들이 수업 전 간단한 운동을 하기 시작했다.\n또 운동선수의 학업 성적이 나쁘다는 인식과 관련, 찰스 힐먼은 \\\"운동을 잘하기 때문에 공부를 잘할 필요가 없다며 운동선수의 학업 성적에 대해 너무 관대하기 때문\\\"이라고 설명했다.\n과거 그리스인이 건강한 몸과 지적 능력이 일치한다고 생각했듯 적당한 환경이 마련되면 결과는 다를 것이라는 주장이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "#1. 일리노이대 연구원 찰스 힐먼은 대학생 259명에게 달리기.팔굽혀 펴기.윗몸 일으키기 등을 시켰다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이후 실시된 수학.읽기 능력 공인 시험에서 운동 능력이 뛰어난 학생이 높은 성적을 냈다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "#2. 세계적 생명공학연구소인 솔크연구소와 컬럼비아대 메디컬센터 연구팀은 석 달간 운동을 한 건강한 성인의 뇌에 새로운 신경세포가 생겨났다는 연구 결과를 지난주 발표했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이는 나이가 들수록 뇌의 신경세포는 감소한다는 그간의 통념을 깬 것이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 이 세포는 학습과 기억을 관장한다. '운동을 하면 머리가 좋아진다'는 주장을 뒷받침하는 연구 결과가 속속 발표되고 있다고 미 시사주간지 뉴스위크 최신호(3월 26일자)가 보도했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뉴스위크에 따르면 운동은 늙은 신경세포 간에 연결된 망을 만들어내며, 뇌 세포에 혈액과 영양을 공급한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 운동을 할수록 뇌에서 생기는 향신경성 물질(BDNF)은 지적 능력을 향상시킨다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하버드대 정신과 의사 존 래티는 \\\"운동은 집중력과 침착성은 높이고 충동성은 낮춰 (우울증 치료제인) 프로작과 리탈린을 복용하는 것과 비슷한 효과가 있다\\\"고 설명했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 운동을 중간에 그만두면 신경세포가 잘 작동하지 않으며, 효과를 유지하려면 지속적으로 운동해야 한다고 연구자들은 말한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 같은 연구에 따라 교육당국은 학생들의 운동 시간을 늘리려 하고 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "지난달 켄터키주 상원은 8학년(중학교 2학년에 해당)까지 매일 30분씩 운동을 하도록 하는 법안을 통과시켰다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "일리노이주의 학교에서도 언어 능력이 부족한 학생들이 수업 전 간단한 운동을 하기 시작했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "또 운동선수의 학업 성적이 나쁘다는 인식과 관련, 찰스 힐먼은 \\\"운동을 잘하기 때문에 공부를 잘할 필요가 없다며 운동선수의 학업 성적에 대해 너무 관대하기 때문\\\"이라고 설명했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "과거 그리스인이 건강한 몸과 지적 능력이 일치한다고 생각했듯 적당한 환경이 마련되면 결과는 다를 것이라는 주장이다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'운동하면 머리 좋아진다' 주장 뒷받침하는 연구 결과 나왔다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

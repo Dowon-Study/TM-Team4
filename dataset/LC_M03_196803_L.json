@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196803",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "심평원, 전산업무 일시중단…요양기관 불편 예고",
+    "newsSubTitle": "\\\"본원 원주 이전 앞서 ICT센터 이전에 따른 것\\\"",
+    "newsContent": "건강보험심사평가원은 오는 12월 원주 이전에 앞서 19~24일 ICT센터를 우선 이전한다고 17일 밝혔다.\n이에 따라 이전 기간 동안 요양급여비용 청구 등 전산업무는 일시 중단된다.\n일시 중단되는 전산업무는 요양급여비용 청구, 심사결과 통보, 각종 신청 및 신고 등이다.\n요양기관의 불편이 예상된다.\n단, DUR업무는 요양기관 자체점검 기능으로 전환 실시된다.\n다만 전산업무 중단에 따른 만일의 사태에 대비하기 위해 정보기획실을 중심으로 24일 18시까지 ‘이전 상황실’을 운영할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "건강보험심사평가원은 오는 12월 원주 이전에 앞서 19~24일 ICT센터를 우선 이전한다고 17일 밝혔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이에 따라 이전 기간 동안 요양급여비용 청구 등 전산업무는 일시 중단된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일시 중단되는 전산업무는 요양급여비용 청구, 심사결과 통보, 각종 신청 및 신고 등이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "요양기관의 불편이 예상된다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "단, DUR업무는 요양기관 자체점검 기능으로 전환 실시된다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다만 전산업무 중단에 따른 만일의 사태에 대비하기 위해 정보기획실을 중심으로 24일 18시까지 ‘이전 상황실’을 운영할 예정이다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "건보원, ICT 센터 이전 계획 발표… 전산업무 마비에 민원 '대 폭주' 예상",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

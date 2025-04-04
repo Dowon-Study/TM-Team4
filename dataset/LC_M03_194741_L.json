@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194741",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/꿈나무] 아빠 아빠 우리 아빠… 힘내세요",
+    "newsSubTitle": "",
+    "newsContent": "아빠와 함께 리광푸 지음, 정승희 그림, 심봉희 옮김 웅진주니어, 7500원 타이완의 한 초등학교 5학년인 주인공 융링은 아주 특별한 여름 방학을 맞았다.\n아빠가 생애 첫 여름 휴가를 받았기 때문이다.\n그러던 어느 날, 엄마 아빠는 친척집에 융링과 동생을 맡겨두고 어딘가로 떠난다.\n융링은 배신감에 눈물을 흘린다.\n알고 보니 아빠는 암에 걸려 요양원으로 향한 것이다.\n요양원 근처에 좁은 방을 얻어 동생을 돌보는 융링. 불편하지만 엄마 아빠와 함께 지낼 수 있어 행복했다.\n그러나 그 행복도 길지 않다.\n아빠가 어디 갔느냐고 묻는 동생에게 융링은 아빠는 아주 긴 여름 휴가를 떠났다고 말해준다.\n집안의 기둥인 아빠를 훌쩍 떠나 보낸 주인공은 이별을 겪으면서 훌쩍 커 버린 것이다.\n타이완의 초등학교 교사가 쓴 이 동화는 2003년 타이완 행정원이 선정한 초.중등생 추천 도서다.\n집안에 조용히 큰 그늘을 드리우는 아빠의 자리에 대해 다시 한 번 생각하게 해주는 감동적인 이야기다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아빠와 함께 리광푸 지음, 정승희 그림, 심봉희 옮김 웅진주니어, 7500원 타이완의 한 초등학교 5학년인 주인공 융링은 아주 특별한 여름 방학을 맞았다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아빠가 생애 첫 여름 휴가를 받았기 때문이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러던 어느 날, 엄마 아빠는 친척집에 융링과 동생을 맡겨두고 어딘가로 떠난다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "융링은 배신감에 눈물을 흘린다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "알고 보니 아빠는 암에 걸려 요양원으로 향한 것이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "요양원 근처에 좁은 방을 얻어 동생을 돌보는 융링. 불편하지만 엄마 아빠와 함께 지낼 수 있어 행복했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러나 그 행복도 길지 않다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아빠가 어디 갔느냐고 묻는 동생에게 융링은 아빠는 아주 긴 여름 휴가를 떠났다고 말해준다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "집안의 기둥인 아빠를 훌쩍 떠나 보낸 주인공은 이별을 겪으면서 훌쩍 커 버린 것이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "타이완의 초등학교 교사가 쓴 이 동화는 2003년 타이완 행정원이 선정한 초.중등생 추천 도서다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "집안에 조용히 큰 그늘을 드리우는 아빠의 자리에 대해 다시 한 번 생각하게 해주는 감동적인 이야기다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "[신간] 초·중생 추천 도서 '아빠와 함께', 감동 포인트는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

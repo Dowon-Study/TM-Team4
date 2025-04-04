@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198592",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[틴틴/키즈] '내 당나귀 벤야민'",
+    "newsSubTitle": "소녀와 당나귀 '우정' 사진과 글로 엮어",
+    "newsContent": "내 당나귀 벤야민/한스 림머 글/레나르트 오스베크 사진/김경연 옮김, 달리, 8천원 1968년에 초판이 나와 외국에서는 아직도 사랑을 받는 책이다.\n도시 생활을 접고 지중해에서 살게 된 수지라는 꼬마가 아기 당나귀를 절벽에서 구하고 키우게 된다는 이야기. 각 장에 담긴 흑백사진은 지중해의 이국적 풍경과 함께 수지와 당나귀 벤야민 사이에 피어나는 우정을 정감 어리게 묘사하고 있다.\n갈래 머리에 통통하고 건강한 얼굴을 한 수지는 귀가 커다랗고 털이 보드라운 벤야민을 너무나 좋아한다.\n아침이면 벤야민을 씻겨 주고, 함께 집안을 마구 뛰어다닌다.\n바닷가에서 노는 소녀와 당나귀, 밀짚모자까지 함께 쓴 우스꽝스러운 모습 등 35장의 사진 모두가 엽서처럼 아름답다.\n맨발로 뛰는 아이, 벌거벗은 모습도 자연의 일부로 보일만큼 평화로운 분위기가 물씬 느껴진다.\n해맑은 아이의 표정도 좋지만, 순한 눈을 가진 당나귀 벤야민의 연기도 일품이다.\n사진작가 오스베크가 실제로 66.67년 그리스에 살면서 사진을 찍었다고 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "내 당나귀 벤야민/한스 림머 글/레나르트 오스베크 사진/김경연 옮김, 달리, 8천원 1968년에 초판이 나와 외국에서는 아직도 사랑을 받는 책이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "도시 생활을 접고 지중해에서 살게 된 수지라는 꼬마가 아기 당나귀를 절벽에서 구하고 키우게 된다는 이야기. 각 장에 담긴 흑백사진은 지중해의 이국적 풍경과 함께 수지와 당나귀 벤야민 사이에 피어나는 우정을 정감 어리게 묘사하고 있다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "갈래 머리에 통통하고 건강한 얼굴을 한 수지는 귀가 커다랗고 털이 보드라운 벤야민을 너무나 좋아한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아침이면 벤야민을 씻겨 주고, 함께 집안을 마구 뛰어다닌다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "바닷가에서 노는 소녀와 당나귀, 밀짚모자까지 함께 쓴 우스꽝스러운 모습 등 35장의 사진 모두가 엽서처럼 아름답다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "맨발로 뛰는 아이, 벌거벗은 모습도 자연의 일부로 보일만큼 평화로운 분위기가 물씬 느껴진다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "해맑은 아이의 표정도 좋지만, 순한 눈을 가진 당나귀 벤야민의 연기도 일품이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "사진작가 오스베크가 실제로 66.67년 그리스에 살면서 사진을 찍었다고 한다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'내 당나귀 벤야민'이 사랑받는 이유는 바로 '이것'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

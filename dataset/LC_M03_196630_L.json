@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196630",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] “로봇 수술법 국내 선구자 넘어 ‘K-서저리’ 세계화 앞장섭니다”",
+    "newsSubTitle": "인터뷰 민병소 세브란스병원 로봇내시경수술센터 소장",
+    "newsContent": "로봇 수술은 외과 의사의 새로운 무기다.\n칼·카메라 등 수술 도구를 결합한 로봇 팔은 의사의 손과 눈을 대신한다.\n수술 부위를 열 배 이상 확대해 보고 좁은 공간에서 세밀한 조작이 가능해 혈관·신경 등 조직 손상 위험이 낮다.\n출혈·통증, 기능 장애와 같은 후유증 위험을 최소화해 현재로써 가장 진화한 수술법이다.\n세브란스병원은 국내를 넘어 세계에서 인정받는 로봇 수술의 ‘메카’다. 15년간 갑상샘·위·간·전립샘 등 전(全) 진료과에 로봇 수술을 선도적으로 도입하며 세계 로봇 수술 발전을 이끌었다.\n지난해 12월 병원에서 열린 ‘국제 로봇 수술 LIVE’에는 의료진의 수술 모습을 지켜보기 위해 21개국, 500여 명의 관계자가 몰렸다.\n민병소(47) 로봇내시경수술센터 소장은 “유럽·일본에서 활약하는 로봇 수술의 대가(大家)들도 세브란스병원의 트레이닝을 받았다”며 “이제 국내를 넘어 세계 로봇 수술계가 ‘K-서저리(surgery·외과 수술)’를 주목한다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "로봇 수술은 외과 의사의 새로운 무기다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "칼·카메라 등 수술 도구를 결합한 로봇 팔은 의사의 손과 눈을 대신한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "수술 부위를 열 배 이상 확대해 보고 좁은 공간에서 세밀한 조작이 가능해 혈관·신경 등 조직 손상 위험이 낮다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "출혈·통증, 기능 장애와 같은 후유증 위험을 최소화해 현재로써 가장 진화한 수술법이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세브란스병원은 국내를 넘어 세계에서 인정받는 로봇 수술의 ‘메카’다. 15년간 갑상샘·위·간·전립샘 등 전(全) 진료과에 로봇 수술을 선도적으로 도입하며 세계 로봇 수술 발전을 이끌었다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난해 12월 병원에서 열린 ‘국제 로봇 수술 LIVE’에는 의료진의 수술 모습을 지켜보기 위해 21개국, 500여 명의 관계자가 몰렸다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "민병소(47) 로봇내시경수술센터 소장은 “유럽·일본에서 활약하는 로봇 수술의 대가(大家)들도 세브란스병원의 트레이닝을 받았다”며 “이제 국내를 넘어 세계 로봇 수술계가 ‘K-서저리(surgery·외과 수술)’를 주목한다”고 말했다.",
+        "sentenceSize": 129
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "로봇 수술, 외과 의사의 모든 게 가능한 무적의 신 무기",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

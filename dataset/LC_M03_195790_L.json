@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195790",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"포괄간호병원서 쫓겨난 간호인력 속출\\\"",
+    "newsSubTitle": "대책위원회 구성해 간호조무사협회 차원에서 대응",
+    "newsContent": "포괄간호병원에서 근무하는 간호조무사의 고용 보장과 포괄간호서비스 제도 개선을 요구하는 목소리가 높아지고 있다.\n대한간호조무사협회(회장 홍옥녀)는 2013년부터 시범사업을 실시해온 포괄간호병원에서 2년 계약만료를 이유로 일자리를 잃은 간호조무사들이 속출하고 있다고 21일 밝혔다.\n실제 서울의료원, 청주의료원, 건강보험공단 일산병원, 세종병원 등 2013년부터 포괄간호병동을 운영한 10개 병원에서 지난 6월 기준으로 20여 명의 간호조무사가 그만뒀다.\n현재 재직 중인 간호조무사 중에서도 2013년 하반기와 2014년 상반기에 근무를 시작한 수십 명이 올해 연말이 되면 계약이 만료된다.\n특히 처음 근무할 때 '일이 힘들어도 계속 열심히 근무하면 정규직으로 전환될 것'이라는 얘기를 들은 이들도 많다는 주장이다.\n간무협은 “포괄간호병원은 올해부터 건강보험 수가적용을 받기 시작해 제도 정착 단계에 들어섰고 앞으로 크게 확대될 것으로 예상되는 정부시책사업”이라며 “포괄간호병동에서 근무하는 간호조무사는 정규직으로 고용돼야 하는 게 타당하다”고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "포괄간호병원에서 근무하는 간호조무사의 고용 보장과 포괄간호서비스 제도 개선을 요구하는 목소리가 높아지고 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "대한간호조무사협회(회장 홍옥녀)는 2013년부터 시범사업을 실시해온 포괄간호병원에서 2년 계약만료를 이유로 일자리를 잃은 간호조무사들이 속출하고 있다고 21일 밝혔다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "실제 서울의료원, 청주의료원, 건강보험공단 일산병원, 세종병원 등 2013년부터 포괄간호병동을 운영한 10개 병원에서 지난 6월 기준으로 20여 명의 간호조무사가 그만뒀다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "현재 재직 중인 간호조무사 중에서도 2013년 하반기와 2014년 상반기에 근무를 시작한 수십 명이 올해 연말이 되면 계약이 만료된다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 처음 근무할 때 '일이 힘들어도 계속 열심히 근무하면 정규직으로 전환될 것'이라는 얘기를 들은 이들도 많다는 주장이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "간무협은 “포괄간호병원은 올해부터 건강보험 수가적용을 받기 시작해 제도 정착 단계에 들어섰고 앞으로 크게 확대될 것으로 예상되는 정부시책사업”이라며 “포괄간호병동에서 근무하는 간호조무사는 정규직으로 고용돼야 하는 게 타당하다”고 설명했다.",
+        "sentenceSize": 133
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "포괄 간호병원에서 근무하다 계약만료, 갈 곳 잃은 간호조무사들… 어디로?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

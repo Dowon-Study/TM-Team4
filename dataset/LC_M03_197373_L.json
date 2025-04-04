@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197373",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"치매냐 아니냐…16년 전 당신 피는 알 수도 있다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "치매 가능성을 증상이 나타나기 최장 16년 전에 혈액검사로 포착할 수 있다는 연구결과가 나왔다.\n독일 신경퇴행질환 센터와 미국 워싱턴 대학 공동연구팀은 치매 위험이 매우 높은 변이유전자를 가진 경우 치매 발생 최장 16년 전에 손상된 신경세포에서 흘러나오는 특정 단백질의 혈중 수치가 상승하기 시작한다는 연구결과를 발표했다고 메디컬 익스프레스가 21일 보도했다.\n이 단백질은 신경세포 내부 골격의 일부를 구성하는 미세신경섬유 경쇄(NFL·neurofilament light chain)로 신경세포가 손상되거나 죽으면 신경세포 밖으로 누출돼 뇌척수액에 섞여 혈액 속으로 유입된다고 독일 신경퇴행질환 센터의 세포 신경학 교수 마티아스 유커 박사는 설명했다.\n이 같은 사실은 워싱턴 대학이 주도하는 세계 치매 연구 컨소시엄인 '우성 유전 알츠하이머병 네트워크'(DIAN·Dominant Inherited Alzheimer's Network)에 참가한 조발성(30~50대에 발생) 치매 변이유전자를 가진 247명과 변이유전자가 없는 이들의 가족 162명을 대상으로 장기간에 걸쳐 진행된 혈액검사와 인지기능 테스트 자료를 분석한 결과 밝혀졌다.\n이 변이유전자를 가진 부모에게서 태어난 자녀는 50%가 변이유전자를 물려받으며 이들은 거의 다 부모가 치매 증세가 발생했던 나이와 비슷한 나이에 치매 증세가 나타난다.\n혈액검사에서는 변이유전자를 물려받은 사람은 기본적으로 NFL 수치가 높고 시간이 가면서 점점 더 높아진다.\n반면 변이유전자를 물려받지 않은 사람은 NFL 수치가 낮고 낮은 수치가 그대로 유지된다.\n이러한 차이는 치매 증세가 나타날 것으로 예상되는 시점을 기준으로 16년 전부터 나타나기 시작했다.\nNFL 수치가 높아지는 속도는 기억을 관장하는 뇌 부위의 일부인 설전부(precuneus)가 얇아지고 위축되는 속도와 일치한다는 사실도 발견됐다.\n연구팀은 변이유전자를 지닌 사람 중 평균 2년 간격으로 검사를 받은 39명을 대상으로 뇌 스캔과 함께 간이정신상태평가(Mini-Mental State Examination)와 논리기억(Logical Memory)검사 등 인지기능 테스트를 진행했다.\n그 결과 이전 혈액검사에서 NFL 혈중 수치가 가파르게 오른 사람이 뇌 위축(brain atrophy)과 인지기능 저하가 나타날 가능성이 가장 큰 것으로 밝혀졌다.\n연구팀은 \\\"유전자 변이에 의한 조발성 치매가 아닌 노인성 치매의 경우도 마찬가지인지는 앞으로 확인이 필요하다\\\"며 \\\"다만 NFL 수치는 파킨슨병 환자에게 나타나는 루이 소체 치매(Lewy body dementia)와 헌팅턴병 환자에게서도 높은 경향을 보이며 다발성 경화증이 재발했을 때와 축구 하다 머리에 타격을 받은 직후에 특히 높게 나타난다\\\"고 설명했다.\n이 연구결과는 영국의 의학전문지 '네이처 메디신(Nature Medicine)' 최신호(1월 21일 자)에 발표됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "치매 가능성을 증상이 나타나기 최장 16년 전에 혈액검사로 포착할 수 있다는 연구결과가 나왔다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "독일 신경퇴행질환 센터와 미국 워싱턴 대학 공동연구팀은 치매 위험이 매우 높은 변이유전자를 가진 경우 치매 발생 최장 16년 전에 손상된 신경세포에서 흘러나오는 특정 단백질의 혈중 수치가 상승하기 시작한다는 연구결과를 발표했다고 메디컬 익스프레스가 21일 보도했다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 단백질은 신경세포 내부 골격의 일부를 구성하는 미세신경섬유 경쇄(NFL·neurofilament light chain)로 신경세포가 손상되거나 죽으면 신경세포 밖으로 누출돼 뇌척수액에 섞여 혈액 속으로 유입된다고 독일 신경퇴행질환 센터의 세포 신경학 교수 마티아스 유커 박사는 설명했다.",
+        "sentenceSize": 162
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 같은 사실은 워싱턴 대학이 주도하는 세계 치매 연구 컨소시엄인 '우성 유전 알츠하이머병 네트워크'(DIAN·Dominant Inherited Alzheimer's Network)에 참가한 조발성(30~50대에 발생) 치매 변이유전자를 가진 247명과 변이유전자가 없는 이들의 가족 162명을 대상으로 장기간에 걸쳐 진행된 혈액검사와 인지기능 테스트 자료를 분석한 결과 밝혀졌다.",
+        "sentenceSize": 213
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 변이유전자를 가진 부모에게서 태어난 자녀는 50%가 변이유전자를 물려받으며 이들은 거의 다 부모가 치매 증세가 발생했던 나이와 비슷한 나이에 치매 증세가 나타난다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "혈액검사에서는 변이유전자를 물려받은 사람은 기본적으로 NFL 수치가 높고 시간이 가면서 점점 더 높아진다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "반면 변이유전자를 물려받지 않은 사람은 NFL 수치가 낮고 낮은 수치가 그대로 유지된다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이러한 차이는 치매 증세가 나타날 것으로 예상되는 시점을 기준으로 16년 전부터 나타나기 시작했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "NFL 수치가 높아지는 속도는 기억을 관장하는 뇌 부위의 일부인 설전부(precuneus)가 얇아지고 위축되는 속도와 일치한다는 사실도 발견됐다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "연구팀은 변이유전자를 지닌 사람 중 평균 2년 간격으로 검사를 받은 39명을 대상으로 뇌 스캔과 함께 간이정신상태평가(Mini-Mental State Examination)와 논리기억(Logical Memory)검사 등 인지기능 테스트를 진행했다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그 결과 이전 혈액검사에서 NFL 혈중 수치가 가파르게 오른 사람이 뇌 위축(brain atrophy)과 인지기능 저하가 나타날 가능성이 가장 큰 것으로 밝혀졌다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "연구팀은 \\\"유전자 변이에 의한 조발성 치매가 아닌 노인성 치매의 경우도 마찬가지인지는 앞으로 확인이 필요하다\\\"며 \\\"다만 NFL 수치는 파킨슨병 환자에게 나타나는 루이 소체 치매(Lewy body dementia)와 헌팅턴병 환자에게서도 높은 경향을 보이며 다발성 경화증이 재발했을 때와 축구 하다 머리에 타격을 받은 직후에 특히 높게 나타난다\\\"고 설명했다.",
+        "sentenceSize": 203
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이 연구결과는 영국의 의학전문지 '네이처 메디신(Nature Medicine)' 최신호(1월 21일 자)에 발표됐다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'소리 없는 공포' 어마무시한 치매의 위협... 유전자 검사 통해 발병 16년 전 미리 알 수 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

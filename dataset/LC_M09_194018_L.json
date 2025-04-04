@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M09_194018",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "방송·연예",
+    "newsTitle": "전국노래자랑 ‘땡아저씨’ 김인협 악단장 별세",
+    "newsSubTitle": "null",
+    "newsContent": "30여년간 (KBS) 1텔레비전 에서 반주를 책임졌던 김인협(사진) 악단장이 26일 오후 5시50분 폐암 투병 중 별세했다.\n향년 71살. 김씨는 지난해 말 폐암 진단을 받고 무대에 서지 못했다.\n충북 청주 출신인 김 악단장은 전국노래자랑>이 첫선을 보인 1980년 11월부터 활약해왔다.\n김씨는 에서 짙은 선글라스를 쓰고 건반을 치는 모습으로 시청자들에게 익숙한 인물이다.\n그는 아코디언 연주자로 활동하다 (TBC)를 거쳐 1980년 방송 통폐합으로 한국방송 에 합류했다.\n한국방송 최장수 프로그램에 참여해온 김씨의 별세 소식에 시청자 게시판과 포털 사이트 기사의 댓글에는 누리꾼들의 애도 물결이 이어지고 있다.\n유족으로는 아내와 1남1녀가 있고, 빈소는 서울아산병원 장례식장 30호에 마련됐다.\n발인은 28일 오전 6시, 장지는 충남 천안 천주교묘원이다.\n한편 1984년부터 김씨와 콤비를 이루며 의 얼굴로 활약 중인 송해(85)씨는 최근 피로 누적으로 녹화에 불참했으나 진단 결과 이상이 없는 것으로 확인됐다.\n송씨는 26일에는 경북 경산에서 녹화에 참여했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "30여년간 (KBS) 1텔레비전 에서 반주를 책임졌던 김인협(사진) 악단장이 26일 오후 5시50분 폐암 투병 중 별세했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "향년 71살. 김씨는 지난해 말 폐암 진단을 받고 무대에 서지 못했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "충북 청주 출신인 김 악단장은 전국노래자랑>이 첫선을 보인 1980년 11월부터 활약해왔다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김씨는 에서 짙은 선글라스를 쓰고 건반을 치는 모습으로 시청자들에게 익숙한 인물이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 아코디언 연주자로 활동하다 (TBC)를 거쳐 1980년 방송 통폐합으로 한국방송 에 합류했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한국방송 최장수 프로그램에 참여해온 김씨의 별세 소식에 시청자 게시판과 포털 사이트 기사의 댓글에는 누리꾼들의 애도 물결이 이어지고 있다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유족으로는 아내와 1남1녀가 있고, 빈소는 서울아산병원 장례식장 30호에 마련됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "발인은 28일 오전 6시, 장지는 충남 천안 천주교묘원이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 1984년부터 김씨와 콤비를 이루며 의 얼굴로 활약 중인 송해(85)씨는 최근 피로 누적으로 녹화에 불참했으나 진단 결과 이상이 없는 것으로 확인됐다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "송씨는 26일에는 경북 경산에서 녹화에 참여했다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전국노래자랑의 산 증인 김인협 악단장이 이겨내고자 했던 병은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

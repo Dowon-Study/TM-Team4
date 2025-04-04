@@ -1,0 +1,285 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198906",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 당신의 간은 안전합니까? 간염 없습니까?",
+    "newsSubTitle": "",
+    "newsContent": "전문의 칼럼 가톨릭대 서울성모병원 소화기내과 윤승규 교수 1년 전 진료실로 20대 후반의 젊은 남자가 들어왔다.\n그는 늘 피로하고 식욕이 떨어진다며 간 검사를 받고 싶어 했다.\n복부에서 만져지는 혹이 심상치 않아 간 정밀 검사를 했다.\n검사 결과 그는 진행성 간암 말기 환자였다.\n폐·뼈에 암세포가 퍼진 것으로 보였다.\n그는 군대에서 B형 간염 보유자라는 말을 들었지만 제대 후 병원에 한 번도 가지 않았다고 했다.\n이런 사례를 볼 때마다 간암에 대한 대국민 홍보가 얼마나 중요한지를 깨닫는다.\n우리나라의 간암 발생 빈도는 남성 4위, 여성 6위다.\n사회활동이 왕성한 50대에 발생률이 높아 국가적인 손실이 크다.\n간암의 주요 요인은 B형·C형 간염 바이러스에 의한 만성 간 질환과 과음·간경화 등이다.\n국내 간암의 75%는 B형 간염 탓이다.\n다행히 1980년대 이후 국가가 예방백신 사업을 시행해 현재 영아 감염률은 0.3% 미만이다.\n앞으로 B형 간염에 의한 간암은 줄어들 것으로 예상된다.\n이미 감염된 성인 환자라도 항바이러스제제로 잘 치료하면 간경화·간암을 예방할 수 있다.\nC형 간염은 예방백신이 아직 없어 감염에 주의해야 한다.\nC형 간염은 주로 오염된 주사기나 문신, 불법 미용 시술에 사용되는 멸균되지 않은 의료기구를 통해 전파된다.\n최근 C형 간염 치료제가 출시돼 환자에게 희망을 주고 있다.\n국내에서는 과음으로 인한 간경화와 간암 발생률이 높아지고 있다.\n여성은 남성에 비해 알코올에 따른 간 손상 위험이 커 더욱 음주에 주의해야 한다.\n간암을 일으키는 요인을 보유한 환자를 간암 고위험군이라고 한다.\n국가에서는 이들의 간암을 조기 발견하기 위해 1년에 두 번 간 초음파와 간암 표지자 검사를 무료로 지원한다.\n국내 10대 암 중 1인당 진료비는 간암 환자(6000만~7000만원)가 가장 높다.\nA형 간염은 간암을 유발하지 않는다.\n하지만 백신을 맞지 않은 청소년과 20·30대에서 심하게 간염을 일으켜 사망하는 사례나 간 이식을 받는 경우가 있다. 50대 이후는 대부분 자연 항체를 보유하고 있지만 위생 상태가 좋은 환경에서 자란 젊은 층에는 항체가 없는 경우가 많다.\n이들은 항체 여부를 확인해보고 없으면 6개월 간격으로 두 번 백신을 맞으면 된다.\nA형 간염은 음식이나 물로 전파되는 탓에 집단으로 발생할 위험이 크다.\n발열·피로감·구역감·식욕부진 등이 있으면 A형 간염을 의심해봐야 한다.\n봄여름에 자주 발생하는 A형 간염을 예방하려면 식사 전 손 씻는 습관을 들이고 날 음식을 조심하며 유행 지역으로 가기 전 예방백신을 맞아야 한다.\n이렇게 간에 대한 상식을 알고 생활하면 간을 위험으로부터 안전하게 보호할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 29,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전문의 칼럼 가톨릭대 서울성모병원 소화기내과 윤승규 교수 1년 전 진료실로 20대 후반의 젊은 남자가 들어왔다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그는 늘 피로하고 식욕이 떨어진다며 간 검사를 받고 싶어 했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "복부에서 만져지는 혹이 심상치 않아 간 정밀 검사를 했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "검사 결과 그는 진행성 간암 말기 환자였다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "폐·뼈에 암세포가 퍼진 것으로 보였다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 군대에서 B형 간염 보유자라는 말을 들었지만 제대 후 병원에 한 번도 가지 않았다고 했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이런 사례를 볼 때마다 간암에 대한 대국민 홍보가 얼마나 중요한지를 깨닫는다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "우리나라의 간암 발생 빈도는 남성 4위, 여성 6위다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "사회활동이 왕성한 50대에 발생률이 높아 국가적인 손실이 크다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "간암의 주요 요인은 B형·C형 간염 바이러스에 의한 만성 간 질환과 과음·간경화 등이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "국내 간암의 75%는 B형 간염 탓이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "다행히 1980년대 이후 국가가 예방백신 사업을 시행해 현재 영아 감염률은 0.3% 미만이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "앞으로 B형 간염에 의한 간암은 줄어들 것으로 예상된다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이미 감염된 성인 환자라도 항바이러스제제로 잘 치료하면 간경화·간암을 예방할 수 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "C형 간염은 예방백신이 아직 없어 감염에 주의해야 한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "C형 간염은 주로 오염된 주사기나 문신, 불법 미용 시술에 사용되는 멸균되지 않은 의료기구를 통해 전파된다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "최근 C형 간염 치료제가 출시돼 환자에게 희망을 주고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "국내에서는 과음으로 인한 간경화와 간암 발생률이 높아지고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "여성은 남성에 비해 알코올에 따른 간 손상 위험이 커 더욱 음주에 주의해야 한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "간암을 일으키는 요인을 보유한 환자를 간암 고위험군이라고 한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "국가에서는 이들의 간암을 조기 발견하기 위해 1년에 두 번 간 초음파와 간암 표지자 검사를 무료로 지원한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "국내 10대 암 중 1인당 진료비는 간암 환자(6000만~7000만원)가 가장 높다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "A형 간염은 간암을 유발하지 않는다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "하지만 백신을 맞지 않은 청소년과 20·30대에서 심하게 간염을 일으켜 사망하는 사례나 간 이식을 받는 경우가 있다. 50대 이후는 대부분 자연 항체를 보유하고 있지만 위생 상태가 좋은 환경에서 자란 젊은 층에는 항체가 없는 경우가 많다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "이들은 항체 여부를 확인해보고 없으면 6개월 간격으로 두 번 백신을 맞으면 된다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "A형 간염은 음식이나 물로 전파되는 탓에 집단으로 발생할 위험이 크다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "발열·피로감·구역감·식욕부진 등이 있으면 A형 간염을 의심해봐야 한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "봄여름에 자주 발생하는 A형 간염을 예방하려면 식사 전 손 씻는 습관을 들이고 날 음식을 조심하며 유행 지역으로 가기 전 예방백신을 맞아야 한다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 29,
+        "sentenceContent": "이렇게 간에 대한 상식을 알고 생활하면 간을 위험으로부터 안전하게 보호할 수 있다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "늘 피로하고 식욕이 떨어진다면... '이 암' 의심해봐야",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 29,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

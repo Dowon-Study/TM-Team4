@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195697",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "기면증 증상, 매일 졸음이 쏟아진다면 의심해봐야…치료법은?",
+    "newsSubTitle": "",
+    "newsContent": "기면증 증상에 대한 관심이 뜨겁다.\n기면증은 낮 시간에 과도하게 졸립고 REM 수면의 비정상적인 발현, 즉 잠이 들 때(입면, hypnagogic)나 깰 때(각성) 환각, 수면마비, 수면 발작 등의 증상을 보이는 신경정신과 질환이다.\n기면증은 생각만큼 그 수가 적은 질환이 아니어서 연구에 따르면 성인 중 약 0.02~0.16%에서 발생하는 것으로 알려져 있다.\n기면증은 간질이나 단순한 심리적 요인에 의해 발생하는 것이 아니다.\n이것은 수면 기전의 이상, 특히 REM 수면 억제 기전의 이상에 의한 것으로 알려져 있다.\n가장 흔한 증상은 수면발작(sleep attack)으로, 참을 수 없는 수면이 엄습해 오는 것을 피할 수 없는 것이다.\n이 증상은 흔하게 졸도발작(cataplexy), 즉 갑작스럽게 근력의 손실이 오는 증상과 함께 일어난다.\n다른 증상으로는 수면과 각성 사이에 REM 수면의 요소가 반복적으로 갑자기 뛰쳐나오는 수가 있으며, 이는 잠이 들 때나 깰 때의 환각 증상으로 나타나고, 수면이 시작되거나 끝날 때 나타나는 수면마비로도 나타나는데 아침에 일어날 때 가장 흔하게 일어나며 의식은 있으나 근육을 움직일 수 없다.\n미국 정신의학회(American Psychiatric Association)의 정신장애 진단 통계편람(DSM-Ⅳ-TR)에 따르면 다음의 사항을 모두 보일 경우 기면증으로 진단한다. 1. 최소 3개월 동안 매일 반복되는 저항할 수 없는 졸음과 함께, 수면 후 상쾌함을 느끼는 수면발작이 일어난다. 2. 아래 중 하나 또는 두 가지 증상이 동시에 나타난다. 1) 졸도발작(짧은 기간 동안의, 강한 감정과 연관된, 갑작스런 양측성 근력의 손실)2)수면과 각성 사이에 REM수면의 요소가 반복적으로 갑자기 뛰쳐나오는 수가 있으며, 잠이 들 때나 깰 때의 환각, 수면의 시작이나 끝에 수면마비로 나타난다.\n이러한 기면증 증상은 약물 치료를 통해 증상을 조절할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "기면증 증상에 대한 관심이 뜨겁다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "기면증은 낮 시간에 과도하게 졸립고 REM 수면의 비정상적인 발현, 즉 잠이 들 때(입면, hypnagogic)나 깰 때(각성) 환각, 수면마비, 수면 발작 등의 증상을 보이는 신경정신과 질환이다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "기면증은 생각만큼 그 수가 적은 질환이 아니어서 연구에 따르면 성인 중 약 0.02~0.16%에서 발생하는 것으로 알려져 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "기면증은 간질이나 단순한 심리적 요인에 의해 발생하는 것이 아니다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이것은 수면 기전의 이상, 특히 REM 수면 억제 기전의 이상에 의한 것으로 알려져 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "가장 흔한 증상은 수면발작(sleep attack)으로, 참을 수 없는 수면이 엄습해 오는 것을 피할 수 없는 것이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 증상은 흔하게 졸도발작(cataplexy), 즉 갑작스럽게 근력의 손실이 오는 증상과 함께 일어난다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "다른 증상으로는 수면과 각성 사이에 REM 수면의 요소가 반복적으로 갑자기 뛰쳐나오는 수가 있으며, 이는 잠이 들 때나 깰 때의 환각 증상으로 나타나고, 수면이 시작되거나 끝날 때 나타나는 수면마비로도 나타나는데 아침에 일어날 때 가장 흔하게 일어나며 의식은 있으나 근육을 움직일 수 없다.",
+        "sentenceSize": 162
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "미국 정신의학회(American Psychiatric Association)의 정신장애 진단 통계편람(DSM-Ⅳ-TR)에 따르면 다음의 사항을 모두 보일 경우 기면증으로 진단한다. 1. 최소 3개월 동안 매일 반복되는 저항할 수 없는 졸음과 함께, 수면 후 상쾌함을 느끼는 수면발작이 일어난다. 2. 아래 중 하나 또는 두 가지 증상이 동시에 나타난다. 1) 졸도발작(짧은 기간 동안의, 강한 감정과 연관된, 갑작스런 양측성 근력의 손실)2)수면과 각성 사이에 REM수면의 요소가 반복적으로 갑자기 뛰쳐나오는 수가 있으며, 잠이 들 때나 깰 때의 환각, 수면의 시작이나 끝에 수면마비로 나타난다.",
+        "sentenceSize": 333
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이러한 기면증 증상은 약물 치료를 통해 증상을 조절할 수 있다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "매일 졸음이 쏟아진다면... 의심해 봐야 할 질병과 치료법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

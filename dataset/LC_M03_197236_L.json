@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197236",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[중앙일보 독자에게] 소설가 이호철",
+    "newsSubTitle": "체제니 사상 따위 허깨비에서 벗어나길...",
+    "newsContent": "제 첫 작품은 고향을 떠나는 이야기, 「탈향」이라는 단편입니다.\n그 뒤, 고희 나이에 이른 오늘까지, 제가 써온 글들은 통틀어 고향 못가는 사람의 고향 그리워하는 이야기입니다.\n일컬어 분단소설.분단문학이라던가요.\n하지만 10년 전 가을 옛소련과 동구권을 여행, 마음속 깊이 묻어두었던 고향 산천이 와락 조만큼 가까워지면서, 웬일이겠습니까, 체제니 사상이니 그따위 허깨비들이 활딱 벗겨집디다요. 본원적으로 따뜻해진다고 할까요, 고향쪽 형편도 형편만큼 되도록 품이 넓게 싸안으면서 이해하려고 든다고 할까요, 그래집디다요. 특히 1998년 처음 북한을 다녀온 뒤, 저의 그런 생각은 더욱 넉넉하게 터를 잡아가더이다.\n그렇게 『한 살림 통일론』이라는 책까지 한 권 펴냈습니다.\n이 『이산타령 친족타령』은 오늘의 남북관계입니다.\n이제 '탈향' 의 테두리에서 '귀향' 쪽으로 향(向)이 바뀌어진 오늘, 모든 허깨비들에서 하루 빨리 벗어나 거창한 대안 같은 것이야 쉽사리 나올 수 있겠습니까만, 읽으면서 그 어떤 선열(鮮烈)한 기별은 가 닿으리라고 자신합니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "제 첫 작품은 고향을 떠나는 이야기, 「탈향」이라는 단편입니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그 뒤, 고희 나이에 이른 오늘까지, 제가 써온 글들은 통틀어 고향 못가는 사람의 고향 그리워하는 이야기입니다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일컬어 분단소설.분단문학이라던가요.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 10년 전 가을 옛소련과 동구권을 여행, 마음속 깊이 묻어두었던 고향 산천이 와락 조만큼 가까워지면서, 웬일이겠습니까, 체제니 사상이니 그따위 허깨비들이 활딱 벗겨집디다요. 본원적으로 따뜻해진다고 할까요, 고향쪽 형편도 형편만큼 되도록 품이 넓게 싸안으면서 이해하려고 든다고 할까요, 그래집디다요. 특히 1998년 처음 북한을 다녀온 뒤, 저의 그런 생각은 더욱 넉넉하게 터를 잡아가더이다.",
+        "sentenceSize": 222
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그렇게 『한 살림 통일론』이라는 책까지 한 권 펴냈습니다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 『이산타령 친족타령』은 오늘의 남북관계입니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이제 '탈향' 의 테두리에서 '귀향' 쪽으로 향(向)이 바뀌어진 오늘, 모든 허깨비들에서 하루 빨리 벗어나 거창한 대안 같은 것이야 쉽사리 나올 수 있겠습니까만, 읽으면서 그 어떤 선열(鮮烈)한 기별은 가 닿으리라고 자신합니다.",
+        "sentenceSize": 127
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "오늘의 남북관계 발가벗긴 '이산타령 친족타령'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

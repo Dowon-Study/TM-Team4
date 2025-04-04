@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195624",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "치과계, ‘의료기관 1인1개소법’ 관련 토론회 개최",
+    "newsSubTitle": "",
+    "newsContent": "대한치과개원의협회(이하 치개협)와 건강사회를 위한 치과의사회(이하 건치) 등 치과계가 의료기관 1인1개소 조항을 담은 ‘의료법 33조 8항’과 관련한 토론회를 지난 23일 서울역 대강당에서 개최했다.\n이날 토론회에는 김세영 대한치과의사협회 명예회장을 비롯해 80여 명의 치과계 주요 인사들과 더불어민주당 김용익 전 국회의원 등 외빈이 참석했다.\n토론회 패널로는 국민건강보험공단 법률대리인으로 참여하고 있는 김준래 변호사와 보건의료단체연합 우석균 대표가 외부인사 대표로, 경기도치과의사회 이재호 전 이사와 치개협 이경록 원장 등이 치과계 내부 발제자로 나섰다.\n외부 패널연자로 참여한 김준래 변호사는 1인1개소법 합헌의 정당성을 7가지로 조목조목 설명했다.\n김 변호사는 “현재 복수개설 금지 조항은 의료법 뿐만 아니라 변협이나 회계사협 등 12개 직능단체서 유사한 법률로 규제하고 있어 의료만 복수개설을 허용할 수 없다”고 잘라 말했다.\n또한 그는 “현행법으로도 브랜드를 같이 사용하면서 공동구매, 회계 등 경영지원은 얼마든지 받을 수 있다”고 덧붙였다.\n아울러 김 변호사는 “동네병원의 수익활동과 영리법인은 엄연히 다르다”면서 “영리법인은 비의료인의 투자를 받아 이익금을 배당하는 일종의 주식회사와 같다”며 구분할 것을 당부했다.\n보건의료단체연합 우석균 대표도 1인1개소법 합헌의 정당성을 제시했다.\n우석균 대표는 “1인1개소법은 과잉진료를 막을 수 있는 최소한의 방패”라며 “일부 불법적인 네트워크가 성횡하면서 특정수술이 크게 늘었다는 객관적인 근거가 많다”고 말했다.\n치과계 내부 발제자로 나선 이재호 전 이사는 “1인1개소법은 의료영리화를 막는 최소한의 법률적 제한장치”라고 주장했다.\n또한 그는 “헌법재판소는 헌법서 보장한 국민의 건강권과 생명권을 보호하기 위해 합헌으로 판결하는 게 마땅하다”고 강조했다.\n치개협 이경록 원장도 1인1개소법 당위성을 역설했다.\n이 원장은 “현실적인 의료법 위치와 국민의 눈높이로 본 위치가 달라 발생하는 폐해가 많다”고 전제하고 “이를 보완하고 국민의 건강권을 보호하는 게 의료법 33조 8항”이라고 주장했다.\n한편, 행사를 공동 주최한 3개 단체는 토론회서 제기된 자료를 근거로 오는 29일 헌법재판소에 추가 의견서를 제출하겠다는 입장이다.\n또한 ‘의료인 1인1개소법 사수를 바라는 치과인 일동’은 매일 아침 헌법재판소 앞에서 릴레이 1인시위를 이어간다는 방침이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대한치과개원의협회(이하 치개협)와 건강사회를 위한 치과의사회(이하 건치) 등 치과계가 의료기관 1인1개소 조항을 담은 ‘의료법 33조 8항’과 관련한 토론회를 지난 23일 서울역 대강당에서 개최했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 토론회에는 김세영 대한치과의사협회 명예회장을 비롯해 80여 명의 치과계 주요 인사들과 더불어민주당 김용익 전 국회의원 등 외빈이 참석했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "토론회 패널로는 국민건강보험공단 법률대리인으로 참여하고 있는 김준래 변호사와 보건의료단체연합 우석균 대표가 외부인사 대표로, 경기도치과의사회 이재호 전 이사와 치개협 이경록 원장 등이 치과계 내부 발제자로 나섰다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "외부 패널연자로 참여한 김준래 변호사는 1인1개소법 합헌의 정당성을 7가지로 조목조목 설명했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김 변호사는 “현재 복수개설 금지 조항은 의료법 뿐만 아니라 변협이나 회계사협 등 12개 직능단체서 유사한 법률로 규제하고 있어 의료만 복수개설을 허용할 수 없다”고 잘라 말했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 그는 “현행법으로도 브랜드를 같이 사용하면서 공동구매, 회계 등 경영지원은 얼마든지 받을 수 있다”고 덧붙였다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아울러 김 변호사는 “동네병원의 수익활동과 영리법인은 엄연히 다르다”면서 “영리법인은 비의료인의 투자를 받아 이익금을 배당하는 일종의 주식회사와 같다”며 구분할 것을 당부했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "보건의료단체연합 우석균 대표도 1인1개소법 합헌의 정당성을 제시했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "우석균 대표는 “1인1개소법은 과잉진료를 막을 수 있는 최소한의 방패”라며 “일부 불법적인 네트워크가 성횡하면서 특정수술이 크게 늘었다는 객관적인 근거가 많다”고 말했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "치과계 내부 발제자로 나선 이재호 전 이사는 “1인1개소법은 의료영리화를 막는 최소한의 법률적 제한장치”라고 주장했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "또한 그는 “헌법재판소는 헌법서 보장한 국민의 건강권과 생명권을 보호하기 위해 합헌으로 판결하는 게 마땅하다”고 강조했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "치개협 이경록 원장도 1인1개소법 당위성을 역설했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이 원장은 “현실적인 의료법 위치와 국민의 눈높이로 본 위치가 달라 발생하는 폐해가 많다”고 전제하고 “이를 보완하고 국민의 건강권을 보호하는 게 의료법 33조 8항”이라고 주장했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "한편, 행사를 공동 주최한 3개 단체는 토론회서 제기된 자료를 근거로 오는 29일 헌법재판소에 추가 의견서를 제출하겠다는 입장이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "또한 ‘의료인 1인1개소법 사수를 바라는 치과인 일동’은 매일 아침 헌법재판소 앞에서 릴레이 1인시위를 이어간다는 방침이다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "치과계, ‘의료법 33조 8항’ 관련 토론회 개최··· 어떤 내용 오갔나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

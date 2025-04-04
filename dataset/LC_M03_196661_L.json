@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196661",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "이런 파우치 어디서 샀어? 셔츠로 리폼한 내 작품!",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 권소희의 누구나 소잉(5) 2019년 트렌드로 새로움(NEW) 와 복고(Retro)를 합친 ‘뉴트로’ 열풍이 떠오르면서 자신만의 스타일로 옷이나 가방을 직접 꾸미거나 고쳐 만드는 ‘리폼’ 시장이 성장하고 있다. ‘MBC 나 혼자 산다’, ‘KBS2 살림하는 남자들’ 등 예능프로그램에 옷이나 이불을 리폼하는 장면이 자주 노출되면서 리폼 트렌드는 더욱 확산하고 있다.\n특히, 리폼시장의 성장은 20~30대 젊은 층이 견인하고 있다.\n평소 가지고 있던 파우치에 가방끈을 연결해 크로스백으로 리폼하기도 하고, 합리적인 가격으로 구제시장에서 제품을 구매한 뒤 자신만의 개성이 돋보이도록 리폼을 한다.\n단추나 와펜 같은 부자재를 활용해 포인트를 주는 것도 인기이다.\n리폼 트렌드에 발맞춰 셔츠를 스트링 파우치로 쉽게 리폼할 수 있는 방법을 소개하고자 한다.\n평소 입지는 않지만 버리기는 아까운 셔츠, 혹은 구제시장에서 마음에 드는 셔츠를 골라 미싱으로 쉽게 리폼해보도록 하자.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 권소희의 누구나 소잉(5) 2019년 트렌드로 새로움(NEW) 와 복고(Retro)를 합친 ‘뉴트로’ 열풍이 떠오르면서 자신만의 스타일로 옷이나 가방을 직접 꾸미거나 고쳐 만드는 ‘리폼’ 시장이 성장하고 있다. ‘MBC 나 혼자 산다’, ‘KBS2 살림하는 남자들’ 등 예능프로그램에 옷이나 이불을 리폼하는 장면이 자주 노출되면서 리폼 트렌드는 더욱 확산하고 있다.",
+        "sentenceSize": 213
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특히, 리폼시장의 성장은 20~30대 젊은 층이 견인하고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "평소 가지고 있던 파우치에 가방끈을 연결해 크로스백으로 리폼하기도 하고, 합리적인 가격으로 구제시장에서 제품을 구매한 뒤 자신만의 개성이 돋보이도록 리폼을 한다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "단추나 와펜 같은 부자재를 활용해 포인트를 주는 것도 인기이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "리폼 트렌드에 발맞춰 셔츠를 스트링 파우치로 쉽게 리폼할 수 있는 방법을 소개하고자 한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "평소 입지는 않지만 버리기는 아까운 셔츠, 혹은 구제시장에서 마음에 드는 셔츠를 골라 미싱으로 쉽게 리폼해보도록 하자.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "파우치의 화려한 변신... 셔츠로 개량한 세상에 단 하나뿐인 내 아이템",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

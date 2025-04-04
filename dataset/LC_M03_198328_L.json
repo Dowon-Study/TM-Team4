@@ -1,0 +1,267 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198328",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[홍혜걸객원의학전문기자의우리집주치의] 유전자 검사의 허와 실",
+    "newsSubTitle": "유전적으로 취약한 질환 미리 알고 예방할 수 있지만 … 정보 새면 인권 침해 우려",
+    "newsContent": "건강에 지대한 영향을 미치는 요인이 바로 유전자입니다.\n부모의 정자와 난자가 만날 때 결정되는 것이지요.\n체인 스모커로 알려진 영국의 철학자 버트런드 러셀이 98세까지 장수하는가 하면 평생 담배 한 모금 피운 적 없는 사람이 폐암에 걸리는 이유도 유전자로 설명됩니다.\n현대 의학은 몇 가지 질병에 관여하는 유전자를 이미 규명해놓고 있습니다.\n자신의 유전자는 어떤 모습일까.\n의학전문기자인 제가 직접 체험해보기로 했습니다.\n신촌에 있는 한 유전자검사센터를 찾았습니다.\n먼저 의사의 진찰을 받았습니다.\n직계 가족 중에 치매환자가 있었고, 기자 초년병 시절 담배를 피운 적이 있었기 때문에 치매와 폐암 관련 유전자를 점검하기로 했습니다.\n피를 뽑은 뒤 일주일 후 다시 찾았습니다.\n결과는 치매 유전자는 음성이었지만 폐암 유전자는 양성으로 나왔습니다.\n알다시피 유전자는 부모 양쪽으로부터 물려받습니다.\n운 좋게도 저는 뇌세포에 독성 반점을 형성해 치매를 유발하는 Apo E4 유전자를 부모로부터 하나도 물려받지 않았습니다.\n반면 담배연기 속 벤조피렌을 폐암 유발물질로 전환하는 CYP1A1 m1 유전자는 부모로부터 모두 물려받았습니다.\n사실 자신의 유전자를 미리 안다는 것이 유쾌하지 않을 수 있습니다.\n특히 질병유전자가 다수 발견된다면 말입니다.\n약혼자 등 남들에게 새나간다면 치명적일 수도 있습니다.\n게다가 유전자는 수술이나 약물로 바꿀 수도 없습니다.\n그러나 대비는 가능하다는 점을 강조하고 싶습니다.\n제 경우 폐암이 취약하므로 ^간접흡연이라도 피하는 등 철저하게 금연하고 ^등산이나 실내 화분 비치 등 맑은 공기를 마시기 위해 애쓰며 ^셀레늄과 비타민 등 폐암 예방 효능이 있는 성분을 많이 섭취하고 ^5~10년마다 폐암 조기발견을 위해 저선량 나선형 CT를 받는 등 조치가 가능합니다.\n자신의 유전적 아킬레스건을 안다는 것이 도움이 될 수 있다는 뜻입니다.\n다만 유전자 검사가 상업적 목적으로 과대포장되는 것은 바람직하지 않습니다.\n현재 밝혀진 한두 개 유전자만으로 질병 전체를 가늠할 순 없습니다.\n특정 유전자가 있을 때 그 질병에 걸릴 확률이 서너 배 증가한다는 정도이지 '유전자=질병'으로 인식하면 곤란합니다.\n일부에선 비만.롱다리.지능지수 등 학문적으로 충분히 검증되지 않은 분야까지 유전자로 알 수 있다고 선전하고 있습니다.\n검사비용도 매우 비쌉니다. 고혈압이나 치매 등 질병은 5만~6만원대에서 가능하지만 폐암이나 위암 등 암 관련 유전자는 20만원을 훌쩍 넘깁니다.\n그러나 관련 제도의 정비와 검사 단가 인하 등 개선이 이뤄진다면 자신의 병력과 생활습관을 고려한 선별적 유전자검사는 분명 도움이 될 것으로 생각합니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 27,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "건강에 지대한 영향을 미치는 요인이 바로 유전자입니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "부모의 정자와 난자가 만날 때 결정되는 것이지요.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "체인 스모커로 알려진 영국의 철학자 버트런드 러셀이 98세까지 장수하는가 하면 평생 담배 한 모금 피운 적 없는 사람이 폐암에 걸리는 이유도 유전자로 설명됩니다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "현대 의학은 몇 가지 질병에 관여하는 유전자를 이미 규명해놓고 있습니다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "자신의 유전자는 어떤 모습일까.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "의학전문기자인 제가 직접 체험해보기로 했습니다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "신촌에 있는 한 유전자검사센터를 찾았습니다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "먼저 의사의 진찰을 받았습니다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "직계 가족 중에 치매환자가 있었고, 기자 초년병 시절 담배를 피운 적이 있었기 때문에 치매와 폐암 관련 유전자를 점검하기로 했습니다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "피를 뽑은 뒤 일주일 후 다시 찾았습니다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "결과는 치매 유전자는 음성이었지만 폐암 유전자는 양성으로 나왔습니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "알다시피 유전자는 부모 양쪽으로부터 물려받습니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "운 좋게도 저는 뇌세포에 독성 반점을 형성해 치매를 유발하는 Apo E4 유전자를 부모로부터 하나도 물려받지 않았습니다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "반면 담배연기 속 벤조피렌을 폐암 유발물질로 전환하는 CYP1A1 m1 유전자는 부모로부터 모두 물려받았습니다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "사실 자신의 유전자를 미리 안다는 것이 유쾌하지 않을 수 있습니다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "특히 질병유전자가 다수 발견된다면 말입니다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "약혼자 등 남들에게 새나간다면 치명적일 수도 있습니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "게다가 유전자는 수술이나 약물로 바꿀 수도 없습니다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "그러나 대비는 가능하다는 점을 강조하고 싶습니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "제 경우 폐암이 취약하므로 ^간접흡연이라도 피하는 등 철저하게 금연하고 ^등산이나 실내 화분 비치 등 맑은 공기를 마시기 위해 애쓰며 ^셀레늄과 비타민 등 폐암 예방 효능이 있는 성분을 많이 섭취하고 ^5~10년마다 폐암 조기발견을 위해 저선량 나선형 CT를 받는 등 조치가 가능합니다.",
+        "sentenceSize": 160
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "자신의 유전적 아킬레스건을 안다는 것이 도움이 될 수 있다는 뜻입니다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "다만 유전자 검사가 상업적 목적으로 과대포장되는 것은 바람직하지 않습니다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "현재 밝혀진 한두 개 유전자만으로 질병 전체를 가늠할 순 없습니다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "특정 유전자가 있을 때 그 질병에 걸릴 확률이 서너 배 증가한다는 정도이지 '유전자=질병'으로 인식하면 곤란합니다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "일부에선 비만.롱다리.지능지수 등 학문적으로 충분히 검증되지 않은 분야까지 유전자로 알 수 있다고 선전하고 있습니다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "검사비용도 매우 비쌉니다. 고혈압이나 치매 등 질병은 5만~6만원대에서 가능하지만 폐암이나 위암 등 암 관련 유전자는 20만원을 훌쩍 넘깁니다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "그러나 관련 제도의 정비와 검사 단가 인하 등 개선이 이뤄진다면 자신의 병력과 생활습관을 고려한 선별적 유전자검사는 분명 도움이 될 것으로 생각합니다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "나의 '이것', 미리 알면 건강에 독일까, 약일까...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

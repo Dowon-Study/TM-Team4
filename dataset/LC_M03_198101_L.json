@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198101",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BookBriefing] 『당신에게 노벨상을 수여합니다』外",
+    "newsSubTitle": "",
+    "newsContent": "◆과학분야 노벨상 수상자들의 업적을밝히는 시상연설을 묶은 『당신에게 노벨상을 수여합니다』(노벨재단 엮음, 이광렬 외 옮김, 바다출판사, 전 3권 530~619쪽, 각 권 2만2000원)이 출간됐다.\n물리학· 화학· 의학분야로 나눠 1901년 첫 시상식부터 2006년까지 각 수상자들의 과학적 업적과 그 의미를 간결하게 정리한 글을 모음 만큼 100년 간의 과학사를 정리한 의미가 있다.\n◆일상사 연구를 바탕으로 대중독재 체제의 권력과 대중의 관계를 분석한 『대중독재 3-일상의 욕망과 미망』(임지현 외 엮음, 책세상, 572쪽, 2만7000원)이 나왔다.\n일상사 연구의 개척자라 할 알프 뤼트케 독일 에어푸르트대학 교수를 비롯한 6개국 20명의 연구논문을 담았다.\n◆독일 통일 당시 헬무트 콜 수상의 외교안보 보좌관이었던 호르스트 텔칙 박사가 쓴 다큐멘터리 『329일』(윤여덕 옮김, 한독산학협동단지, 453쪽, 1만5000원)이 다시 출간됐다.\n1989년 11월 동독 주민들에 의해 베를린 장벽이 무너진 후 90년 10월 공식 통일을 이루기까지 숨가쁘게 진행된 통일 과정을 생생하게 증언한 책이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆과학분야 노벨상 수상자들의 업적을밝히는 시상연설을 묶은 『당신에게 노벨상을 수여합니다』(노벨재단 엮음, 이광렬 외 옮김, 바다출판사, 전 3권 530~619쪽, 각 권 2만2000원)이 출간됐다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "물리학· 화학· 의학분야로 나눠 1901년 첫 시상식부터 2006년까지 각 수상자들의 과학적 업적과 그 의미를 간결하게 정리한 글을 모음 만큼 100년 간의 과학사를 정리한 의미가 있다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "◆일상사 연구를 바탕으로 대중독재 체제의 권력과 대중의 관계를 분석한 『대중독재 3-일상의 욕망과 미망』(임지현 외 엮음, 책세상, 572쪽, 2만7000원)이 나왔다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "일상사 연구의 개척자라 할 알프 뤼트케 독일 에어푸르트대학 교수를 비롯한 6개국 20명의 연구논문을 담았다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◆독일 통일 당시 헬무트 콜 수상의 외교안보 보좌관이었던 호르스트 텔칙 박사가 쓴 다큐멘터리 『329일』(윤여덕 옮김, 한독산학협동단지, 453쪽, 1만5000원)이 다시 출간됐다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1989년 11월 동독 주민들에 의해 베를린 장벽이 무너진 후 90년 10월 공식 통일을 이루기까지 숨가쁘게 진행된 통일 과정을 생생하게 증언한 책이다.",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "독일 통일 과정을 생생하게 묘사한 '이 책'이 재출간된다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

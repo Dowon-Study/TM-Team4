@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197642",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "한성숙 네이버 대표, 이번엔 핀란드어 사전으로 사회공헌",
+    "newsSubTitle": "",
+    "newsContent": "네이버한성숙 대표가 17일 희귀어인 핀란드어 사전 제작을 지원키로 했다.\n네이버와 언어과학(대표 정도상)은 이날 네이버 그린팩토리에서 '온라인 핀란드어 사전 제작을 위한 업무 협약'을 체결했다.\n이날 협약식에는 네이버 김종환 어학사전리더, 언어과학 정 대표가 참석했다.\n이번 업무 협약은 네이버가 지난해 10월 발표한사전 콘텐츠 생산 활성화 투자 계획 차원에서 벌어졌다.\n네이버는 기존 사전 개정과 신규 사전 제작 등을 위해앞으로 5년간 100억 원을 투자하겠다고 밝힌 바 있다.\n핀란드어 사전은 크로아티어어 사전에 이어 두 번째로 만들어질새 소수어 사전이다.\n표제어 약 1만2,000개 규모고, 학습자에 필요한 예문들이 함께 들어간다.\n핀란드어 전문가가 직접 제작에 참여해 사용자 입장에서는 그간 사전이부족했던 소수어에 대해서도 신뢰할 수 있는 정보를 얻을 수 있게됐다.\n김 리더는 \\\"어학 사전은 사용자들에게더욱 정확하고 신뢰도 높은 최신의 정보를 제공하기 위해 여러 방면에서 노력을 이어왔다\\\"라며 \\\"앞으로도 다양한 소수 언어 분야에서의 사전 제작과 기존 어학 사전의 개정을 위해 전문가들과 협업을 이어나갈 것\\\"이라고 말했다.\n네이버는 크로아티아어, 미얀마어 등 소수어 분야의 사전 제작을 앞두고 있으며 독일어, 스페인어, 프랑스어 등 기존 어학 사전에 대한 개정을 위해 학자들과도 협력 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "네이버한성숙 대표가 17일 희귀어인 핀란드어 사전 제작을 지원키로 했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "네이버와 언어과학(대표 정도상)은 이날 네이버 그린팩토리에서 '온라인 핀란드어 사전 제작을 위한 업무 협약'을 체결했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 협약식에는 네이버 김종환 어학사전리더, 언어과학 정 대표가 참석했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 업무 협약은 네이버가 지난해 10월 발표한사전 콘텐츠 생산 활성화 투자 계획 차원에서 벌어졌다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "네이버는 기존 사전 개정과 신규 사전 제작 등을 위해앞으로 5년간 100억 원을 투자하겠다고 밝힌 바 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "핀란드어 사전은 크로아티어어 사전에 이어 두 번째로 만들어질새 소수어 사전이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "표제어 약 1만2,000개 규모고, 학습자에 필요한 예문들이 함께 들어간다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "핀란드어 전문가가 직접 제작에 참여해 사용자 입장에서는 그간 사전이부족했던 소수어에 대해서도 신뢰할 수 있는 정보를 얻을 수 있게됐다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김 리더는 \\\"어학 사전은 사용자들에게더욱 정확하고 신뢰도 높은 최신의 정보를 제공하기 위해 여러 방면에서 노력을 이어왔다\\\"라며 \\\"앞으로도 다양한 소수 언어 분야에서의 사전 제작과 기존 어학 사전의 개정을 위해 전문가들과 협업을 이어나갈 것\\\"이라고 말했다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "네이버는 크로아티아어, 미얀마어 등 소수어 분야의 사전 제작을 앞두고 있으며 독일어, 스페인어, 프랑스어 등 기존 어학 사전에 대한 개정을 위해 학자들과도 협력 중이다.",
+        "sentenceSize": 94
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "네이버가 크로아티아어 사전에 이어 두 번째로 만들 소수어 사전은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

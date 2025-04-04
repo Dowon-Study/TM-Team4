@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195037",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "대구한의대, 용학도서관서 '동의보감' 판본 전시",
+    "newsSubTitle": "",
+    "newsContent": "대구한의대학교(총장 변창훈) 인문도시사업단(단장 김영)은 지난 2월 운영에 들어간 인문학 프로그램의 일환으로 지난 2일부터 용학도서관에서 동의보감 판본을 전시하고 있다.\n동의보감은 중국과 우리나라의 여러 의학서적을 집대성한 의서로, 유네스코가 역사적 가치, 기록정보의 중요성, 관련 인물의 업적 및 문화적 영향력 등을 인정해 세계기록유산으로 등재했다.\n인문도시사업단은 동의보감을 모델로, 인문학·한의학·심리학을 아우르는 통합 치유의 인문학을 위한 인문브랜드 ‘文+DON:E’를 개발했다.\n이번에 전시되는 동의보감은 대구한의대학교 소장자료로, 전시를 위해 한의예과 송지청 교수가 동의보감 반출 작업부터 자료 정리를 도맡아 수행했다.\n송지청 교수는 “인문학적 가치가 있는 학교의 기존 소장자료들을 활용해 지역도서관 등과 기획 전시하는 것은 좋은 기회”라며, “이러한 귀중한 자료들이 더 많이 알려지고, 자주 세상의 빛을 보길 바란다”고 말했다.\n또한 대구한의대학교 소장자료인 조선본 ‘황제내경소문’과 용학도서관이 소장하고 있는 동의보감 관련 서적들도 함께 전시하고 있어, 작은 동의보감의 세계를 느낄 수 있을 것으로 기대된다.\n전시는 3월2일부터 31일까지, 용학도서관 1층 전시실에서 만나볼 수 있다.\n대구한의대학교는 대구 수성구 및 경산시와 함께 ‘한의학을 품은 인문향기도시, 치유 희망을 열다’라는 주제로 인문도시지원사업에 선정, 지난해 7월부터 약 3년간 국비와 대응자금을 지원 받게 됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대구한의대학교(총장 변창훈) 인문도시사업단(단장 김영)은 지난 2월 운영에 들어간 인문학 프로그램의 일환으로 지난 2일부터 용학도서관에서 동의보감 판본을 전시하고 있다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "동의보감은 중국과 우리나라의 여러 의학서적을 집대성한 의서로, 유네스코가 역사적 가치, 기록정보의 중요성, 관련 인물의 업적 및 문화적 영향력 등을 인정해 세계기록유산으로 등재했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "인문도시사업단은 동의보감을 모델로, 인문학·한의학·심리학을 아우르는 통합 치유의 인문학을 위한 인문브랜드 ‘文+DON:E’를 개발했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번에 전시되는 동의보감은 대구한의대학교 소장자료로, 전시를 위해 한의예과 송지청 교수가 동의보감 반출 작업부터 자료 정리를 도맡아 수행했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "송지청 교수는 “인문학적 가치가 있는 학교의 기존 소장자료들을 활용해 지역도서관 등과 기획 전시하는 것은 좋은 기회”라며, “이러한 귀중한 자료들이 더 많이 알려지고, 자주 세상의 빛을 보길 바란다”고 말했다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 대구한의대학교 소장자료인 조선본 ‘황제내경소문’과 용학도서관이 소장하고 있는 동의보감 관련 서적들도 함께 전시하고 있어, 작은 동의보감의 세계를 느낄 수 있을 것으로 기대된다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "전시는 3월2일부터 31일까지, 용학도서관 1층 전시실에서 만나볼 수 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "대구한의대학교는 대구 수성구 및 경산시와 함께 ‘한의학을 품은 인문향기도시, 치유 희망을 열다’라는 주제로 인문도시지원사업에 선정, 지난해 7월부터 약 3년간 국비와 대응자금을 지원 받게 됐다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대구한의대, 용학도서관에서 동의보감 판본 전시... 전시 기간은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

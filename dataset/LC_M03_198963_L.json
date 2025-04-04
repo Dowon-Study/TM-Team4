@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198963",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[라이프 트렌드] 신세계사이먼 여주 프리미엄 아울렛 쇼핑 체험단 모집",
+    "newsSubTitle": "",
+    "newsContent": "국내 최초로 프리미엄 아울렛을 선보인 신세계사이먼이 경기도 여주 프리미엄 아울렛에서 특별한 쇼핑을 경험할 ‘쇼핑 체험단’을 모집한다. 2007년 문을 연 여주 프리미엄 아울렛은 이국적인 경관과 편의시설, 다채로운 야외 이벤트 등이 마련돼 차별화된 쇼핑을 경험할 수 있는 곳이다.\n지난 10년 동안 국내 최고 수준의 브랜드로 사랑받아 왔다.\n버버리·구찌·보테가베네타·페라가모·지방시·발리·펜디 등 국내 프리미엄 아울렛 중 가장 많은 명품 브랜드를 보유하고 있다.\n발렌시아가·무스너클·파라점퍼스·아메리칸이글 등 국내 아웃렛 중 여주 프리미엄 아울렛에서만 만날 수 있는 브랜드도 많다.\n이번에 모집하는 쇼핑 체험단은 여주 프리미엄 아울렛에서 ‘나만의 겨울 스타일링 아이템을 찾아라’ 현장 미션을 수행한다.\n프리미엄 아울렛에서 ‘득템’을 경험한 현장 미션 후기를 통해 소정의 선물도 받을 수 있다.\n모집기간은 오는 13일까지며, 당첨자는 11월 15일 개별 통보한다.\n쇼핑 체험일은 11월 18일이다.\n신청 방법은 이벤트 신청 페이지 또는 중앙일보 라이프트렌드 이벤트 페이지에서 신세계사이먼 프리미엄 아울렛과 관련된 특별한 스토리와 함께 쇼핑하고 싶은 아이템을 제출하면 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국내 최초로 프리미엄 아울렛을 선보인 신세계사이먼이 경기도 여주 프리미엄 아울렛에서 특별한 쇼핑을 경험할 ‘쇼핑 체험단’을 모집한다. 2007년 문을 연 여주 프리미엄 아울렛은 이국적인 경관과 편의시설, 다채로운 야외 이벤트 등이 마련돼 차별화된 쇼핑을 경험할 수 있는 곳이다.",
+        "sentenceSize": 155
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 10년 동안 국내 최고 수준의 브랜드로 사랑받아 왔다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "버버리·구찌·보테가베네타·페라가모·지방시·발리·펜디 등 국내 프리미엄 아울렛 중 가장 많은 명품 브랜드를 보유하고 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "발렌시아가·무스너클·파라점퍼스·아메리칸이글 등 국내 아웃렛 중 여주 프리미엄 아울렛에서만 만날 수 있는 브랜드도 많다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번에 모집하는 쇼핑 체험단은 여주 프리미엄 아울렛에서 ‘나만의 겨울 스타일링 아이템을 찾아라’ 현장 미션을 수행한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "프리미엄 아울렛에서 ‘득템’을 경험한 현장 미션 후기를 통해 소정의 선물도 받을 수 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "모집기간은 오는 13일까지며, 당첨자는 11월 15일 개별 통보한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "쇼핑 체험일은 11월 18일이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "신청 방법은 이벤트 신청 페이지 또는 중앙일보 라이프트렌드 이벤트 페이지에서 신세계사이먼 프리미엄 아울렛과 관련된 특별한 스토리와 함께 쇼핑하고 싶은 아이템을 제출하면 된다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국내에서 가장 많은 명품 브랜드 보유한 '이곳', 쇼핑 체험단 모집",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

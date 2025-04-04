@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195728",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "7년째 동결 정신질환 의료급여 수가…\\\"고사 직전\\\"",
+    "newsSubTitle": "정신과 의사들, 정신질환 의료급여 수가 개선 조치 요구",
+    "newsContent": "정신건강의학과 의사들이 지난 2008년 이후 7년째 동결 중인 정신질환 의료급여 수가 현실화를 요구하고 나섰다.\n대한정신건강의학과의사회는 최근 국내 정신질환 의료급여 환자의 열악한 진료 실태를 지적했다.\n정신질환 의료급여는 일당정액 2770원만의 외래수가만을 인정받고 있다.\n정신과 의사들은 “생활이 곤란한 정신질환자가 최상의 치료 약제를 충분히 처방받지 못하거나 필수 정신요법을 제대로 제공받지 못해 정신건강에 위해요소로 작용했다”고 꼬집었다.\n특히 낮은 일당정액수가는 정신질환 의료급여 환자에 대한 의료기관의 입원 거부로 이어질 가능성이 있다는 게 의사회의 입장이다.\n정신과의사회는 “의료급여 환자가 정신건강의학과에서 진료를 받고 혈액검사, 치매검사 등을 하면 검사에 대한 수가가 인정되지 않고 일당정액만이 적용된다”며 “신경과 같은 타과에서 검사를 시행하면 요양기관에 별도의 검사비가 지급된다. 이는 정신질환에 대한 편견에서 비롯한 심각한 차별”이라고 개선을 요구했다.\n정신과의 의료급여 수준이 다른 진료과에 비해서 턱없이 낮아 정신의료기관들이 고사 직전의 상태에 놓여 있다고도 했다.\n다른 진료과의 의료급여 수준은 건강보험의 97~98% 수준인데 반해 정신과 의료급여는 외래는 건강보험의 67%, 입원은 64%에 불과해 의료기관 운영 자체가 어려운 상황이라는 것이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "정신건강의학과 의사들이 지난 2008년 이후 7년째 동결 중인 정신질환 의료급여 수가 현실화를 요구하고 나섰다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "대한정신건강의학과의사회는 최근 국내 정신질환 의료급여 환자의 열악한 진료 실태를 지적했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정신질환 의료급여는 일당정액 2770원만의 외래수가만을 인정받고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정신과 의사들은 “생활이 곤란한 정신질환자가 최상의 치료 약제를 충분히 처방받지 못하거나 필수 정신요법을 제대로 제공받지 못해 정신건강에 위해요소로 작용했다”고 꼬집었다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 낮은 일당정액수가는 정신질환 의료급여 환자에 대한 의료기관의 입원 거부로 이어질 가능성이 있다는 게 의사회의 입장이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정신과의사회는 “의료급여 환자가 정신건강의학과에서 진료를 받고 혈액검사, 치매검사 등을 하면 검사에 대한 수가가 인정되지 않고 일당정액만이 적용된다”며 “신경과 같은 타과에서 검사를 시행하면 요양기관에 별도의 검사비가 지급된다. 이는 정신질환에 대한 편견에서 비롯한 심각한 차별”이라고 개선을 요구했다.",
+        "sentenceSize": 169
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "정신과의 의료급여 수준이 다른 진료과에 비해서 턱없이 낮아 정신의료기관들이 고사 직전의 상태에 놓여 있다고도 했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "다른 진료과의 의료급여 수준은 건강보험의 97~98% 수준인데 반해 정신과 의료급여는 외래는 건강보험의 67%, 입원은 64%에 불과해 의료기관 운영 자체가 어려운 상황이라는 것이다.",
+        "sentenceSize": 102
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정신과 의사회, 의료급여 수가 때문에 정신건강 더 위험해… 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

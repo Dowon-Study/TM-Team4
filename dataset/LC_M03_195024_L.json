@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195024",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "‘다시 듣는 5월 광주의 노래’…이소선합창단, 정기공연 개최",
+    "newsSubTitle": "",
+    "newsContent": "이소선합창단의 정기공연이 ‘다시 듣는 5월 광주의 노래’라는 제목으로 오는 21일에 열린다.\n이소선합창단은 고(故) 전태일 열사의 모친인 고 이소선 여사의 민주사회장 영결식에서 열린 노동자대합창을 계기로 2011년 결성된 노동자합창단이다.\n지난 11년간 노동자들의 투쟁현장을 찾아다니면서 연대의 끈을 이어가고 있다.\n합창단은 ‘오월 광주’의 정신과 민주주의의 이념, 노동의 가치를 노래할 예정이다.\n또한 이번 공연에는 이소선 여사 10주기를 맞아 지난해 열린 노랫말 공모전에서 당선된 가사에 곡을 입힌 창작곡(‘춥고 배고프다는 말’, ‘설거지’, ‘우리라는 꿈’)을 처음 선보인다.\n이를 통해 선진국으로 도약한 한국에서 여전히 소외와 억압의 고통에 고통받고 있는 이들의 현재를 보여준다는 계획이다.\n이번 공연은 오는 21일 오후 4시에 서울 광진구 나루아트센터 대공연장에서 열릴 예정이다.\n별도의 입장료 없이 자율적으로 후원금을 내는 방식의 ‘자율적 후원 공연’으로 진행된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이소선합창단의 정기공연이 ‘다시 듣는 5월 광주의 노래’라는 제목으로 오는 21일에 열린다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이소선합창단은 고(故) 전태일 열사의 모친인 고 이소선 여사의 민주사회장 영결식에서 열린 노동자대합창을 계기로 2011년 결성된 노동자합창단이다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 11년간 노동자들의 투쟁현장을 찾아다니면서 연대의 끈을 이어가고 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "합창단은 ‘오월 광주’의 정신과 민주주의의 이념, 노동의 가치를 노래할 예정이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 이번 공연에는 이소선 여사 10주기를 맞아 지난해 열린 노랫말 공모전에서 당선된 가사에 곡을 입힌 창작곡(‘춥고 배고프다는 말’, ‘설거지’, ‘우리라는 꿈’)을 처음 선보인다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 통해 선진국으로 도약한 한국에서 여전히 소외와 억압의 고통에 고통받고 있는 이들의 현재를 보여준다는 계획이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번 공연은 오는 21일 오후 4시에 서울 광진구 나루아트센터 대공연장에서 열릴 예정이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "별도의 입장료 없이 자율적으로 후원금을 내는 방식의 ‘자율적 후원 공연’으로 진행된다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이소선합창단 정기공연 ‘다시 듣는 5월 광주의 노래’... 관람 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

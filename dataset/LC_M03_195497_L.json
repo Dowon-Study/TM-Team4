@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195497",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "'신선한 충격' 주는 28년 전 '목욕탕 안내문'",
+    "newsSubTitle": "",
+    "newsContent": "27년 전인 1979년 목욕탕에 내걸렸던 안내문이 사진으로 다시 발굴돼 신선한 충격을 안겨주고 있다.\n현재 인터넷에서 회자가 되고 있는 목욕탕 안내문 사진은 한국목욕업중앙회 종로구 지부에서 배포한 것. 사진으로 확인할 수 있는 목욕탕 안내문은 '중학생부터는 일반요금을 내야 한다'라는 내용을 담고 있다.\n또한 안내문에서는 '거짓으로 어린이 요금을 내면 안 된다'며 경고하고 있다.\n특히 서울 목욕탕 요금제가 이 안내문이 쓰일 당시와 많은 차이가 있어 관심을 끈다.\n사진에 나온 목욕탕 요금은 어른이 800원, 어린이 400원이다.\n2017년 현재 어린이의 목욕탕 이용요금은 약 5000원 정도, 어른의 목욕탕 이용요금은 약 1만2000원 정도. 1979년과 비교하면 10배에서 15배 정도 상승한 가격이다.\n1000원도 안 되는 돈에 목욕할 수 있었다는 사실이 28년의 세월을 실감케 한다.\n안내문이 직접 손으로 작성된 것도 네티즌들의 관심을 끌게 했다.\n이에 네티즌들은 \\\"글씨가 정말 예쁘다\\\" \\\"말투가 매우 신선하다\\\" \\\"저 당시 400원이면 라면과 과자 둘 다 살 수 있겠다\\\"는 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "27년 전인 1979년 목욕탕에 내걸렸던 안내문이 사진으로 다시 발굴돼 신선한 충격을 안겨주고 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "현재 인터넷에서 회자가 되고 있는 목욕탕 안내문 사진은 한국목욕업중앙회 종로구 지부에서 배포한 것. 사진으로 확인할 수 있는 목욕탕 안내문은 '중학생부터는 일반요금을 내야 한다'라는 내용을 담고 있다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또한 안내문에서는 '거짓으로 어린이 요금을 내면 안 된다'며 경고하고 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 서울 목욕탕 요금제가 이 안내문이 쓰일 당시와 많은 차이가 있어 관심을 끈다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사진에 나온 목욕탕 요금은 어른이 800원, 어린이 400원이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2017년 현재 어린이의 목욕탕 이용요금은 약 5000원 정도, 어른의 목욕탕 이용요금은 약 1만2000원 정도. 1979년과 비교하면 10배에서 15배 정도 상승한 가격이다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "1000원도 안 되는 돈에 목욕할 수 있었다는 사실이 28년의 세월을 실감케 한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "안내문이 직접 손으로 작성된 것도 네티즌들의 관심을 끌게 했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이에 네티즌들은 \\\"글씨가 정말 예쁘다\\\" \\\"말투가 매우 신선하다\\\" \\\"저 당시 400원이면 라면과 과자 둘 다 살 수 있겠다\\\"는 등의 반응을 보였다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "27년 전 목욕탕에 내걸린 안내문의 내용은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

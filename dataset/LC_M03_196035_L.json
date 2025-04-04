@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196035",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "자몽의 효능, ○○많아 '스스로 칼로리 소모시킨다' 다이어트에 딱!",
+    "newsSubTitle": "",
+    "newsContent": "자몽의 효능이 소개돼 화제다.\n자몽의 효능으로는 비타민C가 풍부해 염증을 일으키는 유해산소를 막아준다.\n주로 생과일로 먹거나 주스로 만들어 먹는 자몽은 여성에게 좋은 식품이다.\n상큼하면서도 달지 않은 맛으로 입맛을 돋우기 때문에 여성들에게 인기가 높은 과일이다.\n자몽은 신진대사를 높여 더 많은 칼로리를 소모하도록 유도하며, 풍부한 식이섬유는 적은 칼로리로도 오랫동안 포만감을 느끼도록 해주며 혈당을 안정시켜주는 효능을 가지고 있다.\n자몽은 속쓰림을 덜하게 하며 다이어트에 도움이 된다.\n자몽의 또다른 효능은 피로물질을 내보내 피로감을 덜어주며 빈혈을 예방하고 항산화 작용으로 노화를 방지한다.\n싱싱한 자몽은 동그란 모양에 껍질이 탱탱하고 윤기가 나며 묵직하다.\n특히 여름에는 바람이 들기 쉬우므로 들어봐서 묵직한 것을 고르도록 한다.\n그러나 칼륨이 풍부한 자몽과 함께 고혈압 약을 복용하면 약의 대사과정을 자몽이 방해하여 약효를 떨어뜨릴 수 있기 때문에 주의해야한다.\n온라인 중앙일보 '자몽의 효능'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "자몽의 효능이 소개돼 화제다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "자몽의 효능으로는 비타민C가 풍부해 염증을 일으키는 유해산소를 막아준다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "주로 생과일로 먹거나 주스로 만들어 먹는 자몽은 여성에게 좋은 식품이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "상큼하면서도 달지 않은 맛으로 입맛을 돋우기 때문에 여성들에게 인기가 높은 과일이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "자몽은 신진대사를 높여 더 많은 칼로리를 소모하도록 유도하며, 풍부한 식이섬유는 적은 칼로리로도 오랫동안 포만감을 느끼도록 해주며 혈당을 안정시켜주는 효능을 가지고 있다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "자몽은 속쓰림을 덜하게 하며 다이어트에 도움이 된다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "자몽의 또다른 효능은 피로물질을 내보내 피로감을 덜어주며 빈혈을 예방하고 항산화 작용으로 노화를 방지한다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "싱싱한 자몽은 동그란 모양에 껍질이 탱탱하고 윤기가 나며 묵직하다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "특히 여름에는 바람이 들기 쉬우므로 들어봐서 묵직한 것을 고르도록 한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그러나 칼륨이 풍부한 자몽과 함께 고혈압 약을 복용하면 약의 대사과정을 자몽이 방해하여 약효를 떨어뜨릴 수 있기 때문에 주의해야한다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인 중앙일보 '자몽의 효능'",
+        "sentenceSize": 17
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "자몽 속 '스스로 칼로리 소모시킨다' 는 ○○의 정체는? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

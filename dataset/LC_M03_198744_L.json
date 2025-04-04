@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198744",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "올해 무료 독감주사 중2~고3, 60~64세 600만명 추가",
+    "newsSubTitle": "",
+    "newsContent": "방역당국이 올 가을 이후 독감과 코로나19가 뒤섞일 가능성이 높다고 보고 600만명에게 추가로 독감 예방 주사를 맞히는 방안을 추진하고 있다.\n권준욱 중앙방역대책본부 부본부장은 21일 충북 오송 질병관리본부에서 열린 정례 브리핑에서 '올 가을·겨울 독감 예방 접종 필요성'을 묻는 질문에 \\\"올해 독감 예방 접종은 훨씬 철저하게 또 많이 이뤄져야 한다\\\"며 \\\"방역당국은 일단 중학교 2학년부터 고등학교 3학년까지, 또 60~64세도 금년의 경우 특별히 독감 예방 접종이 반드시 필요하다고 본다\\\"고 말했다.\n그러면서 약 600만 명분 의 독감 예방 접종 준비를 위해 예산당국과 협의 중이라고 덧붙였다.\n앞서 윤태호 중앙사고수습본부 방역총괄반장이 오전 브리핑에서 독감 무료 접종 대상 확대 방안을 언급한 데 이어 방역당국이 구체적인 접종 규모까지 밝혔다.\n현재 무료 독감 접종 대상은 생후 6개월~중학교 1학년생, 65세 이상 노인, 임신부 등이다.\n방역당국은 여기서 제외되는 중2~고3, 60~64세 등으로 확대하려고 한다.\n향후 보건소를 통해선 무료 접종이 이뤄질 것으로 보인다.\n권 부본부장은 \\\"가을, 겨울로 갈수록 코로나19 발생 가능성이 큰데, 유사한 증상을 보이는 인플루엔자 같은 감염병이 동시에 유행하면 코로나19 방역에도 차질이 빚어질 것\\\"이라며 \\\"독감 예방접종이 그래서 중요하다\\\"고 말했다.\n특히 그는 \\\"세계보건기구(WHO)가 올해 독감 인플루엔자 형태가 지난해 유행한 바이러스와 달라져, 올해에는 독감 유행 가능성이 높다고 본다\\\"고 덧붙였다.\n질병관리본부는 국내 제약업체가 추가로 생산할 수 있는 백신의 양이 한정돼 있기 때문에 서둘러 생산에 들어가야 추가분 600만명 분을 댈 수 있다고 판단한다. 600만명 분을 더하면 1400만명 분을 생산해야 하며 여기에는 5~6개월 걸린다.\n이 때문에 보건 당국이 서두르고 있고, 예산 당국과 밀고 당기기를 계속하고 있다고 한다.\n보건 당국은 9월 독감 예방 접종을 시작해 10월까지 마무리하기로 계획을 짰다.\n예년에는 12월까지 맞혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방역당국이 올 가을 이후 독감과 코로나19가 뒤섞일 가능성이 높다고 보고 600만명에게 추가로 독감 예방 주사를 맞히는 방안을 추진하고 있다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "권준욱 중앙방역대책본부 부본부장은 21일 충북 오송 질병관리본부에서 열린 정례 브리핑에서 '올 가을·겨울 독감 예방 접종 필요성'을 묻는 질문에 \\\"올해 독감 예방 접종은 훨씬 철저하게 또 많이 이뤄져야 한다\\\"며 \\\"방역당국은 일단 중학교 2학년부터 고등학교 3학년까지, 또 60~64세도 금년의 경우 특별히 독감 예방 접종이 반드시 필요하다고 본다\\\"고 말했다.",
+        "sentenceSize": 204
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러면서 약 600만 명분 의 독감 예방 접종 준비를 위해 예산당국과 협의 중이라고 덧붙였다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 윤태호 중앙사고수습본부 방역총괄반장이 오전 브리핑에서 독감 무료 접종 대상 확대 방안을 언급한 데 이어 방역당국이 구체적인 접종 규모까지 밝혔다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "현재 무료 독감 접종 대상은 생후 6개월~중학교 1학년생, 65세 이상 노인, 임신부 등이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "방역당국은 여기서 제외되는 중2~고3, 60~64세 등으로 확대하려고 한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "향후 보건소를 통해선 무료 접종이 이뤄질 것으로 보인다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "권 부본부장은 \\\"가을, 겨울로 갈수록 코로나19 발생 가능성이 큰데, 유사한 증상을 보이는 인플루엔자 같은 감염병이 동시에 유행하면 코로나19 방역에도 차질이 빚어질 것\\\"이라며 \\\"독감 예방접종이 그래서 중요하다\\\"고 말했다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "특히 그는 \\\"세계보건기구(WHO)가 올해 독감 인플루엔자 형태가 지난해 유행한 바이러스와 달라져, 올해에는 독감 유행 가능성이 높다고 본다\\\"고 덧붙였다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "질병관리본부는 국내 제약업체가 추가로 생산할 수 있는 백신의 양이 한정돼 있기 때문에 서둘러 생산에 들어가야 추가분 600만명 분을 댈 수 있다고 판단한다. 600만명 분을 더하면 1400만명 분을 생산해야 하며 여기에는 5~6개월 걸린다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 때문에 보건 당국이 서두르고 있고, 예산 당국과 밀고 당기기를 계속하고 있다고 한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "보건 당국은 9월 독감 예방 접종을 시작해 10월까지 마무리하기로 계획을 짰다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "예년에는 12월까지 맞혔다.",
+        "sentenceSize": 15
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "올겨울 '이 질병' 막기 위해 600만 명 추가 예방 접종 추진된다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

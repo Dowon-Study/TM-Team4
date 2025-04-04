@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193438",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[문화노트] 유아용 그림책까지 점령한 햄버거",
+    "newsSubTitle": "",
+    "newsContent": "머핀.감자칩.케이크.초콜릿.햄버거….최근 출간된 한 촉각 그림책에 나오는 먹거리 목록이다.\n이 중 '두들두들' 감자칩 등은 사진 일부에 실물과 비슷한 질감의 물질을 끼워 놓아 아이가 직접 만져보며 촉감을 느낄 수 있다.\n다른 출판사의 후각 그림책을 보자.\n바나나.피자, 그리고 딸기 아이스크림 등의 사진을 손으로 문지르면 실제 음식의 냄새가 난다.\n이렇게 촉각.후각.청각까지 자극하는 그림책들은 아기의 인지 발달을 돕는 데 매우 효과적이다.\n그런데 눈치 빠른 독자라면 금세 알아차렸을 것이다.\n두 책 모두 번역물이라는 사실을. 최근 몇 년 새 어린이책 시장이 급성장했음에도 불구하고 이런 놀이책들은 대부분 수입품이다.\n독특한 스토리나 특정 지식이 필요하지도 않은 사물 그림책류까지 수입에 의존하는 것은 제작비 때문이다.\n일일이 그림 일부를 오리고 다른 물질을 끼워넣는 수(手) 작업이 필요한데, 출판사들로선 국내의 높은 인건비를 감당하거나 동남아의 공장을 쫓아다니며 작업을 맡기기 보다는 영국 돌링스 킨더슬리(DK) 사 같은 유명 출판사의 책을 수입하는 편이 훨씬 간단한 것이다.\n한국어로 번역만 하면 그쪽에서 알아서 해외의 싼 공장을 통해 완제품을 만들어 보내주기 때문이다.\n문제는 이런 사물 그림 놀이책이 주로 첫 돌 전후의 영아용이어서 아이에게 처음으로 세상을 배우게 해주는 책이라는 점이다.\n사실 요즘 아이들이 접하는 환경은 텔레비전.곰인형.전화기.양말 등에서부터 고양이.강아지에 이르기까지 동서양이 별 차이가 없다.\n하지만 먹거리는 아직 다른 점이 상당히 많다.\n더구나 최근 파장을 일으키고 있는 먹거리 논쟁에선 패스트푸드와 가공식품, 그리고 파행적으로 사육된 육류야말로 많은 사회적 문제의 근본이라고까지 지적되고 있다.\n그런데 이런 책을 보고 자란 아이들에겐 설탕과 기름덩어리의 가공식품인 패스트푸드가 기본 먹거리로 인식될 수밖에 없다.\n무심코 그런 책을 골라주는 부모에게도 잘못이 있겠지만,이런 놀이책엔 선택의 여지가 거의 없다는 사실이 더 큰 문제다.\n진정으로 우리의 아이들을 생각하는 출판이 필요하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "머핀.감자칩.케이크.초콜릿.햄버거….최근 출간된 한 촉각 그림책에 나오는 먹거리 목록이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 중 '두들두들' 감자칩 등은 사진 일부에 실물과 비슷한 질감의 물질을 끼워 놓아 아이가 직접 만져보며 촉감을 느낄 수 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "다른 출판사의 후각 그림책을 보자.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "바나나.피자, 그리고 딸기 아이스크림 등의 사진을 손으로 문지르면 실제 음식의 냄새가 난다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이렇게 촉각.후각.청각까지 자극하는 그림책들은 아기의 인지 발달을 돕는 데 매우 효과적이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그런데 눈치 빠른 독자라면 금세 알아차렸을 것이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두 책 모두 번역물이라는 사실을. 최근 몇 년 새 어린이책 시장이 급성장했음에도 불구하고 이런 놀이책들은 대부분 수입품이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "독특한 스토리나 특정 지식이 필요하지도 않은 사물 그림책류까지 수입에 의존하는 것은 제작비 때문이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "일일이 그림 일부를 오리고 다른 물질을 끼워넣는 수(手) 작업이 필요한데, 출판사들로선 국내의 높은 인건비를 감당하거나 동남아의 공장을 쫓아다니며 작업을 맡기기 보다는 영국 돌링스 킨더슬리(DK) 사 같은 유명 출판사의 책을 수입하는 편이 훨씬 간단한 것이다.",
+        "sentenceSize": 145
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한국어로 번역만 하면 그쪽에서 알아서 해외의 싼 공장을 통해 완제품을 만들어 보내주기 때문이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "문제는 이런 사물 그림 놀이책이 주로 첫 돌 전후의 영아용이어서 아이에게 처음으로 세상을 배우게 해주는 책이라는 점이다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "사실 요즘 아이들이 접하는 환경은 텔레비전.곰인형.전화기.양말 등에서부터 고양이.강아지에 이르기까지 동서양이 별 차이가 없다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "하지만 먹거리는 아직 다른 점이 상당히 많다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "더구나 최근 파장을 일으키고 있는 먹거리 논쟁에선 패스트푸드와 가공식품, 그리고 파행적으로 사육된 육류야말로 많은 사회적 문제의 근본이라고까지 지적되고 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "그런데 이런 책을 보고 자란 아이들에겐 설탕과 기름덩어리의 가공식품인 패스트푸드가 기본 먹거리로 인식될 수밖에 없다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "무심코 그런 책을 골라주는 부모에게도 잘못이 있겠지만,이런 놀이책엔 선택의 여지가 거의 없다는 사실이 더 큰 문제다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "진정으로 우리의 아이들을 생각하는 출판이 필요하다.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유아 그림책에서 햄버거라니 머선129…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

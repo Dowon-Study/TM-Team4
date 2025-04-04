@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195509",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "손가락이 절단됐을 때 서두르지 않아도 되는 이유",
+    "newsSubTitle": "",
+    "newsContent": "기계나 문틈에 끼여 손가락이 잘리는 사고를 당했을 때, 서둘러 병원을 향하는 것보다 중요한 것은 절단된 부위를 잘 보관하는 것이다.\nEBS '명의'에 출연한 수부외과 세부전문의 우상현 원장이 '손가락이 절단됐을 때 처치 방안'에 관해 말했다.\n그는 \\\"피를 보면 굉장히 당황하고 서두르게 되는데, 손가락이 절단된 경우 급하게 병원으로 찾아오지 않아도 된다\\\"고 말했다.\n이어 절단된 부위를 올바르게 보관하는 방법으로 \\\"절단된 부위를 흐르는 물에 씻어서 깨끗한 천이나 수건으로 압박한 뒤, 물에 닿지 않도록 비닐봉지에 넣은 다음, 4도가량의 얼음물에 보관하라\\\"고 밝혔다.\n이때 절단된 부위를 직접 얼음에 담그는 것은 조직의 손상을 유발할 수 있기 때문에 피해야 한다.\n그러면서 \\\"근육이 많은 팔뚝, 다리 중간 등의 경우에는 굉장히 서둘러야 하지만 손가락을 다쳤을 경우에는 서두를 필요가 없다\\\"고 못 박았다.\n한 언론매체에 따르면 국내 의료진이 2006년부터 6년 동안 진행된 접합수술 7백여 건을 분석한 결과, 사고 이후 12시간에서 최대 18시간이 지난 뒤 접합 수술을 해도 큰 문제가 없는 것으로 나타났다.\n수술 성공률 역시, 사고 후 곧바로 수술한 경우인 84%보다 높은 88%를 기록했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "기계나 문틈에 끼여 손가락이 잘리는 사고를 당했을 때, 서둘러 병원을 향하는 것보다 중요한 것은 절단된 부위를 잘 보관하는 것이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "EBS '명의'에 출연한 수부외과 세부전문의 우상현 원장이 '손가락이 절단됐을 때 처치 방안'에 관해 말했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 \\\"피를 보면 굉장히 당황하고 서두르게 되는데, 손가락이 절단된 경우 급하게 병원으로 찾아오지 않아도 된다\\\"고 말했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 절단된 부위를 올바르게 보관하는 방법으로 \\\"절단된 부위를 흐르는 물에 씻어서 깨끗한 천이나 수건으로 압박한 뒤, 물에 닿지 않도록 비닐봉지에 넣은 다음, 4도가량의 얼음물에 보관하라\\\"고 밝혔다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이때 절단된 부위를 직접 얼음에 담그는 것은 조직의 손상을 유발할 수 있기 때문에 피해야 한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러면서 \\\"근육이 많은 팔뚝, 다리 중간 등의 경우에는 굉장히 서둘러야 하지만 손가락을 다쳤을 경우에는 서두를 필요가 없다\\\"고 못 박았다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한 언론매체에 따르면 국내 의료진이 2006년부터 6년 동안 진행된 접합수술 7백여 건을 분석한 결과, 사고 이후 12시간에서 최대 18시간이 지난 뒤 접합 수술을 해도 큰 문제가 없는 것으로 나타났다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "수술 성공률 역시, 사고 후 곧바로 수술한 경우인 84%보다 높은 88%를 기록했다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "수부외과 전문의가 제시한 손가락 절단 시 올바른 대처 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194502",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Family건강] 로봇 + 최소 절개 인공관절 수술 정확성 ↑ 재활 기간 ↓",
+    "newsSubTitle": "",
+    "newsContent": "로봇 수술과 최소 침습 수술(MIS)의 장점을 살린 인공관절 대체술이 소개됐다.\n최근 삼성서울병원에서 열린 제4차 아시아 CAOS(컴퓨터 보조수술학회) 국제 심포지엄에서 이춘택 정형외과병원장은 \\\"로봇의 정밀성과 MIS의 최소 절개술을 활용한 결과 수술의 정확성을 기하면서 통증과 재활 기간을 획기적으로 줄였다\\\"고 밝혔다.\n인공관절 대체술은 퇴행성 무릎관절 치료의 마지막 수단이다.\n여기에 컴퓨터를 이용한 내비게이션과 로봇, 최소 침습 등 첨단 기법이 등장하면서 정확성과 편리성이 동시에 개선되고 있는 것이다.\n로봇 수술은 컴퓨터와 3차원 영상을 활용해 뼈를 자르기 때문에 빠르고, 정밀하다는 것이 장점이다.\n문제는 로봇팔이 작동할 공간을 만들어 주기 위해 피부를 넓게 절개해야 하는 것. 게다가 로봇의 작업을 도와주기 위한 관절 표면의 좌표(XYZ) 설정 때문에 수술 시간이 지연되는 단점도 지적됐다.\n한편 최소 침습 수술은 피부를 작게 절개해 근육과 연부 조직을 최소화하는 장점이 있다.\n반면 좁은 공간에서 수술하기 때문에 정확성이 떨어질 가능성이 있다.\n수술 시 과도하게 조직을 잡아당김으로써 조직이 손상될 우려도 제기된다.\n이 원장은 두 가지 방법의 단점을 개선하기 위해 새로운 방식의 수술법을 고안했다.\n무릎 앞쪽에서 접근하는 전통적 수술 방식을 버리고, 무릎 측면 안쪽으로 들어간 것. \\\"기존 방법은 슬개골을 젖히고 작업했기 때문에 절개 부위가 길고, 조직 손상도 클 수밖에 없었다\\\"며 \\\"하지만 측면 접근 시 이런 부담이 줄어 환자의 재활이 빨라진다\\\"고 말했다.\n실제 올 1월부터 2월 말까지 두 가지 방법을 활용한 인공관절 수술 50례를 분석한 결과 로봇에 의한 수술보다 절개 부위는 6~9㎝ 줄었고, 통증 소실 시간, 운동 시작이 크게 좋아진 것으로 나타났다.\n이 병원은 2002년 10월 국내 최초로 로봇을 이용한 인공관절 수술법을 도입, 현재 2200례를 돌파했다.\n또 2005년 8월 로봇관절 연구소를 개소해 로봇 부품과 소모품을 직접 설계하는 등 국산화에 노력하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "로봇 수술과 최소 침습 수술(MIS)의 장점을 살린 인공관절 대체술이 소개됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 삼성서울병원에서 열린 제4차 아시아 CAOS(컴퓨터 보조수술학회) 국제 심포지엄에서 이춘택 정형외과병원장은 \\\"로봇의 정밀성과 MIS의 최소 절개술을 활용한 결과 수술의 정확성을 기하면서 통증과 재활 기간을 획기적으로 줄였다\\\"고 밝혔다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "인공관절 대체술은 퇴행성 무릎관절 치료의 마지막 수단이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여기에 컴퓨터를 이용한 내비게이션과 로봇, 최소 침습 등 첨단 기법이 등장하면서 정확성과 편리성이 동시에 개선되고 있는 것이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "로봇 수술은 컴퓨터와 3차원 영상을 활용해 뼈를 자르기 때문에 빠르고, 정밀하다는 것이 장점이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "문제는 로봇팔이 작동할 공간을 만들어 주기 위해 피부를 넓게 절개해야 하는 것. 게다가 로봇의 작업을 도와주기 위한 관절 표면의 좌표(XYZ) 설정 때문에 수술 시간이 지연되는 단점도 지적됐다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 최소 침습 수술은 피부를 작게 절개해 근육과 연부 조직을 최소화하는 장점이 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "반면 좁은 공간에서 수술하기 때문에 정확성이 떨어질 가능성이 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "수술 시 과도하게 조직을 잡아당김으로써 조직이 손상될 우려도 제기된다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 원장은 두 가지 방법의 단점을 개선하기 위해 새로운 방식의 수술법을 고안했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "무릎 앞쪽에서 접근하는 전통적 수술 방식을 버리고, 무릎 측면 안쪽으로 들어간 것. \\\"기존 방법은 슬개골을 젖히고 작업했기 때문에 절개 부위가 길고, 조직 손상도 클 수밖에 없었다\\\"며 \\\"하지만 측면 접근 시 이런 부담이 줄어 환자의 재활이 빨라진다\\\"고 말했다.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "실제 올 1월부터 2월 말까지 두 가지 방법을 활용한 인공관절 수술 50례를 분석한 결과 로봇에 의한 수술보다 절개 부위는 6~9㎝ 줄었고, 통증 소실 시간, 운동 시작이 크게 좋아진 것으로 나타났다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이 병원은 2002년 10월 국내 최초로 로봇을 이용한 인공관절 수술법을 도입, 현재 2200례를 돌파했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또 2005년 8월 로봇관절 연구소를 개소해 로봇 부품과 소모품을 직접 설계하는 등 국산화에 노력하고 있다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "로봇 수술과 침습 수술의 장점 살린 새로운 인공관절 대체술의 효용성은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

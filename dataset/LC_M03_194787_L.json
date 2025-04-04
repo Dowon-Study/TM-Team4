@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194787",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "이 시대 '오빠' 유승준 화보집 출간",
+    "newsSubTitle": "",
+    "newsContent": "\\\"영화에서 만난 주인공들은 우리들 자신이라고 착각하며 우리는 성장했다. '젊은이의 양지' 에서 엘리자베스 테일러를 탐내다 파멸을 맞은 몽고메리 클리프트, 돈 한번 펑펑 쓰고 싶어 친구를 죽이는 '태양은 가득히' 의 알랭 들롱, 그들은 우리들의 초상화였다. \\\" 자전소설 『헐리우드키드의 생애』에서 소설가 안정효는 이렇게 고백했다.\n자신이 10대 시절을 보낸 1950년대 말을 \\\"불결한 환경 속에서 어른이 될 준비를 했던\\\" 시기였다고 털어놨다.\n분명 가수 유승준의 사진화보집 『INFINITY』의 독자층일 이 시대 10대들은 안정효에 비해 상대적으로 다행스럽다. '이 시대의 몽고메리 클리프트, 알랭 들롱' 이자 우상인 유승준이 서구의 대중스타들에 비해 손색이 없다는 판단 때문이다. 『INFINITY』는 고품위 사진집이다.\n흑백사진이 주조인 이 책은 그간 선보였던 대중스타 화보집 중 가장 완성도가 높은 편이다.\n감각이 뛰어난 사진작가 김중만의 사진도 안정감이 있다.\n일본 미야자와 리에의 『산타페』처럼 필요한 투자는 아끼지 않은 흔적도 역력하다.\n시원한 바다, 깊은 숲 등 대자연을 무대로 한 사진들은 유승준의 건강한 이미지를 효과적으로 살리는 배경으로 성공하고 있다.\n의도적인 선정적 앵글의 사진은 단 한컷도 없어 대중스타 화보집의 한 모델이 될 수도 있을 것이다.\n이 정도라면 10대들 젊은 시절의 기억을 위한 효과적인 소도구로 추천할 수 있을 듯 싶다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"영화에서 만난 주인공들은 우리들 자신이라고 착각하며 우리는 성장했다. '젊은이의 양지' 에서 엘리자베스 테일러를 탐내다 파멸을 맞은 몽고메리 클리프트, 돈 한번 펑펑 쓰고 싶어 친구를 죽이는 '태양은 가득히' 의 알랭 들롱, 그들은 우리들의 초상화였다. \\\" 자전소설 『헐리우드키드의 생애』에서 소설가 안정효는 이렇게 고백했다.",
+        "sentenceSize": 185
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "자신이 10대 시절을 보낸 1950년대 말을 \\\"불결한 환경 속에서 어른이 될 준비를 했던\\\" 시기였다고 털어놨다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "분명 가수 유승준의 사진화보집 『INFINITY』의 독자층일 이 시대 10대들은 안정효에 비해 상대적으로 다행스럽다. '이 시대의 몽고메리 클리프트, 알랭 들롱' 이자 우상인 유승준이 서구의 대중스타들에 비해 손색이 없다는 판단 때문이다. 『INFINITY』는 고품위 사진집이다.",
+        "sentenceSize": 156
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "흑백사진이 주조인 이 책은 그간 선보였던 대중스타 화보집 중 가장 완성도가 높은 편이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "감각이 뛰어난 사진작가 김중만의 사진도 안정감이 있다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일본 미야자와 리에의 『산타페』처럼 필요한 투자는 아끼지 않은 흔적도 역력하다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "시원한 바다, 깊은 숲 등 대자연을 무대로 한 사진들은 유승준의 건강한 이미지를 효과적으로 살리는 배경으로 성공하고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "의도적인 선정적 앵글의 사진은 단 한컷도 없어 대중스타 화보집의 한 모델이 될 수도 있을 것이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이 정도라면 10대들 젊은 시절의 기억을 위한 효과적인 소도구로 추천할 수 있을 듯 싶다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 유승준 화보집 출간... 어떤 사진들이 담겼을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

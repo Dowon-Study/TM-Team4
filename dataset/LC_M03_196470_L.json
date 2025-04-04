@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196470",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[가볼만한곳] 웅장한 화려한 더구나 흥겨운",
+    "newsSubTitle": "국수호의 춤극 '무천' 3·5·7일 오후 4시30분, 국립중앙박물관 극장 용. 1544-5955",
+    "newsContent": "'주몽''연개소문' 등 TV 화면을 몰아치고 있는 고구려 열풍. 공연계도 예외가 아니다.\n아니 좀 더 원형을 살리기 위해 애쓴다고 할까.\n국수호의 춤극 '무천'은 고구려의 춤과 기상을 현대적으로 풀어 낸 무용 공연이다.\n지난 6월 국립극장에서 초연된 바 있다.\n무용계 안팎의 큰 호응에 힘입어 중앙국립박물관 메인 오디토리움에서 전통 공연으로 상설화(화.목.토) 됐다.\n이번 공연은 추석 특집 형식으로 극장 용에서 공연된다.\n고구려 시대의 복식과 동작을 체계적.과학적으로 연구하기 위해 안무가 국수호씨는 500여개의 벽화의 200여권의 역사 자료를 직접 답사하거나 수집하는 노력을 기울였다.\n\\\"15년간 중국을 무려 50여차례나 방문했다\\\"고도 말한다.\n여인의 모습을 형상화한 기악춤, 무용총 벽화 속 남녀 무희가 깨어나 살아 움직이듯 추는 춤, 담징의 금당벽화 관음보살상을 배경으로 하는 비천무 등은 이런 배경속에서 탄생한 것들이다.\n웅장하고 호방한 춤사위를 보다 보면 왜 중국이 그토록 '동북공정'에 매달리는지 새삼 느껴질 듯싶다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'주몽''연개소문' 등 TV 화면을 몰아치고 있는 고구려 열풍. 공연계도 예외가 아니다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아니 좀 더 원형을 살리기 위해 애쓴다고 할까.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국수호의 춤극 '무천'은 고구려의 춤과 기상을 현대적으로 풀어 낸 무용 공연이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 6월 국립극장에서 초연된 바 있다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "무용계 안팎의 큰 호응에 힘입어 중앙국립박물관 메인 오디토리움에서 전통 공연으로 상설화(화.목.토) 됐다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 공연은 추석 특집 형식으로 극장 용에서 공연된다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "고구려 시대의 복식과 동작을 체계적.과학적으로 연구하기 위해 안무가 국수호씨는 500여개의 벽화의 200여권의 역사 자료를 직접 답사하거나 수집하는 노력을 기울였다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "\\\"15년간 중국을 무려 50여차례나 방문했다\\\"고도 말한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "여인의 모습을 형상화한 기악춤, 무용총 벽화 속 남녀 무희가 깨어나 살아 움직이듯 추는 춤, 담징의 금당벽화 관음보살상을 배경으로 하는 비천무 등은 이런 배경속에서 탄생한 것들이다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "웅장하고 호방한 춤사위를 보다 보면 왜 중국이 그토록 '동북공정'에 매달리는지 새삼 느껴질 듯싶다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대한민국을 휩쓸고 있는 고구려 '열풍', 공연계에서도 '돌풍'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

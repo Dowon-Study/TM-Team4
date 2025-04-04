@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194727",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "불임부부 지원 대상 확대",
+    "newsSubTitle": "시험관 아기 시술비 지급 월 소득 419만원 이하로",
+    "newsContent": "시험관아기 시술비 지원을 받을 수 있는 불임부부의 소득 기준이 대폭 상향 조정됐다.\n보건복지부는 1일부터 시험관아기 시술비 지원을 받을 수 있는 불임부부의 소득기준을 도시근로자 가구 평균소득의 80% 이하 가구에서 130% 이하 가구로 올렸다고 밝혔다.\n이렇게 되면 지금까지는 2인 가구 기준으로 월소득이 242만원 이하일 경우에만 시술비를 지원받을 수 있었으나 앞으로는 419만원 이하면 된다.\n이 같은 소득기준 조정은 시험관아기 시술비 지원 신청이 예상보다 저조했기 때문이다.\n복지부는 1만6426쌍을 지원 대상으로 정했으나 지난달 신청을 마감한 결과 신청자가 7498쌍(45.6%)에 그쳤다.\n복지부는 이에 따라 5월 한 달간 새로운 소득기준을 적용, 시험관아기 시술비 지원 신청을 추가 접수한다.\n신청 요건은 소득 기준 외에도 시험관아기 시술을 통해서만 불임을 극복할 수 있다는 산부인과.비뇨기과 전문의의 진단을 받은 법적 혼인상태의 부부여야 한다.\n아내의 나이가 44세를 넘어도 안 된다.\n시험관아기 시술비는 회당 평균 300만원 정도며 이번에 한 쌍당 최대 300만원까지 지원된다.\n복지부 관계자는 \\\"수요 예측을 잘못하는 바람에 신청이 저조했던 것으로 보인다\\\"면서 \\\"추가 신청 모집에서 신청자가 목표치를 넘어서면 소득과 자녀 수, 연령 등 정해진 기준에 따라 우선 순위를 정할 것\\\"이라고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "시험관아기 시술비 지원을 받을 수 있는 불임부부의 소득 기준이 대폭 상향 조정됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보건복지부는 1일부터 시험관아기 시술비 지원을 받을 수 있는 불임부부의 소득기준을 도시근로자 가구 평균소득의 80% 이하 가구에서 130% 이하 가구로 올렸다고 밝혔다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이렇게 되면 지금까지는 2인 가구 기준으로 월소득이 242만원 이하일 경우에만 시술비를 지원받을 수 있었으나 앞으로는 419만원 이하면 된다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 같은 소득기준 조정은 시험관아기 시술비 지원 신청이 예상보다 저조했기 때문이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "복지부는 1만6426쌍을 지원 대상으로 정했으나 지난달 신청을 마감한 결과 신청자가 7498쌍(45.6%)에 그쳤다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "복지부는 이에 따라 5월 한 달간 새로운 소득기준을 적용, 시험관아기 시술비 지원 신청을 추가 접수한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "신청 요건은 소득 기준 외에도 시험관아기 시술을 통해서만 불임을 극복할 수 있다는 산부인과.비뇨기과 전문의의 진단을 받은 법적 혼인상태의 부부여야 한다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아내의 나이가 44세를 넘어도 안 된다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "시험관아기 시술비는 회당 평균 300만원 정도며 이번에 한 쌍당 최대 300만원까지 지원된다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "복지부 관계자는 \\\"수요 예측을 잘못하는 바람에 신청이 저조했던 것으로 보인다\\\"면서 \\\"추가 신청 모집에서 신청자가 목표치를 넘어서면 소득과 자녀 수, 연령 등 정해진 기준에 따라 우선 순위를 정할 것\\\"이라고 덧붙였다.",
+        "sentenceSize": 124
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "보건복지부, 불임부부 위한 지원 대상 확대 내용은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

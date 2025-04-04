@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194322",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[행복한책읽기Review] “쉿~” 비밀은 이렇게 만든거야",
+    "newsSubTitle": "",
+    "newsContent": "비밀의 철학 르네 알라데이 지음, 성귀수 옮김 개마고원, 184쪽, 9000원 #사례 1: 오스트레일리아 원주민은 이웃 부족한테 들켜서는 안 되는 비밀 이름을 각자 가지고 있다.\n고대 이집트인에게도 그와 유사한 풍습이 만연했다.\n한 사람이 보통 두 개씩 이름이 있는데 그 중 별로 중요하지 않은 이름은 모두가 다 아는 이름이고, 더 중요한 진짜 이름은 감춰두었다.\n#사례 2: 출애굽기 3장에서 모세가 신을 만나는 장면. 모세가 신의 이름을 묻자, 대답으로 돌아온 것이 더 많은 추측을 낳게 한다.\n신은 그에게 이렇게 말한다. “나는 나인 자이다(Sum qui sum).” 비밀에 관하여 우리가 알아야 할 모든 것이 이 책에 들어있다, 이렇게 적으면 너무 광고 문안 같겠다.\n그러면 다음과 같이 타협해 적는다.\n비밀에 관하여 인류가 수천 년간 궁리하고 수군거린 흔적을 한껏 그러모았다.\n구약에서부터 온갖 신화와 전설이 동원되고, 소설과 철학서가 자유로이 인용된다.\n신문기사나 영화 대사 한 토막도 수시로 등장한다.\n이 풍부한 자료를 토대로 지은이는 우리가 비밀이라 여기는 무언가의 안과 밖을 꼼꼼히 살핀다.\n신이 모세에게 자신의 이름을 알리지 않는 대목에서 이른바 ‘호명하기’의 철학적 모티프를 집어내고, 옷(이라 불리는 체계적인 차단막)을 걸치는 인간의 행동에서 감춤과 드러냄의 심리를 읽어내는 식이다.\n전직 M16(영국정보부) 요원이 소개했다는 거짓말탐지기 속이는 요령도 나와있다.\n호흡을 불규칙하게 하거나 혈압을 높이기 위해 몰래 혀를 깨문다든가 등의 방법이 열거된다.\n실제로 알드리히 에임즈라는 CIA 요원은 KGB에 8년 동안 정보를 팔면서 한 번도 거짓말이 들통난 적이 없단다.\n지은이가 힘줘 강조하는 바는 딱히 없다.\n대신 비밀에 관한 소소하고 흥미로운 잡학을 두루 섭취할 수 있다.\n책은 철학적 주제를 일상의 수준에서 쉽게 설명하는 프랑스 밀랑출판사의 ‘포즈 필로(Pause Philo)’ 시리즈 중의 하나다.\n한국에는 포즈 필로 시리즈 2차분으로 이 책 말고도 『사랑의 철학』『예비 아빠의 철학』등 네 권이 더 출간됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "비밀의 철학 르네 알라데이 지음, 성귀수 옮김 개마고원, 184쪽, 9000원 #사례 1: 오스트레일리아 원주민은 이웃 부족한테 들켜서는 안 되는 비밀 이름을 각자 가지고 있다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "고대 이집트인에게도 그와 유사한 풍습이 만연했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한 사람이 보통 두 개씩 이름이 있는데 그 중 별로 중요하지 않은 이름은 모두가 다 아는 이름이고, 더 중요한 진짜 이름은 감춰두었다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "#사례 2: 출애굽기 3장에서 모세가 신을 만나는 장면. 모세가 신의 이름을 묻자, 대답으로 돌아온 것이 더 많은 추측을 낳게 한다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신은 그에게 이렇게 말한다. “나는 나인 자이다(Sum qui sum).” 비밀에 관하여 우리가 알아야 할 모든 것이 이 책에 들어있다, 이렇게 적으면 너무 광고 문안 같겠다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러면 다음과 같이 타협해 적는다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "비밀에 관하여 인류가 수천 년간 궁리하고 수군거린 흔적을 한껏 그러모았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "구약에서부터 온갖 신화와 전설이 동원되고, 소설과 철학서가 자유로이 인용된다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "신문기사나 영화 대사 한 토막도 수시로 등장한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 풍부한 자료를 토대로 지은이는 우리가 비밀이라 여기는 무언가의 안과 밖을 꼼꼼히 살핀다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "신이 모세에게 자신의 이름을 알리지 않는 대목에서 이른바 ‘호명하기’의 철학적 모티프를 집어내고, 옷(이라 불리는 체계적인 차단막)을 걸치는 인간의 행동에서 감춤과 드러냄의 심리를 읽어내는 식이다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "전직 M16(영국정보부) 요원이 소개했다는 거짓말탐지기 속이는 요령도 나와있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "호흡을 불규칙하게 하거나 혈압을 높이기 위해 몰래 혀를 깨문다든가 등의 방법이 열거된다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "실제로 알드리히 에임즈라는 CIA 요원은 KGB에 8년 동안 정보를 팔면서 한 번도 거짓말이 들통난 적이 없단다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "지은이가 힘줘 강조하는 바는 딱히 없다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "대신 비밀에 관한 소소하고 흥미로운 잡학을 두루 섭취할 수 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "책은 철학적 주제를 일상의 수준에서 쉽게 설명하는 프랑스 밀랑출판사의 ‘포즈 필로(Pause Philo)’ 시리즈 중의 하나다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "한국에는 포즈 필로 시리즈 2차분으로 이 책 말고도 『사랑의 철학』『예비 아빠의 철학』등 네 권이 더 출간됐다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "르네 알라데이가 말해주는 비밀에 숨겨진 비밀... 알고 싶니?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

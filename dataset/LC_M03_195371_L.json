@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195371",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "드라마 마눌과 같이 보다 나만 눈물",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 마눌님! 마눌님!(29) “저질스럽게 TV 막장 드라마 보면서 눈물 뚝뚝 흘리다니, 여편네들이란 한심하기 짝이 없다니까. 쯧쯧쯧!” 내가 한창 잘 나갈 옛적, 집에서 TV에 코 박고 있는 마눌에게 퍼부은 조롱기 있는 핀잔이었다.\n그러던 내가 엊저녁 마눌이 통째로 빠져있는 드라마를 옆에 앉아 흘낏 곁눈질로 훔쳐보다 그만 가슴속에서 받쳐 올라오는 격정에 울컥했다.\n그러고는 나도 모르게 왕방울만 한 눈물을 주르륵 흘리고 말았다.\n마눌의 표정은 아무렇지도 않았는데 나만 주책없이 손등으로 눈물을 닦았다.\n엉겁결에 후다닥 자리에서 일어나 거실문을 열고 베란다로 뛰쳐나왔다.\n올해로 백수 노릇 한 지 십수 년째. 그 단단하기만 했던 가슴이 이젠 하나둘씩 처참하게 무너져 내리고 있다.\n하느님! 너무하십니다.\n왜 이렇게 잔인하게 만드십니까?",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 마눌님! 마눌님!(29) “저질스럽게 TV 막장 드라마 보면서 눈물 뚝뚝 흘리다니, 여편네들이란 한심하기 짝이 없다니까. 쯧쯧쯧!” 내가 한창 잘 나갈 옛적, 집에서 TV에 코 박고 있는 마눌에게 퍼부은 조롱기 있는 핀잔이었다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그러던 내가 엊저녁 마눌이 통째로 빠져있는 드라마를 옆에 앉아 흘낏 곁눈질로 훔쳐보다 그만 가슴속에서 받쳐 올라오는 격정에 울컥했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러고는 나도 모르게 왕방울만 한 눈물을 주르륵 흘리고 말았다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "마눌의 표정은 아무렇지도 않았는데 나만 주책없이 손등으로 눈물을 닦았다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "엉겁결에 후다닥 자리에서 일어나 거실문을 열고 베란다로 뛰쳐나왔다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "올해로 백수 노릇 한 지 십수 년째. 그 단단하기만 했던 가슴이 이젠 하나둘씩 처참하게 무너져 내리고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하느님! 너무하십니다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "왜 이렇게 잔인하게 만드십니까?",
+        "sentenceSize": 17
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "늘 단단했던 가장의 가슴을 처참하게 무너뜨린 것은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

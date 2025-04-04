@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193394",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK꿈나무] 업그레이드 ! 역사 공부 유물 사진도, 내용도 짱",
+    "newsSubTitle": "",
+    "newsContent": "히스토리카 한국사(고구려ㆍ백제 편) 히스토리카한국사 편찬위원회 지음, 이끌리오, 320쪽, 3만8000원 '역사책도 진화한다'는 느낌이 물씬하다.\n특히 국내에 퍼져 있는 유물과 유적을 직접 촬영한 사진이 생생하다.\n박물관이나 관련 기관에서 제공받은 사진도 복사본이 아니라 해상도 높은 슬라이드 필름으로 다시 찍었고, 북한의 문화보존지도국 소속 출판기관인 조선문화보존사와 정식으로 저작권 계약을 맺어 북한 유물 사진도 확보했다.\n전 10권으로 예정된 시리즈 중 선사.고조선 편에 앞서 선보였다.\n모두 네 분야에 걸쳐 한 시대를 종횡무진 맛볼 수 있게 했다.'시대조망'에서는 고구려와 백제 두 강대국의 흥망과 당나라와 연합한 신라의 발흥, 3국 간의 접전 등 정치사적 흐름을 살펴본다. '집중탐구'는 논쟁의 장이다.\n고구려 최고(最古)의 고분벽화인 안악 3호분의 주인공은? 백제의 첫 도읍지 하남위례성은 어디일까? '생활문화'는 조상들의 지혜와 슬기가 담긴 문화와 생활상을 엿보는 자리다.\n전호태 울산대 역사문화학과 교수의 책임감수 아래 임기환 서울교대 사회교육과 교수 등 전공자 8명이 다양한 시각과 식견을 담아냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "히스토리카 한국사(고구려ㆍ백제 편) 히스토리카한국사 편찬위원회 지음, 이끌리오, 320쪽, 3만8000원 '역사책도 진화한다'는 느낌이 물씬하다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특히 국내에 퍼져 있는 유물과 유적을 직접 촬영한 사진이 생생하다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박물관이나 관련 기관에서 제공받은 사진도 복사본이 아니라 해상도 높은 슬라이드 필름으로 다시 찍었고, 북한의 문화보존지도국 소속 출판기관인 조선문화보존사와 정식으로 저작권 계약을 맺어 북한 유물 사진도 확보했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전 10권으로 예정된 시리즈 중 선사.고조선 편에 앞서 선보였다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "모두 네 분야에 걸쳐 한 시대를 종횡무진 맛볼 수 있게 했다.'시대조망'에서는 고구려와 백제 두 강대국의 흥망과 당나라와 연합한 신라의 발흥, 3국 간의 접전 등 정치사적 흐름을 살펴본다. '집중탐구'는 논쟁의 장이다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "고구려 최고(最古)의 고분벽화인 안악 3호분의 주인공은? 백제의 첫 도읍지 하남위례성은 어디일까? '생활문화'는 조상들의 지혜와 슬기가 담긴 문화와 생활상을 엿보는 자리다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "전호태 울산대 역사문화학과 교수의 책임감수 아래 임기환 서울교대 사회교육과 교수 등 전공자 8명이 다양한 시각과 식견을 담아냈다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "히스토리카 한국사로 역사 '플렉스' 하자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

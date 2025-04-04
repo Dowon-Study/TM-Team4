@@ -1,0 +1,231 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198058",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[겨울철고혈압-이것만은!] <하> 소금을 줄이자",
+    "newsSubTitle": "국물 음식 덜 먹고 채소·과일은 듬뿍",
+    "newsContent": "소금은 혈압에 직접적인 영향을 미친다.\n소금의 주된 성분인 염화나트륨(NaCl)은 짠맛을 내는 물질로 우리 몸의 수분량을 조절하는 기능을 한다.\n우리나라 국민의 소금 섭취량은 매년 증가 추세다.\n2005년 국민건강영양조사에 따르면 한국인의 나트륨 섭취량은 하루 평균 5280㎎으로 1998년 4036㎎, 2001년 4903㎎에 비해 크게 늘었다.\n일본은 4843㎎, 영국 3600㎎, 미국의 경우 3375㎎ 수준. 세계보건기구(WHO)는 하루 5g(나트륨 2000㎎) 이하의 소금 섭취를 권장하며, 한국영양학회도 이를 따르고 있다.\n5g은 티스푼으로 수북하게 한 숟가락 떴을 때의 양이다.\n하지만 한국인들은 약 13g의 소금을 매일 섭취하며, 특히 30~49세 남자는 권장 수준의 3배가 넘는 15g 이상을 먹는다.\n이는 밥숟가락으로 하나 가득 떴을 때보다도 많은 양이다.\n소금을 가장 많이 섭취하게 하는 음식은 김치(30%), 국과 찌개(18%), 어패류(13%) 순이다.\n이 중 김치는 소금 함량도 높지만 하루 세 끼 모두 먹는다는 점이 문제다.\n혈압을 고려하면 염도 1.8~2%인 김치가 적당한데, 영남 일부 지역에선 염도가 4%에 달한다.\n소금 섭취를 줄이려면 국·찌개·라면 등의 국물을 마시지 않는 습관을 들여야 한다.\n또 죽염·암염·천일염은 괜찮다고 하지만 이 또한 잘못된 생각이다.\n주요 성분은 일반 소금과 동일한 염화나트륨이다.\n단지 일반 소금보다 칼슘·마그네슘·황·칼륨 등 무기질이 많이 함유되어 있다.\n저나트륨 소금은 염화나트륨 대신 염화칼륨(KCl) 성분을 넣어 일반 소금과 비슷한 짠맛을 내면서도 상대적으로 나트륨이 적다.\n하지만 음식 맛이 다소 떨어지므로 음식 간을 맞추는 데 사용하기보다 고기 등을 찍어 먹는 용도가 적당하다. 고혈압 약을 복용하거나 신장질환자는 저나트륨 소금을 피하는 것이 좋다.\n일부 고혈압 약 중엔 칼륨(K)이 몸에 축적되는 성분이 있고, 신장질환자는 이뇨 기능 저하로 칼륨이 체내에 축적될 수 있기 때문이다.\n이미 소금을 많이 먹었다면 어떻게 할까.\n채소와 과일에는 칼륨이라는 무기질 성분이 풍부해 나트륨의 체외 배설을 돕는다.\n이상적인 나트륨과 칼륨의 섭취 비율은 1:1.5 정도. 따라서 나트륨 함량은 낮고 칼륨의 함량이 높은 콩·팥·바나나·사과·배·딸기·포도·감·귤 등과 호박·고구마·가지·옥수수·양파·시금치 등 채소류를 충분히 섭취하면 도움이 된다.\n이 밖에도 가공식품을 구입할 때에는 영양성분표에 기재되어 있는 나트륨(Na) 함량을 꼼꼼히 따져보고 선택하자.\n정남식 국민고혈압사업단 부단장(신촌세브란스 심장내과 교수)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 23,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "소금은 혈압에 직접적인 영향을 미친다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소금의 주된 성분인 염화나트륨(NaCl)은 짠맛을 내는 물질로 우리 몸의 수분량을 조절하는 기능을 한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "우리나라 국민의 소금 섭취량은 매년 증가 추세다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2005년 국민건강영양조사에 따르면 한국인의 나트륨 섭취량은 하루 평균 5280㎎으로 1998년 4036㎎, 2001년 4903㎎에 비해 크게 늘었다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "일본은 4843㎎, 영국 3600㎎, 미국의 경우 3375㎎ 수준. 세계보건기구(WHO)는 하루 5g(나트륨 2000㎎) 이하의 소금 섭취를 권장하며, 한국영양학회도 이를 따르고 있다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "5g은 티스푼으로 수북하게 한 숟가락 떴을 때의 양이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 한국인들은 약 13g의 소금을 매일 섭취하며, 특히 30~49세 남자는 권장 수준의 3배가 넘는 15g 이상을 먹는다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이는 밥숟가락으로 하나 가득 떴을 때보다도 많은 양이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "소금을 가장 많이 섭취하게 하는 음식은 김치(30%), 국과 찌개(18%), 어패류(13%) 순이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 중 김치는 소금 함량도 높지만 하루 세 끼 모두 먹는다는 점이 문제다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "혈압을 고려하면 염도 1.8~2%인 김치가 적당한데, 영남 일부 지역에선 염도가 4%에 달한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "소금 섭취를 줄이려면 국·찌개·라면 등의 국물을 마시지 않는 습관을 들여야 한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "또 죽염·암염·천일염은 괜찮다고 하지만 이 또한 잘못된 생각이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "주요 성분은 일반 소금과 동일한 염화나트륨이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "단지 일반 소금보다 칼슘·마그네슘·황·칼륨 등 무기질이 많이 함유되어 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "저나트륨 소금은 염화나트륨 대신 염화칼륨(KCl) 성분을 넣어 일반 소금과 비슷한 짠맛을 내면서도 상대적으로 나트륨이 적다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "하지만 음식 맛이 다소 떨어지므로 음식 간을 맞추는 데 사용하기보다 고기 등을 찍어 먹는 용도가 적당하다. 고혈압 약을 복용하거나 신장질환자는 저나트륨 소금을 피하는 것이 좋다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "일부 고혈압 약 중엔 칼륨(K)이 몸에 축적되는 성분이 있고, 신장질환자는 이뇨 기능 저하로 칼륨이 체내에 축적될 수 있기 때문이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "이미 소금을 많이 먹었다면 어떻게 할까.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "채소와 과일에는 칼륨이라는 무기질 성분이 풍부해 나트륨의 체외 배설을 돕는다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "이상적인 나트륨과 칼륨의 섭취 비율은 1:1.5 정도. 따라서 나트륨 함량은 낮고 칼륨의 함량이 높은 콩·팥·바나나·사과·배·딸기·포도·감·귤 등과 호박·고구마·가지·옥수수·양파·시금치 등 채소류를 충분히 섭취하면 도움이 된다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "이 밖에도 가공식품을 구입할 때에는 영양성분표에 기재되어 있는 나트륨(Na) 함량을 꼼꼼히 따져보고 선택하자.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "정남식 국민고혈압사업단 부단장(신촌세브란스 심장내과 교수)",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고혈압 예방 위한 '이것' 섭취 줄이기는 계속된다!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193935",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "온앤오프 여름 컴백 대전 합류…'로투킹' 열기 이어간다",
+    "newsSubTitle": "",
+    "newsContent": "온앤오프가 오는 8월 컴백한다. 16일 소속사 WM엔터테인먼트에 따르면 온앤오프가 오는 8월 중순 새 앨범을 발매키로 확정했다.\n이와 관련해 소속사 관계자는 미디어SR에 \\\"온앤오프가 8월 컴백을 목표로 현재 신보 준비에 매진하고 있다\\\"며 기대를 당부했다.\n온앤오프의 컴백은 지난해 10월 발매한 미니 4집 앨범 '고 라이브'(GO LIVE) 이후 약 11개월 만이다.\n특히 이번 신보는 최근 종영한 Mnet '로드 투 킹덤'(이하 로투킹) 이후 온앤오프가 발매하는 첫 앨범이어서 더욱 큰 관심을 모으고 있다.\n노래는 물론 퍼포먼스 실력 등으로 주목 받으며 '로투킹 최대 수혜자'로 꼽힌 만큼 이들의 행보에 이목이 집중된 상황이다. '명곡 맛집'이라는 수식어를 가진 온앤오프가 어떤 곡을 내놓을지 궁금증이 더해지고 있다.\n탄탄한 실력을 바탕으로 성장을 이어온 온앤오프가 전개해 나갈 안드로이드 세계관 역시 지켜볼 부분 중 하나다.\n전방위적인 활약을 펼치고 있는 온앤오프의 활동에 기대와 관심이 고조되고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "온앤오프가 오는 8월 컴백한다. 16일 소속사 WM엔터테인먼트에 따르면 온앤오프가 오는 8월 중순 새 앨범을 발매키로 확정했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이와 관련해 소속사 관계자는 미디어SR에 \\\"온앤오프가 8월 컴백을 목표로 현재 신보 준비에 매진하고 있다\\\"며 기대를 당부했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "온앤오프의 컴백은 지난해 10월 발매한 미니 4집 앨범 '고 라이브'(GO LIVE) 이후 약 11개월 만이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 이번 신보는 최근 종영한 Mnet '로드 투 킹덤'(이하 로투킹) 이후 온앤오프가 발매하는 첫 앨범이어서 더욱 큰 관심을 모으고 있다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "노래는 물론 퍼포먼스 실력 등으로 주목 받으며 '로투킹 최대 수혜자'로 꼽힌 만큼 이들의 행보에 이목이 집중된 상황이다. '명곡 맛집'이라는 수식어를 가진 온앤오프가 어떤 곡을 내놓을지 궁금증이 더해지고 있다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "탄탄한 실력을 바탕으로 성장을 이어온 온앤오프가 전개해 나갈 안드로이드 세계관 역시 지켜볼 부분 중 하나다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "전방위적인 활약을 펼치고 있는 온앤오프의 활동에 기대와 관심이 고조되고 있다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "온앤오프 8월 컴백, 11개월 만에 발매한 신곡은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196561",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[의학 단신] 세브란스병원 外",
+    "newsSubTitle": "",
+    "newsContent": "◆ 세브란스병원은 18일 오후 1시부터 의대 대강당에서 '녹내장 바로알기'를 주제로 무료검진과 건강강좌를 실시한다.02-361-8507 ◆ 다산 의료기(대표 이종찬)는 미국.독일 등 10여개 국가에 수출하던 자가 혈당측정기 '파인 테스트'를 국내 판매한다고 최근 밝혔다.\n미국 FDA 인증 획득을 위한 임상시험 결과 10~20%의 통상 허용 오차를 대폭 줄인 3% 미만의 오차(97.9% 측정 정확도)를 나타냈다.\n센서가 달린 스트립(채취 시험지)에 3㎕의 채취한 혈액을 삽입하면 혈당치가 9초 안에 자동 측정된다.\n080-340-3999 ◆ 한국 MSD는 소아 천식과 알레르기 비염의 예방과 증상 완화를 위한 싱귤레어 과립 4mg을 출시했다.\n정제형에 이어 나온 과립 제형은 무미한 분말 제제로 흡입기 사용이 어려운 영유아에게도 도움을 줄 것이라고 회사 측은 밝혔다.\n하루 1회 한포씩 직접 먹거나 미지근한 연한 음식(으깬 당근, 밥, 아이스크림 등)에 섞어 복용할 수 있다.\n◆ 미국 식품의약청은 노바티스의 장운동 촉진제인 젤막(성분:테가세로드)을 65세 미만 남성의 만성 변비 1차 치료제로 사용할 수 있도록 추가 승인했다.\n이에 앞서 3개월 동안 2600명 이상의 남녀 환자에게 젤막을 사용한 결과 만성변비 환자들에게 흔한 과도한 힘주기, 굳은 변, 복부 팽만감과 같은 증상을 완화시키고, 잔변감 없는 완전한 배변 횟수를 증가시킨 것으로 나타났다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆ 세브란스병원은 18일 오후 1시부터 의대 대강당에서 '녹내장 바로알기'를 주제로 무료검진과 건강강좌를 실시한다.02-361-8507 ◆ 다산 의료기(대표 이종찬)는 미국.독일 등 10여개 국가에 수출하던 자가 혈당측정기 '파인 테스트'를 국내 판매한다고 최근 밝혔다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미국 FDA 인증 획득을 위한 임상시험 결과 10~20%의 통상 허용 오차를 대폭 줄인 3% 미만의 오차(97.9% 측정 정확도)를 나타냈다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "센서가 달린 스트립(채취 시험지)에 3㎕의 채취한 혈액을 삽입하면 혈당치가 9초 안에 자동 측정된다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "080-340-3999 ◆ 한국 MSD는 소아 천식과 알레르기 비염의 예방과 증상 완화를 위한 싱귤레어 과립 4mg을 출시했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정제형에 이어 나온 과립 제형은 무미한 분말 제제로 흡입기 사용이 어려운 영유아에게도 도움을 줄 것이라고 회사 측은 밝혔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하루 1회 한포씩 직접 먹거나 미지근한 연한 음식(으깬 당근, 밥, 아이스크림 등)에 섞어 복용할 수 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "◆ 미국 식품의약청은 노바티스의 장운동 촉진제인 젤막(성분:테가세로드)을 65세 미만 남성의 만성 변비 1차 치료제로 사용할 수 있도록 추가 승인했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 앞서 3개월 동안 2600명 이상의 남녀 환자에게 젤막을 사용한 결과 만성변비 환자들에게 흔한 과도한 힘주기, 굳은 변, 복부 팽만감과 같은 증상을 완화시키고, 잔변감 없는 완전한 배변 횟수를 증가시킨 것으로 나타났다.",
+        "sentenceSize": 125
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'파인 테스트' 국내 판매... 눈 깜짝할 새 혈당치 자동 측정",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

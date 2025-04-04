@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196783",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "힐리언스 \\\"히말라야 명상요가 배우러 오세요\\\"",
+    "newsSubTitle": "18~31일 협회 한국지부 회원과 연속 강의",
+    "newsContent": "힐리언스 선마을(촌장 이시형)이 이달 18~31일 히말라야 명상요가연합회 연합 한국지부 회원과 히말라야 전통 요가명상법을 알려주는 프로그램을 개설한다고 11일 밝혔다.\n히말라야 명상요가 연합회 연합은 인도의 성자로 불리는 스와미 라마(1925~1996)가 설립한 히말라야학회의 한국지부다.\n스와미 라마의 히말라야 요가명상은 특정한 믿음체계를 따르지 않는 순수한 요가명상 전통과 과학적인 방식으로 고대 요가 스승들의 계보로 이어진 가르침의 전승을 이어가고 있다.\n히말라야 전통의 요가 수련은 올바른 자세로 앉기를 배우고 완전히 이완하기 그리고 올바른 호흡을 수련한다.\n또 명상을 위한 생각과 감정의 정화, 호흡주시 수련을 체계적으로 배우고 통합해 수업에 연결시킨다.\n힐리언스와 히말라야 명상요가 연합회 연합이 마련한 이벤트에는 강미영 강사(상지대학원 체육학과 외래교수), 김미경 강사(원광대 동양학대학원 요가학과 초빙교수) 등 강사 12명이 릴레이로 요가를 진행한다.\n프로그램은 △기초적인 요가자세 누워서 하는 이완자세 △호흡주시와 수리야나 마스까라 △명상적인 아사나 6단계와 이완 △아사나와 호흡 △관절의 움직임과 자세의 연관성 등 다양한 주제로 릴레이 강의를 펼친다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "힐리언스 선마을(촌장 이시형)이 이달 18~31일 히말라야 명상요가연합회 연합 한국지부 회원과 히말라야 전통 요가명상법을 알려주는 프로그램을 개설한다고 11일 밝혔다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "히말라야 명상요가 연합회 연합은 인도의 성자로 불리는 스와미 라마(1925~1996)가 설립한 히말라야학회의 한국지부다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "스와미 라마의 히말라야 요가명상은 특정한 믿음체계를 따르지 않는 순수한 요가명상 전통과 과학적인 방식으로 고대 요가 스승들의 계보로 이어진 가르침의 전승을 이어가고 있다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "히말라야 전통의 요가 수련은 올바른 자세로 앉기를 배우고 완전히 이완하기 그리고 올바른 호흡을 수련한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 명상을 위한 생각과 감정의 정화, 호흡주시 수련을 체계적으로 배우고 통합해 수업에 연결시킨다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "힐리언스와 히말라야 명상요가 연합회 연합이 마련한 이벤트에는 강미영 강사(상지대학원 체육학과 외래교수), 김미경 강사(원광대 동양학대학원 요가학과 초빙교수) 등 강사 12명이 릴레이로 요가를 진행한다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "프로그램은 △기초적인 요가자세 누워서 하는 이완자세 △호흡주시와 수리야나 마스까라 △명상적인 아사나 6단계와 이완 △아사나와 호흡 △관절의 움직임과 자세의 연관성 등 다양한 주제로 릴레이 강의를 펼친다.",
+        "sentenceSize": 113
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "히말라야 요가명상 강좌 개설… 한 번만 들어도 스와미 라마의 가르침이 그대로",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

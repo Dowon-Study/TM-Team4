@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199077",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "한미약품-MSD,‘로수젯’ 해외 23개국 수출 계약",
+    "newsSubTitle": "아모잘탄 수출계약 이어 두 번째 파트너십",
+    "newsContent": "[권선미 기자] 한미약품은 자체 개발한 고지혈증치료제 ‘로수젯’이 다국적제약시 MSD를 통해 해외 23개국으로 수출된다고 4일밝혔다.\n이번 수출 계약은 고혈압치료 복합제 ‘아모잘탄’(코자XQ)에 이은 두 번째 글로벌 파트너십이다.\n한미약품과 MSD는 최근 로수젯 수출에 대한 라이선스 계약을 체결하고, 로수젯10/5mg, 10/10mg, 10/20mg 세 가지 용량을 23개국(한국 제외)에 수출할 예정이다.\n로수젯은 고지혈증치료 성분인 ‘로수바스타틴’과 ‘에제티미브’를 결합한 복합제로, 간과 소장에서 콜레스테롤 합성 및 흡수를 이중으로 억제한다.\n회사 측은 기존 단일제로 충분히 치료되지 않았던 고지혈증 환자에게 유용할 것으로 기대하고 있다.\n이번 계약에 따라 한미약품은 로수젯 글로벌 수출을 위한 연구개발 및 생산을 맡고, MSD는 수출 국가의 마케팅 및 판매를 전담한다.\nMSD 이머징마켓(Emerging market) 총괄 케빈 알리(Kevin Ali) 사장은 “아모잘탄에 이어 한미약품과 또 한번 파트너십을 이어가게 돼 기쁘다”며 “혁신적이고 상호 윈윈할 수 있는 다양한 협력관계를 통해 이를 실천할 수 있도록 노력하겠다”고 말했다.\n한미약품 이관순 대표이사는 “글로벌 네트워크를 갖춘 MSD와의 파트너십을 통해 ‘로수젯’의 해외 진출을 보다 빠르고 폭넓게 추진할 수 있게 됐다”며 “로수젯의 수출 대상 국가를 확대하기 위한 추가 협의도 지속해 나갈 예정”이라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[권선미 기자] 한미약품은 자체 개발한 고지혈증치료제 ‘로수젯’이 다국적제약시 MSD를 통해 해외 23개국으로 수출된다고 4일밝혔다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번 수출 계약은 고혈압치료 복합제 ‘아모잘탄’(코자XQ)에 이은 두 번째 글로벌 파트너십이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한미약품과 MSD는 최근 로수젯 수출에 대한 라이선스 계약을 체결하고, 로수젯10/5mg, 10/10mg, 10/20mg 세 가지 용량을 23개국(한국 제외)에 수출할 예정이다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "로수젯은 고지혈증치료 성분인 ‘로수바스타틴’과 ‘에제티미브’를 결합한 복합제로, 간과 소장에서 콜레스테롤 합성 및 흡수를 이중으로 억제한다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "회사 측은 기존 단일제로 충분히 치료되지 않았던 고지혈증 환자에게 유용할 것으로 기대하고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 계약에 따라 한미약품은 로수젯 글로벌 수출을 위한 연구개발 및 생산을 맡고, MSD는 수출 국가의 마케팅 및 판매를 전담한다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "MSD 이머징마켓(Emerging market) 총괄 케빈 알리(Kevin Ali) 사장은 “아모잘탄에 이어 한미약품과 또 한번 파트너십을 이어가게 돼 기쁘다”며 “혁신적이고 상호 윈윈할 수 있는 다양한 협력관계를 통해 이를 실천할 수 있도록 노력하겠다”고 말했다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한미약품 이관순 대표이사는 “글로벌 네트워크를 갖춘 MSD와의 파트너십을 통해 ‘로수젯’의 해외 진출을 보다 빠르고 폭넓게 추진할 수 있게 됐다”며 “로수젯의 수출 대상 국가를 확대하기 위한 추가 협의도 지속해 나갈 예정”이라고 밝혔다.",
+        "sentenceSize": 132
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "다국적제약사 MSD와 파트너십 맺은 '이 회사'... 자체 개발한 치료제 화제!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

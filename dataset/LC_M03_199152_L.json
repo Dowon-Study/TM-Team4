@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199152",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 천연 원료 17종 넣고 인공 감미료 뺀 영양식품",
+    "newsSubTitle": "웰빙 제품 - 자생비책 어린이홍삼",
+    "newsContent": "자생한방병원 관계사인 자생바이오가 어린이를 위한 건강기능식품 ‘자생비책 어린이홍삼’(사진)을 출시했다.\n이 제품은 강원인삼농협에서 생산한 6년근 홍삼과 영지 농축액, 가시오가피 농축액 등 17가지 전통 원료 추출물을 혼합한 것이다.\n홍삼의 핵심 성분은 생리활성 물질인 사포닌(진세노사이드)이다.\n진세노사이드는 뇌 신경세포를 보호하고 신경전달물질 분비를 도와 기억력과 학습 능력을 높인다.\n면역력 개선과 피로회복, 혈행 개선 등 효과가 다양하다.\n자생비책 어린이홍삼의 진세노사이드(Rg1, Rb1, Rg3)는 1포(20ml)에 3mg으로 식품의약품안전처가 제시한 홍삼 건강기능식품의 기능성분 함량을 충족했다.\n무설탕·무시럽·무합성착향료·무합성감미료 같은 ‘4無 제품’이란 점도 특징이다.\n자연 원료인 벌꿀과 배 농축액으로 건강한 단맛을 냈다.\n자생비책 어린이홍삼은 전국 18개 자생한방병·의원 내 자생바이오 숍이나 온라인 쇼핑몰에서 구매할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "자생한방병원 관계사인 자생바이오가 어린이를 위한 건강기능식품 ‘자생비책 어린이홍삼’(사진)을 출시했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 제품은 강원인삼농협에서 생산한 6년근 홍삼과 영지 농축액, 가시오가피 농축액 등 17가지 전통 원료 추출물을 혼합한 것이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "홍삼의 핵심 성분은 생리활성 물질인 사포닌(진세노사이드)이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "진세노사이드는 뇌 신경세포를 보호하고 신경전달물질 분비를 도와 기억력과 학습 능력을 높인다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "면역력 개선과 피로회복, 혈행 개선 등 효과가 다양하다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "자생비책 어린이홍삼의 진세노사이드(Rg1, Rb1, Rg3)는 1포(20ml)에 3mg으로 식품의약품안전처가 제시한 홍삼 건강기능식품의 기능성분 함량을 충족했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "무설탕·무시럽·무합성착향료·무합성감미료 같은 ‘4無 제품’이란 점도 특징이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "자연 원료인 벌꿀과 배 농축액으로 건강한 단맛을 냈다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "자생비책 어린이홍삼은 전국 18개 자생한방병·의원 내 자생바이오 숍이나 온라인 쇼핑몰에서 구매할 수 있다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "자생바이오, 천연 원료 이용한 어린이용 '이것' 출시해... 기대되는 효과는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197207",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[디카에세이] 목마르요, 물 좀 주소",
+    "newsSubTitle": "",
+    "newsContent": "육신의 목마름은/ 순간이지만/ 영혼의 목마름은/ 영원한 것인가 당신의 말씀을 파헤치고/ 얼마만큼 깊이 들어가야/ 그 밑바닥 하늘을 담은 푸른 빛깔이/ 영혼의 갈증을 채워 줄까 -박덕중의 '갈증' 중에서 박문길(49.회사원.서울 마장동) '느낌'이 있는 사진을 기다립니다.\n채택된 분께는 원고료를, 월간 최우수작 한 편엔 Canon에서 디카 IXUS55를 드립니다.\n간단한 설명과 함께 주소.전화번호를 꼭 써주십시오.\n보내실 e-메일 주소는입니다.\n4월 최우수작으로는 21일자에 실린 신의섭씨의 사진 '첫사랑과 매화'가 선정됐습니다.\n디지털카메라는 댁으로 보내 드립니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "육신의 목마름은/ 순간이지만/ 영혼의 목마름은/ 영원한 것인가 당신의 말씀을 파헤치고/ 얼마만큼 깊이 들어가야/ 그 밑바닥 하늘을 담은 푸른 빛깔이/ 영혼의 갈증을 채워 줄까 -박덕중의 '갈증' 중에서 박문길(49.회사원.서울 마장동) '느낌'이 있는 사진을 기다립니다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "채택된 분께는 원고료를, 월간 최우수작 한 편엔 Canon에서 디카 IXUS55를 드립니다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "간단한 설명과 함께 주소.전화번호를 꼭 써주십시오.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보내실 e-메일 주소는입니다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "4월 최우수작으로는 21일자에 실린 신의섭씨의 사진 '첫사랑과 매화'가 선정됐습니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "디지털카메라는 댁으로 보내 드립니다.",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "온 국민 홀릴 '느낌'이 있는 사진을 기다립니다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

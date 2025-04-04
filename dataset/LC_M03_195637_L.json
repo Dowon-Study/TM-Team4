@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195637",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "日간사이공항 집단홍역…한국인 이용자들 조심",
+    "newsSubTitle": "",
+    "newsContent": "일본 간사이 공항 근무자들이 집단으로 홍역에 걸렸다.\n2일 교도통신에 따르면 지난달 일본 오사카에 있는 간사이공항의 한 여성 근무자가 홍역 판정을 받았다.\n오늘까지 홍역 확진자는 31명으로 늘었다.\n대부분 20~30대 남녀로서, 대부분 접객 업무를 담당하고 있다.\n오사카부는 지난달 17일 이후 간사이공항 이용자들 중 고열, 기침, 발진 등의 증상이 나타나면 반드시 진료를 받으라고 당부했다.\n간사이공항은 한국인 관광객도 많이 이용하는 곳이다.\n서울ㆍ인천ㆍ부산공항에서 오가는 항공기가 하루에 20편이 넘는다.\n아직까지 간사이공항 이용자 중 국내에서 홍역 판정을 받은 사람은 나타나지 않았다.\n하지만 지난달부터 최근까지 간사이공항을 이용한 사람들의 각별한 주의가 필요하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일본 간사이 공항 근무자들이 집단으로 홍역에 걸렸다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2일 교도통신에 따르면 지난달 일본 오사카에 있는 간사이공항의 한 여성 근무자가 홍역 판정을 받았다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오늘까지 홍역 확진자는 31명으로 늘었다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대부분 20~30대 남녀로서, 대부분 접객 업무를 담당하고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오사카부는 지난달 17일 이후 간사이공항 이용자들 중 고열, 기침, 발진 등의 증상이 나타나면 반드시 진료를 받으라고 당부했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "간사이공항은 한국인 관광객도 많이 이용하는 곳이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "서울ㆍ인천ㆍ부산공항에서 오가는 항공기가 하루에 20편이 넘는다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아직까지 간사이공항 이용자 중 국내에서 홍역 판정을 받은 사람은 나타나지 않았다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하지만 지난달부터 최근까지 간사이공항을 이용한 사람들의 각별한 주의가 필요하다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한국인 관광객 많은 간사이공항 근무자들 집단 홍역 확진... 주의할 사항은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

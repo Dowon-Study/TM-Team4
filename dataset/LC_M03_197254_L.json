@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197254",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "'시카고 국제도서전' 31일부터 개막",
+    "newsSubTitle": "",
+    "newsContent": "미국의 가장 큰 도서전인 시카고 국제도서전이 지난달 31일부터 4일까지 시카고 맥코믹 플레이스에서 열리고 있다.\n미국출판협회전(ABA)이란 이름으로 매년 열리던 행사를 올해부터 북 엑스포 아메리카(Book Expo America)로 이름을 바꾸고 규모를 대폭 늘렸다.\n주최측은 지난해 예행행사에서 미국을 포함해 83개국에서 2만1천여명의 출판인이 참여했기 때문에 올해는 더 많은 참관인이 들를 것으로 기대하고 있다.\n주최측은 몇년안에 프랑크푸르트 도서전을 능가하는 국제도서전으로 키우겠다는 의지를 보이고 있다.\n특히 지난해까지는 영어권 책만 전시해 지역적 성격이 강했다면, 올해는 스페인어 섹션을 따로 마련하는 등 비영어권 책 전시를 대폭 강화해 이런 기대를 만족시켜 줄 것으로 보인다.\n또 지난해까지는 미국출판협회와의 갈등으로 미국 내의 주요 출판사 참여율이 저조해 행사가 상대적으로 위축됐으나 올해는 하퍼콜린스와 펭귄 USA.랜덤 하우스 등 미국 10대 출판사가 모두 참가하고 있다.\n주최측은 참가출판사가 2천 개가 넘는다고 밝혔다.\n국내 출판사 가운데 이번 북 엑스포에 부스를 만들어 참가하는 곳은 업으나 행사 규모가 커진 데다 세계의 주요 출판사들이 모두 참가하는 까닭에 참관인 자격으로 시카고를 방문하는 국내출판인들은 60여 명에 이른다. 2만8천평방m에 이르는 대규모 공간에서 열리는 이번 북엑스포에서는 책뿐만 아니라 서점에서 판매하는 상품 및 출판에 필요한 새로운 기술도 함께 선보여 출판의 미래를 보는 데도 유용한 자리가 되고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미국의 가장 큰 도서전인 시카고 국제도서전이 지난달 31일부터 4일까지 시카고 맥코믹 플레이스에서 열리고 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미국출판협회전(ABA)이란 이름으로 매년 열리던 행사를 올해부터 북 엑스포 아메리카(Book Expo America)로 이름을 바꾸고 규모를 대폭 늘렸다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "주최측은 지난해 예행행사에서 미국을 포함해 83개국에서 2만1천여명의 출판인이 참여했기 때문에 올해는 더 많은 참관인이 들를 것으로 기대하고 있다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "주최측은 몇년안에 프랑크푸르트 도서전을 능가하는 국제도서전으로 키우겠다는 의지를 보이고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 지난해까지는 영어권 책만 전시해 지역적 성격이 강했다면, 올해는 스페인어 섹션을 따로 마련하는 등 비영어권 책 전시를 대폭 강화해 이런 기대를 만족시켜 줄 것으로 보인다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 지난해까지는 미국출판협회와의 갈등으로 미국 내의 주요 출판사 참여율이 저조해 행사가 상대적으로 위축됐으나 올해는 하퍼콜린스와 펭귄 USA.랜덤 하우스 등 미국 10대 출판사가 모두 참가하고 있다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "주최측은 참가출판사가 2천 개가 넘는다고 밝혔다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "국내 출판사 가운데 이번 북 엑스포에 부스를 만들어 참가하는 곳은 업으나 행사 규모가 커진 데다 세계의 주요 출판사들이 모두 참가하는 까닭에 참관인 자격으로 시카고를 방문하는 국내출판인들은 60여 명에 이른다. 2만8천평방m에 이르는 대규모 공간에서 열리는 이번 북엑스포에서는 책뿐만 아니라 서점에서 판매하는 상품 및 출판에 필요한 새로운 기술도 함께 선보여 출판의 미래를 보는 데도 유용한 자리가 되고 있다.",
+        "sentenceSize": 229
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"프랑크푸르트 도서전, 곧 짓눌러줄게\"... 시카고 국제도서전 31일부터 개최",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

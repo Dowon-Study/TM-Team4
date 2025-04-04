@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195370",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스 신간 『가족 치료로 암을 없앤다』外1건",
+    "newsSubTitle": "",
+    "newsContent": "우리나라 국민 10명 중 3명이 암에 걸린다.\n한국인 대부분이 암에 걸렸거나 암에 걸린 가족을 뒀다는 의미다. 『가족 치료로 암을 없앤다』는 암 환자 가족을 위한 지침서다.\n암 환자를 둔 가족의 마음가짐부터 병원을 선택하고 의사를 대하는 법, 시한부 선고를 받았을 때의 행동 지침을 안내한다.\n암 통합 의료 코디네이터이자 약학박사인 저자가 어머니를 간병하며 깨달은 48가지 가족 치료법을 담았다.\n건강은 평생 관리하며 지켜야 한다.\n그러려면 정확하고 유용한 건강 정보가 필요하다. 『사소하지만 쓸모 있는 건강법』은 비교적 짧은 글로 구성돼 있지만 즉각적으로 실천할 수 있는 건강 지침을 다룬다.\n저자인 프랑스 의사가 건강에 이로운 식품의 효능부터 무병장수할 수 있는 생활습관과 운동법을 알려준다.\n하루에 몇 분만 투자하거나 다른 일을 하면서 병행할 수 있는 실천법을 소개한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우리나라 국민 10명 중 3명이 암에 걸린다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국인 대부분이 암에 걸렸거나 암에 걸린 가족을 뒀다는 의미다. 『가족 치료로 암을 없앤다』는 암 환자 가족을 위한 지침서다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "암 환자를 둔 가족의 마음가짐부터 병원을 선택하고 의사를 대하는 법, 시한부 선고를 받았을 때의 행동 지침을 안내한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "암 통합 의료 코디네이터이자 약학박사인 저자가 어머니를 간병하며 깨달은 48가지 가족 치료법을 담았다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "건강은 평생 관리하며 지켜야 한다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러려면 정확하고 유용한 건강 정보가 필요하다. 『사소하지만 쓸모 있는 건강법』은 비교적 짧은 글로 구성돼 있지만 즉각적으로 실천할 수 있는 건강 지침을 다룬다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "저자인 프랑스 의사가 건강에 이로운 식품의 효능부터 무병장수할 수 있는 생활습관과 운동법을 알려준다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하루에 몇 분만 투자하거나 다른 일을 하면서 병행할 수 있는 실천법을 소개한다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우리나라 국민의 적 암... 가장 효과적인 치료법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

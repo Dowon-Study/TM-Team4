@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196769",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 당신] 약으로 조절 안 되는 고혈압, 임상시험 참여하세요",
+    "newsSubTitle": "[알림]",
+    "newsContent": "고령 인구가 늘면서 약을 먹어도 혈압이 조절되지 않는 ‘저항성 고혈압’ 환자가 늘고 있다.\n저항성 고혈압 환자는 심·뇌혈관질환과 신장질환 합병증의 발생 위험이 더 높은 것으로 보고된다.\n하지만 아직 이렇다 할 치료 방법이 없는 게 현실이다.\n최근 들어 저항성 고혈압 치료에도 청신호가 켜지고 있다.\n신(新)의료기술인 신장신경차단술이 시도되면서 이를 위한 의료기기가 개발되고 있다.\n신장신경차단술은 신장 교감신경을 차단해 혈압을 떨어뜨리는 방법이다.\n대퇴부의 최소 부위만 절개하기 때문에 평균 시술시간이 40~60분 소요된다.\n부작용과 합병증이 적고 시술 당일 퇴원하거나 하루쯤 입원하면 된다.\n이와 관련해 한독의 의료기기 연구개발(R&D) 자회사인 한독칼로스메디칼은 정확도가 더 높아진 차세대 의료기기를 개발하고 있다.\n신촌세브란스병원, 서울성모병원, 서울대병원에서 초기 임상시험을 진행하는데 현재 임상시험 대상자를 모집 중이다.\n지원 대상은 만 20세 이상 성인으로 세 가지의 고혈압 약물(혈액순환제, 아스피린 제외)을 복용하고도 수축기 혈압이 150㎜Hg 이상, 이완기 혈압이 90㎜Hg 이상인 환자다.\n참여자는 저항성 고혈압 치료를 위한 신장신경차단시술을 받게 되며 진료비·검사비 등을 제공받는다.\n또 자동혈압계와 소정의 교통비가 지급된다.\n문의 및 신청 02-527-5082.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "고령 인구가 늘면서 약을 먹어도 혈압이 조절되지 않는 ‘저항성 고혈압’ 환자가 늘고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "저항성 고혈압 환자는 심·뇌혈관질환과 신장질환 합병증의 발생 위험이 더 높은 것으로 보고된다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 아직 이렇다 할 치료 방법이 없는 게 현실이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최근 들어 저항성 고혈압 치료에도 청신호가 켜지고 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신(新)의료기술인 신장신경차단술이 시도되면서 이를 위한 의료기기가 개발되고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "신장신경차단술은 신장 교감신경을 차단해 혈압을 떨어뜨리는 방법이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "대퇴부의 최소 부위만 절개하기 때문에 평균 시술시간이 40~60분 소요된다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "부작용과 합병증이 적고 시술 당일 퇴원하거나 하루쯤 입원하면 된다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이와 관련해 한독의 의료기기 연구개발(R&D) 자회사인 한독칼로스메디칼은 정확도가 더 높아진 차세대 의료기기를 개발하고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "신촌세브란스병원, 서울성모병원, 서울대병원에서 초기 임상시험을 진행하는데 현재 임상시험 대상자를 모집 중이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "지원 대상은 만 20세 이상 성인으로 세 가지의 고혈압 약물(혈액순환제, 아스피린 제외)을 복용하고도 수축기 혈압이 150㎜Hg 이상, 이완기 혈압이 90㎜Hg 이상인 환자다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "참여자는 저항성 고혈압 치료를 위한 신장신경차단시술을 받게 되며 진료비·검사비 등을 제공받는다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "또 자동혈압계와 소정의 교통비가 지급된다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "문의 및 신청 02-527-5082.",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "약 먹어도 절망했던 고혈압 환자, 최신 의료기술과 임상시험 참여로 완벽히 극복",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

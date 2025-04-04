@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195634",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "'여드름' 환자 10대보다 20대가 더 많다",
+    "newsSubTitle": "20대 여성 환자 여드름으로 병원 가장 많이 찾아",
+    "newsContent": "20대 여성 환자가 여드름으로 병원을 가장 많이 찾은 것으로 나타났다.\n국민건강보험공단이 2010~2015년까지 여드름 질환과 관련된 건강보험 지급자료를 분석한 결과다.\n이에 따르면 여드름 진료인원은 2010년 10만 1000명에서 2015년 11만 1000명으로 1만 명(9.7%) 쯤 증가했다.\n같은 기간 남성은 4만 1000명에서 4만 9000명으로, 여성은 6만 명에서 6만 2000명으로 각각 늘었다.\n연령대별로 20대가 가장 많은 비중을 차지했다.\n2010년 42.3%, 지난해는 43.1%였다.\n지난해 기준, 20대의 뒤를 이어 10대(31.1%), 30대(14.8%)가 병원을 많이 찾았다.\n인구 10만 명 당 진료인원을 연령대별로 살펴 보면, 여성은 20대가 857명으로 가장 많았고, 10대 619명, 30대 286명 순으로 집계됐다.\n남성은 10대가 636명, 20대 567명, 30대 139명 순으로 10대가 20대보다 더 많았다.\n건국대학교 예방의학교실 김형수 교수(국민건강보험공단 전문위원)는 이에 대해“여드름이 자주 발생하는 연령대는 주로 10대 중후반에서 20대 중․후반까지이다.\n10대는 중·고등학생으로 상대적으로 병․의원을 찾을 시간적 여유가 적은 반면, 20대는 병․의원을 찾을 기회가 많아서 일 것\\\"이란 의견을 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "20대 여성 환자가 여드름으로 병원을 가장 많이 찾은 것으로 나타났다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국민건강보험공단이 2010~2015년까지 여드름 질환과 관련된 건강보험 지급자료를 분석한 결과다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 따르면 여드름 진료인원은 2010년 10만 1000명에서 2015년 11만 1000명으로 1만 명(9.7%) 쯤 증가했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "같은 기간 남성은 4만 1000명에서 4만 9000명으로, 여성은 6만 명에서 6만 2000명으로 각각 늘었다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연령대별로 20대가 가장 많은 비중을 차지했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2010년 42.3%, 지난해는 43.1%였다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난해 기준, 20대의 뒤를 이어 10대(31.1%), 30대(14.8%)가 병원을 많이 찾았다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "인구 10만 명 당 진료인원을 연령대별로 살펴 보면, 여성은 20대가 857명으로 가장 많았고, 10대 619명, 30대 286명 순으로 집계됐다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "남성은 10대가 636명, 20대 567명, 30대 139명 순으로 10대가 20대보다 더 많았다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "건국대학교 예방의학교실 김형수 교수(국민건강보험공단 전문위원)는 이에 대해“여드름이 자주 발생하는 연령대는 주로 10대 중후반에서 20대 중․후반까지이다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "10대는 중·고등학생으로 상대적으로 병․의원을 찾을 시간적 여유가 적은 반면, 20대는 병․의원을 찾을 기회가 많아서 일 것\\\"이란 의견을 밝혔다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'여드름' 환자, 10대가 많을까, 20대가 많을까? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

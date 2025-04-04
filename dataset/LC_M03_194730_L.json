@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194730",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[이책과주말을] 리더의 최고 무기는 '두둑한 배짱'",
+    "newsSubTitle": "",
+    "newsContent": "것츠! 케빈 & 재키 프라이버그 지음 황금부엉이, 328쪽, 1만2800원 \\\"직원들에게 당신이야말로 왕이자 주인임을 각인시켜라.\\\" 이 책의 메시지는 월급쟁이들에겐 꿈같은 얘기다.\n경영자들도 콧방귀를 뀔지 모른다.\n말이야 쉽지만 그래서야 성과가 나겠냐면서…. 그에 대한 이 책의 답변은 배짱.용기.결단력 등을 뜻하는 제목(guts)에 들어 있다.\n한마디로 배짱 두둑한 리더만이 할 수 있는 일이고, 이런 배짱은 혁신형 리더의 최고 덕목이라는 얘기다.\n경영컨설턴트로 활동중인 저자 부부는 유머경영으로 유명한 미국의 저가항공사 사우스웨스트의 기업문화를 해부한 '너츠'를 썼던 이들. 이 책에서는 한결 다양한 미국기업을 실례로 삼는다.\n소프트웨어회사 SAS에는 연로한 부모 돌보기 등을 도와주는 '가정생활부'가 있는가 하면, 식료품 유통업체 홀마켓은 직원 전체의 연봉을 포함한 거의 모든 경영정보를 공개한다.\n해당기업의 경영실적 역시 훌륭하다.\n이유는 인재가 모여들고, 창의력이 발휘된 데 따른 결과라는 것을 이 책을 사례를 들어 설명한다.\n이를 바탕으로'상식을 뒤집으라''재미있게 일하라'같은 원칙론과 인재채용의 주안점 등 실용기술을 소개하는 균형감이 돋보인다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "것츠! 케빈 & 재키 프라이버그 지음 황금부엉이, 328쪽, 1만2800원 \\\"직원들에게 당신이야말로 왕이자 주인임을 각인시켜라.\\\" 이 책의 메시지는 월급쟁이들에겐 꿈같은 얘기다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "경영자들도 콧방귀를 뀔지 모른다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "말이야 쉽지만 그래서야 성과가 나겠냐면서…. 그에 대한 이 책의 답변은 배짱.용기.결단력 등을 뜻하는 제목(guts)에 들어 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한마디로 배짱 두둑한 리더만이 할 수 있는 일이고, 이런 배짱은 혁신형 리더의 최고 덕목이라는 얘기다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "경영컨설턴트로 활동중인 저자 부부는 유머경영으로 유명한 미국의 저가항공사 사우스웨스트의 기업문화를 해부한 '너츠'를 썼던 이들. 이 책에서는 한결 다양한 미국기업을 실례로 삼는다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소프트웨어회사 SAS에는 연로한 부모 돌보기 등을 도와주는 '가정생활부'가 있는가 하면, 식료품 유통업체 홀마켓은 직원 전체의 연봉을 포함한 거의 모든 경영정보를 공개한다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "해당기업의 경영실적 역시 훌륭하다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이유는 인재가 모여들고, 창의력이 발휘된 데 따른 결과라는 것을 이 책을 사례를 들어 설명한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이를 바탕으로'상식을 뒤집으라''재미있게 일하라'같은 원칙론과 인재채용의 주안점 등 실용기술을 소개하는 균형감이 돋보인다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "다양한 미국기업을 통해 알아보는 리더의 최고 덕목은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

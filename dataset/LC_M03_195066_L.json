@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195066",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "‘육룡이 나르샤’ 남문철, 대장암 투병 중 별세…항년 50세",
+    "newsSubTitle": "",
+    "newsContent": "‘육룡이 나르샤’, ‘38사기동대’ 등에 출연했던 중견 배우 남문철이 대장암 투병 중 별세했다.\n향년 50세. 남문철 소속사 매니지먼트 비케이는 4일 공식입장을 내고 “소속 배우 남문철 씨가 오늘 오전 6시 20분 지병으로 인해 별세했다”고 밝혔다.\n소속사에 따르면 남문철씨는 대장암 판정을 받고 투병을 해오다 숨졌다.\n남문철은 무대 연기로 배우 생활을 시작해 2002년 ‘라이터를 켜라’로 스크린에 데뷔했다.\n이후 드라마 ‘육룡이 나르샤’, ‘38사기동대’, ‘청춘시대’, ‘슈츠’, ‘녹두꽃’ 등과 영화 ‘용의자X’, ‘검은 사제들’, ‘백두산’ 등 여러 작품에 출연했다. ‘육룡이 나르샤’에서는 ‘숭록대부’ 역할을, ‘검은사제들’에서는 보조사제인 ‘박수사’ 역을 맡아 열연을 펼쳤다.\n연극무대에서도 ‘취미의방’, ‘공장’, ‘사랑별곡’, ‘복서와 소년’, 뮤지컬 ‘오케피’, ‘어쌔신’, ‘잭더리퍼’, ‘지하철1호선’ 등에서 활약을 펼쳤다.\n고인의 빈소는 국민건강보험공단 일산병원장례식장 10호실에 마련됐다.\n발인은 오는 6일 오전 6시 30분이며 장지는 부산추모공원이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘육룡이 나르샤’, ‘38사기동대’ 등에 출연했던 중견 배우 남문철이 대장암 투병 중 별세했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "향년 50세. 남문철 소속사 매니지먼트 비케이는 4일 공식입장을 내고 “소속 배우 남문철 씨가 오늘 오전 6시 20분 지병으로 인해 별세했다”고 밝혔다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사에 따르면 남문철씨는 대장암 판정을 받고 투병을 해오다 숨졌다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "남문철은 무대 연기로 배우 생활을 시작해 2002년 ‘라이터를 켜라’로 스크린에 데뷔했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 드라마 ‘육룡이 나르샤’, ‘38사기동대’, ‘청춘시대’, ‘슈츠’, ‘녹두꽃’ 등과 영화 ‘용의자X’, ‘검은 사제들’, ‘백두산’ 등 여러 작품에 출연했다. ‘육룡이 나르샤’에서는 ‘숭록대부’ 역할을, ‘검은사제들’에서는 보조사제인 ‘박수사’ 역을 맡아 열연을 펼쳤다.",
+        "sentenceSize": 155
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연극무대에서도 ‘취미의방’, ‘공장’, ‘사랑별곡’, ‘복서와 소년’, 뮤지컬 ‘오케피’, ‘어쌔신’, ‘잭더리퍼’, ‘지하철1호선’ 등에서 활약을 펼쳤다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "고인의 빈소는 국민건강보험공단 일산병원장례식장 10호실에 마련됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "발인은 오는 6일 오전 6시 30분이며 장지는 부산추모공원이다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중견 배우 남문철, 대장암 투병 중 별세... 그의 대표 작품은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

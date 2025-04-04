@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194332",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "“모차르트 음악 틀어줘봐야…”",
+    "newsSubTitle": "",
+    "newsContent": "아기에게 강제로 클래식 음악을 틀어준다고 천재를 만들 수 있는 것은 아니다.\n오히려 짜증과 반항심만 키울 수도 있다.\n모차르트 같은 클래식 음악뿐만 아니라 외국어 회화 테이프도 마찬가지다.\n가끔씩 아기를 혼자 내버려둘 필요가 있다.\n영국에서 최근 출간된 『강요 상태: 과잉 양육 문화에서 우리 아이들을 구출하기』(Under Pressure: Rescuing Our Children from the Culture of Hyper-Parenting)가 내린 결론이다.\n1993년 모차르트 음악을 들으면 공간 추리력이 향상되고 피아노 협주곡을 들으면 지능이 향상된다는‘모차르트 이펙트(Mozart Effect)’가 선풍적인 인기를 끌었다. ‘모차르트 이펙트’라는 타이틀을 내건 음반 기획물은 지금도 음반 매장의 한 코너를 차지하고 있다.\n모차르트 음악을 들으면 스트레스 경감은 물론 심장 박동수도 떨어져 심장병에 효과가 있는 것으로 알려졌다.\n하지만 2007년 독일교육부가 신경과학자, 심리학자, 교육학자, 철학자 등으로 구성된 연구팀에 연구 용역을 주어 ‘모차르트 이펙트’관련 기존의 연구 결과를 면밀히 분석한 결과, 모차르트 음악을 듣고 나서 공간-시간적 추론 능력이 향상되긴 했지만 그 효과가 20분을 채 못 넘겼다는 결론을 내렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아기에게 강제로 클래식 음악을 틀어준다고 천재를 만들 수 있는 것은 아니다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오히려 짜증과 반항심만 키울 수도 있다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "모차르트 같은 클래식 음악뿐만 아니라 외국어 회화 테이프도 마찬가지다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "가끔씩 아기를 혼자 내버려둘 필요가 있다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "영국에서 최근 출간된 『강요 상태: 과잉 양육 문화에서 우리 아이들을 구출하기』(Under Pressure: Rescuing Our Children from the Culture of Hyper-Parenting)가 내린 결론이다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1993년 모차르트 음악을 들으면 공간 추리력이 향상되고 피아노 협주곡을 들으면 지능이 향상된다는‘모차르트 이펙트(Mozart Effect)’가 선풍적인 인기를 끌었다. ‘모차르트 이펙트’라는 타이틀을 내건 음반 기획물은 지금도 음반 매장의 한 코너를 차지하고 있다.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "모차르트 음악을 들으면 스트레스 경감은 물론 심장 박동수도 떨어져 심장병에 효과가 있는 것으로 알려졌다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 2007년 독일교육부가 신경과학자, 심리학자, 교육학자, 철학자 등으로 구성된 연구팀에 연구 용역을 주어 ‘모차르트 이펙트’관련 기존의 연구 결과를 면밀히 분석한 결과, 모차르트 음악을 듣고 나서 공간-시간적 추론 능력이 향상되긴 했지만 그 효과가 20분을 채 못 넘겼다는 결론을 내렸다.",
+        "sentenceSize": 165
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이에게 클래식 음악을 들려주면 모차르트처럼 위대한 음악가가 될 수 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

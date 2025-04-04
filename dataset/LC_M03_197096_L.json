@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197096",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[e말아세요?] 빠, 까",
+    "newsSubTitle": "",
+    "newsContent": "인터넷은 찬반 의견이 첨예하게 대립하는 곳입니다.\n상대방을 낮춰 부르는 말이 많이 등장하는 것도 이 때문이지요.\n특정 인물을 열렬히 지지하는 사람들에는 ‘빠’라는 말이 붙는 것은 다 아시죠? ‘오빠부대’의 약칭입니다.\n황우석 지지자들을 황빠, 노무현 전 대통령 지지자들을 노빠라고 했던 것이 좋은 예겠죠.\n반면 특정 인물을 무조건 비난하는 사람들에게는 ‘까’라는 말이 붙더군요.\n아무개를 까는 사람들에서 나온 말일 텐데요.\n예를 들어 최근 주요 경기에 얼굴을 내밀지 못하고 있는 박지성(맨체스터 유나이티드) 선수도 의외로 박까를 많이 거느리고 있더군요.\n그러나 오빠부대는 다분히 성차별적인 용어고, 까다라는 말도 남의 잘못을 들춘다는 의미의 속어이기 때문에, 빠와 까의 남용을 자제해야겠습니다.\n무엇보다 인터넷이 빠와 까의 대결장으로 전락하는 것이 결코 바람직한 일은 아니니까요.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "인터넷은 찬반 의견이 첨예하게 대립하는 곳입니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "상대방을 낮춰 부르는 말이 많이 등장하는 것도 이 때문이지요.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특정 인물을 열렬히 지지하는 사람들에는 ‘빠’라는 말이 붙는 것은 다 아시죠? ‘오빠부대’의 약칭입니다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "황우석 지지자들을 황빠, 노무현 전 대통령 지지자들을 노빠라고 했던 것이 좋은 예겠죠.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "반면 특정 인물을 무조건 비난하는 사람들에게는 ‘까’라는 말이 붙더군요.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아무개를 까는 사람들에서 나온 말일 텐데요.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "예를 들어 최근 주요 경기에 얼굴을 내밀지 못하고 있는 박지성(맨체스터 유나이티드) 선수도 의외로 박까를 많이 거느리고 있더군요.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러나 오빠부대는 다분히 성차별적인 용어고, 까다라는 말도 남의 잘못을 들춘다는 의미의 속어이기 때문에, 빠와 까의 남용을 자제해야겠습니다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "무엇보다 인터넷이 빠와 까의 대결장으로 전락하는 것이 결코 바람직한 일은 아니니까요.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "빨아주는 '빠'와 까내리는 '까'의 남용",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

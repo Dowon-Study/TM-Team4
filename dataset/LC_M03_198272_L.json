@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198272",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"발생지 3㎞ 이내만 살처분할 듯\\\"",
+    "newsSubTitle": "전북도 \\\"추가 발생 아직 없어\\\"",
+    "newsContent": "26일 의사 AI가 '고병원성'으로 판명난 이모(56)씨의 양계장이 있는 전북 익산시 함열읍 석매리. 총 39가구 110여 명의 주민이 살고 있는 이 마을에는 이날 하루에만 방역 차량이 세 차례나 돌면서 소독을 했다.\n마을 앞 임시 초소에는 경찰.군인 등이 배치돼 외부인과 차량 통행을 엄격히 제한해 마을은 조용했다.\n이곳 양계농가 주인들은 최근 닭값이 떨어져 가뜩이나 어려운데 AI까지 발생해 엎친 데 덮친 격이라며 침통한 모습이다.\n◆ \\\"설마 했는데…\\\"=양계농가들은 \\\"설마 했는데 우려가 현실이 됐다\\\"며 침통함을 감추지 못했다.\n발생 농가와 400m 정도 떨어진 농장에서 삼계탕용 닭 7만여 마리를 키우는 이의택(62)씨는 \\\"부화장에서 들여온 지 20일밖에 안 된 병아리들이라 밤잠까지 설쳐가면서 자식처럼 정성스럽게 돌봐왔는데 갑자기 살처분을 해야 하다니 가슴이 아프다\\\"고 안타까워했다.\n발생 농장에서 3km 정도 떨어져 위험지역으로 분류된 부라마을에서 닭 7만여 마리를 키우는 이주택(52)씨도 \\\"30년 넘게 양계를 해왔는데 이런 일은 처음\\\"이라며 \\\"아직까지는 닭은 이상이 없는데 출하를 할 수 없다니 앞으로 어떻게 해야 할지 막막하다\\\"고 말했다.\n◆ 살처분에 어려움= 감염을 우려해 선뜻 살처분 작업에 나서는 사람이 적어 어려움을 겪고 있다.\n25일 AI가 발생한 이씨 농가의 경우 닭 6000여 마리를 처분하는데 인력을 쉽게 구하지 못해 익산시청 공무원과 닭고기 생산업체인 ㈜하림 직원들이 직접 나서야만 했다.\n26일 시작한 오염지역 내 18만2000여 마리의 닭을 처분하는 데는 연인원 1500여 명이 필요해 3일 이상 걸릴 것으로 예상된다.\n◆ 보상 어떻게 하나=살처분 대상 농가에는 닭을 종계와 육용계.종란 등으로 나눠 보상을 해준다.\n종계는 산란용과 육용에 따라 1만2000~1만3000원, 종란은 병아리 가격의 50%를 준다.\n개.돼지 등은 시가에 맞춰 보상한다.\n전북도 관계자는 \\\"현재까지는 AI가 추가로 발생하지 않고 있어 살처분 규모는 최대 반경 3km를 넘지 않을 것으로 예측하고 있다\\\"고 말했다.\n익산=장대석 기자 ◆ 살처분=전염병이 더 확산하지 않도록 병에 걸린 가축들을 모두 도살, 땅에 묻거나 소각하는 것을 말한다.\n가축을 죽이면 그 안에 살고 있는 병균도 죽어 다른 동물이나 사람에 감염되는 것을 막는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "26일 의사 AI가 '고병원성'으로 판명난 이모(56)씨의 양계장이 있는 전북 익산시 함열읍 석매리. 총 39가구 110여 명의 주민이 살고 있는 이 마을에는 이날 하루에만 방역 차량이 세 차례나 돌면서 소독을 했다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "마을 앞 임시 초소에는 경찰.군인 등이 배치돼 외부인과 차량 통행을 엄격히 제한해 마을은 조용했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이곳 양계농가 주인들은 최근 닭값이 떨어져 가뜩이나 어려운데 AI까지 발생해 엎친 데 덮친 격이라며 침통한 모습이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "◆ \\\"설마 했는데…\\\"=양계농가들은 \\\"설마 했는데 우려가 현실이 됐다\\\"며 침통함을 감추지 못했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "발생 농가와 400m 정도 떨어진 농장에서 삼계탕용 닭 7만여 마리를 키우는 이의택(62)씨는 \\\"부화장에서 들여온 지 20일밖에 안 된 병아리들이라 밤잠까지 설쳐가면서 자식처럼 정성스럽게 돌봐왔는데 갑자기 살처분을 해야 하다니 가슴이 아프다\\\"고 안타까워했다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "발생 농장에서 3km 정도 떨어져 위험지역으로 분류된 부라마을에서 닭 7만여 마리를 키우는 이주택(52)씨도 \\\"30년 넘게 양계를 해왔는데 이런 일은 처음\\\"이라며 \\\"아직까지는 닭은 이상이 없는데 출하를 할 수 없다니 앞으로 어떻게 해야 할지 막막하다\\\"고 말했다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "◆ 살처분에 어려움= 감염을 우려해 선뜻 살처분 작업에 나서는 사람이 적어 어려움을 겪고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "25일 AI가 발생한 이씨 농가의 경우 닭 6000여 마리를 처분하는데 인력을 쉽게 구하지 못해 익산시청 공무원과 닭고기 생산업체인 ㈜하림 직원들이 직접 나서야만 했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "26일 시작한 오염지역 내 18만2000여 마리의 닭을 처분하는 데는 연인원 1500여 명이 필요해 3일 이상 걸릴 것으로 예상된다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "◆ 보상 어떻게 하나=살처분 대상 농가에는 닭을 종계와 육용계.종란 등으로 나눠 보상을 해준다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "종계는 산란용과 육용에 따라 1만2000~1만3000원, 종란은 병아리 가격의 50%를 준다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "개.돼지 등은 시가에 맞춰 보상한다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "전북도 관계자는 \\\"현재까지는 AI가 추가로 발생하지 않고 있어 살처분 규모는 최대 반경 3km를 넘지 않을 것으로 예측하고 있다\\\"고 말했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "익산=장대석 기자 ◆ 살처분=전염병이 더 확산하지 않도록 병에 걸린 가축들을 모두 도살, 땅에 묻거나 소각하는 것을 말한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "가축을 죽이면 그 안에 살고 있는 병균도 죽어 다른 동물이나 사람에 감염되는 것을 막는다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이 질병' 발생한 전북 익산... 주민들 살처분에 어려움 겪어",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

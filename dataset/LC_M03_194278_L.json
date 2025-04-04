@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194278",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[새로나온책] 종이비행기 外",
+    "newsSubTitle": "",
+    "newsContent": "◇종이비행기(고바야시 미노루 지음, 하야시 아키코 그림, 박숙경 옮김, 한림출판사, 24쪽, 9000원, 유아~초등 저학년)=종이비행기를 접는 방법은 하나? 아니다.\n여러 가지 모양으로 접을 수 있다.\n접는 방법과 모양에 따라 날아가는 모습도 제 각각이다.\n바로 여기에서 과학의 원리를 자연스레 터득한다.\n◇내 우산 속으로 들어와(엠 크리스티나 버틀러 지음, 티나 맥너튼 그림, 이상희 옮김, 뜨인돌어린이, 30쪽, 1만1000원, 유아~초등 저학년)=비 오는 날, 매끈매끈 윤이 나는 새 비옷에 장화와 모자 거기에 우산까지 쓰고 밖으로 나간 꼬마 고슴도치는 비에 젖은 두더지의 새 집을 찾아 다니며 모험을 겪는다.\n◇서양 산업의 역사를 바꾼 고래 이야기(마크 포스터 지음, 제럴드 포스터 그림, 장석봉 옮김, 미래아이, 64쪽, 1만800원, 초등생)=고래잡이 마을을 통해 서양을 발전시킨 고래잡이 산업의 역사를 보여준다.\n초기 식민지 개척 시대부터 오늘날에 이르는 미국 역사도 엿볼 수 있다.\n멸종 위기에 처한 고래를 통해 자원의 소중함을 깨닫는다면, 그건 덤이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◇종이비행기(고바야시 미노루 지음, 하야시 아키코 그림, 박숙경 옮김, 한림출판사, 24쪽, 9000원, 유아~초등 저학년)=종이비행기를 접는 방법은 하나? 아니다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여러 가지 모양으로 접을 수 있다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "접는 방법과 모양에 따라 날아가는 모습도 제 각각이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "바로 여기에서 과학의 원리를 자연스레 터득한다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◇내 우산 속으로 들어와(엠 크리스티나 버틀러 지음, 티나 맥너튼 그림, 이상희 옮김, 뜨인돌어린이, 30쪽, 1만1000원, 유아~초등 저학년)=비 오는 날, 매끈매끈 윤이 나는 새 비옷에 장화와 모자 거기에 우산까지 쓰고 밖으로 나간 꼬마 고슴도치는 비에 젖은 두더지의 새 집을 찾아 다니며 모험을 겪는다.",
+        "sentenceSize": 173
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "◇서양 산업의 역사를 바꾼 고래 이야기(마크 포스터 지음, 제럴드 포스터 그림, 장석봉 옮김, 미래아이, 64쪽, 1만800원, 초등생)=고래잡이 마을을 통해 서양을 발전시킨 고래잡이 산업의 역사를 보여준다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "초기 식민지 개척 시대부터 오늘날에 이르는 미국 역사도 엿볼 수 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "멸종 위기에 처한 고래를 통해 자원의 소중함을 깨닫는다면, 그건 덤이다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "종이 비행기 접는 법 몇 가지 알고 있나요?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192981",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "러브스토리 소재삼은 일본어 학습서",
+    "newsSubTitle": "",
+    "newsContent": "러브스토리를 대화의 소재로 삼은 독특한 제목의 일본어 학습서다.\n뻔한 내용이지만 사랑이야기를 엿듣는 일은 언제나 감미롭다.\n컴퓨터채팅으로 호감을 갖게 된 한국인 여성과 일본인 남성 사이에 싹트는 사랑의 감정이 외국어학습에 흥미를 잃지 않게 한다.\n특히 지루할 수도 있는 문법이나 일본문화의 특성에 대한 설명을 연애편지 형식에 담은 통역번역대학원 출신 저자 3명의 기획력이 돋보인다.\n외국어 습득의 왕도는 물론 많이 읽고 쓰고 외우는 일이다.\n하지만 방법의 신선함은 그 능률을 높여줄 수 있을 것이다.\n대화 테이프를 들으면서 따라해 보자.\n이참에 아예 일본인 애인을 한 명 사귀어 실전연습을 해보는 것은 어떨까.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "러브스토리를 대화의 소재로 삼은 독특한 제목의 일본어 학습서다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "뻔한 내용이지만 사랑이야기를 엿듣는 일은 언제나 감미롭다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "컴퓨터채팅으로 호감을 갖게 된 한국인 여성과 일본인 남성 사이에 싹트는 사랑의 감정이 외국어학습에 흥미를 잃지 않게 한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 지루할 수도 있는 문법이나 일본문화의 특성에 대한 설명을 연애편지 형식에 담은 통역번역대학원 출신 저자 3명의 기획력이 돋보인다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "외국어 습득의 왕도는 물론 많이 읽고 쓰고 외우는 일이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 방법의 신선함은 그 능률을 높여줄 수 있을 것이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "대화 테이프를 들으면서 따라해 보자.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이참에 아예 일본인 애인을 한 명 사귀어 실전연습을 해보는 것은 어떨까.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "외국어 공부 지겹다면? 독특한 소재로 흥미 유발하는 일본어 학습서",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

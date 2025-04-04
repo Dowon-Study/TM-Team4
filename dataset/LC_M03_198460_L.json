@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198460",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "\\\"사람들 호기심이 가장 괴로웠다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "마샤와 다샤는 러시아 태생의 샴 쌍둥이다.\n현재 51세. 태어날 때부터 상체는 떨어져 있지만 허리 아래로는 서로 연결돼 있었다.\n몸은 붙었어도 별개의 신경계와 뇌를 가진 쌍둥이 자매. 어떻게 그들이 분리되지 않고 샴 쌍둥이 세계 최고 기록인 51세가 되도록 살 수 있었을까 하는 호기심을 누구나 가질 수 있지만, 이들은 바로 그 호기심 때문에 고통스러운 삶을 살았다.\n신간 『마샤와 다샤』는 상상을 초월하는 장애인으로서의 고통을 호소한 휴먼스토리다.\n책에 따르면 이들은 태어나자 마자 옛 소련 정부 등에 의해 실험대상이 된다.\n한쪽에 방사선 동위원소를 주입해 그것이 양쪽의 갑상선에 어떤 영향을 주는지를 알아보는 실험, 오랜 시간 한쪽에 우유를 주지 않고 다른 한쪽에만 주는 경우 주지 않는 쪽은 어떤 반응을 보일까 하는 잔혹한 실험 말이다.\n\\\"누구도 우리를 인간으로 생각하지 않았다\\\" 고 이들은 고통스럽게 증언한다.\n이들이 실험대상이 된 것은 두 사람이 성격이 같은가 다른가를 알아보려는 것이었다.\n\\\"옛 사회주의 소련에서 법으로 통했던 마르크시즘에 따르면 같은 환경에서 자란 사람은 성격이 같아야 하기 때문이었다. \\\" 하지만 이들 역시 화장실에 가고 싶다는 느낌도 다르고, 성격도 정반대다.\n마샤가 호전적이라면, 다샤는 부드럽다.\n멸시와 동정속에 자란 두 사람은 20세때부터 지금까지 양로원에서 생활해야 했다.\n하지만 이들 역시 장난도 치고 유머도 있으며 사랑도 한다고 고백한다.\n자연의 아름다움에 감동하고, 낯선 곳에선 가슴이 두근거린다. 35세가 되어서야 어머니를 만날 수 있었지만, 어머니조차 이들을 인격체가 아닌 동정의 대상으로 볼 뿐이었다.\n이들 역시 원하는 건 이해와 공감인데 말이다.\n막상 명석한 두뇌를 가졌으면서도 평생 아무런 직업도 갖지 못한 이들이 책을 낸 이유를 다샤가 말했다.\n\\\"우리와 비슷한 처지에 있는 사람들에게 용기를 줄지도 모르는 일이잖아요. \\\" 『오체불만족』(창해)에서 감동을 느낀 독자들이라면, 『마샤와 다샤』에서도 그만한 감동을 느낄 것이다.\n절망 속에서도 피는 유머와 삶에 대한 통찰 말이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "마샤와 다샤는 러시아 태생의 샴 쌍둥이다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "현재 51세. 태어날 때부터 상체는 떨어져 있지만 허리 아래로는 서로 연결돼 있었다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "몸은 붙었어도 별개의 신경계와 뇌를 가진 쌍둥이 자매. 어떻게 그들이 분리되지 않고 샴 쌍둥이 세계 최고 기록인 51세가 되도록 살 수 있었을까 하는 호기심을 누구나 가질 수 있지만, 이들은 바로 그 호기심 때문에 고통스러운 삶을 살았다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신간 『마샤와 다샤』는 상상을 초월하는 장애인으로서의 고통을 호소한 휴먼스토리다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "책에 따르면 이들은 태어나자 마자 옛 소련 정부 등에 의해 실험대상이 된다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한쪽에 방사선 동위원소를 주입해 그것이 양쪽의 갑상선에 어떤 영향을 주는지를 알아보는 실험, 오랜 시간 한쪽에 우유를 주지 않고 다른 한쪽에만 주는 경우 주지 않는 쪽은 어떤 반응을 보일까 하는 잔혹한 실험 말이다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "\\\"누구도 우리를 인간으로 생각하지 않았다\\\" 고 이들은 고통스럽게 증언한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이들이 실험대상이 된 것은 두 사람이 성격이 같은가 다른가를 알아보려는 것이었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "\\\"옛 사회주의 소련에서 법으로 통했던 마르크시즘에 따르면 같은 환경에서 자란 사람은 성격이 같아야 하기 때문이었다. \\\" 하지만 이들 역시 화장실에 가고 싶다는 느낌도 다르고, 성격도 정반대다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "마샤가 호전적이라면, 다샤는 부드럽다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "멸시와 동정속에 자란 두 사람은 20세때부터 지금까지 양로원에서 생활해야 했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "하지만 이들 역시 장난도 치고 유머도 있으며 사랑도 한다고 고백한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "자연의 아름다움에 감동하고, 낯선 곳에선 가슴이 두근거린다. 35세가 되어서야 어머니를 만날 수 있었지만, 어머니조차 이들을 인격체가 아닌 동정의 대상으로 볼 뿐이었다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이들 역시 원하는 건 이해와 공감인데 말이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "막상 명석한 두뇌를 가졌으면서도 평생 아무런 직업도 갖지 못한 이들이 책을 낸 이유를 다샤가 말했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "\\\"우리와 비슷한 처지에 있는 사람들에게 용기를 줄지도 모르는 일이잖아요. \\\" 『오체불만족』(창해)에서 감동을 느낀 독자들이라면, 『마샤와 다샤』에서도 그만한 감동을 느낄 것이다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "절망 속에서도 피는 유머와 삶에 대한 통찰 말이다.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신간 <마샤와 다샤>... 상상을 초월하는 '이것'으로서의 고통을 호소한 휴먼스토리",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

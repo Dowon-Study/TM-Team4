@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199074",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "불면증, 심혈관질환 사망률 8배 증가",
+    "newsSubTitle": "서울대병원 연구결과…수면무호흡증은 17배 높여",
+    "newsContent": "[김진구 기자] 불면증이 심혈관질환으로 인한 사망률을 8배나 증가시킨다는 연구 결과가 나왔다.\n불면증은 이류의 3분의 1이 경험할 정도로 흔하다.\n단순히 잠을 잘 못 드는 정도로 생각하고 무시하기 쉽다.\n그러나 불면증은 절대 쉽게 넘길 문제가 아니다.\n서울대병원 수면의학센터 정도언, 이유진 교수팀은 1994~2008년 서울대병원을 방문한 수면장애 환자를 분석, 20일 그 결과를 밝혔다.\n연구진은 환자 4225명을 대상으로 2013년까지의 통계청 사망자료와 비교 분석했다.\n그 결과 불면증 환자(661명)는 수면장애가 없는 정상인(776명)에 비해 심혈관질환 사망률이 8.1배 높은 것으로 나타났다.\n수면무호흡증이 심한 환자(925명)는 심혈관질환으로 인한 사망률이 17.2배나 됐다.\n그동안 수면무호흡증과 심혈관질환에 관한 연구는 여러 차례 보고됐지만, 불면증과 심혈관질환의 연관성에 초점을 맞춘 대규모 연구는 이번이 처음이다.\n이유진 교수는 “수면 중에는 정상적으로 깨어 있을 때에 비해 10-20% 정도 혈압이 떨어지면서 몸과 마음이 이완하게 되는데, 불면증 환자의 경우 숙면이 되지 않으면서 이런 정상적인 혈압의 감소가 없이 교감신경계가 과도하게 활성화된다”고 이유를 설명했다.\n불면증은 노인과 여성에게 상대적으로 흔하다.\n스트레스와 카페인, 알코올이 위험 요인으로 꼽힌다.\n과거에는 불면증을 유발하는 신체 질환과 정신 질환을 먼저 치료하는 경향이 있었지만, 최근에는 불면증 자체도 질환으로 보고 다른 질환과 동시에 치료한다.\n일상에선 충분한 운동과 낮 동안의 활동이 수면에 도움을 준다.\n카페인 음료나 알코올을 지나치게 섭취하는 건 문제가 된다.\n노인은 낮잠을 피하도록 노력하는 게 좋다.\n수면제는 정상적인 수면을 회복시키기 위한 보조적인 수단이다.\n그러나 중독성이 있으므로 반드시 의사 처방에 따라 단기간 복용하는 게 바람직하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 불면증이 심혈관질환으로 인한 사망률을 8배나 증가시킨다는 연구 결과가 나왔다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "불면증은 이류의 3분의 1이 경험할 정도로 흔하다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "단순히 잠을 잘 못 드는 정도로 생각하고 무시하기 쉽다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러나 불면증은 절대 쉽게 넘길 문제가 아니다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서울대병원 수면의학센터 정도언, 이유진 교수팀은 1994~2008년 서울대병원을 방문한 수면장애 환자를 분석, 20일 그 결과를 밝혔다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구진은 환자 4225명을 대상으로 2013년까지의 통계청 사망자료와 비교 분석했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 결과 불면증 환자(661명)는 수면장애가 없는 정상인(776명)에 비해 심혈관질환 사망률이 8.1배 높은 것으로 나타났다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "수면무호흡증이 심한 환자(925명)는 심혈관질환으로 인한 사망률이 17.2배나 됐다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그동안 수면무호흡증과 심혈관질환에 관한 연구는 여러 차례 보고됐지만, 불면증과 심혈관질환의 연관성에 초점을 맞춘 대규모 연구는 이번이 처음이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이유진 교수는 “수면 중에는 정상적으로 깨어 있을 때에 비해 10-20% 정도 혈압이 떨어지면서 몸과 마음이 이완하게 되는데, 불면증 환자의 경우 숙면이 되지 않으면서 이런 정상적인 혈압의 감소가 없이 교감신경계가 과도하게 활성화된다”고 이유를 설명했다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "불면증은 노인과 여성에게 상대적으로 흔하다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "스트레스와 카페인, 알코올이 위험 요인으로 꼽힌다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "과거에는 불면증을 유발하는 신체 질환과 정신 질환을 먼저 치료하는 경향이 있었지만, 최근에는 불면증 자체도 질환으로 보고 다른 질환과 동시에 치료한다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "일상에선 충분한 운동과 낮 동안의 활동이 수면에 도움을 준다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "카페인 음료나 알코올을 지나치게 섭취하는 건 문제가 된다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "노인은 낮잠을 피하도록 노력하는 게 좋다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "수면제는 정상적인 수면을 회복시키기 위한 보조적인 수단이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "그러나 중독성이 있으므로 반드시 의사 처방에 따라 단기간 복용하는 게 바람직하다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우습게 생각하면 안 되는 '이 질병'... 원인 보니",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

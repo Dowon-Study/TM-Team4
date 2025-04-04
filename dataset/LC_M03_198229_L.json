@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198229",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Family건강] \\\"사각턱 교정하는 보톡스 양 과다\\\"",
+    "newsSubTitle": "연세대 김성택 연구팀 … 60%만 써도 효과",
+    "newsContent": "사각턱을 교정하기 위해 사용하는 보톡스 양이 지나치게 많다는 지적이 나왔다.\n연세대 치과대학병원 김성택(구강내과학) 교수팀은 사각턱 교정을 받기 위해 참여한 32명(남 14, 여 18)을 두 그룹으로 나눠 보톡스 주사량을 달리해 치료했다.\n기준군엔 기존 1회 평균 주사량인 35유니트를, 비교 대상군엔 25유니트를 각각 주입한 것. 그리고 2.4.8.12.24주 간격으로 컴퓨터단층촬영(CT)과 근전도 검사를 통해 사각턱 교정 정도를 살폈다.\n그 결과 보톡스 용량을 3분의 1 줄인 그룹에서도 교정 효과가 떨어지지 않았다.\n보톡스의 성분명은 보툴리눔톡신이다.\n상한 통조림에 서식하는 박테리아의 분비물로 근육활동에 관여하는 신경전달물질을 차단해 근육을 마비시킨다.\n사각턱 교정 역시 이 독소를 이용해 턱 근육 위축을 유도하는 것이다.\n근육이 마비돼 사용하지 않다 보면 근육 양이 줄어 턱이 갸름하게 된다는 원리다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "사각턱을 교정하기 위해 사용하는 보톡스 양이 지나치게 많다는 지적이 나왔다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "연세대 치과대학병원 김성택(구강내과학) 교수팀은 사각턱 교정을 받기 위해 참여한 32명(남 14, 여 18)을 두 그룹으로 나눠 보톡스 주사량을 달리해 치료했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "기준군엔 기존 1회 평균 주사량인 35유니트를, 비교 대상군엔 25유니트를 각각 주입한 것. 그리고 2.4.8.12.24주 간격으로 컴퓨터단층촬영(CT)과 근전도 검사를 통해 사각턱 교정 정도를 살폈다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 결과 보톡스 용량을 3분의 1 줄인 그룹에서도 교정 효과가 떨어지지 않았다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "보톡스의 성분명은 보툴리눔톡신이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "상한 통조림에 서식하는 박테리아의 분비물로 근육활동에 관여하는 신경전달물질을 차단해 근육을 마비시킨다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사각턱 교정 역시 이 독소를 이용해 턱 근육 위축을 유도하는 것이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "근육이 마비돼 사용하지 않다 보면 근육 양이 줄어 턱이 갸름하게 된다는 원리다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이것' 위한 보톡스 양 너무 많다... 의료계 '비판'의 목소리 나와",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

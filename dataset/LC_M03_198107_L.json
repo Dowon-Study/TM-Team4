@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198107",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "뮤지컬 ‘캣츠’ 22일 대전서 막 올라",
+    "newsSubTitle": "",
+    "newsContent": "‘오페라의 유령’, ‘미스 사이공’,‘레미제라블’ 등 세계 4대 뮤지컬 중 하나인 ‘캣츠’가 대전에서 화려한 막을 올린다. 22일부터 10월7일까지 대전문화예술의 전당 무대에 올려지는 ‘캣츠’는 맨드루 로이드 웨버 작곡, 캐머런 매킨토시 제작으로 1981년 첫 공연 이후 전 세계 30여 개국에서 14개국의 언어로 번역돼 공연 되고 있다.\n이번 대전 공연은 호주의 젊은 배우들이 주축이 된 월드 투어팀으로 2008년까지 아시아와 유럽 전역을 순회하는 코스다.\n국내에서는 이미 서울·광주 공연을 마친 상태여서 이번 대전 공연이 마지막 무대인 셈이다. ‘캣츠’는 1년에 한 번 ‘젤리클 볼’에 모이는 고양이들의 축제다.\n고양이들은 애교를 무기로 새침하게, 때로는 애처로운 모습으로 세상의 단면을 들춰낸다.\n예년의 아름다움을 잃은 뒤 새로운 삶을 꿈꾸는 고양이 그리자벨라가 부르는 ‘메모리’는 이 뮤지컬의 하일라이트이다.\n마법 고양이 미스터 미스토펠리스의 춤 역시 이 뮤지컬의 명장면 중 하나다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘오페라의 유령’, ‘미스 사이공’,‘레미제라블’ 등 세계 4대 뮤지컬 중 하나인 ‘캣츠’가 대전에서 화려한 막을 올린다. 22일부터 10월7일까지 대전문화예술의 전당 무대에 올려지는 ‘캣츠’는 맨드루 로이드 웨버 작곡, 캐머런 매킨토시 제작으로 1981년 첫 공연 이후 전 세계 30여 개국에서 14개국의 언어로 번역돼 공연 되고 있다.",
+        "sentenceSize": 189
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번 대전 공연은 호주의 젊은 배우들이 주축이 된 월드 투어팀으로 2008년까지 아시아와 유럽 전역을 순회하는 코스다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국내에서는 이미 서울·광주 공연을 마친 상태여서 이번 대전 공연이 마지막 무대인 셈이다. ‘캣츠’는 1년에 한 번 ‘젤리클 볼’에 모이는 고양이들의 축제다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "고양이들은 애교를 무기로 새침하게, 때로는 애처로운 모습으로 세상의 단면을 들춰낸다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예년의 아름다움을 잃은 뒤 새로운 삶을 꿈꾸는 고양이 그리자벨라가 부르는 ‘메모리’는 이 뮤지컬의 하일라이트이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "마법 고양이 미스터 미스토펠리스의 춤 역시 이 뮤지컬의 명장면 중 하나다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "세계 4대 뮤지컬 '캣츠'... 서울·광주 이어 '여기'서 마지막 공연",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

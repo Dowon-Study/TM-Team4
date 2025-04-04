@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193683",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "키트루다, ASCO서 단독∙병용요법 새 데이터 발표",
+    "newsSubTitle": "비소세포폐암서 PD-L1 발현 여부 관계없이 최대 71% 반응률",
+    "newsContent": "MSD의 면역항암제 키트루다(성분명 펨브롤리주맙)의 비소세포폐암·두경부암·흑색종 및 호지킨 림프종에 대한 단독·병용요법과 관련한 새로운 연구결과가 발표됐다.\n한국MSD는 지난 3~7일 미국 시카고에서 열린 미국임상종양학회(ASCO 2016)에서 새 데이터가 발표됐다고 20일 밝혔다.\n가장 주목할 만한 연구는 치료 경험이 없는 비소세포폐암 환자 74명의 1차 치료제로서의 키트루다와 화학항암제의 병용요법에 대한 초기 가설 검증 1/2상 연구(KEYNOTE-021)다.\n키트루다와 화학항암제인 카보플라틴+페메트렉시드(반응률 71%), 카보플라틴+파클리탁셀 (반응률 52%), 카보플라틴+파클리탁셀+베바시주맙(반응률 48%) 중 하나를 병용 치료한 결과, 사용된 화학항암제에 따라 객관적 반응률(ORR)이 48~71%로 나타났다.\n가장 높은 효과를 보인 코호트는 키트루다와 카보플라틴+페메트렉시드의 병용투여로 객관적 반응률(ORR)이 71%, 무진행 생존기간(PFS)의 중앙값은 10.2개월이었다.\n추적 관찰 기간의 중앙값은 16개월이었다.\n또한 PD-L1 발현 여부와 관계없이 전체 환자군에서 객관적 반응률은 57%로 나타나 비소세포폐암 1차 치료제의 새로운 치료 옵션으로 가능성을 입증 받았다.\n추적 관찰 기간의 중앙값은 12개월이었다.\n머크연구소 후기 단계 항암제 개발 부문 로저 댄시 대표는 “폐암의 1차 치료제로 키트루다와 화학항암제의 병용요법은 비소세포폐암 환자를 위한 치료 옵션 확대 연구의 중요한 부분”이라고 말했다.\n그는 “이번 연구로PD-L1 발현 여부와 관계없이 키트루다와 병용할 수 있는 화학항암제의 옵션을 밝히는데 도움이 되었다”고 말했다.\n카마노스 암 연구소 흉부 종양 팀장인 개드길 박사 역시 “키트루다에 화학항암제를 병용해 치료할 경우 환자의 반응률을 높일 수 있고, 더 많은 진행성 비소세포폐암 환자를 위한 새로운 치료 방법을 개척할 수 있다는 점에서 이번 결과가 고무적”이라고 평가했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "MSD의 면역항암제 키트루다(성분명 펨브롤리주맙)의 비소세포폐암·두경부암·흑색종 및 호지킨 림프종에 대한 단독·병용요법과 관련한 새로운 연구결과가 발표됐다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국MSD는 지난 3~7일 미국 시카고에서 열린 미국임상종양학회(ASCO 2016)에서 새 데이터가 발표됐다고 20일 밝혔다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "가장 주목할 만한 연구는 치료 경험이 없는 비소세포폐암 환자 74명의 1차 치료제로서의 키트루다와 화학항암제의 병용요법에 대한 초기 가설 검증 1/2상 연구(KEYNOTE-021)다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "키트루다와 화학항암제인 카보플라틴+페메트렉시드(반응률 71%), 카보플라틴+파클리탁셀 (반응률 52%), 카보플라틴+파클리탁셀+베바시주맙(반응률 48%) 중 하나를 병용 치료한 결과, 사용된 화학항암제에 따라 객관적 반응률(ORR)이 48~71%로 나타났다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "가장 높은 효과를 보인 코호트는 키트루다와 카보플라틴+페메트렉시드의 병용투여로 객관적 반응률(ORR)이 71%, 무진행 생존기간(PFS)의 중앙값은 10.2개월이었다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "추적 관찰 기간의 중앙값은 16개월이었다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 PD-L1 발현 여부와 관계없이 전체 환자군에서 객관적 반응률은 57%로 나타나 비소세포폐암 1차 치료제의 새로운 치료 옵션으로 가능성을 입증 받았다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "추적 관찰 기간의 중앙값은 12개월이었다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "머크연구소 후기 단계 항암제 개발 부문 로저 댄시 대표는 “폐암의 1차 치료제로 키트루다와 화학항암제의 병용요법은 비소세포폐암 환자를 위한 치료 옵션 확대 연구의 중요한 부분”이라고 말했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그는 “이번 연구로PD-L1 발현 여부와 관계없이 키트루다와 병용할 수 있는 화학항암제의 옵션을 밝히는데 도움이 되었다”고 말했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "카마노스 암 연구소 흉부 종양 팀장인 개드길 박사 역시 “키트루다에 화학항암제를 병용해 치료할 경우 환자의 반응률을 높일 수 있고, 더 많은 진행성 비소세포폐암 환자를 위한 새로운 치료 방법을 개척할 수 있다는 점에서 이번 결과가 고무적”이라고 평가했다.",
+        "sentenceSize": 142
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "키트루다, ASCO서 단독∙병용요법 관련 '쌔삥' 데이터 발표",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

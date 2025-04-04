@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198928",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "설 연휴 가족 모두 즐기려면, 문 여는 쇼핑·놀이공간 찾아라",
+    "newsSubTitle": "백화점·아웃렛·대형마트 설 연휴 휴무일은",
+    "newsContent": "설날을 맞아 오랜만에 만난 가족들과 함께 차례를 지내고, 음식과 전통놀이를 즐기고. 그 다음은? 주말까지 합하면 연휴 기간은 나흘이나 된다.\n가족끼리 집안에서 할 수 있는 오순도순 프로그램에도 한계가 있다.\n밖으로 나가는 길만이 해법이다.\n쇼핑하고, 구경하고, 먹고…적당한 놀이까지 준비된 백화점과 쇼핑몰은 온 가족이 골고루 행복할 수 있는 최적의 장소다.\n단, 반드시 휴무일을 사전에 확인하고 외출 계획을 짜기 바란다.\n설날맞이 특별 할인과 풍성한 이벤트 일정까지 맞춘다면 금상첨화다.\n15~18일 설 연휴 기간 동안 주요 쇼핑 공간들의 휴무일, 주요 행사 일정을 정리했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "설날을 맞아 오랜만에 만난 가족들과 함께 차례를 지내고, 음식과 전통놀이를 즐기고. 그 다음은? 주말까지 합하면 연휴 기간은 나흘이나 된다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "가족끼리 집안에서 할 수 있는 오순도순 프로그램에도 한계가 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "밖으로 나가는 길만이 해법이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "쇼핑하고, 구경하고, 먹고…적당한 놀이까지 준비된 백화점과 쇼핑몰은 온 가족이 골고루 행복할 수 있는 최적의 장소다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "단, 반드시 휴무일을 사전에 확인하고 외출 계획을 짜기 바란다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "설날맞이 특별 할인과 풍성한 이벤트 일정까지 맞춘다면 금상첨화다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "15~18일 설 연휴 기간 동안 주요 쇼핑 공간들의 휴무일, 주요 행사 일정을 정리했다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "설 연휴가 지루하다면... 밖으로 나가 '이곳'으로 가라!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198574",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[틴틴/키즈] 외로운 섬소녀 '세상'을 보다…'열여섯의 섬'",
+    "newsSubTitle": "",
+    "newsContent": "전남 여수에서 태어난 작가 한창훈. 소설집 '바다가 아름다운 이유', 장편소설 '섬, 나는 세상 끝을 산다' 등 섬과 바다를 주제로 글을 써왔다.\n그가 청소년을 위한 소설을 처음 썼다.\n이번에는 섬소녀 서이가 주인공이다.\n서이의 엄마는 언니 둘만 데리고 육지로 나가 버리고, 아빠는 배신감으로 술주정에 빠져 산다.\n나이 든 큰이모와 어릴 적부터 서이를 챙겨주는 이배라는 남자 아이만 서이에게 위로를 줄 뿐이다.\n섬의 외로운 삶을 견뎌내고자 공상하기를 즐기는 서이. 어느 날 이 섬에 낯선 여자가 찾아오고, 바이올린만 들고 세상을 돌아다녔다는 이 여자를 통해 서이는 조금씩 세상에 눈 떠간다.\n섬을 떠나고 싶어하는 서이와 섬을 마지막 여행지로 삼은 여자가 서로에게서 안식과 삶에 대한 해법을 찾게 된다는 이야기다.\n이 소설에서 섬은 청소년들의 갇힌 세계, 억제된 욕망을 상징한다고 한다.\n작가는 서이를 통해 청소년기의 고독.꿈을 섬세하게 그려내고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전남 여수에서 태어난 작가 한창훈. 소설집 '바다가 아름다운 이유', 장편소설 '섬, 나는 세상 끝을 산다' 등 섬과 바다를 주제로 글을 써왔다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그가 청소년을 위한 소설을 처음 썼다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번에는 섬소녀 서이가 주인공이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서이의 엄마는 언니 둘만 데리고 육지로 나가 버리고, 아빠는 배신감으로 술주정에 빠져 산다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "나이 든 큰이모와 어릴 적부터 서이를 챙겨주는 이배라는 남자 아이만 서이에게 위로를 줄 뿐이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "섬의 외로운 삶을 견뎌내고자 공상하기를 즐기는 서이. 어느 날 이 섬에 낯선 여자가 찾아오고, 바이올린만 들고 세상을 돌아다녔다는 이 여자를 통해 서이는 조금씩 세상에 눈 떠간다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "섬을 떠나고 싶어하는 서이와 섬을 마지막 여행지로 삼은 여자가 서로에게서 안식과 삶에 대한 해법을 찾게 된다는 이야기다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 소설에서 섬은 청소년들의 갇힌 세계, 억제된 욕망을 상징한다고 한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "작가는 서이를 통해 청소년기의 고독.꿈을 섬세하게 그려내고 있다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "섬과 바다를 주제로 글을 써온 ‘이 작가’, 이번 소설은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

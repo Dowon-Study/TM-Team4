@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197194",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[Family건강] 목도 타는데 시원한 맥주 한잔 ?",
+    "newsSubTitle": "열 나고 혈관 확장에 탈수 … 더위 되레 더 느껴",
+    "newsContent": "불쾌지수가 높아지고 열대야가 이어지면 \\\"시원한 맥주 생각이 간절해진다\\\"는 사람이 많다.\n이들은 대부분 \\\"더위를 피하기 위해 먹는 술은 '백약(百藥)의 장(長)'\\\"이라며 음주 예찬론을 편다.\n이들 덕분인지 맥주 연 판매량의 3분의 1이 여름 시즌에 집중된다.\n정말 맥주는 더위를 쫓아내는 고마운 존재일까?\n하지만 전문가들은 꼭 그렇게 보지 않는다.\n이유는 크게 세 가지다.\n첫째, 열량이 높은 알코올(500㏄에 190㎉)이 체내에 들어오면 이를 대사시키는 과정에서 상당한 열이 난다.\n심장박동수가 늘어나는 것도 열을 발생시킨다.\n여름에 술을 마시면 더 덥게 느껴지고, 얼굴이 붉어지면서 확 달아오른다.\n둘째, 알코올과 더위는 모두 혈관을 확장시킨다.\n이로 인해 혈관이 과다하게 팽창되면 우리 몸은 더위를 더 심하게 느낀다.\n뇌의 체온조절 중추(시상하부에 위치)가 혈관이 얼마나 확장돼 있느냐에 따라 더위의 정도를 판단하기 때문이다.\n셋째, 탈수를 일으킬 위험이 있다.\n술의 갈증 해소 효과는 일시적이다.\n강남성모병원 가정의학과 김경수 교수는 \\\"알코올의 이뇨 효과로 소변이 잦아지는 데다 혈관 확장으로 땀이 많이 나 탈수를 부른다\\\"고 조언했다.\n운동을 하고 시원한 맥주를 마신 뒤 몸이 축 늘어지는 기분이 드는 것은 일종의 탈수 증상이라는 것. 무더운 날엔 술을 마시고 약을 먹거나, 약을 복용한 상태에서 술을 마시는 것도 곤란하다.\n특히 술과 약을 함께 먹으면 술에 의해 약효가 너무 강해지거나 약해지는 것이 문제다.\n또 술과 약 모두 간에서 대사되므로 간의 부담이 배가된다.\n다사랑병원 내과 전용준 원장은 \\\"다이제팜(수면제)이나 메프로 바메이트(신경 안정제)를 술과 함께 복용하면 약효가 강해져 심각한 결과를 초래할 수 있다\\\"며 \\\"아세트 아미노펜(해열 진통제, 타이레놀).톨부타마이드(당뇨약)도 술과 함께 복용해선 안 된다\\\"고 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "불쾌지수가 높아지고 열대야가 이어지면 \\\"시원한 맥주 생각이 간절해진다\\\"는 사람이 많다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이들은 대부분 \\\"더위를 피하기 위해 먹는 술은 '백약(百藥)의 장(長)'\\\"이라며 음주 예찬론을 편다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이들 덕분인지 맥주 연 판매량의 3분의 1이 여름 시즌에 집중된다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정말 맥주는 더위를 쫓아내는 고마운 존재일까?",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 전문가들은 꼭 그렇게 보지 않는다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이유는 크게 세 가지다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "첫째, 열량이 높은 알코올(500㏄에 190㎉)이 체내에 들어오면 이를 대사시키는 과정에서 상당한 열이 난다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "심장박동수가 늘어나는 것도 열을 발생시킨다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "여름에 술을 마시면 더 덥게 느껴지고, 얼굴이 붉어지면서 확 달아오른다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "둘째, 알코올과 더위는 모두 혈관을 확장시킨다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이로 인해 혈관이 과다하게 팽창되면 우리 몸은 더위를 더 심하게 느낀다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "뇌의 체온조절 중추(시상하부에 위치)가 혈관이 얼마나 확장돼 있느냐에 따라 더위의 정도를 판단하기 때문이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "셋째, 탈수를 일으킬 위험이 있다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "술의 갈증 해소 효과는 일시적이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "강남성모병원 가정의학과 김경수 교수는 \\\"알코올의 이뇨 효과로 소변이 잦아지는 데다 혈관 확장으로 땀이 많이 나 탈수를 부른다\\\"고 조언했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "운동을 하고 시원한 맥주를 마신 뒤 몸이 축 늘어지는 기분이 드는 것은 일종의 탈수 증상이라는 것. 무더운 날엔 술을 마시고 약을 먹거나, 약을 복용한 상태에서 술을 마시는 것도 곤란하다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "특히 술과 약을 함께 먹으면 술에 의해 약효가 너무 강해지거나 약해지는 것이 문제다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "또 술과 약 모두 간에서 대사되므로 간의 부담이 배가된다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "다사랑병원 내과 전용준 원장은 \\\"다이제팜(수면제)이나 메프로 바메이트(신경 안정제)를 술과 함께 복용하면 약효가 강해져 심각한 결과를 초래할 수 있다\\\"며 \\\"아세트 아미노펜(해열 진통제, 타이레놀).톨부타마이드(당뇨약)도 술과 함께 복용해선 안 된다\\\"고 강조했다.",
+        "sentenceSize": 150
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "맥주, 후끈 달아오를 때 흥분을 식혀주는 고마운 존재일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

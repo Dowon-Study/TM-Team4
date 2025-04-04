@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193662",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "치약으로 간단하게 블랙헤드 없애는 방법",
+    "newsSubTitle": "",
+    "newsContent": "블랙헤드를 가진 사람들은 따로 코팩을 구입해서 일주일에 한 번, 두 번씩 사용하곤 한다.\n하지만 번거롭게 코팩을 따로 구매하지 않고도 코의 거무튀튀한 블랙헤드를 없앨 수 있는 방법이 있다. ▶추천기사 김제동 군 발언 논란, 조영남도...\\\"각설이 타령에 헌병대 끌려가\\\" 1. 준비물은 얼음, 소금, 민트향 치약, 숟가락, 그릇이다.\n2. 준비한 민트 성분이 포함된 치약을 두 스푼만큼 짜서 그릇에 담는다. 3. 한 스푼의 소금을 그릇에 넣는다. 4. 치약과 소금을 꾸덕꾸덕해질때까지 잘 섞는다. 5. 코에 바르고 5분간 기다린다. 5분이 지나면 손가락에 물을 묻혀 원을 그리며 닦아낸다.\n얼음을 이용해 다시 한 번 문지르고 물기를 닦아낸다.\n이 영상에 따르면 원리는 다음과 같다.\n치약 속의 민트 성분은 피부의 구멍을 열어주고 박테리아를 없애준다.\n치약은 피부의 구멍을 깨끗하게 해주고 블랙헤드를 뽑아낸다.\n소금은 자연 소독의 역할을 한다.\n소금은 치약에 녹지 않기 때문에 둘은 좋은 조합이다.\n코를 마사지할 때에는 부드럽게 해야 피부에 상처가 생기는 걸 막을 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "블랙헤드를 가진 사람들은 따로 코팩을 구입해서 일주일에 한 번, 두 번씩 사용하곤 한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하지만 번거롭게 코팩을 따로 구매하지 않고도 코의 거무튀튀한 블랙헤드를 없앨 수 있는 방법이 있다. ▶추천기사 김제동 군 발언 논란, 조영남도...\\\"각설이 타령에 헌병대 끌려가\\\" 1. 준비물은 얼음, 소금, 민트향 치약, 숟가락, 그릇이다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "2. 준비한 민트 성분이 포함된 치약을 두 스푼만큼 짜서 그릇에 담는다. 3. 한 스푼의 소금을 그릇에 넣는다. 4. 치약과 소금을 꾸덕꾸덕해질때까지 잘 섞는다. 5. 코에 바르고 5분간 기다린다. 5분이 지나면 손가락에 물을 묻혀 원을 그리며 닦아낸다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "얼음을 이용해 다시 한 번 문지르고 물기를 닦아낸다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 영상에 따르면 원리는 다음과 같다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "치약 속의 민트 성분은 피부의 구멍을 열어주고 박테리아를 없애준다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "치약은 피부의 구멍을 깨끗하게 해주고 블랙헤드를 뽑아낸다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "소금은 자연 소독의 역할을 한다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "소금은 치약에 녹지 않기 때문에 둘은 좋은 조합이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "코를 마사지할 때에는 부드럽게 해야 피부에 상처가 생기는 걸 막을 수 있다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'영고'였던 블랙헤드… 치약으로 간단하게 박멸하자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198095",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Family건강] 당뇨환자라면… 혈당만큼 중요한 발 관리",
+    "newsSubTitle": "보습 전문 화장품 ‘다이아베케어’ 나와",
+    "newsContent": "당뇨병 환자에겐 혈당관리만큼 중요한 ‘임무’가 있다.\n발을 보물단지처럼 위해야 한다는 것. 발에 생긴 티끌만 한 상처가 절단으로 이어지는 상황이 발생하기 때문이다.\n상계 을지병원 족부클리닉 이경태 교수는 “당뇨병 환자 중 3%가 관리 소홀로 발이나 발가락을 자른다”며 “당뇨발 예방은 발에 대한 관심과 조기치료가 최선”이라고 말했다.\n당뇨발의 원인이 되는 가장 흔한 ‘사고’는 발톱을 깎을 때 생긴다.\n눈에 보이지 않는 상처에 세균이 침입, 궤양으로 바뀌면서 점차 썩어간다.\n무좀에 의해 피부궤양이 생기거나, 뜨거운 온탕에도 쉽게 화상을 입기도 한다.\n발에 감각이 없으니 사전 대처가 어렵다.\n따라서 매일 발을 청결하게 씻고 발을 꼼꼼히 살펴야 한다.\n특히 발가락 사이도 유심히 살핀다.\n만일 작은 상처가 있다면 감염되지 않도록 즉각 치료를 한다.\n발을 건조하지 않게 보습을 유지토록 하는 것도 중요하다.\n특히 건조하기 쉬운 겨울에 유념한다.\n또 목욕을 할 때는 탕에 들어가지 말고, 샤워만 할 것. 발이 불어 상처를 입기 쉽고, 감각이 없기 때문에 쉽게 델 수 있다.\n따라서 당뇨병 환자에게 보습제는 필수품. 최근엔 보습과 각질제거·세정력을 가진 발관리용 화장품도 나왔다.\n독일 닥터뮬러마파사가 개발하고 일동제약이 판매를 시작한 다이아베케어가 그것. 1단계로 각질 제거와 항균 및 항진균 작용을 하며, 2단계로는 강한 보습 및 모세혈관을 강화해 피부신경을 보호한다.\n화장품이지만 당뇨병 환자를 치료하는 병원을 통해서만 구입이 가능하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "당뇨병 환자에겐 혈당관리만큼 중요한 ‘임무’가 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "발을 보물단지처럼 위해야 한다는 것. 발에 생긴 티끌만 한 상처가 절단으로 이어지는 상황이 발생하기 때문이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "상계 을지병원 족부클리닉 이경태 교수는 “당뇨병 환자 중 3%가 관리 소홀로 발이나 발가락을 자른다”며 “당뇨발 예방은 발에 대한 관심과 조기치료가 최선”이라고 말했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당뇨발의 원인이 되는 가장 흔한 ‘사고’는 발톱을 깎을 때 생긴다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "눈에 보이지 않는 상처에 세균이 침입, 궤양으로 바뀌면서 점차 썩어간다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "무좀에 의해 피부궤양이 생기거나, 뜨거운 온탕에도 쉽게 화상을 입기도 한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "발에 감각이 없으니 사전 대처가 어렵다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "따라서 매일 발을 청결하게 씻고 발을 꼼꼼히 살펴야 한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "특히 발가락 사이도 유심히 살핀다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "만일 작은 상처가 있다면 감염되지 않도록 즉각 치료를 한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "발을 건조하지 않게 보습을 유지토록 하는 것도 중요하다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "특히 건조하기 쉬운 겨울에 유념한다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "또 목욕을 할 때는 탕에 들어가지 말고, 샤워만 할 것. 발이 불어 상처를 입기 쉽고, 감각이 없기 때문에 쉽게 델 수 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "따라서 당뇨병 환자에게 보습제는 필수품. 최근엔 보습과 각질제거·세정력을 가진 발관리용 화장품도 나왔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "독일 닥터뮬러마파사가 개발하고 일동제약이 판매를 시작한 다이아베케어가 그것. 1단계로 각질 제거와 항균 및 항진균 작용을 하며, 2단계로는 강한 보습 및 모세혈관을 강화해 피부신경을 보호한다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "화장품이지만 당뇨병 환자를 치료하는 병원을 통해서만 구입이 가능하다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "발에 대한 관심이 무엇보다 중요한 이 질환... 어떻게 신경 써야 하나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

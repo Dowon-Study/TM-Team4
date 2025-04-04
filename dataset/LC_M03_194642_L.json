@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194642",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "스트레스 받으면 먹는다고! 왜?",
+    "newsSubTitle": "",
+    "newsContent": "약물 중독자들이 약에 대해 생각하게 하게 만드는 뇌의 회로가 비만인 사람들이 배가 부른데도 계속 먹으려 하게 한다는 데도 작용한다는 연구결과가 보고됐다.\n미 국립 브룩헤이븐 연구소의 왕 박사는 \\\"사람들이 이미 배가 부름에도 왜 계속 먹는지에 대한 원인을 알고 싶었다.\\\"고 말했다.\n왕 박사팀은 포만감이라고 알려진 위가 가득한 상태를 만들수 있는 위장관 자극장치를 단 7명의 자원자를 대상으로 연구를 진행했다.\n연구팀은 PET라고 알려진 양전자방출 단층촬영술(Positron Emission Tomography)을 사용 위장관 자극기가 위를 포만하게 했을때 뇌의 어느 영역이 활성화 되는지를 보았다.\n연구팀은 또 비만상태에 있던 모든 자원자들에게 그들이 배가 부름에도 먹는 이유에 대해 질문을 던졌다.\n왕 박사는 \\\"PET에서 활성화 되는 영역이 포만센터임에 틀림없다고 말하며 기존 의대 교육에서는 이 중추가 시상하부(hypothalamus)인 것으로 알려져 왔다.\\\"고 말했다.\n왕 박사는 \\\"그러나 이번 연구에서 놀랍게도 시상하부는 PET상 전혀 활성화 되지 않았다.\\\"고 말했다.\n이와는 반대로 PET촬영에서 뇌의 다른 모든 영역에서 많은 활성도를 보였으며 특히 해마라고도 불리는 히포캠푸스(hippocampus) 영역에서 활성도가 가장 현저한 것으로 나타났다.\n히포캠푸스 영역은 학습,기억능력과 연관돼 있는 영역이며 또한 감각, 운동 충동 및 정서적 행동과 밀접하게 연관된 뇌의 영역으로 잘 알려져 있다.\n이번 연구에서 히포캠푸스 영역은 위장관 자극기로 자극시 18%정도 활성화 됐다.\nPET촬영상 위장관 자극기는 또한 코카인 중독에 대한 갈망등과 연관되어 있는 뇌영역인 안와전두엽(orbitofrontal cortex)과 선조체(striatum) 속의 뇌 회로에도 포만감에 대한 메시지를 보냈다.\n왕 박사는 \\\"이번 연구에서 히포캠푸스가 감정과 먹고자 하는 욕구와 밀접하게 연관되어 있다는 것이 분명해졌으며 이번 결과를 통해 비만한 사람들이 그들의 감정적인 문제를 달래기 위해 음식을 먹는다는 기전에 대해 이해할 수 있게 됐다.\\\"고 말했다.\n연구팀은 이번 연구결과가 미국및 다른 국가에서 심각하게 대두되고 있는 비만에 대한 최선의 치료법을 찾는데 도움을 줄 지도 모른다고 밝혔다. [뉴시스]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "약물 중독자들이 약에 대해 생각하게 하게 만드는 뇌의 회로가 비만인 사람들이 배가 부른데도 계속 먹으려 하게 한다는 데도 작용한다는 연구결과가 보고됐다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미 국립 브룩헤이븐 연구소의 왕 박사는 \\\"사람들이 이미 배가 부름에도 왜 계속 먹는지에 대한 원인을 알고 싶었다.\\\"고 말했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "왕 박사팀은 포만감이라고 알려진 위가 가득한 상태를 만들수 있는 위장관 자극장치를 단 7명의 자원자를 대상으로 연구를 진행했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연구팀은 PET라고 알려진 양전자방출 단층촬영술(Positron Emission Tomography)을 사용 위장관 자극기가 위를 포만하게 했을때 뇌의 어느 영역이 활성화 되는지를 보았다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연구팀은 또 비만상태에 있던 모든 자원자들에게 그들이 배가 부름에도 먹는 이유에 대해 질문을 던졌다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "왕 박사는 \\\"PET에서 활성화 되는 영역이 포만센터임에 틀림없다고 말하며 기존 의대 교육에서는 이 중추가 시상하부(hypothalamus)인 것으로 알려져 왔다.\\\"고 말했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "왕 박사는 \\\"그러나 이번 연구에서 놀랍게도 시상하부는 PET상 전혀 활성화 되지 않았다.\\\"고 말했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이와는 반대로 PET촬영에서 뇌의 다른 모든 영역에서 많은 활성도를 보였으며 특히 해마라고도 불리는 히포캠푸스(hippocampus) 영역에서 활성도가 가장 현저한 것으로 나타났다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "히포캠푸스 영역은 학습,기억능력과 연관돼 있는 영역이며 또한 감각, 운동 충동 및 정서적 행동과 밀접하게 연관된 뇌의 영역으로 잘 알려져 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이번 연구에서 히포캠푸스 영역은 위장관 자극기로 자극시 18%정도 활성화 됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "PET촬영상 위장관 자극기는 또한 코카인 중독에 대한 갈망등과 연관되어 있는 뇌영역인 안와전두엽(orbitofrontal cortex)과 선조체(striatum) 속의 뇌 회로에도 포만감에 대한 메시지를 보냈다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "왕 박사는 \\\"이번 연구에서 히포캠푸스가 감정과 먹고자 하는 욕구와 밀접하게 연관되어 있다는 것이 분명해졌으며 이번 결과를 통해 비만한 사람들이 그들의 감정적인 문제를 달래기 위해 음식을 먹는다는 기전에 대해 이해할 수 있게 됐다.\\\"고 말했다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "연구팀은 이번 연구결과가 미국및 다른 국가에서 심각하게 대두되고 있는 비만에 대한 최선의 치료법을 찾는데 도움을 줄 지도 모른다고 밝혔다. [뉴시스]",
+        "sentenceSize": 83
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "약물 중독자들과 비만인 사람들의 공통점 연구한 결과는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

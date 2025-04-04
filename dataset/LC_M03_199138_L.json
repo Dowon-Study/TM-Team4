@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199138",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "[셰프릴레이] 우동 한 그릇의 정성, 남경표 면통단 셰프",
+    "newsSubTitle": "",
+    "newsContent": "우동 한 그릇으로 기품 있는 한끼를 선물하는 셰프가 있습니다.\n우동 한 그릇을 위해 계절마다 면의 미세한 염도를 조절하고,육수를 개발하는 데만 40~50번을 시도합니다.\n그가 제일 신경 쓰는 것은 '좋은 재료' 고르기. 비싸더라도 저염 간장을 쓰고, 전문 제면소를 따로 쓰는 이유입니다.\n미식가들이 인정한 최고의 스타 셰프로 불렸던 남경표. '퓨전 요리의 대명사'로 불리며 일본에는 없던 야끼우동과 냉우동 등을 개발해냈습니다.\n전·현직 대통령도 즐겨 찾을 만큼 유명했던 가게 '옌'을 닫고 한적한 곳에 우동집을 차린 사연과 '면통단'의 음식들을 소개합니다.\n▶관련기사 [셰프릴레이18] 남경표가 안유성에게한 그릇의 음식에 담긴 인연과 철학, 셰프가 주목하는 또 다른 셰프를 통해 맛집 릴레이를 이어 갑니다.\n다음달에는 남경표 셰프가 추천하는 ‘남도초밥’ 달인 안유성 셰프를 소개합니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우동 한 그릇으로 기품 있는 한끼를 선물하는 셰프가 있습니다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우동 한 그릇을 위해 계절마다 면의 미세한 염도를 조절하고,육수를 개발하는 데만 40~50번을 시도합니다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그가 제일 신경 쓰는 것은 '좋은 재료' 고르기. 비싸더라도 저염 간장을 쓰고, 전문 제면소를 따로 쓰는 이유입니다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미식가들이 인정한 최고의 스타 셰프로 불렸던 남경표. '퓨전 요리의 대명사'로 불리며 일본에는 없던 야끼우동과 냉우동 등을 개발해냈습니다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "전·현직 대통령도 즐겨 찾을 만큼 유명했던 가게 '옌'을 닫고 한적한 곳에 우동집을 차린 사연과 '면통단'의 음식들을 소개합니다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "▶관련기사 [셰프릴레이18] 남경표가 안유성에게한 그릇의 음식에 담긴 인연과 철학, 셰프가 주목하는 또 다른 셰프를 통해 맛집 릴레이를 이어 갑니다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다음달에는 남경표 셰프가 추천하는 ‘남도초밥’ 달인 안유성 셰프를 소개합니다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "남경표 셰프가 전문 제면소를 따로 쓰는 이유... '이것'을 위한 고집이라는데",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

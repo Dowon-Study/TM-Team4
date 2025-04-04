@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196516",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[데스크 쪽지] '서양과 동양이 127일간…'",
+    "newsSubTitle": "",
+    "newsContent": "매주 '행복한 책읽기'팀에 쏟아지는 신간들로 지금 북섹션 지면의 두배 이상을 너끈하게 꾸밀 수 있습니다.\n국내 저작이 상대적으로 약세이고, 꼭 필요한 고전들의 번역작업이 부족하다는 점 등 아쉬움이 일부 없지 않지만, 독서시장에 나오는 신간의 양과 질은 편집자 입장에서는 그런대로 만족스럽습니다.\n어쨌든간에 이번 주 우리는 확신을 가지고 『서양과 동양이 127일간 e-mail을 주고받다』를 이번 주의 '생각거리'로 올립니다.\n보는 순간 \\\"그래 바로 이거야\\\"싶었던 책이 이것이었습니다. '시대의 흐름에 응전하는 새로운 컨셉트의 출판물'이라는 우리의 판단을 독자 입장에서도 한번 가늠해 보십사하는 제안을 드립니다.\n이에 못지않은 젊은 학자 김명섭의 저작물 『대서양 문명사』(한길사) 는 다음주 좀더 숙성시킨 리뷰기사로 내보낸다는 것을 알려드립니다.\n스웨덴의 지성파 영화감독 잉마르 베리만과 축구황제 펠레의 자서전 에도 독자들의 관심이 쏠릴 책들입니다.\n사람냄새 풍기는 진솔한 고백이란 것은 역시 책읽기의 영원한 테마이니까요.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "매주 '행복한 책읽기'팀에 쏟아지는 신간들로 지금 북섹션 지면의 두배 이상을 너끈하게 꾸밀 수 있습니다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국내 저작이 상대적으로 약세이고, 꼭 필요한 고전들의 번역작업이 부족하다는 점 등 아쉬움이 일부 없지 않지만, 독서시장에 나오는 신간의 양과 질은 편집자 입장에서는 그런대로 만족스럽습니다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "어쨌든간에 이번 주 우리는 확신을 가지고 『서양과 동양이 127일간 e-mail을 주고받다』를 이번 주의 '생각거리'로 올립니다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보는 순간 \\\"그래 바로 이거야\\\"싶었던 책이 이것이었습니다. '시대의 흐름에 응전하는 새로운 컨셉트의 출판물'이라는 우리의 판단을 독자 입장에서도 한번 가늠해 보십사하는 제안을 드립니다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 못지않은 젊은 학자 김명섭의 저작물 『대서양 문명사』(한길사) 는 다음주 좀더 숙성시킨 리뷰기사로 내보낸다는 것을 알려드립니다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "스웨덴의 지성파 영화감독 잉마르 베리만과 축구황제 펠레의 자서전 에도 독자들의 관심이 쏠릴 책들입니다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사람냄새 풍기는 진솔한 고백이란 것은 역시 책읽기의 영원한 테마이니까요.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신간의 양은 북섹션 전면을 가득 채울 정도로 많다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

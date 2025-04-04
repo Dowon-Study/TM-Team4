@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199144",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "5년간 13배 일본뇌염 급증…성인도 위험",
+    "newsSubTitle": "성인도 접종 가능한 백신, 1회 접종으로 2주 안 90% 예방효과",
+    "newsContent": "일본뇌염은 일본뇌염 바이러스에 감염된 작은빨간집모기에 의해 감염되는 제2군 법정감염병이다.\n여름을 맞아 모기의 활동이 활발해지면서 주의가 요구되는 시점이다.\n황열, 뎅기열, 말라리아 등 모기매개 감염병은 여름철 환자가 급증한다.\n특히 일본뇌염은 최근 5년새 발생자 수가 13배 이상 급증했다.\n이중에서도 40대 이상 성인의 발병률 및 사망률이 높아 성인 예방의 중요성이 대두되고 있다.\n이와 관련 지난해에 영유아뿐 아니라 성인도 접종 가능한 일본뇌염 백신이 허가됐으므로, 성인도 접종해두는 게 좋다.\n사노피 파스퇴르사의 일본뇌염 백신 ‘이모젭’은 만18세 이상 성인에서 1회 접종(소아의 경우 2회 접종)으로 높은 예방효과를 보인다.\n사노피의 레지스 로네(Regis Launay) 대표는 “성인은 영유아에 비해 일본뇌염 예방접종 필요성이 간과되는 측면이 있다”며 “최근 해외 파견 출장이 잦은 직장인에게 접종 필요성이 높아지고 있다”고 말했다.\n그는 “이모젭의 경우 국내 일본뇌염 백신 중 유일하게 성인이 맞을 수 있다”며 “영유아뿐 아니라 일본뇌염 풍토지역으로 여행∙출장 계획이 있는 성인의 일본뇌염 예방에 크게 기여할 수 있을 것”이라고 기대했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일본뇌염은 일본뇌염 바이러스에 감염된 작은빨간집모기에 의해 감염되는 제2군 법정감염병이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여름을 맞아 모기의 활동이 활발해지면서 주의가 요구되는 시점이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "황열, 뎅기열, 말라리아 등 모기매개 감염병은 여름철 환자가 급증한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 일본뇌염은 최근 5년새 발생자 수가 13배 이상 급증했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이중에서도 40대 이상 성인의 발병률 및 사망률이 높아 성인 예방의 중요성이 대두되고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이와 관련 지난해에 영유아뿐 아니라 성인도 접종 가능한 일본뇌염 백신이 허가됐으므로, 성인도 접종해두는 게 좋다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사노피 파스퇴르사의 일본뇌염 백신 ‘이모젭’은 만18세 이상 성인에서 1회 접종(소아의 경우 2회 접종)으로 높은 예방효과를 보인다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "사노피의 레지스 로네(Regis Launay) 대표는 “성인은 영유아에 비해 일본뇌염 예방접종 필요성이 간과되는 측면이 있다”며 “최근 해외 파견 출장이 잦은 직장인에게 접종 필요성이 높아지고 있다”고 말했다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그는 “이모젭의 경우 국내 일본뇌염 백신 중 유일하게 성인이 맞을 수 있다”며 “영유아뿐 아니라 일본뇌염 풍토지역으로 여행∙출장 계획이 있는 성인의 일본뇌염 예방에 크게 기여할 수 있을 것”이라고 기대했다.",
+        "sentenceSize": 115
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여름철 환자 급증하는 이 질병, 40대 이상도 안심할 수 없다는데... 대책은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

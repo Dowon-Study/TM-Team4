@@ -1,0 +1,240 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198670",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 골밀도 낮을수록 뇌소혈관 질환 위험 커진다",
+    "newsSubTitle": "병원리포트 서울대병원 신경과 김정민 교수팀",
+    "newsContent": "나이가 들면 몸 곳곳에서 이상 신호가 감지된다.\n뇌소혈관 질환과 골밀도 저하도 그중 하나다.\n뇌소혈관 질환은 뇌의 작은 혈관이 막히거나 손상되는 질환을 말한다.\n증상이 미미해 대수롭지 않게 여기지만 방치하면 뇌졸중이나 치매 및 보행 장애 등 심각한 질환으로 이어질 수 있다.\n골밀도 저하는 뼈의 무기질 함량이 감소하는 증상이다.\n심한 경우 골다공증과 골절로 이어진다.\n두 질환 모두 고령의 인구에서 흔히 관찰되기 때문에 노화에 따라 발생하는 독립적인 증상으로 여겨졌다.\n근데 이 두 질환이 서로 연관이 있을 수 있다는 사실이 밝혀졌다.\n서울대병원 신경과 김정민 교수팀은 뇌소혈관 질환과 골밀도 저하가 밀접한 상관관계가 있다고 최근 밝혔다.\n특히 추가 연구를 통해 두 증상을 동시에 유발하는 연결 고리 후보를 제시했다.\n비교적 알려지지 않은 뇌소혈관 질환 규명에 한걸음 다가간 것으로 평가된다.\n연구팀은 뇌졸중으로 입원한 1190명의 환자를 대상으로 환자의 기본 정보는 물론 고혈압·당뇨 병력, 뇌 자기공명영상(MRI), 골밀도 검사, X선 검사 등 폭넓게 자료를 수집했다.\n뇌소혈관 질환은 점수를 매겨 4단계(0점, 1점, 2점, 3~4점)로 구분했다.\n골밀도의 경우 3단계(정상, 골감소증, 골다공증)로 분류했다.\n방치하면 뇌졸중·치매 등 초래 연구결과 전체 1190명의 뇌졸중 환자 중 약 23.9%(284명)에서 골다공증이, 37.8%(450명)에서 골감소증이 관찰됐다.\n뇌졸중 환자 10명 중 6명이 골밀도 저하를 겪는 것이다.\n또한 골밀도 저하와 뇌소혈관 질환의 관계를 분석한 결과 골밀도가 낮을수록 뇌소혈관 질환 위험이 커졌다.\n이러한 경향은 고혈압성 뇌소혈관 질환일 때 더욱 두드러졌다.\n연령과 성별 등 여러 인자를 보정한 결과, 골다공증은 심각한 수준(3~4점)의 뇌소혈관 질환과 독립적이면서 뚜렷한 상관관계를 보였다.\n이어 연구팀은 70명의 환자를 대상으로 한 추가 연구를 통해 양자 간 상관관계를 형성하는 연결 고리를 찾았다.\n그 결과 골다공증과 심각한 수준의 뇌소혈관 질환이 동반된 환자에게서 모두 miR-378f의 발현이 증가한다는 사실을 확인했다.\n즉 혈액 내 매개자를 통해 두 장기의 손상을 초래하는 모종의 병태생리 기전이 작동하는 것이다.\n김정민 교수는 “이번 연구를 통해 상당수 뇌졸중 환자에서 골밀도 저하가 동반된다는 점을 확인했다”며 “뇌소혈관 질환의 정확한 병태생리를 규명하고 치료 전략을 수립하기 위해서는 다양한 후속 연구가 필요하다”고 말했다.\n이번 연구는 미국 신경학회 학술지 ‘신경학(Neurology)’ 최근호에 게재됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 24,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "나이가 들면 몸 곳곳에서 이상 신호가 감지된다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "뇌소혈관 질환과 골밀도 저하도 그중 하나다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뇌소혈관 질환은 뇌의 작은 혈관이 막히거나 손상되는 질환을 말한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "증상이 미미해 대수롭지 않게 여기지만 방치하면 뇌졸중이나 치매 및 보행 장애 등 심각한 질환으로 이어질 수 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "골밀도 저하는 뼈의 무기질 함량이 감소하는 증상이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "심한 경우 골다공증과 골절로 이어진다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두 질환 모두 고령의 인구에서 흔히 관찰되기 때문에 노화에 따라 발생하는 독립적인 증상으로 여겨졌다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "근데 이 두 질환이 서로 연관이 있을 수 있다는 사실이 밝혀졌다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "서울대병원 신경과 김정민 교수팀은 뇌소혈관 질환과 골밀도 저하가 밀접한 상관관계가 있다고 최근 밝혔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "특히 추가 연구를 통해 두 증상을 동시에 유발하는 연결 고리 후보를 제시했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "비교적 알려지지 않은 뇌소혈관 질환 규명에 한걸음 다가간 것으로 평가된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "연구팀은 뇌졸중으로 입원한 1190명의 환자를 대상으로 환자의 기본 정보는 물론 고혈압·당뇨 병력, 뇌 자기공명영상(MRI), 골밀도 검사, X선 검사 등 폭넓게 자료를 수집했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "뇌소혈관 질환은 점수를 매겨 4단계(0점, 1점, 2점, 3~4점)로 구분했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "골밀도의 경우 3단계(정상, 골감소증, 골다공증)로 분류했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "방치하면 뇌졸중·치매 등 초래 연구결과 전체 1190명의 뇌졸중 환자 중 약 23.9%(284명)에서 골다공증이, 37.8%(450명)에서 골감소증이 관찰됐다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "뇌졸중 환자 10명 중 6명이 골밀도 저하를 겪는 것이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "또한 골밀도 저하와 뇌소혈관 질환의 관계를 분석한 결과 골밀도가 낮을수록 뇌소혈관 질환 위험이 커졌다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "이러한 경향은 고혈압성 뇌소혈관 질환일 때 더욱 두드러졌다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "연령과 성별 등 여러 인자를 보정한 결과, 골다공증은 심각한 수준(3~4점)의 뇌소혈관 질환과 독립적이면서 뚜렷한 상관관계를 보였다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "이어 연구팀은 70명의 환자를 대상으로 한 추가 연구를 통해 양자 간 상관관계를 형성하는 연결 고리를 찾았다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "그 결과 골다공증과 심각한 수준의 뇌소혈관 질환이 동반된 환자에게서 모두 miR-378f의 발현이 증가한다는 사실을 확인했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "즉 혈액 내 매개자를 통해 두 장기의 손상을 초래하는 모종의 병태생리 기전이 작동하는 것이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "김정민 교수는 “이번 연구를 통해 상당수 뇌졸중 환자에서 골밀도 저하가 동반된다는 점을 확인했다”며 “뇌소혈관 질환의 정확한 병태생리를 규명하고 치료 전략을 수립하기 위해서는 다양한 후속 연구가 필요하다”고 말했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "이번 연구는 미국 신경학회 학술지 ‘신경학(Neurology)’ 최근호에 게재됐다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서울대병원, 골밀도 낮을수록 '이 질환' 위험 증가 경고",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

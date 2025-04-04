@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197255",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "'부처님 오신날' 문화행사 풍성",
+    "newsSubTitle": "",
+    "newsContent": "불기 2544년인 올해 부처님 오신 날은 예년보다 풍성한 문화향연이 펼쳐진다.\n5월의 문화인물부터 신라 때의 고승으로 중국에서 범패와 차(茶)를 들여온 것으로 알려진 진감국사다.\n이 한달간 민속박물관 고려시대실 무량수전에서는 부처님의 진신사리와 고려 대장경 목판본, 월인천강지곡 등 다양한 불교 유물을 전시한다.\n공연도 활발하다.\n롯데월드는 부처님 오신 날인 11일 오후 1시, 3시 민속박물관 놀이마당에서 특별 무료공연을 마련한다.\n한빛 불교 예술단의 승무, 서울 송파구 석촌동 소재 불광사 '불광 예술단' 의 바라춤 등과 함께 티베트 승려 2명을 초청해 이국적인 범패 공연을 선보인다.\n국립국악원은 9일 오후 7시 30분 예악당에서 다채로운 불교예술을 담은 '천년회상(回想), 천년상생(相生)' 공연을 펼친다.\n국립국악원이 불교예술과 관련한 공연을 마련한 것은 이번이 처음이다.\n기악곡 '영산회상' 가운데 '상령산' , 중요 무형문화재 제 50호 영산재 보존회 스님들의 범패.작법 공연, 중요 무형문화재 제27호 승무 보유자인 이매방의 승무, 중요 무형문화재 제 57호 경기민요 보유자 이춘희의 회심곡 등을 선보인다.\n한국차문화협회에서 준비한 한 잔의 우리 차를 즐긴 후 공연감상을 하고, 공연 후에는 관람객과 출연자가 광장에서 함께 탑돌이도 한다. '향기를 찾는 사람들'이 우리 향 전시도 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "불기 2544년인 올해 부처님 오신 날은 예년보다 풍성한 문화향연이 펼쳐진다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "5월의 문화인물부터 신라 때의 고승으로 중국에서 범패와 차(茶)를 들여온 것으로 알려진 진감국사다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 한달간 민속박물관 고려시대실 무량수전에서는 부처님의 진신사리와 고려 대장경 목판본, 월인천강지곡 등 다양한 불교 유물을 전시한다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공연도 활발하다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "롯데월드는 부처님 오신 날인 11일 오후 1시, 3시 민속박물관 놀이마당에서 특별 무료공연을 마련한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한빛 불교 예술단의 승무, 서울 송파구 석촌동 소재 불광사 '불광 예술단' 의 바라춤 등과 함께 티베트 승려 2명을 초청해 이국적인 범패 공연을 선보인다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "국립국악원은 9일 오후 7시 30분 예악당에서 다채로운 불교예술을 담은 '천년회상(回想), 천년상생(相生)' 공연을 펼친다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "국립국악원이 불교예술과 관련한 공연을 마련한 것은 이번이 처음이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "기악곡 '영산회상' 가운데 '상령산' , 중요 무형문화재 제 50호 영산재 보존회 스님들의 범패.작법 공연, 중요 무형문화재 제27호 승무 보유자인 이매방의 승무, 중요 무형문화재 제 57호 경기민요 보유자 이춘희의 회심곡 등을 선보인다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한국차문화협회에서 준비한 한 잔의 우리 차를 즐긴 후 공연감상을 하고, 공연 후에는 관람객과 출연자가 광장에서 함께 탑돌이도 한다. '향기를 찾는 사람들'이 우리 향 전시도 한다.",
+        "sentenceSize": 100
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "부처님오신날 맞아 롯데월드서 화끈한 범패 공연 펼친다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193037",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "친구야! 늙어갈수록 우리 젊게 살자",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 웃긴다! 79살이란다(42) 아파트 11층에서 내가 탄 엘리베이터는 잘 내려가다가 또 3층에서 멈춘다.\n이윽고 문이 열리자 녀석은 고개를 숙인 채 타더니 이내 문 쪽을 향해 돌아선다.\n녀석은 오늘도 변함없이 헐렁한 러닝셔츠에 잠옷 같은 바지 차림새다.\n맨발에 그 흔한 까만 세줄 슬리퍼까지 변함이 없었다.\n옆에서 본 턱수염은 듬성듬성 제멋대로 자라나 흉한 꼴을 더욱 부추긴다.\n오전 10시가 조금 넘은 시간. 이 시간쯤이면 나는 운동 가방을 들고 아파트 건너편에 있는 헬스장으로 가는 시간이다.\n녀석과는 가끔 이렇게 엘리베이터 안에서 조우하지만 볼 때마다 왜 불쾌해 보이는지…. 아마도 내 나이보다는 5, 6년 정도는 아래로 보이는데도 녀석의 행동거지는 80살을 훌쩍 넘어선 꾀죄죄한 늙은이로 보인다.\n10층에서 탄 젊은 주부는 아예 못 본채 고개를 돌려버린다.\n녀석은 대체 어떤 사연이 있는지는 모르겠지만 왜 ‘다 죽어가는 노인상’을 자청해서 그리는 것일까?\n천성인 게으름 탓일까?\n그래도 그렇지 공동생활을 하는 아파트에서 남의 눈에 사나운 행동은 가려서 해야 하는 것쯤은 누가 가르쳐주지 않아도 스스로 터득해야 하는 거 아닌가?\n짜샤! (꼴 보기 싫은 친구니까 내 마음대로 싸질러 부른다) 부탁 하나 하자.\n제발 그 헐렁한 러닝셔츠는 입지 마.\n잠옷 바지도. 그리고 그 낡고 찢어진 검정 슬리퍼 질질 끌지 마.\n허리도 좀 활짝 펴봐.\n너 때문에 이 좁은 엘리베이터 속에서 내 얼굴에 화끈하게 불 질러야 하겠니?\n우리 서로 늙은 티 내지 말고 사는 날까지 깨끗하게, 곱게, 그리고 젊게 살자.\n짜샤! 그리고 마지막 부탁이다.\n3층에서 엘리베이터는 타지 마. 3층 정도는 운동 삼아 걸어서 내려가도 되잖아.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 웃긴다! 79살이란다(42) 아파트 11층에서 내가 탄 엘리베이터는 잘 내려가다가 또 3층에서 멈춘다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이윽고 문이 열리자 녀석은 고개를 숙인 채 타더니 이내 문 쪽을 향해 돌아선다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "녀석은 오늘도 변함없이 헐렁한 러닝셔츠에 잠옷 같은 바지 차림새다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "맨발에 그 흔한 까만 세줄 슬리퍼까지 변함이 없었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "옆에서 본 턱수염은 듬성듬성 제멋대로 자라나 흉한 꼴을 더욱 부추긴다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오전 10시가 조금 넘은 시간. 이 시간쯤이면 나는 운동 가방을 들고 아파트 건너편에 있는 헬스장으로 가는 시간이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "녀석과는 가끔 이렇게 엘리베이터 안에서 조우하지만 볼 때마다 왜 불쾌해 보이는지…. 아마도 내 나이보다는 5, 6년 정도는 아래로 보이는데도 녀석의 행동거지는 80살을 훌쩍 넘어선 꾀죄죄한 늙은이로 보인다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "10층에서 탄 젊은 주부는 아예 못 본채 고개를 돌려버린다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "녀석은 대체 어떤 사연이 있는지는 모르겠지만 왜 ‘다 죽어가는 노인상’을 자청해서 그리는 것일까?",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "천성인 게으름 탓일까?",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그래도 그렇지 공동생활을 하는 아파트에서 남의 눈에 사나운 행동은 가려서 해야 하는 것쯤은 누가 가르쳐주지 않아도 스스로 터득해야 하는 거 아닌가?",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "짜샤! (꼴 보기 싫은 친구니까 내 마음대로 싸질러 부른다) 부탁 하나 하자.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "제발 그 헐렁한 러닝셔츠는 입지 마.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "잠옷 바지도. 그리고 그 낡고 찢어진 검정 슬리퍼 질질 끌지 마.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "허리도 좀 활짝 펴봐.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "너 때문에 이 좁은 엘리베이터 속에서 내 얼굴에 화끈하게 불 질러야 하겠니?",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "우리 서로 늙은 티 내지 말고 사는 날까지 깨끗하게, 곱게, 그리고 젊게 살자.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "짜샤! 그리고 마지막 부탁이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "3층에서 엘리베이터는 타지 마. 3층 정도는 운동 삼아 걸어서 내려가도 되잖아.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "오전 10시… 3층에서 엘리베이터 타는 그 녀석에게 고하는 말",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

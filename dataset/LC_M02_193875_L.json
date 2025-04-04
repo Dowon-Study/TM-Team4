@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193875",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "고효율 LED 전등이 어린이 수면장애 원인",
+    "newsSubTitle": "",
+    "newsContent": "당신 아이가 늘 컴퓨터나 스마트폰을 들여다보고있다면 그걸 만류하느라 얼마나 많은 이유를 대야 할까.\n최근 연구결과를 보면 컴퓨터나 전등의 인공조명에 노출되면 수면장애를 겪을 가능성이 높다.\n특히 어린이들에게 더 그렇다.\n하버드 의대 수면약학교수인 찰스 자이슬러(Charles A. Czeisler) 박사가 연구한 바에 따르면 늦은 오후나 저녁쯤 컴퓨터나 기타 전자기기의 인공조명에 노출된 아이들은 6~8시간정도 수면사이클에 방해를 받는다고 한다.\n시차병과 유사한 증상을 유발한다는 것. 자이슬러 박사는 최근 신경과학회 미팅에서 기조연설을 통해 \\\"우리는 기술 때문에 자연의 24시간을 제대로 누리지못하고있다\\\"고 말했다.\n기본적으로, 전자기기로부터 나오는 모든 청색빛는 인간의 뇌가 아직 낮이라고 인지토록하는 밝은 햇빛을 흉내낸 것이다.\n연구결과를 보면 인공조명에 노출은 인간을 각성시키는 코티졸(cortisol 부신피질에서 생성되는 스테로이드 호르몬의 일종으로 신체기관의 포도당 사용을 억제한다. 스트레스에 대항해 몸 전체적으로 에너지를 공급케하는 신호를 전달한다. 이에 따라 맥박과 호흡이 증가하며 근육 긴장, 예민한 정신을 갖게 한다)의 생성을 자극한다.\n자이슬러 박사는 LED(light-emitting diodes)가 뇌의 코티졸 생성을 2배나 자극한다는 사실을 알아냈다.\n그의 연구에서 늦은 오후 청색 불빛에 노출된 학생들은 최대 2시간까지 취침시간이 늦어지는 현상을 경험했다.\n실제로 에너지효율이 높은 조명기구로서 LED는 텔레비전에서 태블릿PC, 에너지절약형 전등까지 거의 모든 곳에서 사용되고 있다, 특별히 문제가 되는 것은 LED가 아이들의 취침패턴에 영향을 준다는 사실이다.\n학교마다 랩탑이나 태블릿 사용이 늘어나면서 아이들이 학습시간에도 LED 불빛에 많이 노출되고 있다.\n자이슬러나 여타 수면전문가들은 이런 기기들이 학생들의 취침패턴에 영향을 끼친다는 사실에 주의를 기울이지않으면 수면부족에 따른 피해를 막기 어려워진다고 우려한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "당신 아이가 늘 컴퓨터나 스마트폰을 들여다보고있다면 그걸 만류하느라 얼마나 많은 이유를 대야 할까.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 연구결과를 보면 컴퓨터나 전등의 인공조명에 노출되면 수면장애를 겪을 가능성이 높다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 어린이들에게 더 그렇다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하버드 의대 수면약학교수인 찰스 자이슬러(Charles A. Czeisler) 박사가 연구한 바에 따르면 늦은 오후나 저녁쯤 컴퓨터나 기타 전자기기의 인공조명에 노출된 아이들은 6~8시간정도 수면사이클에 방해를 받는다고 한다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "시차병과 유사한 증상을 유발한다는 것. 자이슬러 박사는 최근 신경과학회 미팅에서 기조연설을 통해 \\\"우리는 기술 때문에 자연의 24시간을 제대로 누리지못하고있다\\\"고 말했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "기본적으로, 전자기기로부터 나오는 모든 청색빛는 인간의 뇌가 아직 낮이라고 인지토록하는 밝은 햇빛을 흉내낸 것이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연구결과를 보면 인공조명에 노출은 인간을 각성시키는 코티졸(cortisol 부신피질에서 생성되는 스테로이드 호르몬의 일종으로 신체기관의 포도당 사용을 억제한다. 스트레스에 대항해 몸 전체적으로 에너지를 공급케하는 신호를 전달한다. 이에 따라 맥박과 호흡이 증가하며 근육 긴장, 예민한 정신을 갖게 한다)의 생성을 자극한다.",
+        "sentenceSize": 180
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "자이슬러 박사는 LED(light-emitting diodes)가 뇌의 코티졸 생성을 2배나 자극한다는 사실을 알아냈다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그의 연구에서 늦은 오후 청색 불빛에 노출된 학생들은 최대 2시간까지 취침시간이 늦어지는 현상을 경험했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "실제로 에너지효율이 높은 조명기구로서 LED는 텔레비전에서 태블릿PC, 에너지절약형 전등까지 거의 모든 곳에서 사용되고 있다, 특별히 문제가 되는 것은 LED가 아이들의 취침패턴에 영향을 준다는 사실이다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "학교마다 랩탑이나 태블릿 사용이 늘어나면서 아이들이 학습시간에도 LED 불빛에 많이 노출되고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "자이슬러나 여타 수면전문가들은 이런 기기들이 학생들의 취침패턴에 영향을 끼친다는 사실에 주의를 기울이지않으면 수면부족에 따른 피해를 막기 어려워진다고 우려한다.",
+        "sentenceSize": 89
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "스마트폰 보는 우리 아이, 잠 못 드는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

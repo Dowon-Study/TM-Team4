@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197340",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "사우디, 안심밴드 10만 개 사갔다…약 10억원 수출",
+    "newsSubTitle": "진단키트, 드라이브스루 등 이어 K-방역 수출",
+    "newsContent": "신종 코로나바이러스 감염증(코로나19) 관련 자가격리자의 무단 이탈을 막기 위해 정부가 도입한 안심 밴드의 첫 해외 수출 사례가 나왔다.\n김강립(보건복지부 차관) 중앙재난안전대책본부 1총괄조정관은 20일 정부서울청사에서 열린 정례 브리핑에서 \\\"사우디아라비아가 안심밴드에 큰 관심을 보였다\\\"며 \\\"최근 KT를 통해 10만 개 구입을 요청해 수출이 이뤄졌다\\\"고 밝혔다.\n수출 규모는 총 9억8000만원 어치로, 현재까지 5만 개가 배송됐고 나머지 5만 개도 추후 배송 예정이다.\n김 1총괄조정관은 \\\"사우디 외에 3~5개국이 현재 코트라(KOTRA) 등을 통해 안심밴드 수출을 협의 중\\\"이라고 전했다.\n방역당국은 진단키트, 차량 이동형(드라이브스루·Drive Thru) 선별진료소에 이어 안심밴드도 해외에서 '러브콜'이 이어지자 'K-방역' 선도에 탄력을 받은 모습이다.\n김 1총괄조정관은 \\\"그간 창의적인 방역제도로 평가받은 생활치료센터나 '드라이브 스루' 등 다양한 선별진료소 모형 이외에 안심밴드, 자가격리 앱과 같은 정보통신기술 관련 기기를 통해 대한민국 방역제도의 새로운 모델을 국제사회와 공유하는 사례로 평가할 수 있다\\\"고 의미를 부여했다.\n청와대는 지난 3월 중순 아랍에미레이트(UAE)에 5만여 명분의 코로나19 진단키트 수출을 밝혔고, 이후 40~50개국이 한국의 진단키트 수입 및 지원을 정부에 요청하고 있다.\n드라이브스루, 워크스루 선별진료소는 미국 워싱턴포스트(WP) 등 해외 외신이 수차례 주목한 바 있다.\n정부는 이런 국제사회 호응에 힘입어 선별진료소 운영, 생활치료센터 운영 표준모형 등 18종의 K-방역모델 국제표준화를 추진하고 있다.\n안심밴드는 자가격리자의 수칙 위반 사례가 잇따르자 정부가 지난달 27일 도입했다.\n격리지를 무단 이탈하거나, 확인 전화를 받지 않는 등 격리 지침을 위반한 사람들이 차게 된다.\n이들은 안심밴드 착용에 동의하지 않으면 시설에 강제 격리된다.\n방역당국에 따르면, 지난달 안심밴드 도입 이후 19일 오후 6시 기준으로, 그간 48명이 착용했다.\n이 중 29명은 격리해제돼 현재는 19명이 착용 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신종 코로나바이러스 감염증(코로나19) 관련 자가격리자의 무단 이탈을 막기 위해 정부가 도입한 안심 밴드의 첫 해외 수출 사례가 나왔다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김강립(보건복지부 차관) 중앙재난안전대책본부 1총괄조정관은 20일 정부서울청사에서 열린 정례 브리핑에서 \\\"사우디아라비아가 안심밴드에 큰 관심을 보였다\\\"며 \\\"최근 KT를 통해 10만 개 구입을 요청해 수출이 이뤄졌다\\\"고 밝혔다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "수출 규모는 총 9억8000만원 어치로, 현재까지 5만 개가 배송됐고 나머지 5만 개도 추후 배송 예정이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김 1총괄조정관은 \\\"사우디 외에 3~5개국이 현재 코트라(KOTRA) 등을 통해 안심밴드 수출을 협의 중\\\"이라고 전했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방역당국은 진단키트, 차량 이동형(드라이브스루·Drive Thru) 선별진료소에 이어 안심밴드도 해외에서 '러브콜'이 이어지자 'K-방역' 선도에 탄력을 받은 모습이다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김 1총괄조정관은 \\\"그간 창의적인 방역제도로 평가받은 생활치료센터나 '드라이브 스루' 등 다양한 선별진료소 모형 이외에 안심밴드, 자가격리 앱과 같은 정보통신기술 관련 기기를 통해 대한민국 방역제도의 새로운 모델을 국제사회와 공유하는 사례로 평가할 수 있다\\\"고 의미를 부여했다.",
+        "sentenceSize": 157
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "청와대는 지난 3월 중순 아랍에미레이트(UAE)에 5만여 명분의 코로나19 진단키트 수출을 밝혔고, 이후 40~50개국이 한국의 진단키트 수입 및 지원을 정부에 요청하고 있다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "드라이브스루, 워크스루 선별진료소는 미국 워싱턴포스트(WP) 등 해외 외신이 수차례 주목한 바 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정부는 이런 국제사회 호응에 힘입어 선별진료소 운영, 생활치료센터 운영 표준모형 등 18종의 K-방역모델 국제표준화를 추진하고 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "안심밴드는 자가격리자의 수칙 위반 사례가 잇따르자 정부가 지난달 27일 도입했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "격리지를 무단 이탈하거나, 확인 전화를 받지 않는 등 격리 지침을 위반한 사람들이 차게 된다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이들은 안심밴드 착용에 동의하지 않으면 시설에 강제 격리된다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "방역당국에 따르면, 지난달 안심밴드 도입 이후 19일 오후 6시 기준으로, 그간 48명이 착용했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이 중 29명은 격리해제돼 현재는 19명이 착용 중이다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "못 나가게 막아라… 한국서 고안한 얼핏 끔찍한 '안심밴드' 수출 '첫 경험'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

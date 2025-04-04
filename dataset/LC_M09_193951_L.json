@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M09_193951",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "방송·연예",
+    "newsTitle": "민중의 그릇 빚는 ‘망댕이 가마’",
+    "newsSubTitle": "null",
+    "newsContent": "한국기행 (EBS 밤 9시30분) 3부 망댕이 가마, 민중의 그릇 구워내다.\n도자기의 원재료인 사토 흙과 땔감이 풍부한 문경은 도자기 생산의 천혜의 조건을 갖추고 있다.\n문경 도자기의 역사는 고려시대까지 거슬러 올라가는데, 특히 조선 중기 서민들이 주로 사용하던 막사발을 만들던 민요로 유명하다.\n지금도 여전히 옛 선조들의 방식을 그대로 계승하고 있는 김정옥 사기장을 만난다.\n그의 손에서 순식간에 빚어지는 도자기와는 달리 물레를 돌리는 발은 한시도 쉴 틈 없이 움직인다.\n그는 전통 망댕이 가마를 지금도 사용하고 있다.\n망댕이란 길이 20㎝ 굵기의 사람 장딴지 모양의 진흙덩어리를 말하며 1만여개를 쌓아 쓴다 해서 망댕이 가마라는 이름이 유래됐다 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국기행 (EBS 밤 9시30분) 3부 망댕이 가마, 민중의 그릇 구워내다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "도자기의 원재료인 사토 흙과 땔감이 풍부한 문경은 도자기 생산의 천혜의 조건을 갖추고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "문경 도자기의 역사는 고려시대까지 거슬러 올라가는데, 특히 조선 중기 서민들이 주로 사용하던 막사발을 만들던 민요로 유명하다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지금도 여전히 옛 선조들의 방식을 그대로 계승하고 있는 김정옥 사기장을 만난다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그의 손에서 순식간에 빚어지는 도자기와는 달리 물레를 돌리는 발은 한시도 쉴 틈 없이 움직인다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 전통 망댕이 가마를 지금도 사용하고 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "망댕이란 길이 20㎝ 굵기의 사람 장딴지 모양의 진흙덩어리를 말하며 1만여개를 쌓아 쓴다 해서 망댕이 가마라는 이름이 유래됐다 한다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고려시대부터 계승된 선조들의 지혜... '망댕이 가마'가 대체 뭐길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

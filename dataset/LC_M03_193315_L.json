@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193315",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "떠 먹이는 이유식 ‘아기밀 냠냠’",
+    "newsSubTitle": "뉴질랜드 인증 유기농 100%",
+    "newsContent": "친환경 유아식 전문업체인 일동후디스(대표 이금기)에서 뉴질랜드의 유기농 인증을 받은 유기농 100% 떠먹이는 이유식을 출시했다.\n일동후디스의 ‘유기농 아기밀 냠냠’은 청정지역 뉴질랜드에서 유기농 인증을 받은 유기농 100% 과일과 야채 원료만을 사용하여 만든 유아식 이다.\n뉴질랜드 유기농 인증이란 국제유기농업운동연맹(IFOAM)의 인증기관인 뉴질랜드 Agri(Asure) Quality Organic Standard 에서 엄격한 현장평가와 인증위원회의 심의를 거쳐 유기농임을 인증한 제도이다.\n설탕 무첨가, 無인공향료, 無인공색소, 無방부제 등 인공첨가제를 일체 넣지 않아 언제 어디서나 안심하고 먹일 수 있으며 소금, 전분 등을 사용하지 않고 유기농 원료 그대로의 맛을 느낄 수 있다.\n배, 바나나, 사과, 커스터드, 망고, 귀리, 보리, 종합과일 등 총 9가지 다양한 맛으로 출시되어 입맛에 따라 선택하여 먹일 수 있으며 월령에 맞춘 영양설계로 아기의 월령에 맞게 손쉽게 선택할 수 있다.\n또한 먹기 좋은 무르기로 만들어 아기들의 미각발달과 씹는 훈련을 도와주고 언제 어디서든 아기가 배고픔을 느낄 때 바로 떠먹일 수 있어 편리하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "친환경 유아식 전문업체인 일동후디스(대표 이금기)에서 뉴질랜드의 유기농 인증을 받은 유기농 100% 떠먹이는 이유식을 출시했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "일동후디스의 ‘유기농 아기밀 냠냠’은 청정지역 뉴질랜드에서 유기농 인증을 받은 유기농 100% 과일과 야채 원료만을 사용하여 만든 유아식 이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뉴질랜드 유기농 인증이란 국제유기농업운동연맹(IFOAM)의 인증기관인 뉴질랜드 Agri(Asure) Quality Organic Standard 에서 엄격한 현장평가와 인증위원회의 심의를 거쳐 유기농임을 인증한 제도이다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "설탕 무첨가, 無인공향료, 無인공색소, 無방부제 등 인공첨가제를 일체 넣지 않아 언제 어디서나 안심하고 먹일 수 있으며 소금, 전분 등을 사용하지 않고 유기농 원료 그대로의 맛을 느낄 수 있다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "배, 바나나, 사과, 커스터드, 망고, 귀리, 보리, 종합과일 등 총 9가지 다양한 맛으로 출시되어 입맛에 따라 선택하여 먹일 수 있으며 월령에 맞춘 영양설계로 아기의 월령에 맞게 손쉽게 선택할 수 있다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 먹기 좋은 무르기로 만들어 아기들의 미각발달과 씹는 훈련을 도와주고 언제 어디서든 아기가 배고픔을 느낄 때 바로 떠먹일 수 있어 편리하다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'맛잘알' 일동후디스, 유기농 100% 떠먹이는 이유식 출시",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

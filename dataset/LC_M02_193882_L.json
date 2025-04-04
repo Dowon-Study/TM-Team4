@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193882",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "방송스태프노조, KBS와 만났다 \\\"노동환경 개선해달라\\\"",
+    "newsSubTitle": "",
+    "newsContent": "희망연대노동조합 방송스태프지부에서 방송사에 제작 스태프 노동환경 개선을 위한 요구 사항을 전달했다.\n지난 달 31일 희망연대노조는 KBS 주말드라마 '같이 살래요' 관계자들과 만나 1일12시간 노동12시간 휴식과 주68시간 노동시간 보장 및 야간 교통비 지급 등을 정식으로 요구했다.\n이날 참석자는 KBS 측에서는 정성효 드라마센터장, 황의경 '같이 살래요' CP 등이 참석했고, 희망연대노조에서는 이만재 조직국장 및 김두영 방송스태프지부장 등이 참석했다.\n이만재 조직국장은 6일 미디어SR에 \\\"'같이 살래요' 제작에 참여한 조합원들 수가 많아 우선적으로 면담을 해 요구사항을 전달했다\\\"라며 \\\"추후에도 조합원들이 많은 현장을 중심으로 내부 논의를 통해 면담을 할 예정이다\\\"라고 전했다.\nKBS는 희망연대노조의 이 같은 요구에 10일까지 답변을 주기로 했다.\n희망연대노조 방송스태프지부는 노동계 대표적인 사각지대인 비정규직 프리랜서 방송 스태프들이 모인 노동조합으로, 지난 달 출범한 단체다.\n노조는 특례업종 폐지로 인해 법적으로 주68시간 근무가 원칙인 방송업계에 해당 법령이 잘 적용되고 있는지를 감시하고 있다.\n이외에도 정당한 임금과 초과 노동수당 지급 및 휴게시간 보장, 8시간의 수면권 보장, 노동인권 존중 등을 요구하고 나섰다.\nKBS와의 면담 이후, 타 방송사와도 면담을 갖고 스태프들의 노동환경 개선을 요구할 계획이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "희망연대노동조합 방송스태프지부에서 방송사에 제작 스태프 노동환경 개선을 위한 요구 사항을 전달했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 달 31일 희망연대노조는 KBS 주말드라마 '같이 살래요' 관계자들과 만나 1일12시간 노동12시간 휴식과 주68시간 노동시간 보장 및 야간 교통비 지급 등을 정식으로 요구했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 참석자는 KBS 측에서는 정성효 드라마센터장, 황의경 '같이 살래요' CP 등이 참석했고, 희망연대노조에서는 이만재 조직국장 및 김두영 방송스태프지부장 등이 참석했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이만재 조직국장은 6일 미디어SR에 \\\"'같이 살래요' 제작에 참여한 조합원들 수가 많아 우선적으로 면담을 해 요구사항을 전달했다\\\"라며 \\\"추후에도 조합원들이 많은 현장을 중심으로 내부 논의를 통해 면담을 할 예정이다\\\"라고 전했다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "KBS는 희망연대노조의 이 같은 요구에 10일까지 답변을 주기로 했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "희망연대노조 방송스태프지부는 노동계 대표적인 사각지대인 비정규직 프리랜서 방송 스태프들이 모인 노동조합으로, 지난 달 출범한 단체다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "노조는 특례업종 폐지로 인해 법적으로 주68시간 근무가 원칙인 방송업계에 해당 법령이 잘 적용되고 있는지를 감시하고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이외에도 정당한 임금과 초과 노동수당 지급 및 휴게시간 보장, 8시간의 수면권 보장, 노동인권 존중 등을 요구하고 나섰다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "KBS와의 면담 이후, 타 방송사와도 면담을 갖고 스태프들의 노동환경 개선을 요구할 계획이다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "기본적인 노동환경 요구... 왜 방송가만 무법지대인가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

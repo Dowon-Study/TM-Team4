@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M09_193972",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "방송·연예",
+    "newsTitle": "철원 아저씨밴드, 장수할 수 있을까",
+    "newsSubTitle": "null",
+    "newsContent": "인간극장 ‘우리는 아저씨 밴드’(KBS1 아침 7시50분) 2회. 득규(46), 충식(38), 준식(38), 경진(27), 강산(26)으로 구성된 철원 아저씨 밴드를 소개한다.\n기타리스트가 꿈이던 득규씨는 취업전선에 뛰어든 뒤 어느덧 40대 중반이 됐다.\n충식씨는 자식이 잘못될까 걱정하는 부모님 때문에 꿈을 포기했다.\n레크리에이션 강사인 준식씨도, 직장이 없어 고민인 강산씨도 모두 현실에 순응하며 음악의 꿈을 접었다.\n그런 그들이 더 늦기 전에 열정을 불태우기로 힘을 모았다.\n부르는 곳은 어디든 달려가 목청이 터져라 노래한다.\n하지만 현실은 여전히 누구의 남편, 아들이다.\n득규씨는 양계장 일과 공연 날이 겹쳐 고민하고, 준식씨 또한 얼마 전 셋째를 낳고 몸조리 중인 아내의 눈치를 살핀다.\n현실은 갈등이 되고 싸움으로 번지기도 한다.\n철원 아저씨 밴드는 장수할 수 있을까.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "인간극장 ‘우리는 아저씨 밴드’(KBS1 아침 7시50분) 2회. 득규(46), 충식(38), 준식(38), 경진(27), 강산(26)으로 구성된 철원 아저씨 밴드를 소개한다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "기타리스트가 꿈이던 득규씨는 취업전선에 뛰어든 뒤 어느덧 40대 중반이 됐다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "충식씨는 자식이 잘못될까 걱정하는 부모님 때문에 꿈을 포기했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "레크리에이션 강사인 준식씨도, 직장이 없어 고민인 강산씨도 모두 현실에 순응하며 음악의 꿈을 접었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그런 그들이 더 늦기 전에 열정을 불태우기로 힘을 모았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "부르는 곳은 어디든 달려가 목청이 터져라 노래한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 현실은 여전히 누구의 남편, 아들이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "득규씨는 양계장 일과 공연 날이 겹쳐 고민하고, 준식씨 또한 얼마 전 셋째를 낳고 몸조리 중인 아내의 눈치를 살핀다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "현실은 갈등이 되고 싸움으로 번지기도 한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "철원 아저씨 밴드는 장수할 수 있을까.",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "음악으로 모인 철원 아저씨밴드, 갈등 겪고 싸우면서도 장수 할 수 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

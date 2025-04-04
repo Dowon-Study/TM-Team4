@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193667",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[땅이야기 맛이야기] 충남(9) 머릿속에 그려오던 시골 할머니댁 밥상, 진국집",
+    "newsSubTitle": "한국국토정보공사 서산지사 직원이 추천하는 맛집",
+    "newsContent": "맑은 김치찌개 게국지 칼국수로 시작해서 게국지 백반으로 자리잡기까지 20여 년이 흘렀다.\n그럼 게국지란 무얼까.\n게국지란 충남지방에서 먹는 김치찌개의 한 종류로, 김치찌개임에도 불구하고 국물이 맑은 것이 특징이다.\n주인 할머니가 별다른 의도 없이 만들어낸 이 게국지가 입소문을 타면서 서산의 3대 맛집으로도 이름을 올렸다.\n당신이 생각하던 시골밥상 메뉴판이 따로 없다.\n그래서 별다른 요청이 없으면 찾아간 인원수에 맞춰 게국지 백반이 나온다.\n가장 중요한 게국지를 비롯해서 계란찜, 된장찌개, 새우가 들어간 호박찌개 등 뚝배기만도 네 개이며, 밑반찬은 무려 10가지 정도가 나온다.\n그리고 밥은 잡곡밥. 흔히들 머릿속에 그리는 시골 할머니댁 밥상이며, 값은 7천 원이다.\n맛있는 짠맛 '진국집'의 음식들은 전체적으로 간이 센 편이다.\n그래서 호불호가 갈리는 편이지만, 맛있다고 하는 이들이 공통적으로 하는 말이 맛있게 짜다는 것이다.\n특히 게국지의 경우에는 배추에서 나오는 단맛과 게에서 나오는 감칠맛이 더해져서 같은 짠맛이라도 중독성이 있다.\n그래서 서산만 오면 진국집을 필수 코스로 들렀다 가는 단골들이 꽤 있다.\n예나 지금이나 그대로 '진국집'은 오래 전 그 모습 그대로다.\n으슥한 골목, 허름한 사잇길 그리고 세로로 갈라진 나무간판, 마치 보통 가정집에 간판을 걸어놓은 것 같다고나 할까.\n하지만 KBS 프로그램 1박2일에서 입맛 까다로운 가수 은지원 씨가 맛있게 먹는 장면이 방송된 후 유명세를 타기도 했다.\n하지만 주인 할머니는 그런 것에 개의치 않는다.\n출처. 한국국토정보공사, 2016 땅이야기 맛이야기",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "맑은 김치찌개 게국지 칼국수로 시작해서 게국지 백반으로 자리잡기까지 20여 년이 흘렀다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그럼 게국지란 무얼까.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "게국지란 충남지방에서 먹는 김치찌개의 한 종류로, 김치찌개임에도 불구하고 국물이 맑은 것이 특징이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "주인 할머니가 별다른 의도 없이 만들어낸 이 게국지가 입소문을 타면서 서산의 3대 맛집으로도 이름을 올렸다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당신이 생각하던 시골밥상 메뉴판이 따로 없다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그래서 별다른 요청이 없으면 찾아간 인원수에 맞춰 게국지 백반이 나온다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "가장 중요한 게국지를 비롯해서 계란찜, 된장찌개, 새우가 들어간 호박찌개 등 뚝배기만도 네 개이며, 밑반찬은 무려 10가지 정도가 나온다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그리고 밥은 잡곡밥. 흔히들 머릿속에 그리는 시골 할머니댁 밥상이며, 값은 7천 원이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "맛있는 짠맛 '진국집'의 음식들은 전체적으로 간이 센 편이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그래서 호불호가 갈리는 편이지만, 맛있다고 하는 이들이 공통적으로 하는 말이 맛있게 짜다는 것이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "특히 게국지의 경우에는 배추에서 나오는 단맛과 게에서 나오는 감칠맛이 더해져서 같은 짠맛이라도 중독성이 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그래서 서산만 오면 진국집을 필수 코스로 들렀다 가는 단골들이 꽤 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "예나 지금이나 그대로 '진국집'은 오래 전 그 모습 그대로다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "으슥한 골목, 허름한 사잇길 그리고 세로로 갈라진 나무간판, 마치 보통 가정집에 간판을 걸어놓은 것 같다고나 할까.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "하지만 KBS 프로그램 1박2일에서 입맛 까다로운 가수 은지원 씨가 맛있게 먹는 장면이 방송된 후 유명세를 타기도 했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "하지만 주인 할머니는 그런 것에 개의치 않는다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "출처. 한국국토정보공사, 2016 땅이야기 맛이야기",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "상상만 해도 지리는 머릿속 시골 할머니 밥상, '가성비'까지",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

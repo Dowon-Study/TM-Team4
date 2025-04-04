@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197672",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "서정희 딸 서동주, 韓서 방송활동 시동...美 변호사 겸업",
+    "newsSubTitle": "",
+    "newsContent": "방송인 서정희 딸 서동주가 국내 방송활동에 시동을 건다. 10일 생각을보여주는엔터테인먼트(이하 생각엔터)에 따르면 서동주는 최근 생각엔터와 계약에 대한 논의를 가졌다.\n생각엔터는 오는 10월 서동주의 귀국과 동시에 전속계약 절차를 마무리지을 예정이다.\n서동주는 코미디언 서세원과 서정희의 딸이다.\n현재 그는 미국 샌프란시스코 대학 법대를 졸업한 뒤 퍼킨스 코이 로펌에서 변호사로 일하는 중이다.\n서동주는 미국 생활 중 한국 방송에 출연해 화제를 모으기도 했다.\n지난 6월에는 채널A '신입사원 탄생기-굿피플'에 게스트로 출연해 눈길을 끌었다.\n서동주는 변호사와 방송활동을 겸할 계획이다.\n생각엔터 측은 미디어SR에 \\\"한국에서 방송활동만 한다는 게 아니다. 지금처럼 미국에서 변호사로서 일하면서 한국 내에서는 방송 활동을 겸업하며 활발하게 활동할 것이며 소속사는 이를 서포트하는 개념\\\"이라고 설명했다.\n생각엔터는 방송인 홍록기, 한영, 김원효와 '내일은 미스트롯'에 출연했던 정매이와 트로트 가수 영기 등이 소속된 회사다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 서정희 딸 서동주가 국내 방송활동에 시동을 건다. 10일 생각을보여주는엔터테인먼트(이하 생각엔터)에 따르면 서동주는 최근 생각엔터와 계약에 대한 논의를 가졌다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "생각엔터는 오는 10월 서동주의 귀국과 동시에 전속계약 절차를 마무리지을 예정이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서동주는 코미디언 서세원과 서정희의 딸이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "현재 그는 미국 샌프란시스코 대학 법대를 졸업한 뒤 퍼킨스 코이 로펌에서 변호사로 일하는 중이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서동주는 미국 생활 중 한국 방송에 출연해 화제를 모으기도 했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 6월에는 채널A '신입사원 탄생기-굿피플'에 게스트로 출연해 눈길을 끌었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "서동주는 변호사와 방송활동을 겸할 계획이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "생각엔터 측은 미디어SR에 \\\"한국에서 방송활동만 한다는 게 아니다. 지금처럼 미국에서 변호사로서 일하면서 한국 내에서는 방송 활동을 겸업하며 활발하게 활동할 것이며 소속사는 이를 서포트하는 개념\\\"이라고 설명했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "생각엔터는 방송인 홍록기, 한영, 김원효와 '내일은 미스트롯'에 출연했던 정매이와 트로트 가수 영기 등이 소속된 회사다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국내 방송활동 시동... 美 변호사도 겸업한다는 유명 방송인 딸은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

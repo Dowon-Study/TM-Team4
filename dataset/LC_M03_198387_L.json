@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198387",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/즐겨읽기] 우리의 '영어 슬로건'은 공해다",
+    "newsSubTitle": "",
+    "newsContent": "한국영어를 고발한다 최용식 지음, 넥서스, 304쪽, 9800원 농협이 채택한 'Human Bank Human Life'란 슬로건 중 휴먼 뱅크는 사람의 피나 정자, 장기(臟器)를 냉동보관해 주거나 판매하는 장기 은행을 뜻한다.\n농협의 TV광고는 업종을 바꾸겠다는 속셈일까.\n서울시의 슬로건 'Hi! Seoul'은 한국식 영어의 표본이다.\n풀이하면 '안녕하세요, 서울'이니 서울 자신에게 인사하는 것이다.\n이상하기 짝이 없다.\n아니면 외국인에게 '당신 서울에게 인사하시오'라는 의미에 지나지 않는다.\n이 책은 수도 서울과 한국 최고의 기업집단이 사용하는 콩글리시는 단순한 오류가 아니라 사회적 재앙이요, 국가적 공해라면서 온갖 오류를 찾아내고 그 정확한 표현을 알려준다.\nSBS방송의 'Humanism thru Digital'이나 삼성의 슬로건 '월드 베스트(World Best)'처럼 문법적으로 틀린 것도 수두룩하다.\n영어교재 시장 규모가 연 수 조원대에 이르고 토익 응시자가 200만명에 이르는 나라에서 어떻게 이런 망신스런 일이 생기는지 궁금할 정도다.\n책에 실린 한국 기업에 근무하는 한 외국인은 \\\"해외 광고를 새로 낼 때 서양인인 내 의견은 항상 무시되고 사무실에서 투표로 결정된다. 하나 뿐인 외국인인 나는 투표에서 늘 진다.\\\"고 한 말이 힌트다.\n영어라면 진절머리가 나거나 열등감을 느끼는 이들에게 작은 위로도 되겠다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국영어를 고발한다 최용식 지음, 넥서스, 304쪽, 9800원 농협이 채택한 'Human Bank Human Life'란 슬로건 중 휴먼 뱅크는 사람의 피나 정자, 장기(臟器)를 냉동보관해 주거나 판매하는 장기 은행을 뜻한다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "농협의 TV광고는 업종을 바꾸겠다는 속셈일까.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서울시의 슬로건 'Hi! Seoul'은 한국식 영어의 표본이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "풀이하면 '안녕하세요, 서울'이니 서울 자신에게 인사하는 것이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이상하기 짝이 없다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아니면 외국인에게 '당신 서울에게 인사하시오'라는 의미에 지나지 않는다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 책은 수도 서울과 한국 최고의 기업집단이 사용하는 콩글리시는 단순한 오류가 아니라 사회적 재앙이요, 국가적 공해라면서 온갖 오류를 찾아내고 그 정확한 표현을 알려준다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "SBS방송의 'Humanism thru Digital'이나 삼성의 슬로건 '월드 베스트(World Best)'처럼 문법적으로 틀린 것도 수두룩하다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "영어교재 시장 규모가 연 수 조원대에 이르고 토익 응시자가 200만명에 이르는 나라에서 어떻게 이런 망신스런 일이 생기는지 궁금할 정도다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "책에 실린 한국 기업에 근무하는 한 외국인은 \\\"해외 광고를 새로 낼 때 서양인인 내 의견은 항상 무시되고 사무실에서 투표로 결정된다. 하나 뿐인 외국인인 나는 투표에서 늘 진다.\\\"고 한 말이 힌트다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "영어라면 진절머리가 나거나 열등감을 느끼는 이들에게 작은 위로도 되겠다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "외국인이 보면 갸우뚱... 영어 슬로건 오류 가득한 이유, 여기에 있다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

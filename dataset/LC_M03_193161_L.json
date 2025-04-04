@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193161",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "카드뮴 중독이란? '이타이이타이병'의 원인 역시 '카드뮴'",
+    "newsSubTitle": "",
+    "newsContent": "카드뮴 중독에 대한 관심이 높아지고 있다.\n카드뮴 중독이란 경구적 노출과 호흡기계를 통한 노출, 화합물의 종류, 노출조건 등에 의해 증상이 규정된다.\n원래 금속 카드뮴이 용해될 때 발생하는 산화카드뮴 증기나 비닐 제조공정에서 생기는 카드뮴 화합물에 의한 중독으로 알려져 왔으나, 최근에는 공장폐수 등에 함유되어 있는 카드뮴에 의한 식품의 오염, 특히 쌀의 오염이 밝혀져서 공해문제로 드러나기도 했다.\n제2차 세계대전 말기부터 전후에 일본에서 발생했던 ‘이타이이타이병’도 광산의 폐수에 함유되어 있던 카드뮴에 중독된 것으로 여겨진다.\n이타이이타이병은 카드뮴이 장기간에 걸쳐 섭취된 것으로 짐작되며 경산부에 많이 발생하는 것 등이 특징이다.\n뼈가 연화하여 변형·골절되고, 단백뇨 등이 주된 증상이다.\n카드뮴의 증기를 흡입한 경우는 주로 코 ·목구멍 ·폐 ·위장 ·신장의 장애가 나타나며, 호흡기능이 저하하고 오줌에 단백이나 당이 검출되기도 한다.\n또 소변의 카드뮴 배출량도 증가한다.\n온라인 중앙일보 ‘카드뮴 중독이란’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "카드뮴 중독에 대한 관심이 높아지고 있다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "카드뮴 중독이란 경구적 노출과 호흡기계를 통한 노출, 화합물의 종류, 노출조건 등에 의해 증상이 규정된다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "원래 금속 카드뮴이 용해될 때 발생하는 산화카드뮴 증기나 비닐 제조공정에서 생기는 카드뮴 화합물에 의한 중독으로 알려져 왔으나, 최근에는 공장폐수 등에 함유되어 있는 카드뮴에 의한 식품의 오염, 특히 쌀의 오염이 밝혀져서 공해문제로 드러나기도 했다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "제2차 세계대전 말기부터 전후에 일본에서 발생했던 ‘이타이이타이병’도 광산의 폐수에 함유되어 있던 카드뮴에 중독된 것으로 여겨진다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이타이이타이병은 카드뮴이 장기간에 걸쳐 섭취된 것으로 짐작되며 경산부에 많이 발생하는 것 등이 특징이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뼈가 연화하여 변형·골절되고, 단백뇨 등이 주된 증상이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "카드뮴의 증기를 흡입한 경우는 주로 코 ·목구멍 ·폐 ·위장 ·신장의 장애가 나타나며, 호흡기능이 저하하고 오줌에 단백이나 당이 검출되기도 한다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 소변의 카드뮴 배출량도 증가한다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 ‘카드뮴 중독이란’ [사진 중앙포토]",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "뼈 연화에 변형·골절까지... 주된 증상은 단백뇨\t",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

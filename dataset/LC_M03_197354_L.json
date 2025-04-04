@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197354",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "[ONE SHOT] 한국인의 김치…2집 중 1집 김장 안하고, 포장 김치 구입 늘어",
+    "newsSubTitle": "",
+    "newsContent": "한국인의 소울 푸드로 불리는 ‘김치’, 설문과 통계 자료를 통해 한국인들의 김치 선호도와 김장 여부, 최근 크게 커지고 있는 포장김치 시장에 대해 알아봤다.\n먼저 설문조사업체 두잇서베이가 실시한 ‘김치 선호도’ 설문 결과, 한국인은 다양한 김치 종류 중 ‘배추김치’(65.5%·복수응답)를 가장 좋아하는 것으로 나타났다.\n이어서 깍두기(33.2%), 겉절이(29.2%), 총각김치(20.6%) 순이었다.\n또 김치를 먹는 방법에 대한 질문에 ‘본인이나 주변에서 담근 김치를 먹는다’(71.7%·복수응답)는 응답이 가장 많았지만, ‘김치를 사 먹는다’(60.5%=누군가 직접 담근 김치를 사 온다 30.3% + 포장 김치를 사 온다 30.2%)는 응답도 많았다.\n위의 설문결과처럼 김치를 사 먹는 가정이 크게 늘고 있다는 사실은 통계와 또 다른 설문을 통해서도 확인할 수 있다.\n한국농수산식품유통공사(aT) 식품산업통계정보시스템(FIS)에 따르면, 전체 가정 중 포장김치 구매율은 2014년 8.0%에서 2019년 2.4배 이상 성장한 19.3%로 크게 늘었다.\n10가구 중 2가구가 포장김치를 먹고 있었다.\n또 종가집이 주부 3115명에게 ‘올해 김장 계획’을 물은 결과, 주부 중 54.9%가 올해 김장을 안 한다고 답한 것으로 나타났다.\n2가구 중 1가구 이상이 김장을 하지 않는다는 이야기다.\n치열해진 포장김치 시장에서 최강자는 국내 최초의 포장김치 브랜드 대상 ‘종가집’이다.\n종가집은 출시 이후 점유율 50% 이상을 유지하며 부동의 1위였지만, CJ제일제당의 ‘비비고 김치’ 출시 이후 양강구도로 바뀌고 있다.\n올해 6월 기준 종가집이 42.8%, 비비고가 40.2%로 점유율을 차지하고 있는 것으로 나타났다.\n비비고는 출시 초기 20%에도 못 미치는 점유율이었지만, 2017년 28.0%, 2018년 34.5%에서 올해 6월 40.2%(하선정 포함)까지 점유율이 급상승했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국인의 소울 푸드로 불리는 ‘김치’, 설문과 통계 자료를 통해 한국인들의 김치 선호도와 김장 여부, 최근 크게 커지고 있는 포장김치 시장에 대해 알아봤다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "먼저 설문조사업체 두잇서베이가 실시한 ‘김치 선호도’ 설문 결과, 한국인은 다양한 김치 종류 중 ‘배추김치’(65.5%·복수응답)를 가장 좋아하는 것으로 나타났다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어서 깍두기(33.2%), 겉절이(29.2%), 총각김치(20.6%) 순이었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 김치를 먹는 방법에 대한 질문에 ‘본인이나 주변에서 담근 김치를 먹는다’(71.7%·복수응답)는 응답이 가장 많았지만, ‘김치를 사 먹는다’(60.5%=누군가 직접 담근 김치를 사 온다 30.3% + 포장 김치를 사 온다 30.2%)는 응답도 많았다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "위의 설문결과처럼 김치를 사 먹는 가정이 크게 늘고 있다는 사실은 통계와 또 다른 설문을 통해서도 확인할 수 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한국농수산식품유통공사(aT) 식품산업통계정보시스템(FIS)에 따르면, 전체 가정 중 포장김치 구매율은 2014년 8.0%에서 2019년 2.4배 이상 성장한 19.3%로 크게 늘었다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "10가구 중 2가구가 포장김치를 먹고 있었다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 종가집이 주부 3115명에게 ‘올해 김장 계획’을 물은 결과, 주부 중 54.9%가 올해 김장을 안 한다고 답한 것으로 나타났다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "2가구 중 1가구 이상이 김장을 하지 않는다는 이야기다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "치열해진 포장김치 시장에서 최강자는 국내 최초의 포장김치 브랜드 대상 ‘종가집’이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "종가집은 출시 이후 점유율 50% 이상을 유지하며 부동의 1위였지만, CJ제일제당의 ‘비비고 김치’ 출시 이후 양강구도로 바뀌고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "올해 6월 기준 종가집이 42.8%, 비비고가 40.2%로 점유율을 차지하고 있는 것으로 나타났다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "비비고는 출시 초기 20%에도 못 미치는 점유율이었지만, 2017년 28.0%, 2018년 34.5%에서 올해 6월 40.2%(하선정 포함)까지 점유율이 급상승했다.",
+        "sentenceSize": 92
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이제는 2집 중 1곳 '김치 사 먹는다'··· 종갓집 vs 비비고 김치 양대산맥의 치열한 혈투",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

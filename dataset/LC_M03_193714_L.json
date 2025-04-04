@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193714",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "한국헬스케어디자인학회 추계학술대회 개최",
+    "newsSubTitle": "",
+    "newsContent": "한국헬스케어디자인학회가 내달 6일 서울 영등포구 사학연금회관에서 '2015 추계학술대회(KSHD Annual Conference 2015)'를 개최한다.\n보건의료계는 물론 뇌공학·디자인·건축학·공학·인문학 등의 분야별 전문가가 함께 하는 이날 학술대회는 '헬스케어 융합의 미래, 디자인으로 말하다'를 주제로 진행된다.\n서울와이즈요양병원 김치원 원장의 '의료 미래를 말하다'에 관한 강연을 시작으로 현식건축 안정웅 사장 '성공적인 병원 건립을 위한 단계별 고려사항', 세브란스병원 신동아 신경외과 교수 'Vertebral reconstruction using 3D-printed implant', 제일기획 이주희 프로 '자폐 아동의 소통을 돕기 위한 룩앳미 캠페인' 순으로 이어진다.\n특별세션에서는 '병원의 응급실·중환자실·감염관리를 말하다'를 주제로 환자중심 병원에 대한 최신 동향과 의견을 공유한다.\n서울의료원 팽한솔 시민공감서비스디자인센터 팀장이 '시민을 위한 공공병원 혁신의 시작-메르스 사태시, 서비스디자인의 역할', 해안건축 정의정 이사가 '국내 중환자실 디자인의 현재와 미래', 위아카이 김은영 선임연구원이 '병원 내 감염예방을 위한 디자인'에 대한 동향과 혁신 방향을 제시한다.\n서남의대 명지병원 김인병 응급의학장, 서울의료원 김현정 시민공감서비스디자인센터장, 동서울대학교 건축학과 윤형진 교수 등이 '감염관리, 응급실의 디자인을 말하다'를 주제로 토론을 펼친다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국헬스케어디자인학회가 내달 6일 서울 영등포구 사학연금회관에서 '2015 추계학술대회(KSHD Annual Conference 2015)'를 개최한다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보건의료계는 물론 뇌공학·디자인·건축학·공학·인문학 등의 분야별 전문가가 함께 하는 이날 학술대회는 '헬스케어 융합의 미래, 디자인으로 말하다'를 주제로 진행된다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서울와이즈요양병원 김치원 원장의 '의료 미래를 말하다'에 관한 강연을 시작으로 현식건축 안정웅 사장 '성공적인 병원 건립을 위한 단계별 고려사항', 세브란스병원 신동아 신경외과 교수 'Vertebral reconstruction using 3D-printed implant', 제일기획 이주희 프로 '자폐 아동의 소통을 돕기 위한 룩앳미 캠페인' 순으로 이어진다.",
+        "sentenceSize": 203
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특별세션에서는 '병원의 응급실·중환자실·감염관리를 말하다'를 주제로 환자중심 병원에 대한 최신 동향과 의견을 공유한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서울의료원 팽한솔 시민공감서비스디자인센터 팀장이 '시민을 위한 공공병원 혁신의 시작-메르스 사태시, 서비스디자인의 역할', 해안건축 정의정 이사가 '국내 중환자실 디자인의 현재와 미래', 위아카이 김은영 선임연구원이 '병원 내 감염예방을 위한 디자인'에 대한 동향과 혁신 방향을 제시한다.",
+        "sentenceSize": 161
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서남의대 명지병원 김인병 응급의학장, 서울의료원 김현정 시민공감서비스디자인센터장, 동서울대학교 건축학과 윤형진 교수 등이 '감염관리, 응급실의 디자인을 말하다'를 주제로 토론을 펼친다.",
+        "sentenceSize": 103
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한국헬스케어디자인학회, '헬스케어 융합의 미래' 다룬 추계학술대회 개최... '많관부'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

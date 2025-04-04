@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195700",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "대형병원 상해진단서 비용 최대 2.5배 차이",
+    "newsSubTitle": "평균 비용 11만4508원 ... 동일 등급·지역 병원도 2배 차이",
+    "newsContent": "대형병원의 상해진단서 비용이 싼 곳은 8만원, 비싼 곳은 20만원으로 그 격차가 최대 2.5배에 달하는 것으로 조사됐다.\n보건의료 분석평가 전문사이트인 팜스코어는 최근(2015년 9월11일 기준) 건강보험심사평가원의 비급여 진료비 정보를 토대로 종합병원급 이상 전국 329개 의료기관의 상해진단서(3주 이상) 비용을 분석한 결과, 이같이 나타났다고 9일 밝혔다.\n팜스코어에 따르면 전체 329개 의료기관의 상해진단서 평균 비용은 11만4508원이다.\n상해진단서 비용이 가장 비싼 곳은 한림대성심병원, 다보스병원, 인천국제성모병원, 강남병원, 검단탑병원 등 총 36개 병원으로 집계됐다.\n이들 병원의 비용은 20만원으로 가장 싼 병원(8만원)과의 격차는 2.5배에 달했다.\n가장 싼 곳은 서울 영등포구 소재 대림성모병원이었다.\n상해진단서 비용은 8만원으로 전체 평균 비용(11만4508원)의 절반이 채 되지 않았다.\n이어 안양샘병원, 울산병원, 현대병원, 해동병원 등을 포함한 259개 병원이 10만원으로 조사됐다.\n대부분의 병원들이 10만원으로 전체의 78.7%를 차지했다.\n일부 병원은 지역과 등급이 같은데도 상해진단서 비용에서 큰 차이를 보였다.\n일례로 경기소재 같은 상급종합병원인 한림대성심병원의 상해진단서 비용은 20만원이었으나, 순천향대부천병원은 10만원으로 2배 차이가 났다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대형병원의 상해진단서 비용이 싼 곳은 8만원, 비싼 곳은 20만원으로 그 격차가 최대 2.5배에 달하는 것으로 조사됐다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보건의료 분석평가 전문사이트인 팜스코어는 최근(2015년 9월11일 기준) 건강보험심사평가원의 비급여 진료비 정보를 토대로 종합병원급 이상 전국 329개 의료기관의 상해진단서(3주 이상) 비용을 분석한 결과, 이같이 나타났다고 9일 밝혔다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "팜스코어에 따르면 전체 329개 의료기관의 상해진단서 평균 비용은 11만4508원이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "상해진단서 비용이 가장 비싼 곳은 한림대성심병원, 다보스병원, 인천국제성모병원, 강남병원, 검단탑병원 등 총 36개 병원으로 집계됐다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이들 병원의 비용은 20만원으로 가장 싼 병원(8만원)과의 격차는 2.5배에 달했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "가장 싼 곳은 서울 영등포구 소재 대림성모병원이었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "상해진단서 비용은 8만원으로 전체 평균 비용(11만4508원)의 절반이 채 되지 않았다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 안양샘병원, 울산병원, 현대병원, 해동병원 등을 포함한 259개 병원이 10만원으로 조사됐다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "대부분의 병원들이 10만원으로 전체의 78.7%를 차지했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "일부 병원은 지역과 등급이 같은데도 상해진단서 비용에서 큰 차이를 보였다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "일례로 경기소재 같은 상급종합병원인 한림대성심병원의 상해진단서 비용은 20만원이었으나, 순천향대부천병원은 10만원으로 2배 차이가 났다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "문재인 케어가 낳은 과잉진료… 실태는? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

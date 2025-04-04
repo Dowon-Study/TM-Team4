@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196425",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Family건강] 젊은 여성 유방 양성종양 늘어",
+    "newsSubTitle": "제거 수술 환자 63%가 30대 이하",
+    "newsContent": "젊은 여성에게서 유방 양성종양이 늘고 있어 조기 발견의 필요성이 지적됐다.\n포천중문의대 강남차병원 유방·갑상선암센터 박해린 교수팀은 2003년 1월부터 2007년 7월까지 치료 목적으로 3037례의 맘모톰 절제 시술을 분석했다.\n그 결과 유방 양성종양 제거 시술을 받은 환자 중 62.9%가 30대 이하 젊은 여성이었다.\n특히 절반 이상은 환자의 손으로 만질 수 없는 비촉진성 환자였다.\n박 교수는 “양성종양이 생기는 정확한 원인은 밝혀지지 않았으나 젖을 분비하는 유선의 말단 부위인 유선소염의 과다 증식과 이에 따른 유방조직의 변형 때문일 것”이라고 추정했다.\n한편 손으로 혹이 만져지는 촉지성은 1203례(39.6%), 비촉지성은 1834례(60.4%)로 나타나 자가진단보다 정기적 검사가 무엇보다 중요한 것으로 지적됐다.\n수술 대신 고주파로 갑상선 종양을 치료하는 새로운 시술법이 선보였다.\n세브란스병원 갑상선클리닉 및 고주파 열치료실(담당:영상의학과 고흥규 교수)은 지난 6개월 동안 갑상선 양성종양 환자 중 미용 문제로 고민하는 103명의 환자를 대상으로 고주파 치료(사진)를 시행한 결과, 환자 모두에게서 50% 이상 종양이 줄어들었다고 최근 발표했다.\n갑상선 양성 종양은 악성과는 달리 암은 아니지만 3㎝ 이상 클 경우 미용 문제를 야기한다.\n고주파 치료는 1㎜ 굵기의 가는 바늘을 갑상선에 삽입, 고주파를 발생시켜 열로 종양을 태우는 방법이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "젊은 여성에게서 유방 양성종양이 늘고 있어 조기 발견의 필요성이 지적됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "포천중문의대 강남차병원 유방·갑상선암센터 박해린 교수팀은 2003년 1월부터 2007년 7월까지 치료 목적으로 3037례의 맘모톰 절제 시술을 분석했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 결과 유방 양성종양 제거 시술을 받은 환자 중 62.9%가 30대 이하 젊은 여성이었다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 절반 이상은 환자의 손으로 만질 수 없는 비촉진성 환자였다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박 교수는 “양성종양이 생기는 정확한 원인은 밝혀지지 않았으나 젖을 분비하는 유선의 말단 부위인 유선소염의 과다 증식과 이에 따른 유방조직의 변형 때문일 것”이라고 추정했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 손으로 혹이 만져지는 촉지성은 1203례(39.6%), 비촉지성은 1834례(60.4%)로 나타나 자가진단보다 정기적 검사가 무엇보다 중요한 것으로 지적됐다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "수술 대신 고주파로 갑상선 종양을 치료하는 새로운 시술법이 선보였다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "세브란스병원 갑상선클리닉 및 고주파 열치료실(담당:영상의학과 고흥규 교수)은 지난 6개월 동안 갑상선 양성종양 환자 중 미용 문제로 고민하는 103명의 환자를 대상으로 고주파 치료(사진)를 시행한 결과, 환자 모두에게서 50% 이상 종양이 줄어들었다고 최근 발표했다.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "갑상선 양성 종양은 악성과는 달리 암은 아니지만 3㎝ 이상 클 경우 미용 문제를 야기한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "고주파 치료는 1㎜ 굵기의 가는 바늘을 갑상선에 삽입, 고주파를 발생시켜 열로 종양을 태우는 방법이다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "심상치 않은 유방 양성종양 확진율… 젊은 여성이 위험하다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

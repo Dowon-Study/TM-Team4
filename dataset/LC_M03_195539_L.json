@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195539",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "장애인 주차구역, 이것만은 기억하세요",
+    "newsSubTitle": "5월 19일까지 한달 간 전국 지자체 집중 점검 불법주차시 10만원, 물건 쌓으면 50만원 과태료 장애인 차량용 표지 교체…기존 표지는 8월까지 허용",
+    "newsContent": "동사무소·공연장·도서관·공원 등 전국 5259곳의 장애인 전용 주차구역에서 불법주차 차량이 집중 단속된다.\n보건복지부는 17일부터 5월 19일까지 한달여 간 지방자치단체와 장애인 전용 주차구역을 합동점검 한다고 16일 밝혔다.\n중점 단속 대상은 ^비장애인 차량의 장애인 전용 구역 주차 ^'보행장애인'이 타지 않은 상태에서의 전용 구역 주차 ^주차 표지 위·변조와 양도·대여 등 부정 사용 등이다.\n장애인 전용 주차구역이 규격(3.3×5m)에 맞게 적절히 설치됐는지도 함께 점검한다.\n이번 점검에선 구형 장애인 주차표지를 사용 중인 차에 대해 새로운 표지로 교체하도록 안내도 할 예정이다.\n복지부는 차에 부착하는 표지의 모양과 색상을 올 연초에 바꿨다.\n기존 표지는 8월 말까지만 사용할 수 있다. 9월부터는 새 표지 없이 장애인 주차구역에 주차하면 10만원의 과태료를 내게 된다.\nQ : 장애인이면 누구나 전용 주차구역 주차표지를 받을 수 있나요?\nA : 아닙니다.\n장애인 중에서도 ‘보행상 장애 표준 기준표’에 해당되는 장애인만 장애인 전용 주차표지를 받을 수 있습니다.\nQ : 어떤 경우에 과태료가 부과되나요?\nA : 장애인 전용 주차구역 주차표지를 붙이지 않은 경우, 표지가 있더라도 보행에 장애가 있는 사람이 타지 않고서 전용구역에 주차한 경우에 적발되면 과태료 10만원이 부과됩니다.\n장애인 전용 주차구역에 물건을 쌓거나 통행로를 가로막아 주차를 방해했을 때는 과태료 50만원이 부과됩니다.\n위·변조된 주차표지가 부착된 자동차에는 과태료 200만원이 부과됩니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "동사무소·공연장·도서관·공원 등 전국 5259곳의 장애인 전용 주차구역에서 불법주차 차량이 집중 단속된다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보건복지부는 17일부터 5월 19일까지 한달여 간 지방자치단체와 장애인 전용 주차구역을 합동점검 한다고 16일 밝혔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "중점 단속 대상은 ^비장애인 차량의 장애인 전용 구역 주차 ^'보행장애인'이 타지 않은 상태에서의 전용 구역 주차 ^주차 표지 위·변조와 양도·대여 등 부정 사용 등이다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "장애인 전용 주차구역이 규격(3.3×5m)에 맞게 적절히 설치됐는지도 함께 점검한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 점검에선 구형 장애인 주차표지를 사용 중인 차에 대해 새로운 표지로 교체하도록 안내도 할 예정이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "복지부는 차에 부착하는 표지의 모양과 색상을 올 연초에 바꿨다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "기존 표지는 8월 말까지만 사용할 수 있다. 9월부터는 새 표지 없이 장애인 주차구역에 주차하면 10만원의 과태료를 내게 된다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "Q : 장애인이면 누구나 전용 주차구역 주차표지를 받을 수 있나요?",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "A : 아닙니다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "장애인 중에서도 ‘보행상 장애 표준 기준표’에 해당되는 장애인만 장애인 전용 주차표지를 받을 수 있습니다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "Q : 어떤 경우에 과태료가 부과되나요?",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "A : 장애인 전용 주차구역 주차표지를 붙이지 않은 경우, 표지가 있더라도 보행에 장애가 있는 사람이 타지 않고서 전용구역에 주차한 경우에 적발되면 과태료 10만원이 부과됩니다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "장애인 전용 주차구역에 물건을 쌓거나 통행로를 가로막아 주차를 방해했을 때는 과태료 50만원이 부과됩니다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "위·변조된 주차표지가 부착된 자동차에는 과태료 200만원이 부과됩니다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "장애인 주차구역, 꼭 기억해야 하는 것은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

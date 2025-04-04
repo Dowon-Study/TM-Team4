@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196116",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "파미셀 중국 진출 눈에 띄네~",
+    "newsSubTitle": "중국 텐진에 한중 차세대 바이오산업단지 구축키로",
+    "newsContent": "파미셀이 중국 진출에 박차를 가한다.\n파미셀(대표이사 김현수)은 17일 중국 텐진에 판차이 그룹과 헬스케어 센터를 설립하기로 한데 이어 이번에는 한중 차세대 바이오산업단지를 구축하기로 한 내용을 골자로 한 양해각서를 체결했다고 밝혔다.\n중국내 줄기세포 보관 및 치료제 개발, 줄기세포 화장품 개발 및 판매 등을 위해서다.\n양해각서에는 종합검진, 성형, 치료 등을 위한 국제협력병원 단지와 의약품 원료 및 친환경 소재 개발 단지를 만들어 텐진을 바이오 중심 자유무역구로 발전시켜나간다는 계획이 담겨있다.\n먼저 파미셀은 자유무역구에서 줄기세포배양액함유화장품을 판매한다는 계획이다.\n최근 중국 국무원은 텐진을 비롯해 광동·푸젠을 새 자유무역구로 조성한다는 계획을 밝혔다.\n이중 텐진은 우리나라로 치면 인천이나 송도에 해당하는 베이징의 관문이다.\n김현수 파미셀 대표는 “텐진 바이오산업단지 구상은 줄기세포 분야에 대한 미래 가치를 잘 알기 때문에 서로 의견이 맞아떨어진 것”이라고 말했다.\n한편 판차이나 그룹은 중국 건설부 직속 도시개발 전문기업이다.\n도시개발에 대한 계획에서 디자인 및 건설을 아우르는 포괄적 사업분야를 영위하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "파미셀이 중국 진출에 박차를 가한다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "파미셀(대표이사 김현수)은 17일 중국 텐진에 판차이 그룹과 헬스케어 센터를 설립하기로 한데 이어 이번에는 한중 차세대 바이오산업단지를 구축하기로 한 내용을 골자로 한 양해각서를 체결했다고 밝혔다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "중국내 줄기세포 보관 및 치료제 개발, 줄기세포 화장품 개발 및 판매 등을 위해서다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "양해각서에는 종합검진, 성형, 치료 등을 위한 국제협력병원 단지와 의약품 원료 및 친환경 소재 개발 단지를 만들어 텐진을 바이오 중심 자유무역구로 발전시켜나간다는 계획이 담겨있다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "먼저 파미셀은 자유무역구에서 줄기세포배양액함유화장품을 판매한다는 계획이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최근 중국 국무원은 텐진을 비롯해 광동·푸젠을 새 자유무역구로 조성한다는 계획을 밝혔다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이중 텐진은 우리나라로 치면 인천이나 송도에 해당하는 베이징의 관문이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김현수 파미셀 대표는 “텐진 바이오산업단지 구상은 줄기세포 분야에 대한 미래 가치를 잘 알기 때문에 서로 의견이 맞아떨어진 것”이라고 말했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 판차이나 그룹은 중국 건설부 직속 도시개발 전문기업이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "도시개발에 대한 계획에서 디자인 및 건설을 아우르는 포괄적 사업분야를 영위하고 있다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중국 진출에 박차를 가하는 파미셀, 왜? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199079",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "부모의 뼈 건강, 자식에게 대물림",
+    "newsSubTitle": "골밀도 유전률 男 최대 54%, 女 69% 달해",
+    "newsContent": "[박정렬 기자] 부모의 골밀도(뼈의 무기질함량)가 낮으면 자녀의 골밀도가 낮을 위험이 더 커진다는 연구결과가 나왔다.\n상계백병원 소아청소년과 박미정 교수와 동국대병원 내과 최한석 교수 연구팀은 2008-2011년 국민건강영양조사에 참여한 5947명 (부모 3135명·10~25세 자녀 2812명)을 대상으로 골밀도를 분석한 결과를 19일 발표했다.\n이에 따르면 자녀의 골밀도는 부모의 골밀도와 강한 관련성을 보였다.\n유전율은 아들의 경우 20~54%, 딸의 경우 40~69%로 여아가 상대적으로 더 컸다.\n부모 모두 골밀도가 낮을 때 자녀의 골밀도가 낮을 위험률은 7~10배 증가했다.\n특히,어머니의 골밀도가 낮을 때 딸의 골밀도가 낮을 위험률은 5배 증가했다.\n최한석 교수는 “부모의 골밀도가 낮은 경우 20대에 달성되는 자녀의 최대 골량이 낮을 수 있고 향후 골다공증으로 진행할 가능성도 높다\\\"며 \\\"부모의 골밀도가 낮은 경우엔 자녀가 어릴 때부터 골 건강과 관련한 교육 및 운동, 생활습관 교정 (적절한 칼슘 및 비타민D 섭취)에 신경써야 한다”고 말했다. .\n박미정 교수는 “과거에는 골다공증이 노인질환으로 여겨 졌으나 최근 젊은성인과 청소년에서도 골밀도 저하가 심각한 상태\\\"라며 \\\"심한 저체중군, 스테로이드나 항경련제등 약물 장기복용군, 장 흡수장애, 움직임이 거의 없는 경우 고위험군이다. 더불어 골다공증 가족력이 있다면, 일찍부터 뼈 건강을 체크할 필요가 있다”고 강조했다.\n이번 연구결과는 국제골다공증학회지(Osteoporosis International) 10월 호에 게재됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[박정렬 기자] 부모의 골밀도(뼈의 무기질함량)가 낮으면 자녀의 골밀도가 낮을 위험이 더 커진다는 연구결과가 나왔다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "상계백병원 소아청소년과 박미정 교수와 동국대병원 내과 최한석 교수 연구팀은 2008-2011년 국민건강영양조사에 참여한 5947명 (부모 3135명·10~25세 자녀 2812명)을 대상으로 골밀도를 분석한 결과를 19일 발표했다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 따르면 자녀의 골밀도는 부모의 골밀도와 강한 관련성을 보였다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유전율은 아들의 경우 20~54%, 딸의 경우 40~69%로 여아가 상대적으로 더 컸다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "부모 모두 골밀도가 낮을 때 자녀의 골밀도가 낮을 위험률은 7~10배 증가했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히,어머니의 골밀도가 낮을 때 딸의 골밀도가 낮을 위험률은 5배 증가했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최한석 교수는 “부모의 골밀도가 낮은 경우 20대에 달성되는 자녀의 최대 골량이 낮을 수 있고 향후 골다공증으로 진행할 가능성도 높다\\\"며 \\\"부모의 골밀도가 낮은 경우엔 자녀가 어릴 때부터 골 건강과 관련한 교육 및 운동, 생활습관 교정 (적절한 칼슘 및 비타민D 섭취)에 신경써야 한다”고 말했다. .",
+        "sentenceSize": 170
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "박미정 교수는 “과거에는 골다공증이 노인질환으로 여겨 졌으나 최근 젊은성인과 청소년에서도 골밀도 저하가 심각한 상태\\\"라며 \\\"심한 저체중군, 스테로이드나 항경련제등 약물 장기복용군, 장 흡수장애, 움직임이 거의 없는 경우 고위험군이다. 더불어 골다공증 가족력이 있다면, 일찍부터 뼈 건강을 체크할 필요가 있다”고 강조했다.",
+        "sentenceSize": 181
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이번 연구결과는 국제골다공증학회지(Osteoporosis International) 10월 호에 게재됐다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "부모의 '이것'까지 자녀에게 유전된다?... 특히 어머니 쪽을 주목할 것!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193910",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "김민석 박유나, 열애설 즉각 반박 \\\"절친한 동료일 뿐\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 김민석(29)과 박유나(22)의 열애설이 불거진 가운데 김민석 측이 이를 부인하고 나섰다.\n19일 김민석 소속사 측은 미디어SR에 \\\"김민석과 박유나의 열애설은 사실이 아니다\\\"고 밝혔다.\n이어 \\\"두 사람은 절친한 동료 사이일 뿐이다. 드라마 팀 배우들이 다 같이 친하게 지내고 있다\\\"고 덧붙였다.\n앞서 김민석이 동료 배우 박유나와 열애 중이라는 보도가 나왔다.\n이날 한 매체는 김민석과 박유나는 지난 해 말 방송된 KBS2 드라마 스페셜 '닿을 듯 말 듯'에 출연해 연인으로 발전했다고 전했으나, 소속사 측은 즉각적으로 이를 반박했다.\n김민석은 지난 2012년 드라마 '닥치고 꽃미남 밴드'로 데뷔해 '태양의 후예', '닥터스', '청춘시대2' 등에서 활약했다.\n지난해 12월 입대한 그는 현역으로 군 복무 중이다.\n박유나는 지난 2015년 드라마 '발칙하게 고고'로 데뷔해 '비밀의 숲', '내 아이디는 강남미인', 'SKY캐슬'에 출연하며 활발히 활동을 이어가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김민석(29)과 박유나(22)의 열애설이 불거진 가운데 김민석 측이 이를 부인하고 나섰다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 김민석 소속사 측은 미디어SR에 \\\"김민석과 박유나의 열애설은 사실이 아니다\\\"고 밝혔다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 \\\"두 사람은 절친한 동료 사이일 뿐이다. 드라마 팀 배우들이 다 같이 친하게 지내고 있다\\\"고 덧붙였다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 김민석이 동료 배우 박유나와 열애 중이라는 보도가 나왔다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 한 매체는 김민석과 박유나는 지난 해 말 방송된 KBS2 드라마 스페셜 '닿을 듯 말 듯'에 출연해 연인으로 발전했다고 전했으나, 소속사 측은 즉각적으로 이를 반박했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김민석은 지난 2012년 드라마 '닥치고 꽃미남 밴드'로 데뷔해 '태양의 후예', '닥터스', '청춘시대2' 등에서 활약했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난해 12월 입대한 그는 현역으로 군 복무 중이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "박유나는 지난 2015년 드라마 '발칙하게 고고'로 데뷔해 '비밀의 숲', '내 아이디는 강남미인', 'SKY캐슬'에 출연하며 활발히 활동을 이어가고 있다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박유나와의 열애설에 김민석 측이 내놓은 입장은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

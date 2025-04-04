@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195632",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "커머스펍, 핑퐁펍, 바 6081…모델 기획사도 카페 차려",
+    "newsSubTitle": "",
+    "newsContent": "모델 에이전시가 운영하는 외식 공간들도 있다. ‘훈남 셰프’ 가 상주하는 것은 물론이고 들고 나는 손님들도 ‘늘씬한 기럭지’를 가진 모델들이다.\n신사동에 위치한 ‘커머스펍’은 술과 미식을 좋아하는 모델 에이전시 커머스의 김성현 대표가 자신의 취향을 고스란히 담은 캐주얼 펍이다.\n다양한 종류의 맥주가 구비돼 있는데 특별한 메뉴보다 소시지야채볶음·교자만두·가래떡 등 부담 없는 술안주들이 상에 오른다.\n이태원 ‘핑퐁펍’(사진)은 모델 출신이자 배우인 도상우씨가 공동대표다.\n맥주를 반쯤 채운 상대방의 술잔에 탁구공을 넣으면 이기는 ‘비어퐁’ 게임을 할 수 있는 곳으로 유명해지면서 평일·주말 저녁 내내 붐빈다.\n오전 3시까지 운영하는 것도 장점이다.\n탁구 한 번 치는 데 드는 비용은 3000원. 빌즈 페일에일, 대드 포니 클럽, 펑크 I.P.A 등 다른 곳에선 찾기 힘든 독특한 크래프트 맥주 리스트가 많다.\n모델 에이전시 에스팀은 경리단길에서 ‘바 6081’을 운영한다. 4층짜리 건물에 담쟁이덩굴이 휘감긴 외관부터 눈에 띈다.\n입구의 문틀과 창틀, 가게 로고를 모두 황동 소재로 만들어 화려한 느낌도 난다.\n이곳은 털털하게 차려입은 에스팀 소속 모델들의 아지트 같은 곳이다.\n맥주·칵테일·위스키 등 다양한 종류의 술을 파는데 ‘옥보단’ ‘굼바굼바’ 같은 재밌는 이름의 칵테일을 파는 것도 이 집의 인기 요인이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "모델 에이전시가 운영하는 외식 공간들도 있다. ‘훈남 셰프’ 가 상주하는 것은 물론이고 들고 나는 손님들도 ‘늘씬한 기럭지’를 가진 모델들이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "신사동에 위치한 ‘커머스펍’은 술과 미식을 좋아하는 모델 에이전시 커머스의 김성현 대표가 자신의 취향을 고스란히 담은 캐주얼 펍이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "다양한 종류의 맥주가 구비돼 있는데 특별한 메뉴보다 소시지야채볶음·교자만두·가래떡 등 부담 없는 술안주들이 상에 오른다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이태원 ‘핑퐁펍’(사진)은 모델 출신이자 배우인 도상우씨가 공동대표다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "맥주를 반쯤 채운 상대방의 술잔에 탁구공을 넣으면 이기는 ‘비어퐁’ 게임을 할 수 있는 곳으로 유명해지면서 평일·주말 저녁 내내 붐빈다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오전 3시까지 운영하는 것도 장점이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "탁구 한 번 치는 데 드는 비용은 3000원. 빌즈 페일에일, 대드 포니 클럽, 펑크 I.P.A 등 다른 곳에선 찾기 힘든 독특한 크래프트 맥주 리스트가 많다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "모델 에이전시 에스팀은 경리단길에서 ‘바 6081’을 운영한다. 4층짜리 건물에 담쟁이덩굴이 휘감긴 외관부터 눈에 띈다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "입구의 문틀과 창틀, 가게 로고를 모두 황동 소재로 만들어 화려한 느낌도 난다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이곳은 털털하게 차려입은 에스팀 소속 모델들의 아지트 같은 곳이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "맥주·칵테일·위스키 등 다양한 종류의 술을 파는데 ‘옥보단’ ‘굼바굼바’ 같은 재밌는 이름의 칵테일을 파는 것도 이 집의 인기 요인이다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "모델 에이전시가 운영하는 펍이 있다는데··· 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

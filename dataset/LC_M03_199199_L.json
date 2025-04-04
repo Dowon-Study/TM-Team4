@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199199",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "아스트라제네카 리베이트 과징금 2억원",
+    "newsSubTitle": "고대안산병원 리베이트 후속조치…다국적사 최초·과징금 최고금액",
+    "newsContent": "한국아스트라제네카가 과징금 2억원을 부과받았다.\n약사법에서 정한 과징금 최고금액이다.\n식품의약품안전처는 최근 한국아스트라제네카의 폐암치료제 ‘이레사’정에 대해 의료인에게 판매촉진의 목적으로 경제적 이익을 제공했다는 이유로 업무정지 3개월을 갈음한 과징금 2억원을 부과했다고 밝혔다.\n이번 과징금은 고대안산병원 호흡기내과 불법 리베이트 조사의 후속조치다.\n지난 8월 서울서부지방검찰청 의약품리베이트 정부합동수사반은 고대안산병원 호흡기내과 K교수에게 불법 리베이트를 제공한 제약사 7곳에 대한 수사결과를 발표했다.\n국내사 6곳과 다국적사 1곳의 혐의가 확인됐다.\n규모도 규모였지만 그간 다국적사는 공정경쟁규약을 준수해온 것으로 알려져 관심을 모았었다.\n여기에 복지부는 식약처의 행정처분이 완료되는 대로 리베이트 투아웃제 및 리베이트 약가연동제를 적용할 방침이다.\n아스트라제네카로썬 업친 데 덮친 격이다.\n아스트라제네카 측은 이번 과징금으로 상한액 상향조정 후 최고금액 당사자라는 오명을 얻기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국아스트라제네카가 과징금 2억원을 부과받았다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "약사법에서 정한 과징금 최고금액이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "식품의약품안전처는 최근 한국아스트라제네카의 폐암치료제 ‘이레사’정에 대해 의료인에게 판매촉진의 목적으로 경제적 이익을 제공했다는 이유로 업무정지 3개월을 갈음한 과징금 2억원을 부과했다고 밝혔다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 과징금은 고대안산병원 호흡기내과 불법 리베이트 조사의 후속조치다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 8월 서울서부지방검찰청 의약품리베이트 정부합동수사반은 고대안산병원 호흡기내과 K교수에게 불법 리베이트를 제공한 제약사 7곳에 대한 수사결과를 발표했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "국내사 6곳과 다국적사 1곳의 혐의가 확인됐다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "규모도 규모였지만 그간 다국적사는 공정경쟁규약을 준수해온 것으로 알려져 관심을 모았었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "여기에 복지부는 식약처의 행정처분이 완료되는 대로 리베이트 투아웃제 및 리베이트 약가연동제를 적용할 방침이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아스트라제네카로썬 업친 데 덮친 격이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "아스트라제네카 측은 이번 과징금으로 상한액 상향조정 후 최고금액 당사자라는 오명을 얻기도 했다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한국 아스트라제네카에 과징금 2억 원이 부과돼... 이유는 '이것' 때문",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

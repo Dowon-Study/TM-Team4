@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195756",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "질병관리본부 차관급 격상, 메르스 같은 감염병 발생시 '컨트롤타워'",
+    "newsSubTitle": "",
+    "newsContent": "'질병관리본부 차관급 격상' 감염병이 발생시 질병관리본부가 방역을 총지휘하게 된다.\n위기경보단계상 기관별 역할이 불명확하고 컨트롤타워가 산재돼 있다는 지적에 따른 것이다.\n이에 따라 방역당국은 감염병 전담기관으로서의 역할을 다하기 위해 자율성과 전문성을 강화한다.\n정부는 1일 황교안 국무총리 주재로 국가정책조정회의를 열어 이러한 내용의 '국가방역체계 개편방안'을 확정한다.\n신종감염병의 국내 유입을 차단하기 위해 초기 대응체계를 손질하고, 방역당국의 전문성과 자율성을 강화하며 감염병의 온상이 된 병원의 의료 환경을 재정비하는 것이 골자다.\n질병관리본부는 국가 방역을 책임지고 독립적으로 권한을 행사할 수 있도록 자율성과 전문성을 강화하는 방향으로 조직 개편한다.\n모든 위기단계에서 방역은 처음부터 끝까지 책임지도록 하며 총리실과 보건복지부, 국민안전처는 병상 확보와 의료인력 동원 등 지원역할을 수행한다.\n질병관리본부장은 차관급으로 격상하고 인사 및 예산권을 갖는다.\n자율성과 전문성을 보장하며 정규 역학조사관을 확보하고 이들이 현장에서 조치 및 권한을 행사하게 하기 위함이다.\n대부분 공중보건의사로 구성돼 전문성과 연속성이 부족하다는 지적이 제기된 역학조사관은 정규직을 확충하는 방향으로 개선한다.\n방역행정가로서의 우수인력을 확보하고 장기근무를 유도하기 위해 특수 직렬인 '방역직'을 신설해 미국 CDC 역학전문요원(EIS; Epidemic Intelligence Service)과정 위탁교육 등 다양한 경력형성을 지원한다.\n앞으로 메르스 같은 신종감염병이 발생하면 컨트롤타워로서 질병관리본부가 역할을 다할 수 있도록 하겠다는 취지다. '질병관리본부 차관급 격상' 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'질병관리본부 차관급 격상' 감염병이 발생시 질병관리본부가 방역을 총지휘하게 된다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "위기경보단계상 기관별 역할이 불명확하고 컨트롤타워가 산재돼 있다는 지적에 따른 것이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 따라 방역당국은 감염병 전담기관으로서의 역할을 다하기 위해 자율성과 전문성을 강화한다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정부는 1일 황교안 국무총리 주재로 국가정책조정회의를 열어 이러한 내용의 '국가방역체계 개편방안'을 확정한다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신종감염병의 국내 유입을 차단하기 위해 초기 대응체계를 손질하고, 방역당국의 전문성과 자율성을 강화하며 감염병의 온상이 된 병원의 의료 환경을 재정비하는 것이 골자다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "질병관리본부는 국가 방역을 책임지고 독립적으로 권한을 행사할 수 있도록 자율성과 전문성을 강화하는 방향으로 조직 개편한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "모든 위기단계에서 방역은 처음부터 끝까지 책임지도록 하며 총리실과 보건복지부, 국민안전처는 병상 확보와 의료인력 동원 등 지원역할을 수행한다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "질병관리본부장은 차관급으로 격상하고 인사 및 예산권을 갖는다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "자율성과 전문성을 보장하며 정규 역학조사관을 확보하고 이들이 현장에서 조치 및 권한을 행사하게 하기 위함이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "대부분 공중보건의사로 구성돼 전문성과 연속성이 부족하다는 지적이 제기된 역학조사관은 정규직을 확충하는 방향으로 개선한다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "방역행정가로서의 우수인력을 확보하고 장기근무를 유도하기 위해 특수 직렬인 '방역직'을 신설해 미국 CDC 역학전문요원(EIS; Epidemic Intelligence Service)과정 위탁교육 등 다양한 경력형성을 지원한다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "앞으로 메르스 같은 신종감염병이 발생하면 컨트롤타워로서 질병관리본부가 역할을 다할 수 있도록 하겠다는 취지다. '질병관리본부 차관급 격상' 온라인 중앙일보",
+        "sentenceSize": 86
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "차관급으로 체급 올라간 질병관리본부, 감염병 발생 시 방역 총지휘한다… 주요 역할은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

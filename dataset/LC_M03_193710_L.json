@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193710",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "휴온스, 고용창출 공로 인정 산자부 표창 수상",
+    "newsSubTitle": "윤성태 부회장 \\\"우수 인력확보 통해 회사 빠르게 성장해\\\"",
+    "newsContent": "국내 중견 제약사가 고용창출 노력을 인정받았다.\n휴온스는 지난 9일 서울 코엑스에서 개최된 ‘2015 리딩 코리아 잡 페스티벌’에서 투자 및 경영, 고용 부문 우수기업으로 선정됐다고 10일 밝혔다.\n이번 행사는 중소기업청과 산업통상자원부가 공동개최했으며, 휴온스는 양질의 일자리를 제공하고 고용을 확대한 공로를 인정받아 산업통상자원부장관 표창을 수상했다.\n휴온스는 지난해에도 월드클래스 300 기업으로 선정됐었다.\n회사 관계자는 “월드클래스 300기업으로 선정된 후 회사 차원에서 전폭적인 인재육성과 발굴에 힘써왔다”고 말했다.\n실제 휴온스는 우수한 인재가 기업의 미래를 좌우한다는 신념으로 업계 최고 수준의 급여와 복지를 제공하기 위해 노력해왔다.\n또 매년 우수직원을 선발해 중형자동차를 지급하고 직장어린이집을 설립·운영하면서 일하기 좋은 기업 만들기에 힘썼다는 평가다.\n이를 통해 전체 연구인력의 60%이상을 석박사 등 고급 인력으로 확보해 다수의 신약 파이프라인을 가동하고 있으며, 매년 대규모 영업부 공개채용을 시행해 전문인력을 양성하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국내 중견 제약사가 고용창출 노력을 인정받았다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "휴온스는 지난 9일 서울 코엑스에서 개최된 ‘2015 리딩 코리아 잡 페스티벌’에서 투자 및 경영, 고용 부문 우수기업으로 선정됐다고 10일 밝혔다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 행사는 중소기업청과 산업통상자원부가 공동개최했으며, 휴온스는 양질의 일자리를 제공하고 고용을 확대한 공로를 인정받아 산업통상자원부장관 표창을 수상했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "휴온스는 지난해에도 월드클래스 300 기업으로 선정됐었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "회사 관계자는 “월드클래스 300기업으로 선정된 후 회사 차원에서 전폭적인 인재육성과 발굴에 힘써왔다”고 말했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "실제 휴온스는 우수한 인재가 기업의 미래를 좌우한다는 신념으로 업계 최고 수준의 급여와 복지를 제공하기 위해 노력해왔다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 매년 우수직원을 선발해 중형자동차를 지급하고 직장어린이집을 설립·운영하면서 일하기 좋은 기업 만들기에 힘썼다는 평가다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 통해 전체 연구인력의 60%이상을 석박사 등 고급 인력으로 확보해 다수의 신약 파이프라인을 가동하고 있으며, 매년 대규모 영업부 공개채용을 시행해 전문인력을 양성하고 있다.",
+        "sentenceSize": 99
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "휴온스, 투자·경영, 고용 부문 우수기업으로 선정돼... 접근 불가 클래스 완전 '킹정'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

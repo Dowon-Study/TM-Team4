@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194458",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[느낌!짤막소식] 서울 서초동 예술의전당 수유실 外",
+    "newsSubTitle": "",
+    "newsContent": "◆서울 서초동 예술의전당은 26일 한가람미술관 1층 로비에 수유실을 열었다.\n2인이 동시에 모유를 먹일 수 있는 의자와 탁자, 기저귀 교환용 유아침대를 갖췄다.\n온수가 나오는 정수기와 세면대를 구비하고, 수유하는 동안 동반자가 대기할 수 있는 휴게용 소파도 준비돼 있다.\n영·유아를 동반한 전시 관람객을 위해 설치한 수유실은 보건복지부와 인구보건복지협회가 “엄마 젖 먹이기” 홍보사업으로 추진하고 있는 '아가와 엄마가 행복한 방'33호로 지정되었다.\n예술의전당에는 만 3세 이상의 아동을 보호할 ‘어린이 나라’ 시설만 되어 있었다.\n◆서울 팔판동 갤러리 인은 유현미씨의 개인전 ‘Still life-차원의 경계’를 열고 있다.\n실제의 사물에 석고를 바르고 유화물감을 덧칠하고 이를 촬영한 사진작품을 전시 중이다.\n그 결과는 입체가 아니라 한폭의 정물화를 촬영한 사진처럼 보인다.\n작가는 이를 통해 인간의 불완전한 시각에 의해 인식되는 실제와 비실제, 2차원과 3차원에대해 문제를 제기한다. 7월 11일까지, 02-732-4677.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆서울 서초동 예술의전당은 26일 한가람미술관 1층 로비에 수유실을 열었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2인이 동시에 모유를 먹일 수 있는 의자와 탁자, 기저귀 교환용 유아침대를 갖췄다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "온수가 나오는 정수기와 세면대를 구비하고, 수유하는 동안 동반자가 대기할 수 있는 휴게용 소파도 준비돼 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "영·유아를 동반한 전시 관람객을 위해 설치한 수유실은 보건복지부와 인구보건복지협회가 “엄마 젖 먹이기” 홍보사업으로 추진하고 있는 '아가와 엄마가 행복한 방'33호로 지정되었다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예술의전당에는 만 3세 이상의 아동을 보호할 ‘어린이 나라’ 시설만 되어 있었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "◆서울 팔판동 갤러리 인은 유현미씨의 개인전 ‘Still life-차원의 경계’를 열고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "실제의 사물에 석고를 바르고 유화물감을 덧칠하고 이를 촬영한 사진작품을 전시 중이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그 결과는 입체가 아니라 한폭의 정물화를 촬영한 사진처럼 보인다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "작가는 이를 통해 인간의 불완전한 시각에 의해 인식되는 실제와 비실제, 2차원과 3차원에대해 문제를 제기한다. 7월 11일까지, 02-732-4677.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서초동 예술의전당, 수유실 오픈... 이용 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

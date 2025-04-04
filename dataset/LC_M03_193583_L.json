@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193583",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "\\\"마누라 밥이 되자\\\" 자칭 상남자의 새삼스런 각오",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 웃긴다! 79살이란다(27) 79살. 평생 못된 짓만 했는데도 오래 살았다.\n때늦은 후회지만 이제라도 늦지 않았다.\n마누라가 주방 쪽에서 거실 소파에 편히 앉아 TV 리모컨만 돌리고 있는 나를 향해 째려보고 있지만, 그냥 눈 질끈 감고 못 본체하자.\n옛날 같았으면 ‘이게 어디서 눈깔 휘 번 덕 거려?’라며 단번에 쏘아붙였겠지만 ‘참을 인’자 그리며 참자.\n마누라 나이도 벌써 70 중반인데 ‘나 죽여 잡숴~’ 하고 눈 내려 감고 있지만 않을 거다.\n어쩜 그녀도 이젠 인내심의 한계까지 왔을 것 같다.\n이쯤 해서는 그냥 자기 하고 싶은 대로 놔두자.\n그렇다고 설마 나를 주방의 도마 위에 올려놓고 성질대로 작살내지는 않을 거다.\n그래, 그래! 마누라가 한숨 푹푹 내려 쉬어도 못 본체하자.\n온종일 잔소리를 입에 달고 살아도 못 들은 체하자.\n인생이란 꼭 한 번씩은 서로 역전하며 사는 것 같다.\n음지가 양지 되고 양지가 음지 되듯이…. 뭐 그렇다고 내가 음지가 되었다는 말은 아니다.\n그냥 성질만 죽이고 있는 것이다.\n나를 동정하지는 마라.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 웃긴다! 79살이란다(27) 79살. 평생 못된 짓만 했는데도 오래 살았다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "때늦은 후회지만 이제라도 늦지 않았다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "마누라가 주방 쪽에서 거실 소파에 편히 앉아 TV 리모컨만 돌리고 있는 나를 향해 째려보고 있지만, 그냥 눈 질끈 감고 못 본체하자.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "옛날 같았으면 ‘이게 어디서 눈깔 휘 번 덕 거려?’라며 단번에 쏘아붙였겠지만 ‘참을 인’자 그리며 참자.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "마누라 나이도 벌써 70 중반인데 ‘나 죽여 잡숴~’ 하고 눈 내려 감고 있지만 않을 거다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "어쩜 그녀도 이젠 인내심의 한계까지 왔을 것 같다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이쯤 해서는 그냥 자기 하고 싶은 대로 놔두자.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그렇다고 설마 나를 주방의 도마 위에 올려놓고 성질대로 작살내지는 않을 거다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그래, 그래! 마누라가 한숨 푹푹 내려 쉬어도 못 본체하자.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온종일 잔소리를 입에 달고 살아도 못 들은 체하자.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "인생이란 꼭 한 번씩은 서로 역전하며 사는 것 같다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "음지가 양지 되고 양지가 음지 되듯이…. 뭐 그렇다고 내가 음지가 되었다는 말은 아니다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그냥 성질만 죽이고 있는 것이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "나를 동정하지는 마라.",
+        "sentenceSize": 12
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "자칭 상남자의 새삼스런 각오 \"마누라 밥이 되자\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198218",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[살림UP] 찌든 냄새 제거엔 베이킹 소다",
+    "newsSubTitle": "묵은 물때 벗겨낼 땐 식초 건제품 빨리 불리려면 설탕물",
+    "newsContent": "소금이나 설탕.식초.식용유를 양념뿐 아니라 다양하게 활용할 수 있는 방법을 알아보자.\n볶음밥을 만들 때 밥을 고슬고슬하게 만드는 데는 식용유가 유용하다. 5인분 기준으로 식용유 5g 정도를 넣으면 밥알끼리 서로 붙지 않는다.\n잘 빠지지 않는 냄새를 제거하는 데는 베이킹 소다가 최적이다.\n김치를 담아 뒀던 통은 냄새 때문에 두고두고 머리가 아프다.\n이럴 때 베이킹 소다를 푼 물을 통에 반나절 이상 넣어 두면 냄새가 한결 줄어든다. 음식물 쓰레기통의 악취를 없앨 때도 베이킹 소다 용액이 좋다.\n가스레인지 등 가전제품에 낀 찌든 때나 싱크대 물때를 없앨 때도 마찬가지. 헌 칫솔을 사용해 청소하면 간편하게 잘 지워진다.\n세척과 소독을 할 때 식초가 빠질 수 없다.\n커피포트의 묵은 물때를 벗겨낼 때 요긴하다.\n식초 원액을 부은 뒤 1~2시간가량 놔뒀다가 끓이는 과정을 2~3회 반복한다.\n생선을 다듬은 도마나 칼, 생선을 담아뒀던 그릇 등을 닦을 때도 식초를 쓰면 비린내가 말끔하게 가신다.\n오징어채 등 건제품을 빨리 불려야 한다면 설탕 한두 스푼 정도를 미지근한 물에 풀어 담가 둔다.\n진미채 무침은 시간이 조금 지나면 딱딱해져 먹기가 불편해진다.\n양념하기 전에 마요네즈에 살짝 무쳐 잠시 놔두면 마요네즈의 기름 성분이 진미채에 녹아 들어가 한결 부드러워진다.\n고소한 맛도 더하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "소금이나 설탕.식초.식용유를 양념뿐 아니라 다양하게 활용할 수 있는 방법을 알아보자.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "볶음밥을 만들 때 밥을 고슬고슬하게 만드는 데는 식용유가 유용하다. 5인분 기준으로 식용유 5g 정도를 넣으면 밥알끼리 서로 붙지 않는다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "잘 빠지지 않는 냄새를 제거하는 데는 베이킹 소다가 최적이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김치를 담아 뒀던 통은 냄새 때문에 두고두고 머리가 아프다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이럴 때 베이킹 소다를 푼 물을 통에 반나절 이상 넣어 두면 냄새가 한결 줄어든다. 음식물 쓰레기통의 악취를 없앨 때도 베이킹 소다 용액이 좋다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "가스레인지 등 가전제품에 낀 찌든 때나 싱크대 물때를 없앨 때도 마찬가지. 헌 칫솔을 사용해 청소하면 간편하게 잘 지워진다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "세척과 소독을 할 때 식초가 빠질 수 없다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "커피포트의 묵은 물때를 벗겨낼 때 요긴하다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "식초 원액을 부은 뒤 1~2시간가량 놔뒀다가 끓이는 과정을 2~3회 반복한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "생선을 다듬은 도마나 칼, 생선을 담아뒀던 그릇 등을 닦을 때도 식초를 쓰면 비린내가 말끔하게 가신다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "오징어채 등 건제품을 빨리 불려야 한다면 설탕 한두 스푼 정도를 미지근한 물에 풀어 담가 둔다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "진미채 무침은 시간이 조금 지나면 딱딱해져 먹기가 불편해진다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "양념하기 전에 마요네즈에 살짝 무쳐 잠시 놔두면 마요네즈의 기름 성분이 진미채에 녹아 들어가 한결 부드러워진다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "고소한 맛도 더하다.",
+        "sentenceSize": 11
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "찌든 냄새 제거엔 '이것'이 최적이라는데... 주부들 사이에서 '꿀팁'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

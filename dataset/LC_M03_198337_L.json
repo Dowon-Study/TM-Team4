@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198337",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK깊이읽기] 남미영화 100년사를 한눈에",
+    "newsSubTitle": "",
+    "newsContent": "라틴아메리카 시네마 다이어리 장용석 지음, 문학들, 304쪽, 1만5000원 남미 문화 하면 무엇이 떠오르는가.\n이 책의 추천사를 쓴 영화평론가 정성일씨가 고백한 것처럼 체 게바라의 전기, 호르헤 루이스 보르헤스의 소설, 노래 '돈 크라이 포 미 아르헨티나', 아니면 영화 '부에나비스타 소셜 클럽' 정도? 남미 영화에 대한 대중, 심지어 전문가들의 이해 부족은 정씨의 지적대로 남미 전반에 대한 교양 부족 때문일지도 모른다.\n그 영화가 탄생하게 된 사회.문화.역사적 배경을 함께 공부하는 것은 이러한 아쉬움을 씻을 수 있는 한 방법일 수 있다.\n신간은 남미 영화가 싹튼 1900년대부터 100년사를 꼼꼼히 적어내려간다.\n나라별.주제별 접근을 시도하며 남미 영화를 다각도로 맛보게 한다.\n예컨대 '라틴 음악을 만날 수 있는 영화' 대목에선 라틴 록.탱고.살사.메렝게.란체라 등 라틴 음악을 제대로 음미할 수 있는 영화 목록을 챙길 수 있다.\n사진 자료 250여 컷을 일별하는 것만으로도 다소 벅찬 느낌이다.\n지은이는 콜롬비아에서 영화.사진을 전공하면서 남미 문화에 흠뻑 빠져들었다고 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "라틴아메리카 시네마 다이어리 장용석 지음, 문학들, 304쪽, 1만5000원 남미 문화 하면 무엇이 떠오르는가.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 책의 추천사를 쓴 영화평론가 정성일씨가 고백한 것처럼 체 게바라의 전기, 호르헤 루이스 보르헤스의 소설, 노래 '돈 크라이 포 미 아르헨티나', 아니면 영화 '부에나비스타 소셜 클럽' 정도? 남미 영화에 대한 대중, 심지어 전문가들의 이해 부족은 정씨의 지적대로 남미 전반에 대한 교양 부족 때문일지도 모른다.",
+        "sentenceSize": 175
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 영화가 탄생하게 된 사회.문화.역사적 배경을 함께 공부하는 것은 이러한 아쉬움을 씻을 수 있는 한 방법일 수 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신간은 남미 영화가 싹튼 1900년대부터 100년사를 꼼꼼히 적어내려간다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "나라별.주제별 접근을 시도하며 남미 영화를 다각도로 맛보게 한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "예컨대 '라틴 음악을 만날 수 있는 영화' 대목에선 라틴 록.탱고.살사.메렝게.란체라 등 라틴 음악을 제대로 음미할 수 있는 영화 목록을 챙길 수 있다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사진 자료 250여 컷을 일별하는 것만으로도 다소 벅찬 느낌이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지은이는 콜롬비아에서 영화.사진을 전공하면서 남미 문화에 흠뻑 빠져들었다고 한다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "장용석 작가, '이곳'에서 영화,사진 전공하며 남미 문화에 빠져들다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

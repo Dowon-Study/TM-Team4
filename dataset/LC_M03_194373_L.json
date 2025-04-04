@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194373",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BookBriefing] 『반지의 제왕』 外",
+    "newsSubTitle": "",
+    "newsContent": "◆『반지의 제왕』 이후 세계가 가장 주목하는 작품으로 평가 받는 판타지 대작 『황금나침반』(필립 폴먼 지음, 이창식 옮김, 전3권 각 500쪽 안팎, 각 권 1만2000원)이 선보였다.\n선과 악의 대립 속에서 교권에 대항하는 운명을 타고난 리라와 월의 모험 이야기로 신화와 종교·철학·로맨스에 액션까지 가미된 수작이다.\n38개국 언어로 번역됐다.\n◆1997년 외환위기 이후 한국의 금융·기업 구조조정의 과정을 정리한 『외환위기는 끝났는가』(윤제철 지음, 비봉출판사, 전2권 각 740쪽 안팎, 각 권 3만원)가 출간됐다.\n재경부·금융감독위·공적자금관리위·자산관리공사·산자부 등 각 기관별로 진행된 구조조정을, 다양한 자료를 동원해 시기별로 그리고 종합, 정리했다.\n◆‘조선의용군 최후의 분대장’으로 불린 김학철의 행적을 정리한 『김학철 평전』(김호웅·김해양 엮음, 실천문학, 576쪽, 1만5000원)이 나왔다.\n이역에서 무장항일투쟁으로 청년기를 보냈지만 해방 후 남북한 양쪽에서 외면당했던 파란만장한 일생을 통해 동북아시아 근대사의 생생한 모습을 엿볼 수 있는 책이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆『반지의 제왕』 이후 세계가 가장 주목하는 작품으로 평가 받는 판타지 대작 『황금나침반』(필립 폴먼 지음, 이창식 옮김, 전3권 각 500쪽 안팎, 각 권 1만2000원)이 선보였다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "선과 악의 대립 속에서 교권에 대항하는 운명을 타고난 리라와 월의 모험 이야기로 신화와 종교·철학·로맨스에 액션까지 가미된 수작이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "38개국 언어로 번역됐다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "◆1997년 외환위기 이후 한국의 금융·기업 구조조정의 과정을 정리한 『외환위기는 끝났는가』(윤제철 지음, 비봉출판사, 전2권 각 740쪽 안팎, 각 권 3만원)가 출간됐다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "재경부·금융감독위·공적자금관리위·자산관리공사·산자부 등 각 기관별로 진행된 구조조정을, 다양한 자료를 동원해 시기별로 그리고 종합, 정리했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "◆‘조선의용군 최후의 분대장’으로 불린 김학철의 행적을 정리한 『김학철 평전』(김호웅·김해양 엮음, 실천문학, 576쪽, 1만5000원)이 나왔다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이역에서 무장항일투쟁으로 청년기를 보냈지만 해방 후 남북한 양쪽에서 외면당했던 파란만장한 일생을 통해 동북아시아 근대사의 생생한 모습을 엿볼 수 있는 책이다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "반지의 제왕 이후 주목할 만한 대작은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

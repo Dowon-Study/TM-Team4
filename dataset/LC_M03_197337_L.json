@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197337",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[더오래] 마누라, 내 속마음 알지?",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 80돌 아이(32) 작가노트 제 성격이 좀 특이해서 인지는 몰라도 80돌, 이 나이까지도 제가 쓴 글이나 그림 등을 마누라에게 잘 보여주지 않습니다.\n이유인즉 지금까지 쓴 글이나 그림의 내용이 주로 일방적으로 여성 편에 기울어 쓰는 정도가 많아서 마누라가 보기에는 내가 쓴 글과 행동이 일치하지 않는다고 빈정거리는 횟수가 많기에 지레 겁을 먹기 때문일지도 모릅니다.\n더구나 오늘 같은 간지러운 자책 내용의 글을 마누라에게 보여주기에는 너무 내 낯이 간지럽거든요.\n물론 한창 젊었을 적엔 낯 두껍게도 “봐! 이게 바로 자기 남편이란 사람의 속마음이야!”라고 마누라 코앞으로 내밀었던 적도 많았지만 이젠 이런 글을 내밀기엔 솔직히 낯이 간지러워서요. 그렇지만 오늘은 용기를 내어 마누라 앞에 ‘쓰윽~’ 내밀어 볼 겁니다.\n보나 마나 마누라는 읽어보고는 “흥! 허구한 날, 생각만 하면 뭐해. 행동이 일치해야지” 하면서 입을 삐죽이며 눈을 째려볼 겁니다.\n그럴 때 산전수전 다 겪어 두꺼워진 제 낯의 피부도 보나마나 붉은색이 돋아날 겁니다.\n상상만 해도 얼굴색이 화끈해지는군요.\n아무튼 마누라의 송곳 같은 직설화법엔 당해낼 재간이 없습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 80돌 아이(32) 작가노트 제 성격이 좀 특이해서 인지는 몰라도 80돌, 이 나이까지도 제가 쓴 글이나 그림 등을 마누라에게 잘 보여주지 않습니다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이유인즉 지금까지 쓴 글이나 그림의 내용이 주로 일방적으로 여성 편에 기울어 쓰는 정도가 많아서 마누라가 보기에는 내가 쓴 글과 행동이 일치하지 않는다고 빈정거리는 횟수가 많기에 지레 겁을 먹기 때문일지도 모릅니다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "더구나 오늘 같은 간지러운 자책 내용의 글을 마누라에게 보여주기에는 너무 내 낯이 간지럽거든요.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "물론 한창 젊었을 적엔 낯 두껍게도 “봐! 이게 바로 자기 남편이란 사람의 속마음이야!”라고 마누라 코앞으로 내밀었던 적도 많았지만 이젠 이런 글을 내밀기엔 솔직히 낯이 간지러워서요. 그렇지만 오늘은 용기를 내어 마누라 앞에 ‘쓰윽~’ 내밀어 볼 겁니다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "보나 마나 마누라는 읽어보고는 “흥! 허구한 날, 생각만 하면 뭐해. 행동이 일치해야지” 하면서 입을 삐죽이며 눈을 째려볼 겁니다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그럴 때 산전수전 다 겪어 두꺼워진 제 낯의 피부도 보나마나 붉은색이 돋아날 겁니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "상상만 해도 얼굴색이 화끈해지는군요.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아무튼 마누라의 송곳 같은 직설화법엔 당해낼 재간이 없습니다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "몸 맞대고 살아도 모른다… 조심스레 적어보는 속내, 아내에게 건네면",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

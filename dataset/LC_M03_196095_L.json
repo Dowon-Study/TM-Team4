@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196095",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "크리스마스 대표 음식, 렙쿠헨은 무엇? \\\"독일식 진저브레드\\\"",
+    "newsSubTitle": "",
+    "newsContent": "크리스마스를 대표하는 세계의 먹거리 중 렙쿠헨이 화제가 되고 있다.\n렙쿠헨은 독일식 진저브레드(gingerbread, 생강으로 향을 내고 설탕 대신 꿀, 당밀 등으로 단맛을 낸 과자빵)의 일종으로 크리스마스 시즌을 대표하는 음식 중 하나다.\n생강으로 향을 내고 설탕 대신 꿀과 당밀 등으로 단맛을 낸다. 13세기 벨기에 남부의 작은 도시 디낭(Dinant)에서 오늘날과 유사한 렙쿠헨이 처음 만들어진 것으로 추정된다.\n아몬드, 헤이즐넛, 호두 등의 견과류와 생강, 넛맥(nutmeg), 계피 등의 향신료를 넣은 반죽을 구워서 만들어 식감이 부드러운 편이다.\n재료와 모양, 만드는 방법에 따라 다양한 종류가 있으며 그 중에서도 바이에른(Bayern) 주의 뉘른베르크(Nurnberg) 제품이 유명하다.\n뉘른베르크 렙쿠헨은 1996년 EU로부터 GGA(Geschutzte Geographische Angabe, 원산지 명칭 보호상품)로 지정되었다.\n온라인 중앙일보 ‘렙쿠헨’ [사진 위키백과]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "크리스마스를 대표하는 세계의 먹거리 중 렙쿠헨이 화제가 되고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "렙쿠헨은 독일식 진저브레드(gingerbread, 생강으로 향을 내고 설탕 대신 꿀, 당밀 등으로 단맛을 낸 과자빵)의 일종으로 크리스마스 시즌을 대표하는 음식 중 하나다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "생강으로 향을 내고 설탕 대신 꿀과 당밀 등으로 단맛을 낸다. 13세기 벨기에 남부의 작은 도시 디낭(Dinant)에서 오늘날과 유사한 렙쿠헨이 처음 만들어진 것으로 추정된다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아몬드, 헤이즐넛, 호두 등의 견과류와 생강, 넛맥(nutmeg), 계피 등의 향신료를 넣은 반죽을 구워서 만들어 식감이 부드러운 편이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "재료와 모양, 만드는 방법에 따라 다양한 종류가 있으며 그 중에서도 바이에른(Bayern) 주의 뉘른베르크(Nurnberg) 제품이 유명하다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뉘른베르크 렙쿠헨은 1996년 EU로부터 GGA(Geschutzte Geographische Angabe, 원산지 명칭 보호상품)로 지정되었다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 ‘렙쿠헨’ [사진 위키백과]",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "달콤한 맛, 크리스마스에 딱 어울리는 렙쿠헨은 무엇? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

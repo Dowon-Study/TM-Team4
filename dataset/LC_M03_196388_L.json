@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196388",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[브리핑] 우리나라 전통음식 外",
+    "newsSubTitle": "",
+    "newsContent": "◇우리나라 전통음식에 담긴 조화와 균형의 지혜를 소개한 『지혜로운 우리 음식 』(김규석 지음, 미술문화, 344쪽, 5만원)이 출간됐다.\n남도 음식의 대가인 이연채 선생의 제자로 목공예 명장인 지은이는 선생의 뜻을 이어 우리 음식에 담긴 음양의 원리를 풀어 설명했다.\n◇한국영상자료원(KOFA)이 한국영화를 주제로 한 포켓북 시리즈 『Film Story총서』를 펴냈다.\n이번에 발간된 것은 총 6권으로 『한국영화사』(정종화 지음), 『전설의 낙인』(이연호 지음), 『광수의 영화공장』(김조광수 지음), 『조국근대화를 유람하기』(김한상 지음), 『영화를 멈추다』(김혜리 지음), 『이장호 VS 배창호』(김영진 지음)다.\n한국영화사와 관련된 주제를 일반 대중들이 쉽고 이해할 수 있도록 꾸몄다.\n각 권 8000원. ◇삼국지를 현대적 소설 감각으로 다시 쓴 『고산 대삼국지』(고정일 지음, 동서문화사, 총 10권, 각 470쪽)가 나왔다.\n동서문화사 발행인인 저자는 질풍노도시대를 달리는 조조의 결단, 유비의 덕치, 손권의 수성 등을 현대 경영의 전략을 바라보는 시각으로 조명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◇우리나라 전통음식에 담긴 조화와 균형의 지혜를 소개한 『지혜로운 우리 음식 』(김규석 지음, 미술문화, 344쪽, 5만원)이 출간됐다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "남도 음식의 대가인 이연채 선생의 제자로 목공예 명장인 지은이는 선생의 뜻을 이어 우리 음식에 담긴 음양의 원리를 풀어 설명했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "◇한국영상자료원(KOFA)이 한국영화를 주제로 한 포켓북 시리즈 『Film Story총서』를 펴냈다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번에 발간된 것은 총 6권으로 『한국영화사』(정종화 지음), 『전설의 낙인』(이연호 지음), 『광수의 영화공장』(김조광수 지음), 『조국근대화를 유람하기』(김한상 지음), 『영화를 멈추다』(김혜리 지음), 『이장호 VS 배창호』(김영진 지음)다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한국영화사와 관련된 주제를 일반 대중들이 쉽고 이해할 수 있도록 꾸몄다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "각 권 8000원. ◇삼국지를 현대적 소설 감각으로 다시 쓴 『고산 대삼국지』(고정일 지음, 동서문화사, 총 10권, 각 470쪽)가 나왔다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "동서문화사 발행인인 저자는 질풍노도시대를 달리는 조조의 결단, 유비의 덕치, 손권의 수성 등을 현대 경영의 전략을 바라보는 시각으로 조명했다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우리나라 전통음식에 관한 모든 것이 담긴 책 출간",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

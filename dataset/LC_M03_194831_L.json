@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194831",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[펜화기행] 쌍봉사 대웅전 삼층목탑",
+    "newsSubTitle": "",
+    "newsContent": "화순군 이양에서 쌍봉마을을 지나 보성 쪽으로 난 산길을 몇 굽이 돌면 개울가 논 위로 삼층목탑이 우뚝 서서 길손을 반깁니다.\n쌍봉사 대웅전이기도 한 목탑은 법주사 팔상전과 함께 임진왜란 후 중건한 목탑인데, 1984년 화재로 전소됩니다.\n86년 다시 세웠는데 옛것만 못하다는 분들이 있습니다.\n그러나 옛 건물의 3층 지붕이 팔작지붕이어서 조선 한옥의 느낌이 강하였으나 새 탑은 62년 수리 때 확인했던 대로 사모지붕으로 바꾸고 상륜부를 얹어놓아 탑다워졌습니다.\n법주사 팔상전 지붕크기가 위로 올라 가면서 많이 줄어드는데 비해 이 삼층목탑은 체감율이 적어서 일본에 남아있는 우리 목탑의 원형을 보는 듯합니다.\n신라 경문왕 때 철감(澈鑑) 선사가 창건하여 구산선문의 하나였던 쌍봉사는 28년에 나한상과 인왕상 등 4백78구의 각종 불상을 장성의 백양사로 보내야할만큼 황폐해집니다.\n그러나 지장전에는 뛰어난 솜씨로 조각된 지장보살과 시왕상, 인왕상 등이 두 줄로 늘어설 만큼 아직 많이 남아있습니다.\n절 뒤편 언덕 위에는 한국 부도탑 중 최고로 손꼽히는 국보 제57호 철감선사 부도와 보물 제170호로 지정된 부도비가 있어 답사의 즐거움을 더해줍니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "화순군 이양에서 쌍봉마을을 지나 보성 쪽으로 난 산길을 몇 굽이 돌면 개울가 논 위로 삼층목탑이 우뚝 서서 길손을 반깁니다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "쌍봉사 대웅전이기도 한 목탑은 법주사 팔상전과 함께 임진왜란 후 중건한 목탑인데, 1984년 화재로 전소됩니다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "86년 다시 세웠는데 옛것만 못하다는 분들이 있습니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러나 옛 건물의 3층 지붕이 팔작지붕이어서 조선 한옥의 느낌이 강하였으나 새 탑은 62년 수리 때 확인했던 대로 사모지붕으로 바꾸고 상륜부를 얹어놓아 탑다워졌습니다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "법주사 팔상전 지붕크기가 위로 올라 가면서 많이 줄어드는데 비해 이 삼층목탑은 체감율이 적어서 일본에 남아있는 우리 목탑의 원형을 보는 듯합니다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "신라 경문왕 때 철감(澈鑑) 선사가 창건하여 구산선문의 하나였던 쌍봉사는 28년에 나한상과 인왕상 등 4백78구의 각종 불상을 장성의 백양사로 보내야할만큼 황폐해집니다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러나 지장전에는 뛰어난 솜씨로 조각된 지장보살과 시왕상, 인왕상 등이 두 줄로 늘어설 만큼 아직 많이 남아있습니다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "절 뒤편 언덕 위에는 한국 부도탑 중 최고로 손꼽히는 국보 제57호 철감선사 부도와 보물 제170호로 지정된 부도비가 있어 답사의 즐거움을 더해줍니다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "화순군 쌍봉사 삼 층 목탑, 모습 달라졌나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198303",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[행복한책읽기Review] 정치·문화 … 세태를 꼬집는 눈",
+    "newsSubTitle": "",
+    "newsContent": "탄탄한 한문학 실력과 맛깔스러운 글솜씨로 이름난 지은이가 신문. 잡지에 썼던 81편의 글을 모은 책이다.\n지은이는 자신의 글이 잡문 '나부랭이'란 평가를 거부하는데 실제 그렇다.\n어쩌면 이렇게 읽어냈을까 싶을 정도로 다양한 고전을 인용해 가며 오늘날의 학문과 정치, 경제, 문화 등 세태를 짚으며 할 말을 다한다.\n글은 짧지만 묵직하고, 옛글에 기댔지만 향기롭다.\n해서지방에 조수(潮水)를 연구하는 이가 있어 아침에 바닷가로 나가 저녁에 돌아오기를 60년 동안 한 후 책 두 권을 써서 자기 견해를 밝혔단다.\n조귀명이란 분은 \\\"이 사람은 조선 사람이 아닐 것\\\"이라며 \\\"우리나라 사람은 남들이 앉을 때 따라 앉고 남들이 설 때 따라 선다. 그러고도 사람이라고 하니 이 어찌 불쌍한 노릇이 아닌가\\\"하고 탄식했단다.\n너도나도 돈되는 학과만 찾는 통에 기초학문, 인문학이 외면당하는 현실을 비판한 글 내용이다.\n그렇다고 그가 고리타분한 고전지상주의자는 아니다.\n고전은 시대의 산물이니 끊임없이 그 가치를 의심하고 자신만의 고전목록을 만들라고 권한다.\n그러면서 삼국사기. 삼국유사는 민족주의 기운이 짙다며, 춘향전은 '열(烈)'이란 전근대적 윤리를 담았다며, 그리고 심청전은 생명의 욕구를 거슬린 반자연적 주제라며 이를 고전목록에 포함시키는 데 의문을 나타낸다.\n허균의 호민론(豪民論)을 들어 탄핵정국 후 백성을 두려워하지 않는 위정자들을 나무라고, 자기 용돈을 마련하기 위해 과거합격장을 팔아먹은 고종에게선 뇌물받는 정치인을 본다.\n\\\"이 세상과 천하를 배우의 연극판으로 만든 것이 과거\\\"라던 다산 정약용의 입을 빌어 오늘의 수능시험을 둘러싼 세태를 꼬집는다.\n조선시대 선인들의 뜻을 오늘에 되살려낸 저자의 글을 읽노라면 하늘 아래 새로운 것은 정말 없는 모양이란 생각까지 든다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "탄탄한 한문학 실력과 맛깔스러운 글솜씨로 이름난 지은이가 신문. 잡지에 썼던 81편의 글을 모은 책이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지은이는 자신의 글이 잡문 '나부랭이'란 평가를 거부하는데 실제 그렇다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "어쩌면 이렇게 읽어냈을까 싶을 정도로 다양한 고전을 인용해 가며 오늘날의 학문과 정치, 경제, 문화 등 세태를 짚으며 할 말을 다한다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "글은 짧지만 묵직하고, 옛글에 기댔지만 향기롭다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "해서지방에 조수(潮水)를 연구하는 이가 있어 아침에 바닷가로 나가 저녁에 돌아오기를 60년 동안 한 후 책 두 권을 써서 자기 견해를 밝혔단다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "조귀명이란 분은 \\\"이 사람은 조선 사람이 아닐 것\\\"이라며 \\\"우리나라 사람은 남들이 앉을 때 따라 앉고 남들이 설 때 따라 선다. 그러고도 사람이라고 하니 이 어찌 불쌍한 노릇이 아닌가\\\"하고 탄식했단다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "너도나도 돈되는 학과만 찾는 통에 기초학문, 인문학이 외면당하는 현실을 비판한 글 내용이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그렇다고 그가 고리타분한 고전지상주의자는 아니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "고전은 시대의 산물이니 끊임없이 그 가치를 의심하고 자신만의 고전목록을 만들라고 권한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그러면서 삼국사기. 삼국유사는 민족주의 기운이 짙다며, 춘향전은 '열(烈)'이란 전근대적 윤리를 담았다며, 그리고 심청전은 생명의 욕구를 거슬린 반자연적 주제라며 이를 고전목록에 포함시키는 데 의문을 나타낸다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "허균의 호민론(豪民論)을 들어 탄핵정국 후 백성을 두려워하지 않는 위정자들을 나무라고, 자기 용돈을 마련하기 위해 과거합격장을 팔아먹은 고종에게선 뇌물받는 정치인을 본다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "\\\"이 세상과 천하를 배우의 연극판으로 만든 것이 과거\\\"라던 다산 정약용의 입을 빌어 오늘의 수능시험을 둘러싼 세태를 꼬집는다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "조선시대 선인들의 뜻을 오늘에 되살려낸 저자의 글을 읽노라면 하늘 아래 새로운 것은 정말 없는 모양이란 생각까지 든다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인문학이 외면당하는 요즘… 시대의 산물인 '이것'을 끊임없이 연구하자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

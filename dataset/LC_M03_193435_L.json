@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193435",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[논술이 있는 책읽기] 성차별의 벽 뛰어넘은 여성들",
+    "newsSubTitle": "",
+    "newsContent": "지난해 한국여성개발원의 조사에 따르면 중.고교 교사 10명 중 4명이 \\\"남학생이 수학을 잘하는 것은 선천적인 성 차이 때문이며, 교사가 노력해도 바꿀 수 없다\\\"고 응답했다고 한다.\n우리나라는 OECD 국가 중 두 번째로 남녀 고교생의 수학.과학 성적 차이가 크다.\n남학생이 월등히 높다.\n여학생이 남학생보다 수학과 과학을 잘하는 나라가 17개국이나 되고 대부분 나라에서 남녀 성적이 비슷한 걸 고려하면 놀라운 결과다. '여학생은 수학과 과학에 약하다'는 우리 사회의 편견과 관계 있을 거라는 분석이 많다.\n단지 여자라는, 또는 남자라는 이유만으로 어떤 일을 더 잘하고 더 못할 수 있을까.\n남녀의 생물학적 차이와 남녀에 대한 사회적 차별은 어떻게 다를까. '루비의 소원'(S Y브리지스 글, 비룡소)과 '여자 아이, 클로딘'(마리-크리스틴 엘거슨 글, 바람의아이들)은 성차별에 도전한 100여 년 전 어린이의 이야기다.\n부잣집 중국 소녀 루비는 공부를 잘하지만 그 시대 여자에게는 집안일만 가르쳤다.\n루비는 '왜 남자애들이 대학에 갈 때 나는 결혼을 해야 하는지'에 의문을 품고 대학에 도전한다.\n마침내 대학에 입학하는 최초의 여학생이 된다.\n한편 열한 살 직물공인 프랑스의 클로딘은 가난과 성차별을 모두 이겨내야 했다.\n하루 열 시간씩 비단을 짜도 '그래봤자 계집애'란 말을 듣는다.\n클로딘은 주위의 격렬한 반대를 무릅쓰고 오직 자신의 힘으로 학교를 마친 뒤 디자이너의 꿈을 이룬다.\n비슷한 무렵 우리에게도 '김점동'이라는 소녀가 있었다.\n아녀자는 학교만 다녀도 손가락질 받던 시절이었다.\n과학자를 꿈꾸던 김점동은 선교사의 도움으로 존스홉킨스대학 전신인 미국 볼티모어 의과대학에 입학한다.\n최초의 양의학자가 되어 귀국한 뒤 가난한 조선 여성 3000여 명을 무료 진료하다가 결핵으로 숨을 거뒀다.\n물론 우리 어린이들은 그때보다 훨씬 평등한 시대에 살고 있다.\n그러나 편견의 유리벽은 여전하다.\n여성은 과학을 잘 못하는 것일까, 잘 못한다고 생각하는 것일까.\n여성이기 때문에 할 수 없는 일이 있을까.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지난해 한국여성개발원의 조사에 따르면 중.고교 교사 10명 중 4명이 \\\"남학생이 수학을 잘하는 것은 선천적인 성 차이 때문이며, 교사가 노력해도 바꿀 수 없다\\\"고 응답했다고 한다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우리나라는 OECD 국가 중 두 번째로 남녀 고교생의 수학.과학 성적 차이가 크다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "남학생이 월등히 높다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여학생이 남학생보다 수학과 과학을 잘하는 나라가 17개국이나 되고 대부분 나라에서 남녀 성적이 비슷한 걸 고려하면 놀라운 결과다. '여학생은 수학과 과학에 약하다'는 우리 사회의 편견과 관계 있을 거라는 분석이 많다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "단지 여자라는, 또는 남자라는 이유만으로 어떤 일을 더 잘하고 더 못할 수 있을까.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "남녀의 생물학적 차이와 남녀에 대한 사회적 차별은 어떻게 다를까. '루비의 소원'(S Y브리지스 글, 비룡소)과 '여자 아이, 클로딘'(마리-크리스틴 엘거슨 글, 바람의아이들)은 성차별에 도전한 100여 년 전 어린이의 이야기다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "부잣집 중국 소녀 루비는 공부를 잘하지만 그 시대 여자에게는 집안일만 가르쳤다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "루비는 '왜 남자애들이 대학에 갈 때 나는 결혼을 해야 하는지'에 의문을 품고 대학에 도전한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "마침내 대학에 입학하는 최초의 여학생이 된다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 열한 살 직물공인 프랑스의 클로딘은 가난과 성차별을 모두 이겨내야 했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하루 열 시간씩 비단을 짜도 '그래봤자 계집애'란 말을 듣는다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "클로딘은 주위의 격렬한 반대를 무릅쓰고 오직 자신의 힘으로 학교를 마친 뒤 디자이너의 꿈을 이룬다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "비슷한 무렵 우리에게도 '김점동'이라는 소녀가 있었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "아녀자는 학교만 다녀도 손가락질 받던 시절이었다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "과학자를 꿈꾸던 김점동은 선교사의 도움으로 존스홉킨스대학 전신인 미국 볼티모어 의과대학에 입학한다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "최초의 양의학자가 되어 귀국한 뒤 가난한 조선 여성 3000여 명을 무료 진료하다가 결핵으로 숨을 거뒀다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "물론 우리 어린이들은 그때보다 훨씬 평등한 시대에 살고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "그러나 편견의 유리벽은 여전하다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "여성은 과학을 잘 못하는 것일까, 잘 못한다고 생각하는 것일까.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "여성이기 때문에 할 수 없는 일이 있을까.",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여학생, 남학생 수학 성적 넘사벽? 사회적 편견이 아닐까...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197400",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[라이프트렌드] 에버콜라겐 인&업 할인 판매",
+    "newsSubTitle": "",
+    "newsContent": "건강기능 식품 전문기업 뉴트리(NEWTREE)가 피부 탄력에 도움을주는 ‘에버콜라겐 인&업’(사진)을 할인 판매한다.\n이 제품은 2013년 식품의약품안전처에서 ‘피부 보습·건강을 유지하는 데 도움을 줄 수 있음’으로 기능성을 인정받은 건강기능식품이다.\n피부 콜라겐과 동일한 구조를 가진 저분자 콜라겐 펩타이드를 15% 이상 함유하고 있다.\n40~60세 여성 70명을 대상으로 12주 동안 진행한 인체적용 시험에서 저분자 콜라겐 펩타이드가 피부의 주름·탄력·보습을 개선한 것이확인됐다.\n이 제품에는 저분자 콜라겐펩타이드뿐 아니라 비타민C, 단백질분해·합성에 도움을 주는 비오틴이 주원료로 들어 있다.\n여기에 피부 보습을담당하는 히알루론산, 진피의 구성 성분인 엘라스틴도 부원료로 함유됐다.\n이 제품은 하루에 한 번 3정을 물과 함께 먹으면 된다.\n뉴트리는 ‘에버콜라겐인&업’을 이달 30일까지 선착순 150명에게 유통 최저가로 판매한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "건강기능 식품 전문기업 뉴트리(NEWTREE)가 피부 탄력에 도움을주는 ‘에버콜라겐 인&업’(사진)을 할인 판매한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 제품은 2013년 식품의약품안전처에서 ‘피부 보습·건강을 유지하는 데 도움을 줄 수 있음’으로 기능성을 인정받은 건강기능식품이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "피부 콜라겐과 동일한 구조를 가진 저분자 콜라겐 펩타이드를 15% 이상 함유하고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "40~60세 여성 70명을 대상으로 12주 동안 진행한 인체적용 시험에서 저분자 콜라겐 펩타이드가 피부의 주름·탄력·보습을 개선한 것이확인됐다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 제품에는 저분자 콜라겐펩타이드뿐 아니라 비타민C, 단백질분해·합성에 도움을 주는 비오틴이 주원료로 들어 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "여기에 피부 보습을담당하는 히알루론산, 진피의 구성 성분인 엘라스틴도 부원료로 함유됐다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 제품은 하루에 한 번 3정을 물과 함께 먹으면 된다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "뉴트리는 ‘에버콜라겐인&업’을 이달 30일까지 선착순 150명에게 유통 최저가로 판매한다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "피부 탄력·보습 책임지는 '에버콜라겐', 이달 폭탄 행사 진행 중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

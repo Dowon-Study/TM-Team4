@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196373",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "AI 감염 의심 고양이 발견",
+    "newsSubTitle": "지난 4월 익산서 죽은 채 조사결과 2~3일 뒤 나와",
+    "newsContent": "조류인플루엔자(AI)에 감염된 것으로 의심되는 고양이가 발견돼 검역 당국이 정밀 조사에 나섰다.\n농림수산식품부는 23일 충남대 수의대가 야생 고양이에서 고병원성 AI 바이러스를 검출해 국립수의과학검역원에 최종 판정을 의뢰했다고 밝혔다.\n검역원은 현재 정밀 검사 중이며 최종 결과는 2~3일 뒤 나온다.\nAI 감염 의심 고양이는 지난 4월 전북 익산 만경강 유역에서 죽은 채 발견된 것이다.\n농식품부는 2006년부터 AI가 발생하면 인근 지역의 모든 돼지와 닭·오리 고기를 먹은 개·고양이에 대한 AI 검사를 해 왔다.\n그러나 아직까지 국내에서 포유동물이 AI에 감염된 적은 없었다.\n김창섭 농식품부 동물방역팀장은 “AI 바이러스는 개나 고양이의 몸에서 증식하지는 않기 때문에 사람에게 전염될 가능성은 매우 작다”며 “AI가 발생한 농가 주변이 아니라면 집에서 키우는 고양이가 AI에 걸릴 가능성도 거의 없다”고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "조류인플루엔자(AI)에 감염된 것으로 의심되는 고양이가 발견돼 검역 당국이 정밀 조사에 나섰다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "농림수산식품부는 23일 충남대 수의대가 야생 고양이에서 고병원성 AI 바이러스를 검출해 국립수의과학검역원에 최종 판정을 의뢰했다고 밝혔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "검역원은 현재 정밀 검사 중이며 최종 결과는 2~3일 뒤 나온다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "AI 감염 의심 고양이는 지난 4월 전북 익산 만경강 유역에서 죽은 채 발견된 것이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "농식품부는 2006년부터 AI가 발생하면 인근 지역의 모든 돼지와 닭·오리 고기를 먹은 개·고양이에 대한 AI 검사를 해 왔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 아직까지 국내에서 포유동물이 AI에 감염된 적은 없었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김창섭 농식품부 동물방역팀장은 “AI 바이러스는 개나 고양이의 몸에서 증식하지는 않기 때문에 사람에게 전염될 가능성은 매우 작다”며 “AI가 발생한 농가 주변이 아니라면 집에서 키우는 고양이가 AI에 걸릴 가능성도 거의 없다”고 설명했다.",
+        "sentenceSize": 133
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "조류 인플루엔자 바이러스, 고양이까지 감염시켰다... 사람에게 전염 가능성 배제 못해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

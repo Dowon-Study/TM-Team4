@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195548",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "어깨 수술 받은 류현진, 얼마나 던질 수 있을까?",
+    "newsSubTitle": "현직 야구단 필드닥터 \\\"통계적으로 30이닝 이상 준다\\\" 예측",
+    "newsContent": "[박정렬 기자] 메이저리그 시즌 개막을 앞두고 국내 야구팬들의 관심이 LA 다저스 류현진 선수에게 쏠렸다.\n류 선수는 2년 전 어깨 관절와순 수술을 받았다.\n관절와순은 어깨와 팔뼈를 잇는 관절의 가장자리를 감싼 연골 조직이다.\n이 수술은 스포츠의학 전문가들 사이에서 ‘커리어 엔딩(career ending)’ 수술로 불릴 만큼 재활과 복귀가 어려운 질환으로 꼽힌다.\n관절와순은 공을 던지는 과정에서 반복적으로 손상되기 때문이다.\n상완이두근이라는 근육의 힘줄 하나가 부착되는 연골 부위에 반복적인 스트레스가 가해져서다.\n가장 흔하게 손상되는 곳은 상부 관절와순으로 손상 정도에 따라 크게 4 가지로 나뉜다.\ntype 1은 수술적 치료보다는 보존적 치료를 시행하고 Type 2에는 나이, 직업, 동반질환 등을 고려해 치료를 결정한다. , type 3, 4 병변인 경우 수술이 불가피하다.\nLG 트윈스 야구단 필드닥터인 날개병원 김우 원장(정형외과 전문의)은 \\\"류 선수의 경우 외상에 의한 손상이 아니라 과사용에 의한 손상으로 생각된다\\\"며 \\\"초기 수술을 해야 하는지에 대한 논의도 많았던 만큼 Type 2 병변이었을 가능성이 높아 보이고, 야구선수임을 고려한다면 파열된 관절와순을 다듬는 수준이 아니라 봉합술을 시행했을 가능성이 높다\\\"고 말했다.\n그렇다면 복귀 후 정상 컨디션을 회복할 가능성은 어느정도일까.\n김우 원장은 “투수의 경우 관절순 봉합 수술 등을 시행한 후 어깨 관절의 운동범위가 감소하게 되면서 이전 구속을 내지 못하게 되고 투구폼 자체의 변화가 오기 때문에 복귀율이 저조하다”며 “문헌상에 프로야구 투수가 관절순 봉합 수술 후 정상적인 복귀율이 낮은 만큼 수술에 대한 우려가 많았지만 류현진 선수의 경우 탁월한 근력과 승부근성으로 혹독한 재활을 잘 버텼기 때문에 건강한 복귀가 예상되는 것\\\"이라 말했다. 이어 그는 \\\"단, 통계적으로 복귀 후 평균 101.8이닝에서 65.53이닝 정도로 투구 이닝수가 줄어들 수 밖에 없는 점을 고려하면 초반에 무리를 하지 않고 효율적인 피칭을 하는 것이 중요할 것”이라 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[박정렬 기자] 메이저리그 시즌 개막을 앞두고 국내 야구팬들의 관심이 LA 다저스 류현진 선수에게 쏠렸다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "류 선수는 2년 전 어깨 관절와순 수술을 받았다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "관절와순은 어깨와 팔뼈를 잇는 관절의 가장자리를 감싼 연골 조직이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 수술은 스포츠의학 전문가들 사이에서 ‘커리어 엔딩(career ending)’ 수술로 불릴 만큼 재활과 복귀가 어려운 질환으로 꼽힌다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "관절와순은 공을 던지는 과정에서 반복적으로 손상되기 때문이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "상완이두근이라는 근육의 힘줄 하나가 부착되는 연골 부위에 반복적인 스트레스가 가해져서다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "가장 흔하게 손상되는 곳은 상부 관절와순으로 손상 정도에 따라 크게 4 가지로 나뉜다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "type 1은 수술적 치료보다는 보존적 치료를 시행하고 Type 2에는 나이, 직업, 동반질환 등을 고려해 치료를 결정한다. , type 3, 4 병변인 경우 수술이 불가피하다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "LG 트윈스 야구단 필드닥터인 날개병원 김우 원장(정형외과 전문의)은 \\\"류 선수의 경우 외상에 의한 손상이 아니라 과사용에 의한 손상으로 생각된다\\\"며 \\\"초기 수술을 해야 하는지에 대한 논의도 많았던 만큼 Type 2 병변이었을 가능성이 높아 보이고, 야구선수임을 고려한다면 파열된 관절와순을 다듬는 수준이 아니라 봉합술을 시행했을 가능성이 높다\\\"고 말했다.",
+        "sentenceSize": 203
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그렇다면 복귀 후 정상 컨디션을 회복할 가능성은 어느정도일까.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "김우 원장은 “투수의 경우 관절순 봉합 수술 등을 시행한 후 어깨 관절의 운동범위가 감소하게 되면서 이전 구속을 내지 못하게 되고 투구폼 자체의 변화가 오기 때문에 복귀율이 저조하다”며 “문헌상에 프로야구 투수가 관절순 봉합 수술 후 정상적인 복귀율이 낮은 만큼 수술에 대한 우려가 많았지만 류현진 선수의 경우 탁월한 근력과 승부근성으로 혹독한 재활을 잘 버텼기 때문에 건강한 복귀가 예상되는 것\\\"이라 말했다. 이어 그는 \\\"단, 통계적으로 복귀 후 평균 101.8이닝에서 65.53이닝 정도로 투구 이닝수가 줄어들 수 밖에 없는 점을 고려하면 초반에 무리를 하지 않고 효율적인 피칭을 하는 것이 중요할 것”이라 덧붙였다.",
+        "sentenceSize": 349
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "어깨 수술받은 류현진, 다시 야구장에 설 수 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

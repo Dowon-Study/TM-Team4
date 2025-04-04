@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195559",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[장진영 기자의 패킹쿠킹](29)\\\"요리를 합시다\\\" - 뜨거운 감자",
+    "newsSubTitle": "",
+    "newsContent": "감자는 어떠한 방식으로 요리해도 맛있는 식재료입니다.\n감자볶음, 감자조림, 감자전, 감자튀김 등… 나열한 것들 외에 감자로 만들 수 있는 요리가 또 무엇이 있을까요.\n그렇지만 우리의 밥상에서 감자는 심심한 모양새 때문인지 조연의 이미지가 강했습니다.\n주인공인 다른 음식들을 빛내주는 그런 역할이었죠.\n78%의수분과 18%의 전분 등으로 구성된 감자는 알고 보면 꽤 매력적인 식재료입니다.\n스위스식 감자전인 뢰스티, 이탈리아의 뇨끼, 유대인이 즐겨 먹는 감자 팬케이크 랏티, 패스트푸드점에서 많이 먹는 해시브라운 등 지역마다 특색있는 조리법으로 많은 사랑을 받고 있죠. ‘감자=구황작물’ 이미지를 쇄신하기 위한 감자요리를 소개합니다.\n조연이 아닌 주연이 되는 ‘뜨거운 감자’ 요리입니다.\n깍두기 모양으로 썬 감자를 버터 듬뿍 넣어 지글지글 볶다가 ‘레몬+아보카도+치즈 가루 듬뿍’ 넣으면 끝입니다.\n감자에 레몬 조합이 어색해 보이겠지만 레몬은 감자가 식더라도 보들보들한 식감을 유지하는 역할을 합니다.\n마지막으로 좋은 감자 고르는 팁! 1. 형태가 균일하고 색깔과 광택이 좋은 것 2. 울퉁불퉁하지 않고 둥글둥글 한 것 3. 싹이 나지 않고 씨눈이 트지 않은 것. 보기 좋은 감자가 먹기에도 좋답니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "감자는 어떠한 방식으로 요리해도 맛있는 식재료입니다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "감자볶음, 감자조림, 감자전, 감자튀김 등… 나열한 것들 외에 감자로 만들 수 있는 요리가 또 무엇이 있을까요.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그렇지만 우리의 밥상에서 감자는 심심한 모양새 때문인지 조연의 이미지가 강했습니다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "주인공인 다른 음식들을 빛내주는 그런 역할이었죠.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "78%의수분과 18%의 전분 등으로 구성된 감자는 알고 보면 꽤 매력적인 식재료입니다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "스위스식 감자전인 뢰스티, 이탈리아의 뇨끼, 유대인이 즐겨 먹는 감자 팬케이크 랏티, 패스트푸드점에서 많이 먹는 해시브라운 등 지역마다 특색있는 조리법으로 많은 사랑을 받고 있죠. ‘감자=구황작물’ 이미지를 쇄신하기 위한 감자요리를 소개합니다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "조연이 아닌 주연이 되는 ‘뜨거운 감자’ 요리입니다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "깍두기 모양으로 썬 감자를 버터 듬뿍 넣어 지글지글 볶다가 ‘레몬+아보카도+치즈 가루 듬뿍’ 넣으면 끝입니다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "감자에 레몬 조합이 어색해 보이겠지만 레몬은 감자가 식더라도 보들보들한 식감을 유지하는 역할을 합니다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "마지막으로 좋은 감자 고르는 팁! 1. 형태가 균일하고 색깔과 광택이 좋은 것 2. 울퉁불퉁하지 않고 둥글둥글 한 것 3. 싹이 나지 않고 씨눈이 트지 않은 것. 보기 좋은 감자가 먹기에도 좋답니다.",
+        "sentenceSize": 111
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'감자'를 밥상의 주인공으로 만들어주는 요리법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

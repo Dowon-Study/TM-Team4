@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193680",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "데이터 막아놓고 \\\"돈 보내라\\\"지난해 매주 85건씩 협박",
+    "newsSubTitle": "'온라인 약탈' 랜섬웨어 극성",
+    "newsContent": "IT업계에서 일하는 A씨는 최근 진땀 빠지는 경험을 했다.\n동료가 파일을 내려받다 회사 PC가 악성코드에 감염됐다.\n파일 확장자가 mp3로 바뀌면서 문서·그림 등 3만여 개 파일이 먹통 됐다.\n서버와 연결된 PC가 마비돼 회사 홈페이지까지 멈췄다.\n각각의 폴더에 복구(Recovery)란 파일이 생겨 클릭해보니 “데이터 암호를 풀려면 돈을 보내라”는 해커의 메시지가 떴다.\n결국 A씨는 해커에게 울며 겨자먹기로 돈을 보내야 했다.\n해커들의 ‘온라인 약탈’이 극성을 부리고 있다.\nLG화학은 최근 e메일 해킹으로 240억원을 모르는 계좌에 송금했다.\n거래처가 납품대금 계좌를 변경했다며 e메일을 보냈는데, 실은 해커가 보낸 ‘사기 e메일’이었던 것이다.\n이뿐이 아니다.\n해커는 데이터를 ‘인질’ 삼아 돈을 요구하기도 한다.\n이른바 ‘랜섬웨어(ransomware·몸값을 뜻하는 ‘랜섬(ransom)’과 ‘소프트웨어(software)’의 합성어)’다.\n다단계 판매, 콜센터 운영 등 지능화 해커는 네트워크를 통해 PC에 악성코드를 심어 저장된 문서나 그림 등 데이터를 암호화시킨다.\n이를 풀어주는 대가로 해커는 0.5~3비트코인(1비트코인은 약 50만원)을 요구해 돈을 챙긴다.\n한국트렌드마이크로 기술지원실 최영삼 실장은 “암호를 푸는 경우의 수는 2의 2000제곱이 넘는다. 스스로 풀기란 거의 불가능하다”고 말했다.\n지난 2월 차병원그룹이 투자한 미국 캘리포니아주 할리우드장로병원도 랜섬웨어의 공격을 받았다.\n1주일간 모든 방법을 동원해 암호를 풀어보려 했지만 소용이 없었다.\n그동안 병원 측은 환자 등록·진료 기록 작성을 모두 수기로 처리해야 했다.\n결국 이곳도 해커에게 40비트코인을 넘겼다.\n글로벌 보안업체 시만텍에 따르면 지난해 랜섬웨어로 인한 피해는 세계적으로 36만여 건 이상, 우리나라는 4400여 건에 달한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "IT업계에서 일하는 A씨는 최근 진땀 빠지는 경험을 했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "동료가 파일을 내려받다 회사 PC가 악성코드에 감염됐다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "파일 확장자가 mp3로 바뀌면서 문서·그림 등 3만여 개 파일이 먹통 됐다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서버와 연결된 PC가 마비돼 회사 홈페이지까지 멈췄다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "각각의 폴더에 복구(Recovery)란 파일이 생겨 클릭해보니 “데이터 암호를 풀려면 돈을 보내라”는 해커의 메시지가 떴다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "결국 A씨는 해커에게 울며 겨자먹기로 돈을 보내야 했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "해커들의 ‘온라인 약탈’이 극성을 부리고 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "LG화학은 최근 e메일 해킹으로 240억원을 모르는 계좌에 송금했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "거래처가 납품대금 계좌를 변경했다며 e메일을 보냈는데, 실은 해커가 보낸 ‘사기 e메일’이었던 것이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이뿐이 아니다.",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "해커는 데이터를 ‘인질’ 삼아 돈을 요구하기도 한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이른바 ‘랜섬웨어(ransomware·몸값을 뜻하는 ‘랜섬(ransom)’과 ‘소프트웨어(software)’의 합성어)’다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "다단계 판매, 콜센터 운영 등 지능화 해커는 네트워크를 통해 PC에 악성코드를 심어 저장된 문서나 그림 등 데이터를 암호화시킨다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이를 풀어주는 대가로 해커는 0.5~3비트코인(1비트코인은 약 50만원)을 요구해 돈을 챙긴다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "한국트렌드마이크로 기술지원실 최영삼 실장은 “암호를 푸는 경우의 수는 2의 2000제곱이 넘는다. 스스로 풀기란 거의 불가능하다”고 말했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "지난 2월 차병원그룹이 투자한 미국 캘리포니아주 할리우드장로병원도 랜섬웨어의 공격을 받았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "1주일간 모든 방법을 동원해 암호를 풀어보려 했지만 소용이 없었다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "그동안 병원 측은 환자 등록·진료 기록 작성을 모두 수기로 처리해야 했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "결국 이곳도 해커에게 40비트코인을 넘겼다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "글로벌 보안업체 시만텍에 따르면 지난해 랜섬웨어로 인한 피해는 세계적으로 36만여 건 이상, 우리나라는 4400여 건에 달한다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서버 해킹해 돈 보내라 협박하는 '먹튀' 기승부리는 IT업계",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

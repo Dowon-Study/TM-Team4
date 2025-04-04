@@ -1,0 +1,258 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197985",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[치매·중풍] 부모님의 덧셈·뺄셈 능력 점검해 보라",
+    "newsSubTitle": "꼭 알아야 할 치매 상식 7",
+    "newsContent": "65세 이후부터 5년마다 2배씩 증가하는 질병인 치매는 장수할수록 발병 위험도 높다.\n국내 65세 이상 노인 치매 유병률은 8.2~10.8%. 430만 명의 노인 중 35만 명을 차지할 것으로 본다.\n치매의 특징과 대책을 알아본다.\n#1. 최근 기억력이 없어진다=치매는 기억력·계산 능력·언어 능력·문제 해결 능력·공간 지각력 등 전반적인 인지 기능이 동시에 무너지는 병이다.\n특히 최근 일을 까맣게 잊는다.\n예컨대 이틀 전 생일잔치를 하고도 잊어버린다.\n건망증 환자는 이런 저런 힌트를 주면 “아~” 하고 기억하지만 치매 환자는 전혀 떠올리지 못한다.\n#2. 치료 가능한 치매도 많다=치매 원인은 다양하다.\n우선 외상·감염·종양·갑상선 질환·종양·알코올 등에 의해 2차적으로 온 치매가 10~15%인데 이땐 원인질환을 치료하면 완치도 가능하다. 고혈압·당뇨병·고지혈증과 같은 혈관 질환으로 인한 뇌혈관 손상이 원인인 혈관성 치매 역시 질병 관리로 뇌손상의 진행을 막으면 치매 진행도 막을 수 있다.\n노인 우울증도 치매로 오인되기 쉬운데 약물 치료로 우울증이 좋아지면 치매 증상도 개선된다.\n#3. 초기 치매는 놓치기 쉽다=치매도 초기엔 웬만큼 중요한 일은 기억하고 사회생활도 가능해 주변에서 치매 발병을 알기 힘들다.\n실제 병원을 방문해도 의사가 “어디가 불편하시냐?” “잘 지내셨어요?” 등의 일반적인 질문만으로는 환자 식별이 어렵다.\n노년기 치매 정기검진이 필요한 이유다.\n#4. 중기 치매도 증상은 다양하다=치매 증상은 다양하다.\n기억력이나 계산능력에는 별문제 없지만 남을 이유 없이 의심하거나 시비를 걸면서 대소변을 자주 지려 병원을 찾는 환자도 있다.\n오늘이 며칠인지조차 모르면서도 꽃 가꾸기 등 이전부터 즐기던 취미활동은 무난히 하는 환자도 있다.\n따라서 부모님 행동이 좀 이상하다 싶으면 치매 상태를 정밀검진받아야 한다.\n#5. 알츠하이머 치매도 진행 늦출 수 있다=퇴행성 질환인 알츠하이머형 치매도 일찍 발견해 치료하면 병을 지연시킬 수 있다.\n최근엔 아세틸콜린이란 뇌 신경전달물질 농도를 높여주는 약이나 뇌세포 손상을 줄여주는 약물 치료를 통해 환자의 인지기능을 높일 수 있다.\n단 약효는 초기일수록 효과가 높고 진행될수록 효험이 없다.\n#6. 65세 이후엔 치매 검진을 받자=치매 조기 발견은 매년 치매 검사를 통해 가능하다.\n집에서도 부모님께 ‘내가 하는 손동작을 따라 해 보시라’고 하거나 덧셈·뺄셈 등 일상생활에 필요한 계산력도 점검해 보자.\n또 전화로 대화하기·장보기·요리·집안일·대중교통 혼자 이용하기·필요한 약 챙겨 먹기 등에 문제가 있으면 병원에서 치매 정밀검진을 받는 게 좋다.\n#7. 중년기부터 치매 예방하자=치매 발생은 노년기지만 예방은 중년기부터 해야 한다.\n당뇨병·고혈압·고지혈증·심장병 등 혈관질환을 관리하고 취미생활을 하는 것은 기본이다.\n흡연과 과음은 뇌혈관 손상 촉발제이므로 한 살이라도 일찍 멀리해야 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 26,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "65세 이후부터 5년마다 2배씩 증가하는 질병인 치매는 장수할수록 발병 위험도 높다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국내 65세 이상 노인 치매 유병률은 8.2~10.8%. 430만 명의 노인 중 35만 명을 차지할 것으로 본다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "치매의 특징과 대책을 알아본다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "#1. 최근 기억력이 없어진다=치매는 기억력·계산 능력·언어 능력·문제 해결 능력·공간 지각력 등 전반적인 인지 기능이 동시에 무너지는 병이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 최근 일을 까맣게 잊는다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "예컨대 이틀 전 생일잔치를 하고도 잊어버린다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "건망증 환자는 이런 저런 힌트를 주면 “아~” 하고 기억하지만 치매 환자는 전혀 떠올리지 못한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "#2. 치료 가능한 치매도 많다=치매 원인은 다양하다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "우선 외상·감염·종양·갑상선 질환·종양·알코올 등에 의해 2차적으로 온 치매가 10~15%인데 이땐 원인질환을 치료하면 완치도 가능하다. 고혈압·당뇨병·고지혈증과 같은 혈관 질환으로 인한 뇌혈관 손상이 원인인 혈관성 치매 역시 질병 관리로 뇌손상의 진행을 막으면 치매 진행도 막을 수 있다.",
+        "sentenceSize": 162
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "노인 우울증도 치매로 오인되기 쉬운데 약물 치료로 우울증이 좋아지면 치매 증상도 개선된다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "#3. 초기 치매는 놓치기 쉽다=치매도 초기엔 웬만큼 중요한 일은 기억하고 사회생활도 가능해 주변에서 치매 발병을 알기 힘들다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "실제 병원을 방문해도 의사가 “어디가 불편하시냐?” “잘 지내셨어요?” 등의 일반적인 질문만으로는 환자 식별이 어렵다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "노년기 치매 정기검진이 필요한 이유다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "#4. 중기 치매도 증상은 다양하다=치매 증상은 다양하다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "기억력이나 계산능력에는 별문제 없지만 남을 이유 없이 의심하거나 시비를 걸면서 대소변을 자주 지려 병원을 찾는 환자도 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "오늘이 며칠인지조차 모르면서도 꽃 가꾸기 등 이전부터 즐기던 취미활동은 무난히 하는 환자도 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "따라서 부모님 행동이 좀 이상하다 싶으면 치매 상태를 정밀검진받아야 한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "#5. 알츠하이머 치매도 진행 늦출 수 있다=퇴행성 질환인 알츠하이머형 치매도 일찍 발견해 치료하면 병을 지연시킬 수 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "최근엔 아세틸콜린이란 뇌 신경전달물질 농도를 높여주는 약이나 뇌세포 손상을 줄여주는 약물 치료를 통해 환자의 인지기능을 높일 수 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "단 약효는 초기일수록 효과가 높고 진행될수록 효험이 없다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "#6. 65세 이후엔 치매 검진을 받자=치매 조기 발견은 매년 치매 검사를 통해 가능하다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "집에서도 부모님께 ‘내가 하는 손동작을 따라 해 보시라’고 하거나 덧셈·뺄셈 등 일상생활에 필요한 계산력도 점검해 보자.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "또 전화로 대화하기·장보기·요리·집안일·대중교통 혼자 이용하기·필요한 약 챙겨 먹기 등에 문제가 있으면 병원에서 치매 정밀검진을 받는 게 좋다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "#7. 중년기부터 치매 예방하자=치매 발생은 노년기지만 예방은 중년기부터 해야 한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "당뇨병·고혈압·고지혈증·심장병 등 혈관질환을 관리하고 취미생활을 하는 것은 기본이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "흡연과 과음은 뇌혈관 손상 촉발제이므로 한 살이라도 일찍 멀리해야 한다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "65세 이후부터 5년마다 2배씩 증가하는 `이 질병`은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196865",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "소변으로 알 수 있는 건강상태…뿌연 소변이 나온다면?",
+    "newsSubTitle": "",
+    "newsContent": "소변으로 알 수 있는 건강상태가 화제를 모으고 있다.\n최근 미국 건강지 ‘프리벤션’은 소변에서 나타나는 변화는 우리 몸에서 일어나고 있는 질병을 예층하는 단서가 된다며 소변과 건강의 상관관계에 대해 소개했다.\n먼저 단 냄새가 나는 경우에는 당뇨를 의심해볼 수 있다.\n소변에서 단 냄새가 났을때 달콤한 음식이 원인이 됐을 것이라고 생각하기 쉽지만 음식과 소변의 냄새는 별 상관이 없다.\n당뇨 치료를 받고 있음에도 단내가 계속 난다면 혈당 수치가 제대로 관리되고 있지 않다는 의미일 수 있다.\n소변 색이 선명하지 않고 뿌연 경우에는 요로 감염증을 일으키는 세균이 의심된다.\n여성건강 전문의 홀리 필립스 박사는 뿌연 소변은 세균 및 세균과 싸운 백혈구의 분비가 원인이라고 말한다.\n배뇨 시 통증이 동반되거나 화장실을 가는 횟수가 잦으면 감염증일 확률이 높다.\n이런 증상 없이도 소변이 뿌옇다면 감염을 의심해봐야 한다.\n간혹 블랙베리나 사탕무와 같이 붉은색을 띄는 채소나 색소가 들어간 음식을 먹으면 소변 색이 붉어진다.\n하지만 이런 음식을 먹지 않았음에도 불구하고 소변이 붉거나 분홍빛을 띤다면 이는 소변에 피가 섞여 있음을 의미한다.\n소변에 혈액이 동반된다는 것은 요로 감염증의 증상일 수도 있고 신장결석이 있거나 드문 경우 방광암, 신장암의 징후일 수도 있따. 피가 섞여 있다는 것은 좋은 현상이 아니므로 전문의의 검진을 꼭 받아야 한다.\n심한 악취가 나는 경우에는 방광의 감염을 의심해봐야 한다.\n소변 냄새가 향기로울 수는 없지만 부패한 음식이나 하수구 냄새처럼 심한 악취가 나는 것 역시 정상은 아니다.\n작열감이 일어나는 경우에도 주의가 요구된다.\n만약 소변을 볼 때 찌르는 듯 따갑고 아프다면 요로 감염증이 원인일 수 있다.\n또 클라미디아나 임질과 성병의 신호일 수도 있다.\n클라미디아는 클라미디아 트라코마티스라는 세균이, 임질은 임균이라는 세균이 원인이며 둘 다 성교에 의해 감염된다.\n화장실이 자꾸 가고 싶다면 요로 감염증을 의심해볼 수 있다.\n방광과 요도 내벽에 염증이 생기면서 자극을 받아 이와 같은 증상이 나타난다.\n만성적으로 방광에 통증이 나타나는 간질성 방광염 역시 절박뇨와 빈뇨가 동반되므로 유의해야 한다.\n온라인 중앙일보 ‘소변으로 알 수 있는 건강상태’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "소변으로 알 수 있는 건강상태가 화제를 모으고 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 미국 건강지 ‘프리벤션’은 소변에서 나타나는 변화는 우리 몸에서 일어나고 있는 질병을 예층하는 단서가 된다며 소변과 건강의 상관관계에 대해 소개했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "먼저 단 냄새가 나는 경우에는 당뇨를 의심해볼 수 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "소변에서 단 냄새가 났을때 달콤한 음식이 원인이 됐을 것이라고 생각하기 쉽지만 음식과 소변의 냄새는 별 상관이 없다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당뇨 치료를 받고 있음에도 단내가 계속 난다면 혈당 수치가 제대로 관리되고 있지 않다는 의미일 수 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소변 색이 선명하지 않고 뿌연 경우에는 요로 감염증을 일으키는 세균이 의심된다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여성건강 전문의 홀리 필립스 박사는 뿌연 소변은 세균 및 세균과 싸운 백혈구의 분비가 원인이라고 말한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "배뇨 시 통증이 동반되거나 화장실을 가는 횟수가 잦으면 감염증일 확률이 높다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이런 증상 없이도 소변이 뿌옇다면 감염을 의심해봐야 한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "간혹 블랙베리나 사탕무와 같이 붉은색을 띄는 채소나 색소가 들어간 음식을 먹으면 소변 색이 붉어진다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하지만 이런 음식을 먹지 않았음에도 불구하고 소변이 붉거나 분홍빛을 띤다면 이는 소변에 피가 섞여 있음을 의미한다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "소변에 혈액이 동반된다는 것은 요로 감염증의 증상일 수도 있고 신장결석이 있거나 드문 경우 방광암, 신장암의 징후일 수도 있따. 피가 섞여 있다는 것은 좋은 현상이 아니므로 전문의의 검진을 꼭 받아야 한다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "심한 악취가 나는 경우에는 방광의 감염을 의심해봐야 한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "소변 냄새가 향기로울 수는 없지만 부패한 음식이나 하수구 냄새처럼 심한 악취가 나는 것 역시 정상은 아니다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "작열감이 일어나는 경우에도 주의가 요구된다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "만약 소변을 볼 때 찌르는 듯 따갑고 아프다면 요로 감염증이 원인일 수 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "또 클라미디아나 임질과 성병의 신호일 수도 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "클라미디아는 클라미디아 트라코마티스라는 세균이, 임질은 임균이라는 세균이 원인이며 둘 다 성교에 의해 감염된다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "화장실이 자꾸 가고 싶다면 요로 감염증을 의심해볼 수 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "방광과 요도 내벽에 염증이 생기면서 자극을 받아 이와 같은 증상이 나타난다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "만성적으로 방광에 통증이 나타나는 간질성 방광염 역시 절박뇨와 빈뇨가 동반되므로 유의해야 한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "온라인 중앙일보 ‘소변으로 알 수 있는 건강상태’ [사진 중앙포토]",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소변만 잘 살펴보면 건강검진 필요없다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

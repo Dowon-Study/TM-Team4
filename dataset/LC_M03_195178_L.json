@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195178",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "해외 사는 외국 국적 가족에게 마스크 보낼 수 있는 길 열렸다",
+    "newsSubTitle": "",
+    "newsContent": "25일부터 해외 거주하는 재외동포 가족에게도 보건용 마스크를 보낼 수 있다.\n정부는 관계부처 협의를 거쳐 외국 국적을 가진 재외동포, 결혼 이민자의 부모·자녀에게도 마스크 발송을 허용하기로 결정했다고 24일 밝혔다.\n외국 국적을 가진 재외동포에는 해외 입양인도 포함된다.\n지금까지 국제우편을 통해 해외 가족에게 마스크를 보낼 수 있는 대상은 한국 국적을 가진 재외 국민까지 가능했다.\n이번 조치는 해외 거주 가족에게 보건용 마스크를 발송하기 원하는 국민들의 민원이 계속되고, 최근 공적마스크 구매 수량 확대 및 수출 확대 등 국내 마스크 수급이 안정화되는 추세가 고려돼 이뤄졌다.\n해외로 마스크를 보내려면 발송인과 수취인 간 가족관계를 확인할 수 있는 서류와 본인 신분증을 지참해 우체국에서 접수하면 된다.\n가족관계 서류는 주민등록등본‧가족관계증명서‧제적등본‧기본증명서‧혼인관계증명서 등이 가능하다.\n해외 거주 한인 입양인의 경우 아동권리보장원에서 발급하는 ‘입양인 친가족관계 확인서’로 가족관계 확인이 가능하다.\n증빙서류는 한국어 또는 영어로 표시된 것에 한한다.\n관세청에 따르면 지난 3월 24일 보건용 마스크 해외반출 예외 허용 이후 6월 19일까지 국제우편으로 접수된 해외 가족에 보낸 보건용 마스크는 502만3000여장이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "25일부터 해외 거주하는 재외동포 가족에게도 보건용 마스크를 보낼 수 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정부는 관계부처 협의를 거쳐 외국 국적을 가진 재외동포, 결혼 이민자의 부모·자녀에게도 마스크 발송을 허용하기로 결정했다고 24일 밝혔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "외국 국적을 가진 재외동포에는 해외 입양인도 포함된다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지금까지 국제우편을 통해 해외 가족에게 마스크를 보낼 수 있는 대상은 한국 국적을 가진 재외 국민까지 가능했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 조치는 해외 거주 가족에게 보건용 마스크를 발송하기 원하는 국민들의 민원이 계속되고, 최근 공적마스크 구매 수량 확대 및 수출 확대 등 국내 마스크 수급이 안정화되는 추세가 고려돼 이뤄졌다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해외로 마스크를 보내려면 발송인과 수취인 간 가족관계를 확인할 수 있는 서류와 본인 신분증을 지참해 우체국에서 접수하면 된다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "가족관계 서류는 주민등록등본‧가족관계증명서‧제적등본‧기본증명서‧혼인관계증명서 등이 가능하다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "해외 거주 한인 입양인의 경우 아동권리보장원에서 발급하는 ‘입양인 친가족관계 확인서’로 가족관계 확인이 가능하다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "증빙서류는 한국어 또는 영어로 표시된 것에 한한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "관세청에 따르면 지난 3월 24일 보건용 마스크 해외반출 예외 허용 이후 6월 19일까지 국제우편으로 접수된 해외 가족에 보낸 보건용 마스크는 502만3000여장이다.",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "해외 거주 재외동포 가족에게 마스크 보낼 방법 생겼다는데... 어떻게?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

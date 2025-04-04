@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195675",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "경상대 의료진 \\\"위산역류증이 편도비대 유발\\\"규명",
+    "newsSubTitle": "",
+    "newsContent": "경상대학교병원(병원장 장세호) 의료진이 위산 역류증이 편도 비대를 유발하는 원인 중 하나라는 사실을 밝혀냈다.\n연구팀은 이를 세계 최초라고 설명했다.\n이 병원 이비인후과 우승훈(사진)교수 연구팀은 최근 미국 공공과학도서관 저널인‘PLoS ONE’에 ‘위산 역류증이 편도 비대를 유발하는 기전’에 관한 논문을 발표했다.\n논문에 따르면 위산 역류 시에는 위산과 함께 소화효소 중 하나인 펩신(Pepsin)이 같이 역류하고, 이 펩신이 편도의 방어막을 손상시키면서 편도 안으로 들어가 염증을 유발한다는 사실을 확인했다.\n또 펩신에 의한 편도 염증 반응은 성인보다 소사에서 더 두드러진다는 사실을 밝혀냈다.\n지금까지는 세균 감염이 편도 비대의 유일한 원인으로 알려져 있다.\n이 때문에 편도 비대를 치료하기 위해서는 항생제를 반드시 사용해야만 했다.\n하지만 이번 연구로 항생제 치료를 대신할 수 있는 가능성이 열린 것으로 평가된다.\n우 교수는 “우리나라에서는 매년 약 3만~4만 명 정도가 편도 질환으로 수술을 받고 있으며, 이 중 80% 이상은 10세 미만의 소아환자”라며 “10세 미만 자녀가 있는 가정에서는 위산 역류를 유발하는 고지방 음식, 카페인 함유음식, 초콜릿 등을 과다하게 섭취하지 않게 부모의 식생활 지도가 중요하다”고 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "경상대학교병원(병원장 장세호) 의료진이 위산 역류증이 편도 비대를 유발하는 원인 중 하나라는 사실을 밝혀냈다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "연구팀은 이를 세계 최초라고 설명했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 병원 이비인후과 우승훈(사진)교수 연구팀은 최근 미국 공공과학도서관 저널인‘PLoS ONE’에 ‘위산 역류증이 편도 비대를 유발하는 기전’에 관한 논문을 발표했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "논문에 따르면 위산 역류 시에는 위산과 함께 소화효소 중 하나인 펩신(Pepsin)이 같이 역류하고, 이 펩신이 편도의 방어막을 손상시키면서 편도 안으로 들어가 염증을 유발한다는 사실을 확인했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 펩신에 의한 편도 염증 반응은 성인보다 소사에서 더 두드러진다는 사실을 밝혀냈다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지금까지는 세균 감염이 편도 비대의 유일한 원인으로 알려져 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 때문에 편도 비대를 치료하기 위해서는 항생제를 반드시 사용해야만 했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 이번 연구로 항생제 치료를 대신할 수 있는 가능성이 열린 것으로 평가된다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "우 교수는 “우리나라에서는 매년 약 3만~4만 명 정도가 편도 질환으로 수술을 받고 있으며, 이 중 80% 이상은 10세 미만의 소아환자”라며 “10세 미만 자녀가 있는 가정에서는 위산 역류를 유발하는 고지방 음식, 카페인 함유음식, 초콜릿 등을 과다하게 섭취하지 않게 부모의 식생활 지도가 중요하다”고 강조했다.",
+        "sentenceSize": 175
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "술 줄이고, 늦은 야식 멈춰야… 편도 붓는 이유 여기에 있었나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

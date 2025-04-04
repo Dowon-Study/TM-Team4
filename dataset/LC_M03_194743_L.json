@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194743",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/즐겨읽기] 사람을 키워야 가게가 큰다",
+    "newsSubTitle": "",
+    "newsContent": "일본 최고의 가게는 다르다 히라마쓰 요이치 지음 장미화 옮김, 랜덤하우스중앙 270쪽, 1만3000원 일본 도쿄 긴자에는 6대째 내려오는 165년 전통의 장어요리집 '지쿠요테이'가 있다.\n\\\"장어 하나만 40년을 구워도 그 방법을 다 배울까 말까\\\"라고 겸손해 하는 장어 담당 요리사 4명이 평생을 장어 굽기에 매달리는 가게다.\n1925년 나고야에 문을 연 냄비우동집 '야마모토야총본가'는 신입사원이 들어오면 그릇 치우는 일만 몇 달을 시킨다.\n전통과 격식과 신용으로 이름난 노포(老)의 현장이다.\n일본에는 100년 넘는 역사를 자랑하는 이런 노포가 1만 5000곳이 넘는다.\n세계 기업의 평균 수명이 13년인 데 비하면 노포의 장수는 놀랍고 부러운 일이다.\n인사 전문 경영컨설턴트로 일하는 지은이는 일본이 손꼽는 노포 열 곳을 집중 취재해 그 비결을 정리했다.\n지속생존경영의 비법은 무엇이었을까.\n사람이 열쇠였다.\n이름난 노포 일수록 인재 육성에 가장 많은 시간과 지극한 공을 들였다.\n주인이 직접 사원을 지도한다.\n최고 실력을 갖춘 선배가 후배를 가르친다.\n필요한 인물을 키우는 일을 서두르지 않는다.\n충분한 시간과 자극을 주어 자기계발을 하도록 밀어준다.\n이름난 가게를 오래 이끌고 싶은 최고 경영자라면 명심할 한마디는 간단하면서도 어렵다.\n자기 분야의 일을 진심으로 하고 싶어하고 좋아하는 사람을 뽑아서 잘 교육시켜라.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일본 최고의 가게는 다르다 히라마쓰 요이치 지음 장미화 옮김, 랜덤하우스중앙 270쪽, 1만3000원 일본 도쿄 긴자에는 6대째 내려오는 165년 전통의 장어요리집 '지쿠요테이'가 있다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "\\\"장어 하나만 40년을 구워도 그 방법을 다 배울까 말까\\\"라고 겸손해 하는 장어 담당 요리사 4명이 평생을 장어 굽기에 매달리는 가게다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1925년 나고야에 문을 연 냄비우동집 '야마모토야총본가'는 신입사원이 들어오면 그릇 치우는 일만 몇 달을 시킨다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전통과 격식과 신용으로 이름난 노포(老)의 현장이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "일본에는 100년 넘는 역사를 자랑하는 이런 노포가 1만 5000곳이 넘는다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "세계 기업의 평균 수명이 13년인 데 비하면 노포의 장수는 놀랍고 부러운 일이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "인사 전문 경영컨설턴트로 일하는 지은이는 일본이 손꼽는 노포 열 곳을 집중 취재해 그 비결을 정리했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지속생존경영의 비법은 무엇이었을까.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "사람이 열쇠였다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이름난 노포 일수록 인재 육성에 가장 많은 시간과 지극한 공을 들였다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "주인이 직접 사원을 지도한다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "최고 실력을 갖춘 선배가 후배를 가르친다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "필요한 인물을 키우는 일을 서두르지 않는다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "충분한 시간과 자극을 주어 자기계발을 하도록 밀어준다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "이름난 가게를 오래 이끌고 싶은 최고 경영자라면 명심할 한마디는 간단하면서도 어렵다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "자기 분야의 일을 진심으로 하고 싶어하고 좋아하는 사람을 뽑아서 잘 교육시켜라.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "100년 넘는 역사의 노포가 넘쳐나는 일본... 비결은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194311",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "제2회 더 뮤지컬 어워즈 시상식",
+    "newsSubTitle": "중앙일보 JMet한국뮤지컬협회·국립극장 주최",
+    "newsContent": "■ 심사 이모저모 0.2% 차이 … 작사·극본상 첫 공동수상 ○…‘더 뮤지컬 어워즈’에서 처음으로 공동 수상자가 탄생했다. ‘온정주의’를 철저히 배격하고 실력과 점수로만 수상자를 가렸지만 결과가 그랬다.\n작사·극본상의 성재준(싱글즈)씨와 정영(라디오스타)씨가 그 주인공이다.\n그들은 본심 심사위원으로부터 1위 5표, 2위 5표를 똑같이 받아 동점을 이룬 뒤 공연 관계자 투표에선 40표와 39표로 단 한 표차만 났다.\n공연 관계자 한 표는 점수로 환산하면 22.2점으로 총점 1만점을 기준으로 하면 0.2%의 미미한 차이다.\n사무국은 이를 오차범위 내에 있는 것으로 간주해 공동 시상키로 했다.\n○…본심 심사 결과 최고 점수를 획득한 수상자는 안무상의 이란영(뷰티풀 게임)씨였다.\n이씨는 본심 심사위원 10명 전원으로부터 1위를 받았고, 공연 관계자(135명) 투표에서도 과반이 넘는 78표를 받아 총점 8731.6점으로 최고 점수를 기록했다.\n○…최대 격전지로 뽑혔던 남녀 주연상 부문은 본심 심사에서도 격론이 벌어졌다.\n1차 투표에서 남자는 조승우·류정한·정성화 등 3명으로 압축됐고, 여자는 ‘시카고’에 나란히 출연한 옥주현·최정원으로 좁혀졌지만 2차 투표 결과 조승우·옥주현으로 낙점됐다.\n김윤철 심사위원장은 “정성화씨의 경우 ‘맨 오브 라만차’가 아닌 ‘라디오스타’나 ‘굿바이걸’로 후보가 됐다면 결과가 달라졌을 수도 있다”고 말했다.\n○…소극장 뮤지컬 ‘스핏파이어 그릴’은 더 뮤지컬 어워즈에서도 ‘저주 받은 걸작’의 신세를 면하지 못했다.\n따스한 휴먼 스토리, 극적 반전, 정확한 리듬감과 음악으로 평단의 뜨거운 지지를 받았으나 대중적 인기를 끌지 못했던 ‘스핏파이어 그릴’은 팬 투표로 최종 두 작품의 수상작을 가리는 ‘베스트 소극장 뮤지컬’ 부문에서 ‘이블 데드’(1075표)와 ‘형제는 용감했다’(1046표)에 이어 3위(807표)에 그쳐 아쉽게 탈락했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "■ 심사 이모저모 0.2% 차이 … 작사·극본상 첫 공동수상 ○…‘더 뮤지컬 어워즈’에서 처음으로 공동 수상자가 탄생했다. ‘온정주의’를 철저히 배격하고 실력과 점수로만 수상자를 가렸지만 결과가 그랬다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "작사·극본상의 성재준(싱글즈)씨와 정영(라디오스타)씨가 그 주인공이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그들은 본심 심사위원으로부터 1위 5표, 2위 5표를 똑같이 받아 동점을 이룬 뒤 공연 관계자 투표에선 40표와 39표로 단 한 표차만 났다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공연 관계자 한 표는 점수로 환산하면 22.2점으로 총점 1만점을 기준으로 하면 0.2%의 미미한 차이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사무국은 이를 오차범위 내에 있는 것으로 간주해 공동 시상키로 했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "○…본심 심사 결과 최고 점수를 획득한 수상자는 안무상의 이란영(뷰티풀 게임)씨였다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이씨는 본심 심사위원 10명 전원으로부터 1위를 받았고, 공연 관계자(135명) 투표에서도 과반이 넘는 78표를 받아 총점 8731.6점으로 최고 점수를 기록했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "○…최대 격전지로 뽑혔던 남녀 주연상 부문은 본심 심사에서도 격론이 벌어졌다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "1차 투표에서 남자는 조승우·류정한·정성화 등 3명으로 압축됐고, 여자는 ‘시카고’에 나란히 출연한 옥주현·최정원으로 좁혀졌지만 2차 투표 결과 조승우·옥주현으로 낙점됐다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "김윤철 심사위원장은 “정성화씨의 경우 ‘맨 오브 라만차’가 아닌 ‘라디오스타’나 ‘굿바이걸’로 후보가 됐다면 결과가 달라졌을 수도 있다”고 말했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "○…소극장 뮤지컬 ‘스핏파이어 그릴’은 더 뮤지컬 어워즈에서도 ‘저주 받은 걸작’의 신세를 면하지 못했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "따스한 휴먼 스토리, 극적 반전, 정확한 리듬감과 음악으로 평단의 뜨거운 지지를 받았으나 대중적 인기를 끌지 못했던 ‘스핏파이어 그릴’은 팬 투표로 최종 두 작품의 수상작을 가리는 ‘베스트 소극장 뮤지컬’ 부문에서 ‘이블 데드’(1075표)와 ‘형제는 용감했다’(1046표)에 이어 3위(807표)에 그쳐 아쉽게 탈락했다.",
+        "sentenceSize": 180
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'더 뮤지컬 어워즈' 최초 공동 수상자 탄생... 영광의 두 사람은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

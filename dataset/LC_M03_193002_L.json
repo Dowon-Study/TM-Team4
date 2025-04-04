@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193002",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "‘푸른사과’ 문경아오리, 곧 시장에 풀린다",
+    "newsSubTitle": "",
+    "newsContent": "사과하면 가을에 수확하는 붉은색의 과일을 연상하지만 문경은 7월부터 그것도 푸른색의 사과를 수확한다.\n바로 문경의 여름 대표사과 아오리다.\n아삭한 식감과 새콤한 맛이 일품이라 젊은이들의 선호도가 높아 입소문을 타면서 마니아층이 두터워지고 있다.\n문경시는 2082ha의 면적에 사과를 재배하는데 그중 아오리는 3%미만인 50ha 정도다.\n올해는 개화기 저온피해와 병해충 발생빈도가 적어 생육초기 작황은 지난해 보다 좋았지만 과실 비대기인 6월 강우량이 부족해 생산량은 1200톤으로 품귀현상을 보이고 있다.\n전체적인 과실 품위는 생산해 보다 다소 높지만 지역별로 심한 편차를 보여 앞으로 관수와 비배관리가 요구된다.\n지난달 11일부터 이달 20일까지 문경농협에서 500톤, 거점APC에서 700톤을 수매하고 있지만 최근 계속되는 강우와 일조량 부족으로 사과 수확이 지연되어 물량 확보에 어려움을 겪고 있다.\n수매된 사과는 대한민국 대표 유통업체인 이마트와 트레이더스, 롯데마트 전 매장에 진열되어 소비자들과 만나게 된다.\n수매가격은 지난해 보다 5%정도 오른 ㎏당 2700원이지만 농약을 비롯한 자재값과 인건비가 가파르게 올라 농가의 표정은 그리 밝지만은 않다.\n전국 사과생산량 5위를 차지하는 문경시는 사과생산단계에는 생력화장비와, 화상병 예방약제 등 각종 기자재를 지원하고 유통단계에는 포장재와 선별기, 택배비 등을 지원해 사과주산지로서의 명성을 유지하고 사과가 문경을 대표하는 상품으로 성장하는데도움을 주기 위해 다양한 지원을 펼치고 있다.\n문경시 관계자는 “앞으로 농가가 원하는 다양한 사업을 발굴해 추진하겠다”며 과수농가에 대한 뜨거운 관심과 지원을 약속했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "사과하면 가을에 수확하는 붉은색의 과일을 연상하지만 문경은 7월부터 그것도 푸른색의 사과를 수확한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "바로 문경의 여름 대표사과 아오리다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아삭한 식감과 새콤한 맛이 일품이라 젊은이들의 선호도가 높아 입소문을 타면서 마니아층이 두터워지고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "문경시는 2082ha의 면적에 사과를 재배하는데 그중 아오리는 3%미만인 50ha 정도다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "올해는 개화기 저온피해와 병해충 발생빈도가 적어 생육초기 작황은 지난해 보다 좋았지만 과실 비대기인 6월 강우량이 부족해 생산량은 1200톤으로 품귀현상을 보이고 있다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전체적인 과실 품위는 생산해 보다 다소 높지만 지역별로 심한 편차를 보여 앞으로 관수와 비배관리가 요구된다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난달 11일부터 이달 20일까지 문경농협에서 500톤, 거점APC에서 700톤을 수매하고 있지만 최근 계속되는 강우와 일조량 부족으로 사과 수확이 지연되어 물량 확보에 어려움을 겪고 있다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "수매된 사과는 대한민국 대표 유통업체인 이마트와 트레이더스, 롯데마트 전 매장에 진열되어 소비자들과 만나게 된다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "수매가격은 지난해 보다 5%정도 오른 ㎏당 2700원이지만 농약을 비롯한 자재값과 인건비가 가파르게 올라 농가의 표정은 그리 밝지만은 않다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "전국 사과생산량 5위를 차지하는 문경시는 사과생산단계에는 생력화장비와, 화상병 예방약제 등 각종 기자재를 지원하고 유통단계에는 포장재와 선별기, 택배비 등을 지원해 사과주산지로서의 명성을 유지하고 사과가 문경을 대표하는 상품으로 성장하는데도움을 주기 위해 다양한 지원을 펼치고 있다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "문경시 관계자는 “앞으로 농가가 원하는 다양한 사업을 발굴해 추진하겠다”며 과수농가에 대한 뜨거운 관심과 지원을 약속했다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "없어서 못 판다는 문경 대표 명물, 드디어 대형마트에 풀린다...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

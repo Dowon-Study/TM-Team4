@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195507",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "폭염에 심장도 열 받는다…심장마비, 여름에도 주의해야",
+    "newsSubTitle": "체온 유지 위해 박동 빨라지며 심장에 무리 줘",
+    "newsContent": "[김진구 기자] 심장마비는 말 그대로 심장 기능이 완전히 정지한 상태다.\n심장이 제대로 수축하지 못하는 증상도 심장마비로 분류된다.\n경련하듯 가늘게 떨리기만 하는 ‘심실세동’ 또는 ‘심실빈맥’ 같은 악성 부정맥도 심장마비의 일종이다.\n적절한 조치를 취하지 못하면 사망까지 이르게 된다.\n증상이 나타난 지 한 시간 내에 사망하는 경우를 심장 돌연사라고 한다.\n심혈관계 질환을 앓는 환자의 절반가량이 심장 돌연사로 이어진다고 알려져 있다.\n보통 심장마비는 겨울에 나타나는 것으로 알려져 있다.\n기온이 떨어지면 혈관이 수축하고 이에 따라 심장에 부담이 가서 마비로 이어진다는 설명이다.\n그러나 찌는 듯한 폭염이 계속되는 여름에도 위험은 무시무시하다.\n몸이 급격한 외부 환경 변화에 적응하지 못하고 더운 날씨에 체온 유지를 위해 혈액을 피부 가까운 곳으로 보내는 과정에서 심장 박동이 빨라진다.\n이 과정에서 심장에 과도한 부담이 오게 된다.\n평소 심장이 약하거나 심혈관질환을 앓는 사람은 위험한 상황에 빠지게 된다.\n여름에 심장마비 위험을 높이는 또 다른 원인은 물이다.\n휴가지에서 갑자기 차가운 물에 들어가면 더운 날씨에 확장된 혈관이 갑자기 수축한다.\n심장으로 가는 혈액량이 줄고 심하면 심장마비가 발생할 위험이 있다.\n환자 10명 중 7명은 심장마비 발생 1시간에서 4주 전부터 ▶가슴 가운데 부분에 갑작스런 압박감·충만감, 쥐어짜는 통증 ▶가슴 중앙부로부터 어깨·목·팔로 전파되는 통증 ▶머리가 빈 느낌 ▶실신·발한·호흡곤란을 동반한 가슴의 불쾌감 ▶심장이 매우 빨리 뛰거나 불규칙하게 뛰는 증상이 나타난다.\n이런 증상은 주로 육체활동이나 정신적 흥분 시 발생했다 안정되면 없어진다.\n인제대학교 상계백병원 심장내과 김광실 교수는 “심장 질환의 특성상 증상이 수 분 정도 생겼다가 이내 없어지는 경우가 많아 대수롭지 않게 생각하기 쉽다”며 “미리 알고 대처해야 치명적인 상황을 막을 수 있다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 심장마비는 말 그대로 심장 기능이 완전히 정지한 상태다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "심장이 제대로 수축하지 못하는 증상도 심장마비로 분류된다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "경련하듯 가늘게 떨리기만 하는 ‘심실세동’ 또는 ‘심실빈맥’ 같은 악성 부정맥도 심장마비의 일종이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "적절한 조치를 취하지 못하면 사망까지 이르게 된다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "증상이 나타난 지 한 시간 내에 사망하는 경우를 심장 돌연사라고 한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "심혈관계 질환을 앓는 환자의 절반가량이 심장 돌연사로 이어진다고 알려져 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "보통 심장마비는 겨울에 나타나는 것으로 알려져 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "기온이 떨어지면 혈관이 수축하고 이에 따라 심장에 부담이 가서 마비로 이어진다는 설명이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그러나 찌는 듯한 폭염이 계속되는 여름에도 위험은 무시무시하다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "몸이 급격한 외부 환경 변화에 적응하지 못하고 더운 날씨에 체온 유지를 위해 혈액을 피부 가까운 곳으로 보내는 과정에서 심장 박동이 빨라진다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 과정에서 심장에 과도한 부담이 오게 된다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "평소 심장이 약하거나 심혈관질환을 앓는 사람은 위험한 상황에 빠지게 된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "여름에 심장마비 위험을 높이는 또 다른 원인은 물이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "휴가지에서 갑자기 차가운 물에 들어가면 더운 날씨에 확장된 혈관이 갑자기 수축한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "심장으로 가는 혈액량이 줄고 심하면 심장마비가 발생할 위험이 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "환자 10명 중 7명은 심장마비 발생 1시간에서 4주 전부터 ▶가슴 가운데 부분에 갑작스런 압박감·충만감, 쥐어짜는 통증 ▶가슴 중앙부로부터 어깨·목·팔로 전파되는 통증 ▶머리가 빈 느낌 ▶실신·발한·호흡곤란을 동반한 가슴의 불쾌감 ▶심장이 매우 빨리 뛰거나 불규칙하게 뛰는 증상이 나타난다.",
+        "sentenceSize": 163
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이런 증상은 주로 육체활동이나 정신적 흥분 시 발생했다 안정되면 없어진다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "인제대학교 상계백병원 심장내과 김광실 교수는 “심장 질환의 특성상 증상이 수 분 정도 생겼다가 이내 없어지는 경우가 많아 대수롭지 않게 생각하기 쉽다”며 “미리 알고 대처해야 치명적인 상황을 막을 수 있다”고 말했다.",
+        "sentenceSize": 121
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여름철 심장마비 위험을 높이는 행동은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

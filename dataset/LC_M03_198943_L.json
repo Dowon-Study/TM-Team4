@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198943",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 오메가3 섭취로 기억력 살리고 덤 받고",
+    "newsSubTitle": "",
+    "newsContent": "헬스벨 알짜 정보 종근당건강은 건강기능식품 ‘프로메가 기억력 오메가3’(사진) 할인 행사를 진행한다.\n오메가3의 일종인 DHA와 EPA를 함유해 기억력·혈행·혈중 중성지질과 건조한 눈 개선에 도움을 줄 수 있는 복합기능성 제품이다. ‘프로메가 기억력 오메가3’는 100년 전통의 세계적 오메가3 원료사인 DSM의 정제기술로 DHA 함량을 높였다.\nDHA가 693㎎ 함유된 ‘DHA 고함량’ 제품(EPA 207㎎ 함유)으로 하루 오메가3 권장 섭취량을 채워준다.\n식품의약품안전처는 ‘프로메가 기억력 오메가3’에 함유된 ‘EPA 및 DHA 함유 유지’에 대해 ‘혈중 중성지질 개선, 혈행 개선에 도움을 줄 수 있음’이라고 기능성을 인정했다. ‘프로메가 기억력 오메가3’는 개별포장으로 제품의 산화를 방지했으며, 캡슐 사이즈를 줄여 온 가족이 함께 섭취할 수 있다. 1일 1회, 2캡슐씩 식전 또는 식후와 관계없이 섭취한다.\n종근당건강은 새해를 맞아 특별 이벤트를 진행한다.\n행사 기간 동안 프로메가 공식 페이스북에 사진 댓글로 제품 구입을 인증하면 추첨을 통해 1등에게 ‘캐나다 여행권’(2인·500만원 상당)을 경품으로 제공한다.\n또 행사 기간 중 ‘프로메가 기억력 오메가3’를 12개 세트로 구입한 모든 사람에겐 복합기능 오메가3 제품인 ‘프로메가 올케어’ 1개월분(3만5000원 상당)을 제공한다.\n행사 및 제품 문의와 구입은 전화를 통해 진행된다.\n기간 1월 15~22일 문의 1644-0884",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "헬스벨 알짜 정보 종근당건강은 건강기능식품 ‘프로메가 기억력 오메가3’(사진) 할인 행사를 진행한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오메가3의 일종인 DHA와 EPA를 함유해 기억력·혈행·혈중 중성지질과 건조한 눈 개선에 도움을 줄 수 있는 복합기능성 제품이다. ‘프로메가 기억력 오메가3’는 100년 전통의 세계적 오메가3 원료사인 DSM의 정제기술로 DHA 함량을 높였다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "DHA가 693㎎ 함유된 ‘DHA 고함량’ 제품(EPA 207㎎ 함유)으로 하루 오메가3 권장 섭취량을 채워준다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "식품의약품안전처는 ‘프로메가 기억력 오메가3’에 함유된 ‘EPA 및 DHA 함유 유지’에 대해 ‘혈중 중성지질 개선, 혈행 개선에 도움을 줄 수 있음’이라고 기능성을 인정했다. ‘프로메가 기억력 오메가3’는 개별포장으로 제품의 산화를 방지했으며, 캡슐 사이즈를 줄여 온 가족이 함께 섭취할 수 있다. 1일 1회, 2캡슐씩 식전 또는 식후와 관계없이 섭취한다.",
+        "sentenceSize": 200
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "종근당건강은 새해를 맞아 특별 이벤트를 진행한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "행사 기간 동안 프로메가 공식 페이스북에 사진 댓글로 제품 구입을 인증하면 추첨을 통해 1등에게 ‘캐나다 여행권’(2인·500만원 상당)을 경품으로 제공한다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 행사 기간 중 ‘프로메가 기억력 오메가3’를 12개 세트로 구입한 모든 사람에겐 복합기능 오메가3 제품인 ‘프로메가 올케어’ 1개월분(3만5000원 상당)을 제공한다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "행사 및 제품 문의와 구입은 전화를 통해 진행된다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "기간 1월 15~22일 문의 1644-0884",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "질 좋은 오메가3 엄선, 가성비까지 책임질 '이 제품' 행사 시작한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

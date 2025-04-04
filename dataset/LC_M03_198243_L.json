@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198243",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "48년 프랑스 '혁명의 봄'은 짧았다",
+    "newsSubTitle": "",
+    "newsContent": "원치 않은 혁명, 1848 볼프강 몸젠 지음 최호근 옮김, 푸른역사 426쪽, 2만원 프랑스어에 '카랑트위타르(Quarante-huitard)'란 말이 있다. '48세대'쯤으로 번역할 수 있는데 1848년 2월 혁명에 참여한 사람들을 일컫는다.\n턱수염과 넥타이, 챙 넓은 모자로 상징되는 이들은 산업혁명의 진전으로 급성장한 산업부르주아와 노동자 계급이었다.\n기존 질서에 대한 이들의 불만을 1848년 초 알렉시스 토크빌은 국민의회의 동료 의원들에게 이렇게 경고하고 있다.\n\\\"우리는 지금 화산 위에서 잠자고 있습니다. (…) 혁명의 바람이 불고 있으며 폭풍우는 지금 지평선 저 위까지 다가왔습니다.\\\" 그때 서른 살의 칼 마르크스는 토크빌의 경고를 담은 혁명의 원칙들을 '공산당 선언'이라는 이름으로 발표한다.\n그 후 며칠 만에 그 예언은 모두 실현될 것처럼 보였다.\n프랑스에서는 군주제가 무너지고 공화제가 선포됐다.\n독일 역사학자인 볼프강 몸젠은 2월 혁명의 지평을 1848년 프랑스에서 이듬해의 전 유럽으로 확장한다.\n사실 이만큼 급속하고 광범하게 국경을 넘어 들불처럼 퍼져나간 혁명은 없었다.\n독일.이탈리아 등 유럽 10개국 정부 중 성한 곳이 하나도 없었다.\n하지만 부르주아 계급이 바란 건 개혁이지 혁명이 아니었다.\n그들을 노동자 계급과 이어주던 '민족의식'의 끈이 끊기자 혁명의 동력은 이내 차단되고 말았다.\n여러 '국민들의 봄'이었던 48년 혁명은 봄답게 오래가지 않았다.\n18개월 만에 프랑스를 제외하곤 모두 원위치로 돌아갔다.\n그런 의미에서 '원치 않은 혁명'이란 기막히게 들어맞는 제목이다.\n하지만 에릭 홉스봄의 지적대로 혁명가들이 이를 통해 세계혁명을 꿈꾸고 그 가능성을 확신하게 된 것도 사실이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "원치 않은 혁명, 1848 볼프강 몸젠 지음 최호근 옮김, 푸른역사 426쪽, 2만원 프랑스어에 '카랑트위타르(Quarante-huitard)'란 말이 있다. '48세대'쯤으로 번역할 수 있는데 1848년 2월 혁명에 참여한 사람들을 일컫는다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "턱수염과 넥타이, 챙 넓은 모자로 상징되는 이들은 산업혁명의 진전으로 급성장한 산업부르주아와 노동자 계급이었다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "기존 질서에 대한 이들의 불만을 1848년 초 알렉시스 토크빌은 국민의회의 동료 의원들에게 이렇게 경고하고 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "\\\"우리는 지금 화산 위에서 잠자고 있습니다. (…) 혁명의 바람이 불고 있으며 폭풍우는 지금 지평선 저 위까지 다가왔습니다.\\\" 그때 서른 살의 칼 마르크스는 토크빌의 경고를 담은 혁명의 원칙들을 '공산당 선언'이라는 이름으로 발표한다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 후 며칠 만에 그 예언은 모두 실현될 것처럼 보였다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "프랑스에서는 군주제가 무너지고 공화제가 선포됐다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "독일 역사학자인 볼프강 몸젠은 2월 혁명의 지평을 1848년 프랑스에서 이듬해의 전 유럽으로 확장한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "사실 이만큼 급속하고 광범하게 국경을 넘어 들불처럼 퍼져나간 혁명은 없었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "독일.이탈리아 등 유럽 10개국 정부 중 성한 곳이 하나도 없었다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "하지만 부르주아 계급이 바란 건 개혁이지 혁명이 아니었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그들을 노동자 계급과 이어주던 '민족의식'의 끈이 끊기자 혁명의 동력은 이내 차단되고 말았다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "여러 '국민들의 봄'이었던 48년 혁명은 봄답게 오래가지 않았다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "18개월 만에 프랑스를 제외하곤 모두 원위치로 돌아갔다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그런 의미에서 '원치 않은 혁명'이란 기막히게 들어맞는 제목이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "하지만 에릭 홉스봄의 지적대로 혁명가들이 이를 통해 세계혁명을 꿈꾸고 그 가능성을 확신하게 된 것도 사실이다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "산업혁명을 바탕으로 쓴 볼프강 몸젠의 '이 책'이 우리에게 남긴 메시지는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

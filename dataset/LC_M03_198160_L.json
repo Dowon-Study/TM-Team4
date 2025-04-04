@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198160",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK책갈피] 장난 같은 UCC가 장난이 아닌 이유",
+    "newsSubTitle": "",
+    "newsContent": "유튜브 혁명, UCC의 미래 간다 도시아키 지음, 서금석 옮김, 위즈9, 202쪽, 1만2000원 힐튼호텔 상속녀 패리스 힐튼의 프로모션 전략은 독특하다.\n보도 관계자의 촬영은 규제하면서도 팬들이 디지털 카메라로 찍는 것에 대해서는 관대하다.\n무대 위에 올라 자신의 디지털 카메라를 꺼내고는 팬들의 모습을 찍기도 한다.\n이런 말을 곁들이면서. \\\"유튜브에 올릴 테니 많이 봐주세요!\\\" 유튜브(YouTube). 2005년 채드 헐리, 스티브 첸, 조드 카림 등 세 명의 20대 청년들이 만든 동영상 사이트다.\n재미있는 동영상을 찍어 올리는 곳. 유튜브는 그저 따분한 일상생활에서 청량제 역할에 그치는 줄 알았다.\n하지만 하루 페이지뷰 1억 회 이상, 하루 시청자수 600만명 이상, 총 동영상 파일 수 4000만여개, 매일 3만5000여개의 새로운 영상 추가…. 이쯤되면 간단한 미디어가 아니다.\n더우기 지난해 12월 세계 최대 검색업체 구글이 1조5000억원이 넘는 돈을 들여 인수까지 했다면 말이다.\n비디오 저널리스트인 저자는 \\\"구글의 선택은 탁월했다\\\"고 말한다.\n왜? 유튜브로 시작된 UCC(사용자 제작 컨텐트) 혁명에 적극적으로 대처하지 못하는 기업은 앞으로 살아남기 어려울 것이라는 게 이유다.\n그러고보니 UCC를 둘러싼 세계 유수기업들의 각축전이 실타래처럼 얽혀있다.\n구글은 우리나라의 싸이월드격인 마이스페이스의 광고권을 사들였는데, 마이스페이스는 2년 전 미디어 제왕 루퍼트 머독에게 인수됐다.\n지난해부터 시작된 마이스페이스 일본어판 서비스의 사업 파트너는 바로 일본 최고의 부자 손정의씨가 이끄는 소프트뱅크. 소프트뱅크는 야후 재팬의 1대 주주이고, 야후는 구글의 경쟁 상대다.\n장난 삼아 올린 동영상이 거대한 시장으로 커지고, 대기업들까지 이리 뛰고 저리 뛰게 만든 것이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유튜브 혁명, UCC의 미래 간다 도시아키 지음, 서금석 옮김, 위즈9, 202쪽, 1만2000원 힐튼호텔 상속녀 패리스 힐튼의 프로모션 전략은 독특하다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보도 관계자의 촬영은 규제하면서도 팬들이 디지털 카메라로 찍는 것에 대해서는 관대하다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "무대 위에 올라 자신의 디지털 카메라를 꺼내고는 팬들의 모습을 찍기도 한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이런 말을 곁들이면서. \\\"유튜브에 올릴 테니 많이 봐주세요!\\\" 유튜브(YouTube). 2005년 채드 헐리, 스티브 첸, 조드 카림 등 세 명의 20대 청년들이 만든 동영상 사이트다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "재미있는 동영상을 찍어 올리는 곳. 유튜브는 그저 따분한 일상생활에서 청량제 역할에 그치는 줄 알았다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 하루 페이지뷰 1억 회 이상, 하루 시청자수 600만명 이상, 총 동영상 파일 수 4000만여개, 매일 3만5000여개의 새로운 영상 추가…. 이쯤되면 간단한 미디어가 아니다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "더우기 지난해 12월 세계 최대 검색업체 구글이 1조5000억원이 넘는 돈을 들여 인수까지 했다면 말이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "비디오 저널리스트인 저자는 \\\"구글의 선택은 탁월했다\\\"고 말한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "왜? 유튜브로 시작된 UCC(사용자 제작 컨텐트) 혁명에 적극적으로 대처하지 못하는 기업은 앞으로 살아남기 어려울 것이라는 게 이유다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그러고보니 UCC를 둘러싼 세계 유수기업들의 각축전이 실타래처럼 얽혀있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "구글은 우리나라의 싸이월드격인 마이스페이스의 광고권을 사들였는데, 마이스페이스는 2년 전 미디어 제왕 루퍼트 머독에게 인수됐다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "지난해부터 시작된 마이스페이스 일본어판 서비스의 사업 파트너는 바로 일본 최고의 부자 손정의씨가 이끄는 소프트뱅크. 소프트뱅크는 야후 재팬의 1대 주주이고, 야후는 구글의 경쟁 상대다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "장난 삼아 올린 동영상이 거대한 시장으로 커지고, 대기업들까지 이리 뛰고 저리 뛰게 만든 것이다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유튜브로 시작된 UCC 혁명... UCC를 둘러싼 세계 유수기업들의 각축전을 다룬 이 책은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

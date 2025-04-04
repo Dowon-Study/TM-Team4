@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197429",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "한국인이 가장 많이 먹는 건기식은 ‘비타민’",
+    "newsSubTitle": "건기식협회 설문조사…비타민>홍삼>오메가3>칼슘 순",
+    "newsContent": "[김진구 기자] 한국인이 가장 많이 먹는 건강기능식품은 비타민인 것으로 나타났다.\n한국건강기능식품협회는 성인 1511명을 대상으로 건강기능식품 섭취행태 설문조사를 진행, 최근 결과를 공개했다.\n조사에 따르면 비타민이 53.5%로 가장 많았고, 이어 홍삼(38.5%), 오메가3(25.8%), 칼슘(9.2%), 프로바이오틱스(8.0%), 루테인(4.7%) 순이었다(이상 복수응답). 그러나 재구매 의향은 순서가 조금 달랐다.\n비타민을 복용한 사람의 93.5%가 재구매하겠다고 답해 가장 높았다.\n이어 오메가3(92.9%), 칼슘(90.5%), 홍삼(90.4%), 프로바이오틱스(89.7%)가 뒤를 이었다.\n응답자의 58.5%가 건강기능식품을 항상 섭취하고 있다고 답했으며, 나머지는 건강이 안 좋을 때만 가끔씩 섭취(22.3%)하거나 환절기 등 특별한 계절에만 섭취(16.0%)하는 것으로 나타났다.\n건강기능식품 섭취자 10명 중 7명(72.5%)은 선물이 아닌 본인이 직접 섭취할 목적으로 제품을 구매하고 있다고 답했다.\n2013년 66.1%, 2014년 71.0%에서 꾸준히 증가하는 것으로 나타났다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 한국인이 가장 많이 먹는 건강기능식품은 비타민인 것으로 나타났다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국건강기능식품협회는 성인 1511명을 대상으로 건강기능식품 섭취행태 설문조사를 진행, 최근 결과를 공개했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "조사에 따르면 비타민이 53.5%로 가장 많았고, 이어 홍삼(38.5%), 오메가3(25.8%), 칼슘(9.2%), 프로바이오틱스(8.0%), 루테인(4.7%) 순이었다(이상 복수응답). 그러나 재구매 의향은 순서가 조금 달랐다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "비타민을 복용한 사람의 93.5%가 재구매하겠다고 답해 가장 높았다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 오메가3(92.9%), 칼슘(90.5%), 홍삼(90.4%), 프로바이오틱스(89.7%)가 뒤를 이었다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "응답자의 58.5%가 건강기능식품을 항상 섭취하고 있다고 답했으며, 나머지는 건강이 안 좋을 때만 가끔씩 섭취(22.3%)하거나 환절기 등 특별한 계절에만 섭취(16.0%)하는 것으로 나타났다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "건강기능식품 섭취자 10명 중 7명(72.5%)은 선물이 아닌 본인이 직접 섭취할 목적으로 제품을 구매하고 있다고 답했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "2013년 66.1%, 2014년 71.0%에서 꾸준히 증가하는 것으로 나타났다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "건강기능식품 설문 결과, 한국인의 폭발적인 '비타민' 사랑 드러나…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

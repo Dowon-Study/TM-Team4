@@ -1,0 +1,240 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196201",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"행복의 무게를 달아드립니다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "나무는 산에 있었다.\n나뭇꾼은 마을에 있었다.\n나무와 나뭇꾼은 운명이란 시간틀에 묶여 아침 저녁으로 매일 매일 만나게 되었다.\n나무는 나뭇꾼이 좋았다.\n그래서 자신의 몸과 마음을 아낌없이 내주었다.\n하지만 나뭇꾼은 그런 나무에게 늘 미안하고 부끄러웠다.\n비록 죽거나 부러진 나뭇가지지만 땔감을 위해 ‘산의 무게’를 덜어준다는 핑계로 나무를 한짐씩 지고 마을로 내려올 때마다 마음이 무거웠다.\n그러나, 나무의 생각은 달랐다.\n죽거나 썩어서 자신이 이 사람 저 사람에게 밟히고 땅에 쓸모없이 내뒹굴어지는 것보다 사랑하는 나뭇꾼의 등에 업혀 사람들에게 아름다운 불꽃으로 따뜻한 온기를 전할 수 있다는 것이 감사했다.\n나뭇꾼은 작고 약한 나무에게도 언젠가는 숲을 지키는 힘세고 튼튼한 나무가 될 수 있다는 꿈과 용기를 주고, 항상 나무들과 사랑으로 말을 나누었다.\n그래서 나뭇꾼이 지키는 산의 나무는 행복한 나무가 됐다.\n반면에 아무 때나 함부로 들어와서 마구 나무를 베어내가는 토벌꾼의 산에는 불행한 나무들이 자랐다.\n토벌꾼은 나무에게 사랑의 말대신 늘 불평하기 일쑤였다.\n토벌꾼은 나무를 많이 베어 내다팔아야 더 많은 돈을 벌 수 있다며, 작고 어린 나무까지 잘라버렸다.\n그래서 토벌꾼 산의 나무들은 스스로를 지키기 위해 서로 서로를 욕하며 다투었다.\n토벌꾼의 산에는 항상 불평과 불만이 가득했다.\n어느날 나뭇꾼이 지키는 산의 ‘행복’과 토벌꾼이 지키는 산의 ‘불행’이 저울에 각각 자신의 무게를 재기로 했다.\n먼저 불행이 저울에 올라갔다.\n무게를 재기위해 ‘소유’라는 추를 아무리 올려놔도 무게를 잴 수 없었다. ‘소유’라는 추에는 ‘탐욕’이란 마음의 똬리가 자리잡고 있었기 때문이다.\n이번에는 행복이 저울에 올라갔다.\n행복은 무게를 재기위해 ‘비움’이라는 저울추를 사용했다.\n그러나 아무리 ‘비움’이라는 추를 올려놔도 무게를 잴 수 없었다.\n원래 없었던 것이 무게가 있을리 없기 때문이었다.\n행복은 감사의 문으로 들어와서 불평의 문으로 나간다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 24,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "나무는 산에 있었다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "나뭇꾼은 마을에 있었다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "나무와 나뭇꾼은 운명이란 시간틀에 묶여 아침 저녁으로 매일 매일 만나게 되었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "나무는 나뭇꾼이 좋았다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그래서 자신의 몸과 마음을 아낌없이 내주었다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 나뭇꾼은 그런 나무에게 늘 미안하고 부끄러웠다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "비록 죽거나 부러진 나뭇가지지만 땔감을 위해 ‘산의 무게’를 덜어준다는 핑계로 나무를 한짐씩 지고 마을로 내려올 때마다 마음이 무거웠다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러나, 나무의 생각은 달랐다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "죽거나 썩어서 자신이 이 사람 저 사람에게 밟히고 땅에 쓸모없이 내뒹굴어지는 것보다 사랑하는 나뭇꾼의 등에 업혀 사람들에게 아름다운 불꽃으로 따뜻한 온기를 전할 수 있다는 것이 감사했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "나뭇꾼은 작고 약한 나무에게도 언젠가는 숲을 지키는 힘세고 튼튼한 나무가 될 수 있다는 꿈과 용기를 주고, 항상 나무들과 사랑으로 말을 나누었다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그래서 나뭇꾼이 지키는 산의 나무는 행복한 나무가 됐다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "반면에 아무 때나 함부로 들어와서 마구 나무를 베어내가는 토벌꾼의 산에는 불행한 나무들이 자랐다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "토벌꾼은 나무에게 사랑의 말대신 늘 불평하기 일쑤였다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "토벌꾼은 나무를 많이 베어 내다팔아야 더 많은 돈을 벌 수 있다며, 작고 어린 나무까지 잘라버렸다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "그래서 토벌꾼 산의 나무들은 스스로를 지키기 위해 서로 서로를 욕하며 다투었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "토벌꾼의 산에는 항상 불평과 불만이 가득했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "어느날 나뭇꾼이 지키는 산의 ‘행복’과 토벌꾼이 지키는 산의 ‘불행’이 저울에 각각 자신의 무게를 재기로 했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "먼저 불행이 저울에 올라갔다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "무게를 재기위해 ‘소유’라는 추를 아무리 올려놔도 무게를 잴 수 없었다. ‘소유’라는 추에는 ‘탐욕’이란 마음의 똬리가 자리잡고 있었기 때문이다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "이번에는 행복이 저울에 올라갔다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "행복은 무게를 재기위해 ‘비움’이라는 저울추를 사용했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "그러나 아무리 ‘비움’이라는 추를 올려놔도 무게를 잴 수 없었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "원래 없었던 것이 무게가 있을리 없기 때문이었다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "행복은 감사의 문으로 들어와서 불평의 문으로 나간다.",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "행복과 불행은 한 끗 차이··· 아낌없이 주는 나무의 진실은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

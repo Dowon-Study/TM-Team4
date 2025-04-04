@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196559",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[신간] 움베르토 에코 평전",
+    "newsSubTitle": "걸어 다니는 도서관, 에코",
+    "newsContent": "움베르토 에코 평전 원제 Umberto Eco-Le Labirinth du monde 다니엘 살바토레 시페르 지음, 임호경 옮김 열린책들, 328쪽, 1만5000원 움베르토 에코(72·이탈리아 볼로냐 대학 기호학 교수)가 우리나라에 널리 알려진 것은 1986년 열린책들이 내놓은 추리소설 『장미의 이름』 덕이었다.\n만만치 않은 내용에 낯선 작가인 탓으로 빛을 못 보던 『장미의 이름』은 때마침 숀 코너리가 주연을 맡은 영화가 국내에 선 보이면서 불이 붙어 18년 동안 개역판과 신판을 내면서 50만부 넘게 팔렸다.\n한국에는 일종의 ‘에코 붐’이 일었고 번역된 책만 30여 종을 넘어섰다.\n그렇다면 왜 에코일까.\n에코처럼 이탈리아 출신으로 철학자이자 저술가인 지은이는 에코가 쓴 책을 꼼꼼하게 분석한 이 ‘지적’전기에서 에코를 ‘현대의 새로운 백과사전파 편집장’이라 부른다.\n인류가 쌓아온 방대한 지식의 창고와도 같은 에코는 중세 인문주의의 가장 보편적인 부분과 현대 사상의 가장 정교한 부분 간의 눈부신 접합을 이뤄 이 시대에 필요한 새로운 유형의 ‘프리즘적’지식인이 되었다는 것이다. ‘식자(識者)들의 왕자’인 에코는 그가 태어난 도시 알렉산드리아의 도서관을 제 몸으로 이루려는 유쾌한 지식인이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "움베르토 에코 평전 원제 Umberto Eco-Le Labirinth du monde 다니엘 살바토레 시페르 지음, 임호경 옮김 열린책들, 328쪽, 1만5000원 움베르토 에코(72·이탈리아 볼로냐 대학 기호학 교수)가 우리나라에 널리 알려진 것은 1986년 열린책들이 내놓은 추리소설 『장미의 이름』 덕이었다.",
+        "sentenceSize": 175
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "만만치 않은 내용에 낯선 작가인 탓으로 빛을 못 보던 『장미의 이름』은 때마침 숀 코너리가 주연을 맡은 영화가 국내에 선 보이면서 불이 붙어 18년 동안 개역판과 신판을 내면서 50만부 넘게 팔렸다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국에는 일종의 ‘에코 붐’이 일었고 번역된 책만 30여 종을 넘어섰다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그렇다면 왜 에코일까.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "에코처럼 이탈리아 출신으로 철학자이자 저술가인 지은이는 에코가 쓴 책을 꼼꼼하게 분석한 이 ‘지적’전기에서 에코를 ‘현대의 새로운 백과사전파 편집장’이라 부른다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "인류가 쌓아온 방대한 지식의 창고와도 같은 에코는 중세 인문주의의 가장 보편적인 부분과 현대 사상의 가장 정교한 부분 간의 눈부신 접합을 이뤄 이 시대에 필요한 새로운 유형의 ‘프리즘적’지식인이 되었다는 것이다. ‘식자(識者)들의 왕자’인 에코는 그가 태어난 도시 알렉산드리아의 도서관을 제 몸으로 이루려는 유쾌한 지식인이다.",
+        "sentenceSize": 182
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "걸어다니는 도서관 에코... 중세 인문주의와 현대 사상 접합  ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

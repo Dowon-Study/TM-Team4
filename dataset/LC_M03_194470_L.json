@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194470",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "중앙일보.동원그룹 공동주최 '책꾸러기' 캠페인 6월분 접수가 20일까지 계속된다. 만 6",
+    "newsSubTitle": "",
+    "newsContent": "중앙일보.동원그룹 공동주최 '책꾸러기' 캠페인 6월분 접수가 20일까지 계속된다.\n만 6세 이하 어린이를 키우는 가정에서는 누구나 응모할 수 있다.\n희망자는 인터넷 홈페이지(www.iqeqcq.com)에 들어가 '이달의 책 신청하기' 코너에서 신청하면 된다.\n우편 접수('서울 중구 순화동 7번지 중앙일보사 문화부 책꾸러기 담당자 앞' 또는 '서울 서초구 양재동 275번지 동원육영재단 책꾸러기 담당자 앞')도 가능하다.\n당첨자 발표는 27일. 당첨자 1000명에게는 1년 동안 매달 한 권씩 원하는 그림책을 무료로 보내준다.\n5월 당첨자 3000명을 대상으로 '활동기' 공모도 20일까지 진행한다.\n홈페이지에 독서후기를 올려주면 최우수작을 뽑아 어린이책 100권과 책장을 선물할 계획이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중앙일보.동원그룹 공동주최 '책꾸러기' 캠페인 6월분 접수가 20일까지 계속된다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "만 6세 이하 어린이를 키우는 가정에서는 누구나 응모할 수 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "희망자는 인터넷 홈페이지(www.iqeqcq.com)에 들어가 '이달의 책 신청하기' 코너에서 신청하면 된다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "우편 접수('서울 중구 순화동 7번지 중앙일보사 문화부 책꾸러기 담당자 앞' 또는 '서울 서초구 양재동 275번지 동원육영재단 책꾸러기 담당자 앞')도 가능하다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당첨자 발표는 27일. 당첨자 1000명에게는 1년 동안 매달 한 권씩 원하는 그림책을 무료로 보내준다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "5월 당첨자 3000명을 대상으로 '활동기' 공모도 20일까지 진행한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "홈페이지에 독서후기를 올려주면 최우수작을 뽑아 어린이책 100권과 책장을 선물할 계획이다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"6세 이하 어린이를 키우는 가정\"에서 인기... '책꾸러기' 캠페인 접수는 언제?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

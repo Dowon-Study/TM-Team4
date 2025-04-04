@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193305",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK책갈피] 전자산업이 깨끗하다? 천만의 말씀",
+    "newsSubTitle": "",
+    "newsContent": "디지털 쓰레기 엘리자베스 그로스만 지음, 송광자 옮김 488쪽, 2만3000원 “중국 남부 광둥성의 한 강가, 불길 위에 올려진 냄비를 바라보며 한 여성이 쪼그리고 앉아 있다.”(본문14쪽) 이 부문만 읽으면 누구나 한적하고 아름다운 남중국의 전원 풍경과 자연 속에 사는 소박한 주민들을 떠올릴 것이다.\n하지만 그것은 착각이다. “냄비 속에서는 플라스틱과 금속으로 만들어진 회로기판이 지글거리며 녹아내리고 있다. 그녀는 보호용 장갑도 끼지 않은 채 맨손으로 녹아내리는 회로기판 속에서 마이크로 칩들을 꺼내고 있다.…(중략). 이때 한 남자가 컴퓨터 칩 더미에 한 양동이의 산(acid)을 끼얹자 유독가스가 피어오른다.” 현실 속 강가에 피어 오르는 것은 물안개가 아니라 유독가스다.\n강물은 이미 먹을 수 없게 된 지 오래지만, 가난한 주민들은 그 물로 설겆이를 하고 아이들은 여전히 헤엄치며 논다.\n각종 전자 제품들, 특히 휴대전화와 컴퓨터로 상징되는 정보화 기기들은 이제 우리 일상 생활과 뗄래야 뗄 수 없는 존재다.\n특히 철근과 콘크리트, 굴뚝으로 상징되는 전통 산업과 달리 전자 산업은 은연중에 깨끗하고 환경 친화적이라는 생각을 하는 경우가 많다.\n저자 엘리자베스 그로스만은 “그렇지 않다”고 말한다.\n환경 전문 저널리스트인 그녀는 디지털 산업이 엄청난 자원을 필요로 하고, 수많은 유독 물질을 만들어 낸다고 주장한다.\n게다가 수명이 짧아 막대한 쓰레기를 쏟아낼 뿐 아니라 그 재활용도 쉽지 않다고 지적한다.\n무엇보다 저자는 디지털 기기를 가장 많이 만들고 쓰는 선진국들이 막대한 쓰레기의 처리를 가난한 개발 도상국에 떠 넘기는 현실을 고발한다.\n대안은 제품의 설계·제작부터 판매에 이르기까지 재활용과 환경 영향을 고려해야 한다는 것이다.\n그녀는 주로 미국 정부와 미국인을 깨우치려 이 책을 썼지만, 세계 유수의 반도체·휴대전화·TV 생산국이면서도 적잖은 디지털 폐기물을 해외로 떠넘기는 한국도 비판을 피할 수 없어 보인다.\n까다로운 전문용어와 수치가 가득해 쉽게 읽히지 않는 게 흠이다.\n그러나 디지털 폐기물의 생성·처리 전 과정을 구체적인 수치·정보와 함께 꼼꼼히 다뤄 자료로서의 가치가 높다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "디지털 쓰레기 엘리자베스 그로스만 지음, 송광자 옮김 488쪽, 2만3000원 “중국 남부 광둥성의 한 강가, 불길 위에 올려진 냄비를 바라보며 한 여성이 쪼그리고 앉아 있다.”(본문14쪽) 이 부문만 읽으면 누구나 한적하고 아름다운 남중국의 전원 풍경과 자연 속에 사는 소박한 주민들을 떠올릴 것이다.",
+        "sentenceSize": 169
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하지만 그것은 착각이다. “냄비 속에서는 플라스틱과 금속으로 만들어진 회로기판이 지글거리며 녹아내리고 있다. 그녀는 보호용 장갑도 끼지 않은 채 맨손으로 녹아내리는 회로기판 속에서 마이크로 칩들을 꺼내고 있다.…(중략). 이때 한 남자가 컴퓨터 칩 더미에 한 양동이의 산(acid)을 끼얹자 유독가스가 피어오른다.” 현실 속 강가에 피어 오르는 것은 물안개가 아니라 유독가스다.",
+        "sentenceSize": 211
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "강물은 이미 먹을 수 없게 된 지 오래지만, 가난한 주민들은 그 물로 설겆이를 하고 아이들은 여전히 헤엄치며 논다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "각종 전자 제품들, 특히 휴대전화와 컴퓨터로 상징되는 정보화 기기들은 이제 우리 일상 생활과 뗄래야 뗄 수 없는 존재다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 철근과 콘크리트, 굴뚝으로 상징되는 전통 산업과 달리 전자 산업은 은연중에 깨끗하고 환경 친화적이라는 생각을 하는 경우가 많다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "저자 엘리자베스 그로스만은 “그렇지 않다”고 말한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "환경 전문 저널리스트인 그녀는 디지털 산업이 엄청난 자원을 필요로 하고, 수많은 유독 물질을 만들어 낸다고 주장한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "게다가 수명이 짧아 막대한 쓰레기를 쏟아낼 뿐 아니라 그 재활용도 쉽지 않다고 지적한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "무엇보다 저자는 디지털 기기를 가장 많이 만들고 쓰는 선진국들이 막대한 쓰레기의 처리를 가난한 개발 도상국에 떠 넘기는 현실을 고발한다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "대안은 제품의 설계·제작부터 판매에 이르기까지 재활용과 환경 영향을 고려해야 한다는 것이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그녀는 주로 미국 정부와 미국인을 깨우치려 이 책을 썼지만, 세계 유수의 반도체·휴대전화·TV 생산국이면서도 적잖은 디지털 폐기물을 해외로 떠넘기는 한국도 비판을 피할 수 없어 보인다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "까다로운 전문용어와 수치가 가득해 쉽게 읽히지 않는 게 흠이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그러나 디지털 폐기물의 생성·처리 전 과정을 구체적인 수치·정보와 함께 꼼꼼히 다뤄 자료로서의 가치가 높다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "디지털 산업이 '극혐' 유독 물질 만들어 내",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

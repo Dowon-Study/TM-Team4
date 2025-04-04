@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195729",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "김치 칼로리, '굶지 않고 다이어트에는 김치가 최고야!'",
+    "newsSubTitle": "",
+    "newsContent": "김치 칼로리가 온라인상에서 화제다.\n김치는 건강에도 매우 좋으며 다이어트의 효과도 있다.\n김치에 들어 있는 캡사이신이 살을 빼고 운동 지구력을 증진시킨다는 연구결과가 나왔다.\n식이성 섬유를 많이 함유한 저칼로리 식품인 김치는 장의 활동을 활성화시켜 체내 당류나 콜레스테롤의 수치를 낮추고, 혈액이나 간 속의 지방을 감소시키며 비만을 막고 체내의 면역기능이 강화된다.\n결국 굶지 않고 먹으면서 다이어트를 하는 것이다.\n김치는 종류별로 칼로리가 다르다.\n배추김치 칼로리는 1인분 29kcal고, 백김치는 1인분 54kcal, 갓김치는 1인분 98kcal이다.\n더하여 부추김치는 1인분 31kcal고, 파김치는 1인분 16kcal다.\n오이김치는 1인분 402kcal고, 열무김치는 1인분 19kcal다.\n깍두기는 1인분 23kcal고, 배추 겉절이는 1인분 57kcal다.\n저칼로리 대표식품인 김치로 다이어트를 하려면 식단은 밥과 김치, 반찬 1~2가지로 구성하되 밥의 양은 평소보다 적게 한다.\n또한 김치는 끼니마다 종류를 달리해서 먹는 것이 좋은 것으로 나타났다.\n온라인 중앙일보 김치 칼로리 [사진 중앙DB]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김치 칼로리가 온라인상에서 화제다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김치는 건강에도 매우 좋으며 다이어트의 효과도 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김치에 들어 있는 캡사이신이 살을 빼고 운동 지구력을 증진시킨다는 연구결과가 나왔다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "식이성 섬유를 많이 함유한 저칼로리 식품인 김치는 장의 활동을 활성화시켜 체내 당류나 콜레스테롤의 수치를 낮추고, 혈액이나 간 속의 지방을 감소시키며 비만을 막고 체내의 면역기능이 강화된다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "결국 굶지 않고 먹으면서 다이어트를 하는 것이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김치는 종류별로 칼로리가 다르다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "배추김치 칼로리는 1인분 29kcal고, 백김치는 1인분 54kcal, 갓김치는 1인분 98kcal이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "더하여 부추김치는 1인분 31kcal고, 파김치는 1인분 16kcal다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "오이김치는 1인분 402kcal고, 열무김치는 1인분 19kcal다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "깍두기는 1인분 23kcal고, 배추 겉절이는 1인분 57kcal다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "저칼로리 대표식품인 김치로 다이어트를 하려면 식단은 밥과 김치, 반찬 1~2가지로 구성하되 밥의 양은 평소보다 적게 한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "또한 김치는 끼니마다 종류를 달리해서 먹는 것이 좋은 것으로 나타났다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "온라인 중앙일보 김치 칼로리 [사진 중앙DB]",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김치가 건강과 다이어트에 효과 있는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

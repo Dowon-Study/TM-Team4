@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193303",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강 단신] 연세SK병원 ‘미세 림프절 이식술’ 국내 최초 성공 外",
+    "newsSubTitle": "",
+    "newsContent": "◆연세SK병원 ‘미세 림프절 이식술’ 국내 최초 성공 연세SK병원 림프부종연구소 심영기·소동문 원장팀은 망가진 림프절 부위에 정상적인 림프절을 이식해 부종을 치료하는 ‘미세 림프절 이식술’을 국내 최초로 성공적으로 시술했다고 최근 밝혔다.\n환자는 40대 주부 정모(42· 경기도 김포)씨로 18년 전 결핵성 림프선염으로 겨드랑이 림프선 절제술을 받았다.\n정씨는 수술 후유증으로 오른쪽 팔 전체에 림프부종이 생겨 피부가 뻣뻣해지며 손등까지 붓는 문제로 고통을 겪어왔다.\n진료팀은 환자의 사타구니에 있는 림프절을 7~10개 떼어내 1㎜ 굵기의 동·정맥, 그리고 림프관을 환부에 일일이 연결시켜주는 미세림프절이식술을 시행했다.\n수술 결과 31㎝이던 팔의 두께(가장 두꺼운 부분)는 6주 후 29㎝로 줄었 다.\n◆램브란트 치과 선릉 ＂여성 치아질환 남성의 2배”여성이 호르몬 등 생리적 변화로 치아질환에 취약한 것으로 나타났다.\n램브란트 치과 선릉은 2008년 상반기에 병원을 찾은 환자 916명을 분석한 결과 전체의 63.3%(580명)가 여성으로 남성의 2배나 됐다.\n이는 월경·임신·폐경 등 잦은 생리적 변화로 몸 안의 호르몬 분비가 급격하게 변화하기 때문으로 분석된다.\n특히 임신을 하면 체온이 상승하고 입덧 등으로 침의 산도가 높아져 호산성 세균이 번식하기 좋은 환경이 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆연세SK병원 ‘미세 림프절 이식술’ 국내 최초 성공 연세SK병원 림프부종연구소 심영기·소동문 원장팀은 망가진 림프절 부위에 정상적인 림프절을 이식해 부종을 치료하는 ‘미세 림프절 이식술’을 국내 최초로 성공적으로 시술했다고 최근 밝혔다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "환자는 40대 주부 정모(42· 경기도 김포)씨로 18년 전 결핵성 림프선염으로 겨드랑이 림프선 절제술을 받았다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정씨는 수술 후유증으로 오른쪽 팔 전체에 림프부종이 생겨 피부가 뻣뻣해지며 손등까지 붓는 문제로 고통을 겪어왔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "진료팀은 환자의 사타구니에 있는 림프절을 7~10개 떼어내 1㎜ 굵기의 동·정맥, 그리고 림프관을 환부에 일일이 연결시켜주는 미세림프절이식술을 시행했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "수술 결과 31㎝이던 팔의 두께(가장 두꺼운 부분)는 6주 후 29㎝로 줄었 다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "◆램브란트 치과 선릉 ＂여성 치아질환 남성의 2배”여성이 호르몬 등 생리적 변화로 치아질환에 취약한 것으로 나타났다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "램브란트 치과 선릉은 2008년 상반기에 병원을 찾은 환자 916명을 분석한 결과 전체의 63.3%(580명)가 여성으로 남성의 2배나 됐다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이는 월경·임신·폐경 등 잦은 생리적 변화로 몸 안의 호르몬 분비가 급격하게 변화하기 때문으로 분석된다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "특히 임신을 하면 체온이 상승하고 입덧 등으로 침의 산도가 높아져 호산성 세균이 번식하기 좋은 환경이 된다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "연세SK병원 미세 림프절 이식술 국내 최초 성공 '지린다'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

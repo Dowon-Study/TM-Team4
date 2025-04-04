@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196426",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK책갈피] 공공서비스도 엄청 돈이 된다",
+    "newsSubTitle": "",
+    "newsContent": "아름다운 혁명 공익비즈니스 구본형 외 지음 세종연구원, 496쪽 1만8000원 1980년대 후반까지만 해도 서유럽의 가장 가난한 나라였던 아일랜드가 불과 10여 년 후인 2005년 1인당 소득이 4만 달러를 넘어서는 등 고속 성장을 거듭하고 있는 비결은 과연 무엇일까.\n또 2000년께만 해도 3류 병원에 지나지 않았더 싱가포르 알렉산드라 병원이 지금은 만족도 1위 병원으로 재탄생할 수 있었던 비법은 무엇일까.\n이 책은 이런 물음들에 대한 답변서다. ‘세계의 공익개혁 사례연구’란 부제에서도 알 수 있듯이 지은이들은 정부와 병원, 대학 등 공공서비스 분야에서 성공한 국내외 사례 연구를 통해 해답을 제시하려 노력한다.\n유능한 최고경영자(CEO)의 리더십, 경쟁을 통한 효율 추구, 고객만족 경영 등이 비결이다.\n가령 알렉산드라 병원은 2000년 새로운 CEO를 영입하면서 신경영이 시작됐다.\n아일랜드가 성공한 건 “일본 기업이 들어오면 지역 대학에 일본어과를 개설하는”고객 감동의 결과였고, 폐허 도시였던 스페인의 빌바오는 구겐하임 미술관 유치에 집중함으로써 세계의 문화중심지가 됐다.\n이런 비결을 쓴다면 전혀 돈벌이가 될 것 같지 않은 공공서비스도 훌륭한 비즈니스가 될 수 있다.\n돈 떼일 것을 걱정해 은행들이 상대도 해주지 않던 가난한 사람들에게, 그것도 신용으로 돈을 빌려주는 방글라데시 그라민은행이 초대형은행으로 성장한 사례도 있다.\n사실 공공서비스 분야는 늘 무사안일과 낙후의 상징으로 취급된다.\n시장경제의 영역 밖에 있기 때문이다.\n하긴 망하거나 잘리지 않는데 누가 열심히 일하겠는가.\n이때 필요한 건 위기감과 경쟁구조다.\n이것만 제대로 갖춰진다면 공공서비스도 얼마든지 독자생존할 수 있다는 이 책의 암시는, 그래서 경청할 만하다.\n그러나 이 책 역시 통상적인 ‘사례 연구’가 가지는 결점을 안고 있다.\n성공한 것은 무엇이든지 다 아름답다고 주장하는, 그런 결점 말이다.\n가령 대학을 설명할 때는 인문학이 경쟁력의 요체라고 했다가, 아일랜드를 설명할 때는 경영학과 공학 등이 성공 비결이었다는 식의 주장은 아무래도 거슬린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아름다운 혁명 공익비즈니스 구본형 외 지음 세종연구원, 496쪽 1만8000원 1980년대 후반까지만 해도 서유럽의 가장 가난한 나라였던 아일랜드가 불과 10여 년 후인 2005년 1인당 소득이 4만 달러를 넘어서는 등 고속 성장을 거듭하고 있는 비결은 과연 무엇일까.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "또 2000년께만 해도 3류 병원에 지나지 않았더 싱가포르 알렉산드라 병원이 지금은 만족도 1위 병원으로 재탄생할 수 있었던 비법은 무엇일까.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 책은 이런 물음들에 대한 답변서다. ‘세계의 공익개혁 사례연구’란 부제에서도 알 수 있듯이 지은이들은 정부와 병원, 대학 등 공공서비스 분야에서 성공한 국내외 사례 연구를 통해 해답을 제시하려 노력한다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유능한 최고경영자(CEO)의 리더십, 경쟁을 통한 효율 추구, 고객만족 경영 등이 비결이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "가령 알렉산드라 병원은 2000년 새로운 CEO를 영입하면서 신경영이 시작됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아일랜드가 성공한 건 “일본 기업이 들어오면 지역 대학에 일본어과를 개설하는”고객 감동의 결과였고, 폐허 도시였던 스페인의 빌바오는 구겐하임 미술관 유치에 집중함으로써 세계의 문화중심지가 됐다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이런 비결을 쓴다면 전혀 돈벌이가 될 것 같지 않은 공공서비스도 훌륭한 비즈니스가 될 수 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "돈 떼일 것을 걱정해 은행들이 상대도 해주지 않던 가난한 사람들에게, 그것도 신용으로 돈을 빌려주는 방글라데시 그라민은행이 초대형은행으로 성장한 사례도 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "사실 공공서비스 분야는 늘 무사안일과 낙후의 상징으로 취급된다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "시장경제의 영역 밖에 있기 때문이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하긴 망하거나 잘리지 않는데 누가 열심히 일하겠는가.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이때 필요한 건 위기감과 경쟁구조다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이것만 제대로 갖춰진다면 공공서비스도 얼마든지 독자생존할 수 있다는 이 책의 암시는, 그래서 경청할 만하다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그러나 이 책 역시 통상적인 ‘사례 연구’가 가지는 결점을 안고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "성공한 것은 무엇이든지 다 아름답다고 주장하는, 그런 결점 말이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "가령 대학을 설명할 때는 인문학이 경쟁력의 요체라고 했다가, 아일랜드를 설명할 때는 경영학과 공학 등이 성공 비결이었다는 식의 주장은 아무래도 거슬린다.",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무시당하던 공공서비스, 황금알 낳는 비즈니스로 성장하다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

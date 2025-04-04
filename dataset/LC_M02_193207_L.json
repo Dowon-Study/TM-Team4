@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193207",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "법원이 영화관에 '장애인 차별 금지' 못박다",
+    "newsSubTitle": "",
+    "newsContent": "영화관이 장애인에 대한 사회적 책임을 다하도록 법원이 나섰다.\n서울중앙지법 민사합의28부(부장판사 박우종)는 7일 시청각 장애인 4명이 CGV, 롯데쇼핑, 메가박스 3사를 대상으로 낸 차별 구제 청구 소송에서 승소 판결했다.\n법원이 영화관에 장애 유무와 관련 없이 누구나 영화를 관람할 수 있어야 한다고 못박은 것이다.\n재판부는 멀티플렉스 3사가 장애인이 비장애인과 동등하게 영화를 관람할 수 있는 편의를 제공하지 않았기 때문에 장애인차별금지법을 위반했다고 판단해 시청각 장애인의 손을 들어줬다.\n재판부는 \\\"영화관이 배리어 프리(Barrier Free·자막과 화면 해설 등으로 장애인의 영화 관람에 제약을 줄인 영화) 영화를 제한적으로 상영하고, 배리어프리 영화도 영화관이 지정한다\\\"라고 지적했다.\n또한 재판부는 \\\"장애인이 비장애인과 동등한 수준으로 영화를 이해하기 위해서 시각 장애인에게는 음성 지원을 통한 화면 해설, 청각 장애인에겐 자막이나 보청 기기 등이 필요하다. 그러나 영화관들은 제공하지 않았다. 또한 영화관이나 웹사이트에서 장애인을 위한 점자 자료, 한국 수어 통역 등의 편의를 제공하지 않는다\\\"라고 설명했다.\n이에 재판부는 영화관에 장애인의 편의를 보장하라고 주문했다.\n재판부는 \\\"영화관은 청각 장애인에게 보청 기기를 제공해야 한다. 또한 배급사나 제작사에서 화면 해설이나 자막 파일이 제공되는 영화는 시각 장애인에 화면 해설을 제공하라\\\"라고 말했다.\n더불어 재판부는 \\\"영화관에 자막이나 화면 해설이 제공되는 영화의 상영 정보를 홈페이지를 통해 제공해야 하며, 영화관에도 점자 자료나 큰 활자로 확대된 문서, 한국 수어 통역 등을 제공해야 한다\\\"라고 영화관 서비스 편의 개선을 주문했다.\nCGV 등 영화관 측은 장애인에 대한 편의 제공을 하려면 과도한 비용이 들어 부담이 된다고 주장했다.\n그러나 재판부는 \\\"부산국제영화제 등에서는 배리어 프리 영화 상영 시 스마트폰 애플리케이션을 통해 영화 화면 해설을 제공하고 있다. 또한 자막을 재생할 수 있는 스마트 안경이 국내에 유통되고 있다\\\"라며 영화관 측의 주장을 일축했다.\n이와 같은 판결에 기업은 영화관의 '유니버설 디자인(Universal Design)'에 대한 고민이 필요해졌다.\n유니버설 디자인이란 직역하면 '보편적 설계'로 장애나 연령 등에 관계 없이 모든 사람이 제품, 서비스, 환경 등을 편리하고 안전하게 이용할 수 있도록 설계하는 것을 뜻한다. '모두를 위한 설계(Design for All)'이라고도 한다.\nCGV, 롯데시네마, 메가박스 3사는 국내 영화관의 약 80%를 차지하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화관이 장애인에 대한 사회적 책임을 다하도록 법원이 나섰다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울중앙지법 민사합의28부(부장판사 박우종)는 7일 시청각 장애인 4명이 CGV, 롯데쇼핑, 메가박스 3사를 대상으로 낸 차별 구제 청구 소송에서 승소 판결했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "법원이 영화관에 장애 유무와 관련 없이 누구나 영화를 관람할 수 있어야 한다고 못박은 것이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "재판부는 멀티플렉스 3사가 장애인이 비장애인과 동등하게 영화를 관람할 수 있는 편의를 제공하지 않았기 때문에 장애인차별금지법을 위반했다고 판단해 시청각 장애인의 손을 들어줬다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "재판부는 \\\"영화관이 배리어 프리(Barrier Free·자막과 화면 해설 등으로 장애인의 영화 관람에 제약을 줄인 영화) 영화를 제한적으로 상영하고, 배리어프리 영화도 영화관이 지정한다\\\"라고 지적했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 재판부는 \\\"장애인이 비장애인과 동등한 수준으로 영화를 이해하기 위해서 시각 장애인에게는 음성 지원을 통한 화면 해설, 청각 장애인에겐 자막이나 보청 기기 등이 필요하다. 그러나 영화관들은 제공하지 않았다. 또한 영화관이나 웹사이트에서 장애인을 위한 점자 자료, 한국 수어 통역 등의 편의를 제공하지 않는다\\\"라고 설명했다.",
+        "sentenceSize": 184
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 재판부는 영화관에 장애인의 편의를 보장하라고 주문했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "재판부는 \\\"영화관은 청각 장애인에게 보청 기기를 제공해야 한다. 또한 배급사나 제작사에서 화면 해설이나 자막 파일이 제공되는 영화는 시각 장애인에 화면 해설을 제공하라\\\"라고 말했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "더불어 재판부는 \\\"영화관에 자막이나 화면 해설이 제공되는 영화의 상영 정보를 홈페이지를 통해 제공해야 하며, 영화관에도 점자 자료나 큰 활자로 확대된 문서, 한국 수어 통역 등을 제공해야 한다\\\"라고 영화관 서비스 편의 개선을 주문했다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "CGV 등 영화관 측은 장애인에 대한 편의 제공을 하려면 과도한 비용이 들어 부담이 된다고 주장했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그러나 재판부는 \\\"부산국제영화제 등에서는 배리어 프리 영화 상영 시 스마트폰 애플리케이션을 통해 영화 화면 해설을 제공하고 있다. 또한 자막을 재생할 수 있는 스마트 안경이 국내에 유통되고 있다\\\"라며 영화관 측의 주장을 일축했다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이와 같은 판결에 기업은 영화관의 '유니버설 디자인(Universal Design)'에 대한 고민이 필요해졌다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "유니버설 디자인이란 직역하면 '보편적 설계'로 장애나 연령 등에 관계 없이 모든 사람이 제품, 서비스, 환경 등을 편리하고 안전하게 이용할 수 있도록 설계하는 것을 뜻한다. '모두를 위한 설계(Design for All)'이라고도 한다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "CGV, 롯데시네마, 메가박스 3사는 국내 영화관의 약 80%를 차지하고 있다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "재판부 '엄근진' 영화관, 배리어 프리 상영 노력해라",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199139",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "당뇨 혈관 합병증 새 원인 발견",
+    "newsSubTitle": "서울대병원 김효수 교수팀 \\\"혈관 세포 신호전달체계 교란이 원인\\\"",
+    "newsContent": "당뇨병은 병 자체보다 합병증이 무서운 병이다.\n신장·심장·망막·하지 등 신체 주요 장기에 만성콩팥병, 협심증, 심근경색증, 실명, 하지허혈증과 같은 치명적인 합병증을 유발한다.\n대부분 치료가 어렵고 재발이 잦아 치료 결과가 좋지 않다.\n사실상 혈당 조절 외에는 뾰족한 방법이 없는 상황이다.\n여전히 당뇨병 환자에게서 혈관 합병증이 왜 발생하고 악화됐는지 제대로 밝혀지지 않았기 때문이다.\n그러나 최근 당뇨병의 혈관 합병증 발생 원인이 밝혀져 주목을 받는다.\n서울대병원 김효수 교수가 단장으로 있는 보건복지부 세포치료연구사업단의 연구결과에 따르면 당뇨병의 혈관 합병증은 혈관 세포끼리의 신호전달체계 교란이 원인이다.\n지금까지는 개별 혈관 세포가 사멸하는 게 당뇨 혈관 합병증의 주요 원인으로 추정돼 왔다.\n하지만, 당뇨병과 혈관 합병증이 있는 쥐를 관찰하는 과정에서 세포 사멸은 두드러지지 않는다는 점을 발견했다.\n즉, 당뇨 혈관 합병증은 개별 혈관 세포의 문제가 아닌 혈관 세포들 사이의 신호전달체계의 교란에 따라 혈관의 안정 상태가 무너지고 혈관이 위축·소멸되면서 발생한다는 것이다.\n연구팀에 따르면 당뇨병이 발생하면 ‘재기드-원(Jagged-1)’이라는 분자의 발현이 증가한다.\n재기드-원은 혈관세포의 표면에 존재하면서 주변 혈관세포의 표면에 있는 노취(Notch) 분자와 신호를 주고받으면서, 혈관이 안정적으로 기능을 유지하는데 핵심적인 역할을 한다.\n연구팀이 이번에 밝혀낸 것은 당뇨병으로 인해 재기드-원 분자의 발현량이 증가하면 혈관세포의 노취 분자 기능이 억제되고, 이에 따라 혈관 안정성이 떨어진다는 부분이다.\n혈관세포의 안정성이 떨어지면 혈관 세포간 결합이 끊어지고 혈관 밀도가 감소하는데, 이것이 당뇨 혈관 합병증의 핵심 발생 원인이라는 것이다.\n연구팀은 더 나아가 이렇게 늘어나는 재기드-원을 인위적으로 감소시키면, 당뇨병으로 인해서 발생한 혈관 합병증을 정상화시킬 수 있음을 당뇨병 쥐 모델에서 증명했다.\n향후 당뇨 혈관병의 예방은 물론 신약 개발에도 이용할 수 있을 것으로 기대를 받고 있다.\n김효수 교수는 “이번 연구결과는 심혈관계 세계 최고의 권위지 ‘Circulation’에 게재됐다. 연구의 독창성 및 향후 신약 개발 가능성을 제대로 평가받게 된 것 같아 보람을 느낀다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "당뇨병은 병 자체보다 합병증이 무서운 병이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "신장·심장·망막·하지 등 신체 주요 장기에 만성콩팥병, 협심증, 심근경색증, 실명, 하지허혈증과 같은 치명적인 합병증을 유발한다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대부분 치료가 어렵고 재발이 잦아 치료 결과가 좋지 않다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사실상 혈당 조절 외에는 뾰족한 방법이 없는 상황이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여전히 당뇨병 환자에게서 혈관 합병증이 왜 발생하고 악화됐는지 제대로 밝혀지지 않았기 때문이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 최근 당뇨병의 혈관 합병증 발생 원인이 밝혀져 주목을 받는다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "서울대병원 김효수 교수가 단장으로 있는 보건복지부 세포치료연구사업단의 연구결과에 따르면 당뇨병의 혈관 합병증은 혈관 세포끼리의 신호전달체계 교란이 원인이다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지금까지는 개별 혈관 세포가 사멸하는 게 당뇨 혈관 합병증의 주요 원인으로 추정돼 왔다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하지만, 당뇨병과 혈관 합병증이 있는 쥐를 관찰하는 과정에서 세포 사멸은 두드러지지 않는다는 점을 발견했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "즉, 당뇨 혈관 합병증은 개별 혈관 세포의 문제가 아닌 혈관 세포들 사이의 신호전달체계의 교란에 따라 혈관의 안정 상태가 무너지고 혈관이 위축·소멸되면서 발생한다는 것이다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "연구팀에 따르면 당뇨병이 발생하면 ‘재기드-원(Jagged-1)’이라는 분자의 발현이 증가한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "재기드-원은 혈관세포의 표면에 존재하면서 주변 혈관세포의 표면에 있는 노취(Notch) 분자와 신호를 주고받으면서, 혈관이 안정적으로 기능을 유지하는데 핵심적인 역할을 한다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "연구팀이 이번에 밝혀낸 것은 당뇨병으로 인해 재기드-원 분자의 발현량이 증가하면 혈관세포의 노취 분자 기능이 억제되고, 이에 따라 혈관 안정성이 떨어진다는 부분이다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "혈관세포의 안정성이 떨어지면 혈관 세포간 결합이 끊어지고 혈관 밀도가 감소하는데, 이것이 당뇨 혈관 합병증의 핵심 발생 원인이라는 것이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "연구팀은 더 나아가 이렇게 늘어나는 재기드-원을 인위적으로 감소시키면, 당뇨병으로 인해서 발생한 혈관 합병증을 정상화시킬 수 있음을 당뇨병 쥐 모델에서 증명했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "향후 당뇨 혈관병의 예방은 물론 신약 개발에도 이용할 수 있을 것으로 기대를 받고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "김효수 교수는 “이번 연구결과는 심혈관계 세계 최고의 권위지 ‘Circulation’에 게재됐다. 연구의 독창성 및 향후 신약 개발 가능성을 제대로 평가받게 된 것 같아 보람을 느낀다”고 말했다.",
+        "sentenceSize": 109
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "최근, 발생 원인이 밝혀진 이 질병... 연구팀이 알아낸 핵심은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

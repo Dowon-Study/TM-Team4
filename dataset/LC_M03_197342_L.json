@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197342",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[더오래]세월은 쏜살같단다, 젊은이들아",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 80돌 아이(28) 작가노트 솔직히 이야기합니다.\n저는 지금의 나이 80까지 살지는 꿈에도 몰랐습니다.\n그래서 가끔은 깜짝깜짝 놀랍니다.\n젊었을 적 생각은 이랬습니다. “인생 60살까지 살면 잘 산 거야.” 그러면서 60살을 거뜬하게 뛰어넘었습니다. “대단한 인생이야. 다시 70살까지는 살 수 있을까?” 잠시 암초에 걸린 배 신세가 되었습니다.\n60 중반쯤 해서 ‘암’이란 놈이 인생길을 막아섰습니다.\n이제 생을 끝내려는 것 같아서 포기하려고 했는데 운 좋게도 암을 이겨내고 70살까지도 무난히 살았습니다. “80살은 정말 힘들 거야” 참 끈덕진 생입니다.\n오늘 저는 80살 문턱도 힘들지 않게 넘어서고 있습니다.\n누가 한 말대로 제 살아생전에 80살은 처음 겪는 거라 하루하루 지내는 생이 낯설기만 합니다.\n때로는 ‘꼰대’라는 주위의 눈초리가 두렵기도 합니다.\n오늘 아침도 눈 뜨자마자 저는 침대에서 일어나 앉아 ‘하루’를 선물해주신 신(神)에게 말했습니다. “감지덕지(感之德之)합니다. 더 이상의 욕심은 없습니다. 언제고 데려가고 싶으면 투정 없이 그대로 응하겠습니다.” 제가 살아온 옛날에 비하면 지금은 참 좋아진 세상에서 모두 편히 지냅니다.\n그래서 인간의 생명줄도 길어진 것 같습니다.\n좋은 시절 덕분입니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 80돌 아이(28) 작가노트 솔직히 이야기합니다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "저는 지금의 나이 80까지 살지는 꿈에도 몰랐습니다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그래서 가끔은 깜짝깜짝 놀랍니다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "젊었을 적 생각은 이랬습니다. “인생 60살까지 살면 잘 산 거야.” 그러면서 60살을 거뜬하게 뛰어넘었습니다. “대단한 인생이야. 다시 70살까지는 살 수 있을까?” 잠시 암초에 걸린 배 신세가 되었습니다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "60 중반쯤 해서 ‘암’이란 놈이 인생길을 막아섰습니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이제 생을 끝내려는 것 같아서 포기하려고 했는데 운 좋게도 암을 이겨내고 70살까지도 무난히 살았습니다. “80살은 정말 힘들 거야” 참 끈덕진 생입니다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오늘 저는 80살 문턱도 힘들지 않게 넘어서고 있습니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "누가 한 말대로 제 살아생전에 80살은 처음 겪는 거라 하루하루 지내는 생이 낯설기만 합니다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "때로는 ‘꼰대’라는 주위의 눈초리가 두렵기도 합니다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "오늘 아침도 눈 뜨자마자 저는 침대에서 일어나 앉아 ‘하루’를 선물해주신 신(神)에게 말했습니다. “감지덕지(感之德之)합니다. 더 이상의 욕심은 없습니다. 언제고 데려가고 싶으면 투정 없이 그대로 응하겠습니다.” 제가 살아온 옛날에 비하면 지금은 참 좋아진 세상에서 모두 편히 지냅니다.",
+        "sentenceSize": 160
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그래서 인간의 생명줄도 길어진 것 같습니다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "좋은 시절 덕분입니다.",
+        "sentenceSize": 12
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "80대가 젊은이들에게 전하는 은밀한 속내…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

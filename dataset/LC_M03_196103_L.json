@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196103",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "배탈에 도움이 되는 음식, 속이 메스꺼울땐 '생강차' 먹었다간! 위험",
+    "newsSubTitle": "",
+    "newsContent": "배탈에 도움이 되는 음식이 있다.\n배탈이 나면 위경련이나 메스꺼움, 설사 등의 증상으로 일상생활을 하기 힘들다.\n보통 배탈이 나면 죽 같은 음식으로 속쓰림을 완화하지만 이외에도 배탈이 났을 때 효과적인 음식이 있다.\n미국 건강 정보 사이트 ‘셰이프닷컴(www.shape.com)’이 배탈에 도움이 되는 음식들을 소개했다.\n바나나가 마라토너들에게 에너지 촉진제로 권장되는 이유가 있다.\n바나나는 소화가 잘 될 뿐만 아니라 위장에 탈을 일으키지 않는다.\n또 장의 움직임을 자연적으로 안정시키는 성분인 펙틴을 함유하고 있어 위 건강에 도움이 된다.\n열대 과일인 파파야 역시 위에 좋다.\n파파야는 소화를 촉진하고, 소화불량을 완화하며 변비를 해결하는 데 도움이 된다.\n파파야에는 단백질 분해효소인 파파인과 키모파파인이 들어있는 데 이 성분들은 단백질을 분해해 건강한 산성 환경을 만들어 위를 안정시킨다.\n속이 쓰린 경우에는 흰 쌀밥이나 찐 감자등이 도움이 된다.\n이런 음식들은 민감한 소화기관에 가해지는 스트레스를 완화하며 수분을 흡수해 설사 증상을 누그러뜨리는 효능이 있다.\n또 생강은 소화 기능을 향상시킴으로써 메스꺼움을 치료하는 데 도움이 된다고 알려졌다.\n생강은 하루에 4g 정도만 먹는 게 좋다.\n생강차나 생강 캔디로 만들어 먹어도 좋다.\n허브차는 장을 진정시키는 효소가 있다.\n특히 페퍼민트와 캐모마일 차는 위를 치유하는 독특한 성분을 포함하고 있다.\n연구에 따르면, 페퍼민트는 대장에서 항 통증 통로를 활성화하는 것으로 나타났다.\n페퍼민트는 또 과민성 대장증후군 증상을 완화하고 메스꺼움을 누그러뜨리는 데에도 도움이 된다.\n캐모파일은 배탈과 복통을 완화한다는 연구결과가 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배탈에 도움이 되는 음식이 있다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "배탈이 나면 위경련이나 메스꺼움, 설사 등의 증상으로 일상생활을 하기 힘들다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "보통 배탈이 나면 죽 같은 음식으로 속쓰림을 완화하지만 이외에도 배탈이 났을 때 효과적인 음식이 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미국 건강 정보 사이트 ‘셰이프닷컴(www.shape.com)’이 배탈에 도움이 되는 음식들을 소개했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "바나나가 마라토너들에게 에너지 촉진제로 권장되는 이유가 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "바나나는 소화가 잘 될 뿐만 아니라 위장에 탈을 일으키지 않는다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 장의 움직임을 자연적으로 안정시키는 성분인 펙틴을 함유하고 있어 위 건강에 도움이 된다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "열대 과일인 파파야 역시 위에 좋다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "파파야는 소화를 촉진하고, 소화불량을 완화하며 변비를 해결하는 데 도움이 된다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "파파야에는 단백질 분해효소인 파파인과 키모파파인이 들어있는 데 이 성분들은 단백질을 분해해 건강한 산성 환경을 만들어 위를 안정시킨다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "속이 쓰린 경우에는 흰 쌀밥이나 찐 감자등이 도움이 된다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이런 음식들은 민감한 소화기관에 가해지는 스트레스를 완화하며 수분을 흡수해 설사 증상을 누그러뜨리는 효능이 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "또 생강은 소화 기능을 향상시킴으로써 메스꺼움을 치료하는 데 도움이 된다고 알려졌다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "생강은 하루에 4g 정도만 먹는 게 좋다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "생강차나 생강 캔디로 만들어 먹어도 좋다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "허브차는 장을 진정시키는 효소가 있다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "특히 페퍼민트와 캐모마일 차는 위를 치유하는 독특한 성분을 포함하고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "연구에 따르면, 페퍼민트는 대장에서 항 통증 통로를 활성화하는 것으로 나타났다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "페퍼민트는 또 과민성 대장증후군 증상을 완화하고 메스꺼움을 누그러뜨리는 데에도 도움이 된다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "캐모파일은 배탈과 복통을 완화한다는 연구결과가 있다.",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배탈에 도움이 되는 음식, 속이 메스꺼울 땐 '생강차' 먹었다가는...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

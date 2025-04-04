@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197283",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[틴틴/키즈] '단이의 꿈'",
+    "newsSubTitle": "바퀴는 어떻게 변해왔을까",
+    "newsContent": "단이의 꿈/정태선 글, 박공우 그림/어린이중앙, 7천8백원 책 한권으로 읽기.쓰기.생각하기가 동시에 이루어진다면. '책끼읽끼 초등 시리즈'는 책은 읽는 것으로만 끝나는 게 아니라는 걸 보여주려고 만든 시리즈다.\n독서가 창의력.사고력 키우는 데까지 이어져야 한다는 것이 기획 취지다.\n책끼읽끼란 '늘 책을 끼고 다니며 읽기'의 줄인말이란다.\n지난 5월 일부가 나왔고 이번이 2차분이다.\n어린이 언어교육 프로그램 전문가인 저자 정태선씨는 각 학년별로 물의 순환, 친절, 경제 생활 등 한가지씩 주제를 잡아 동화와 상식, 그것들과 이어지는 문제를 한묶음으로 책을 기획했다.\n그중 '단이의 꿈'은 '바퀴와 발명'을 주제로 한 책이다.\n단이가 바퀴를 만들어 호기있게 세상 끝까지 달려본다는 동화가 담겨 있다.\n이와 함께 바퀴의 변천사 등을 설명한 '바퀴, 발명을 꿈꾸다', 미래의 바퀴 쓰임을 상상해 보라는 등의 질문이 들어있는'세상을 움직이는 바퀴'라는 꼭지가 동화의 뒤를 잇는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "단이의 꿈/정태선 글, 박공우 그림/어린이중앙, 7천8백원 책 한권으로 읽기.쓰기.생각하기가 동시에 이루어진다면. '책끼읽끼 초등 시리즈'는 책은 읽는 것으로만 끝나는 게 아니라는 걸 보여주려고 만든 시리즈다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "독서가 창의력.사고력 키우는 데까지 이어져야 한다는 것이 기획 취지다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "책끼읽끼란 '늘 책을 끼고 다니며 읽기'의 줄인말이란다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 5월 일부가 나왔고 이번이 2차분이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "어린이 언어교육 프로그램 전문가인 저자 정태선씨는 각 학년별로 물의 순환, 친절, 경제 생활 등 한가지씩 주제를 잡아 동화와 상식, 그것들과 이어지는 문제를 한묶음으로 책을 기획했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그중 '단이의 꿈'은 '바퀴와 발명'을 주제로 한 책이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "단이가 바퀴를 만들어 호기있게 세상 끝까지 달려본다는 동화가 담겨 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이와 함께 바퀴의 변천사 등을 설명한 '바퀴, 발명을 꿈꾸다', 미래의 바퀴 쓰임을 상상해 보라는 등의 질문이 들어있는'세상을 움직이는 바퀴'라는 꼭지가 동화의 뒤를 잇는다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "책으로만 읽기 가능하다는 편견을 초전박살...  책끼읽끼 그 한계 넘어서",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

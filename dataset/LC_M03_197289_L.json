@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197289",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "기억과 상상력의 슈퍼스타 해마, 가장 치명적인 건 술[BOOK]",
+    "newsSubTitle": "",
+    "newsContent": "기억하는 뇌, 망각하는 뇌 이인아 지음 21세기북스 '서가명강'. 서울대에 가지 않아도 들을 수 있는 명강의라는 뜻으로, 최고의 전문가가 어려운 이야기를 쉽게 풀어쓰는 시리즈의 25번째 책이다.\n서울대 뇌인지과학과 이인아 교수가 필자. 시리즈 취지대로 가장 난이도가 높아 보이는 대목도 해독 불능은 아니다.\n대부분의 페이지가 술술 읽힌다.\n그러는 가운데 뇌과학의 현재, 인간 두뇌에 대한 궁금증들, AI의 미래 등이 자연스럽게 손안에 잡힌다.\n기억의 실체가 과연 무엇인지에 대한 설명이 가장 흥미로웠는데, '신경망의 활성패턴'이라고 했다. (91쪽) 이건 또 무슨 소리인가, 할 수 있지만 앞부분 설명을 읽고 나면 '신경망의 활성패턴' 대목에 이르러 무릎을 치게 된다.\n인공지능이 계속 발전하면 인간의 뇌와 같게 될까.\n기억 능력이 감소하는 데도 순서가 있나.\nQ&A에서 이런 질문에도 답한다.\n답은 각각 확실치 않다, 와 그렇다, 이다.\n해마(hippocampus)는 인간 두뇌 안에서도 슈퍼스타 같은 영역이다.\n기억은 물론 기억을 바탕으로 한 상상력이 해마 때문에 가능하기 때문이다.\n이런 해마는 후천적으로 다르게 발달할 수 있다.\n하지만 한 번 손상되면 회복 불가능하다.\n특히 음주가 해마 세포를 망친다고 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "기억하는 뇌, 망각하는 뇌 이인아 지음 21세기북스 '서가명강'. 서울대에 가지 않아도 들을 수 있는 명강의라는 뜻으로, 최고의 전문가가 어려운 이야기를 쉽게 풀어쓰는 시리즈의 25번째 책이다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울대 뇌인지과학과 이인아 교수가 필자. 시리즈 취지대로 가장 난이도가 높아 보이는 대목도 해독 불능은 아니다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대부분의 페이지가 술술 읽힌다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러는 가운데 뇌과학의 현재, 인간 두뇌에 대한 궁금증들, AI의 미래 등이 자연스럽게 손안에 잡힌다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "기억의 실체가 과연 무엇인지에 대한 설명이 가장 흥미로웠는데, '신경망의 활성패턴'이라고 했다. (91쪽) 이건 또 무슨 소리인가, 할 수 있지만 앞부분 설명을 읽고 나면 '신경망의 활성패턴' 대목에 이르러 무릎을 치게 된다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "인공지능이 계속 발전하면 인간의 뇌와 같게 될까.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "기억 능력이 감소하는 데도 순서가 있나.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "Q&A에서 이런 질문에도 답한다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "답은 각각 확실치 않다, 와 그렇다, 이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "해마(hippocampus)는 인간 두뇌 안에서도 슈퍼스타 같은 영역이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "기억은 물론 기억을 바탕으로 한 상상력이 해마 때문에 가능하기 때문이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이런 해마는 후천적으로 다르게 발달할 수 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "하지만 한 번 손상되면 회복 불가능하다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "특히 음주가 해마 세포를 망친다고 한다.",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "술, 계속 마시다보면 당신의 뇌를 죽이는 살인마가 됩니다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

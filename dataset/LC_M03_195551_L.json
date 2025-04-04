@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195551",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "암세포, 어떻게 퍼지나 봤더니…",
+    "newsSubTitle": "암세포 전이 생존 매커니즘 드러나 혈관·림프관 타고 암세포 퍼져나가 특정 대사물질을 억제하면서 암세포는 생존 육종인, 황금숙 연구팀 세계 최초로 규명 ",
+    "newsContent": "국내 연구진이 6년 동안 연구한 끝에 세계 최초로 전이 암세포의 생존 메커니즘을 발견했다.\n한국연구재단은 “암이 퍼져나가는 과정에서, 암세포가 어떻게 생존하고, 대사 경로를 바꾸는지 메커니즘을 육종인·황금숙 연구팀이 세계 최초로 규명했다”고 밝혔다.\n연구팀에 따르면 암세포가 죽지 않고 무한 번식하는 과정은 다음과 같다.\n일단 암세포가 주변 조직을 공격하는 침윤 현상이 발생한다.\n이어 처음 암세포가 발생한 장기에서 혈관·림프관을 타고 암세포가 다른 조직으로 퍼져나간다.\n이때 암세포 스스로 특정 단백질(스네일단백질)을 이용해, 대사물질(포스포프룩토키나아제·PFK-1 효소 형태의 단백질)을 억제한다는 사실도 연구진은 발견했다.\n육종인 연세대 치과대학 교수는 “암세포가 대사를 조절해서 전이된다는 사실이 이번 연구를 통해 학계에서 최초로 밝혀졌다”며 “그 동안 연구가 전무했던 암세포 전이 과정의 비밀이 벗겨졌다”고 설명했다.\n또 연구진은 동물실험을 통해 암세포가 죽지 않고 무한 증식하는 이유도 확인했다.\n일종의 ‘암 유전자’라고 할 수 있는 스네일단백질이 포스포프룩토키나아제 발현을 억제해 암세포 생존 능력을 증가한다는 사실이 드러났다.\n암세포가 유기 분자를 분해하고 에너지를 얻는 반응을 통해 대사를 조절할 수 있다는 점이 밝혀진 것이다.\n전이 과정에서 암세포 대사 조절에 대해 연구한 이번 연구 결과는 2월 8일자 국제 학술지 ‘네이처 커뮤니케이션즈’에 게재됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국내 연구진이 6년 동안 연구한 끝에 세계 최초로 전이 암세포의 생존 메커니즘을 발견했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국연구재단은 “암이 퍼져나가는 과정에서, 암세포가 어떻게 생존하고, 대사 경로를 바꾸는지 메커니즘을 육종인·황금숙 연구팀이 세계 최초로 규명했다”고 밝혔다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구팀에 따르면 암세포가 죽지 않고 무한 번식하는 과정은 다음과 같다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "일단 암세포가 주변 조직을 공격하는 침윤 현상이 발생한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 처음 암세포가 발생한 장기에서 혈관·림프관을 타고 암세포가 다른 조직으로 퍼져나간다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이때 암세포 스스로 특정 단백질(스네일단백질)을 이용해, 대사물질(포스포프룩토키나아제·PFK-1 효소 형태의 단백질)을 억제한다는 사실도 연구진은 발견했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "육종인 연세대 치과대학 교수는 “암세포가 대사를 조절해서 전이된다는 사실이 이번 연구를 통해 학계에서 최초로 밝혀졌다”며 “그 동안 연구가 전무했던 암세포 전이 과정의 비밀이 벗겨졌다”고 설명했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 연구진은 동물실험을 통해 암세포가 죽지 않고 무한 증식하는 이유도 확인했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "일종의 ‘암 유전자’라고 할 수 있는 스네일단백질이 포스포프룩토키나아제 발현을 억제해 암세포 생존 능력을 증가한다는 사실이 드러났다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "암세포가 유기 분자를 분해하고 에너지를 얻는 반응을 통해 대사를 조절할 수 있다는 점이 밝혀진 것이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "전이 과정에서 암세포 대사 조절에 대해 연구한 이번 연구 결과는 2월 8일자 국제 학술지 ‘네이처 커뮤니케이션즈’에 게재됐다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "암세포, 어떻게 온몸에 퍼지는 걸까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

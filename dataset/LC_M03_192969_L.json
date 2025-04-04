@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192969",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "질문은 엉뚱한데 정답만 말하네…",
+    "newsSubTitle": "'피노키오는 사람인가, 인형인가?'",
+    "newsContent": "디즈니 만화영화 '피노키오의 모험'을 보면 스스로 움직이고 노래도 부를 수 있는 피노키오를 탐낸 곡마단 단장이 그를 새장 속에 가두는 얘기가 나온다.\n밤새 피노키오를 찾던 할아버지. 마침내 그를 발견하고 곡마단 단장의 불법행위를 법원에 기소하려 한다고 상상해보자.\n피노키오를 사람으로 보고 '감금죄' 또는 '어린이 유괴죄'로 기소해야 할까, 아니면 남의 인형을 훔친 걸로 보고 '절도죄'로 기소해야 할까?\n피노키오를 죽이면 '살인죄'인가 '기물파손죄'인가?\n신간 '피노키오의 철학 시리즈 1.2' 『피노키오는 사람인가, 인형인가?』 『아킬레스는 왜 거북을 이길 수 없을까?』는 제목만큼 이렇게 엉뚱한 질문으로 가득하다.\n유명 철학자들의 이론이나 용어를 설명해주는 단순한 지식책이 아니다.\n철학적으로 생각하는 방법, 세상의 사물과 현상들에 대해 질문하는 방법을 보여주고 있는 것이다.\n즉 철학이 결코 삶과 떨어져 있지 않음을 분명히 확인시켜주는 입문서이면서 부모나 교사들에게도 좋은 철학교육 지침서가 이 책이다.\n특히 논술이나 면접을 앞둔 수험생에겐 논리적이고 창조적인 사고방법을 익히는 데 안성맞춤일 듯 싶다.\n무엇보다 '철학이 이렇게 재밌는 것이었나'라는 생각이 들게 만드는 저자의 역량이 놀랍다.\n헤겔 철학을 전공한 그는 철학연구실 '필로소피아' 등에서의 대중강의 경험을 토대로 이 책을 썼다고. 누구나 한번쯤 읽었을 고전적인 작품 『어린 왕자』 『햄릿』 등에서부터 '블레이드 러너''바이센테니얼 맨' 등 할리우드 영화, 그리고 친근한 일상사에서 소재를 골라 철학적 담론을 이끌어낸다.\n이를테면 '피노키오가 사람인가'라는 질문을 통해 결국 '사람이란 무엇인가'를 생각해보게 한다든지, 연역법과 귀납법을 설명해주기 위해 '까마귀색 조사위원회'란 걸 구성한다.\n또 피노키오가 데카르트를 찾아가 열띤 토론을 하는 상상도 해보고, 칸트의 인식론을 설명하는 방법으로 황소와 금붕어를 불러와 칠판이 어떻게 보이는지 질문하기도 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "디즈니 만화영화 '피노키오의 모험'을 보면 스스로 움직이고 노래도 부를 수 있는 피노키오를 탐낸 곡마단 단장이 그를 새장 속에 가두는 얘기가 나온다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "밤새 피노키오를 찾던 할아버지. 마침내 그를 발견하고 곡마단 단장의 불법행위를 법원에 기소하려 한다고 상상해보자.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "피노키오를 사람으로 보고 '감금죄' 또는 '어린이 유괴죄'로 기소해야 할까, 아니면 남의 인형을 훔친 걸로 보고 '절도죄'로 기소해야 할까?",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "피노키오를 죽이면 '살인죄'인가 '기물파손죄'인가?",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신간 '피노키오의 철학 시리즈 1.2' 『피노키오는 사람인가, 인형인가?』 『아킬레스는 왜 거북을 이길 수 없을까?』는 제목만큼 이렇게 엉뚱한 질문으로 가득하다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유명 철학자들의 이론이나 용어를 설명해주는 단순한 지식책이 아니다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "철학적으로 생각하는 방법, 세상의 사물과 현상들에 대해 질문하는 방법을 보여주고 있는 것이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "즉 철학이 결코 삶과 떨어져 있지 않음을 분명히 확인시켜주는 입문서이면서 부모나 교사들에게도 좋은 철학교육 지침서가 이 책이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "특히 논술이나 면접을 앞둔 수험생에겐 논리적이고 창조적인 사고방법을 익히는 데 안성맞춤일 듯 싶다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "무엇보다 '철학이 이렇게 재밌는 것이었나'라는 생각이 들게 만드는 저자의 역량이 놀랍다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "헤겔 철학을 전공한 그는 철학연구실 '필로소피아' 등에서의 대중강의 경험을 토대로 이 책을 썼다고. 누구나 한번쯤 읽었을 고전적인 작품 『어린 왕자』 『햄릿』 등에서부터 '블레이드 러너''바이센테니얼 맨' 등 할리우드 영화, 그리고 친근한 일상사에서 소재를 골라 철학적 담론을 이끌어낸다.",
+        "sentenceSize": 161
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이를테면 '피노키오가 사람인가'라는 질문을 통해 결국 '사람이란 무엇인가'를 생각해보게 한다든지, 연역법과 귀납법을 설명해주기 위해 '까마귀색 조사위원회'란 걸 구성한다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "또 피노키오가 데카르트를 찾아가 열띤 토론을 하는 상상도 해보고, 칸트의 인식론을 설명하는 방법으로 황소와 금붕어를 불러와 칠판이 어떻게 보이는지 질문하기도 한다.",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'유괴죄'일까 '절도죄'일까... 법으로 풀어내는 '만화영화'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

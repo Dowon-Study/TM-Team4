@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199030",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "여름철 식중독 주범? 고기보다 채소…깨끗이 씻어 먹어야",
+    "newsSubTitle": "최근 5년간 식중독 환자수 집계해보니 채소 41.8%, 육류 14.2%, 복합조리식품 2.6% 순",
+    "newsContent": "기온이 올라가며 때 이른 더위가 찾아오는 가운데 식중독 발생 위험도 덩달아 높아지고 있다.\n식품의약품안전처는 23일 고온 다습한 여름철에 주로 발생하는 병원성 대장균 식중독과 관련한 통계를 공개하고, 음식물 보관과 섭취에 주의를 당부했다.\n식약처에 따르면, 최근 5년간 병원성 대장균 식중독을 일으킨 식품은 환자수 기준 채소류가 41.8%로 가장 많은 비중을 차지했다.\n육류는 14.2%, 김밥 등 복합조리식품은 2.6%를 각각 기록했다.\n흔히 '신선 식품'으로 여겨지는 채소가 가장 많은 식중독 환자를 부른 것이다.\n일부 분변이 섞인 물로 재배하는 경우가 있어 병원성 대장균에 오염될 가능성이 높고, 이를 깨끗한 물로 충분히 세척하지 않고 생으로 섭취하는 경우가 많기 때문인 것으로 분석됐다.\n일례로 지난 2014년 5월, 인천지역 10개 초·중·고등학교에서 1천여명이 집단 식중독에 걸린 원인도 채소였던 것으로 드러났다.\n이 학교들은 모두 동일 업체에서 납품한 김치를 사용했다.\n관련 당국은 이 업체가 오염된 열무를 충분히 세척·소독하지 않고 김치를 담근 것으로 추정했다.\n날것으로 먹는 경우가 많은 채소류의 경우 어떻게 식중독을 예방할 수 있을까.\n채소류는 먼저 흐르는 물에 씻고 식약처에서 인증한 살균제나 식초를 탄 물에 5분 이상 담근 뒤 깨끗한 물로 3회 이상 충분히 헹구어야 한다.\n이러한 과정을 거친다 하더라도 채소 표면의 기공 같은 작은 틈새에 식중독균이 살아남아 있다가 저장 기간 증식할 수 있으므로 2시간 이상 상온에 방치하지 말고 최대한 빨리 사용하거나 냉장보관을 해야한다.\n병원성 대장균 식중독 발생 건수와 환자수는 2014년 38건·1천784명, 2015년 39건·2천138명, 2016년 57건·2천754명으로 해마다 증가하는 추세다.\n식약처는 올해 여름에도 평년 대비 기온이 더 높을 전망인 만큼 식중독 관리에 더욱 만전을 기울일 것을 당부했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "기온이 올라가며 때 이른 더위가 찾아오는 가운데 식중독 발생 위험도 덩달아 높아지고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "식품의약품안전처는 23일 고온 다습한 여름철에 주로 발생하는 병원성 대장균 식중독과 관련한 통계를 공개하고, 음식물 보관과 섭취에 주의를 당부했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "식약처에 따르면, 최근 5년간 병원성 대장균 식중독을 일으킨 식품은 환자수 기준 채소류가 41.8%로 가장 많은 비중을 차지했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "육류는 14.2%, 김밥 등 복합조리식품은 2.6%를 각각 기록했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "흔히 '신선 식품'으로 여겨지는 채소가 가장 많은 식중독 환자를 부른 것이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일부 분변이 섞인 물로 재배하는 경우가 있어 병원성 대장균에 오염될 가능성이 높고, 이를 깨끗한 물로 충분히 세척하지 않고 생으로 섭취하는 경우가 많기 때문인 것으로 분석됐다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "일례로 지난 2014년 5월, 인천지역 10개 초·중·고등학교에서 1천여명이 집단 식중독에 걸린 원인도 채소였던 것으로 드러났다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 학교들은 모두 동일 업체에서 납품한 김치를 사용했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "관련 당국은 이 업체가 오염된 열무를 충분히 세척·소독하지 않고 김치를 담근 것으로 추정했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "날것으로 먹는 경우가 많은 채소류의 경우 어떻게 식중독을 예방할 수 있을까.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "채소류는 먼저 흐르는 물에 씻고 식약처에서 인증한 살균제나 식초를 탄 물에 5분 이상 담근 뒤 깨끗한 물로 3회 이상 충분히 헹구어야 한다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이러한 과정을 거친다 하더라도 채소 표면의 기공 같은 작은 틈새에 식중독균이 살아남아 있다가 저장 기간 증식할 수 있으므로 2시간 이상 상온에 방치하지 말고 최대한 빨리 사용하거나 냉장보관을 해야한다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "병원성 대장균 식중독 발생 건수와 환자수는 2014년 38건·1천784명, 2015년 39건·2천138명, 2016년 57건·2천754명으로 해마다 증가하는 추세다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "식약처는 올해 여름에도 평년 대비 기온이 더 높을 전망인 만큼 식중독 관리에 더욱 만전을 기울일 것을 당부했다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여름철 주로 발생하는 '이 질환', 주범은 의외의 것이었다는데···",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

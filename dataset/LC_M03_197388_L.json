@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197388",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 100% 유기농 노니 진액, 염증·통증 억제 효험",
+    "newsSubTitle": "웰빙제품 뉴트리 ‘올가노니’",
+    "newsContent": "노니는 남태평양 화산토와 풍부한 일조량으로 자라는 열매다.\n수십 개의 꽃이 피어 하나의 열매를 맺는 불가사의한 과실이다.\n남태평양 원주민에게는 의약·미용·건강의 필수품으로 알려져 있고, 바다로 기운을 솟구치게 한다고 해서 『동의보감』에는 ‘해파극’이라고 기록돼 있다.\n노니가 주목받는 이유는 염증과 통증을 없애는 효과 때문이다.\n노니 속에 들어 있는 스코플레틴·이리도이드·프로제노닌 같은 성분이 염증을 일으키는 사이토카인의 활동을 억제한다.\n노니는 즙으로 섭취하는 것이 체내 흡수가 빨라 생과로 먹는 것보다 좋다. 90일 동안 숙성해 껍질째 그대로 착즙하기 때문에 유기농인지 확인하는 것이 중요하다.\n뉴트리의 ‘올가노니’(사진)는 청정 무공해 지역인 하와이에서 자란 유기농 노니만 사용한 순수 노니 진액이다.\n하와이는 1년 내내 일정한 온도와 풍부한 일조량으로 노니 재배의 최적지다.\n과육부터 씨앗·껍질까지 통째로 착즙해 노니 100%의 진한 맛과 영양을 담았다.\n화학비료와 유기 합성농약을 사용하지 않고 재배한 고품질의 유기농 노니만 엄격하게 선별해 원료·제품 모두 정식 유기농 인증 완료된 제품이라 더욱 믿고 섭취할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "노니는 남태평양 화산토와 풍부한 일조량으로 자라는 열매다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "수십 개의 꽃이 피어 하나의 열매를 맺는 불가사의한 과실이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "남태평양 원주민에게는 의약·미용·건강의 필수품으로 알려져 있고, 바다로 기운을 솟구치게 한다고 해서 『동의보감』에는 ‘해파극’이라고 기록돼 있다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "노니가 주목받는 이유는 염증과 통증을 없애는 효과 때문이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "노니 속에 들어 있는 스코플레틴·이리도이드·프로제노닌 같은 성분이 염증을 일으키는 사이토카인의 활동을 억제한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "노니는 즙으로 섭취하는 것이 체내 흡수가 빨라 생과로 먹는 것보다 좋다. 90일 동안 숙성해 껍질째 그대로 착즙하기 때문에 유기농인지 확인하는 것이 중요하다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "뉴트리의 ‘올가노니’(사진)는 청정 무공해 지역인 하와이에서 자란 유기농 노니만 사용한 순수 노니 진액이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하와이는 1년 내내 일정한 온도와 풍부한 일조량으로 노니 재배의 최적지다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "과육부터 씨앗·껍질까지 통째로 착즙해 노니 100%의 진한 맛과 영양을 담았다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "화학비료와 유기 합성농약을 사용하지 않고 재배한 고품질의 유기농 노니만 엄격하게 선별해 원료·제품 모두 정식 유기농 인증 완료된 제품이라 더욱 믿고 섭취할 수 있다.",
+        "sentenceSize": 92
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "뉴트리의 100% 노니 진액, 충격적인 효능 입증 돼",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

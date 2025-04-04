@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193088",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "조선대병원-보건복지부 해외긴급구호대 파견 협약",
+    "newsSubTitle": "호남서 유일, 해외재난 발생 시 인력풀 구축·파견 앞장",
+    "newsContent": "[박정렬 기자] 조선대병원은 22일 보건복지부와 '대한민국 해외긴급구호대(KDRT) 의료지원팀' 선발과 구성을 위한 협약을 체결했다고 밝혔다.\n이번 협약에는 전국 40개 재난거점병원 중 조선대병원을 비롯해 경북대병원, 명지병원, 서울대병원, 연세대 원주세브란스기독병원, 인하대의과대학부속병원, 충북대병원, 한림대의료원 총 8개 의료기관이 참여했다.\n광주·전남·전북 지역에서는 조선대병원이 유일하게 선발됐다.\n보건복지부는 이번 협약을 체결한 의료기관에서 공식적으로 추천받은 인력으로 의료지원팀을 구성, 네팔 지진과 같은 해외재난 발생시 72시간 내 현지에 도착해 의료구호활동에 나선다는 계획이다.\n해외재난 의료지역의 '국가대표 병원'인 셈이다.\n이상홍 조선대병원장은 이번 협약과 관련해 “영광스러운 동시에 막중한 책임감을 느낀다”며 “재난 발생 시 보건복지부 및 각 의료기관과의 협업을 통해 맡은 바 역할을 충실히 수행하겠다”고 말했다.\n한편, 조선대병원은 과거 필리핀 태풍(2013년 11월), 네팔 지진(2015년 4월) 발생시 국내에서 2번째로 긴급의료지원단을 파견하는 등 피해국가와 국민을 위한 따뜻한 의료봉사를 이어오고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[박정렬 기자] 조선대병원은 22일 보건복지부와 '대한민국 해외긴급구호대(KDRT) 의료지원팀' 선발과 구성을 위한 협약을 체결했다고 밝혔다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번 협약에는 전국 40개 재난거점병원 중 조선대병원을 비롯해 경북대병원, 명지병원, 서울대병원, 연세대 원주세브란스기독병원, 인하대의과대학부속병원, 충북대병원, 한림대의료원 총 8개 의료기관이 참여했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "광주·전남·전북 지역에서는 조선대병원이 유일하게 선발됐다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보건복지부는 이번 협약을 체결한 의료기관에서 공식적으로 추천받은 인력으로 의료지원팀을 구성, 네팔 지진과 같은 해외재난 발생시 72시간 내 현지에 도착해 의료구호활동에 나선다는 계획이다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "해외재난 의료지역의 '국가대표 병원'인 셈이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이상홍 조선대병원장은 이번 협약과 관련해 “영광스러운 동시에 막중한 책임감을 느낀다”며 “재난 발생 시 보건복지부 및 각 의료기관과의 협업을 통해 맡은 바 역할을 충실히 수행하겠다”고 말했다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 조선대병원은 과거 필리핀 태풍(2013년 11월), 네팔 지진(2015년 4월) 발생시 국내에서 2번째로 긴급의료지원단을 파견하는 등 피해국가와 국민을 위한 따뜻한 의료봉사를 이어오고 있다.",
+        "sentenceSize": 110
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "조선대병원-보건복지부 협약... \"영광스러운 동시에 막중한 책임감 느껴\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

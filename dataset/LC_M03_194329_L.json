@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194329",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[이야기가있는욕실] 시아버지가 직접 리모델링",
+    "newsSubTitle": "",
+    "newsContent": "얼마 전 이사를 오면서 집안 곳곳을 조금씩 손봤어요.\n욕실이 낡아 바꾸고 싶었는데 사정이 여의치 않았어요.\n그런데 시아버님께서 회사 일에 바쁜 남편 대신 함께 리모델링을 해보자고 하셨죠.\n세면기·양변기 등 욕실 제품 하나하나 손수 고르고, 설치까지 직접 했어요.\n생각보다 어렵지 않았습니다.\n깨끗하고 깔끔하게 바뀐 욕실도 좋지만, 무엇보다 말수가 적으신 시아버님과 얘기도 많이 하고 함께 시간을 보낼 수 있어서 참 좋았어요.\n욕실에 들어설 때마다 아버님 얼굴이 떠올라 절로 미소가 지어진답니다.\n손정숙(부산시 연제구 연산4동) 중앙일보와 욕실전문업체 아메리칸 스탠더드가 ‘이야기가 있는 욕실’의 사연을 찾습니다.\n아메리칸 스탠더드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려주세요.\n매주 1명을 선정해 소개하며, 50만원 상당의 욕실 제품도 드립니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "얼마 전 이사를 오면서 집안 곳곳을 조금씩 손봤어요.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "욕실이 낡아 바꾸고 싶었는데 사정이 여의치 않았어요.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그런데 시아버님께서 회사 일에 바쁜 남편 대신 함께 리모델링을 해보자고 하셨죠.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "세면기·양변기 등 욕실 제품 하나하나 손수 고르고, 설치까지 직접 했어요.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "생각보다 어렵지 않았습니다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "깨끗하고 깔끔하게 바뀐 욕실도 좋지만, 무엇보다 말수가 적으신 시아버님과 얘기도 많이 하고 함께 시간을 보낼 수 있어서 참 좋았어요.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "욕실에 들어설 때마다 아버님 얼굴이 떠올라 절로 미소가 지어진답니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "손정숙(부산시 연제구 연산4동) 중앙일보와 욕실전문업체 아메리칸 스탠더드가 ‘이야기가 있는 욕실’의 사연을 찾습니다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아메리칸 스탠더드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려주세요.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "매주 1명을 선정해 소개하며, 50만원 상당의 욕실 제품도 드립니다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "평소 말 없던 시아버지... 며느리와 수다 떨게 된 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

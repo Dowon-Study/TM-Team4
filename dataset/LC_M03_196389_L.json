@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196389",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[새로나온책] 바람이 살랑 外",
+    "newsSubTitle": "",
+    "newsContent": "◇바람이 살랑(조미자 글·그림, 국민서관, 40쪽, 9500원, 유아)= 장난꾸러기 아이의 시선을 잡아 끄는 바람의 순환을 따뜻한 그림과 동시처럼 간결한 글로 그려냈다.\n다음 이야기를 상상하게 하는 작은 연결고리들이 각 페이지에 담겼다.\n◇레디 액! 우리 같이 영화 찍자(김경화 글, 정우열 그림, 창비, 114쪽, 1만원, 초등생)=어린이가 직접 영화를 찍어볼 수 있게 안내하는 입문서. 영화의 역사와 원리와 제작과정 등을 꼼꼼하게 담았다.\n◇고맙습니다(앨리스 B 맥긴티 글, 웬디 앤더슨 홀퍼린 그림, 허선영 옮김, 봄봄, 26쪽, 8800원, 유아)=아침에 일어나서 저녁 잠자리에 들 때까지 아이들이 느낄 수 있는 고마운 마음을 담았다.\n눈부신 햇살을 보며 일어나게 해주는 해님에게도 고맙고, 잘 자라고 뽀뽀해주는 엄마에게도 고맙다.\n◇할머니의 꽃무늬 바지(바버라 슈너부시 글, 캐리 필로 그림, 김수희 옮김, 어린이작가정신, 56쪽, 7500원, 초등 저학년)=할머니가 알츠하이머병에 걸린 리비의 이야기를 통해 가족 간의 사랑을 일깨운다.\n어느 날 꽃무늬 잠옷 바지에 파란 줄무늬 셔츠를 입은 할머니. ‘이상한’ 옷차림이지만, 리비는 할머니의 차림새가 마음에 든다.\n◇어, 어디서 봤더라?(강현옥·김은경 글, 김동원 그림, 파란자전거, 200쪽, 9800원, 초등생)= 생물체의 구조와 기능을 이해하고, 이를 응용해 과학으로 발전시킨 생체모방공학을 소개한다.\n홍합의 끈끈이를 응용한 초강력 접착제, 물에 젖지 않는 연잎의 원리를 이용한 방수천과 방수 필름, 나비의 구조색을 응용한 흰색 립스틱 등 종류가 무궁무진하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◇바람이 살랑(조미자 글·그림, 국민서관, 40쪽, 9500원, 유아)= 장난꾸러기 아이의 시선을 잡아 끄는 바람의 순환을 따뜻한 그림과 동시처럼 간결한 글로 그려냈다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "다음 이야기를 상상하게 하는 작은 연결고리들이 각 페이지에 담겼다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "◇레디 액! 우리 같이 영화 찍자(김경화 글, 정우열 그림, 창비, 114쪽, 1만원, 초등생)=어린이가 직접 영화를 찍어볼 수 있게 안내하는 입문서. 영화의 역사와 원리와 제작과정 등을 꼼꼼하게 담았다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "◇고맙습니다(앨리스 B 맥긴티 글, 웬디 앤더슨 홀퍼린 그림, 허선영 옮김, 봄봄, 26쪽, 8800원, 유아)=아침에 일어나서 저녁 잠자리에 들 때까지 아이들이 느낄 수 있는 고마운 마음을 담았다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "눈부신 햇살을 보며 일어나게 해주는 해님에게도 고맙고, 잘 자라고 뽀뽀해주는 엄마에게도 고맙다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "◇할머니의 꽃무늬 바지(바버라 슈너부시 글, 캐리 필로 그림, 김수희 옮김, 어린이작가정신, 56쪽, 7500원, 초등 저학년)=할머니가 알츠하이머병에 걸린 리비의 이야기를 통해 가족 간의 사랑을 일깨운다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "어느 날 꽃무늬 잠옷 바지에 파란 줄무늬 셔츠를 입은 할머니. ‘이상한’ 옷차림이지만, 리비는 할머니의 차림새가 마음에 든다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "◇어, 어디서 봤더라?(강현옥·김은경 글, 김동원 그림, 파란자전거, 200쪽, 9800원, 초등생)= 생물체의 구조와 기능을 이해하고, 이를 응용해 과학으로 발전시킨 생체모방공학을 소개한다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "홍합의 끈끈이를 응용한 초강력 접착제, 물에 젖지 않는 연잎의 원리를 이용한 방수천과 방수 필름, 나비의 구조색을 응용한 흰색 립스틱 등 종류가 무궁무진하다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "자꾸만 잠옷 차림으로 밖을 나서는 할머니의 수상한 비밀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

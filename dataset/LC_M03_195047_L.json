@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195047",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK}최저 출산율에 초고속 고령화, 균형발전의 미래는",
+    "newsSubTitle": "",
+    "newsContent": "지방이 시작이다 오영환 지음 영남대학교 출판부 국가균형발전은 역대 정부 주요 과제였다.\n노무현 정부의 세종시는 그 상징. 문재인 정부도 100대 국정과제 주요 사업으로 추진했다.\n전 지역이 고르게 잘살게 하고 누구나 살고 싶은 농산어촌을 만들겠다고 했다.\n하지만, 지금 균형발전을 말하기는 민망하다.\n수도권 인구집중은 심화하고 지방 소멸위기는 가속화한다.\n국토의 12%인 수도권에 전체 인구의 절반 넘게 산다.\n이 책은 세계 최저 수준의 출산율과 최고 속도의 고령화로 압축되는 한국의 인구 동태를 바탕으로 수도권 집중과 지방 소멸 문제를 조명한다.\n책을 관통하는 주요 논점은 크게 세 가지. 첫째 2020년을 기점으로 사망자 수가 출생아 수를 앞지르는 소산다사(小産多死)사회가 된 한국의 인구문제, 둘째 종속이론의 중심ㆍ주변 관계와 닮은 수도권 집중과 지방 소멸, 셋째 일본의 지방창생 정책을 중심으로 본 인구대책과 균형발전이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지방이 시작이다 오영환 지음 영남대학교 출판부 국가균형발전은 역대 정부 주요 과제였다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "노무현 정부의 세종시는 그 상징. 문재인 정부도 100대 국정과제 주요 사업으로 추진했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "전 지역이 고르게 잘살게 하고 누구나 살고 싶은 농산어촌을 만들겠다고 했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만, 지금 균형발전을 말하기는 민망하다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "수도권 인구집중은 심화하고 지방 소멸위기는 가속화한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "국토의 12%인 수도권에 전체 인구의 절반 넘게 산다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 책은 세계 최저 수준의 출산율과 최고 속도의 고령화로 압축되는 한국의 인구 동태를 바탕으로 수도권 집중과 지방 소멸 문제를 조명한다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "책을 관통하는 주요 논점은 크게 세 가지. 첫째 2020년을 기점으로 사망자 수가 출생아 수를 앞지르는 소산다사(小産多死)사회가 된 한국의 인구문제, 둘째 종속이론의 중심ㆍ주변 관계와 닮은 수도권 집중과 지방 소멸, 셋째 일본의 지방창생 정책을 중심으로 본 인구대책과 균형발전이다.",
+        "sentenceSize": 157
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신간 '지방이 시작이다'... 수도권 집중과 지방 소멸 문제 해결할 수 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

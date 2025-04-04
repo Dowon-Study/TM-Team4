@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195650",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[헬스벨 알짜정보] 중년 기억력 개선엔 DHA 많은 오메가3",
+    "newsSubTitle": "",
+    "newsContent": "기억력 저하를 호소하는 중년층이 많다.\n뇌세포 발달에 좋은 영양소를 보충하면 뇌 속 혈액의 흐름이 활발해진다.\n혈액순환이 잘돼 두뇌 건강과 기억력 개선을 돕는다.\n오메가3는 손꼽히는 브레인 푸드다.\n두뇌 망막의 구성 성분인 DHA와 혈액순환에 좋은 EPA가 많아서다.\n요즘엔 음식보다 건강기능식품으로 많이 챙겨 먹는다.\n제품을 고를 땐 핵심 성분인 DHA 함량이 높은지 꼼꼼히 따져보는 게 좋다.\n건강기능식품 전문 기업 종근당건강은 중년의 두뇌 건강 증진을 위해 중앙일보 독자를 대상으로 7월 특별 할인행사를 진행한다.\n이번 특별행사 제품은 고함량의 DHA가 들어 있는 ‘기억력 오메가3’(사진)로 두뇌·혈관 건강을 한번에 관리할 수 있다.\n특히 북유럽 청정 국가에서 오메가3를 연구해 온 글로벌 기업(EPAX사)의 원료를 사용했다.\n목 넘김이 좋도록 캡슐 사이즈를 줄여 성장기 어린이, 임산부, 노인 모두 부담 없이 섭취할 수 있다.\n이번 특별행사는 8일 동안 진행되며 이 기간 중에만 가장 큰 가격 혜택을 받을 수 있다.\n● 기간 7월 18~25일 ● 문의 1644-1884",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "기억력 저하를 호소하는 중년층이 많다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "뇌세포 발달에 좋은 영양소를 보충하면 뇌 속 혈액의 흐름이 활발해진다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "혈액순환이 잘돼 두뇌 건강과 기억력 개선을 돕는다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오메가3는 손꼽히는 브레인 푸드다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두뇌 망막의 구성 성분인 DHA와 혈액순환에 좋은 EPA가 많아서다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "요즘엔 음식보다 건강기능식품으로 많이 챙겨 먹는다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "제품을 고를 땐 핵심 성분인 DHA 함량이 높은지 꼼꼼히 따져보는 게 좋다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "건강기능식품 전문 기업 종근당건강은 중년의 두뇌 건강 증진을 위해 중앙일보 독자를 대상으로 7월 특별 할인행사를 진행한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이번 특별행사 제품은 고함량의 DHA가 들어 있는 ‘기억력 오메가3’(사진)로 두뇌·혈관 건강을 한번에 관리할 수 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "특히 북유럽 청정 국가에서 오메가3를 연구해 온 글로벌 기업(EPAX사)의 원료를 사용했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "목 넘김이 좋도록 캡슐 사이즈를 줄여 성장기 어린이, 임산부, 노인 모두 부담 없이 섭취할 수 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이번 특별행사는 8일 동안 진행되며 이 기간 중에만 가장 큰 가격 혜택을 받을 수 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "● 기간 7월 18~25일 ● 문의 1644-1884",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "지나치게 자주 깜빡깜빡 한다면 혹시… 두려운 치매, 예방은 어떻게?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

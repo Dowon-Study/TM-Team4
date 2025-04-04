@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195765",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "광동, 美 판매 1위 비만약으로 비만치료 시장 진출",
+    "newsSubTitle": "오렉시젠에 국내 판권 확보…내년 하반기 출시 목표",
+    "newsContent": "광동제약이 미국 판매 1위 비만약을 앞세워 비만치료 시장에 진출한다.\n광동제약은 10일 미국 바이오제약사 오렉시젠 테라퓨틱스와 비만치료용 신약 '콘트라브'의 국내판매 독점권을 계약했다고 밝혔다.\n광동제약은 내년 하반기 출시를 목표로 국내 허가 승인절차와 판매활동 계획을 준비한다는 방침이다.\n콘트라브는 미국·캐나다 등 북미지역에서는 다케다제약이 판매를 담당하고 있다.\n특히 최근 출시된 3종류의 비만치료신약(큐시미아·벨빅·콘트라브) 중에서 가장 늦게 발매됐지만 시장점유율은 1위를 기록하고 있다.\n비만치료신약 콘트라브는 과체중 또는 비만한 성인 환자의 체중조절에 단일요법으로 사용하는 신약이다.\n이 약은 2014년 9월 미국 식품의약국(FDA)에 승인을 받았으며, 유럽에서는 올해 3월 마이심바라는 제품명으로 시판하고 있다.\n회사 측에 따르면 콘트라브는 체질량지수(BMI) 30kg/m2 이상으로 비만이거나 고혈압·제2형 당뇨·이상지질혈증 등 대사증후군 위험인자가 있으면서 체질량지수 BMI 27kg/m2 이상인 과체중 환자의 체중조절을 위한 식이 및 운동요법의 보조요법에 사용된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "광동제약이 미국 판매 1위 비만약을 앞세워 비만치료 시장에 진출한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "광동제약은 10일 미국 바이오제약사 오렉시젠 테라퓨틱스와 비만치료용 신약 '콘트라브'의 국내판매 독점권을 계약했다고 밝혔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "광동제약은 내년 하반기 출시를 목표로 국내 허가 승인절차와 판매활동 계획을 준비한다는 방침이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "콘트라브는 미국·캐나다 등 북미지역에서는 다케다제약이 판매를 담당하고 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 최근 출시된 3종류의 비만치료신약(큐시미아·벨빅·콘트라브) 중에서 가장 늦게 발매됐지만 시장점유율은 1위를 기록하고 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "비만치료신약 콘트라브는 과체중 또는 비만한 성인 환자의 체중조절에 단일요법으로 사용하는 신약이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 약은 2014년 9월 미국 식품의약국(FDA)에 승인을 받았으며, 유럽에서는 올해 3월 마이심바라는 제품명으로 시판하고 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "회사 측에 따르면 콘트라브는 체질량지수(BMI) 30kg/m2 이상으로 비만이거나 고혈압·제2형 당뇨·이상지질혈증 등 대사증후군 위험인자가 있으면서 체질량지수 BMI 27kg/m2 이상인 과체중 환자의 체중조절을 위한 식이 및 운동요법의 보조요법에 사용된다.",
+        "sentenceSize": 144
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비만 치료 시장 진출하는 광동제약, `미국 판매 1위` 제품 독점권 따내… 판매 시기는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

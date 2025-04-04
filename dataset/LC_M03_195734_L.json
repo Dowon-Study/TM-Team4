@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195734",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "해외유입 감염병 국내 전파 증가...\\\"여행 주의 당부\\\"",
+    "newsSubTitle": "해외 유입 감염병의 61.6% '말라리아' '뎅기열'",
+    "newsContent": "해외에서 유입된 감염병이 국내에 전파되는 사례가 증가하고 있는 것으로 드러났다.\n▲사진출처=중앙포토DB 24일 질병관리본부는 뎅기열, 말라리아 등의 감염병이 주로 동남아 지역에서 증가 추세로 확인되고 있다며 추석연휴 출국 여행객에게 손씻기 등 개인위생을 철처히 관리할 것을 당부한다고 밝혔다.\n질병관리본부가 공개한 주요 국외유입감염병 환자 발생현황에 따르면 뎅기열 환자 수는 155명으로 전원이 국외에서 유입됐다.\n또 다른 감염병인 말라리아 환자는 618명으로 이 가운데 54명이 국외 유입 환자다.\n모기를 매개체로 감염되는 뎅기열과 말라리아는 해외 유입 감염병의 61.6%를 차지하고 있다.\n이에 모기에 물리지 않도록 야간 활동 시 긴팔, 긴바지를 착용하고 모기 물림 방지를 위한 기피제를 사용할 것을 권고했다.\n특히 말라리아 예방을 위해 최소 출국 2주 전 항말라리아제를 복용할 것을 당부 했다.\n단 아프리카의 말라리아는 예방약 중 클로로퀸에 내성이 있기 때문에 의사와 상담 후 복용해야 한다 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "해외에서 유입된 감염병이 국내에 전파되는 사례가 증가하고 있는 것으로 드러났다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "▲사진출처=중앙포토DB 24일 질병관리본부는 뎅기열, 말라리아 등의 감염병이 주로 동남아 지역에서 증가 추세로 확인되고 있다며 추석연휴 출국 여행객에게 손씻기 등 개인위생을 철처히 관리할 것을 당부한다고 밝혔다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "질병관리본부가 공개한 주요 국외유입감염병 환자 발생현황에 따르면 뎅기열 환자 수는 155명으로 전원이 국외에서 유입됐다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 다른 감염병인 말라리아 환자는 618명으로 이 가운데 54명이 국외 유입 환자다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "모기를 매개체로 감염되는 뎅기열과 말라리아는 해외 유입 감염병의 61.6%를 차지하고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 모기에 물리지 않도록 야간 활동 시 긴팔, 긴바지를 착용하고 모기 물림 방지를 위한 기피제를 사용할 것을 권고했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 말라리아 예방을 위해 최소 출국 2주 전 항말라리아제를 복용할 것을 당부 했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "단 아프리카의 말라리아는 예방약 중 클로로퀸에 내성이 있기 때문에 의사와 상담 후 복용해야 한다 밝혔다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "질병관리본부, 모기를 매체로 하는 뎅기열 국내 전파 증가… 전파 원인은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

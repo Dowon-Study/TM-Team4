@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194426",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "유산균 발효유, 치주염 예방에도 효과",
+    "newsSubTitle": "김영재 서울대 교수 연구",
+    "newsContent": "강황과 당알코올을 함유한 유산균 발효유가 충치균을 줄여 치주염을 예방할 수 있다는 연구결과가 나왔다.\n서울대치대병원 소아치과 김영재 교수는 만 3∼12세의 어린이 64명을 두 그룹으로 나눈 뒤 한 그룹은 강황·당알코올 함유 유산균 발효유를 100㎖씩 하루 2회 마시게 하고, 다른 그룹엔 가짜 음료를 제공했다.\n그 결과 3개월 뒤엔 유산균 발효유를 마신 그룹의 충치균(뮤탄스균) 수가 처음보다 100배 감소한 반면 대조 그룹의 충치균 수는 오히려 1만 배 늘어났다.\n치주염 환자인 성인(43명)을 대상으로 한 연구에서도 유사한 결과가 얻어졌다.\n3개월 뒤 유산균 발효유를 마신 그룹에선 치주염 원인균이 현저히 줄어든 반면 대조 그룹에선 이렇다 할 변화가 없었다.\n유산균·강황은 항균(抗菌) 효과가 있는 것으로 이미 널리 알려진 식품 성분. 김 교수는 “이 셋이 시너지 효과를 나타내 충치균·치주염균이 줄어든 것 같다”고 말했다.\n하지만 현재 유통 중인 유산균 발효유엔 충치균의 먹이가 되는 과당·설탕 등이 들어 있으므로 마신 뒤 바로 양치질을 해야 한다.\n이 연구결과는 대한보건협회가 22일 주최한 ‘유산균과 건강’ 국제 학술심포지엄에서 발표됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "강황과 당알코올을 함유한 유산균 발효유가 충치균을 줄여 치주염을 예방할 수 있다는 연구결과가 나왔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울대치대병원 소아치과 김영재 교수는 만 3∼12세의 어린이 64명을 두 그룹으로 나눈 뒤 한 그룹은 강황·당알코올 함유 유산균 발효유를 100㎖씩 하루 2회 마시게 하고, 다른 그룹엔 가짜 음료를 제공했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 결과 3개월 뒤엔 유산균 발효유를 마신 그룹의 충치균(뮤탄스균) 수가 처음보다 100배 감소한 반면 대조 그룹의 충치균 수는 오히려 1만 배 늘어났다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "치주염 환자인 성인(43명)을 대상으로 한 연구에서도 유사한 결과가 얻어졌다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "3개월 뒤 유산균 발효유를 마신 그룹에선 치주염 원인균이 현저히 줄어든 반면 대조 그룹에선 이렇다 할 변화가 없었다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유산균·강황은 항균(抗菌) 효과가 있는 것으로 이미 널리 알려진 식품 성분. 김 교수는 “이 셋이 시너지 효과를 나타내 충치균·치주염균이 줄어든 것 같다”고 말했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 현재 유통 중인 유산균 발효유엔 충치균의 먹이가 되는 과당·설탕 등이 들어 있으므로 마신 뒤 바로 양치질을 해야 한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 연구결과는 대한보건협회가 22일 주최한 ‘유산균과 건강’ 국제 학술심포지엄에서 발표됐다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김영재 교수, 치주염에 좋은 음료 연구 발표... 효과는 과연?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195903",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "건강 챙기는 제철음식, 각 음식의 특징과 효능은?",
+    "newsSubTitle": "",
+    "newsContent": "건강 챙기는 제철음식이 네티즌 사이에서 화제다.\n쭈꾸미·우엉·바지락·취나물 등 건강 챙기는 제철음식이 특히 화제가 되고 있다.\n건강 챙기는 제철음식 가운데 쭈꾸미는 봄에 꼭 맛봐야 하는 음식으로 꼽힐만큼 인기가 높은 음식. 쭈꾸미는 DHA 등의 불포화 지방산을 다량 함유해 혈중 콜레스테롤 수치 감소에 효과적이며, 저칼로리(100g당 47㎉)여서 다이어트에 도움이 되고 있다.\n특히, 쭈꾸미와 돼지고기를 함께 먹는 것이 좋다.\n돼지고기는 지방과 콜레스테롤 수치가 높은 반면, 주꾸미는 체내 콜레스테롤수치를 내려주는 타우린이 다량 함유돼 돼지고기의 단점을 어느정도 해소해 주고 있다.\n또한 철분도 많이 함유되어있어 빈혈을 예방하고 치료하는 데도 효과적이다.\n한편, 건강 챙기는 제철음식 소식을 접한 네티즌들은 “건강 챙기는 제철음식, 쭈꾸미 다이어트에 좋구나”, “건강 챙기는 제철음식, 쭈꾸미 이런 효능이 있었어?”, “건강 챙기는 제철음식, 오늘 레시피는 쭈꾸미볶음이다”, “건강 챙기는제철음식, 쭈꾸미에 이런 효능이”, “건강 챙기는 제철음식, 쭈꾸미 빈혈에도 효과적” “건강 챙기는 제철음식, 쭈꾸미 여성에게 최고” 등 다양한 반응을 보였다.\n온라인 중앙일보 ‘건강 챙기는 제철음식’[사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "건강 챙기는 제철음식이 네티즌 사이에서 화제다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "쭈꾸미·우엉·바지락·취나물 등 건강 챙기는 제철음식이 특히 화제가 되고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "건강 챙기는 제철음식 가운데 쭈꾸미는 봄에 꼭 맛봐야 하는 음식으로 꼽힐만큼 인기가 높은 음식. 쭈꾸미는 DHA 등의 불포화 지방산을 다량 함유해 혈중 콜레스테롤 수치 감소에 효과적이며, 저칼로리(100g당 47㎉)여서 다이어트에 도움이 되고 있다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히, 쭈꾸미와 돼지고기를 함께 먹는 것이 좋다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "돼지고기는 지방과 콜레스테롤 수치가 높은 반면, 주꾸미는 체내 콜레스테롤수치를 내려주는 타우린이 다량 함유돼 돼지고기의 단점을 어느정도 해소해 주고 있다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 철분도 많이 함유되어있어 빈혈을 예방하고 치료하는 데도 효과적이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 건강 챙기는 제철음식 소식을 접한 네티즌들은 “건강 챙기는 제철음식, 쭈꾸미 다이어트에 좋구나”, “건강 챙기는 제철음식, 쭈꾸미 이런 효능이 있었어?”, “건강 챙기는 제철음식, 오늘 레시피는 쭈꾸미볶음이다”, “건강 챙기는제철음식, 쭈꾸미에 이런 효능이”, “건강 챙기는 제철음식, 쭈꾸미 빈혈에도 효과적” “건강 챙기는 제철음식, 쭈꾸미 여성에게 최고” 등 다양한 반응을 보였다.",
+        "sentenceSize": 219
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 ‘건강 챙기는 제철음식’[사진 중앙포토]",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "주꾸미와 돼지고기가 잘 어울리는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

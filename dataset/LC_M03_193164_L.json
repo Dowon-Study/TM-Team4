@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193164",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "부정맥 증상, '증상 나타났을 때 바로 심전도 검사해야'",
+    "newsSubTitle": "",
+    "newsContent": "부정맥 증상에 대한 관심이 높아지고 있다.\n부정맥은 갑자기 심장이 빠르게 뛰거나 느리게 뛰는 등 평상시 박동수와 다른 모습을 보이는 증상을 말한다.\n부정맥이 발생하면 비정상적인 심장 박동이 두근거림이나 덜컹거림으로 나타나 불쾌함을 유발한다.\n심장의 능력이 저하되어 뿜어져 나오는 혈액량이 감소하고, 이로 인해 호흡곤란, 현기증, 실신 등이 나타날 수도 있다.\n만약 심실 무수축, 심실빈맥, 심실세동과 같은 악성 부정맥이 발생하면 순간적으로 심장 기능이 완전히 마비되어 곧바로 심장마비로 사망할 수도 있다 . 부정맥은 70세 이상 고령자, 고혈압·당뇨 등 다양한 혈관질환자, 여자 등에게 많다.\n부정맥은 증상이 나타났을 때 바로 병원에 가서 심전도를 찍어야 한다.\n증상이 사라진 뒤 병원에 가면 이미 심장 박동은 정상 상태를 찾은 후이기 때문에 병은 있지만 아무것도 찾아내지 못한다.\n그러므로 증상이 나타났을 때의 상태를 환자 자신이 정확하게 파악하는 것이 무엇보다 중요하다.\n가장 쉽고 정확한 방법은 맥박을 재는 것이다.\n부정맥 증상을 느꼈을 때 측정한 맥박수에 이상이 있다면 병원에 가서 검사를 받아야 한다.\n쉽게 찾아내기 어렵지만 갑자기 나타나는 부정맥까지 잡아내기 위한 검사법이 계속 발달되고 있다.\n부정맥 증상 예방법 소식을 접한 네티즌들은 \\\"부정맥 증상 예방법, 무섭다\\\" \\\"부정맥 증상 예방법, 건강 챙기자\\\" \\\"부정맥 증상, 조심하자\\\"등의 반응을 보였다.\n온라인 중앙일보 '부정맥 증상' [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "부정맥 증상에 대한 관심이 높아지고 있다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "부정맥은 갑자기 심장이 빠르게 뛰거나 느리게 뛰는 등 평상시 박동수와 다른 모습을 보이는 증상을 말한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "부정맥이 발생하면 비정상적인 심장 박동이 두근거림이나 덜컹거림으로 나타나 불쾌함을 유발한다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "심장의 능력이 저하되어 뿜어져 나오는 혈액량이 감소하고, 이로 인해 호흡곤란, 현기증, 실신 등이 나타날 수도 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "만약 심실 무수축, 심실빈맥, 심실세동과 같은 악성 부정맥이 발생하면 순간적으로 심장 기능이 완전히 마비되어 곧바로 심장마비로 사망할 수도 있다 . 부정맥은 70세 이상 고령자, 고혈압·당뇨 등 다양한 혈관질환자, 여자 등에게 많다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "부정맥은 증상이 나타났을 때 바로 병원에 가서 심전도를 찍어야 한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "증상이 사라진 뒤 병원에 가면 이미 심장 박동은 정상 상태를 찾은 후이기 때문에 병은 있지만 아무것도 찾아내지 못한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러므로 증상이 나타났을 때의 상태를 환자 자신이 정확하게 파악하는 것이 무엇보다 중요하다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "가장 쉽고 정확한 방법은 맥박을 재는 것이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "부정맥 증상을 느꼈을 때 측정한 맥박수에 이상이 있다면 병원에 가서 검사를 받아야 한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "쉽게 찾아내기 어렵지만 갑자기 나타나는 부정맥까지 잡아내기 위한 검사법이 계속 발달되고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "부정맥 증상 예방법 소식을 접한 네티즌들은 \\\"부정맥 증상 예방법, 무섭다\\\" \\\"부정맥 증상 예방법, 건강 챙기자\\\" \\\"부정맥 증상, 조심하자\\\"등의 반응을 보였다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "온라인 중앙일보 '부정맥 증상' [사진 중앙포토]",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "증상 나타났을 때 병원 방문해 심전도 검사해야",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

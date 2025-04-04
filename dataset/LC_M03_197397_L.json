@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197397",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 관절·연골 건강에 좋은 ‘천관보’ 할인 행사",
+    "newsSubTitle": "헬스벨 알짜 정보",
+    "newsContent": "종근당건강이 새로운 프리미엄 관절 제품 ‘천관보’(사진)를 출시했다. ‘천관보’는 관절과 연골 건강에 도움을 줄 수 있는 기능성 원료를 담은 건강기능식품이다.\nMSM(메틸설포닐메탄·식이유황), NAG(N-아세틸글루코사민), 칼슘을 주원료로 담았다.\nMSM은 관절 건강과 원활한 신체활동에 도움을 준다.\n인체적용 시험을 통해 관절의 통증 감소와 불편함 개선 효과가 확인됐다.\nNAG는 연골의 구성 성분으로, 인체적용 시험 결과 NAG 섭취 시 관절이 불편한 사람의 보행 및 계단 오르내리기 능력이 개선됐다.\n식품의약품안전처는 MSM과 NAG에 대해 ‘관절 및 연골 건강에 도움을 줄 수 있음’이라고 기능성을 인정했다.\n칼슘은 뼈와 치아 형성, 신경과 근육 기능 유지에 필요한 성분으로 골다공증 발생 위험 감소에도 도움을 준다. ‘천관보’ 하루 분량에는 MSM 2000㎎, NAG 500㎎, 칼슘 300㎎이 함유됐다.\n녹용·홍삼·강황·가시오갈피·당귀 등 31종의 다양한 성분도 들어 있다.\n중·노년기 및 갱년기 여성, 관절과 연골의 원활한 움직임을 원하는 사람, 골다공증 위험이 있는 사람에게 권할 만하다.\n액상 형태로 1일 2회, 1회 1포를 섭취하면 된다.\n종근당건강은 가정의 달을 맞아 30일부터 ‘천관보’를 선착순 500명에게 유통 최저가로 판매한다.\n제품 문의와 구매는 전화를 통해 진행된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "종근당건강이 새로운 프리미엄 관절 제품 ‘천관보’(사진)를 출시했다. ‘천관보’는 관절과 연골 건강에 도움을 줄 수 있는 기능성 원료를 담은 건강기능식품이다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "MSM(메틸설포닐메탄·식이유황), NAG(N-아세틸글루코사민), 칼슘을 주원료로 담았다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "MSM은 관절 건강과 원활한 신체활동에 도움을 준다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "인체적용 시험을 통해 관절의 통증 감소와 불편함 개선 효과가 확인됐다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "NAG는 연골의 구성 성분으로, 인체적용 시험 결과 NAG 섭취 시 관절이 불편한 사람의 보행 및 계단 오르내리기 능력이 개선됐다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "식품의약품안전처는 MSM과 NAG에 대해 ‘관절 및 연골 건강에 도움을 줄 수 있음’이라고 기능성을 인정했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "칼슘은 뼈와 치아 형성, 신경과 근육 기능 유지에 필요한 성분으로 골다공증 발생 위험 감소에도 도움을 준다. ‘천관보’ 하루 분량에는 MSM 2000㎎, NAG 500㎎, 칼슘 300㎎이 함유됐다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "녹용·홍삼·강황·가시오갈피·당귀 등 31종의 다양한 성분도 들어 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "중·노년기 및 갱년기 여성, 관절과 연골의 원활한 움직임을 원하는 사람, 골다공증 위험이 있는 사람에게 권할 만하다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "액상 형태로 1일 2회, 1회 1포를 섭취하면 된다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "종근당건강은 가정의 달을 맞아 30일부터 ‘천관보’를 선착순 500명에게 유통 최저가로 판매한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "제품 문의와 구매는 전화를 통해 진행된다.",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "관절 건강 특효약 '천관보', 미친 효능에 이목 집중... 할인 행사 진행 중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195457",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "서울시민 듣고 싶은 말 1위 “사랑해”…남자끼리 듣고 싶은 말 “놀자”",
+    "newsSubTitle": "여성이 연인에게 듣고 싶은 말 ‘사랑해’ ‘결혼하자’ 더 나이들기 전에 꼭 해보고 싶은 것…압도적으로 ‘여행’",
+    "newsContent": "서울시민이 가장 듣고 싶은 말 1위는 ‘사랑해’(18.5%)였고, 2위는 ‘수고했어’(7.9%), 3위는 ‘잘하고 있어’(7.6%)로 조사됐다.\n서울시여성가족재단은 시민 1100명(15∼64세)이 온라인으로 참여한 ‘서울시민 마음 알기 조사’를 통해 이같은 결과를 8일 발표했다.\n이런 말을 듣고 싶은 상대는 배우자(28.0%)가 1위였고 부모(20.5%), 자녀(16.1%), 연인(9.3%), 친구(6.6%)가 뒤를 이었다.\n20∼30대 여성만 제외하고 전 연령대에서 듣고 싶은 말 1위로 ‘사랑해’를 꼽았다.\n20∼30대 여성은 ‘잘하고 있어’라는 말을 가장 듣고 싶어했다.\n이외에도 ‘하고 싶은 일 해’, ‘잘했어’, ‘수고했어’ 등 격려ㆍ지지의 말을 듣고 싶다고 했다.\n30대 남성도 ‘사랑해’ 이외에도 ‘힘내ㆍ파이팅’이란 말이 필요하다고 답했다.\n연령대가 올라갈수록 여성은 자녀, 남성은 배우자에게 “사랑해”, “수고했어”라는 말을 듣고 싶어했다.\n이외에 배우자에게 듣고 싶은 말로는 ‘건강하게 살자’(남성 6.5%) ‘잘하고 있어’(남성 5.9%, 여성 5.8%), ‘당신 최고야’(남성 4.7%), ‘내가 도와줄게’(여성 3.6%) 등이 나왔다.\n부모에게 듣고 싶은 말로는 남성ㆍ여성 모두 1위가 ‘잘하고 있어’(여성 15.7%ㆍ남성 12.4%)였다.\n반면 부모가 자녀에게 듣고 싶은 말 1위는 ‘엄마 사랑해요’(여성 30.9%), ‘아빠 사랑해요’( 남성 37.3%)였다.\n여성이 연인에게 듣고 싶은 말로는 ‘사랑해’(25.0%), ‘결혼하자’(25.0%)가 공동 1위로 꼽혔다.\n남성은 ‘사랑해’(51.4%)가 압도적으로 많았다.\n친구에게 여성은 응원을, 남성은 연대를 원하는 것으로 나타났다.\n여성이 친구에게 듣고 싶은 말 1위는 ‘잘하고 있어ㆍ잘할 수 있어’(18.8%)였고 남성은 ‘만나자ㆍ놀자’(22.0%), ‘함께 헤쳐나가자’(17.1%)였다.\n더 나이 들기 전에 꼭 해보고 싶은 것을 주관식으로 물었더니 연령대ㆍ성별을 불문하고 압도적으로 여행(58.1%)이 꼽혔다.\n취미활동(9.5%), 공부(4.9%), 사랑ㆍ연애(4.5%)를 해보고 싶다는 응답도 많았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서울시민이 가장 듣고 싶은 말 1위는 ‘사랑해’(18.5%)였고, 2위는 ‘수고했어’(7.9%), 3위는 ‘잘하고 있어’(7.6%)로 조사됐다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울시여성가족재단은 시민 1100명(15∼64세)이 온라인으로 참여한 ‘서울시민 마음 알기 조사’를 통해 이같은 결과를 8일 발표했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이런 말을 듣고 싶은 상대는 배우자(28.0%)가 1위였고 부모(20.5%), 자녀(16.1%), 연인(9.3%), 친구(6.6%)가 뒤를 이었다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "20∼30대 여성만 제외하고 전 연령대에서 듣고 싶은 말 1위로 ‘사랑해’를 꼽았다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "20∼30대 여성은 ‘잘하고 있어’라는 말을 가장 듣고 싶어했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이외에도 ‘하고 싶은 일 해’, ‘잘했어’, ‘수고했어’ 등 격려ㆍ지지의 말을 듣고 싶다고 했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "30대 남성도 ‘사랑해’ 이외에도 ‘힘내ㆍ파이팅’이란 말이 필요하다고 답했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연령대가 올라갈수록 여성은 자녀, 남성은 배우자에게 “사랑해”, “수고했어”라는 말을 듣고 싶어했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이외에 배우자에게 듣고 싶은 말로는 ‘건강하게 살자’(남성 6.5%) ‘잘하고 있어’(남성 5.9%, 여성 5.8%), ‘당신 최고야’(남성 4.7%), ‘내가 도와줄게’(여성 3.6%) 등이 나왔다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "부모에게 듣고 싶은 말로는 남성ㆍ여성 모두 1위가 ‘잘하고 있어’(여성 15.7%ㆍ남성 12.4%)였다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "반면 부모가 자녀에게 듣고 싶은 말 1위는 ‘엄마 사랑해요’(여성 30.9%), ‘아빠 사랑해요’( 남성 37.3%)였다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "여성이 연인에게 듣고 싶은 말로는 ‘사랑해’(25.0%), ‘결혼하자’(25.0%)가 공동 1위로 꼽혔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "남성은 ‘사랑해’(51.4%)가 압도적으로 많았다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "친구에게 여성은 응원을, 남성은 연대를 원하는 것으로 나타났다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "여성이 친구에게 듣고 싶은 말 1위는 ‘잘하고 있어ㆍ잘할 수 있어’(18.8%)였고 남성은 ‘만나자ㆍ놀자’(22.0%), ‘함께 헤쳐나가자’(17.1%)였다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "더 나이 들기 전에 꼭 해보고 싶은 것을 주관식으로 물었더니 연령대ㆍ성별을 불문하고 압도적으로 여행(58.1%)이 꼽혔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "취미활동(9.5%), 공부(4.9%), 사랑ㆍ연애(4.5%)를 해보고 싶다는 응답도 많았다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'서울시민 마음 알기 조사'에서 서울시민이 가장 듣고 싶은 말 1위는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

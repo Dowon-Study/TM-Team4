@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193079",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "약 먹고 두드러기?…‘약물유해반응센터’에 문의하세요",
+    "newsSubTitle": "서울대병원 약물유해반응 전문상담센터 개소",
+    "newsContent": "[김진구 기자] 약을 먹고 속이 메스껍거나 두드러기가 난다면 약물의 부작용, 즉 ‘약물 유해반응’일 가능성이 크다.\n약물 유해반응이란 적정 용량의 의약품을 올바른 방법으로 사용하였음에도 인체에 부작용이 나타나는 것을 말한다.\n의료인이 아니라면 이러한 반응에 당황하기 쉽다.\n급하게 응급실을 찾아야 하는지, 시간이 지나면 저절로 나아지는지 알기 어렵다.\n이와 관련 서울대병원은 지난달부터 약물유해반응 전문상담센터를 개소했다.\n약물유해반응과 관련한 전문상담실로는 우리나라에서 처음이다.\n상담센터는 본원 1층에 있으며, 평일 9시부터 17시까지 운영한다.\n외래·입원 환자 누구나 무료로 이용할 수 있다.\n전화상담(02-2072-2865)도 가능하다.\n조상헌 약물유해반응관리센터장은 “환자의 접근성을 높이기 위해 상담센터를 병원 1층에 배치했다”며 “상담센터를 통해 신속히 원인약제를 차단하고 약화사고를 조기에 방지할 것”이라고 기대했다.\n강혜련 알레르기내과 교수는 “약물 부작용에 대한 신속한 대처는 효과적인 환자 치료에 필수 요소”라며 “개인별 과민반응 약제를 파악 해 부작용을 줄이고 치료 효과를 높일 수 있을 것”이라고 말했다.\n서울대병원은 2009년부터 약물유해반응 관리센터를 운영해 의도치 않은 임상반응을 관리해왔다. ‘지역의약품안전센터’로서 서울대병원뿐 아니라 서울권역의 약물부작용 사례 등을 수집했다.\n이번 전문상담센터 개소는 이런 역할을 더욱 확대한 것이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 약을 먹고 속이 메스껍거나 두드러기가 난다면 약물의 부작용, 즉 ‘약물 유해반응’일 가능성이 크다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "약물 유해반응이란 적정 용량의 의약품을 올바른 방법으로 사용하였음에도 인체에 부작용이 나타나는 것을 말한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "의료인이 아니라면 이러한 반응에 당황하기 쉽다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "급하게 응급실을 찾아야 하는지, 시간이 지나면 저절로 나아지는지 알기 어렵다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이와 관련 서울대병원은 지난달부터 약물유해반응 전문상담센터를 개소했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "약물유해반응과 관련한 전문상담실로는 우리나라에서 처음이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "상담센터는 본원 1층에 있으며, 평일 9시부터 17시까지 운영한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "외래·입원 환자 누구나 무료로 이용할 수 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "전화상담(02-2072-2865)도 가능하다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "조상헌 약물유해반응관리센터장은 “환자의 접근성을 높이기 위해 상담센터를 병원 1층에 배치했다”며 “상담센터를 통해 신속히 원인약제를 차단하고 약화사고를 조기에 방지할 것”이라고 기대했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "강혜련 알레르기내과 교수는 “약물 부작용에 대한 신속한 대처는 효과적인 환자 치료에 필수 요소”라며 “개인별 과민반응 약제를 파악 해 부작용을 줄이고 치료 효과를 높일 수 있을 것”이라고 말했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "서울대병원은 2009년부터 약물유해반응 관리센터를 운영해 의도치 않은 임상반응을 관리해왔다. ‘지역의약품안전센터’로서 서울대병원뿐 아니라 서울권역의 약물부작용 사례 등을 수집했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이번 전문상담센터 개소는 이런 역할을 더욱 확대한 것이다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "약 먹고 난 두드러기... 이제 전문 상담실에 문의하세요",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

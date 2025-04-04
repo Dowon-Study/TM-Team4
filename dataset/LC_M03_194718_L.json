@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194718",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[Family리빙] 에듀테인먼트 1차 수상작 8편 선정",
+    "newsSubTitle": "",
+    "newsContent": "한국문화콘텐츠진흥원과 중앙일보가 교육적 효과와 오락적 재미를 동시에 추구하는 '에듀테인먼트'산업 활성화를 위해 공동으로 주최한 '2006 우수 에듀테인먼트콘텐츠 공모사업' 1차 분 수상작이 결정됐다.\n에듀테인먼트는 에듀케이션(교육)과 엔터테인먼트(오락)의 합성어. 디지털 문화산업 분야에서 그 중요성이 날로 커지고 있다.\n이번에 선정된 작품은 ▶노리스쿨(제작사 ㈜에브리교육)▶생각하는 아이 씨앗키즈(㈜씨아트)▶스몰포테이토시리즈(㈜유니메이션코리아)▶아리수한글탐정(㈜아리수미래사랑)▶아이들마당(㈜푸른하늘을 여는 사람들)▶에브리데이잉글리시(㈜지와이인텍)▶재미나라(한솔교육)▶Total Developmental 놀이학습 Genikids.com(㈜지니키즈.이상 가나다순) 등 8편이다.\n심사위원장을 맡은 이화여대 강명희 교수는 \\\"기획성.작품성.매출 및 수상실적 등을 토대로 교육적으로 타당한 내용이 실렸는지, 그리고 이를 얼마나 학습자의 동기유발과 몰입으로 유도할 수 있게 구현했는지 등을 12개 항목에 걸쳐 검토했다\\\"고 밝혔다.\n이번에 선정된 8편의 '에듀테인먼트 공모사업 1차 분 선정작'에 대한 소개는 24일부터 매주 수요일 중앙일보 패밀리 지면에 소개된다.\n2차 공모전은 6월 중 공지될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국문화콘텐츠진흥원과 중앙일보가 교육적 효과와 오락적 재미를 동시에 추구하는 '에듀테인먼트'산업 활성화를 위해 공동으로 주최한 '2006 우수 에듀테인먼트콘텐츠 공모사업' 1차 분 수상작이 결정됐다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "에듀테인먼트는 에듀케이션(교육)과 엔터테인먼트(오락)의 합성어. 디지털 문화산업 분야에서 그 중요성이 날로 커지고 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번에 선정된 작품은 ▶노리스쿨(제작사 ㈜에브리교육)▶생각하는 아이 씨앗키즈(㈜씨아트)▶스몰포테이토시리즈(㈜유니메이션코리아)▶아리수한글탐정(㈜아리수미래사랑)▶아이들마당(㈜푸른하늘을 여는 사람들)▶에브리데이잉글리시(㈜지와이인텍)▶재미나라(한솔교육)▶Total Developmental 놀이학습 Genikids.com(㈜지니키즈.이상 가나다순) 등 8편이다.",
+        "sentenceSize": 198
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "심사위원장을 맡은 이화여대 강명희 교수는 \\\"기획성.작품성.매출 및 수상실적 등을 토대로 교육적으로 타당한 내용이 실렸는지, 그리고 이를 얼마나 학습자의 동기유발과 몰입으로 유도할 수 있게 구현했는지 등을 12개 항목에 걸쳐 검토했다\\\"고 밝혔다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번에 선정된 8편의 '에듀테인먼트 공모사업 1차 분 선정작'에 대한 소개는 24일부터 매주 수요일 중앙일보 패밀리 지면에 소개된다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2차 공모전은 6월 중 공지될 예정이다.",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우수 에듀테인먼트 공모사업 1차 수상작 8편 선정... '에듀테인먼트'란?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

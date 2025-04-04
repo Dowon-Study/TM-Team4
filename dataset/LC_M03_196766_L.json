@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196766",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "분당서울대병원 모바일 헬스케어 심포지엄 성료",
+    "newsSubTitle": "",
+    "newsContent": "대한의료정보학회가 주최하고 분당서울대학교병원이 주관한 모바일 헬스 심포지엄이 지난 9월 30일 분당서울대학교병원 헬스케어혁신파크 대강당에서 개최됐다.\n보건복지부 이동욱 국장이 ‘우리나라 미래 산업의 새로운 성장 동력, 모바일 의료에 대한 정부차원에서의 발전전략 및 추진방향’에 대해 제안했다.\n이어 미국 샌디에고 스크립스 중개과학연구소 스타인 허블 박사가 ‘모바일 헬스가 미국 의료를 변모시킬 가능성’과 실제 사례 등에 대해 소개했다.\n허블 박사는 미국 내에서 정밀의료 코호트를 통한 실질적 의료 시스템의 변화 필요성, 환자 참여 및 의학적 근거마련 등을 동시에 강조했다.\n병원 현장에서의 모바일 헬스와 관련해 삼성서울병원 차원철 교수가 ‘EMR과 연계되는 공급자를 위한 모바일 서비스 및 사용자를 위한 모바일 서비스의 다양한 개발 경험을 통한 의료 품질 향상의 방향’을 설명했다.\n서울아산병원의 이재호 교수는 아산병원에서의 20개가 넘는 다양한 앱을 환자, 진료, 병원 연구라는 범주로 나누어 개발한 경험을 소개했다.\n분당서울대병원 황희 교수는 데스크탑 가상화 기술, 모바일 EMR 및 PACS 구축, 환자를 위한 베스트가이드 서비스 및 Health4U(개인건강기록) 앱 개발 등의 경험을 토대로 모바일 헬스서비스의 사례와 경험을 공유했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대한의료정보학회가 주최하고 분당서울대학교병원이 주관한 모바일 헬스 심포지엄이 지난 9월 30일 분당서울대학교병원 헬스케어혁신파크 대강당에서 개최됐다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보건복지부 이동욱 국장이 ‘우리나라 미래 산업의 새로운 성장 동력, 모바일 의료에 대한 정부차원에서의 발전전략 및 추진방향’에 대해 제안했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 미국 샌디에고 스크립스 중개과학연구소 스타인 허블 박사가 ‘모바일 헬스가 미국 의료를 변모시킬 가능성’과 실제 사례 등에 대해 소개했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "허블 박사는 미국 내에서 정밀의료 코호트를 통한 실질적 의료 시스템의 변화 필요성, 환자 참여 및 의학적 근거마련 등을 동시에 강조했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "병원 현장에서의 모바일 헬스와 관련해 삼성서울병원 차원철 교수가 ‘EMR과 연계되는 공급자를 위한 모바일 서비스 및 사용자를 위한 모바일 서비스의 다양한 개발 경험을 통한 의료 품질 향상의 방향’을 설명했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서울아산병원의 이재호 교수는 아산병원에서의 20개가 넘는 다양한 앱을 환자, 진료, 병원 연구라는 범주로 나누어 개발한 경험을 소개했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "분당서울대병원 황희 교수는 데스크탑 가상화 기술, 모바일 EMR 및 PACS 구축, 환자를 위한 베스트가이드 서비스 및 Health4U(개인건강기록) 앱 개발 등의 경험을 토대로 모바일 헬스서비스의 사례와 경험을 공유했다.",
+        "sentenceSize": 124
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "분당서울대병원 '모바일 헬스 심포지엄' 완벽한 마무리... 의료계에 막대한 영향 끼친다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

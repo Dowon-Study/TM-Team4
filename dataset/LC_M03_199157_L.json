@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199157",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 대한구강보건협회 신승철 회장의 조언 \\\"매일 1회 틀니 세정·매년 2회 치과 검진\\\"",
+    "newsSubTitle": "",
+    "newsContent": "7월부터 틀니 보험 적용 대상이 만 65세 이상으로 확대된다.\n틀니 관리의 중요성이 강조되는 이유다.\n대한구강보건협회 신승철 회장에게 올바른 틀니 관리법을 알아봤다.\nQ : 틀니를 잘못 관리하는 경우가 많나.\nA : “3명 중 1명은 올바른 관리법을 교육받지 못하는 실정이다. 치약으로 틀니를 닦는 사람의 70% 정도는 이 방법을 당연하다고 여긴다. 틀니는 자연치와 별개의 방법으로 관리해야 한다. 인식 개선이 필요하다는 생각에 협회 차원에서 틀니 관련 행사를 마련했다.” Q : 올바른 틀니 세정법을 알려준다면. A : “1일 1회 틀니 전용 세정제로 살균해야 한다. 냄새를 없애고 플라크나 틀니 표면의 얼룩도 제거할 수 있다. 틀니를 다시 낄 땐 흐르는 물에 씻고 틀니 전용 칫솔로 닦는다. 틀니 종류(부분·전체)에 맞춰 사용하는 게 좋다.” Q : 틀니로 인한 통증은 자연스러운 것인가.\nA : “치아와 잇몸은 인체에서 가장 예민한 부분이다. 적어도 석 달은 훈련을 거쳐 입안에 굳은살이 박여야 한다. 잘 맞던 틀니도 오래 쓰면 덜그럭거린다. 잇몸에 잘 붙도록 접착제를 쓰고, 6개월에 한 번은 치과를 찾아 틀니를 조정받는 게 좋다.”",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "7월부터 틀니 보험 적용 대상이 만 65세 이상으로 확대된다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "틀니 관리의 중요성이 강조되는 이유다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대한구강보건협회 신승철 회장에게 올바른 틀니 관리법을 알아봤다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "Q : 틀니를 잘못 관리하는 경우가 많나.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "A : “3명 중 1명은 올바른 관리법을 교육받지 못하는 실정이다. 치약으로 틀니를 닦는 사람의 70% 정도는 이 방법을 당연하다고 여긴다. 틀니는 자연치와 별개의 방법으로 관리해야 한다. 인식 개선이 필요하다는 생각에 협회 차원에서 틀니 관련 행사를 마련했다.” Q : 올바른 틀니 세정법을 알려준다면. A : “1일 1회 틀니 전용 세정제로 살균해야 한다. 냄새를 없애고 플라크나 틀니 표면의 얼룩도 제거할 수 있다. 틀니를 다시 낄 땐 흐르는 물에 씻고 틀니 전용 칫솔로 닦는다. 틀니 종류(부분·전체)에 맞춰 사용하는 게 좋다.” Q : 틀니로 인한 통증은 자연스러운 것인가.",
+        "sentenceSize": 326
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "A : “치아와 잇몸은 인체에서 가장 예민한 부분이다. 적어도 석 달은 훈련을 거쳐 입안에 굳은살이 박여야 한다. 잘 맞던 틀니도 오래 쓰면 덜그럭거린다. 잇몸에 잘 붙도록 접착제를 쓰고, 6개월에 한 번은 치과를 찾아 틀니를 조정받는 게 좋다.”",
+        "sentenceSize": 138
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "7월부터 틀니 보험과 관련해 '이것' 확대된다...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

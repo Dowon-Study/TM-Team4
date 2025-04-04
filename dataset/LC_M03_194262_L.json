@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194262",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK책갈피] 지구온난화의 공포는 과장됐다",
+    "newsSubTitle": "",
+    "newsContent": "쿨잇 비외른 롬보르 지음 김기응 옮김, 살림 328쪽, 14,000원 2006년 4월 시사주간지 타임 표지에 북극곰의 애처로운 사진이 실렸다.\n녹고 있는 얼음 조각 위에서 다른 얼음 조각을 물끄러미 바라보는 사진이었다.\n타임은 “지구온난화는 더 이상 모호하지 않다”며 “이미 지구에 피해를 주고 있다”고 설명했다.\n미국 전 부통령 앨 고어도 “익사한 북극곰의 개체 수가 상당하다”고 주장한다.\n세계야생동물기금에서는 “2020년쯤이면 북극곰이 멸종될 수도 있다”고 경고한다.\n하지만 ‘회의적 환경주의자’ 비외른 롬보르의 생각은 다르다.\n그는 통계를 들여다보고 차분히 말한다. “진정해(Cool it).” 그 동안의 연구 결과를 들여다보면 북극곰 무리 20개 중 숫자가 줄어든 무리는 한두 개에 불과하다.\n나머지는 숫자가 안정적이었고, 늘어난 무리도 있다.\n숫자가 늘어난 두 무리는 기온이 올라가는 지역에 살았고, 줄어든 무리 둘은 기온이 떨어지고 있는 지역에 살았다.\n게다가 북극곰이 줄어든다 해도 그건 지구온난화보다 사냥 때문이었다.\n이 책에 담긴 롬보르의 주장은 간단하다. “지구온난화는 실제로 일어나고 인간이 일으켰지만 그 결과는 과장됐으며 값 비싸고 효과 없는 이산화탄소 감축 정책보다 기아·가난 등 당면과제를 해결하는 편이 낫다”는 것이다.\n그는 “궁극적인 목표는 지구온난화를 막는 그 자체보다 삶의 질과 환경을 개선시키는 것”이라고 강조한다.\n그는 대부분의 문제를 비용과 편익의 경제적 관점에서 되짚고 있다.\n교토의정서가 제시하는 온실가스 감축 대책도 그렇다.\n롬보르는 “모든 나라가 이 협약을 지킨다 해도 결과는 미미하다”고 말한다.\n기온상승 예상시점이 2100년에서 겨우 5년 미뤄질 뿐이라는 것이다.\n그는 대안으로 탄소세 부과와 에너지 기술 투자를 든다.\n개도국은 경제성장을 통해 미래의 재앙을 예방할 수 있다고 한다.\n롬보르는 책 분량의 3분의 1을 주장의 근거를 밝히는 주석에 할애했으나 그 자료를 근거로 ‘추정’한 것이 꽤 있는 게 아쉽다.\n물론 그 정도는 여느 보고서에도 있기에 이 비판은 꼼꼼한 작자에 대한 예의라 해 두자.\n우리는 외국에 비해 지구온난화에 대한 논쟁이 뜸하다.\n차갑고도 뜨거운 논쟁이 불붙기를 기대해 본다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "쿨잇 비외른 롬보르 지음 김기응 옮김, 살림 328쪽, 14,000원 2006년 4월 시사주간지 타임 표지에 북극곰의 애처로운 사진이 실렸다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "녹고 있는 얼음 조각 위에서 다른 얼음 조각을 물끄러미 바라보는 사진이었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "타임은 “지구온난화는 더 이상 모호하지 않다”며 “이미 지구에 피해를 주고 있다”고 설명했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미국 전 부통령 앨 고어도 “익사한 북극곰의 개체 수가 상당하다”고 주장한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세계야생동물기금에서는 “2020년쯤이면 북극곰이 멸종될 수도 있다”고 경고한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 ‘회의적 환경주의자’ 비외른 롬보르의 생각은 다르다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 통계를 들여다보고 차분히 말한다. “진정해(Cool it).” 그 동안의 연구 결과를 들여다보면 북극곰 무리 20개 중 숫자가 줄어든 무리는 한두 개에 불과하다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "나머지는 숫자가 안정적이었고, 늘어난 무리도 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "숫자가 늘어난 두 무리는 기온이 올라가는 지역에 살았고, 줄어든 무리 둘은 기온이 떨어지고 있는 지역에 살았다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "게다가 북극곰이 줄어든다 해도 그건 지구온난화보다 사냥 때문이었다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 책에 담긴 롬보르의 주장은 간단하다. “지구온난화는 실제로 일어나고 인간이 일으켰지만 그 결과는 과장됐으며 값 비싸고 효과 없는 이산화탄소 감축 정책보다 기아·가난 등 당면과제를 해결하는 편이 낫다”는 것이다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그는 “궁극적인 목표는 지구온난화를 막는 그 자체보다 삶의 질과 환경을 개선시키는 것”이라고 강조한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그는 대부분의 문제를 비용과 편익의 경제적 관점에서 되짚고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "교토의정서가 제시하는 온실가스 감축 대책도 그렇다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "롬보르는 “모든 나라가 이 협약을 지킨다 해도 결과는 미미하다”고 말한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "기온상승 예상시점이 2100년에서 겨우 5년 미뤄질 뿐이라는 것이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "그는 대안으로 탄소세 부과와 에너지 기술 투자를 든다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "개도국은 경제성장을 통해 미래의 재앙을 예방할 수 있다고 한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "롬보르는 책 분량의 3분의 1을 주장의 근거를 밝히는 주석에 할애했으나 그 자료를 근거로 ‘추정’한 것이 꽤 있는 게 아쉽다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "물론 그 정도는 여느 보고서에도 있기에 이 비판은 꼼꼼한 작자에 대한 예의라 해 두자.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "우리는 외국에 비해 지구온난화에 대한 논쟁이 뜸하다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "차갑고도 뜨거운 논쟁이 불붙기를 기대해 본다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이미 지구온난화는 시작됐다... 북극곰 멸종 위기는 정말 온난화 때문?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

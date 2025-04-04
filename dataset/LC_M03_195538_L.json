@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195538",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "비행기만 타면 잦은방귀…해결방법 있다",
+    "newsSubTitle": "",
+    "newsContent": "5월 황금연휴가 다가오면서 상당수 여행객이 해외여행을 계획하고 있다.\n배를 이용한 크루즈 여행이 아니라면 대부분의 해외여행객은 비행기를 이용한다.\n비행기를 이용한 해외여행은 최소 2시간부터 최대 10시간 이상까지 거리에 따라 다양하다.\n비행시간이 길어지면 그에 따르는 다양한 생리적 현상도 해결해야 한다.\n그중에서 가장 큰 생리 현상의 변화는 방귀다.\n비행기를 타면 평소보다 방귀가 자주 나온다.\n비행기로 여행하는 많은 사람은 방귀를 뀌고 싶은 욕구가 증가하거나 복부에 팽만감을 느낀다고 한다.\n최근 미국 매체 뉴스픽스는 비행기 탑승 시 방귀가 잦아지는 과학적인 이유를 소개했다.\n보통 비행기의 비행 고도는 해발 1830m에서 2440m 사이로, 비행기가 고도에 오르면 지면보다 기압이 낮아지게 된다.\n바깥에서 누르는 압력 즉 기압이 낮아지면 몸속의 것들은 더 부풀어 오르려고 하기 때문이다.\n복부에 있는 가스도 기압이 낮아지면 팽창한다.\n사실상 우리 몸이 그 가스를 밖으로 내보낼 통로는 항문밖에 없다.\n그러니 방귀가 자주 나오는 이유다.\n이러한 현상은 특히 조종사들에게는 심각한 문제다.\n영국 BBC 방송에서 조사한 바에 따르면 조종사들의 60%가 정기적인 복부팽창 문제를 갖고 있었다.\nNASA는 우주비행사의 복부팽창(으로 인한 방귀)이 치명적인 문제가 될 거라고 생각했다.\n갇혀 있는 공간에 가스를 계속 내보내면 쌓일 수밖에 없기 때문이다. 고 농축된 방귀 가스는 폭발력이 있습니다.\n실제로 1969년 우주선에서 비행사들의 (방귀로 추측되는) 고밀도 가스 때문에 불덩이가 발생했다는 기록이 있습니다.\n과학자들은 이러한 현상을 ‘고고도 가스 분출(HAFE:High Altitude Flatus Expulsion)’이라고 하며 해발 고도가 높은 산에 올랐을 때 방귀가 잦아지는 것과 같은 맥락이라고 설명한다.\n이에 대해 코펜하겐 대학교 내과 전문의들은 “기내 기압과 지상 기압이 다르기 때문에 평소보다 복부에 불편함을 느낄 수 있다. 이는 지극히 자연스러운 현상”이라고 설명했다.\n이어 “방귀를 줄이고 싶다면 기내에서 물을 많이 마시고 짜거나 기름진 음식은 피하는 것이 좋다”고 조언했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "5월 황금연휴가 다가오면서 상당수 여행객이 해외여행을 계획하고 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "배를 이용한 크루즈 여행이 아니라면 대부분의 해외여행객은 비행기를 이용한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "비행기를 이용한 해외여행은 최소 2시간부터 최대 10시간 이상까지 거리에 따라 다양하다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "비행시간이 길어지면 그에 따르는 다양한 생리적 현상도 해결해야 한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그중에서 가장 큰 생리 현상의 변화는 방귀다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "비행기를 타면 평소보다 방귀가 자주 나온다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "비행기로 여행하는 많은 사람은 방귀를 뀌고 싶은 욕구가 증가하거나 복부에 팽만감을 느낀다고 한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최근 미국 매체 뉴스픽스는 비행기 탑승 시 방귀가 잦아지는 과학적인 이유를 소개했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "보통 비행기의 비행 고도는 해발 1830m에서 2440m 사이로, 비행기가 고도에 오르면 지면보다 기압이 낮아지게 된다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "바깥에서 누르는 압력 즉 기압이 낮아지면 몸속의 것들은 더 부풀어 오르려고 하기 때문이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "복부에 있는 가스도 기압이 낮아지면 팽창한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "사실상 우리 몸이 그 가스를 밖으로 내보낼 통로는 항문밖에 없다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그러니 방귀가 자주 나오는 이유다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이러한 현상은 특히 조종사들에게는 심각한 문제다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "영국 BBC 방송에서 조사한 바에 따르면 조종사들의 60%가 정기적인 복부팽창 문제를 갖고 있었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "NASA는 우주비행사의 복부팽창(으로 인한 방귀)이 치명적인 문제가 될 거라고 생각했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "갇혀 있는 공간에 가스를 계속 내보내면 쌓일 수밖에 없기 때문이다. 고 농축된 방귀 가스는 폭발력이 있습니다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "실제로 1969년 우주선에서 비행사들의 (방귀로 추측되는) 고밀도 가스 때문에 불덩이가 발생했다는 기록이 있습니다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "과학자들은 이러한 현상을 ‘고고도 가스 분출(HAFE:High Altitude Flatus Expulsion)’이라고 하며 해발 고도가 높은 산에 올랐을 때 방귀가 잦아지는 것과 같은 맥락이라고 설명한다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "이에 대해 코펜하겐 대학교 내과 전문의들은 “기내 기압과 지상 기압이 다르기 때문에 평소보다 복부에 불편함을 느낄 수 있다. 이는 지극히 자연스러운 현상”이라고 설명했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "이어 “방귀를 줄이고 싶다면 기내에서 물을 많이 마시고 짜거나 기름진 음식은 피하는 것이 좋다”고 조언했다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비행기만 타면 잦은방귀... 원인과 해결책은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

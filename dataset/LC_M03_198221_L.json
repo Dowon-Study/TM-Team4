@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198221",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "\\\"친사촌보다 이종 사촌이 더 가깝게 느껴져\\\"",
+    "newsSubTitle": "",
+    "newsContent": "사람들은 아버지 쪽보다는 어머니 쪽 사촌에 더 친밀감을 느낀다는 연구가 나왔다고 가디언지 인터넷판이 최근 보도했다.\n가디언지는 미국 텍사스 주립대학에서 진화심리학 연구로 박사과정을 밟고 있는 전정환씨가 여러 종류의 사촌 가운데 이종 사촌에게 가장 친밀함을 느낀다는 결과를 발표했다고 밝혔다.\n18~27세의 대학생 95명을 상대로 한 이 실험의 연구보고서는 영국 과학원 회보 '프로시딩스 B '최신호에 발표됐다.\n전씨는 실험 대상자들에게 사촌들과의 혈연관계와 이들과의 나이 차, 접촉 빈도, 거주지 간 거리 등 다양한 요소를 확인한 뒤 이들이 사는 집에 불이 났을 경우 구하기 위해 뛰어들 마음이 얼마나 있는지를 물었다.\n그 결과 위험을 무릅쓰고 구하겠다는 사촌의 순위는 이종사촌이 1위, 외사촌이 2위, 고종사촌이 3위, 친사촌이 4위로 나타났다.\n전씨는 이런 현상이 '부성(父性) 불확실성'에 따른 것이라고 분석했다.\n어머니는 자기가 낳은 아이가 자기 자식이라는 점을 100% 확신하지만 아버지는 반드시 그렇지만은 않다는 것이다.\n전씨는 \\\"우리의 연구 결과는 인간이 부계 불확실성의 다양한 연결고리에 따라 차별적으로 이타적 행동을 하는 쪽으로 진화했을 것이라는 가설을 뒷받침한다\\\"고 말했다. [연합뉴스]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "사람들은 아버지 쪽보다는 어머니 쪽 사촌에 더 친밀감을 느낀다는 연구가 나왔다고 가디언지 인터넷판이 최근 보도했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "가디언지는 미국 텍사스 주립대학에서 진화심리학 연구로 박사과정을 밟고 있는 전정환씨가 여러 종류의 사촌 가운데 이종 사촌에게 가장 친밀함을 느낀다는 결과를 발표했다고 밝혔다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "18~27세의 대학생 95명을 상대로 한 이 실험의 연구보고서는 영국 과학원 회보 '프로시딩스 B '최신호에 발표됐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전씨는 실험 대상자들에게 사촌들과의 혈연관계와 이들과의 나이 차, 접촉 빈도, 거주지 간 거리 등 다양한 요소를 확인한 뒤 이들이 사는 집에 불이 났을 경우 구하기 위해 뛰어들 마음이 얼마나 있는지를 물었다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 결과 위험을 무릅쓰고 구하겠다는 사촌의 순위는 이종사촌이 1위, 외사촌이 2위, 고종사촌이 3위, 친사촌이 4위로 나타났다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전씨는 이런 현상이 '부성(父性) 불확실성'에 따른 것이라고 분석했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "어머니는 자기가 낳은 아이가 자기 자식이라는 점을 100% 확신하지만 아버지는 반드시 그렇지만은 않다는 것이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "전씨는 \\\"우리의 연구 결과는 인간이 부계 불확실성의 다양한 연결고리에 따라 차별적으로 이타적 행동을 하는 쪽으로 진화했을 것이라는 가설을 뒷받침한다\\\"고 말했다. [연합뉴스]",
+        "sentenceSize": 98
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대부분 사람들 친사촌보다 '이 사람'에 더 친밀함 느낀다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

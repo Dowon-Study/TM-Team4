@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194629",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "'채식, 기억력 높이네' 시카고 지역주민 6년 조사",
+    "newsSubTitle": "",
+    "newsContent": "채식을 많이 하는 사람이 그렇지 않은 사람보다 나이가 들어도 기억력이 훨씬 좋은 것으로 나타났다.\n또 시금치 양배추 콜라드 등 푸른 잎사귀를 가진 채소가 비타민E를 다량으로 함유한 것으로 조사됐다.\n이 연구는 2000여명의 시카고 남녀 지역주민을 대상으로 6년간에 걸쳐 실시됐다.\n연구결과 매일 푸른 채소를 보통사람보다 두배 이상 섭취한 사람들은 그렇지 않은 사람보다 정신력과 기억력이 5년정도 젊은 것으로 나타났다.\n이 연구에는 65세 이상된 1946명의 노인들이 식습관 설문조사에 응하기도 했다.\n이 연구를 이끈 시카고 루스대학의 마르사 클래어 모리스는 \\\"채소를 먹을 때 함께 섭취하는 살라드 오일이 비타민E와 다른 산화방지제를 흡수해 몸에 도움을 준다\\\"고 강조했다.\n발표된 연구보고서는 이번주 저널 뉴롤리지에 게재됐다.\n하버드대학 공공보건학과의 마이어 스탬퍼 교수는 \\\"이러한 건전한 보고서가 건강에 대한 인식변화에 긍정적인 역할을 한다\\\"고 강조했다. [미주중앙]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "채식을 많이 하는 사람이 그렇지 않은 사람보다 나이가 들어도 기억력이 훨씬 좋은 것으로 나타났다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "또 시금치 양배추 콜라드 등 푸른 잎사귀를 가진 채소가 비타민E를 다량으로 함유한 것으로 조사됐다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 연구는 2000여명의 시카고 남녀 지역주민을 대상으로 6년간에 걸쳐 실시됐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연구결과 매일 푸른 채소를 보통사람보다 두배 이상 섭취한 사람들은 그렇지 않은 사람보다 정신력과 기억력이 5년정도 젊은 것으로 나타났다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 연구에는 65세 이상된 1946명의 노인들이 식습관 설문조사에 응하기도 했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 연구를 이끈 시카고 루스대학의 마르사 클래어 모리스는 \\\"채소를 먹을 때 함께 섭취하는 살라드 오일이 비타민E와 다른 산화방지제를 흡수해 몸에 도움을 준다\\\"고 강조했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "발표된 연구보고서는 이번주 저널 뉴롤리지에 게재됐다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하버드대학 공공보건학과의 마이어 스탬퍼 교수는 \\\"이러한 건전한 보고서가 건강에 대한 인식변화에 긍정적인 역할을 한다\\\"고 강조했다. [미주중앙]",
+        "sentenceSize": 81
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "시카고 지역주민 6년 연구... 채식이 우리 몸에 주는 영향은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

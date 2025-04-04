@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196374",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "“한국, 의료체계는 선진국 서비스는 후진국”",
+    "newsSubTitle": "부가가치 미국의 절반 수준···의료체계는 ‘선진국 수준’",
+    "newsContent": "우리나라의 의료체계는 선진국 수진이지만 의료서비스 경쟁력은 선진국에 비해 크게 못미친다는 지적이 나왔다.\n한국은행 산업분석팀 이병희 과장은 최근 대한의사협회가 주최한 ‘의료서비스산업에 대한 평가와 정책적 시사점’ 전문가 초청강연회에서 국내 의료서비스산업의 부가가치가 매우 낮다고 밝혔다.\n그는 “국내 의료서비스산업의 명목부가가치는 2007년 기준 25조원으로 명목GDP(기초가격 기준)의 3.2% 수준”이라고 설명했다.\n주요선진국의 의료서비스산업 비중은 GDP의 5~6%다.\n특히 미국은 영리법인 허용, 민영의료보험 도입으로 의료비 지출이 많아 6%를 상회한다.\n의료서비스산업의 노동생산성인 종사자 1인당 실질 GDP는 2006년중 2530만원으로 전산업 평균 4380만원보다 낮았다.\n이 과장은 “진입장벽이 높은 대표적 내수산업으로 경쟁유인이 낮은데다 의료서비스의 공공성 강화로 서비스가격이 통제된 탓”이라고 설명했다.\n의료서비스산업의 기술경쟁력은 2004년 기준 미국의 76%, 일본의 85%, 유럽의 87% 수준이며 가격경쟁력은 높은 편으로 나타났다.\n그러나 인도나 태국처럼 의료관광 활성화로 이어지지 못해 외화유출이 심각한 것으로 나타났다.\n의료 분야에서 해외로 유출된 금액은 2007년 현재 1억330만달러로 국내 외국인 환자 유입 소득인 6100만 달러의 2.2배 수준에 달했다.\n의료서비스 수지 적자도 2007년 7150만 달러로 2006년 6000만 달러보다 19% 증가했다.\n의료서비스 발전을 위한 임상시험 경쟁력도 선진국의 5~30%에 불과한 것으로 나타났다.\n그러나 이병희 과장은 국민의료체계는 OECD 24개국중 5위로 매우 높은 편이며 ‘선진국 수준의 안정화 단계’라고 설명했다.\n그는 “국민건강보험제도 도입에 따른 의료보장 범위의 확대, 의료기술 수준 향상 등으로 국민의 의료기관 접근성과 의료서비스의 형평성 개선이 의료비 지출에 비해 높은 서비스 혜택과 평균기대수명 연장 등의 결과로 나타났다”고 말했다. 【헬스코리아뉴스】",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우리나라의 의료체계는 선진국 수진이지만 의료서비스 경쟁력은 선진국에 비해 크게 못미친다는 지적이 나왔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국은행 산업분석팀 이병희 과장은 최근 대한의사협회가 주최한 ‘의료서비스산업에 대한 평가와 정책적 시사점’ 전문가 초청강연회에서 국내 의료서비스산업의 부가가치가 매우 낮다고 밝혔다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 “국내 의료서비스산업의 명목부가가치는 2007년 기준 25조원으로 명목GDP(기초가격 기준)의 3.2% 수준”이라고 설명했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "주요선진국의 의료서비스산업 비중은 GDP의 5~6%다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 미국은 영리법인 허용, 민영의료보험 도입으로 의료비 지출이 많아 6%를 상회한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "의료서비스산업의 노동생산성인 종사자 1인당 실질 GDP는 2006년중 2530만원으로 전산업 평균 4380만원보다 낮았다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 과장은 “진입장벽이 높은 대표적 내수산업으로 경쟁유인이 낮은데다 의료서비스의 공공성 강화로 서비스가격이 통제된 탓”이라고 설명했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "의료서비스산업의 기술경쟁력은 2004년 기준 미국의 76%, 일본의 85%, 유럽의 87% 수준이며 가격경쟁력은 높은 편으로 나타났다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그러나 인도나 태국처럼 의료관광 활성화로 이어지지 못해 외화유출이 심각한 것으로 나타났다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "의료 분야에서 해외로 유출된 금액은 2007년 현재 1억330만달러로 국내 외국인 환자 유입 소득인 6100만 달러의 2.2배 수준에 달했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "의료서비스 수지 적자도 2007년 7150만 달러로 2006년 6000만 달러보다 19% 증가했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "의료서비스 발전을 위한 임상시험 경쟁력도 선진국의 5~30%에 불과한 것으로 나타났다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그러나 이병희 과장은 국민의료체계는 OECD 24개국중 5위로 매우 높은 편이며 ‘선진국 수준의 안정화 단계’라고 설명했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그는 “국민건강보험제도 도입에 따른 의료보장 범위의 확대, 의료기술 수준 향상 등으로 국민의 의료기관 접근성과 의료서비스의 형평성 개선이 의료비 지출에 비해 높은 서비스 혜택과 평균기대수명 연장 등의 결과로 나타났다”고 말했다. 【헬스코리아뉴스】",
+        "sentenceSize": 137
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "의료체계 선진국 수준이면 뭐하나, 서비스는 형편없는 한국",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

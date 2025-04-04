@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194733",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"똑바로 눕혀 아기 재우세요\\\" 미국, 돌연사 방지 계몽",
+    "newsSubTitle": "",
+    "newsContent": "'이쪽을 위로(This side up)'라는 문구가 쓰인 유아복을 입은 갓난아이들이 똑바로 누워 있다.\n29일 미국 버지니아주 리치먼드의 어린이박물관에서 열린 이 행사는 영아들의 돌연사를 막기 위한 것이다. [리치먼드 AP=연합뉴스] 미국에서 아기를 엎드려 재우기 시작한 것은 1930년대부터다.\n아기가 엎드려 자면 심폐 기능이 강화되고, 머리 모양이 예뻐진다는 것이 이유였다.\n또 일부 엄마들은 우유 토하는 것을 막을 수 있고, 운동신경이 발달한다는 주장도 한다.\n그러나 영아돌연사증후군(Sudden Infant Death Syndrome.SIDS)으로 미국 안에서 매년 6000여 명의 아기가 숨지자 미국 정부와 소아과학회가 나서 아기를 똑바로 재울 것을 계몽하고 나섰다.\n돌연사한 아기들은 대부분 1세 미만이며, 그중에서도 6개월 미만이 80%를 차지한다.\n특히 생후 2~3개월 아기에게서 발생빈도가 높다.\n똑바로 누이더라도 아기의 머리 부분엔 푹신한 베개나 이불을 피하고, 수건 같은 것으로 덮어놓는 것은 위험하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'이쪽을 위로(This side up)'라는 문구가 쓰인 유아복을 입은 갓난아이들이 똑바로 누워 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 미국 버지니아주 리치먼드의 어린이박물관에서 열린 이 행사는 영아들의 돌연사를 막기 위한 것이다. [리치먼드 AP=연합뉴스] 미국에서 아기를 엎드려 재우기 시작한 것은 1930년대부터다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아기가 엎드려 자면 심폐 기능이 강화되고, 머리 모양이 예뻐진다는 것이 이유였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 일부 엄마들은 우유 토하는 것을 막을 수 있고, 운동신경이 발달한다는 주장도 한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 영아돌연사증후군(Sudden Infant Death Syndrome.SIDS)으로 미국 안에서 매년 6000여 명의 아기가 숨지자 미국 정부와 소아과학회가 나서 아기를 똑바로 재울 것을 계몽하고 나섰다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "돌연사한 아기들은 대부분 1세 미만이며, 그중에서도 6개월 미만이 80%를 차지한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 생후 2~3개월 아기에게서 발생빈도가 높다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "똑바로 누이더라도 아기의 머리 부분엔 푹신한 베개나 이불을 피하고, 수건 같은 것으로 덮어놓는 것은 위험하다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "매년 6000여 명 아기 목숨 앗아간 '영아돌연사증후군'... 미국이 내놓은 대책은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

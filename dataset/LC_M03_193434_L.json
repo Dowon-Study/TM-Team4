@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193434",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"조류독감 위험성 과장 말라\\\"",
+    "newsSubTitle": "WHO, 치료제 타미플루 사재기에 경고",
+    "newsContent": "세계보건기구(WHO)가 17일 조류독감과 관련, 위험성을 과장하는 유언비어를 퍼뜨리지 말라고 경고했다고 AFP 통신.BBC 방송 등이 전했다.\nWHO 전염병 담당 부서의 마이클 라이언 국장은 \\\"죽거나 병든 조류와는 가급적 접촉하지 않는 것이 좋다. 그러나 특정 조류의 사인을 모두 조류독감과 연결 짓는 것은 무리가 있다\\\"고 지적했다.\nWHO는 치료제인 타미플루를 사재기하려는 일부 국가의 움직임에 대해서도 한마디 했다.\nWHO는 \\\"현 단계에서 개인적으로 타미플루를 미리 확보할 필요는 없다. 타미플루는 예방용 백신이 아니라 증상을 완화시키는 약일 뿐\\\"이라고 언급했다.\n타미플루와 관련, 로이터 통신 등은 18일 특허를 갖고 독점 생산하고 있는 스위스 제약회사 로슈에 특허권을 포기하라는 국제적 압력이 높아지고 있다고 전했다.\n사람 간에도 조류독감이 전염될 경우 로슈만의 생산으로는 수요를 감당할 수 없을 것이라는 우려에서다.\n대만 정부 관계자는 최근 \\\"특허권 문제만 해결된다면 두 달 내로 바로 타미플루를 제조할 수 있다\\\"고 주장했다.\n인도 제약회사 시플라도 연내 저가의 항바이러스제를 생산할 예정이라고 밝혔다.\n찰스 슈머 미국 상원의원(민주당)도 이날 \\\"문제는 약값이 아니라 공급 부족\\\"이라며 \\\"다른 제약사들도 타미플루를 생산할 수 있게 해야 한다\\\"고 주장했다.\n그러나 로슈사는 \\\"타미플루는 제조 과정이 매우 복잡해 지금부터 제조에 들어간다고 해도 출시까지 3년은 걸린다\\\"며 특허권을 포기할 생각이 없다는 입장을 밝혔다.\n이런 가운데 조류독감은 아시아를 넘어 유럽으로 번질 조짐을 보이고 있다.\n그리스 정부는 17일 에게해 키오스섬의 칠면조 농장에서 조류독감이 발생했다고 발표했다.\n유럽연합(EU)에서는 첫 발생이다.\n아시아에서 유행 중인 H5N1 바이러스와 같은 종류인지는 아직 확인되지 않았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세계보건기구(WHO)가 17일 조류독감과 관련, 위험성을 과장하는 유언비어를 퍼뜨리지 말라고 경고했다고 AFP 통신.BBC 방송 등이 전했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "WHO 전염병 담당 부서의 마이클 라이언 국장은 \\\"죽거나 병든 조류와는 가급적 접촉하지 않는 것이 좋다. 그러나 특정 조류의 사인을 모두 조류독감과 연결 짓는 것은 무리가 있다\\\"고 지적했다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "WHO는 치료제인 타미플루를 사재기하려는 일부 국가의 움직임에 대해서도 한마디 했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "WHO는 \\\"현 단계에서 개인적으로 타미플루를 미리 확보할 필요는 없다. 타미플루는 예방용 백신이 아니라 증상을 완화시키는 약일 뿐\\\"이라고 언급했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "타미플루와 관련, 로이터 통신 등은 18일 특허를 갖고 독점 생산하고 있는 스위스 제약회사 로슈에 특허권을 포기하라는 국제적 압력이 높아지고 있다고 전했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사람 간에도 조류독감이 전염될 경우 로슈만의 생산으로는 수요를 감당할 수 없을 것이라는 우려에서다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "대만 정부 관계자는 최근 \\\"특허권 문제만 해결된다면 두 달 내로 바로 타미플루를 제조할 수 있다\\\"고 주장했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "인도 제약회사 시플라도 연내 저가의 항바이러스제를 생산할 예정이라고 밝혔다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "찰스 슈머 미국 상원의원(민주당)도 이날 \\\"문제는 약값이 아니라 공급 부족\\\"이라며 \\\"다른 제약사들도 타미플루를 생산할 수 있게 해야 한다\\\"고 주장했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그러나 로슈사는 \\\"타미플루는 제조 과정이 매우 복잡해 지금부터 제조에 들어간다고 해도 출시까지 3년은 걸린다\\\"며 특허권을 포기할 생각이 없다는 입장을 밝혔다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이런 가운데 조류독감은 아시아를 넘어 유럽으로 번질 조짐을 보이고 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그리스 정부는 17일 에게해 키오스섬의 칠면조 농장에서 조류독감이 발생했다고 발표했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "유럽연합(EU)에서는 첫 발생이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "아시아에서 유행 중인 H5N1 바이러스와 같은 종류인지는 아직 확인되지 않았다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "WHO의 경고… 조류독감 위험성 뇌절 금지",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

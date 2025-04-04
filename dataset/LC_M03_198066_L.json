@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198066",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "서마지·매트릭스 … 주름 비수술 요법 속속",
+    "newsSubTitle": "",
+    "newsContent": "주름은 왜 생길까.\n첫째 이유는 세월, 즉 노화다.\n둘째 이유는 표정 등 얼굴 근육의 잦은 사용. 피부가 운동을 과하게 하면 종국엔 근육이 힘을 잃어 주름이 생긴다는 것이다.\n셋째는 태양의 자외선이다.\n지속적으로 자외선을 받으면 진피의 탄력섬유가 줄어 주름이 생긴다.\n이것이 이른바 광(光)노화다.\n주름이 얼굴·목·팔 등에 잘 생기는 것은 이래서다.\n또 바람·열·담배·스트레스 등도 주름을 유발한다.\n강동성심병원 피부과 김상석 교수는 “담배는 피부에 산소 공급을 방해하고, 피부 표면을 건조하게 해 주름을 촉발한다”며 “흡연량·흡연 기간에 비례해 주름이 더 많이 생기며, 특히 여성의 흡연은 주름 발생과 관련이 많다”고 설명했다.\n주름 치료도 진화하고 있다.\n과거엔 수술·화학적 박피를 주로 했지만 요즘은 보톡스·서마지·리펌·매트릭스 등 수술 없는 주름 치료가 활발하다.\n아름다운나라 피부과·성형외과 서동혜 원장은 “서마지는 주름에 고주파 열을 가하는 것으로 최근엔 피부 탄력을 되살리는 리펌 시술을 함께한다”고 소개했다.\n매트릭스는 주로 눈가의 잔주름에 적용된다.\n눈가 피부에도 안전하게 사용할 수 있으며, 덤으로 모공까지 줄여주는 장점이 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "주름은 왜 생길까.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "첫째 이유는 세월, 즉 노화다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "둘째 이유는 표정 등 얼굴 근육의 잦은 사용. 피부가 운동을 과하게 하면 종국엔 근육이 힘을 잃어 주름이 생긴다는 것이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "셋째는 태양의 자외선이다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지속적으로 자외선을 받으면 진피의 탄력섬유가 줄어 주름이 생긴다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이것이 이른바 광(光)노화다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "주름이 얼굴·목·팔 등에 잘 생기는 것은 이래서다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 바람·열·담배·스트레스 등도 주름을 유발한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "강동성심병원 피부과 김상석 교수는 “담배는 피부에 산소 공급을 방해하고, 피부 표면을 건조하게 해 주름을 촉발한다”며 “흡연량·흡연 기간에 비례해 주름이 더 많이 생기며, 특히 여성의 흡연은 주름 발생과 관련이 많다”고 설명했다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "주름 치료도 진화하고 있다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "과거엔 수술·화학적 박피를 주로 했지만 요즘은 보톡스·서마지·리펌·매트릭스 등 수술 없는 주름 치료가 활발하다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "아름다운나라 피부과·성형외과 서동혜 원장은 “서마지는 주름에 고주파 열을 가하는 것으로 최근엔 피부 탄력을 되살리는 리펌 시술을 함께한다”고 소개했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "매트릭스는 주로 눈가의 잔주름에 적용된다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "눈가 피부에도 안전하게 사용할 수 있으며, 덤으로 모공까지 줄여주는 장점이 있다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "세월의 흔적 '주름' 없애려면 이 치료가 효과적",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

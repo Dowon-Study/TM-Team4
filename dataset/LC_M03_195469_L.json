@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195469",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"차라리 합성이었으면…\\\" 떡볶이집 튀김 위 비둘기들 만찬",
+    "newsSubTitle": "",
+    "newsContent": "한 떡볶이집의 위생 관리 상태가 네티즌들에게 충격을 주고 있다.\n최근 소셜미디어와 온라인 커뮤니티를 중심으로 한 네티즌이 찍어 올린 떡볶이집 사진이 일파만파 퍼지고 있다.\n사진을 보면 야외 테이블에 식히기 위해 올려놓은 것으로 추정되는 튀김 위에 비둘기들 여러 마리가 앉아 만찬을 벌이고 있다.\n튀김 바로 뒤에 위치한 주방에서 직원들이 일하고 있다는 사실이 더욱 충격적이다.\n맨눈으로 쉽게 떡볶이의 상태를 확인할 수 있을 정도로 가까운 거리임에도 불구하고 크게 신경 쓰지 않고 있는 모습이다.\n사진을 접한 네티즌들은 \\\"보기만 해도 토 나올 것 같다\\\" \\\"음식 장사는 위생 상태 좀 철저히 해주었으면 좋겠다\\\" \\\"비둘기는 머리 위로만 날아가도 소름 끼치는데\\\" 등 격한 반응을 보였다.\n몇몇 네티즌들은 사진을 보고 도저히 믿기지 않는다며 누군가 해당 떡볶이집을 음해하기 위해 악의적으로 합성 사진을 퍼뜨린 것이 아니냐는 의혹을 제기하기도 했다.\n해당 떡볶이집은 방송사의 프로그램에 소개될 정도로 유명한 떡볶이 맛집이라고 알려졌다.\n네티즌들은 \\\"차라리 합성이었으면 좋겠다\\\"라며 쉽사리 충격에서 벗어나지 못하는 모습을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한 떡볶이집의 위생 관리 상태가 네티즌들에게 충격을 주고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 소셜미디어와 온라인 커뮤니티를 중심으로 한 네티즌이 찍어 올린 떡볶이집 사진이 일파만파 퍼지고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진을 보면 야외 테이블에 식히기 위해 올려놓은 것으로 추정되는 튀김 위에 비둘기들 여러 마리가 앉아 만찬을 벌이고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "튀김 바로 뒤에 위치한 주방에서 직원들이 일하고 있다는 사실이 더욱 충격적이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "맨눈으로 쉽게 떡볶이의 상태를 확인할 수 있을 정도로 가까운 거리임에도 불구하고 크게 신경 쓰지 않고 있는 모습이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사진을 접한 네티즌들은 \\\"보기만 해도 토 나올 것 같다\\\" \\\"음식 장사는 위생 상태 좀 철저히 해주었으면 좋겠다\\\" \\\"비둘기는 머리 위로만 날아가도 소름 끼치는데\\\" 등 격한 반응을 보였다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "몇몇 네티즌들은 사진을 보고 도저히 믿기지 않는다며 누군가 해당 떡볶이집을 음해하기 위해 악의적으로 합성 사진을 퍼뜨린 것이 아니냐는 의혹을 제기하기도 했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "해당 떡볶이집은 방송사의 프로그램에 소개될 정도로 유명한 떡볶이 맛집이라고 알려졌다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "네티즌들은 \\\"차라리 합성이었으면 좋겠다\\\"라며 쉽사리 충격에서 벗어나지 못하는 모습을 보였다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "네티즌 충격, 한 떡볶이 맛집의 위생 상태는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

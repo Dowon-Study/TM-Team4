@@ -1,0 +1,357 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192925",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[원포인트헬스] 열심히 뛴다고 S라인 되나요",
+    "newsSubTitle": "",
+    "newsContent": "‘S라인을 갖기 위해, 근육질의 몸매를 자랑하기 위해, 성인병을 막기 위해….’ 운동을 하는 목적은 이렇게 다르지만 원리와 목적은 한 가지로 귀결된다.\n산소를 흡입해 섭취한 열량을 태우고, 필요한 근력을 키우는 것이다.\n핵심은 근육이다.\n운동을 하는 것은 근육을 움직이는 것이다.\n그런데 근육에도 종류가 있고, 용도 또한 다르다.\n예컨대 속근(速筋)은 빠르게 수축한다.\n따라서 점프를 할 때, 무거운 물건을 들어 올릴 때와 같은 순간적 동작에 활용된다.\n반면 지근(遲筋)은 자세유지나 오래 걸을 때와 같이 지구력에 필요한 근육이다.\n흥미로운 것은 두 근육에 사용되는 에너지가 다르다는 것이다.\n속근은 탄수화물을 에너지원으로 쓰지만 지근은 주로 지방을 연료로 쓴다.\n속근은 한편으로 백근(白筋)으로도 불린다.\n근육의 색깔이 흰색이기 때문이다.\n반면 지근은 적근(赤筋)으로 부른다.\n산소가 많이 필요해 붉은 색인 헤모글로빈이 많이 분포돼 있기 때문이다.\n따라서 지근은 오래 사용해도 쉽게 피로하지 않는다.\n반면 속근은 파워는 강하지만 쉽게 지친다.\n또 다른 특징은 지근은 부피가 작지만 백근은 부피가 크다는 것이다.\n보디빌더나 단거리 선수의 울퉁불퉁한 근육은 주로 백근으로 만든 체형이다.\n이에 비해 마라토너들은 말라 있다.\n속근보다 지근으로 근육이 구성돼 있다는 것을 보여준다.\n이 같은 원리를 알면 운동의 효율성을 현저히 높일 수 있다.\n운동 목적에 따라 근육의 사용을 달리하는 것이다.\n예컨대 살을 빼고 싶은 사람은 많이 걷고, 활동량을 늘려야 한다.\n열을 많이 생성하고, 지방을 에너지원으로 쓰는 지근의 사용을 높이기 위함이다.\n반면 몸매를 만들기 위한 사람은 속근을 발달시켜야 한다.\n근육질 남성과 S라인 여성의 몸매를 만드는 것은 역시 백근의 힘이다.\n운동하는 방법도 다르다.\n지근은 오랜 시간 반복된 동작을 통해, 속근은 짧은 시간에 강도 높은 웨이트 트레이닝을 해야 발달한다.\n가벼운 덤벨을 들고 횟수를 많이 하면 지근이, 무거운 덤벨로 횟수를 줄이면 속근이 발달하는 식이다.\n하지만 우리 인체는 어느 특정 근육만 독자적으로 움직이지 않는다.\n중량 운동을 할 때도 지근이, 지구력 운동을 할 때도 속근이 일부 동원된다.\n여기에 속근과 지근의 중간형태 근육도 있다.\n이 근육들은 큰 힘을 만들면서도 피로에 비교적 잘 견딘다.\n운동을 하는 방법에 따라 속근이나 지근으로 발달하는 특징도 있다.\n운동도 이젠 과학이다.\n헬스센터에 가서 무작정 뛰기만 하거나 역기를 무리하게 든다고 건강해지지 않는다.\n운동 목적에 따라 근육 사용을 적절히 안배하는 지혜가 필요하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 37,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘S라인을 갖기 위해, 근육질의 몸매를 자랑하기 위해, 성인병을 막기 위해….’ 운동을 하는 목적은 이렇게 다르지만 원리와 목적은 한 가지로 귀결된다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "산소를 흡입해 섭취한 열량을 태우고, 필요한 근력을 키우는 것이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "핵심은 근육이다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "운동을 하는 것은 근육을 움직이는 것이다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그런데 근육에도 종류가 있고, 용도 또한 다르다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "예컨대 속근(速筋)은 빠르게 수축한다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "따라서 점프를 할 때, 무거운 물건을 들어 올릴 때와 같은 순간적 동작에 활용된다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "반면 지근(遲筋)은 자세유지나 오래 걸을 때와 같이 지구력에 필요한 근육이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "흥미로운 것은 두 근육에 사용되는 에너지가 다르다는 것이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "속근은 탄수화물을 에너지원으로 쓰지만 지근은 주로 지방을 연료로 쓴다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "속근은 한편으로 백근(白筋)으로도 불린다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "근육의 색깔이 흰색이기 때문이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "반면 지근은 적근(赤筋)으로 부른다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "산소가 많이 필요해 붉은 색인 헤모글로빈이 많이 분포돼 있기 때문이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "따라서 지근은 오래 사용해도 쉽게 피로하지 않는다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "반면 속근은 파워는 강하지만 쉽게 지친다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "또 다른 특징은 지근은 부피가 작지만 백근은 부피가 크다는 것이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "보디빌더나 단거리 선수의 울퉁불퉁한 근육은 주로 백근으로 만든 체형이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "이에 비해 마라토너들은 말라 있다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "속근보다 지근으로 근육이 구성돼 있다는 것을 보여준다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "이 같은 원리를 알면 운동의 효율성을 현저히 높일 수 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "운동 목적에 따라 근육의 사용을 달리하는 것이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "예컨대 살을 빼고 싶은 사람은 많이 걷고, 활동량을 늘려야 한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "열을 많이 생성하고, 지방을 에너지원으로 쓰는 지근의 사용을 높이기 위함이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "반면 몸매를 만들기 위한 사람은 속근을 발달시켜야 한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "근육질 남성과 S라인 여성의 몸매를 만드는 것은 역시 백근의 힘이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "운동하는 방법도 다르다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "지근은 오랜 시간 반복된 동작을 통해, 속근은 짧은 시간에 강도 높은 웨이트 트레이닝을 해야 발달한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 29,
+        "sentenceContent": "가벼운 덤벨을 들고 횟수를 많이 하면 지근이, 무거운 덤벨로 횟수를 줄이면 속근이 발달하는 식이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 30,
+        "sentenceContent": "하지만 우리 인체는 어느 특정 근육만 독자적으로 움직이지 않는다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 31,
+        "sentenceContent": "중량 운동을 할 때도 지근이, 지구력 운동을 할 때도 속근이 일부 동원된다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 32,
+        "sentenceContent": "여기에 속근과 지근의 중간형태 근육도 있다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 33,
+        "sentenceContent": "이 근육들은 큰 힘을 만들면서도 피로에 비교적 잘 견딘다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 34,
+        "sentenceContent": "운동을 하는 방법에 따라 속근이나 지근으로 발달하는 특징도 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 35,
+        "sentenceContent": "운동도 이젠 과학이다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 36,
+        "sentenceContent": "헬스센터에 가서 무작정 뛰기만 하거나 역기를 무리하게 든다고 건강해지지 않는다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 37,
+        "sentenceContent": "운동 목적에 따라 근육 사용을 적절히 안배하는 지혜가 필요하다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무작정 뛰기만 한다고 얻을 수 있는 것이 아니다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 29,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 30,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 31,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 32,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 33,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 34,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 35,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 36,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 37,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195488",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "여름밤, 욱신거리는 관절때문에 잠 못 이룰땐 이렇게 하세요",
+    "newsSubTitle": "밤이면 관절 부위 아픈 야간통 오십견·퇴행성무릎관절염 환자에게 잘 생겨 에어컨 바람 직접쐬면 관절 경직돼 통증 악화 얇은 옷 걸치고 관절 부위 온찜질하면 도움 실내 온도는 25~27도, 습도는 50% 이내로",
+    "newsContent": "관절 건강이 좋지 않은 사람은 열대야가 이어지는 여름밤이면 야간통때문에 더 괴롭다.\n야간통은 밤에 통증이 심해지는 증상이다.\n오십견·회전근개파열 같은 어깨 질환과 퇴행성 무릎 관절염 환자에게 잘 나타난다.\n어깨 통증이 밤에 더 심해지는 이유는 수면 자세와 관련 있다.\n앉거나 서 있는 낮에는 중력 때문에 어깨 관절 간격이 넓어져 통증이 덜하다.\n반면 밤에 누운 자세에서는 어깨 관절 간격이 좁아져 염증을 자극하고 통증이 심해진다. 50대에 자주 생긴다고 해서 이름 붙여진 ‘오십견’은 야간통이 있는 대표 질환이다.\n팔을 올릴 때 통증이 느껴지고 어깨를 자유롭게 움직이지 못해 일상생활에 불편함을 준다.\n밤에는 아픈 쪽으로 돌아눕지도 못할 정도로 심한 통증이 올 때도 있다.\n어깨를 움직여주는 힘줄이 찢어지는 ‘회전근개 파열’도 야간통이 심하다.\n퇴행성 무릎 관절염 환자는 무릎 관절을 많이 움직이는 낮에는 통증을 잘 인지하지 못한다.\n그러다가 활동량이 적어지는 밤이 되면 별다른 자극이 없어 통증에 민감해진다.\n낮에 풀렸던 관절과 근육이 밤에는 경직되기 때문이다.\n낮에 많이 걸어 무릎 관절에 피로가 누적될수록 밤에 느껴지는 통증은 더 커진다.\n야간통을 예방하려면 하루에 한 번 15분 정도 따뜻한 물에서 전신욕을 하거나 관절 부위에 온찜질을 해주는 것이 도움이 된다.\n에어컨에서 나오는 찬바람을 직접 쐬면 관절이 굳어 통증이 심해지기 쉽다.\n얇은 옷을 걸쳐 찬바람이 피부에 직접 닿지 않도록 한다.\n적절한 실내 온도·습도 유지하는 것도 중요하다.\n실내 온도는 25~27도, 습도는 50% 이내가 적절하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "관절 건강이 좋지 않은 사람은 열대야가 이어지는 여름밤이면 야간통때문에 더 괴롭다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "야간통은 밤에 통증이 심해지는 증상이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오십견·회전근개파열 같은 어깨 질환과 퇴행성 무릎 관절염 환자에게 잘 나타난다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "어깨 통증이 밤에 더 심해지는 이유는 수면 자세와 관련 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앉거나 서 있는 낮에는 중력 때문에 어깨 관절 간격이 넓어져 통증이 덜하다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "반면 밤에 누운 자세에서는 어깨 관절 간격이 좁아져 염증을 자극하고 통증이 심해진다. 50대에 자주 생긴다고 해서 이름 붙여진 ‘오십견’은 야간통이 있는 대표 질환이다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "팔을 올릴 때 통증이 느껴지고 어깨를 자유롭게 움직이지 못해 일상생활에 불편함을 준다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "밤에는 아픈 쪽으로 돌아눕지도 못할 정도로 심한 통증이 올 때도 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "어깨를 움직여주는 힘줄이 찢어지는 ‘회전근개 파열’도 야간통이 심하다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "퇴행성 무릎 관절염 환자는 무릎 관절을 많이 움직이는 낮에는 통증을 잘 인지하지 못한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그러다가 활동량이 적어지는 밤이 되면 별다른 자극이 없어 통증에 민감해진다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "낮에 풀렸던 관절과 근육이 밤에는 경직되기 때문이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "낮에 많이 걸어 무릎 관절에 피로가 누적될수록 밤에 느껴지는 통증은 더 커진다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "야간통을 예방하려면 하루에 한 번 15분 정도 따뜻한 물에서 전신욕을 하거나 관절 부위에 온찜질을 해주는 것이 도움이 된다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "에어컨에서 나오는 찬바람을 직접 쐬면 관절이 굳어 통증이 심해지기 쉽다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "얇은 옷을 걸쳐 찬바람이 피부에 직접 닿지 않도록 한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "적절한 실내 온도·습도 유지하는 것도 중요하다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "실내 온도는 25~27도, 습도는 50% 이내가 적절하다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "열대야가 이어지는 여름밤, 관절 건강 관리 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193911",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "한서희 미국行에 YG 개입? 양현석 \\\"전혀 사실 아냐\\\" 반박",
+    "newsSubTitle": "",
+    "newsContent": "양현석(49) 전 YG엔터테인먼트 전 총괄 프로듀서가 한서희 관련 의혹 보도에 사실무근이라는 입장을 밝혔다.\n20일 YG엔터테인먼트 측은 한 매체가 제기한 한서희 미국행에 대한 개입 의혹에 대해 \\\"전혀 사실이 아니다\\\"고 밝혔다.\n이날 앞서 한서희가 과거 탑과 대마초 흡연을 한 것과 관련, YG엔터테인먼트가 빅뱅의 컴백 전 이를 은폐하기 위해 한서희의 미국행을 진행했다는 보도가 나왔다.\n매체에 따르면, 한서희는 당시 YG엔터테인먼트의 요구로 2016년 12월부터 3개월 가량 미국 LA에 체류했다.\n이 같은 일이 양현석 전 총괄 프로듀서의 요구로 이뤄졌다는 게 매체의 주장이다.\n이에 대해 YG엔터테인먼트는 양현석 전 총괄 프로듀서의 입장을 대신 전했다.\n양현석 전 총괄 프로듀서는 YG엔터테인먼트를 통해 \\\"금일 디스패치 보도를 포함해 그간 제기된 모든 의혹들은 제보자들의 일방적인 주장일 뿐 전혀 사실이 아니다\\\"고 말했다.\n이어 \\\"이러한 사안에 대해 언론 대응이나 입장발표를 자제하고 있다. 정확한 사실 관계는 수사 기관을 통해 면밀히 밝히는 것이 옳다고 생각하기 때문이다. 계속되는 거짓 주장과 의혹 제기에 대해 향후 진실이 밝혀질 것으로 기대한다\\\"고 강조했다.\n이에 대해 YG엔터테인먼트의 한 관계자는 미디어SR에 \\\"공식입장 외에 추가적인 입장은 줄 수 없다\\\"고 조심스럽게 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "양현석(49) 전 YG엔터테인먼트 전 총괄 프로듀서가 한서희 관련 의혹 보도에 사실무근이라는 입장을 밝혔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20일 YG엔터테인먼트 측은 한 매체가 제기한 한서희 미국행에 대한 개입 의혹에 대해 \\\"전혀 사실이 아니다\\\"고 밝혔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 앞서 한서희가 과거 탑과 대마초 흡연을 한 것과 관련, YG엔터테인먼트가 빅뱅의 컴백 전 이를 은폐하기 위해 한서희의 미국행을 진행했다는 보도가 나왔다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "매체에 따르면, 한서희는 당시 YG엔터테인먼트의 요구로 2016년 12월부터 3개월 가량 미국 LA에 체류했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 같은 일이 양현석 전 총괄 프로듀서의 요구로 이뤄졌다는 게 매체의 주장이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 대해 YG엔터테인먼트는 양현석 전 총괄 프로듀서의 입장을 대신 전했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "양현석 전 총괄 프로듀서는 YG엔터테인먼트를 통해 \\\"금일 디스패치 보도를 포함해 그간 제기된 모든 의혹들은 제보자들의 일방적인 주장일 뿐 전혀 사실이 아니다\\\"고 말했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 \\\"이러한 사안에 대해 언론 대응이나 입장발표를 자제하고 있다. 정확한 사실 관계는 수사 기관을 통해 면밀히 밝히는 것이 옳다고 생각하기 때문이다. 계속되는 거짓 주장과 의혹 제기에 대해 향후 진실이 밝혀질 것으로 기대한다\\\"고 강조했다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이에 대해 YG엔터테인먼트의 한 관계자는 미디어SR에 \\\"공식입장 외에 추가적인 입장은 줄 수 없다\\\"고 조심스럽게 말했다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "탑·한서희 대마초 논란에 YG 양현석 몰랐다고?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197237",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "월드워치 〈지구환경보고서 2001〉 발간",
+    "newsSubTitle": "",
+    "newsContent": "세계적인 환경문제 연구단체인 월드워치의 〈지구환경보고서 2001〉이 최근 번역돼 나왔다.\n환경운동연합 부설 출판사인 도요새가 책을 냈다.\n한국을 비롯해 인도.브라질.영국.미국 5개국에서 동시에 발행됐다. 〈지구환경보고서 2001〉은 총 10장으로 짜여졌다.\n월드워치의 크리스토퍼 플래빈 소장과 레스터 브라운 등 이곳의 연구원들이 집필했다.\n번역은 한국의 생태적 변환을 주제로 연구하는 '생태사회연구소' 멤버인 오수길.진상현.남원석씨가 맡았다.\n이번 보고서는 \\\"현재 지구의 환경이 위험스런 교차로에 도달했다\\\" 고 경고한다.\n북극의 빙하는 이미 42%가 얇아졌고, 세계 산호초 군락은 27%가 상실됐다.\n이는 지구 생태시스템의 쇠락을 웅변하는 증거라고 월드워치는 진단했다.\n지난 10년간 자연재해로 인한 피해액은 그 이전 40년간의 피해액보다 많은 6천80억 달러에 달했다.\n또한 보고서는 기후변화에 따른 지구온도의 상승은 물 부족, 식량생산의 감소, 말라리아와 같은 치명적 질명의 확산으로 이어질 것이라고 전망했다.\n그러나 이런 불길한 징후를 역전시킬 대안을 찾는게 이 보고서의 진짜 의미다.\n제 10장 '지탱가능한 사회' 를 위한 게리 가드너의 글은 그래서 유익하다.\n당연해 보이지만, 그는 결국 파편화 한 시민사회.기업.정부의 힘을 집합적으로 연계시켜 문화적 진화의 잠재성을 끌어내는 게 올바른 해법이라고 주장한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세계적인 환경문제 연구단체인 월드워치의 〈지구환경보고서 2001〉이 최근 번역돼 나왔다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "환경운동연합 부설 출판사인 도요새가 책을 냈다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국을 비롯해 인도.브라질.영국.미국 5개국에서 동시에 발행됐다. 〈지구환경보고서 2001〉은 총 10장으로 짜여졌다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "월드워치의 크리스토퍼 플래빈 소장과 레스터 브라운 등 이곳의 연구원들이 집필했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "번역은 한국의 생태적 변환을 주제로 연구하는 '생태사회연구소' 멤버인 오수길.진상현.남원석씨가 맡았다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 보고서는 \\\"현재 지구의 환경이 위험스런 교차로에 도달했다\\\" 고 경고한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "북극의 빙하는 이미 42%가 얇아졌고, 세계 산호초 군락은 27%가 상실됐다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이는 지구 생태시스템의 쇠락을 웅변하는 증거라고 월드워치는 진단했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지난 10년간 자연재해로 인한 피해액은 그 이전 40년간의 피해액보다 많은 6천80억 달러에 달했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또한 보고서는 기후변화에 따른 지구온도의 상승은 물 부족, 식량생산의 감소, 말라리아와 같은 치명적 질명의 확산으로 이어질 것이라고 전망했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그러나 이런 불길한 징후를 역전시킬 대안을 찾는게 이 보고서의 진짜 의미다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "제 10장 '지탱가능한 사회' 를 위한 게리 가드너의 글은 그래서 유익하다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "당연해 보이지만, 그는 결국 파편화 한 시민사회.기업.정부의 힘을 집합적으로 연계시켜 문화적 진화의 잠재성을 끌어내는 게 올바른 해법이라고 주장한다.",
+        "sentenceSize": 83
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "현재 지구의 환경은 위험스런 교차로에 도달한 아찔한 상황",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

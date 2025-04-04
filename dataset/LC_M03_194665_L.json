@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194665",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[me] \\\"BMW 수준 고급 옷에 폴크스바겐 수준 값\\\" 그로테 에스프리 사장",
+    "newsSubTitle": "",
+    "newsContent": "\\\"BMW 수준의 옷을 폴크스바겐 수준의 가격으로 공급한다.\\\" 자라(Zara).H&M과 함께 유럽의 3대 대형 캐주얼 브랜드로 불리는 에스프리의 토마스 그로테(사진) 사장이 내놓은 슬로건이다.\n독일 회사다운 비유가 아닐 수 없다.\n그렇다면 폴크스바겐 수준의 가격이라는 것은 어느 정도일까?\n그로테 사장은 \\\"토미 힐피거보다는 싸지만 지오다노보다는 비싼 중간대\\\"라고 말했다.\n아주 싸거나 아주 비싸야 잘 팔린다는 한국 패션 시장에서 새로운 승부수를 구사하려는 셈이다.\n흔히 국내 수입 의류 시장에서 가장 문제가 되는 가격 거품에 대해선 \\\"한국 내 가격을 글로벌 가격과 맞춘다는 것이 원칙\\\"이라고 밝혔다.\n그는 \\\"한국 소비자들은 외국의 유명 패션 브랜드의 특징과 가격대를 대부분 알고 있다\\\"며 \\\"패션에 있어 한국은 이제 완전한 글로벌 시장\\\"이라고 말했다.\n이중가격 정책은 무의미하다는 얘기다.\n그는 또 \\\"계절별로 신상품을 내놓는 다른 브랜드와 달리 에스프리는 매달 신제품을 내놓고 있다. 이런 시스템이 한국 소비자의 까다로운 입맛을 맞출 수 있을 것\\\"이라고 자신감을 내비쳤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"BMW 수준의 옷을 폴크스바겐 수준의 가격으로 공급한다.\\\" 자라(Zara).H&M과 함께 유럽의 3대 대형 캐주얼 브랜드로 불리는 에스프리의 토마스 그로테(사진) 사장이 내놓은 슬로건이다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "독일 회사다운 비유가 아닐 수 없다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그렇다면 폴크스바겐 수준의 가격이라는 것은 어느 정도일까?",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그로테 사장은 \\\"토미 힐피거보다는 싸지만 지오다노보다는 비싼 중간대\\\"라고 말했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아주 싸거나 아주 비싸야 잘 팔린다는 한국 패션 시장에서 새로운 승부수를 구사하려는 셈이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "흔히 국내 수입 의류 시장에서 가장 문제가 되는 가격 거품에 대해선 \\\"한국 내 가격을 글로벌 가격과 맞춘다는 것이 원칙\\\"이라고 밝혔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 \\\"한국 소비자들은 외국의 유명 패션 브랜드의 특징과 가격대를 대부분 알고 있다\\\"며 \\\"패션에 있어 한국은 이제 완전한 글로벌 시장\\\"이라고 말했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이중가격 정책은 무의미하다는 얘기다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그는 또 \\\"계절별로 신상품을 내놓는 다른 브랜드와 달리 에스프리는 매달 신제품을 내놓고 있다. 이런 시스템이 한국 소비자의 까다로운 입맛을 맞출 수 있을 것\\\"이라고 자신감을 내비쳤다.",
+        "sentenceSize": 104
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그로테 에스프리 사장, 패션 글로벌 시장으로 우뚝 선 한국에 고수한 원칙은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

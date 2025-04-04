@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193386",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[와글와글e동네] 핸드메이드 스타워즈",
+    "newsSubTitle": "",
+    "newsContent": "100% 손수 제작, 출연자 '손', 재료 '손'. 손으로 만들고 손만 출연한 말 그대로 '핸드메이드' 스타워즈 패러디 동영상에 네티즌들이 포복절도하고 있습니다.\n손바닥에 스타워즈 로고를 써 넣은 것은 그렇다 치고, 창공을 활주하는 비행기며 '형이상학적으로' 휘날리는 뒷배경까지 모두 손이 만들어낸 작품입니다.\n여러 대의 비행기가 줄지어 날아가는 장면은 또 어떤가요. 1분30초짜리 영상에 등장하는 비행기만 50여 대. 13명의 '배우'들은 혼신의 힘을 다해 손비행기를 날립니다.\n미사일도 쏘고 격추도 당하면서 동영상 속 비행기는 별들의 전쟁을 화려하게 재연합니다.\n이 동영상은 1990년 일본의 이타미(伊丹)영상연구회라는 영상제작 동호회가 만든 것이라고 합니다.\n여러 소규모 영화제에서 그랑프리를 수상했고, 스타워즈 에피소드 6 '제다이의 귀환'의 특수효과를 맡았던 리처드 에드런드도 극찬했다고 하니, 그 표현력과 열정을 인정받은 셈이겠죠.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "100% 손수 제작, 출연자 '손', 재료 '손'. 손으로 만들고 손만 출연한 말 그대로 '핸드메이드' 스타워즈 패러디 동영상에 네티즌들이 포복절도하고 있습니다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "손바닥에 스타워즈 로고를 써 넣은 것은 그렇다 치고, 창공을 활주하는 비행기며 '형이상학적으로' 휘날리는 뒷배경까지 모두 손이 만들어낸 작품입니다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "여러 대의 비행기가 줄지어 날아가는 장면은 또 어떤가요. 1분30초짜리 영상에 등장하는 비행기만 50여 대. 13명의 '배우'들은 혼신의 힘을 다해 손비행기를 날립니다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미사일도 쏘고 격추도 당하면서 동영상 속 비행기는 별들의 전쟁을 화려하게 재연합니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 동영상은 1990년 일본의 이타미(伊丹)영상연구회라는 영상제작 동호회가 만든 것이라고 합니다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "여러 소규모 영화제에서 그랑프리를 수상했고, 스타워즈 에피소드 6 '제다이의 귀환'의 특수효과를 맡았던 리처드 에드런드도 극찬했다고 하니, 그 표현력과 열정을 인정받은 셈이겠죠.",
+        "sentenceSize": 99
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "핸드메이드 스타워즈 패러디 동영상, 원작 특수효과 담당자도 '킹정'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

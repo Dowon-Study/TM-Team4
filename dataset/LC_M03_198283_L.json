@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198283",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK꿈나무] 만주 꽉 잡았던 고구려 제대로 알아볼까",
+    "newsSubTitle": "",
+    "newsContent": "고구려사 이야기 1,2 박영규 지음, 주니어 김영사 각 210쪽 안팎, 각 권 9500원, 초등 고학년 중국의 동북공정에 분개하고 TV 드라마 '주몽'에 손에 땀을 쥐지만 우리는 고구려에 대해 얼마나 알고 있을까?\n당장 28명의 고구려 왕 중에서 아는 이름을 꼽자면 동명성왕, 소수림왕, 광개토 대왕, 장수왕, 보장왕 정도가 고작 아닐까.\n조금 더 안다고 해도 2대 유리왕, 호동왕자의 아버지 미천왕, 수나라 대군을 물리친 영양왕이나 간신히 들 수 있을 것이다.\n책은 김부식이 쓴 역사서 '삼국사기'를 바탕으로 삼국유사와 중국측 사료를 엮어 고구려사를 시대순으로 살피고 있다.\n시련을 딛고 태평성대를 이룬 문자명왕, 중립외교를 펼친 안장왕 등 정치가 중심인 이야기도 있고 소금장수에서 왕이 된 미천왕, 자연재해에 시달린 안장왕 등 옛 이야기 같은 내용도 나온다.\n28명의 왕을 하나하나 짚어가며 그 시대의 중요 사건을 서술하기에 처음 만나는 인물과 이야기가 수두룩하다.\n베스트 셀러 '한 권으로 읽는 조선왕조실록'를 쓰는 등 역사 대중화에 앞장 서온 지은이는 \\\"역사를 도둑질 당하지 않으려면 제대로 알아야 한다\\\"는 취지에서 책을 썼다고 한다.\n이에 따라 고구려를 백제 신라와 함께 한반도에서 활약했던 삼국의 한 축으로서가 아니라 만주를 근거로 중국과 대등하게 다투며 동북아를 호령했던 대제국으로 그렸다.\n여기에 사이사이 '깊이 읽기'난을 두어 '고구려는 무슨 뜻일까' '고구려의 예술 세계는 어떠했을까' '광개토왕릉비를 통해 무엇을 알 수 있을까' '고구려 왕릉은 어떤 모습이었을까' 등 임금 중심의 역사서술의 빈 틈을 메워준다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "고구려사 이야기 1,2 박영규 지음, 주니어 김영사 각 210쪽 안팎, 각 권 9500원, 초등 고학년 중국의 동북공정에 분개하고 TV 드라마 '주몽'에 손에 땀을 쥐지만 우리는 고구려에 대해 얼마나 알고 있을까?",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "당장 28명의 고구려 왕 중에서 아는 이름을 꼽자면 동명성왕, 소수림왕, 광개토 대왕, 장수왕, 보장왕 정도가 고작 아닐까.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "조금 더 안다고 해도 2대 유리왕, 호동왕자의 아버지 미천왕, 수나라 대군을 물리친 영양왕이나 간신히 들 수 있을 것이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "책은 김부식이 쓴 역사서 '삼국사기'를 바탕으로 삼국유사와 중국측 사료를 엮어 고구려사를 시대순으로 살피고 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "시련을 딛고 태평성대를 이룬 문자명왕, 중립외교를 펼친 안장왕 등 정치가 중심인 이야기도 있고 소금장수에서 왕이 된 미천왕, 자연재해에 시달린 안장왕 등 옛 이야기 같은 내용도 나온다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "28명의 왕을 하나하나 짚어가며 그 시대의 중요 사건을 서술하기에 처음 만나는 인물과 이야기가 수두룩하다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "베스트 셀러 '한 권으로 읽는 조선왕조실록'를 쓰는 등 역사 대중화에 앞장 서온 지은이는 \\\"역사를 도둑질 당하지 않으려면 제대로 알아야 한다\\\"는 취지에서 책을 썼다고 한다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 따라 고구려를 백제 신라와 함께 한반도에서 활약했던 삼국의 한 축으로서가 아니라 만주를 근거로 중국과 대등하게 다투며 동북아를 호령했던 대제국으로 그렸다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "여기에 사이사이 '깊이 읽기'난을 두어 '고구려는 무슨 뜻일까' '고구려의 예술 세계는 어떠했을까' '광개토왕릉비를 통해 무엇을 알 수 있을까' '고구려 왕릉은 어떤 모습이었을까' 등 임금 중심의 역사서술의 빈 틈을 메워준다.",
+        "sentenceSize": 126
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "삼국의 한 나라가 아니라 중국과 대등하게 다퉜던 '이곳'… 제대로 알자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

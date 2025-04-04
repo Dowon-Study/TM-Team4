@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195804",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "‘냉장고를 부탁해’ 김풍의 대박 요리 ‘토달토달’ 간단 레시피…자취생 최적화?",
+    "newsSubTitle": "",
+    "newsContent": "김풍 토달토달 김풍의 요리 ‘토달토달’의 간단하지만 깊은 맛의 레시피가 공개돼 이목을 끈다.\n지난 29일 방송된 JTBC ‘냉장고를 부탁해’에 그룹 인피니트 성규의 냉장고를 이용한 김풍의 요리 ‘토달토달’이 공개됐다. ‘토달토달’의 레시피는 먼저 팬에 식용유와 참기름을 두른 뒤 으깬 마늘을 볶고 여기에 으깬 방울토마토, 간장, 식초를 넣고 끓인다.\n이후 식초, 맛술, 곰탕라면의 분말 수프를 넣고 함께 끓인 다음 전분 섞은 물을 넣어 농도를 맞춘다.\n토마토 탕에 달걀물을 천천히 풀어가며 끓이고 식빵은 깍둑 썰기해 팬에 굽는다.\n마지막으로 그릇에 토마토 달걀탕을 부은 후, 구운 식빵을 함께 내면 '토달토달'이 완성된다.\n김풍 토달토달에 네티즌들은 “김풍 토달토달 이건 진짜 누구나 만들 수 있을 거 같아”, “김풍 토달토달 진짜 맛있을 거 같아”, “김풍 토달토달 자취생들도 도전!” 등의 반응을 보였다.\n온라인 중앙일보 김풍‘토달토달‘[사진 JTBC 냉장고를 부탁해 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김풍 토달토달 김풍의 요리 ‘토달토달’의 간단하지만 깊은 맛의 레시피가 공개돼 이목을 끈다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 29일 방송된 JTBC ‘냉장고를 부탁해’에 그룹 인피니트 성규의 냉장고를 이용한 김풍의 요리 ‘토달토달’이 공개됐다. ‘토달토달’의 레시피는 먼저 팬에 식용유와 참기름을 두른 뒤 으깬 마늘을 볶고 여기에 으깬 방울토마토, 간장, 식초를 넣고 끓인다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이후 식초, 맛술, 곰탕라면의 분말 수프를 넣고 함께 끓인 다음 전분 섞은 물을 넣어 농도를 맞춘다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "토마토 탕에 달걀물을 천천히 풀어가며 끓이고 식빵은 깍둑 썰기해 팬에 굽는다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "마지막으로 그릇에 토마토 달걀탕을 부은 후, 구운 식빵을 함께 내면 '토달토달'이 완성된다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김풍 토달토달에 네티즌들은 “김풍 토달토달 이건 진짜 누구나 만들 수 있을 거 같아”, “김풍 토달토달 진짜 맛있을 거 같아”, “김풍 토달토달 자취생들도 도전!” 등의 반응을 보였다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 김풍‘토달토달‘[사진 JTBC 냉장고를 부탁해 캡처]",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인피니트 성규의 `냉장고를 부탁해`… 김풍이 만든 요리는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

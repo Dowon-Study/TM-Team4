@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195514",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "난소암 치료제 ‘린파자’ 유방암에서도 효과",
+    "newsSubTitle": "BRCA 변이 전이성 유방암 환자 사망위험 42% 감소",
+    "newsContent": "[김진구 기자] 아스트라제네카의 난소암 치료제인 린파자(성분명 올라파립)가 유방암에서도 효과를 보인다는 연구 결과가 발표됐다.\n아스트라제네카는 최근 린파자가 HER2 음성 BRCA 변이 전이성 유방암에서 표준 항암화학요법 대비 무진행생존기간(PFS)을 유의하게 향상시켰다는 내용의 올림피아드(OlympiAD) 임상 3상 연구 결과를 발표했다.\n연구에선 린파자 치료 환자에게서 질환 악화 또는 사망 위험이 카페시타빈(capecitabine), 비노렐빈(vinorelbine), 에리불린(eribulin) 항암화학요법을 받은 환자에 비해 42% 감소한 것으로 나타났다.\n또한 린파자 투여 환자군에서 객관적 반응률(ORR)은 59.9%로 항암화학요법 치료 환자군의 객관적 반응률인 28.8%의 두 배 이상인 것으로 나타났다.\n이번 연구 결과는 지난 6월 2~6일까지 미국 시카고에서 개최된 2017년 미국임상종양학회(ASCO) 연례 회의에서 최우수 연구(Best of ASCO) 중 하나로 발표됐다.\n연구를 이끈 미국 메모리얼 슬로언 케터링 암센터의 마크 롭슨 박사는 “올라파립이 진행성 BRCA변이 유방암의 진행을 늦추는데 효과가 있다는 것을 보여줬다”며 “활용 가능한 대안이 거의 없는 상황에서 표적화된 비-화학요법 경구치료제 요법이 새로운 치료법이 될 수 있을 것”이라고 말했다.\n한국아스트라제네카 대표이사인 리즈 채트윈은 “BRCA 변이 전이성 유방암 환자에게서 표적항암제 치료가 기존의 항암화학요법보다 효과적임을 보여준 최초의 연구”라고 말했다.\n한편, 린파자의 안전성에 대한 새로운 징후는 발견되지 않았으며, 전반적인 안전성은 이전의 린파자 관련 임상 연구들과 일관되게 나타났다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 아스트라제네카의 난소암 치료제인 린파자(성분명 올라파립)가 유방암에서도 효과를 보인다는 연구 결과가 발표됐다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아스트라제네카는 최근 린파자가 HER2 음성 BRCA 변이 전이성 유방암에서 표준 항암화학요법 대비 무진행생존기간(PFS)을 유의하게 향상시켰다는 내용의 올림피아드(OlympiAD) 임상 3상 연구 결과를 발표했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구에선 린파자 치료 환자에게서 질환 악화 또는 사망 위험이 카페시타빈(capecitabine), 비노렐빈(vinorelbine), 에리불린(eribulin) 항암화학요법을 받은 환자에 비해 42% 감소한 것으로 나타났다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 린파자 투여 환자군에서 객관적 반응률(ORR)은 59.9%로 항암화학요법 치료 환자군의 객관적 반응률인 28.8%의 두 배 이상인 것으로 나타났다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 연구 결과는 지난 6월 2~6일까지 미국 시카고에서 개최된 2017년 미국임상종양학회(ASCO) 연례 회의에서 최우수 연구(Best of ASCO) 중 하나로 발표됐다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구를 이끈 미국 메모리얼 슬로언 케터링 암센터의 마크 롭슨 박사는 “올라파립이 진행성 BRCA변이 유방암의 진행을 늦추는데 효과가 있다는 것을 보여줬다”며 “활용 가능한 대안이 거의 없는 상황에서 표적화된 비-화학요법 경구치료제 요법이 새로운 치료법이 될 수 있을 것”이라고 말했다.",
+        "sentenceSize": 159
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한국아스트라제네카 대표이사인 리즈 채트윈은 “BRCA 변이 전이성 유방암 환자에게서 표적항암제 치료가 기존의 항암화학요법보다 효과적임을 보여준 최초의 연구”라고 말했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, 린파자의 안전성에 대한 새로운 징후는 발견되지 않았으며, 전반적인 안전성은 이전의 린파자 관련 임상 연구들과 일관되게 나타났다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아스트라제네카 난소암 치료제... 유방암에도 효과 입증?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

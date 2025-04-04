@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193634",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 요즘처럼 건조한 날씨에 눈 촉촉이",
+    "newsSubTitle": "",
+    "newsContent": "웰빙 제품 눈건강 플러스 오메가3 골드 환절기에는 큰 일교차와 건조한 날씨로 면역력이 쉽게 떨어질 수 있다.\n면역력이 떨어지면 눈에 우선 증상이 생긴다.\n안구건조증이 대표적으로 눈물이 적게 분비되거나, 눈물이 지나치게 증발하는 경우, 또는 눈물의 구성 성분이 균형을 이루지 못하는 경우에 발생한다.\n안구건조증의 주원인은 건조한 공기와 자외선 등 환경적 요인이 크게 작용한다.\n효소 전문기업 아미코젠의 헬스케어 브랜드 케이뉴트라의 ‘눈건강 플러스 오메가3 골드’(사진)에는 국제 오메가3 기관인 GOED의 엄격한 품질 기준을 통과한 원료인 오메가3 정제어유가 함유돼 있다.\n건조한 눈을 개선하고 눈 건강에 도움을 줄 수 있는 개별인정형 원료, EPA 및 DHA가 600㎎(2캡슐) 함유돼 있다.\n골다공증 발생 위험 감소에 도움을 주는 비타민D, 유해산소로부터 세포를 보호하는 데 필요한 셀레늄 등 환절기 건강에 도움을 줄 수 있는 성분도 들어 있다. ‘눈건강 플러스 오메가3 골드’는 효소 전문기업 아미코젠만의 차별화된 기술력으로 만든 건강기능식품이다.\n하루 1회 2캡슐만으로 EPA 및 DHA, 비타민D의 하루 영양성분 권장량을 섭취할 수 있다.\n케이뉴트라는 선착순 500명에게 ‘눈건강 플러스 오메가3’를 역대 최저가 특별 구성으로 판매한다.\n행사 물량 소진 시 조기 마감된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "웰빙 제품 눈건강 플러스 오메가3 골드 환절기에는 큰 일교차와 건조한 날씨로 면역력이 쉽게 떨어질 수 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "면역력이 떨어지면 눈에 우선 증상이 생긴다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "안구건조증이 대표적으로 눈물이 적게 분비되거나, 눈물이 지나치게 증발하는 경우, 또는 눈물의 구성 성분이 균형을 이루지 못하는 경우에 발생한다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "안구건조증의 주원인은 건조한 공기와 자외선 등 환경적 요인이 크게 작용한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "효소 전문기업 아미코젠의 헬스케어 브랜드 케이뉴트라의 ‘눈건강 플러스 오메가3 골드’(사진)에는 국제 오메가3 기관인 GOED의 엄격한 품질 기준을 통과한 원료인 오메가3 정제어유가 함유돼 있다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "건조한 눈을 개선하고 눈 건강에 도움을 줄 수 있는 개별인정형 원료, EPA 및 DHA가 600㎎(2캡슐) 함유돼 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "골다공증 발생 위험 감소에 도움을 주는 비타민D, 유해산소로부터 세포를 보호하는 데 필요한 셀레늄 등 환절기 건강에 도움을 줄 수 있는 성분도 들어 있다. ‘눈건강 플러스 오메가3 골드’는 효소 전문기업 아미코젠만의 차별화된 기술력으로 만든 건강기능식품이다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하루 1회 2캡슐만으로 EPA 및 DHA, 비타민D의 하루 영양성분 권장량을 섭취할 수 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "케이뉴트라는 선착순 500명에게 ‘눈건강 플러스 오메가3’를 역대 최저가 특별 구성으로 판매한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "행사 물량 소진 시 조기 마감된다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "큰 일교차와 건조한 날씨로 면역력 떨어지는 환절기, 극복 돕는 '잇템' 플러스 오메가3 골드",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

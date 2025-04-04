@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195553",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "BMS, APASL서 다클린자 기반 임상 데이터 발표",
+    "newsSubTitle": "다클린자-순베프라 병용요법, 유전자형 1b형 SVR12 96% 달성",
+    "newsContent": "[김진구 기자] BMS의 C형 간염 치료제 다클린자-순베프라 병용요법 임상데이터가 중국 상하이에서 열린 아시아태평양 간 연구학회(APASL)에서 발표됐다.\n이날 발표에선 다클린자-소포스부비르 병용요법 임상데이터도 공개됐다.\n한국을 포함 아시아3개국에서 치료받은 적이 없는 유전자형 1b형 만성 C형간염 환자 207명을 대상으로 한 중국 3상 임상연구결과, 다클린자-순베프라 병용요법은 92%의 SVR12 (치료 후 12주 시점에서의 바이러스 반응률)을 보였다.\n특히, 기저 시점에서 NS5A 내성 변이가 없는 유전자형 1b형 만성 C형간염 환자에서 96%의 SVR12을 보였다.\n다클린자-순베프라 병용요법은 인터페론 부적합 또는 불내약성인 환자를 대상으로 했던 기존 3상 연구에 이어, 이전에 치료 받은 적이 없는 환자를 대상으로 한 이번 연구 결과로 유전자형 1b형 C형간염 환자에게 높은 치료 효능을 재입증했다.\n이탈리아 투스카니 지역의 간경변증이 있는 유전자형 1~4형 만성 C형간염 환자 372명을 대상으로 한 다클린자-소포스부비르 병용요법의 리얼월드 연구 결과에서는 SVR12이 99.2%로 나타났다.\n한국BMS제약 의학부 총괄 이승훈 전무는 “한국인 환자를 포함한 다클린자-순베프라 병용요법의 3상 임상 결과뿐 아니라 다클린자-소포스부비르 병용요법의 리얼월드 연구결과가 기존 임상들과 유사하게 우수한 SVR 을 보였다는 것은 큰 의미가 있다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] BMS의 C형 간염 치료제 다클린자-순베프라 병용요법 임상데이터가 중국 상하이에서 열린 아시아태평양 간 연구학회(APASL)에서 발표됐다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 발표에선 다클린자-소포스부비르 병용요법 임상데이터도 공개됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국을 포함 아시아3개국에서 치료받은 적이 없는 유전자형 1b형 만성 C형간염 환자 207명을 대상으로 한 중국 3상 임상연구결과, 다클린자-순베프라 병용요법은 92%의 SVR12 (치료 후 12주 시점에서의 바이러스 반응률)을 보였다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히, 기저 시점에서 NS5A 내성 변이가 없는 유전자형 1b형 만성 C형간염 환자에서 96%의 SVR12을 보였다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다클린자-순베프라 병용요법은 인터페론 부적합 또는 불내약성인 환자를 대상으로 했던 기존 3상 연구에 이어, 이전에 치료 받은 적이 없는 환자를 대상으로 한 이번 연구 결과로 유전자형 1b형 C형간염 환자에게 높은 치료 효능을 재입증했다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이탈리아 투스카니 지역의 간경변증이 있는 유전자형 1~4형 만성 C형간염 환자 372명을 대상으로 한 다클린자-소포스부비르 병용요법의 리얼월드 연구 결과에서는 SVR12이 99.2%로 나타났다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한국BMS제약 의학부 총괄 이승훈 전무는 “한국인 환자를 포함한 다클린자-순베프라 병용요법의 3상 임상 결과뿐 아니라 다클린자-소포스부비르 병용요법의 리얼월드 연구결과가 기존 임상들과 유사하게 우수한 SVR 을 보였다는 것은 큰 의미가 있다”고 말했다.",
+        "sentenceSize": 141
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "BMS, APASL서 다클린자 기반 임상 데이터가 갖는 의미는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

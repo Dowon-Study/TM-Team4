@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197414",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "야간 소음 심하면 임신성 당뇨 위험 크다",
+    "newsSubTitle": "서울대 의대 등 임신부 1만8165명 조사 야간 소음 크면 임신성 당뇨 1.8배 높아 스트레스·호르몬 분비 교란 등 원인 \\\"임신부 환경적 스트레스도 관리해야\\\"",
+    "newsContent": "야간 소음이 심할수록 임신성 당뇨 위험이 크다는 연구 결과가 나왔다.\n서울대 의대·서울대보건환경연구소 공동 연구팀은 14일 \\\"2002~2013년 20~40대 임신부 1만8165명을 조사한 결과, 야간 소음이 1 데시벨(dB·소리의 크기를 나타내는 단위) 증가할 때마다 임신성 당뇨가 약 7% 증가했다\\\"고 밝혔다.\n연구팀은 지리정보체계와 환자의무기록을 연계해 임신 첫 3달 동안 임신부의 거주지 주변 주·야간 소음 정도를 파악했다.\n그 후 소음 노출 수준에 따라 임신부를 크게 4그룹으로 나누고, 각 그룹에 임신성 당뇨 발생률을 분석했다.\n그 결과 야간 소음에 가장 많이 노출된 그룹(57.34데시벨 이상)은 가장 낮은 그룹(54.22데시벨 미만)보다 임신성 당뇨가 약 1.8배 더 많이 나타났다.\n반면 주간 소음은 임신성 당뇨와는 관계가 없는 것으로 파악됐다.\n연구팀은 이런 결과를 \\\"주간에는 임신부가 집에 머무는 시간이 상대적으로 적기 때문\\\"이라 추정했다.\n임신성 당뇨는 전체 임신부 중 약 5~10%에서 발생한다.\n임신성 당뇨가 나타나면 출산 후에도 당뇨에 걸릴 확률이 높고 아이가 비만할 가능성도 크다.\n임신성 당뇨는 ▶가족력이 있거나 ▶늦은 나이 임신하는 경우 ▶비만 ▶운동 부족일 때 잘 생긴다.\n이런 위험 요인에 '소음'도 포함되는 것이다.\n세계보건기구(WHO)에 따르면 소음은 스트레스를 일으키고 호르몬 분비를 교란해 수면장애·정신질환·심혈관계 질환 등 다양한 질환을 유발한다.\n임신성 당뇨 역시 이런 이유로 발생할 것으로 연구팀은 추정했다.\n연구를 진행한 민경복 서울대 의대 예방의학과 교수는“건강한 임신·출산에 소음 등 환경적인 스트레스도 큰 영향을 미친다.\n출산 정책을 수립할 때 소음을 포함해 다양한 환경 오염 요인에 관심을 기울여야 할 것\\\"이라 말했다.\n한편, 이번 연구는 한국연구재단의 이공분야기초연구사업 지원으로 수행됐다.\n관련 논문은 국제 학술지 ‘환경연구’ 최근호에 게재됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "야간 소음이 심할수록 임신성 당뇨 위험이 크다는 연구 결과가 나왔다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울대 의대·서울대보건환경연구소 공동 연구팀은 14일 \\\"2002~2013년 20~40대 임신부 1만8165명을 조사한 결과, 야간 소음이 1 데시벨(dB·소리의 크기를 나타내는 단위) 증가할 때마다 임신성 당뇨가 약 7% 증가했다\\\"고 밝혔다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구팀은 지리정보체계와 환자의무기록을 연계해 임신 첫 3달 동안 임신부의 거주지 주변 주·야간 소음 정도를 파악했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 후 소음 노출 수준에 따라 임신부를 크게 4그룹으로 나누고, 각 그룹에 임신성 당뇨 발생률을 분석했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 결과 야간 소음에 가장 많이 노출된 그룹(57.34데시벨 이상)은 가장 낮은 그룹(54.22데시벨 미만)보다 임신성 당뇨가 약 1.8배 더 많이 나타났다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "반면 주간 소음은 임신성 당뇨와는 관계가 없는 것으로 파악됐다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연구팀은 이런 결과를 \\\"주간에는 임신부가 집에 머무는 시간이 상대적으로 적기 때문\\\"이라 추정했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "임신성 당뇨는 전체 임신부 중 약 5~10%에서 발생한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "임신성 당뇨가 나타나면 출산 후에도 당뇨에 걸릴 확률이 높고 아이가 비만할 가능성도 크다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "임신성 당뇨는 ▶가족력이 있거나 ▶늦은 나이 임신하는 경우 ▶비만 ▶운동 부족일 때 잘 생긴다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이런 위험 요인에 '소음'도 포함되는 것이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "세계보건기구(WHO)에 따르면 소음은 스트레스를 일으키고 호르몬 분비를 교란해 수면장애·정신질환·심혈관계 질환 등 다양한 질환을 유발한다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "임신성 당뇨 역시 이런 이유로 발생할 것으로 연구팀은 추정했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "연구를 진행한 민경복 서울대 의대 예방의학과 교수는“건강한 임신·출산에 소음 등 환경적인 스트레스도 큰 영향을 미친다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "출산 정책을 수립할 때 소음을 포함해 다양한 환경 오염 요인에 관심을 기울여야 할 것\\\"이라 말했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "한편, 이번 연구는 한국연구재단의 이공분야기초연구사업 지원으로 수행됐다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "관련 논문은 국제 학술지 ‘환경연구’ 최근호에 게재됐다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "야간 소음 심하면 임신성 당뇨 위험도 커진다··· 임산부들 '충격'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

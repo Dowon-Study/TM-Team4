@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198385",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/깊이 읽기] 해커 vs 미국 '30년 암호전쟁'",
+    "newsSubTitle": "",
+    "newsContent": "암호 혁명 스티븐 레비 지음 이충호 옮김, 경문사 479쪽, 1만8000원 다윗과 골리앗의 한판 승부는 언제나 매력적이다.\n작은 돌팔매 하나를 손에 쥔 소년 다윗이 앞에 뒀던 적이 단순했던 데 비해 현대의 적은 한층 복잡하다.\n이를테면 '국가'라는 거대 권력의 골리앗은 자신의 정보를 암호화해 사생활을 지키려는 개인들의 시도를 교묘한 방법으로 차단한다.\n암호화된 데이터는 도청이나 검색이 불가능해 국가 안전을 위협한다는 게 권력이 내세우던 거룩한 논리다.\n테러나 전쟁이야말로 이들의 논리에 힘을 실어주는 좋은 기회다. '뉴스위크'지의 과학전문기자인 저자는 MIT출신 해커와 컴퓨터 천재들로 구성된 '다윗'팀이 '골리앗' 미국 정부를 상대로 30년간 벌인 싸움의 결과, 암호화 기술이 상용화되기까지의 실화를 흥미롭게 풀어나간다.\n전자금융.인터넷 상거래.\n이메일 교환 등 이미 생활의 일부가 되버린 기술들이 알고보면 그들과의 싸움을 바탕으로 완성됐다는 사실이 흥미롭게 읽힌다.\n우연한 기술개발이 인류역사에 미치는 영향력에 대해서도 되새기게 한다.\n저자는 딱딱한 과학용어들을 정치와의 생생한 역학관계속에서 맛깔스럽게 요리해냈다.\n수십 년에 걸친 인터뷰 자료는 등장인물들에게 생명력을 불어넣고 소설같은 재미를 느끼게 한다.\n미국에서는 3년 전 출간돼 암호학의 역사를 새로운 방식으로 엮어낸 수작 다큐멘터리라는 평가를 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "암호 혁명 스티븐 레비 지음 이충호 옮김, 경문사 479쪽, 1만8000원 다윗과 골리앗의 한판 승부는 언제나 매력적이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "작은 돌팔매 하나를 손에 쥔 소년 다윗이 앞에 뒀던 적이 단순했던 데 비해 현대의 적은 한층 복잡하다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이를테면 '국가'라는 거대 권력의 골리앗은 자신의 정보를 암호화해 사생활을 지키려는 개인들의 시도를 교묘한 방법으로 차단한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "암호화된 데이터는 도청이나 검색이 불가능해 국가 안전을 위협한다는 게 권력이 내세우던 거룩한 논리다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "테러나 전쟁이야말로 이들의 논리에 힘을 실어주는 좋은 기회다. '뉴스위크'지의 과학전문기자인 저자는 MIT출신 해커와 컴퓨터 천재들로 구성된 '다윗'팀이 '골리앗' 미국 정부를 상대로 30년간 벌인 싸움의 결과, 암호화 기술이 상용화되기까지의 실화를 흥미롭게 풀어나간다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전자금융.인터넷 상거래.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이메일 교환 등 이미 생활의 일부가 되버린 기술들이 알고보면 그들과의 싸움을 바탕으로 완성됐다는 사실이 흥미롭게 읽힌다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "우연한 기술개발이 인류역사에 미치는 영향력에 대해서도 되새기게 한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "저자는 딱딱한 과학용어들을 정치와의 생생한 역학관계속에서 맛깔스럽게 요리해냈다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "수십 년에 걸친 인터뷰 자료는 등장인물들에게 생명력을 불어넣고 소설같은 재미를 느끼게 한다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "미국에서는 3년 전 출간돼 암호학의 역사를 새로운 방식으로 엮어낸 수작 다큐멘터리라는 평가를 받았다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "매일 사용하는 이메일, 사실 '그들'의 싸움 통해 발명되었다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

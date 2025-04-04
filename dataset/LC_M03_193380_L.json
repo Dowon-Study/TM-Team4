@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193380",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BookBriefing] '인턴 X' 外",
+    "newsSubTitle": "",
+    "newsContent": "◆김영사가 절판됐던 '인턴 X'(닥터 X 지음, 양정현 옮김, 380쪽, 1만900원)를 재출간했다.\n젊은이들에게 의사의 꿈을 키워주고, 의사들에게는 사명감을 일깨워 주었던 의학에세이다.\n첫 베스트 셀러로 김영사의 오늘이 있는데 기여한 책이기도 하다 ◆조선족 출신의 사진가 류은규의 사진집 '청학, 존재하는 꿈'(와우이미지, 200쪽, 3만원)이 나왔다.\n우리 고유의 풍습을 고스란히 간직한 지리상 청학동 주민들의 삶을, 코흘리개 소년이 어엿한 가장이 되기까지 26년에 걸쳐 기록한 귀한 책이다.\n◆'남북한말 비교사전'(조재수 편찬, 한겨레출판, 636쪽, 3만5000원)의 개정판이 출간됐다.\n남북한, 중국, 중앙아시아의 한민족이 사용하는 3만 어휘를 가려 뽑아 서로 비교하고 풀이한 책이다.\n북녘의 문화어, 토박이 방언과 문예작품에 쓰인 겨레말을 집중적으로 골랐다.\n◆직장생활에서 멘토가 일 대 일로 실무능력을 키워주듯 꾸민 '더난 B.M.W. 시리즈' 중 1차분이 선보였다.\n창의력을 키워주는 '아이디어 충전소'(박종하 지음, 더난출판사, 136쪽, 9000원), 마케팅 노하우를 일러주는 '마케팅 엔진', 실용문 작성법에 관한 '글쓰기 마법사' 3권이다.\n각 분야 전문가들의 핵심을 찌르는 설명이 눈길을 끄는 책이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆김영사가 절판됐던 '인턴 X'(닥터 X 지음, 양정현 옮김, 380쪽, 1만900원)를 재출간했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "젊은이들에게 의사의 꿈을 키워주고, 의사들에게는 사명감을 일깨워 주었던 의학에세이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "첫 베스트 셀러로 김영사의 오늘이 있는데 기여한 책이기도 하다 ◆조선족 출신의 사진가 류은규의 사진집 '청학, 존재하는 꿈'(와우이미지, 200쪽, 3만원)이 나왔다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "우리 고유의 풍습을 고스란히 간직한 지리상 청학동 주민들의 삶을, 코흘리개 소년이 어엿한 가장이 되기까지 26년에 걸쳐 기록한 귀한 책이다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◆'남북한말 비교사전'(조재수 편찬, 한겨레출판, 636쪽, 3만5000원)의 개정판이 출간됐다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "남북한, 중국, 중앙아시아의 한민족이 사용하는 3만 어휘를 가려 뽑아 서로 비교하고 풀이한 책이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "북녘의 문화어, 토박이 방언과 문예작품에 쓰인 겨레말을 집중적으로 골랐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "◆직장생활에서 멘토가 일 대 일로 실무능력을 키워주듯 꾸민 '더난 B.M.W. 시리즈' 중 1차분이 선보였다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "창의력을 키워주는 '아이디어 충전소'(박종하 지음, 더난출판사, 136쪽, 9000원), 마케팅 노하우를 일러주는 '마케팅 엔진', 실용문 작성법에 관한 '글쓰기 마법사' 3권이다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "각 분야 전문가들의 핵심을 찌르는 설명이 눈길을 끄는 책이다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김영사, 미래 의학도들에게 꼭 필요한 '잇템' 도서… '인턴 X' 재출간",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

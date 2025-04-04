@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196656",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "헬스장까지 겨우 15분, 게으름뱅이야. 빨리 일어서!",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 웃긴다! 79살이란다(39) “여보! 마트에 가서 파 한 단만 사 올래요?” “그래요. 갔다 올게.” 나는 냉큼 일어나 마트에 가서 파 한 단을 사서 왔다.\n마트까지는 집에서 불과 7분 거리다. “어마! 어쩌지? 들기름도 떨어진 걸 몰랐어. 한 번 더 갔다 오면 안 될까? 당신 운동 되고 좋잖아요.” 마누라는 일부러 웃어 보였다.\n나는 또 냉큼 일어섰다.\n싫은 표정도 없이. 마누라 말에 틀린 곳은 하나도 없다.\n집안에서 가만히 앉아 있는 것보다는 짧은 거리라도 걸으면 운동 되어 좋고 마누라 부탁에 군말 없이 심부름해주어서 좋기 때문이다.\n인간은 나이 들어 늙으면 다리에 근육이 차츰 사라진다고 들었다.\n근육이 퇴보하면 일단 걷지를 못하고, 걷지 못하면 그것은 죽은 목숨이나 진배없단다.\n꼭 그래서만이 아니라 요즘 내가 헬스장에 부지런히 다니는 이유 중의 하나는 ‘잘 걷기’ 위해서이다.\n헬스장에서는 주로 허벅지와 종아리의 근육운동에 중점을 둔다. ‘걷지 못하면 인생은 끝이다’라는 강박관념이 항상 내 머리를 짓누르기 때문이다.\n얼마 전까지만 해도 마누라와 둘이서 길을 걸을 때는 항상 내 걸음이 빠르다고 마누라한테 지청구를 맞곤 했는데 요즘의 내 걸음은 마누라의 걸음보다 눈에 띄게 조금씩 뒤처진다.\n결국 다리근육이 퇴보한다는 징조다.\n운동 전문가의 말에 의하면 나이 들어 활발히 걷기 위해서는 다리의 근육운동이 절대적이라고 했다.\n특히 나와 같이 바깥 외출이 뜸하고 집안에서만 활동하는 프리랜서(일러스트 작업)들에겐 근육운동은 필수다.\n나는 컴퓨터의 모니터 한쪽 옆 포스트잇에 쓰여 있는 글귀를 다시 한번 읽는다. ▶사는 날까지 아프지 않으려면 운동을 해라.\n▶운동하기 싫은가?\n그렇다면 삶을 포기하는 건데? ▶지팡이를 짚고 싶지 않으려면 다리에 근육을! ▶집에서 헬스장까지는 겨우 15분! 게으름뱅이야. 빨리 일어서!",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 웃긴다! 79살이란다(39) “여보! 마트에 가서 파 한 단만 사 올래요?” “그래요. 갔다 올게.” 나는 냉큼 일어나 마트에 가서 파 한 단을 사서 왔다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "마트까지는 집에서 불과 7분 거리다. “어마! 어쩌지? 들기름도 떨어진 걸 몰랐어. 한 번 더 갔다 오면 안 될까? 당신 운동 되고 좋잖아요.” 마누라는 일부러 웃어 보였다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "나는 또 냉큼 일어섰다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "싫은 표정도 없이. 마누라 말에 틀린 곳은 하나도 없다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "집안에서 가만히 앉아 있는 것보다는 짧은 거리라도 걸으면 운동 되어 좋고 마누라 부탁에 군말 없이 심부름해주어서 좋기 때문이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "인간은 나이 들어 늙으면 다리에 근육이 차츰 사라진다고 들었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "근육이 퇴보하면 일단 걷지를 못하고, 걷지 못하면 그것은 죽은 목숨이나 진배없단다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "꼭 그래서만이 아니라 요즘 내가 헬스장에 부지런히 다니는 이유 중의 하나는 ‘잘 걷기’ 위해서이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "헬스장에서는 주로 허벅지와 종아리의 근육운동에 중점을 둔다. ‘걷지 못하면 인생은 끝이다’라는 강박관념이 항상 내 머리를 짓누르기 때문이다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "얼마 전까지만 해도 마누라와 둘이서 길을 걸을 때는 항상 내 걸음이 빠르다고 마누라한테 지청구를 맞곤 했는데 요즘의 내 걸음은 마누라의 걸음보다 눈에 띄게 조금씩 뒤처진다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "결국 다리근육이 퇴보한다는 징조다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "운동 전문가의 말에 의하면 나이 들어 활발히 걷기 위해서는 다리의 근육운동이 절대적이라고 했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "특히 나와 같이 바깥 외출이 뜸하고 집안에서만 활동하는 프리랜서(일러스트 작업)들에겐 근육운동은 필수다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "나는 컴퓨터의 모니터 한쪽 옆 포스트잇에 쓰여 있는 글귀를 다시 한번 읽는다. ▶사는 날까지 아프지 않으려면 운동을 해라.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "▶운동하기 싫은가?",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "그렇다면 삶을 포기하는 건데? ▶지팡이를 짚고 싶지 않으려면 다리에 근육을! ▶집에서 헬스장까지는 겨우 15분! 게으름뱅이야. 빨리 일어서!",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "운동하기 싫다고? 인생 나락으로 가는 지름길... 지팡이 짚기 싫으면 헬스장으로 어서 GO!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194250",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[J-Style] “로고도 스타일 코드” 사이즈가 부쩍 커졌네",
+    "newsSubTitle": "",
+    "newsContent": "해외 명품 패션 브랜드에서 로고는 1990년대 후반까지만 해도 작거나 잘 안 보이게 숨겨져 있었다.\n명품의 주요 소비자는 드러내 놓고 과시하는 것보다 알 만한 사람만 알아보는 상품을 선호했기 때문이다.\n하지만 최근엔 달라졌다.\n작은 로고 대신 커다란 로고가 부각되고 있다.\n브랜드를 상징하는 이니셜이나 문장이 커다랗게 달린 가방이 거리 곳곳에서 눈에 띈다.\n문양이 가슴 한편에 큼지막하게 박혀 있는 티셔츠 역시 인기다.\n로고를 디자인 요소로 과감하게 응용하는 것도 새로운 추세다.\n명품 크리스털 업체 스와로브스키가 올해 초 선보인 ‘스완 플라워’는 이 같은 국내에서의 로고 인기에 힘입어 태어났다.\n스와로브스키 코리아 황선 사장은 “원래 브랜드를 상징했던 백조 문양을 기본으로 꽃 모양을 형상화한 것인데 로고가 드러난 제품을 유난히 좋아하는 국내 상황에서 힌트를 얻어 스위스 본사에 제안한 것”이라고 밝혔다.\n홍익대 정동련(시각디자인학과) 교수는 “로고는 시대와 문화에 따라 사회적 가치를 지니면서 지역적 감성에 맞게 문화 코드로 전개돼 왔다”면서 “최근 로고 열풍은 감성을 중시하는 여성 소비자의 구매력 향상이 원인”이라고 설명했다.\n그는 “ 안목이 높아지고 아트 마케팅이 활발해지면서 더욱 특별한 로고 디자인을 찾게 된 것도 한 이유”라고 덧붙였다.\n로고는 시대에 따라서도 변하고 있다.\n국내 소비자에게 특히 인기 높은 버버리는 지금까지 널리 알려졌던 체크 무늬 대신 창업자가 만들었던 오래된 로고를 2001년 최고급 라인에 도입해 강조하면서 새로운 이미지로 거듭나기도 했다.\n빅 로고 열풍은 국내 캐주얼 분야에서도 거세다.\n젊은층에 인기 높은 캐주얼 브랜드 ‘사쿤’은 장승의 이빨을 형상화한 독특한 로고 덕분에 주목 받고 있다.\n사쿤컴퍼니 강연석 대표는 “이제 로고는 그냥 상표가 아니라 스타일 상품의 소비자에게는 자신의 정체성의 상징”이라며 “요즘처럼 디자인 요소로 로고가 부각되는 추세는 그만큼 사람들이 스스로의 개성을 각자 소비하기 시작했다는 뜻”이라고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "해외 명품 패션 브랜드에서 로고는 1990년대 후반까지만 해도 작거나 잘 안 보이게 숨겨져 있었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "명품의 주요 소비자는 드러내 놓고 과시하는 것보다 알 만한 사람만 알아보는 상품을 선호했기 때문이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 최근엔 달라졌다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "작은 로고 대신 커다란 로고가 부각되고 있다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "브랜드를 상징하는 이니셜이나 문장이 커다랗게 달린 가방이 거리 곳곳에서 눈에 띈다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "문양이 가슴 한편에 큼지막하게 박혀 있는 티셔츠 역시 인기다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "로고를 디자인 요소로 과감하게 응용하는 것도 새로운 추세다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "명품 크리스털 업체 스와로브스키가 올해 초 선보인 ‘스완 플라워’는 이 같은 국내에서의 로고 인기에 힘입어 태어났다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "스와로브스키 코리아 황선 사장은 “원래 브랜드를 상징했던 백조 문양을 기본으로 꽃 모양을 형상화한 것인데 로고가 드러난 제품을 유난히 좋아하는 국내 상황에서 힌트를 얻어 스위스 본사에 제안한 것”이라고 밝혔다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "홍익대 정동련(시각디자인학과) 교수는 “로고는 시대와 문화에 따라 사회적 가치를 지니면서 지역적 감성에 맞게 문화 코드로 전개돼 왔다”면서 “최근 로고 열풍은 감성을 중시하는 여성 소비자의 구매력 향상이 원인”이라고 설명했다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그는 “ 안목이 높아지고 아트 마케팅이 활발해지면서 더욱 특별한 로고 디자인을 찾게 된 것도 한 이유”라고 덧붙였다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "로고는 시대에 따라서도 변하고 있다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "국내 소비자에게 특히 인기 높은 버버리는 지금까지 널리 알려졌던 체크 무늬 대신 창업자가 만들었던 오래된 로고를 2001년 최고급 라인에 도입해 강조하면서 새로운 이미지로 거듭나기도 했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "빅 로고 열풍은 국내 캐주얼 분야에서도 거세다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "젊은층에 인기 높은 캐주얼 브랜드 ‘사쿤’은 장승의 이빨을 형상화한 독특한 로고 덕분에 주목 받고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "사쿤컴퍼니 강연석 대표는 “이제 로고는 그냥 상표가 아니라 스타일 상품의 소비자에게는 자신의 정체성의 상징”이라며 “요즘처럼 디자인 요소로 로고가 부각되는 추세는 그만큼 사람들이 스스로의 개성을 각자 소비하기 시작했다는 뜻”이라고 설명했다.",
+        "sentenceSize": 134
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "명품도 트렌드 따라... 로고 사이즈가 커진 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

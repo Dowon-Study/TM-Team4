@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193361",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[최윤희·권혁재의 ‘날마다 행복’] 아, 딱 한 입만, 응?",
+    "newsSubTitle": "",
+    "newsContent": "[사진=권혁재 사진전문기자shotgun@joongang.co.kr] 아, 딱 한 입만, 응? 아이가 애절하게 쳐다본다.\n오빠, 딱 한 입만 응??? 그러나 오빠는 야박하다.\n얌마, 너도 인생의 쓴맛을 알아야 해. 네가 앞으로 헤쳐나가야 할 일이 한 두 가지가 아냐. 이것은 스파르타식 교육이야. 내가 너를 사랑하기 때문에 너를 강하게 만들고 있는 중이야. 바짝바짝 약을 올려야 너도 세상 사는 법을 배울 거 아냐? 어때? 라면 한 가락 얻어먹기가 만만치 않지?\n오빠는 후루룩~ 라면발을 삼키면서 짜릿한 쾌감을 느낀다.\n동생을 강하게 키워주는 '인생수업 중'이라고 주장한다.\n그러나 정말 그럴까요?\n-라면 한 가락이 아까워서 어떻게‘분양’을 하나요?\n-지금 내 배가 꼬르륵, 꼬르륵 난리 부르슨데 어찌 나눠먹을 수 있나요?\n아........라면은 달고 인생은 쓰다!",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[사진=권혁재 사진전문기자shotgun@joongang.co.kr] 아, 딱 한 입만, 응? 아이가 애절하게 쳐다본다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오빠, 딱 한 입만 응??? 그러나 오빠는 야박하다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "얌마, 너도 인생의 쓴맛을 알아야 해. 네가 앞으로 헤쳐나가야 할 일이 한 두 가지가 아냐. 이것은 스파르타식 교육이야. 내가 너를 사랑하기 때문에 너를 강하게 만들고 있는 중이야. 바짝바짝 약을 올려야 너도 세상 사는 법을 배울 거 아냐? 어때? 라면 한 가락 얻어먹기가 만만치 않지?",
+        "sentenceSize": 160
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오빠는 후루룩~ 라면발을 삼키면서 짜릿한 쾌감을 느낀다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "동생을 강하게 키워주는 '인생수업 중'이라고 주장한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 정말 그럴까요?",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "-라면 한 가락이 아까워서 어떻게‘분양’을 하나요?",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "-지금 내 배가 꼬르륵, 꼬르륵 난리 부르슨데 어찌 나눠먹을 수 있나요?",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아........라면은 달고 인생은 쓰다!",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "너를 사랑하기 때문에 너를 강하게 만들고 있는 중이라는 '꼰대' 오빠",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

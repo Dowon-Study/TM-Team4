@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193357",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[Book책갈피] 전직 '세계 경제대통령'의 회고록",
+    "newsSubTitle": "",
+    "newsContent": "격동의 시대 앨런 그린스펀 지음 현대경제연구원 옮김 북@북스, 736쪽, 2만5000원 지난달 21일 쿠바의 피델 카스트로가 한 책을 들고 인터뷰에 응하는 사진이 외신에 등장했다.\n3개월동안 외부에 모습을 드러내지 않아 그의 건강악화설이 나돌던 시점였다.\n카스트로가 들고 있던 책은 동갑내기(81세) 앨런 그린스펀 전 연방준비제도이사회(FRB)의장이 쓴 회고록였다.\n불과 4일 전인 17일 미국에서 판매되기 시작한 책이다.\n북한과 함께 가장 폐쇄적인 사회라는 쿠바의 지도자가 서둘러 구해볼 정도로 전 세계의 관심을 끈 그린스펀 회고록이 미국 시판 한달여만에 한국어판으로 나왔다.\n사실 이 책의 일부 내용은 이미 여러 차례 기사화됐다.\n그린스펀의 조지 W. 부시 대통령에 대한 혹평과 클린턴 전 대통령에 대한 칭찬, 이라트 전쟁은 석유때문에 발생했다는 주장 등은 즉각 논란의 대상이 되었다.\n97년 한국은행이 외환보유고로 돈놀이를 하는 바람에 외환위기를 막지 못했다는 그린스펀의 회고에 한국의 당시 정책담당자들이 “사실과 다르다”고 반박하기도 했다.\n그린스펀은 세계의 경제대통령이라는 FRB 의장으로 18년6개월 군림하는 동안 ‘애매모호한 화법(話法)’으로 유명했다.\n그러나 그의 회고는 애매모호하지 않다.\n음악가에서 경제학자로 변신하고 워싱턴 정가와 인연을 맺기까지 담담하게 그려지는 그의 인생이 매우 흥미롭다.\n경쟁과 시장주의, 그의 철학적 스승이라는 에인 랜드의 객관주의에 기반해 세상을 해석하고 전망하는 부분은 유익하다.\n최근 세계 경제를 뒤흔들고 있는 서브프라임 모기지 문제에 대한 자신의 시각(약간은 변명조인)도 담고 있다.\n경제에 관심있는 사람에게 꼭 권하고 싶은 책인데, 이 책(원서가 아닌 한국어판)에 약점이 많다는 게 걸린다.\n서두른 탓인지 번역이 너무 허술하다.\n숫자(연도나 금액)를 잘못 쓴 게 한두개가 아니다.\n직책에 대한 오역(비서실장→참모총장, 연방은행 총재→주지사)도 눈에 띈다.\n의미를 거꾸로 전달한 문장이나 요령부득으로 번역한 곳도 여러 군데다.\n한국어판을 읽다가 아무래도 이상해 원서와 대조한 결과다.\n정오표(正誤表)로 해결하기 쉽지 않을 정도다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "격동의 시대 앨런 그린스펀 지음 현대경제연구원 옮김 북@북스, 736쪽, 2만5000원 지난달 21일 쿠바의 피델 카스트로가 한 책을 들고 인터뷰에 응하는 사진이 외신에 등장했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "3개월동안 외부에 모습을 드러내지 않아 그의 건강악화설이 나돌던 시점였다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "카스트로가 들고 있던 책은 동갑내기(81세) 앨런 그린스펀 전 연방준비제도이사회(FRB)의장이 쓴 회고록였다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "불과 4일 전인 17일 미국에서 판매되기 시작한 책이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "북한과 함께 가장 폐쇄적인 사회라는 쿠바의 지도자가 서둘러 구해볼 정도로 전 세계의 관심을 끈 그린스펀 회고록이 미국 시판 한달여만에 한국어판으로 나왔다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사실 이 책의 일부 내용은 이미 여러 차례 기사화됐다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그린스펀의 조지 W. 부시 대통령에 대한 혹평과 클린턴 전 대통령에 대한 칭찬, 이라트 전쟁은 석유때문에 발생했다는 주장 등은 즉각 논란의 대상이 되었다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "97년 한국은행이 외환보유고로 돈놀이를 하는 바람에 외환위기를 막지 못했다는 그린스펀의 회고에 한국의 당시 정책담당자들이 “사실과 다르다”고 반박하기도 했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그린스펀은 세계의 경제대통령이라는 FRB 의장으로 18년6개월 군림하는 동안 ‘애매모호한 화법(話法)’으로 유명했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그러나 그의 회고는 애매모호하지 않다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "음악가에서 경제학자로 변신하고 워싱턴 정가와 인연을 맺기까지 담담하게 그려지는 그의 인생이 매우 흥미롭다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "경쟁과 시장주의, 그의 철학적 스승이라는 에인 랜드의 객관주의에 기반해 세상을 해석하고 전망하는 부분은 유익하다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "최근 세계 경제를 뒤흔들고 있는 서브프라임 모기지 문제에 대한 자신의 시각(약간은 변명조인)도 담고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "경제에 관심있는 사람에게 꼭 권하고 싶은 책인데, 이 책(원서가 아닌 한국어판)에 약점이 많다는 게 걸린다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "서두른 탓인지 번역이 너무 허술하다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "숫자(연도나 금액)를 잘못 쓴 게 한두개가 아니다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "직책에 대한 오역(비서실장→참모총장, 연방은행 총재→주지사)도 눈에 띈다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "의미를 거꾸로 전달한 문장이나 요령부득으로 번역한 곳도 여러 군데다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "한국어판을 읽다가 아무래도 이상해 원서와 대조한 결과다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "정오표(正誤表)로 해결하기 쉽지 않을 정도다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'격동의 시대' 한국어판 번역 '노답'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

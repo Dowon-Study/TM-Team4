@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195575",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "새로운 암치료 방법 될까…“고용량 비타민C로 암세포 죽인다”",
+    "newsSubTitle": "",
+    "newsContent": "고용량 비타민C로 암세포를 죽일 수 있다는 연구 결과가 나와 눈길을 끌고 있다.\n미국 아이오와대학 종합 암센터 영상종양 전문의 개리 뷔트너 박사는 비타민C를 정맥주사로 투여 혈중 수치를 대폭 높이면 암세포만 선택적으로 죽일 수 있다는 연구결과를 ‘산화환원 생물학’(Retox Biology) 최신호에 발표했다.\n뷔트너 박사에 따르면 비타민C를 정맥주사로 직접 투여하면 정상적인 대사와 배설의 과정을 거치지 않기 때문에 경구 투여보다 혈중 농도를 100~500배 늘릴 수 있으며, 이러한 초고농도 비타민C는 암세포를 죽이는 능력을 갖게 된다.\n이 같은 사실은 시험관 실험과 쥐 실험을 거쳐 예비 임상시험을 통해 확인됐다고 그는 설명했다.\n간암과 췌장암 환자를 대상으로 진행된 예비 임상시험에서 표준 항암치료(화학요법 또는 방사선 치료)와 함께 비타민C 정맥주사를 병행한 결과 환자의 전반적인 상태가 개선됐다.\n비타민C 정맥주사가 암 환자의 생존율을 높이는 효과가 있는지를 알아내기 위해 연구팀은 현재 더 많은 암 환자들을 대상으로 본격적인 임상시험을 진행하고 있다.\n뷔트너 박사는 “비타민C의 이러한 효과는 비타민C가 분해될 때 나오는 과산화수소가 조직과 DNA를 손상시키는데 정상 세포는 과산화수소를 최소한으로 줄이는 여러 가지 수단이 있지만 암세포는 이러한 능력이 약하기 때문”이라고 설명했다.\n결국 고농도 비타민C는 정상 세포에는 영향을 미치지 않으면서 암세포만 손상시킨다는 것이다.\n비타민C가 분해하면서 생성되는 과산화수소를 제거하는 데 핵심적인 역할을 하는 것은 효소 카탈라아제(catalase)라는 사실도 밝혀졌다.\n카탈라아제의 활동이 약한 세포는 고용량의 비타민C에 노출됐을 때 손상되거나 죽을 수 있다고 뷔트너 박사는 밝혔다.\n따라서 카탈라아제가 적은 암세포일수록 고용량 비타민C가 효과가 클 것이라고 그는 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "고용량 비타민C로 암세포를 죽일 수 있다는 연구 결과가 나와 눈길을 끌고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미국 아이오와대학 종합 암센터 영상종양 전문의 개리 뷔트너 박사는 비타민C를 정맥주사로 투여 혈중 수치를 대폭 높이면 암세포만 선택적으로 죽일 수 있다는 연구결과를 ‘산화환원 생물학’(Retox Biology) 최신호에 발표했다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뷔트너 박사에 따르면 비타민C를 정맥주사로 직접 투여하면 정상적인 대사와 배설의 과정을 거치지 않기 때문에 경구 투여보다 혈중 농도를 100~500배 늘릴 수 있으며, 이러한 초고농도 비타민C는 암세포를 죽이는 능력을 갖게 된다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 같은 사실은 시험관 실험과 쥐 실험을 거쳐 예비 임상시험을 통해 확인됐다고 그는 설명했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "간암과 췌장암 환자를 대상으로 진행된 예비 임상시험에서 표준 항암치료(화학요법 또는 방사선 치료)와 함께 비타민C 정맥주사를 병행한 결과 환자의 전반적인 상태가 개선됐다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "비타민C 정맥주사가 암 환자의 생존율을 높이는 효과가 있는지를 알아내기 위해 연구팀은 현재 더 많은 암 환자들을 대상으로 본격적인 임상시험을 진행하고 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "뷔트너 박사는 “비타민C의 이러한 효과는 비타민C가 분해될 때 나오는 과산화수소가 조직과 DNA를 손상시키는데 정상 세포는 과산화수소를 최소한으로 줄이는 여러 가지 수단이 있지만 암세포는 이러한 능력이 약하기 때문”이라고 설명했다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "결국 고농도 비타민C는 정상 세포에는 영향을 미치지 않으면서 암세포만 손상시킨다는 것이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "비타민C가 분해하면서 생성되는 과산화수소를 제거하는 데 핵심적인 역할을 하는 것은 효소 카탈라아제(catalase)라는 사실도 밝혀졌다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "카탈라아제의 활동이 약한 세포는 고용량의 비타민C에 노출됐을 때 손상되거나 죽을 수 있다고 뷔트너 박사는 밝혔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "따라서 카탈라아제가 적은 암세포일수록 고용량 비타민C가 효과가 클 것이라고 그는 설명했다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고용량 비타민C는 어떻게 암세포를 죽일 수 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

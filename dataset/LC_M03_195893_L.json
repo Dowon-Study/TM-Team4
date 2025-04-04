@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195893",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "수면부족이 비만 원인? 수면 부족→세로토닌 부족→비만 \\\"세로토닌이 뭐길래?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'수면부족 비만 원인' 수면부족 비만 원인이 관심을 끌고 있다.\n수면 부족과 가장 밀접한 관련이 있는 것이 바로 스트레스다.\n행복 호르몬으로 알려진 세로토닌의 수치가 낮은 사람은 스트레스 받을 확률이 높다.\n만성 스트레스로 세로토닌 수치가 떨어진 사람들은 통증도 더 쉽게 느끼고 소화불량, 변비 그리고 수면 부족에 시달린다.\n모두가 다 그런 것은 아니지만, 수면시간이 부족하거나 잠드는 시간이 늦는 경우에는 평균적으로 체지방 축적이 잘 이루어지기 때문에 비만환자 중에 불면증을 가진 사람이 많다.\n불안감이나 우울감이 커져 세로토닌 수치가 낮아진 사람은 배가 부르다는 느낌이 떨어져 과식하는 경향을 보이는 것이고, 결국 탄수화물의 과잉 섭취로 체중이 늘어나게 된다.\n특히 혈당을 빠르게 높이는 음식은 일시적으로 세로토닌 분비를 자극하기 때문에 잠이 모자랄수록, 우울할수록 단 음식에 대한 욕구가 늘어나게 된다.\n또 신체학적으로도 인체는 수면부족에 대한 스트레스를 포만감으로 해소하려고 하는 특징이 있다.\n또 수면부족 원인 비만은 신경전달물질인 도파민도 비만과 관련이 있다.\n이 호르몬은 스릴을 느끼거나 무언가 도전해보고자 하는 의욕이 생길 때 분비되는데, 기름진 음식을 먹을 때나 카페인 음료를 마실 때, 운동 직후에도 그 수치가 일시적으로 올라간다.\n도파민은 자극에 대해 강력한 보상을 제공하지만 시간이 지나면 다시 결핍 상태에 빠져 고당질, 고지방 음식을 찾게 만든다.\n한편 미국의 건강포털 헬스닷컴이 뱃살이 잘 빠지지 않는 이유에 대래 공개했다.\n식이요법과 함께 운동을 열심히 하는데도 뱃살이 빠지지 않는다면 운동방식을 점검해 볼 필요가 있다.\n지방을 태우려면 달리기 등 유산소 운동과 근육운동을 병행할 필요가 있다.\n유산소운동이 칼로리 소모에 효과가 있지만 근육운동은 오랜 시간 더 많은 칼로리를 없앨 수 있다.\n특히 여성들은 역기나 바벨 등의 근육운동을 한다고 해서 남성과 같은 근육이 생기지 않는다.\n때문에 적당한 무게를 이용한 근육운동은 날씬하면서도 다듬어진 몸매를 갖게 한다.\n온라인 중앙일보 '수면부족 비만 원인' [사진·일러스트 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'수면부족 비만 원인' 수면부족 비만 원인이 관심을 끌고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "수면 부족과 가장 밀접한 관련이 있는 것이 바로 스트레스다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "행복 호르몬으로 알려진 세로토닌의 수치가 낮은 사람은 스트레스 받을 확률이 높다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "만성 스트레스로 세로토닌 수치가 떨어진 사람들은 통증도 더 쉽게 느끼고 소화불량, 변비 그리고 수면 부족에 시달린다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "모두가 다 그런 것은 아니지만, 수면시간이 부족하거나 잠드는 시간이 늦는 경우에는 평균적으로 체지방 축적이 잘 이루어지기 때문에 비만환자 중에 불면증을 가진 사람이 많다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "불안감이나 우울감이 커져 세로토닌 수치가 낮아진 사람은 배가 부르다는 느낌이 떨어져 과식하는 경향을 보이는 것이고, 결국 탄수화물의 과잉 섭취로 체중이 늘어나게 된다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 혈당을 빠르게 높이는 음식은 일시적으로 세로토닌 분비를 자극하기 때문에 잠이 모자랄수록, 우울할수록 단 음식에 대한 욕구가 늘어나게 된다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 신체학적으로도 인체는 수면부족에 대한 스트레스를 포만감으로 해소하려고 하는 특징이 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 수면부족 원인 비만은 신경전달물질인 도파민도 비만과 관련이 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 호르몬은 스릴을 느끼거나 무언가 도전해보고자 하는 의욕이 생길 때 분비되는데, 기름진 음식을 먹을 때나 카페인 음료를 마실 때, 운동 직후에도 그 수치가 일시적으로 올라간다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "도파민은 자극에 대해 강력한 보상을 제공하지만 시간이 지나면 다시 결핍 상태에 빠져 고당질, 고지방 음식을 찾게 만든다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "한편 미국의 건강포털 헬스닷컴이 뱃살이 잘 빠지지 않는 이유에 대래 공개했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "식이요법과 함께 운동을 열심히 하는데도 뱃살이 빠지지 않는다면 운동방식을 점검해 볼 필요가 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "지방을 태우려면 달리기 등 유산소 운동과 근육운동을 병행할 필요가 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "유산소운동이 칼로리 소모에 효과가 있지만 근육운동은 오랜 시간 더 많은 칼로리를 없앨 수 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "특히 여성들은 역기나 바벨 등의 근육운동을 한다고 해서 남성과 같은 근육이 생기지 않는다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "때문에 적당한 무게를 이용한 근육운동은 날씬하면서도 다듬어진 몸매를 갖게 한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "온라인 중앙일보 '수면부족 비만 원인' [사진·일러스트 중앙포토]",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "수면 부족과 비만의 상관관계... 세로토닌이 뭐길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

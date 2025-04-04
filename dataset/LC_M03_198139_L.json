@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198139",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[짤막소식] 밀레니엄 서울힐튼 시즌즈 外",
+    "newsSubTitle": "",
+    "newsContent": "■밀레니엄 서울힐튼 시즌즈는 지중해식 해산물요리 특선을 진행 중이다.\n바닷가재 샐러드, 요구르트와 지중해식 콩수프, 오징어 리조토와 새우, 파마산 치즈와 케이퍼 레몬소스의 아귀 요리로 이어지는 코스 메뉴로 값은 9만8000원. 02-317-3060. ■코엑스 인터컨티넨탈 호텔은 27일 오후 7시부터 하모니 볼룸 연회장에서 한여름 밤의 댄스 스포츠 파티를 연다. 전문 댄스팀의 축하 공연과 함께 왈츠·탱고·차차차 등 다양한 춤을 즐길 수 있다. 10여 가지 종류의 스낵 뷔페와 더불어 맥주와 와인을 양껏 마실 수 있다.\n참가비 5만원. 02-3430-8686. ■서울신라호텔 더 파크뷰는 16일부터 다음달 5일까지 ‘아시안 누들 페스티벌’을 마련한다.\n완탕·팟타이·소바·홍콩면 등 아시아 각국의 다양한 면 요리를 만날 수 있다.\n점심 4만9000원, 저녁 5만3000원. 02-2230-3374. ■와인전문 출판사 와인북스는 보르도 와인 평가서 『로버트 파커의 보르도 와인』(원제 Bordeaux)을 번역 출간했다.\n로버트 파커는 세계에서 가장 영향력이 큰 와인 비평가. 파커는 이 책에서 포도 재배 상황과 수확량, 1961년부터 2001년까지의 빈티지에 대한 개요 등을 소개하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "■밀레니엄 서울힐튼 시즌즈는 지중해식 해산물요리 특선을 진행 중이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "바닷가재 샐러드, 요구르트와 지중해식 콩수프, 오징어 리조토와 새우, 파마산 치즈와 케이퍼 레몬소스의 아귀 요리로 이어지는 코스 메뉴로 값은 9만8000원. 02-317-3060. ■코엑스 인터컨티넨탈 호텔은 27일 오후 7시부터 하모니 볼룸 연회장에서 한여름 밤의 댄스 스포츠 파티를 연다. 전문 댄스팀의 축하 공연과 함께 왈츠·탱고·차차차 등 다양한 춤을 즐길 수 있다. 10여 가지 종류의 스낵 뷔페와 더불어 맥주와 와인을 양껏 마실 수 있다.",
+        "sentenceSize": 251
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "참가비 5만원. 02-3430-8686. ■서울신라호텔 더 파크뷰는 16일부터 다음달 5일까지 ‘아시안 누들 페스티벌’을 마련한다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "완탕·팟타이·소바·홍콩면 등 아시아 각국의 다양한 면 요리를 만날 수 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "점심 4만9000원, 저녁 5만3000원. 02-2230-3374. ■와인전문 출판사 와인북스는 보르도 와인 평가서 『로버트 파커의 보르도 와인』(원제 Bordeaux)을 번역 출간했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "로버트 파커는 세계에서 가장 영향력이 큰 와인 비평가. 파커는 이 책에서 포도 재배 상황과 수확량, 1961년부터 2001년까지의 빈티지에 대한 개요 등을 소개하고 있다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "밀레니엄 서울힐튼 시즌즈, '이 지역' 해산물 요리 특선 제공",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

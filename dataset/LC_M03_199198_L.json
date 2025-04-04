@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199198",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "순둥이 물티슈, 크리스마스 특별 한정판 발매",
+    "newsSubTitle": "",
+    "newsContent": "유·아동 전용 물티슈 브랜드 '순둥이'가 크리스마스를 맞이해 30일부터 크리스마스 특별 한정판을 판매한다. 2015 순둥이 크리스마스 에디션은 산타클로스가 된 순둥이와 루돌프가 된 순둥이 2가지 버전으로 선보인다.\n영ㆍ유아도 편하게 쓸 수 있는 무향 물티슈로 라임오일이 함유돼 사용 후 끈적임 없이 마무리되고, 자연에서 찾은 동백꽃 추출물은 겨울철 건조하기 쉬운 피부를 자극 없이 부드럽게 닦아준다.\n또 넉넉한 80매로 구성되어 실용성과 합리성을 동시에 갖췄으며, 톡톡 튀는 디자인으로 제품을 어느 곳에나 놓아두기만 해도 크리스마스 분위기를 연출할 수 있다.\n순둥이 크리스마스 에디션을 구매하면 주문 1건당 100원이 아동복지시설에 자동 기부되는 ‘착한 구매 착한 소비’ 캠페인도 진행한다.\n이와 함께 전원 로하스 휴대용 물티슈(10매)를 증정하고, 캡형ㆍ리필형 혼합 구성 구매구객에게는 2000원 할인혜택이 제공된다.\n이외에도 티몬에서는 댓글 이벤트도 진행하고 있다.\n한편, 순둥이몰에서 구매한 고객에게는 더 다양한 혜택이 기다리고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유·아동 전용 물티슈 브랜드 '순둥이'가 크리스마스를 맞이해 30일부터 크리스마스 특별 한정판을 판매한다. 2015 순둥이 크리스마스 에디션은 산타클로스가 된 순둥이와 루돌프가 된 순둥이 2가지 버전으로 선보인다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영ㆍ유아도 편하게 쓸 수 있는 무향 물티슈로 라임오일이 함유돼 사용 후 끈적임 없이 마무리되고, 자연에서 찾은 동백꽃 추출물은 겨울철 건조하기 쉬운 피부를 자극 없이 부드럽게 닦아준다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 넉넉한 80매로 구성되어 실용성과 합리성을 동시에 갖췄으며, 톡톡 튀는 디자인으로 제품을 어느 곳에나 놓아두기만 해도 크리스마스 분위기를 연출할 수 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "순둥이 크리스마스 에디션을 구매하면 주문 1건당 100원이 아동복지시설에 자동 기부되는 ‘착한 구매 착한 소비’ 캠페인도 진행한다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이와 함께 전원 로하스 휴대용 물티슈(10매)를 증정하고, 캡형ㆍ리필형 혼합 구성 구매구객에게는 2000원 할인혜택이 제공된다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이외에도 티몬에서는 댓글 이벤트도 진행하고 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 순둥이몰에서 구매한 고객에게는 더 다양한 혜택이 기다리고 있다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유·아동 전용 물티슈 브랜드 '순둥이', 이 날을 맞이해 30일부터 특별 한정판 판매",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

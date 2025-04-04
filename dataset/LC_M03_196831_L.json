@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196831",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "피터팬 증후군, 각 연령별 피터팬 증후군? '영원히 아이이고 싶은 어른'",
+    "newsSubTitle": "",
+    "newsContent": "‘피터팬 증후군’이라는 용어가 포털사이트를 중심으로 화제가 되고 있다.\n피터팬 증후군은 1970년대 후반 미국의 임상심리학자 D.카일리가 제창한 개념으로, 어른들 사회에 끼지 못하는 ‘어른아이’ 증후군을 겪는 남성들을 일컫는 의학 용어다.\n피터팬 증후군은 사춘기 이전부터 청년기에 이르는 각 단계에서 증상을 보인다.\n초등학생~중학생 시기의 피터팬 증후군의 증상은 무책임함이다.\n육체적으로는 성숙했지만 언제까지나 어린이로 있고 싶은 마음에 책임감있는 행동을 하지 않는다.\n중학생 나이에서의 피터팬 증후군 증상은 불안이다.\n겉으로는 명랑하게 있지만 내면 깊숙한 곳에는 불안이 자리잡고 있다.\n여기에 무책임한 성격까지 더해지면 사람이 한없이 나태해지거나 자괴감에 빠져들기도 한다.\n고등학생 정도의 나이에서의 피터팬 증후군 증상은 고독이다.\n고독을 비정상적으로 싫어하며 언제나 어떤 그룹에 속해있고 싶어한다.\n따돌림을 가장 싫어하며 주체성이 부족하고 유행에 이끌린다.\n대학생 정도 청년기에서의 피터팬 증후군 증상은 성 역할의 갈등이다.\n여성에게 남성다움을 어필하면서도 어떤 측면에선 여성의 모성애를 갈구한다. 20대 중반의 피터팬 증후군 증상은 자기애(自己愛)다. ‘나르시시즘’이라고도 하는데, 필요이상의 완전함을 추구하며 현실에서 달성 불가능하다고 여기자 현실 세계를 도피하는 증상을 보인다.\n사회인의 피터팬 증후군 증상은 남존여비사상이다.\n여성을 완전히 이해한다며 남녀가 동등하다는 페미니스트를 스스로 자처하지만, 실제로 모든 책임을 여성에게 떠맡기는 경향을 보인다.\n사회적으로 무능하며 매사에 무기력하고 스스로에 싫증을 느끼기도 한다.\n온라인 중앙일보 피터팬 증후군",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘피터팬 증후군’이라는 용어가 포털사이트를 중심으로 화제가 되고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "피터팬 증후군은 1970년대 후반 미국의 임상심리학자 D.카일리가 제창한 개념으로, 어른들 사회에 끼지 못하는 ‘어른아이’ 증후군을 겪는 남성들을 일컫는 의학 용어다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "피터팬 증후군은 사춘기 이전부터 청년기에 이르는 각 단계에서 증상을 보인다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "초등학생~중학생 시기의 피터팬 증후군의 증상은 무책임함이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "육체적으로는 성숙했지만 언제까지나 어린이로 있고 싶은 마음에 책임감있는 행동을 하지 않는다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "중학생 나이에서의 피터팬 증후군 증상은 불안이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "겉으로는 명랑하게 있지만 내면 깊숙한 곳에는 불안이 자리잡고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "여기에 무책임한 성격까지 더해지면 사람이 한없이 나태해지거나 자괴감에 빠져들기도 한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "고등학생 정도의 나이에서의 피터팬 증후군 증상은 고독이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "고독을 비정상적으로 싫어하며 언제나 어떤 그룹에 속해있고 싶어한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "따돌림을 가장 싫어하며 주체성이 부족하고 유행에 이끌린다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "대학생 정도 청년기에서의 피터팬 증후군 증상은 성 역할의 갈등이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "여성에게 남성다움을 어필하면서도 어떤 측면에선 여성의 모성애를 갈구한다. 20대 중반의 피터팬 증후군 증상은 자기애(自己愛)다. ‘나르시시즘’이라고도 하는데, 필요이상의 완전함을 추구하며 현실에서 달성 불가능하다고 여기자 현실 세계를 도피하는 증상을 보인다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "사회인의 피터팬 증후군 증상은 남존여비사상이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "여성을 완전히 이해한다며 남녀가 동등하다는 페미니스트를 스스로 자처하지만, 실제로 모든 책임을 여성에게 떠맡기는 경향을 보인다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "사회적으로 무능하며 매사에 무기력하고 스스로에 싫증을 느끼기도 한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "온라인 중앙일보 피터팬 증후군",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "각 연령별 피터팬 증후군, 한 번이라도 잘못되면 평생 나태하게 살 수도",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

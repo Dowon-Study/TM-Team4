@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193433",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[World클릭] WHO \\\"흡연자 채용 안 해요\\\"",
+    "newsSubTitle": "",
+    "newsContent": "세계보건기구(WHO)가 흡연자를 직원으로 일절 채용하지 않기로 했다.\n궐련이든, 씹는 담배든, 코담배든 종류를 불문하고 담배를 애호하는 사람에 대해서는 취업 기회를 박탈하기로 한 것이다.\n이 조치는 1일부터 시행에 들어갔다.\n안내 광고엔 \\\"WHO는 담배연기가 없는 청정지역이다. 일체의 담배 이용자는 WHO에서 일자리를 얻을 수 없다\\\"는 문구가 담겼다.\n앞서 WTO는 직원 2400여 명에게는 \\\"흡연의 확산을 막기 위해 노력하자\\\"는 내용의 편지를 보냈다.\n직원 중 흡연자들에 대해선 담배를 끊으라고 권고했다.\n이안 심슨 WHO 대변인은 \\\"WHO는 흡연과 담배산업을 억제하기 위한 캠페인을 벌이고 있으며, 국제 금연협약 체결도 추진 중\\\"이라고 밝혔다고 영국 BBC 방송이 2일 보도했다.\n흡연을 하는 수백 명의 WHO 직원들은 지난달 30일 항의 표시로 하루 동안 파업을 했다.\n그러자 다음날 즉각 흡연자 채용 금지조치가 발효됐다.\nWHO에선 일자리와 맞바꿀 각오가 돼 있지 않는 한 담배를 피우기 어려울 것 같다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세계보건기구(WHO)가 흡연자를 직원으로 일절 채용하지 않기로 했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "궐련이든, 씹는 담배든, 코담배든 종류를 불문하고 담배를 애호하는 사람에 대해서는 취업 기회를 박탈하기로 한 것이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 조치는 1일부터 시행에 들어갔다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "안내 광고엔 \\\"WHO는 담배연기가 없는 청정지역이다. 일체의 담배 이용자는 WHO에서 일자리를 얻을 수 없다\\\"는 문구가 담겼다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 WTO는 직원 2400여 명에게는 \\\"흡연의 확산을 막기 위해 노력하자\\\"는 내용의 편지를 보냈다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "직원 중 흡연자들에 대해선 담배를 끊으라고 권고했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이안 심슨 WHO 대변인은 \\\"WHO는 흡연과 담배산업을 억제하기 위한 캠페인을 벌이고 있으며, 국제 금연협약 체결도 추진 중\\\"이라고 밝혔다고 영국 BBC 방송이 2일 보도했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "흡연을 하는 수백 명의 WHO 직원들은 지난달 30일 항의 표시로 하루 동안 파업을 했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그러자 다음날 즉각 흡연자 채용 금지조치가 발효됐다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "WHO에선 일자리와 맞바꿀 각오가 돼 있지 않는 한 담배를 피우기 어려울 것 같다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "WHO 흡연과의 전쟁 선포, 노담 직원만 일할 수 있다는데…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

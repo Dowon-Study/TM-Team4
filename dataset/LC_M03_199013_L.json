@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199013",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "검진 정확성 높이는 기구 개발…\\\"아픈 환자 생각하다 특허까지 내게됐죠\\\"",
+    "newsSubTitle": "세브란스병원 영상의학과 고재규씨",
+    "newsContent": "[배지영 기자] 의료계에도 특허 열풍이 일고 있다.\n의사들부터 시작된 의료기기·장치 개발 열풍이 이제 의료계 전반으로 확산되고 있다.\n비단 치료하는 기계뿐 아니라 환자의 편의를 돕는 장치, 보조기구 등의 개발도 활발하다.\n세브란스병원 영상의학과 고재규 방사선사도 그런 의료인 중에 하나다.\n그가 만든 기구는 어깨 통증이 있는 환자들이 방사선 검사를 할 때 통증을 줄여주는 장치(Shoulder axial device·jaekyuer)이다.\n보통 어깨 통증이 있는 환자는 팔을 들어올리기가 힘들어 침상에 누워 팔을 벌린 상태에서 촬영한다.\n하지만 벌린 팔이 침상 아래로 쳐지면 환자에게 통증을 유발해 정확한 촬영 자세를 유지하는 데 어려움이 많다.\n사진을 잘못 찍어 다시 찍어야하거나, 오진이 날 수도 있는 것이다.\n또 정확한 촬영을 위해서 일반적으로 각진 베개를 이용해 어깨를 들어올리는데, 환자의 등이 닿는 패드 모서리 부분 때문에 불편함이 많다.\n그래서 어깨 통증이 심한 환자에게 무리를 주는 경우가 발생한다.\n환자가 정확한 자세를 잡지 못하면 보호자나 다른 사람이 환자를 잡고 있어야 하는데, 이때 불필요한 방사선 피폭이 생길 수도 있다. 고씨는 환자들이 사진을 찍을 때마다 심한 통증을 호소하는 것을 보고 개선하는 방법이 없을까 고민했다.\n2013년에 한 할머니 환자를 만난 것이 계기였다.\n어깨 통증이 너무 심했던 탓에 도저히 아파서 검사를 받을 수 없겠다고 고집을 피웠다.\n차라리 아픈 채 살아가는 게 낫다는 할머니의 말을 듣고 환자들이 편하게 검사를 받을 수 있는 방법을 생각하게 된 것이다. 고씨가 발명한 기구는 영상 촬영을 할 때 팔이 떨어지는 각도와 무관하게 팔을 지지하도록 해준다.\n팔이 침상 아래 방향으로 떨어지는 것도 막고, X선도 왜곡되지 않도록해 병변 부위가 바르게 보이도록 설계됐다.\n또 기존에는 환자의 몸이 받침대의 모서리에 닿아 통증이 심했다면, 해당 기구는 패드의 모서리 부분을 없게 해 불편함을 느끼지 않도록했다.\n실제 기구 사용 후 영상이 더욱 정확하게 찍히는 것을 확인할 수 있었으며, 환자들의 통증도 거의 없게됐다.\n환자에게 자세를 바르게 잡도록 설명하고, 영상이 안 나올 것 같으면 다시 자세를 잡는 일 등이 없어 시간도 훨씬 단축됐다.\n환자의 편의성을 어떻게 하면 높여줄 수 있을까하는 작은 고민이 영상진단의 정확도를 올리고, 검사 시간을 아낄 수 있는 훌륭한 기구 개발로까지 이어진 것이다. 고씨는 앞으로 노력을 더 경주하겠다는 포부다. “10년 전 처음 입사 때 내가 맡은 분야에서 전문가가 되어야겠다고 다짐했는데, 이 생각이 어느 정도 실현된 것 같다”며 “앞으로도 환자에게 더욱 관심을 기울이고 봉사를 하며, 여러 다른 기구들도 더 만들어보고 싶다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[배지영 기자] 의료계에도 특허 열풍이 일고 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "의사들부터 시작된 의료기기·장치 개발 열풍이 이제 의료계 전반으로 확산되고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "비단 치료하는 기계뿐 아니라 환자의 편의를 돕는 장치, 보조기구 등의 개발도 활발하다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "세브란스병원 영상의학과 고재규 방사선사도 그런 의료인 중에 하나다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그가 만든 기구는 어깨 통증이 있는 환자들이 방사선 검사를 할 때 통증을 줄여주는 장치(Shoulder axial device·jaekyuer)이다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "보통 어깨 통증이 있는 환자는 팔을 들어올리기가 힘들어 침상에 누워 팔을 벌린 상태에서 촬영한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 벌린 팔이 침상 아래로 쳐지면 환자에게 통증을 유발해 정확한 촬영 자세를 유지하는 데 어려움이 많다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "사진을 잘못 찍어 다시 찍어야하거나, 오진이 날 수도 있는 것이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 정확한 촬영을 위해서 일반적으로 각진 베개를 이용해 어깨를 들어올리는데, 환자의 등이 닿는 패드 모서리 부분 때문에 불편함이 많다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그래서 어깨 통증이 심한 환자에게 무리를 주는 경우가 발생한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "환자가 정확한 자세를 잡지 못하면 보호자나 다른 사람이 환자를 잡고 있어야 하는데, 이때 불필요한 방사선 피폭이 생길 수도 있다. 고씨는 환자들이 사진을 찍을 때마다 심한 통증을 호소하는 것을 보고 개선하는 방법이 없을까 고민했다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "2013년에 한 할머니 환자를 만난 것이 계기였다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "어깨 통증이 너무 심했던 탓에 도저히 아파서 검사를 받을 수 없겠다고 고집을 피웠다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "차라리 아픈 채 살아가는 게 낫다는 할머니의 말을 듣고 환자들이 편하게 검사를 받을 수 있는 방법을 생각하게 된 것이다. 고씨가 발명한 기구는 영상 촬영을 할 때 팔이 떨어지는 각도와 무관하게 팔을 지지하도록 해준다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "팔이 침상 아래 방향으로 떨어지는 것도 막고, X선도 왜곡되지 않도록해 병변 부위가 바르게 보이도록 설계됐다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "또 기존에는 환자의 몸이 받침대의 모서리에 닿아 통증이 심했다면, 해당 기구는 패드의 모서리 부분을 없게 해 불편함을 느끼지 않도록했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "실제 기구 사용 후 영상이 더욱 정확하게 찍히는 것을 확인할 수 있었으며, 환자들의 통증도 거의 없게됐다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "환자에게 자세를 바르게 잡도록 설명하고, 영상이 안 나올 것 같으면 다시 자세를 잡는 일 등이 없어 시간도 훨씬 단축됐다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "환자의 편의성을 어떻게 하면 높여줄 수 있을까하는 작은 고민이 영상진단의 정확도를 올리고, 검사 시간을 아낄 수 있는 훌륭한 기구 개발로까지 이어진 것이다. 고씨는 앞으로 노력을 더 경주하겠다는 포부다. “10년 전 처음 입사 때 내가 맡은 분야에서 전문가가 되어야겠다고 다짐했는데, 이 생각이 어느 정도 실현된 것 같다”며 “앞으로도 환자에게 더욱 관심을 기울이고 봉사를 하며, 여러 다른 기구들도 더 만들어보고 싶다”고 말했다.",
+        "sentenceSize": 241
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "요즘 의사들, 치료만 하는 게 아니라 '이런 것'까지 한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

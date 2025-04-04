@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197159",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "눈 빨리 굴리면 나쁜 기억이 싹 ~",
+    "newsSubTitle": "안구 운동 재처리 요법으로 외상 후 스트레스 치료 효과",
+    "newsContent": "'새해엔 과거의 나쁜 기억을 극복하고, 새로운 마음으로 출발하고 싶다!' 이런 사람이 있다면 안구운동 민감처리 재처리요법(EMDR)을 활용해 보자.\nEMDR은 빠른 안구운동을 통해 억압된 기억에 접근, 이를 해소하는 정신치료 기법. 1987년 미국의 심리학자인 사피로 박사가 빠른 안구운동이 부정적이고, 나쁜 기억을 감소시킨다는 사실을 발견해 체계화했다.\n한양대 구리병원 정신과 김대호 교수는 \\\"고통스러운 사건에 대한 기억은 뇌의 변연계에 갇혀 묻혀버리거나, 지속적으로 반추돼 대뇌를 자극한다\\\"며 \\\"안구운동을 통해 닫힌 기억회로에 접근, 고통스러운 사건을 재현함으로써 치료하는 것\\\"이라고 설명했다.\nEMDR이 가장 많이 활용되는 분야는 외상후 스트레스 증후군(PTSD). 교통사고.폭행.성폭행 등 충격적인 사건을 경험한 뒤 사고에 대한 반복적 회상이나 악몽에 시달리는 것을 말한다.\n매사에 과민 반응을 보이고, 우울.불안증은 물론 흥미를 상실해 사회생활을 어렵게 만들기도 한다.\n치료방법은 비교적 간단하다.\n환자는 아이스캔의 움직이는 불빛을 따라 안구운동을 하고, 치료자는 이때 손이나 기계 등을 이용해 청각과 촉각 자극을 준다.\n치료효과는 매우 좋다.\n아주대병원 정신과 신윤미 교수는 \\\"단일 외상을 경험한 환자의 경우 3~6회 치료로 77~100% 좋아지며, 참전용사와 같이 다발성 외상환자도 12회 이상 치료하면 뚜렷하게 효과를 얻을 수 있다\\\"고 말했다.\n요즘에는 외상후 스트레스 외에 다양한 분야에 응용되고 있다.\n불안.초조 등 정서적인 문제나 공황발작, 면접 공포증 등에도 활용된다는 것. 현재 국내에는 국제EMDR협회와 국내에서 공인된 수련과정을 이수한 사람이 170여 명에 이른다. 2003년엔 한국EMDR협회가 발족했고, 한양대병원과 한양대 구리병원, 수원 아주대병원, 부산대병원, 대구 가톨릭병원, 경북대병원 등 50여 의료기관에서 활발하게 연구와 임상활동을 전개하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'새해엔 과거의 나쁜 기억을 극복하고, 새로운 마음으로 출발하고 싶다!' 이런 사람이 있다면 안구운동 민감처리 재처리요법(EMDR)을 활용해 보자.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "EMDR은 빠른 안구운동을 통해 억압된 기억에 접근, 이를 해소하는 정신치료 기법. 1987년 미국의 심리학자인 사피로 박사가 빠른 안구운동이 부정적이고, 나쁜 기억을 감소시킨다는 사실을 발견해 체계화했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한양대 구리병원 정신과 김대호 교수는 \\\"고통스러운 사건에 대한 기억은 뇌의 변연계에 갇혀 묻혀버리거나, 지속적으로 반추돼 대뇌를 자극한다\\\"며 \\\"안구운동을 통해 닫힌 기억회로에 접근, 고통스러운 사건을 재현함으로써 치료하는 것\\\"이라고 설명했다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "EMDR이 가장 많이 활용되는 분야는 외상후 스트레스 증후군(PTSD). 교통사고.폭행.성폭행 등 충격적인 사건을 경험한 뒤 사고에 대한 반복적 회상이나 악몽에 시달리는 것을 말한다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "매사에 과민 반응을 보이고, 우울.불안증은 물론 흥미를 상실해 사회생활을 어렵게 만들기도 한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "치료방법은 비교적 간단하다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "환자는 아이스캔의 움직이는 불빛을 따라 안구운동을 하고, 치료자는 이때 손이나 기계 등을 이용해 청각과 촉각 자극을 준다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "치료효과는 매우 좋다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아주대병원 정신과 신윤미 교수는 \\\"단일 외상을 경험한 환자의 경우 3~6회 치료로 77~100% 좋아지며, 참전용사와 같이 다발성 외상환자도 12회 이상 치료하면 뚜렷하게 효과를 얻을 수 있다\\\"고 말했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "요즘에는 외상후 스트레스 외에 다양한 분야에 응용되고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "불안.초조 등 정서적인 문제나 공황발작, 면접 공포증 등에도 활용된다는 것. 현재 국내에는 국제EMDR협회와 국내에서 공인된 수련과정을 이수한 사람이 170여 명에 이른다. 2003년엔 한국EMDR협회가 발족했고, 한양대병원과 한양대 구리병원, 수원 아주대병원, 부산대병원, 대구 가톨릭병원, 경북대병원 등 50여 의료기관에서 활발하게 연구와 임상활동을 전개하고 있다.",
+        "sentenceSize": 206
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "화끈하게 한 방에 나쁜 기억 지운다... 안구 운동의 마법",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

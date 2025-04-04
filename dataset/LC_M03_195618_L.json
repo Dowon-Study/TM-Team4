@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195618",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "귤의 배신, 하루에 3개만 먹어도 살쪄",
+    "newsSubTitle": "",
+    "newsContent": "겨울철 많은 사람들의 사랑을 받는 귤. 하지만 무심코 귤 3개만 먹어도 밥 한 공기와 비슷한 열량을 섭취하는 것으로 나타났다.\n겨울밤 따뜻한 방에 앉아 TV보며 귤 까먹는 건 행복 그 자체지만, 많이 먹는 건 삼가야 할 것으로 보인다.\n특히 한겨울엔 운동하기가 쉽지 않으므로 열량 섭취에 더욱 주의해야 한다.\n귤의 칼로리는 100g당 39kcal로 과일치고 높지는 않지만 3개를 먹을 경우 밥 한 공기 칼로리와 비슷해진다.\n대한영양사협회도 '1회 섭취 시 1개, 하루 총 3개'를 권장하고 있다.\n또한 귤은 많은 당분을 포함하고 있어 한번에 많은 양을 섭취하는 건 건강에 좋지 않다.\n맛도 좋고 크기도 작아 무심코 먹게 되는 귤. 다이어트를 생각한다면 주의해야 할 과일이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "겨울철 많은 사람들의 사랑을 받는 귤. 하지만 무심코 귤 3개만 먹어도 밥 한 공기와 비슷한 열량을 섭취하는 것으로 나타났다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "겨울밤 따뜻한 방에 앉아 TV보며 귤 까먹는 건 행복 그 자체지만, 많이 먹는 건 삼가야 할 것으로 보인다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 한겨울엔 운동하기가 쉽지 않으므로 열량 섭취에 더욱 주의해야 한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "귤의 칼로리는 100g당 39kcal로 과일치고 높지는 않지만 3개를 먹을 경우 밥 한 공기 칼로리와 비슷해진다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "대한영양사협회도 '1회 섭취 시 1개, 하루 총 3개'를 권장하고 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 귤은 많은 당분을 포함하고 있어 한번에 많은 양을 섭취하는 건 건강에 좋지 않다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "맛도 좋고 크기도 작아 무심코 먹게 되는 귤. 다이어트를 생각한다면 주의해야 할 과일이다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "겨울철 많은 사람의 사랑을 받는 귤, 하루 몇 개가 적당할까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

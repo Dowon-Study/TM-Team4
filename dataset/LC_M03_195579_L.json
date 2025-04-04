@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195579",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "샘표 질러, 닭 육포 '한입 화끈한치킨' 출시",
+    "newsSubTitle": "국내산 영계 가슴살에 매운맛 조합",
+    "newsContent": "[정심교 기자] 샘표의 간식 브랜드 '질러(Ziller)'가 정유년 '붉은 닭'의 해를 앞두고, 이색 신제품 '한입 화끈한치킨'을 선보이며 육포 시장 확대에 나섰다.\n매운 맛 성분은 뇌신경을 자극해 스트레스를 해소하고 기분전환에 도움을 준다고 알려져 있으며, 최근 소비자들 사이에서 이러한 매운맛에 대한 니즈가 계속 증가하고 있는 추세다.\n이번에 출시한 ‘질러 한입 화끈한치킨’은 닭고기에 청양고추로 한국인이 좋아하는 매콤한 감칠 맛을 입힌 제품이다.\n특히 국내산 영계의 닭 가슴살만을 원료로 하여 쫄깃한 식감을 살렸다.\n오븐에 한번 더 구워 담백한 맛을 끌어올렸다.\n샘표 관계자는 \\\"한입에 먹기 좋을 크기로 만들어 언제 어디서든 누구나 간편하게 닭 육포를 즐길 수 있게 했다\\\"고 말했다.\n가격은 2300원(20g·편의점 기준)이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[정심교 기자] 샘표의 간식 브랜드 '질러(Ziller)'가 정유년 '붉은 닭'의 해를 앞두고, 이색 신제품 '한입 화끈한치킨'을 선보이며 육포 시장 확대에 나섰다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "매운 맛 성분은 뇌신경을 자극해 스트레스를 해소하고 기분전환에 도움을 준다고 알려져 있으며, 최근 소비자들 사이에서 이러한 매운맛에 대한 니즈가 계속 증가하고 있는 추세다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번에 출시한 ‘질러 한입 화끈한치킨’은 닭고기에 청양고추로 한국인이 좋아하는 매콤한 감칠 맛을 입힌 제품이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 국내산 영계의 닭 가슴살만을 원료로 하여 쫄깃한 식감을 살렸다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오븐에 한번 더 구워 담백한 맛을 끌어올렸다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "샘표 관계자는 \\\"한입에 먹기 좋을 크기로 만들어 언제 어디서든 누구나 간편하게 닭 육포를 즐길 수 있게 했다\\\"고 말했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "가격은 2300원(20g·편의점 기준)이다.",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "샘표 질러의 신제품 '한입 화끈한치킨'의 맛 포인트는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

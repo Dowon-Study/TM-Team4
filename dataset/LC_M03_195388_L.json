@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195388",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 오메가3, 소팔메토 추출물 든 남성 건기식",
+    "newsSubTitle": "헬스벨 알짜 정보",
+    "newsContent": "종근당건강은 남성 건강을 위한 복합 기능성 건강기능식품 ‘프로메가 액티브맨’(사진)을 선보였다. ‘프로메가 액티브맨’엔 혈중 중성지질, 혈행 개선에 도움을 줄 수 있는 오메가3(EPA 및 DHA 함유 유지) 500㎎, 전립샘 건강에 도움을 줄 수 있는 소팔메토열매 추출물인 로르산 115㎎이 함유됐다.\n오메가3 중 DHA는 두뇌·신경조직·망막의 중요 구성 성분이며 EPA는 혈중 중성지질을 개선하는 기능 성분이다.\n세계보건기구(WHO)와 미국 심장학회, 캐나다 보건성은 오메가3 섭취를 공식적으로 권장하고 있다.\n로르산은 식품의약품안전처로부터 ‘전립샘 건강에 도움을 줄 수 있음’이라고 기능성을 인정받았다.\n이 밖에도 항산화에 도움을 줄 수 있는 라이코펜, 유해 산소로부터 세포를 보호하는 망간, 면역 기능을 돕는 아연 등이 함유됐다. ‘프로메가 액티브맨’은 개별포장해 제품이 산패되는 것을 방지했다.\n하루 1회, 2 캡슐을 물과 함께 섭취하면 된다.\n혈관 건강이 걱정되는 남성, 소변 때문에 자다가 자주 깨는 남성, 잔뇨감이 있거나 전립샘 건강이 염려되는 남성에게 권할 만하다.\n종근당건강은 선착순 500명에 한해 ‘프로메가 액티브맨’을 유통 최저가로 판매하는 행사를 진행한다.\n제품 구입과 문의는 전화를 통해 하면 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "종근당건강은 남성 건강을 위한 복합 기능성 건강기능식품 ‘프로메가 액티브맨’(사진)을 선보였다. ‘프로메가 액티브맨’엔 혈중 중성지질, 혈행 개선에 도움을 줄 수 있는 오메가3(EPA 및 DHA 함유 유지) 500㎎, 전립샘 건강에 도움을 줄 수 있는 소팔메토열매 추출물인 로르산 115㎎이 함유됐다.",
+        "sentenceSize": 168
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오메가3 중 DHA는 두뇌·신경조직·망막의 중요 구성 성분이며 EPA는 혈중 중성지질을 개선하는 기능 성분이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "세계보건기구(WHO)와 미국 심장학회, 캐나다 보건성은 오메가3 섭취를 공식적으로 권장하고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "로르산은 식품의약품안전처로부터 ‘전립샘 건강에 도움을 줄 수 있음’이라고 기능성을 인정받았다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 밖에도 항산화에 도움을 줄 수 있는 라이코펜, 유해 산소로부터 세포를 보호하는 망간, 면역 기능을 돕는 아연 등이 함유됐다. ‘프로메가 액티브맨’은 개별포장해 제품이 산패되는 것을 방지했다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하루 1회, 2 캡슐을 물과 함께 섭취하면 된다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "혈관 건강이 걱정되는 남성, 소변 때문에 자다가 자주 깨는 남성, 잔뇨감이 있거나 전립샘 건강이 염려되는 남성에게 권할 만하다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "종근당건강은 선착순 500명에 한해 ‘프로메가 액티브맨’을 유통 최저가로 판매하는 행사를 진행한다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "제품 구입과 문의는 전화를 통해 하면 된다.",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "남성에게 도움주는 오메가3, 소팔메토 추출물 함유된 제품은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

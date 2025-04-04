@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198315",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BookBriefing]] 풍요한 사회 外",
+    "newsSubTitle": "",
+    "newsContent": "■ 풍요한 사회(존 갤브레이스 지음, 노택선 옮김, 한국경제신문사, 324쪽, 1만3000원)=대량소비 시대 미국을 비판적 시각으로 분석한 경제학 사상 최고의 명저. 1958년 출간된 책을 새롭게 펴냈다.\n과잉생산과 과잉소비가 공공선 실현이 아닌, 개인의 탐욕을 충족시키는 방향으로 가고 있다는 지적은 오늘날에도 여전히 유효하다.\n■ 미국 민중사(전 2권, 하워드 진 지음, 유강은 옮김, 시울, 각 640쪽.608쪽, 각 2만4800원)=미국의 양심적 역사학자로 불리는 하워드 진의 대표작. 1492년 콜럼버스의 신대륙 발견부터 조지 W 부시 대통령의 '테러와 전쟁'까지 주요 사건들을 철저히 민중의 시각에서 파고들었다.\n2001년 출간된 '미국민중저항사'를 다시 냈다.\n진의 일대기 '하워드 진'(데이비스 D 조이스 지음, 안종설 옮김, 열대림, 392쪽, 1만6800원)도 함께 나왔다.\n■ 나라 밖에서 나라 찾았네(윤병욱 지음, 박영사, 511쪽, 3만원)=근대 한국을 변혁시키고 독립운동의 선구적 역할을 담당했던 미주 한인들의 활약과 의의를 조명했다.\n도산 안창호의 민족교육사상이 해외 한인사회에서 어떤 영향을 미쳤는지 등도 짚어봤다.\n1965년 일간지 주미특파원으로 미국에 갔던 지은이는 흥사단 미주위원부 위원장.한미동포재단 이사장 등을 지냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "■ 풍요한 사회(존 갤브레이스 지음, 노택선 옮김, 한국경제신문사, 324쪽, 1만3000원)=대량소비 시대 미국을 비판적 시각으로 분석한 경제학 사상 최고의 명저. 1958년 출간된 책을 새롭게 펴냈다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과잉생산과 과잉소비가 공공선 실현이 아닌, 개인의 탐욕을 충족시키는 방향으로 가고 있다는 지적은 오늘날에도 여전히 유효하다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "■ 미국 민중사(전 2권, 하워드 진 지음, 유강은 옮김, 시울, 각 640쪽.608쪽, 각 2만4800원)=미국의 양심적 역사학자로 불리는 하워드 진의 대표작. 1492년 콜럼버스의 신대륙 발견부터 조지 W 부시 대통령의 '테러와 전쟁'까지 주요 사건들을 철저히 민중의 시각에서 파고들었다.",
+        "sentenceSize": 163
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2001년 출간된 '미국민중저항사'를 다시 냈다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "진의 일대기 '하워드 진'(데이비스 D 조이스 지음, 안종설 옮김, 열대림, 392쪽, 1만6800원)도 함께 나왔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "■ 나라 밖에서 나라 찾았네(윤병욱 지음, 박영사, 511쪽, 3만원)=근대 한국을 변혁시키고 독립운동의 선구적 역할을 담당했던 미주 한인들의 활약과 의의를 조명했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "도산 안창호의 민족교육사상이 해외 한인사회에서 어떤 영향을 미쳤는지 등도 짚어봤다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "1965년 일간지 주미특파원으로 미국에 갔던 지은이는 흥사단 미주위원부 위원장.한미동포재단 이사장 등을 지냈다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "도산 안창호의 '이 사상'이 한인 사회에 미친 영향은 무엇? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

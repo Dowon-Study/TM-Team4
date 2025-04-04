@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193648",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "서울대병원, 국내 최초 소아 폐이식 성공",
+    "newsSubTitle": "서울대병원 장기이식센터 폐이식팀 22개월·9.5㎏ 소아 폐이식술 성공 \\\"장기이식 활성화 돼 더 많은 생명 살리길\\\"",
+    "newsContent": "서울대병원 장기이식센터 폐이식팀이 국내에서 처음으로 2세 미만 소아의 폐이식 수술에 성공했다.\n서울대병원 폐이식팀은 14일 “지난달 4일 간질성 폐질환 환자인 정모(22개월)양의 폐이식 수술에 성공했고 환자는 최근 건강한 모습으로 퇴원했다”고 밝혔다.\n국내 최연소(22개월)·최소체중(9.5㎏) 폐이식술이다.\n폐이식술은 간·신장 이식과 달리 반드시 뇌사자로부터 장기를 기증받아야 수술이 가능하다.\n하지만 소아 뇌사자가 드물고, 기증받더라도 10㎏ 미만 소아는 폐의 크기가 작아 이를 절제·이식하기가 쉽지 않다.\n이날 정양에게 폐를 기증한 환자는 40개월 소아 뇌사자로, 가족이 기증 의향을 밝히면서 응급 수술이 이뤄졌다.\n지난달 4일 저녁부터 시작된 수술은 다음 날 새벽까지 약 9시간에 걸쳐 이뤄졌다.\n수술은 호흡기내과·흉부외과·마취과·감염내과·소아청소년과·중환자치료팀 등으로 구성된 폐이식팀이 진행했다.\n서울대병원 폐이식팀은 10년 전, 국내 최초로 폐 기능 저하 환자의 체외막산소공급기(ECMO) 연계 폐 이식을 시행한 바 있다.\n수술을 집도한 흉부외과 김영태 교수는 “국내에서 최초로 시도된 수술이라 단계별로 기준을 정립하는 등 어려운 점이 있었다. 수술이 성공해 기쁘게 생각하고, 앞으로 장기기증 활성화로 더 많은 생명이 새 삶을 갖게 되길 바란다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서울대병원 장기이식센터 폐이식팀이 국내에서 처음으로 2세 미만 소아의 폐이식 수술에 성공했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울대병원 폐이식팀은 14일 “지난달 4일 간질성 폐질환 환자인 정모(22개월)양의 폐이식 수술에 성공했고 환자는 최근 건강한 모습으로 퇴원했다”고 밝혔다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국내 최연소(22개월)·최소체중(9.5㎏) 폐이식술이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "폐이식술은 간·신장 이식과 달리 반드시 뇌사자로부터 장기를 기증받아야 수술이 가능하다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 소아 뇌사자가 드물고, 기증받더라도 10㎏ 미만 소아는 폐의 크기가 작아 이를 절제·이식하기가 쉽지 않다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 정양에게 폐를 기증한 환자는 40개월 소아 뇌사자로, 가족이 기증 의향을 밝히면서 응급 수술이 이뤄졌다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난달 4일 저녁부터 시작된 수술은 다음 날 새벽까지 약 9시간에 걸쳐 이뤄졌다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "수술은 호흡기내과·흉부외과·마취과·감염내과·소아청소년과·중환자치료팀 등으로 구성된 폐이식팀이 진행했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "서울대병원 폐이식팀은 10년 전, 국내 최초로 폐 기능 저하 환자의 체외막산소공급기(ECMO) 연계 폐 이식을 시행한 바 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "수술을 집도한 흉부외과 김영태 교수는 “국내에서 최초로 시도된 수술이라 단계별로 기준을 정립하는 등 어려운 점이 있었다. 수술이 성공해 기쁘게 생각하고, 앞으로 장기기증 활성화로 더 많은 생명이 새 삶을 갖게 되길 바란다”고 말했다.",
+        "sentenceSize": 130
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서울대병원, 국내 최초로 '넘사벽'으로 까다로운 2세 미만 소아 폐 이식 수술 성공··· ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

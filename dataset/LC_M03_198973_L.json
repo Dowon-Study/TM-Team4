@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198973",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[서소문 사진관] 미리보는 2018년 S/S 패션...헤라 서울패션위크 개막",
+    "newsSubTitle": "",
+    "newsContent": "대형 패션문화행사인 2018 S/S 헤라 서울패션위크가 16일 명예 디자이너 루비나 전시 개막행사를 시작해 21일까지 서울 동대문 디자인플라자(DDP)에서 열린다. 17일 오전 얼킨(ul:kin)의 패션쇼가 첫 번째로 열렸다.\n이성동 디자이너가 제작한 의상들이 선보였다.\n행사 기간 중 국내·외 디자이너 브랜드 35개와 기업 브랜드 6개가 참가하는 '서울컬렉션' 패션쇼가 총 41회 열린다.\n이와 함께 101개 디자이너 브랜드 및 신진 디자이너가 참가하는 전문 수주상담회 '제너레이션 넥스트 서울'과 '미니패션쇼', 그리고 강남·종로·성북·중구 등에서 열리는 18개 '오프쇼'가 6일간 진행된다.\n이날 열린 패션쇼 중 얼킨(ul:kin)과 부리(BOURE) 패션쇼 모습을 사진으로 모았다.\n이날 배우 이채영, 이열음, 모델 이연화 등이 패션쇼를 지켜봤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대형 패션문화행사인 2018 S/S 헤라 서울패션위크가 16일 명예 디자이너 루비나 전시 개막행사를 시작해 21일까지 서울 동대문 디자인플라자(DDP)에서 열린다. 17일 오전 얼킨(ul:kin)의 패션쇼가 첫 번째로 열렸다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이성동 디자이너가 제작한 의상들이 선보였다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "행사 기간 중 국내·외 디자이너 브랜드 35개와 기업 브랜드 6개가 참가하는 '서울컬렉션' 패션쇼가 총 41회 열린다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이와 함께 101개 디자이너 브랜드 및 신진 디자이너가 참가하는 전문 수주상담회 '제너레이션 넥스트 서울'과 '미니패션쇼', 그리고 강남·종로·성북·중구 등에서 열리는 18개 '오프쇼'가 6일간 진행된다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 열린 패션쇼 중 얼킨(ul:kin)과 부리(BOURE) 패션쇼 모습을 사진으로 모았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 배우 이채영, 이열음, 모델 이연화 등이 패션쇼를 지켜봤다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "2018 트렌드 세터가 되고 싶다면? '이곳'으로 가보자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

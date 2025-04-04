@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194543",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK꿈나무] 영웅 여우, 욕심 사나운 인간에게 한방",
+    "newsSubTitle": "",
+    "newsContent": "멋진 여우씨 로알드 달 글, 퀸틴 블레이크 그림, 햇살과나무꾼 옮김, 논장, 128쪽 8000원, 초등 저학년 못되고 비열한 세 명의 농장 주인 보기스.번스.빈이 있었다.\n이들의 유일한 적은 가끔 가축을 훔쳐가는 여우. 세 농장 주인은 힘을 합쳐 여우 소탕 작전에 나선다.\n여우굴을 찾아내 삽으로 땅을 파내자, 여우 가족은 더 빠른 속도로 굴을 파 몸을 피한다.\n농장 주인들이 굴착기까지 동원해 언덕을 아예 파헤쳐버리는 통에 오소리 등 다른 동물들도 위기에 처한다.\n이 싸움에서 누가 이겼을까.\n제목에서도 알 수 있듯 작가는 주인공 여우의 손을 들어줬다.\n작가는 여우를 '가축을 훔쳐가는 나쁜 짐승'이라 보는 시각을 비틀어 '나눌 줄 모르는 욕심 사납고 미련한 인간'을 응징하는 영웅으로 만들었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "멋진 여우씨 로알드 달 글, 퀸틴 블레이크 그림, 햇살과나무꾼 옮김, 논장, 128쪽 8000원, 초등 저학년 못되고 비열한 세 명의 농장 주인 보기스.번스.빈이 있었다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이들의 유일한 적은 가끔 가축을 훔쳐가는 여우. 세 농장 주인은 힘을 합쳐 여우 소탕 작전에 나선다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "여우굴을 찾아내 삽으로 땅을 파내자, 여우 가족은 더 빠른 속도로 굴을 파 몸을 피한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "농장 주인들이 굴착기까지 동원해 언덕을 아예 파헤쳐버리는 통에 오소리 등 다른 동물들도 위기에 처한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 싸움에서 누가 이겼을까.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "제목에서도 알 수 있듯 작가는 주인공 여우의 손을 들어줬다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "작가는 여우를 '가축을 훔쳐가는 나쁜 짐승'이라 보는 시각을 비틀어 '나눌 줄 모르는 욕심 사납고 미련한 인간'을 응징하는 영웅으로 만들었다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가축 훔쳐 가는 여우와 농장주인의 대결... 승자는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194387",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Family건강] 디스크 뺨치는 합병증",
+    "newsSubTitle": "통증 심해 … 재수술보다 합병증 제거술 효과적",
+    "newsContent": "2년 전 허리 디스크 수술을 받은 직장인 A씨(45). 수술 뒤가 기대만큼 행복하지 못하다.\n수술 직후 사라진 듯했던 통증이 다시 나타나 요즘은 다리·허리가 시리고 아파 잠도 못 잔다.\n병원에서 MRI 등 검사를 받았지만 의사는 ‘정상’이라는 말만 되풀이 한다.\n디스크 수술을 받은 뒤 통증이 사라지지 않고, 오히려 심해지는 환자가 적지 않다.\n이를 디스크 합병증이라 한다.\n수술 후 염증·유착·재발 등이 합병증의 원인이다.\n고도일신경외과 원장은 “디스크 합병증 환자의 허리 통증 원인은 MRI 검사를 통해서도 밝히기 어렵다”며 “먼저 물리·약물요법 등 보존 치료를 해보고, 그래도 통증이 계속되면 재수술에 앞서 경막외 내시경 시술 등 ‘합병증 제거 시술’을 받아 보는 것도 방법”이라고 조언했다.\n경막은 척수신경을 보호하고 있는 막. 내시경을 집어넣어 신경유착 등 통증을 유발하는 원인을 제거한다.\n성공적인 허리 디스크 수술과 디스크 합병증 예방을 위해선 환자 본인의 노력도 중요하다.\n수술 후엔 보조기를 적절하게 착용해야 한다.\n보조기는 척추·디스크의 압력을 줄여 주고 관절의 과도한 움직임을 막아 준다.\n그러나 너무 오래 착용하면 근육이 약해지거나 통증이 생긴다.\n따라서 보조기 착용 여부·기간은 의사와 반드시 상의하는 것이 좋다.\n수술 뒤 샤워는 실밥이나 특수 테이프를 떼내고 2~3일 지난 뒤 할 수 있다.\n이때 수술 부위엔 방수 테이프를 붙인다.\n사람에 따라 상처 치유 속도가 다르므로 목욕 전에 상처가 다 아물었는지 확인해야 한다. .",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2년 전 허리 디스크 수술을 받은 직장인 A씨(45). 수술 뒤가 기대만큼 행복하지 못하다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "수술 직후 사라진 듯했던 통증이 다시 나타나 요즘은 다리·허리가 시리고 아파 잠도 못 잔다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "병원에서 MRI 등 검사를 받았지만 의사는 ‘정상’이라는 말만 되풀이 한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "디스크 수술을 받은 뒤 통증이 사라지지 않고, 오히려 심해지는 환자가 적지 않다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이를 디스크 합병증이라 한다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "수술 후 염증·유착·재발 등이 합병증의 원인이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "고도일신경외과 원장은 “디스크 합병증 환자의 허리 통증 원인은 MRI 검사를 통해서도 밝히기 어렵다”며 “먼저 물리·약물요법 등 보존 치료를 해보고, 그래도 통증이 계속되면 재수술에 앞서 경막외 내시경 시술 등 ‘합병증 제거 시술’을 받아 보는 것도 방법”이라고 조언했다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "경막은 척수신경을 보호하고 있는 막. 내시경을 집어넣어 신경유착 등 통증을 유발하는 원인을 제거한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "성공적인 허리 디스크 수술과 디스크 합병증 예방을 위해선 환자 본인의 노력도 중요하다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "수술 후엔 보조기를 적절하게 착용해야 한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "보조기는 척추·디스크의 압력을 줄여 주고 관절의 과도한 움직임을 막아 준다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그러나 너무 오래 착용하면 근육이 약해지거나 통증이 생긴다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "따라서 보조기 착용 여부·기간은 의사와 반드시 상의하는 것이 좋다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "수술 뒤 샤워는 실밥이나 특수 테이프를 떼내고 2~3일 지난 뒤 할 수 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "이때 수술 부위엔 방수 테이프를 붙인다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "사람에 따라 상처 치유 속도가 다르므로 목욕 전에 상처가 다 아물었는지 확인해야 한다. .",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "허리디스크 수술 부작용... 디스크 합병증의 증상은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196047",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "밤 칼로리, 효능은? 영양만점 식품인데 반해 다이어트에는 과연…",
+    "newsSubTitle": "",
+    "newsContent": "밤 칼로리는 얼마나될까.\n출출할 때 부담 없이 먹을 수 있는 간식, 따근한 밤은 저녁 간식으로 안성맞춤이다.\n밤은 필수 영양소가 골고루 함유된 균형 잡힌 영양간식이다.\n밤 3알에 약 50Kcal 정도의 열량을 가지고 있다.\n또 밤에 함유된 타닌이라는 성분은 포만감을 주어 다이어트에 좋은 것으로 알려져 있다.\n밤의 효능으로는 위장기능 강화에 도움이 많이 되며 동의보감에는 밤이 배탈과 설사에 효험이 있다고 기록돼 있다.\n한의학에서는 밤의 성질이 따뜻해 소화기관을 강화하고 기운을 올려주는 것으로 보고 있다.\n따라서 기름진 음식으로 위장과 대장기능이 약해진 사람들이 밤을 챙겨먹는다면 안 좋아진 소화기관을 완화시킬 수 있다 비타민도 풍부한 밤은 비타민C, B1등이 풍부해 항상화 효과와 함께 피로회복에도 큰 도움이 된다.\n피부미용과 노화방지에도 탁월하다.\n그밖에 생밤은 알코올의 산화를 도와 술안주로도 좋은 것으로 알려져 있다.\n온라인 중앙일보 ‘밤 칼로리, 밤 칼로리, 밤 칼로리, 밤 칼로리, 밤 칼로리, 밤 칼로리’",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "밤 칼로리는 얼마나될까.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "출출할 때 부담 없이 먹을 수 있는 간식, 따근한 밤은 저녁 간식으로 안성맞춤이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "밤은 필수 영양소가 골고루 함유된 균형 잡힌 영양간식이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "밤 3알에 약 50Kcal 정도의 열량을 가지고 있다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 밤에 함유된 타닌이라는 성분은 포만감을 주어 다이어트에 좋은 것으로 알려져 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "밤의 효능으로는 위장기능 강화에 도움이 많이 되며 동의보감에는 밤이 배탈과 설사에 효험이 있다고 기록돼 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한의학에서는 밤의 성질이 따뜻해 소화기관을 강화하고 기운을 올려주는 것으로 보고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "따라서 기름진 음식으로 위장과 대장기능이 약해진 사람들이 밤을 챙겨먹는다면 안 좋아진 소화기관을 완화시킬 수 있다 비타민도 풍부한 밤은 비타민C, B1등이 풍부해 항상화 효과와 함께 피로회복에도 큰 도움이 된다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "피부미용과 노화방지에도 탁월하다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그밖에 생밤은 알코올의 산화를 도와 술안주로도 좋은 것으로 알려져 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인 중앙일보 ‘밤 칼로리, 밤 칼로리, 밤 칼로리, 밤 칼로리, 밤 칼로리, 밤 칼로리’",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영양만점 식품 밤, 다이어트에는 과연…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

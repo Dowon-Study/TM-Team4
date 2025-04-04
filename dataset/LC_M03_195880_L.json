@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195880",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "오존 예보제 시행 \\\"오전·오후 두차례씩 4번 발표…\\\"어디서 확인?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "오존 예보제가 15일 실시된다.\n국립환경과학원은 오존 고농도 기간에 맞춰 오존 예보를 시행한다고 14일 밝혔다.\n예보는 하루 중 최고 농도를 기준으로 좋음, 보통, 나쁨, 매우 나쁨 등 4단계로 구분해 전국 18개 광역시·도(경기도는 북·남부, 강원도는 영서·동 권역으로 세분화)를 대상으로 하루에 오전, 오후 두차례씩 4번 발표된다.\n오존주의보는 1시간 평균 농도 기준 120ppb 이상, 경보는 300ppb 이상, 중대경보는 500ppb 이상일때 내려진다.\n예보등급 나쁨 이상(90ppb) 발생 빈도는 경기남부가 83일(45%)로 빈번했고, 강원 영동권역이 15일(8%)로 가장 적었다.\n오존 예보는 작년 2월부터 시행하고 있는 미세먼지 예보와 마찬가지로 에어코리아 누리집(www.airkorea.or.kr) 또는 스마트폰 앱인 '우리동네 대기질'을 통해 확인할 수 있다.\n오존 예보제 시행, 우리동네 오존지수 어디서 알수 있나?\n오존은 성층권에서 자외선을 차단하는 역할을 하지만 인체에 직접 닿을 경우 호흡기와 피부, 눈, 코 등에 손상을 준다.\n세계보건기구(WHO)는 예보 등급 ‘나쁨’ 또는 ‘매우 나쁨’ 수준에서 사망률이 1~2% 증가한다고 보고 있다.\n예보는 에어코리아 홈페이지(airkorea.or.kr)나 스마트폰 앱 ‘우리동네 대기질’을 통해 확인할 수 있다.\n온라인 중앙일보 '오존 예보제 시행' [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오존 예보제가 15일 실시된다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국립환경과학원은 오존 고농도 기간에 맞춰 오존 예보를 시행한다고 14일 밝혔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "예보는 하루 중 최고 농도를 기준으로 좋음, 보통, 나쁨, 매우 나쁨 등 4단계로 구분해 전국 18개 광역시·도(경기도는 북·남부, 강원도는 영서·동 권역으로 세분화)를 대상으로 하루에 오전, 오후 두차례씩 4번 발표된다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오존주의보는 1시간 평균 농도 기준 120ppb 이상, 경보는 300ppb 이상, 중대경보는 500ppb 이상일때 내려진다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예보등급 나쁨 이상(90ppb) 발생 빈도는 경기남부가 83일(45%)로 빈번했고, 강원 영동권역이 15일(8%)로 가장 적었다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오존 예보는 작년 2월부터 시행하고 있는 미세먼지 예보와 마찬가지로 에어코리아 누리집(www.airkorea.or.kr) 또는 스마트폰 앱인 '우리동네 대기질'을 통해 확인할 수 있다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오존 예보제 시행, 우리동네 오존지수 어디서 알수 있나?",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오존은 성층권에서 자외선을 차단하는 역할을 하지만 인체에 직접 닿을 경우 호흡기와 피부, 눈, 코 등에 손상을 준다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "세계보건기구(WHO)는 예보 등급 ‘나쁨’ 또는 ‘매우 나쁨’ 수준에서 사망률이 1~2% 증가한다고 보고 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "예보는 에어코리아 홈페이지(airkorea.or.kr)나 스마트폰 앱 ‘우리동네 대기질’을 통해 확인할 수 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인 중앙일보 '오존 예보제 시행' [사진 중앙포토]",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국립환경과학원, 오존 예보제 15일부터 실시... 어디서 확인 가능할까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

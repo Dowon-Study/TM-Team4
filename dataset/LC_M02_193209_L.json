@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193209",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "본업 복귀 차은우 \\\"섹시한 팀 아스트로 알릴 것\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우에서 아이돌 아스트로로 돌아온 차은우가 정규 1집 'All Light' 앨범 발매 소감을 밝혔다.\n아이돌 그룹 아스트로(ASTRO)가 16일 코엑스 아티움에서 첫 번째 정규 앨범 'All Light' 쇼케이스를 가졌다.\n이날 차은우는 \\\"앨범에 10곡이 수록돼있는데 노래 하나하나 열심히 녹음했다. 아로하(팬클럽 이름)와 대중에 들려드리고 싶어 열심히 준비했으니 관심 부탁드린다\\\"고 말했다. '내 아이디는 강남미인' 등 솔로활동을 이어왔던 차은우는 1년 2개월 만에 팀 활동을 가진다.\n차은우는 지난해 12월 가졌던 아스트로 단독 콘서트 '스타라이트'(STARLIGHT)에서 \\\"(드라마 두 개를 하며) 내던져진 기분이 들었다\\\"고 밝히기도 했다.\n이에 차은우는 \\\"당시에는 힘들고 마음이 아프기도 했다. 하지만 아픔이 있어야 항상 성장하는 법이다. 앞으로 아스트로 멤버로서 아스트로가 멋진 팀인 것을 알리기 위해 더 노력하고 싶다\\\"며 팀으로 함께 돌아온 소감을 밝혔다.\n차은우는 이번 앨범 만족도 '최상'이라며 \\\"기다려주신 아로하 팬들에게 보답하고 싶다\\\"고 말했다.\n아스트로의 첫 번쨰 정규 앨범 'All Light'은 빛이 지지 않는 '영원의 정원'에서 영원히 빛나고 싶은 아스트로의 소망을 담은 앨범으로, 아스트로가 있는 곳은 언제나 밝은 빛이라는 의미를 담고 있다.\n타이틀 곡은 'All night(전화해)'이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우에서 아이돌 아스트로로 돌아온 차은우가 정규 1집 'All Light' 앨범 발매 소감을 밝혔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아이돌 그룹 아스트로(ASTRO)가 16일 코엑스 아티움에서 첫 번째 정규 앨범 'All Light' 쇼케이스를 가졌다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 차은우는 \\\"앨범에 10곡이 수록돼있는데 노래 하나하나 열심히 녹음했다. 아로하(팬클럽 이름)와 대중에 들려드리고 싶어 열심히 준비했으니 관심 부탁드린다\\\"고 말했다. '내 아이디는 강남미인' 등 솔로활동을 이어왔던 차은우는 1년 2개월 만에 팀 활동을 가진다.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "차은우는 지난해 12월 가졌던 아스트로 단독 콘서트 '스타라이트'(STARLIGHT)에서 \\\"(드라마 두 개를 하며) 내던져진 기분이 들었다\\\"고 밝히기도 했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 차은우는 \\\"당시에는 힘들고 마음이 아프기도 했다. 하지만 아픔이 있어야 항상 성장하는 법이다. 앞으로 아스트로 멤버로서 아스트로가 멋진 팀인 것을 알리기 위해 더 노력하고 싶다\\\"며 팀으로 함께 돌아온 소감을 밝혔다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "차은우는 이번 앨범 만족도 '최상'이라며 \\\"기다려주신 아로하 팬들에게 보답하고 싶다\\\"고 말했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아스트로의 첫 번쨰 정규 앨범 'All Light'은 빛이 지지 않는 '영원의 정원'에서 영원히 빛나고 싶은 아스트로의 소망을 담은 앨범으로, 아스트로가 있는 곳은 언제나 밝은 빛이라는 의미를 담고 있다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "타이틀 곡은 'All night(전화해)'이다.",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "차은우, 1년 2개월 만의 아이돌 활동 '세젤멋' 아스트로 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

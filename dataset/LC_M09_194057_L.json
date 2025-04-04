@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M09_194057",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "방송·연예",
+    "newsTitle": "단맛만 찾는 아이들 위한 이유식",
+    "newsSubTitle": "null",
+    "newsContent": "우리 아이가 달라졌어요(에스비에스 오후 5시35분) 10개월 된 예찬이가 가장 좋아하는 먹거리는 달콤한 음식이다.\n이유식을 먹을 때도 물을 먹을 때도 빠지지 않고 단맛을 찾는다.\n돌도 되지 않은 아이가 단 음식만 찾는 통에 엄마와 아빠는 고민이다.\n예찬이는 바나나가 없으면 이유식을 입에 대지 않고, 하루에 먹는 과일만 5가지나 된다.\n예찬이는 지금 건강한 것일까?\n단맛만 좋아하는 아이들을 위한 명쾌한 솔루션이 ‘초보맘 육아일기’에서 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우리 아이가 달라졌어요(에스비에스 오후 5시35분) 10개월 된 예찬이가 가장 좋아하는 먹거리는 달콤한 음식이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이유식을 먹을 때도 물을 먹을 때도 빠지지 않고 단맛을 찾는다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "돌도 되지 않은 아이가 단 음식만 찾는 통에 엄마와 아빠는 고민이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "예찬이는 바나나가 없으면 이유식을 입에 대지 않고, 하루에 먹는 과일만 5가지나 된다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예찬이는 지금 건강한 것일까?",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "단맛만 좋아하는 아이들을 위한 명쾌한 솔루션이 ‘초보맘 육아일기’에서 공개된다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "과일만 먹으려는 우리 아이, 괜찮을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

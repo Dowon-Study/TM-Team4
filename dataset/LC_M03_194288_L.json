@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194288",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "“한국인, 술만 안 마셔도 평균 수명 1.6년 증가”",
+    "newsSubTitle": "지방간의 72%는 음주 때문",
+    "newsContent": "한국인 사망자 10명 가운데 1명 이상이 음주로 인해 목숨을 잃는 것으로 드러났다.\n손애리ㆍ천성수 삼육대 보건관리학 교수팀이 5일 한국알코올과학회 춘계국제학술대회에서 발표한 ‘알코올 소비와 질병’ 연구에서 이같이 밝혔다고 문화일보 5일자가 보도했다.\n손 교수 등이 이끄는 연구팀이 지난해 8월 전국의 2193명을 상대로 실시한 알코올 역학조사를 토대로 한 연구 결과다.\n연구에 따르면, 2005년 전체 사망자 24만5511명 중 12.8%에 해당하는 3만1333명이 알코올로 인해 사망했다.\n알코올 사망자 중 남자는 2만940명으로 전체의 3분의2를 차지했다.\n손 교수팀은 또 지방간의 72%, 간경화의 67%, 간염의 41%, 기타 간질환의 50%가 음주 때문에 생긴 것으로 추산했다.\n심혈관 질환 중 심근경색의 33%가 알코올 때문에 생겼으며 간암(20%), 위암(23%), 장암(33%) 등도 술과 관계가 있는 것으로 조사됐다.\n이 밖에 알코올은 모든 사고의 15%, 교통사고의 16%, 폭행ㆍ독극물ㆍ화재ㆍ자해 등 기타 사고의 83%에서 원인으로 작용한 것으로 조사됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국인 사망자 10명 가운데 1명 이상이 음주로 인해 목숨을 잃는 것으로 드러났다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "손애리ㆍ천성수 삼육대 보건관리학 교수팀이 5일 한국알코올과학회 춘계국제학술대회에서 발표한 ‘알코올 소비와 질병’ 연구에서 이같이 밝혔다고 문화일보 5일자가 보도했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "손 교수 등이 이끄는 연구팀이 지난해 8월 전국의 2193명을 상대로 실시한 알코올 역학조사를 토대로 한 연구 결과다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연구에 따르면, 2005년 전체 사망자 24만5511명 중 12.8%에 해당하는 3만1333명이 알코올로 인해 사망했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "알코올 사망자 중 남자는 2만940명으로 전체의 3분의2를 차지했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "손 교수팀은 또 지방간의 72%, 간경화의 67%, 간염의 41%, 기타 간질환의 50%가 음주 때문에 생긴 것으로 추산했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "심혈관 질환 중 심근경색의 33%가 알코올 때문에 생겼으며 간암(20%), 위암(23%), 장암(33%) 등도 술과 관계가 있는 것으로 조사됐다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 밖에 알코올은 모든 사고의 15%, 교통사고의 16%, 폭행ㆍ독극물ㆍ화재ㆍ자해 등 기타 사고의 83%에서 원인으로 작용한 것으로 조사됐다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한국인 사망 주요 원인 중 하나는 '음주' 때문?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

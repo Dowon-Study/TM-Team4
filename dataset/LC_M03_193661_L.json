@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193661",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "한국형 전립선암 위험도 계산기 개발",
+    "newsSubTitle": "고대 안산병원 박재영·분당서울대 변석수 교수",
+    "newsContent": "[박정렬 기자] 고위험도 전립선암을 예측할 수 있는 온라인 기반 계산 시스템이 국내 연구진에 의해 개발됐다.\n고대 안산병원 비뇨기과 박재영 교수와 분당서울대병원 비뇨기과 변석수 교수는 23일 \\\"고위험도 전립선암을 예측할 수 있는 계산기(사진)를 개발했다\\\"고 밝혔다.\n국가암정보센터에 따르면 전립선(前立腺, 전립샘)은 방광 바로 밑에 있는 밤톨만 한 크기의 남성 생식기관으로, 정액의 일부를 만들어내고 저장하는 역할을 한다.\n이곳에 암이 생기는 전립선암은 뚜렷한 증상이 없는 잠재성 암이 많은데다, 어떤 환자에게서는 아주 빨리 자라는 데 비해 다른 환자에게선 여러 해에 걸쳐 진행하는 등 성장 속도가 다양해 경과를 예측하기가 어렵다는 특징이 있다.\n이번에 개발된 고위험 전립선암 계산기는 환자의 나이, 전립선 특이항원(PSA), 직장수지검사, 경직장초음파검사, 전립선 크기, 전립선이행대 크기 등 6 항목을 입력하면, 이를 토대로 전립선암의 검출 확률을 알려주는 시스템이다.\n연구팀은 \\\"예측 모델의 정확성은 타 병원 자료를 통해 검증했다\\\"며 \\\"환자의 생명을 위협하지 않는 저위험도의 전립선암까지 진단하고 치료하던 기존의 관행을 탈피해 임상적으로 유의한 암만을 검출해 내고 치료할 수 있도록 설계했다\\\"고 밝혔다.\n박재영 교수는 “과잉 진단 및 과잉 치료를 되도록 줄이는 전립선암 치료의 최신 지견과 일치한다는 점에서 기존 연구와는 차별화됐다”며 “서구의 모든 가이드라인에서 전립선 특이항원 (PSA)의 전립선암 검출 능력의 한계를 지적한 만큼, 본 연구를 통해 전립선 조직 검사의 효과적인 적용이 가능할 것으로 예상된다”고 덧붙였다.\n이번 계산기는 비뇨기과 연구진 외에 서울대 공대와 성신여대 통계학과 교수진과의 협동 연구를 통해 개발됐으며 웹사이트 (http://science.aci-llc.net/prostate)를 통해 누구나 확인할 수 있다.\n한편, 이번 논문(Development and External Validation of the Korean Prostate Cancer Risk Calculator for High-Grade Prostate Cancer: Comparison with Two Western Risk Calculators in an Asian Cohort)은 국제 학술지 플로스원 1월호에 게재됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[박정렬 기자] 고위험도 전립선암을 예측할 수 있는 온라인 기반 계산 시스템이 국내 연구진에 의해 개발됐다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "고대 안산병원 비뇨기과 박재영 교수와 분당서울대병원 비뇨기과 변석수 교수는 23일 \\\"고위험도 전립선암을 예측할 수 있는 계산기(사진)를 개발했다\\\"고 밝혔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국가암정보센터에 따르면 전립선(前立腺, 전립샘)은 방광 바로 밑에 있는 밤톨만 한 크기의 남성 생식기관으로, 정액의 일부를 만들어내고 저장하는 역할을 한다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이곳에 암이 생기는 전립선암은 뚜렷한 증상이 없는 잠재성 암이 많은데다, 어떤 환자에게서는 아주 빨리 자라는 데 비해 다른 환자에게선 여러 해에 걸쳐 진행하는 등 성장 속도가 다양해 경과를 예측하기가 어렵다는 특징이 있다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번에 개발된 고위험 전립선암 계산기는 환자의 나이, 전립선 특이항원(PSA), 직장수지검사, 경직장초음파검사, 전립선 크기, 전립선이행대 크기 등 6 항목을 입력하면, 이를 토대로 전립선암의 검출 확률을 알려주는 시스템이다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구팀은 \\\"예측 모델의 정확성은 타 병원 자료를 통해 검증했다\\\"며 \\\"환자의 생명을 위협하지 않는 저위험도의 전립선암까지 진단하고 치료하던 기존의 관행을 탈피해 임상적으로 유의한 암만을 검출해 내고 치료할 수 있도록 설계했다\\\"고 밝혔다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "박재영 교수는 “과잉 진단 및 과잉 치료를 되도록 줄이는 전립선암 치료의 최신 지견과 일치한다는 점에서 기존 연구와는 차별화됐다”며 “서구의 모든 가이드라인에서 전립선 특이항원 (PSA)의 전립선암 검출 능력의 한계를 지적한 만큼, 본 연구를 통해 전립선 조직 검사의 효과적인 적용이 가능할 것으로 예상된다”고 덧붙였다.",
+        "sentenceSize": 179
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이번 계산기는 비뇨기과 연구진 외에 서울대 공대와 성신여대 통계학과 교수진과의 협동 연구를 통해 개발됐으며 웹사이트 (http://science.aci-llc.net/prostate)를 통해 누구나 확인할 수 있다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 이번 논문(Development and External Validation of the Korean Prostate Cancer Risk Calculator for High-Grade Prostate Cancer: Comparison with Two Western Risk Calculators in an Asian Cohort)은 국제 학술지 플로스원 1월호에 게재됐다.",
+        "sentenceSize": 212
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고위험도 전립선암 계산 시스템 개발 완료, 국내 연구진 '킹정'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

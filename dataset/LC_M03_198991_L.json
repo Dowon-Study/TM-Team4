@@ -1,0 +1,303 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198991",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "혓바늘인줄 알았는데 구강암이라고?",
+    "newsSubTitle": "입 안에 하얗거나 붉은 반점 2주 이상 오래가면 치과 진료받아야",
+    "newsContent": "[권선미 기자] 구강암은 혀·잇몸·입술·입천장 등 입안에 발병하는 암을 말한다.\n국내 구강암 환자는 전체 암 환자의 2%수준이다.\n하지만 후유증이 무섭다.\n치료시기를 놓치면 음식물을 씹어 먹는 저작기능이 떨어지고 얼굴이 변형될 수 있다.\n실제 구강암은 치료시기를 놓치면 발병 5년 이내 사망률이 44%로 치명적이다.\n구강암에 대해 선치과병원 구강악안면외과 오민석 부장의 도움말로 알아봤다.\n구강암 환자의 75%는 흡연자 구강암은 흡연·음주와 밀접하게 연관돼 있다.\n세계보건기구(WHO) 산하 국제암연구소(IARC)에 따르면 술과 담배를 하지 않는 사람의 구강암 발병 위험도를 1로 볼 때 담배만 피우는 사람의 위험도는 2.1배, 술만 마시는 사람의 위험도는 1.2~2.8배다.\n하지만 술과 담배를 둘 다 하는 사람의 발병 위험도는 최대 15배에 이른다.\n구강암 환자의 75%는 흡연자라는 보고도 있다.\n다행히 구강암은 조기에 발견하기 쉬운 암이다.\n증상을 눈으로 발견할 수 있어서다. ▶입 안에 혓바늘이 2주 이상 돋았을 때 ▶혀바닥이나 잇몸에 백태가 낄 때 ▶목에 멍울이 잡히는 느낌이 들 때 ▶이유 없이 목구멍이 아플 때면 치과를 찾아 진단을 받는다.\n특히 입 안이 하얗게 백태가 끼거나 붉으스름한 혓바늘이 오랫동안 지속되면 더 주의한다.\n몸이 피곤해서 생기는 혓바늘은 대개 2주 정도 지나면 자연적으로 낫는다.\n이 기간이 넘어서도 하얗거나 붉은 혓바늘이 계속 있다면 구강암을 의심해야 한다.\n먼저 혀에 생기는 설암은 혀바닥이 하얗게 변하는 백반증을 동반한다.\n일반적인 백태는 칫솔 등으로 문지르면 없어지지만, 백반증은 그렇지 않다.\n암으로 진행하는 전 단계 일 수 있어 육안·조직검사 등을 통해 정확하게 감별해야 한다.\n실제 백반증의 5~10%는 구강암으로 진행한다.\n피부 점막에 붉은 반점이 생기는 홍반증은 백반증보다 암으로 진행된 비율이 3~4배 높다.\n틀니 착용하고 있다면 더 조심해야 구강암은 조기에 발견하면 비교적 간단한 수술이나 방사선 치료만으로 완치가 가능하다.\n치료 과정에서 발생하는 얼굴 변형이나 저작기능 장애도 덜 겪는다.\n그만큼 회복도 빠르다.\n문제는 뒤늦게 발견했을 때다.\n암이 목의 림프절이나 다른 장기로 전이 됐다면 치료가 힘들다.\n이 경우 5년 생존률이 50%이하에 불과하다.\n평소 구강검진에 신경써야 하는 이유다.\n구강암 예방을 위해서는 금연·금주는 필수다.\n틀니나 치아교정기 같은 구강 보철물을 착용하고 있을 때도 주의한다.\n낡고 날카로워진 구강 보철물은 입 안쪽 점막에 상처를 입혀 구강암 발생위험을 높인다.\n오민석 부장은 “입 안에 착용하는 보철물 상태를 정기적으로 확인·관리해야 한다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 31,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[권선미 기자] 구강암은 혀·잇몸·입술·입천장 등 입안에 발병하는 암을 말한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국내 구강암 환자는 전체 암 환자의 2%수준이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 후유증이 무섭다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "치료시기를 놓치면 음식물을 씹어 먹는 저작기능이 떨어지고 얼굴이 변형될 수 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "실제 구강암은 치료시기를 놓치면 발병 5년 이내 사망률이 44%로 치명적이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "구강암에 대해 선치과병원 구강악안면외과 오민석 부장의 도움말로 알아봤다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "구강암 환자의 75%는 흡연자 구강암은 흡연·음주와 밀접하게 연관돼 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "세계보건기구(WHO) 산하 국제암연구소(IARC)에 따르면 술과 담배를 하지 않는 사람의 구강암 발병 위험도를 1로 볼 때 담배만 피우는 사람의 위험도는 2.1배, 술만 마시는 사람의 위험도는 1.2~2.8배다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하지만 술과 담배를 둘 다 하는 사람의 발병 위험도는 최대 15배에 이른다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "구강암 환자의 75%는 흡연자라는 보고도 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "다행히 구강암은 조기에 발견하기 쉬운 암이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "증상을 눈으로 발견할 수 있어서다. ▶입 안에 혓바늘이 2주 이상 돋았을 때 ▶혀바닥이나 잇몸에 백태가 낄 때 ▶목에 멍울이 잡히는 느낌이 들 때 ▶이유 없이 목구멍이 아플 때면 치과를 찾아 진단을 받는다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "특히 입 안이 하얗게 백태가 끼거나 붉으스름한 혓바늘이 오랫동안 지속되면 더 주의한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "몸이 피곤해서 생기는 혓바늘은 대개 2주 정도 지나면 자연적으로 낫는다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "이 기간이 넘어서도 하얗거나 붉은 혓바늘이 계속 있다면 구강암을 의심해야 한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "먼저 혀에 생기는 설암은 혀바닥이 하얗게 변하는 백반증을 동반한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "일반적인 백태는 칫솔 등으로 문지르면 없어지지만, 백반증은 그렇지 않다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "암으로 진행하는 전 단계 일 수 있어 육안·조직검사 등을 통해 정확하게 감별해야 한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "실제 백반증의 5~10%는 구강암으로 진행한다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "피부 점막에 붉은 반점이 생기는 홍반증은 백반증보다 암으로 진행된 비율이 3~4배 높다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "틀니 착용하고 있다면 더 조심해야 구강암은 조기에 발견하면 비교적 간단한 수술이나 방사선 치료만으로 완치가 가능하다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "치료 과정에서 발생하는 얼굴 변형이나 저작기능 장애도 덜 겪는다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "그만큼 회복도 빠르다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "문제는 뒤늦게 발견했을 때다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "암이 목의 림프절이나 다른 장기로 전이 됐다면 치료가 힘들다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "이 경우 5년 생존률이 50%이하에 불과하다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "평소 구강검진에 신경써야 하는 이유다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "구강암 예방을 위해서는 금연·금주는 필수다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 29,
+        "sentenceContent": "틀니나 치아교정기 같은 구강 보철물을 착용하고 있을 때도 주의한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 30,
+        "sentenceContent": "낡고 날카로워진 구강 보철물은 입 안쪽 점막에 상처를 입혀 구강암 발생위험을 높인다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 31,
+        "sentenceContent": "오민석 부장은 “입 안에 착용하는 보철물 상태를 정기적으로 확인·관리해야 한다”고 말했다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일상적인 증상이라 눈치 못 채는 '이 암', 치료 시기 놓치면 사망률 치명적",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 29,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 30,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 31,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

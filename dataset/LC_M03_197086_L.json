@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197086",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "겨울에 자주 발생하나 여름에도 감염 ‘사철 질환’",
+    "newsSubTitle": "조류 분비물로 주로 전파 … 37도 넘어도 바이러스 생존 따뜻한데 AI 확산 왜",
+    "newsContent": "‘겨울철 질환’으로 알려진 조류 인플루엔자(AI)가 한낮 기온이 25도를 웃도는 기온 속에서도 전국적으로 확산됐다.\n일부에서는 동남아나 아프리카처럼 우리나라도 연중 내내 AI가 발생하는 것 아니냐는 걱정도 나온다.\n전문가들은 AI가 겨울에 더 잦은 것은 사실이나 사철 발생이 가능한 질환이라고 지적한다.\nAI처럼 바이러스 때문에 발생하는 독감(인플루엔자)이 겨울에 환자 수가 늘지만 다른 계절에도 환자가 드물게 발생하는 것과 같은 이치다.\n2003, 2006년 국내에서 AI가 겨울에 발생한 것은 우연이라는 것이다.\n실제로 2006년에 국내에서 발생한 AI의 기원은 중국 서부의 칭하이 호수인데 같은 종류의 AI 바이러스가 한국은 물론 중동·아프리카까지 퍼졌다.\nAI가 겨울에 발생할 위험이 큰 것은 AI 바이러스가 낮은 온도에서 더 오래 살기 때문이다.\nAI에 감염된 오리가 수온이 4도인 연못에서 분변을 통해 AI 바이러스를 배출한다면 이때의 AI 바이러스는 물속에 3개월 이상 생존한다.\n그러나 기온이 30도로 올라가면 바이러스는 며칠 내에 죽는다.\nAI는 기침 등 공기를 통해 감염되는 독감과는 달리 주로 분변을 통해 전파된다.\n바이오포아 김선중 기술이사(조류질병학 박사)는 “닭 등 조류의 체온은 40도로 사람 체온보다 높다”며 “AI 바이러스는 이런 조류의 몸에서 생존하므로 여름에 기온이 37도 이상 올라가도 잠시 동안 살 수 있다”고 설명했다.\n국립수의과학검역원 이주호 부장은 “AI 방역 사업은 여름이 더 쉬운 측면이 있다”며 “겨울엔 땅이 얼어 소독약 살포 효과가 떨어지는데 여름엔 소독 효과가 높다”고 전했다.\n서울대 수의학과 김재홍 교수는 올해 AI가 다른 해보다 늦게까지 발생하는 것은 방역체계에 허점이 있을 가능성에 무게를 둔다.\n김 교수는 “전에는 종오리에서 AI가 발생했는데 올해는 육용(肉用) 오리·토종닭을 통해 전염이 이뤄지고 있다”며 “재래시장 등에서 AI에 감염된 육용 오리나 토종 닭을 유통시킨 것이 사태를 악화시켰을 가능성이 있다”고 설명했다.\n농림수산식품부는 이번 서울에서 확인된 AI에 감염된 꿩은 성남 모란시장에서 지난달 24일 구입(25일 폐사)한 것으로 파악하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘겨울철 질환’으로 알려진 조류 인플루엔자(AI)가 한낮 기온이 25도를 웃도는 기온 속에서도 전국적으로 확산됐다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "일부에서는 동남아나 아프리카처럼 우리나라도 연중 내내 AI가 발생하는 것 아니냐는 걱정도 나온다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "전문가들은 AI가 겨울에 더 잦은 것은 사실이나 사철 발생이 가능한 질환이라고 지적한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "AI처럼 바이러스 때문에 발생하는 독감(인플루엔자)이 겨울에 환자 수가 늘지만 다른 계절에도 환자가 드물게 발생하는 것과 같은 이치다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2003, 2006년 국내에서 AI가 겨울에 발생한 것은 우연이라는 것이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "실제로 2006년에 국내에서 발생한 AI의 기원은 중국 서부의 칭하이 호수인데 같은 종류의 AI 바이러스가 한국은 물론 중동·아프리카까지 퍼졌다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "AI가 겨울에 발생할 위험이 큰 것은 AI 바이러스가 낮은 온도에서 더 오래 살기 때문이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "AI에 감염된 오리가 수온이 4도인 연못에서 분변을 통해 AI 바이러스를 배출한다면 이때의 AI 바이러스는 물속에 3개월 이상 생존한다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그러나 기온이 30도로 올라가면 바이러스는 며칠 내에 죽는다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "AI는 기침 등 공기를 통해 감염되는 독감과는 달리 주로 분변을 통해 전파된다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "바이오포아 김선중 기술이사(조류질병학 박사)는 “닭 등 조류의 체온은 40도로 사람 체온보다 높다”며 “AI 바이러스는 이런 조류의 몸에서 생존하므로 여름에 기온이 37도 이상 올라가도 잠시 동안 살 수 있다”고 설명했다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "국립수의과학검역원 이주호 부장은 “AI 방역 사업은 여름이 더 쉬운 측면이 있다”며 “겨울엔 땅이 얼어 소독약 살포 효과가 떨어지는데 여름엔 소독 효과가 높다”고 전했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "서울대 수의학과 김재홍 교수는 올해 AI가 다른 해보다 늦게까지 발생하는 것은 방역체계에 허점이 있을 가능성에 무게를 둔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "김 교수는 “전에는 종오리에서 AI가 발생했는데 올해는 육용(肉用) 오리·토종닭을 통해 전염이 이뤄지고 있다”며 “재래시장 등에서 AI에 감염된 육용 오리나 토종 닭을 유통시킨 것이 사태를 악화시켰을 가능성이 있다”고 설명했다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "농림수산식품부는 이번 서울에서 확인된 AI에 감염된 꿩은 성남 모란시장에서 지난달 24일 구입(25일 폐사)한 것으로 파악하고 있다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "겨울에 신음하는 조류 농가… 사계절 내내 이어지나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

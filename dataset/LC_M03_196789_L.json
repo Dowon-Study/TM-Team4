@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196789",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 발 상처 여부 관찰은 매일, 심혈관계 질환 위험도 검사는 매년",
+    "newsSubTitle": "대한당뇨병학회가 만든 당뇨병 관리 생활수칙",
+    "newsContent": "전 세계에서 7초에 한 명씩 당뇨병으로 목숨을 잃는다.\n세계보건기구(WHO)가 올해 세계 보건의 날(4월 7일) 주제를 ‘당뇨병과의 전쟁(Beat Diabetes)’으로 선정한 이유다.\n우리나라도 당뇨병 관리에 비상등이 켜졌다.\n세계 최고 수준의 의료기술이 있지만 당뇨병 사망률은 OECD 국가 중 다섯 번째로 높다.\n당뇨병이 제대로 관리되지 않기 때문이다.\n2014년 국민건강영양조사에 따르면 스스로 당뇨병을 인지하고 있는 환자는 전체의 70.7%로 비교적 높은 편이다.\n하지만 혈당을 제대로 조절하고 있는 환자는 25.3%에 불과하다.\n당뇨병 관리 목표인 당화혈색소 6.5% 미만, 혈압 140/85㎜Hg 미만, 콜레스테롤 100㎜/dL 이하를 모두 만족하는 환자는 전체의 10.8%에 그친다.\n환자 10명 중 1명만 당뇨병을 제대로 관리하고 있는 것이다.\n흔히 당뇨병은 혈당만 조절하면 그만이라고 생각하기 쉽지만 혈압과 콜레스테롤을 함께 관리하지 않으면 만성합병증 발생 가능성은 더 커진다.\n대한당뇨병학회는 이를 개선하기 위해 15일 ‘당뇨병 관리 하나 둘 셋’이란 이름의 생활수칙을 내놨다.\n수많은 관리 지침을 하나로 모아 정리했다.\n한국인의 생활패턴을 반영해 3개 관리 목표와 18개 수칙으로 구성했다.\n3개 목표는 ▶혈당 조절 ▶두 가지 동반질환(고혈압·고지혈증) 관리 ▶3대 합병증(망막·콩팥·신경합병증) 예방이다.\n혈압·콜레스테롤 함께 관리해야 18개 생활수칙은 매일 관리해야 하는 수칙, 병·의원 방문 시 확인할 수칙, 매년 한 번은 꼭 점검할 수칙으로 나뉘어 있다.\n매일 관리할 수칙은 규칙적·건강한 식사, 주3회 이상 운동, 금연·절주, 자가 혈당 측정, 저혈당 주의, 올바른 약 복용, 발 상처 관찰 등 7개 항목을 꼽았다.\n매년 한 번 점검할 사항은 심혈관계 질환 위험도, 망막 합병증, 콩팥 합병증, 신경 합병증 및 발 궤양, 예방접종, 당뇨병 교육 등 6개 항목이다.\n당뇨병학회 이문규(삼성서울병원 내분비내과) 이사장은 “아직도 당뇨병을 약으로 관리하는 병이라고 보는 환자가 많아 아쉽다. 당뇨병은 지속적인 관리로 충분히 증상을 완화하고 치료할 수 있는 질환”이라고 강조했다.\n김대중(아주대병원 내분비내과) 홍보이사는 “18개 항목 모두가 중요하지만 특히 교육적인 부분을 강조하고 싶다. 수칙을 환자가 숙지하려면 적어도 1년에 한 번은 제대로 교육을 받아야 한다”고 말했다.\n당뇨병 관리 하나 둘 셋 생활수칙은 당뇨병학회 홈페이지(www.diabetes.or.kr)에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전 세계에서 7초에 한 명씩 당뇨병으로 목숨을 잃는다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "세계보건기구(WHO)가 올해 세계 보건의 날(4월 7일) 주제를 ‘당뇨병과의 전쟁(Beat Diabetes)’으로 선정한 이유다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "우리나라도 당뇨병 관리에 비상등이 켜졌다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "세계 최고 수준의 의료기술이 있지만 당뇨병 사망률은 OECD 국가 중 다섯 번째로 높다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당뇨병이 제대로 관리되지 않기 때문이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2014년 국민건강영양조사에 따르면 스스로 당뇨병을 인지하고 있는 환자는 전체의 70.7%로 비교적 높은 편이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 혈당을 제대로 조절하고 있는 환자는 25.3%에 불과하다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "당뇨병 관리 목표인 당화혈색소 6.5% 미만, 혈압 140/85㎜Hg 미만, 콜레스테롤 100㎜/dL 이하를 모두 만족하는 환자는 전체의 10.8%에 그친다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "환자 10명 중 1명만 당뇨병을 제대로 관리하고 있는 것이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "흔히 당뇨병은 혈당만 조절하면 그만이라고 생각하기 쉽지만 혈압과 콜레스테롤을 함께 관리하지 않으면 만성합병증 발생 가능성은 더 커진다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "대한당뇨병학회는 이를 개선하기 위해 15일 ‘당뇨병 관리 하나 둘 셋’이란 이름의 생활수칙을 내놨다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "수많은 관리 지침을 하나로 모아 정리했다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "한국인의 생활패턴을 반영해 3개 관리 목표와 18개 수칙으로 구성했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "3개 목표는 ▶혈당 조절 ▶두 가지 동반질환(고혈압·고지혈증) 관리 ▶3대 합병증(망막·콩팥·신경합병증) 예방이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "혈압·콜레스테롤 함께 관리해야 18개 생활수칙은 매일 관리해야 하는 수칙, 병·의원 방문 시 확인할 수칙, 매년 한 번은 꼭 점검할 수칙으로 나뉘어 있다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "매일 관리할 수칙은 규칙적·건강한 식사, 주3회 이상 운동, 금연·절주, 자가 혈당 측정, 저혈당 주의, 올바른 약 복용, 발 상처 관찰 등 7개 항목을 꼽았다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "매년 한 번 점검할 사항은 심혈관계 질환 위험도, 망막 합병증, 콩팥 합병증, 신경 합병증 및 발 궤양, 예방접종, 당뇨병 교육 등 6개 항목이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "당뇨병학회 이문규(삼성서울병원 내분비내과) 이사장은 “아직도 당뇨병을 약으로 관리하는 병이라고 보는 환자가 많아 아쉽다. 당뇨병은 지속적인 관리로 충분히 증상을 완화하고 치료할 수 있는 질환”이라고 강조했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "김대중(아주대병원 내분비내과) 홍보이사는 “18개 항목 모두가 중요하지만 특히 교육적인 부분을 강조하고 싶다. 수칙을 환자가 숙지하려면 적어도 1년에 한 번은 제대로 교육을 받아야 한다”고 말했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "당뇨병 관리 하나 둘 셋 생활수칙은 당뇨병학회 홈페이지(www.diabetes.or.kr)에서 확인할 수 있다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "당뇨, 18개 생활수칙 매일 관리하지 않으면 즉사할 정도로 위험하다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

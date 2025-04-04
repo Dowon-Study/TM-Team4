@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193359",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK책갈피] 자신과 무관한 갈등·분쟁에도 쓸데없이 참견하는 게 지식인?",
+    "newsSubTitle": "",
+    "newsContent": "지식인을 위한 변명 장 폴 사르트르 지음, 박정태 옮김 이학사, 165쪽, 8000원 1980년대까지만 해도 대학생들의 필독서로 통했던 ‘고전’을 새롭게 번역한 책이다.\n저자 장 폴 사르트르(1905∼1980)는 20세기를 대표하는 프랑스 실존주의 철학자. 원저작권자인 프랑스 갈리마르출판사와 정식 계약을 맺고 나온 것으로 치면 이번이 첫 번역이다.\n사르트르와 들뢰즈를 전공한 프랑스 철학 박사가 깔끔한 번역과 함께 달아놓은 각주를 읽는 재미가 쏠쏠하다.\n지식인이란 무엇인가. 386세대에겐 ‘추억의 상품’인 이 책이 던지는 질문이 여전히 유효한가.\n자판만 누르면 지식이 쏟아지는 인터넷 세상에 지식인의 시대는 끝난 것 아닌가.\n이 책은 사르트르가 1965년 도쿄와 교토에서 했던 세 차례 강연을 묶은 것이다.\n사르트르는 사회 참여 지식인을 옹호했다.\n자신의 전공 분야를 넘어 인권과 민주주의를 위해 실천하는 전문가를 그는 진정한 지식인이라고 정의했다.\n참여 지식인에겐 다음과 같은 비난이 따라다닌다고 했다. ‘자신과 무관한 일에 쓸데없이 참견하는 사람’이라는 비난. 하지만 사르트르는 그런 비난이야말로 지식인에 대한 정확한 묘사라고 했으며, 지식인이라면 우리 시대의 모든 갈등과 분쟁에 쓸데없이 참견해야 한다고 했다.\n그런데 사르트르의 지식인론은 마르크스주의에 기반을 두고 있다.\n자본가-노동자 계급이란 두 계급을 적대적으로 설정한 후 그 중간층에 지식인을 위치시켰다.\n그리고 지식인은 자본가 계급의 헤게모니를 유지시키는 지배 이데올로기의 허구성을 폭로하면서 소외받는 이들의 목표를 대변해야 한다고 주장한다.\n지구상의 모든 갈등은 피지배계급에 대한 지배계급의 착취와 억압으로부터 비롯된다고 보기 때문이다.\n사회주의 실험이 실패로 판정 난 오늘의 시점에서 볼 때, 계급이론에 고착된 철학자의 모습은 철 지난 낭만을 떠올려줄 뿐이다.\n하지만 더 나은 사회에 대한 꿈까지 접을 수 없다는 기대를 안고 보면, 사르트르를 넘어서는 21세기 새 지식인론이 필요함을 느끼게 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지식인을 위한 변명 장 폴 사르트르 지음, 박정태 옮김 이학사, 165쪽, 8000원 1980년대까지만 해도 대학생들의 필독서로 통했던 ‘고전’을 새롭게 번역한 책이다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "저자 장 폴 사르트르(1905∼1980)는 20세기를 대표하는 프랑스 실존주의 철학자. 원저작권자인 프랑스 갈리마르출판사와 정식 계약을 맺고 나온 것으로 치면 이번이 첫 번역이다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사르트르와 들뢰즈를 전공한 프랑스 철학 박사가 깔끔한 번역과 함께 달아놓은 각주를 읽는 재미가 쏠쏠하다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지식인이란 무엇인가. 386세대에겐 ‘추억의 상품’인 이 책이 던지는 질문이 여전히 유효한가.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "자판만 누르면 지식이 쏟아지는 인터넷 세상에 지식인의 시대는 끝난 것 아닌가.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 책은 사르트르가 1965년 도쿄와 교토에서 했던 세 차례 강연을 묶은 것이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사르트르는 사회 참여 지식인을 옹호했다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "자신의 전공 분야를 넘어 인권과 민주주의를 위해 실천하는 전문가를 그는 진정한 지식인이라고 정의했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "참여 지식인에겐 다음과 같은 비난이 따라다닌다고 했다. ‘자신과 무관한 일에 쓸데없이 참견하는 사람’이라는 비난. 하지만 사르트르는 그런 비난이야말로 지식인에 대한 정확한 묘사라고 했으며, 지식인이라면 우리 시대의 모든 갈등과 분쟁에 쓸데없이 참견해야 한다고 했다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그런데 사르트르의 지식인론은 마르크스주의에 기반을 두고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "자본가-노동자 계급이란 두 계급을 적대적으로 설정한 후 그 중간층에 지식인을 위치시켰다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그리고 지식인은 자본가 계급의 헤게모니를 유지시키는 지배 이데올로기의 허구성을 폭로하면서 소외받는 이들의 목표를 대변해야 한다고 주장한다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "지구상의 모든 갈등은 피지배계급에 대한 지배계급의 착취와 억압으로부터 비롯된다고 보기 때문이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "사회주의 실험이 실패로 판정 난 오늘의 시점에서 볼 때, 계급이론에 고착된 철학자의 모습은 철 지난 낭만을 떠올려줄 뿐이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "하지만 더 나은 사회에 대한 꿈까지 접을 수 없다는 기대를 안고 보면, 사르트르를 넘어서는 21세기 새 지식인론이 필요함을 느끼게 된다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "지식인이라면 우리 시대의 모든 갈등과 분쟁에 '엄근진' 참견해야 해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

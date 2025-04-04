@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193391",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "20억원 박수근 유화 '농악'경매",
+    "newsSubTitle": "",
+    "newsContent": "'국민화가'박수근(1914~65)의 작품이 미술품 경매에서 고가 낙찰 행진을 이어갔다.\n서울옥션이 9일 오후 서울 평창동 경매장에서 실시한 105회 경매에서 박수근의 1960년대 유화 '농악'(54×31.5㎝)이 20억원에 낙찰됐다.\n국내 미술품 경매 사상 두 번째로 비싼 가격이다.\n최고가는 7일 K옥션 경매에서 25억원에 팔린 박수근의 61년 작품 '시장의 사람들'이다. '농악'은 농악대 4명의 움직임을 간결하고 소박한 선으로 그려낸 작품. 시장이나 시골 풍경 등을 주로 그린 박수근의 다른 작품과 달리 소재가 특이하다는 점이 높이 평가됐다.\n이날 경매에서는 김환기의 1972년 작 파란색 점화 '15-XⅡ-72 #305'도 10억1000만원이라는 높은 가격에 팔렸다.\n한편 서울옥션의 이날 경매 1부 낙찰률은 70.25%, 낙찰총액은 113억6600만원으로 국내 미술품 경매 사상 1회 경매 최다액을 기록했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'국민화가'박수근(1914~65)의 작품이 미술품 경매에서 고가 낙찰 행진을 이어갔다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울옥션이 9일 오후 서울 평창동 경매장에서 실시한 105회 경매에서 박수근의 1960년대 유화 '농악'(54×31.5㎝)이 20억원에 낙찰됐다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국내 미술품 경매 사상 두 번째로 비싼 가격이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최고가는 7일 K옥션 경매에서 25억원에 팔린 박수근의 61년 작품 '시장의 사람들'이다. '농악'은 농악대 4명의 움직임을 간결하고 소박한 선으로 그려낸 작품. 시장이나 시골 풍경 등을 주로 그린 박수근의 다른 작품과 달리 소재가 특이하다는 점이 높이 평가됐다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 경매에서는 김환기의 1972년 작 파란색 점화 '15-XⅡ-72 #305'도 10억1000만원이라는 높은 가격에 팔렸다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 서울옥션의 이날 경매 1부 낙찰률은 70.25%, 낙찰총액은 113억6600만원으로 국내 미술품 경매 사상 1회 경매 최다액을 기록했다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'넘사벽' 국민화가 박수근, 미술품 경매에서 고가 낙찰 행진 이어가",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

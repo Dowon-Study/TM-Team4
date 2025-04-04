@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195611",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "여의도성모 조정기 교수, 척추신경외과학회 학술상",
+    "newsSubTitle": "",
+    "newsContent": "가톨릭대 여의도성모병원 신경외과 조정기 교수와 김영진 전공의가 지난 9월 22일부터 24일까지 개최된 ‘제30회 대한척추신경외과학회 학술대회’에서 학술상을 수상했다.\n논문 제목은 ‘Can Modified K-line in Magnetic Resonance Imaging Predict Surgical Outcome of Cervical Laminoplasty?: A Critical Reappraisal’이다.\n논문은 경추부의 압박성 척수병증의 수술 방법 선택의 기준이자 근거로 제시된 modified K-line의 유용성을 재평가한 내용이다.\nModified K-Line이라는 수술전 경추부 자기공명영상에서의 측정 방법이 실제 임상에서 유용성을 보이지 못하는 점을 증명했다는 점에서 주목을 받는다.\n특히 경추부 압박성 척수병증의 수술 방법 선택시 하나의 기준 보다 다양한 기준을 종합적으로 고려해야 한다는 점을 강조했다.\n아시아스파인(ASIA SPINE)은 2010년 한국과 일본, 대만이 주축이 되어 만든 국제학술대회로서 북미척추외과학회와 유럽척추외과학회와 같이 아시아를 대표하는 국제학술대회가 되기 위해 노력하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가톨릭대 여의도성모병원 신경외과 조정기 교수와 김영진 전공의가 지난 9월 22일부터 24일까지 개최된 ‘제30회 대한척추신경외과학회 학술대회’에서 학술상을 수상했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "논문 제목은 ‘Can Modified K-line in Magnetic Resonance Imaging Predict Surgical Outcome of Cervical Laminoplasty?: A Critical Reappraisal’이다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "논문은 경추부의 압박성 척수병증의 수술 방법 선택의 기준이자 근거로 제시된 modified K-line의 유용성을 재평가한 내용이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "Modified K-Line이라는 수술전 경추부 자기공명영상에서의 측정 방법이 실제 임상에서 유용성을 보이지 못하는 점을 증명했다는 점에서 주목을 받는다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 경추부 압박성 척수병증의 수술 방법 선택시 하나의 기준 보다 다양한 기준을 종합적으로 고려해야 한다는 점을 강조했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아시아스파인(ASIA SPINE)은 2010년 한국과 일본, 대만이 주축이 되어 만든 국제학술대회로서 북미척추외과학회와 유럽척추외과학회와 같이 아시아를 대표하는 국제학술대회가 되기 위해 노력하고 있다.",
+        "sentenceSize": 112
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": " ‘제30회 대한척추신경외과학회 학술대회’ 학술상 수상자는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

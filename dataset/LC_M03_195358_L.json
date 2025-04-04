@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195358",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[톡톡에듀-카드뉴스]프리랜서 시대...학교가 변했다",
+    "newsSubTitle": "미래학자 토머스 프레이의 전망 “10년 후 한 사람이 8개 일하는 시대 올 것” “2030년 세계 대학의 절반이 사라진다”",
+    "newsContent": "주입식 교육으로 좋은 대학에 진학만 하면, 안정된 삶을 어느 정도 보장받을 수 있는 시절이 있었다.\n미래엔 이런 방식이 통하지 않을 것이다.\n이미 이런 규칙에 금이 가고 있는 모습을 사회 도처에서 볼 수 있다.\n명문대를 나와도 이전과 대우가 같지 않고, 학벌보다 실력을 중시하는 문화가 빠르게 확산하고 있다.\n미래학자 토머스 프레이는 “2030년 세계 대학의 절반이 사라진다”고 예측한다.\n프레이는 “10년 후 한 사람이 8~10개의 일을 하는 프리랜서의 시대가 올 것”이라며 전망한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "주입식 교육으로 좋은 대학에 진학만 하면, 안정된 삶을 어느 정도 보장받을 수 있는 시절이 있었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미래엔 이런 방식이 통하지 않을 것이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이미 이런 규칙에 금이 가고 있는 모습을 사회 도처에서 볼 수 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "명문대를 나와도 이전과 대우가 같지 않고, 학벌보다 실력을 중시하는 문화가 빠르게 확산하고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "미래학자 토머스 프레이는 “2030년 세계 대학의 절반이 사라진다”고 예측한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "프레이는 “10년 후 한 사람이 8~10개의 일을 하는 프리랜서의 시대가 올 것”이라며 전망한다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "학벌 좋으면 성공하는 시대는 끝났다... 다가올 미래의 주인은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

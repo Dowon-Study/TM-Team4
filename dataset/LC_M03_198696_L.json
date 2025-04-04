@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198696",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "숙박ㆍ여행 할인쿠폰 100만장 4일부터 풀린다",
+    "newsSubTitle": "",
+    "newsContent": "신종 코로나바이러스 감염증(코로나19) 확산으로 잠정 중단됐던 숙박ㆍ여행상품 할인 쿠폰 100만 장이 4일부터 지급된다.\n이날 오전 10시부터 야놀자, 11번가 등 24개 온라인 여행사(OTA)에서 국내 숙박을 예약할 때 할인쿠폰을 1인당 1회 발급받을 수 있다. 3만~4만원의 숙박비를 할인받을 수 있다.\n숙박비가 7만 원 이하인 숙소는 3만 원, 7만 원 이상인 숙소는 4만 원을 각각 깎아준다.\n할인쿠폰 발급 규모는 총 100만 장이다.\n이 중 3만 원 할인권이 20만 장, 4만 원 할인권이 80만 장이다.\n이용 가능 기간은 크리스마스와 연말연시 등 성수기를 제외하고 11월 4일부터 12월 23일까지다.\n쿠폰을 발급받으면 당일 오전 10시부터 다음날 오전 7시까지 21시간 내 숙소를 예약해야 한다.\n쿠폰을 발급받고도 사용하지 않으면 자동 무효 처리된다.\n다만, 이 경우 다음날 온라인 여행사 사이트에서 다시 발급받을 수 있다.\n단, 할인쿠폰 사업이 잠정 중단되기 전인 지난 8월 할인 쿠폰으로 숙소를 예약한 사람은 1인 1매 원칙에 따라 쿠폰을 다시 발급받을 수 없다.\n쿠폰을 받았지만, 숙소를 예약하지 않은 경우에는 사용할 수 있다.\n할인 가능 시설은 호텔, 콘도, 리조트, 펜션, 농어촌민박, 모텔 등 국내 숙박시설이다.\n하지만 미등록 숙소나 아고다, 호텔스닷컴 등 해외 온라인 여행사에서 예약하는 숙박시설에는 쿠폰을 사용할 수 없다.\n롯데월드 등 전국 주요 놀이공원 할인 쿠폰 3만6000장도 이날 오전 10시부터 인터파크 티켓 홈페이지에서 선착순으로 받을 수 있다.\n전국 주요 놀이공원에서 입장권과 자유이용권 등을 최대 60%까지 할인해 준다.\n쿠폰 사용 방법과 적용 가능 숙박시설 등 자세한 정보는 안내 홈페이지(ktostay.interpark.com)에서 확인할 수 있다.\n정부는 지난달 말부터 철저한 방역을 기반으로 그동안 중단되었던 숙박ㆍ여행ㆍ외식 할인 지원을 순차적으로 재개했다.\n앞서 10월 30일부터 1112개 여행상품에 대해 30% 할인을 제공하는 여행 할인권과 3회 외식이용 시 4회차에 1만 원을 환급하는 외식할인지원 운동(캠페인)을 시작했다.\n중앙재난안전대책본부는 “산발적인 집단 감염이 계속되고 있다는 점을 고려해 방역을 우선으로 할 수 있도록 사업을 조정했다”며 “모든 사업은 코로나19 상황에 따라 탄력적으로 추진할 것”이라고 밝혔다.\n이어 “향후 코로나19가 전국적으로 확산될 경우에는 해당 사업은 취소ㆍ연기할 계획”이라고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신종 코로나바이러스 감염증(코로나19) 확산으로 잠정 중단됐던 숙박ㆍ여행상품 할인 쿠폰 100만 장이 4일부터 지급된다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 오전 10시부터 야놀자, 11번가 등 24개 온라인 여행사(OTA)에서 국내 숙박을 예약할 때 할인쿠폰을 1인당 1회 발급받을 수 있다. 3만~4만원의 숙박비를 할인받을 수 있다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "숙박비가 7만 원 이하인 숙소는 3만 원, 7만 원 이상인 숙소는 4만 원을 각각 깎아준다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "할인쿠폰 발급 규모는 총 100만 장이다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 중 3만 원 할인권이 20만 장, 4만 원 할인권이 80만 장이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이용 가능 기간은 크리스마스와 연말연시 등 성수기를 제외하고 11월 4일부터 12월 23일까지다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "쿠폰을 발급받으면 당일 오전 10시부터 다음날 오전 7시까지 21시간 내 숙소를 예약해야 한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "쿠폰을 발급받고도 사용하지 않으면 자동 무효 처리된다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다만, 이 경우 다음날 온라인 여행사 사이트에서 다시 발급받을 수 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "단, 할인쿠폰 사업이 잠정 중단되기 전인 지난 8월 할인 쿠폰으로 숙소를 예약한 사람은 1인 1매 원칙에 따라 쿠폰을 다시 발급받을 수 없다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "쿠폰을 받았지만, 숙소를 예약하지 않은 경우에는 사용할 수 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "할인 가능 시설은 호텔, 콘도, 리조트, 펜션, 농어촌민박, 모텔 등 국내 숙박시설이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "하지만 미등록 숙소나 아고다, 호텔스닷컴 등 해외 온라인 여행사에서 예약하는 숙박시설에는 쿠폰을 사용할 수 없다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "롯데월드 등 전국 주요 놀이공원 할인 쿠폰 3만6000장도 이날 오전 10시부터 인터파크 티켓 홈페이지에서 선착순으로 받을 수 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "전국 주요 놀이공원에서 입장권과 자유이용권 등을 최대 60%까지 할인해 준다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "쿠폰 사용 방법과 적용 가능 숙박시설 등 자세한 정보는 안내 홈페이지(ktostay.interpark.com)에서 확인할 수 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "정부는 지난달 말부터 철저한 방역을 기반으로 그동안 중단되었던 숙박ㆍ여행ㆍ외식 할인 지원을 순차적으로 재개했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "앞서 10월 30일부터 1112개 여행상품에 대해 30% 할인을 제공하는 여행 할인권과 3회 외식이용 시 4회차에 1만 원을 환급하는 외식할인지원 운동(캠페인)을 시작했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "중앙재난안전대책본부는 “산발적인 집단 감염이 계속되고 있다는 점을 고려해 방역을 우선으로 할 수 있도록 사업을 조정했다”며 “모든 사업은 코로나19 상황에 따라 탄력적으로 추진할 것”이라고 밝혔다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "이어 “향후 코로나19가 전국적으로 확산될 경우에는 해당 사업은 취소ㆍ연기할 계획”이라고 덧붙였다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코로나 확산으로 잠정 중단됐던 '이 쿠폰' 100만 장 다시 지급",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

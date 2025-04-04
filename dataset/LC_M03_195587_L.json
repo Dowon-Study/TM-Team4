@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195587",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "직원이 행복한 한화제약, 가족친화인증기업 재인증",
+    "newsSubTitle": "",
+    "newsContent": "[이민영 기자] 한화제약이 가족친화인증기업에 재선정됐다고 30일 밝혔다.\n가족친화인증은 근로자가 가정과 직장 모두에서 균형있는 생활을 할 수 있도록 회사가 시스템을 갖추고 있는지 인증하는 제도다.\n여성가족부가 기업이나 기관을 심사해 인증을 부여한다.\n한화제약은 2011년 인증을 획득했다.\n직원들이 가정생활과 직장생활을 조화롭게 병행할 수 있도록 많은 노력을 펼쳐온 결과다.\n예컨대 한화제약은 일하고 싶은 일터를 만들기 위해 업계 평균을 웃도는 보상프로그램을 도입했다.\n매년 전 임직원에겐 장기 유급휴가를 일괄 지급한다.\n한화제약은 매년 두 자리 수 이상의 성장을 기록하고 있다.\n관계자에 따르면 창립 40주년인 올해엔 역대 최고매출을 달성할 것으로 예상된다.\ncGMP 급 시설인 춘전공장의 수탁생산은 연간 약 60억원 규모로 새로운 성장동력으로서 안착했다는 평가를 받는다.\n한화제약 김경락 사장은 \\\"성장하는 기업에는 언제나 밝게 웃으며 일하는 직원들이 있다.\n업계 최고수준의 근속연수를 자랑하는 한화제약을 만들어 나갈 것”이라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[이민영 기자] 한화제약이 가족친화인증기업에 재선정됐다고 30일 밝혔다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "가족친화인증은 근로자가 가정과 직장 모두에서 균형있는 생활을 할 수 있도록 회사가 시스템을 갖추고 있는지 인증하는 제도다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "여성가족부가 기업이나 기관을 심사해 인증을 부여한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한화제약은 2011년 인증을 획득했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "직원들이 가정생활과 직장생활을 조화롭게 병행할 수 있도록 많은 노력을 펼쳐온 결과다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "예컨대 한화제약은 일하고 싶은 일터를 만들기 위해 업계 평균을 웃도는 보상프로그램을 도입했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "매년 전 임직원에겐 장기 유급휴가를 일괄 지급한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한화제약은 매년 두 자리 수 이상의 성장을 기록하고 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "관계자에 따르면 창립 40주년인 올해엔 역대 최고매출을 달성할 것으로 예상된다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "cGMP 급 시설인 춘전공장의 수탁생산은 연간 약 60억원 규모로 새로운 성장동력으로서 안착했다는 평가를 받는다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "한화제약 김경락 사장은 \\\"성장하는 기업에는 언제나 밝게 웃으며 일하는 직원들이 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "업계 최고수준의 근속연수를 자랑하는 한화제약을 만들어 나갈 것”이라고 말했다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가족친화인증기업 한화제약, 직원들을 위한 복지에는 어떤 것들이 있나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198727",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스신간",
+    "newsSubTitle": "",
+    "newsContent": "━ 어떤 몸으로 나이 들 것인가 백세시대에 건강하게 나이 드는 것은 모두의 바람이다.\n어떤 몸으로 나이 들 것인가는 건강한 몸으로 장수할 수 있는 비결을 다룬다.\n저자들은 전 세계 장수촌 100세인의 식습관에서 공통분모를 찾아내 노화 과정을 늦추고 염증을 줄이며 건강을 개선하는 데 효과적인 장수 생활습관을 제시한다.\n적절한 운동과 함께 신체 나이에 맞는 최적의 단백질을 섭취하면서 활기찬 노년을 보낼 수 있도록 안내한다.\n━ 불안하다고 불안해하지 말아요 공황장애로 고통받는 사람이 늘고 있다.\n공황장애는 뇌의 오작동으로 몸 전체에 위험 신호가 내려지고 자율신경이 혼란을 일으키는 상태다.\n불안하다고 불안해하지 말아요는 공황장애 극복에 도움되는 솔루션을 담았다.\n공황장애에 대한 기초 정보와 공황장애를 이겨내는 데 효과적인 방법 17가지를 소개한다.\n명상·호흡과 같은 정신적인 치유법부터 뇌에 직접 작용해 효과를 주는 방법까지 다양하게 알려준다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ 어떤 몸으로 나이 들 것인가 백세시대에 건강하게 나이 드는 것은 모두의 바람이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "어떤 몸으로 나이 들 것인가는 건강한 몸으로 장수할 수 있는 비결을 다룬다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "저자들은 전 세계 장수촌 100세인의 식습관에서 공통분모를 찾아내 노화 과정을 늦추고 염증을 줄이며 건강을 개선하는 데 효과적인 장수 생활습관을 제시한다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "적절한 운동과 함께 신체 나이에 맞는 최적의 단백질을 섭취하면서 활기찬 노년을 보낼 수 있도록 안내한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "━ 불안하다고 불안해하지 말아요 공황장애로 고통받는 사람이 늘고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "공황장애는 뇌의 오작동으로 몸 전체에 위험 신호가 내려지고 자율신경이 혼란을 일으키는 상태다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "불안하다고 불안해하지 말아요는 공황장애 극복에 도움되는 솔루션을 담았다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "공황장애에 대한 기초 정보와 공황장애를 이겨내는 데 효과적인 방법 17가지를 소개한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "명상·호흡과 같은 정신적인 치유법부터 뇌에 직접 작용해 효과를 주는 방법까지 다양하게 알려준다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전 세계 장수촌에서 발견한 장수 생활 습관, 적절한 운동과 최적의 '이것' 섭취...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

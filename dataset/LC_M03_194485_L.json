@@ -1,0 +1,276 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194485",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Dr.황세희의몸&마음] 건강한데 검진은 왜?",
+    "newsSubTitle": "",
+    "newsContent": "엊그제 친구의 우울한 전화를 받았다.\n사연은 이렇다.\n월초, 친구의 칠순 모친이 건강검진을 통해 4기 위암 판정을 받은 것이다.\n그는 \\\"어머니가 식사도 곧잘 하시는데, 아무래도 오진인 듯싶다\\\"며 더 좋은 병원에서 재검을 받고 싶어했다.\n그가 모친에게 건강검진 말을 꺼낸 것은 몇 해 전부터라고 한다.\n물론 모친은 매번 \\\"딱히 아픈 데도 없는 늙은이가 왜 비싼 건강검진을 받느냐?\\\"며 손사래를 치셨단다.\n그 역시 정정해 보이는 모친이 '굳이 큰돈 들여 병원 갈 필요가 있을까?'란 생각을 해, 차일피일 미뤘다고 한다.\n하지만 얼마 전 부하 직원이 젊은 부모님께 건강검진을 선물하는 걸 보고 자신도 어머니를 설득해 병원을 찾았던 것이다.\n벼르던 검진인지라 그는 유명 대학병원에서 100만 원이 넘는 고가 검진을 신청했다.\n효심에 감동한 어머니는 각종 검사를 받으면서도 힘들단 말 한마디 없이 연신 미소를 띠셨다고 한다.\n한 주일 후, 별 생각 없이 병원에 갔던 그는 의사로부터 \\\"어머니의 위암이 주변 조직까지 퍼져 딱히 치료법도 없다\\\"는 통보를 받았다.\n그는 \\\"진작 검사를 받게 해드릴 걸…\\\"하며 끝내 울먹였다.\n사실 조직 검사로 확인된 위암이 오진(誤診)일 가능성은 희박하다.\n참으로 안타까운 사연이다.\n현재 위암을 비롯, 대부분의 암은 조기 발견.치료로 완치가 가능하나 병이 진행될수록 생존율은 급감한다.\n실제 위암 완치율만 해도 1기땐 90%를 넘지만 2기엔 60~70%, 3기 20~30%, 4기 땐 10% 미만으로 뚝 떨어진다.\n암 극복의 열쇠는 명의 치료에 달린 것이 아니라 '조기 발견'에 있는 셈이다.\n문제는 조기 발견이란 아무런 증상 없이 건강검진을 통해 '우연히' 병을 발견했을 때 가능하다는 점이다.\n일례로 내시경 검사에서 우연히 발견된 위암도 조기 위암이 절반, 진행성 위암이 절반이다.\n만일 불편한 증상 때문에 병원을 찾았다가 암 진단을 받았다면 이미 암세포는 한참 퍼진 뒤라고 봐야 한다.\n이는 암에 국한된 진실이 아니다.\n각종 만성병 역시 병 초기엔 증상이 없다.\n돌연사 원인인 협심증.심근경색증은 혈관이 70% 이상 막힌 뒤에야 힘든 일을 할 때 가슴 통증이 나타난다. 고혈압 역시 뇌졸중 같은 합병증이 초래되기 전까진 증상이 없어 '침묵의 살인자'로 불린다.\n이런 이유들로, 특히 중년 이후 정기검진의 필요성은 아무리 강조해도 지나치지 않다.\n간혹 \\\"건강검진이 좋은 줄 알지만 비싸서\\\"란 말을 한다.\n하지만 현재 건강보험 가입자는 누구나 최소한 2년에 한 번은 국민건강보험공단에서 제공하는 '기본 건강검진'을 무료로 받을 수 있다.\n또 위암.대장암.유방암.자궁경부암.간암 등도 검사비용의 20%만 부담하면 된다. (5가지 암검사를 다 받아도 10만원 미만) 나이가 생애전환기인 40세, 66세 때라면 암검사마저 무료다.\n불필요한 비용 걱정에, 무료검진을 몰라, 혹은 벼르다 한 번씩 비싼 검사만 찾다가 친구 모친처럼 병을 키우는 불행은 피해야 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 28,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "엊그제 친구의 우울한 전화를 받았다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사연은 이렇다.",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "월초, 친구의 칠순 모친이 건강검진을 통해 4기 위암 판정을 받은 것이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 \\\"어머니가 식사도 곧잘 하시는데, 아무래도 오진인 듯싶다\\\"며 더 좋은 병원에서 재검을 받고 싶어했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그가 모친에게 건강검진 말을 꺼낸 것은 몇 해 전부터라고 한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "물론 모친은 매번 \\\"딱히 아픈 데도 없는 늙은이가 왜 비싼 건강검진을 받느냐?\\\"며 손사래를 치셨단다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 역시 정정해 보이는 모친이 '굳이 큰돈 들여 병원 갈 필요가 있을까?'란 생각을 해, 차일피일 미뤘다고 한다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 얼마 전 부하 직원이 젊은 부모님께 건강검진을 선물하는 걸 보고 자신도 어머니를 설득해 병원을 찾았던 것이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "벼르던 검진인지라 그는 유명 대학병원에서 100만 원이 넘는 고가 검진을 신청했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "효심에 감동한 어머니는 각종 검사를 받으면서도 힘들단 말 한마디 없이 연신 미소를 띠셨다고 한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "한 주일 후, 별 생각 없이 병원에 갔던 그는 의사로부터 \\\"어머니의 위암이 주변 조직까지 퍼져 딱히 치료법도 없다\\\"는 통보를 받았다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그는 \\\"진작 검사를 받게 해드릴 걸…\\\"하며 끝내 울먹였다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "사실 조직 검사로 확인된 위암이 오진(誤診)일 가능성은 희박하다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "참으로 안타까운 사연이다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "현재 위암을 비롯, 대부분의 암은 조기 발견.치료로 완치가 가능하나 병이 진행될수록 생존율은 급감한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "실제 위암 완치율만 해도 1기땐 90%를 넘지만 2기엔 60~70%, 3기 20~30%, 4기 땐 10% 미만으로 뚝 떨어진다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "암 극복의 열쇠는 명의 치료에 달린 것이 아니라 '조기 발견'에 있는 셈이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "문제는 조기 발견이란 아무런 증상 없이 건강검진을 통해 '우연히' 병을 발견했을 때 가능하다는 점이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "일례로 내시경 검사에서 우연히 발견된 위암도 조기 위암이 절반, 진행성 위암이 절반이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "만일 불편한 증상 때문에 병원을 찾았다가 암 진단을 받았다면 이미 암세포는 한참 퍼진 뒤라고 봐야 한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "이는 암에 국한된 진실이 아니다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "각종 만성병 역시 병 초기엔 증상이 없다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "돌연사 원인인 협심증.심근경색증은 혈관이 70% 이상 막힌 뒤에야 힘든 일을 할 때 가슴 통증이 나타난다. 고혈압 역시 뇌졸중 같은 합병증이 초래되기 전까진 증상이 없어 '침묵의 살인자'로 불린다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "이런 이유들로, 특히 중년 이후 정기검진의 필요성은 아무리 강조해도 지나치지 않다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "간혹 \\\"건강검진이 좋은 줄 알지만 비싸서\\\"란 말을 한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "하지만 현재 건강보험 가입자는 누구나 최소한 2년에 한 번은 국민건강보험공단에서 제공하는 '기본 건강검진'을 무료로 받을 수 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "또 위암.대장암.유방암.자궁경부암.간암 등도 검사비용의 20%만 부담하면 된다. (5가지 암검사를 다 받아도 10만원 미만) 나이가 생애전환기인 40세, 66세 때라면 암검사마저 무료다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "불필요한 비용 걱정에, 무료검진을 몰라, 혹은 벼르다 한 번씩 비싼 검사만 찾다가 친구 모친처럼 병을 키우는 불행은 피해야 한다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"건강한데 검진은 왜?\"... 비싸더라도 건강검진을 받아야 하는 이유?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

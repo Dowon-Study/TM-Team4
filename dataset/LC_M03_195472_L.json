@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195472",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "지난 1년 간 우울증 환자 61만명, 4명 중 1명은 우울증 겪어",
+    "newsSubTitle": "무기력, 집중력 저하 2주 이상 지속 이혼·사별·미취업이면 위험 높아 방치하면 자해, 자살 시도 이어져 느끼는 감정 주위사람과 얘기하고 짧은 산책이더라도 몸 움직이기 전문가 도움받거나 상담전화 이용",
+    "newsContent": "지난 1년간 우울증을 겪은 61만명으로 추산된다.\n또 4명 중 1명은 평생 한 번 이상 우울증을 겪는다.\n보건복지부가 지난해 실시한 '정신질환 실태 역학조사' 결과다.\n복지부와 건강증진개발원은 \\\"우울증은 적극적으로 치료해야 할 질병\\\"이라며 \\\"집중력이 떨어지고 무기력한 증상이 2주 이상 이어지면 전문가에게 도움을 받아야 한다\\\"는 내용을 담은 우울증 대처법을 17일 내놨다.\n우울증은 대부분의 활동에 즐거움을 못 느끼며 일상이 무기력해지는 증상이 2주 지속하는 질병이다.\n식욕과 잠자는 시간이 변화하고 집중력이 떨어지며 죄책감·절망감이 들기도 한다.\n정신질환 실태 조사에 따르면 우울증에 걸릴 위험은 여성(6.9%)이 남성(3%)보다 두배 이상 높다.\n또 기혼(1%)보다는 미혼(2.3%)이거나 이혼·별거·사별(3.1%)인 경우. 전일제 근무자(0.4%)보다 시간제(2.3%)이거나 미취업(2.8%)일 때 높은 것으로 나타났다.\n세계보건기구(WHO)에 따르면 세계적으로 3억 2200명이 우울증을 앓고 있다.\nWHO는 올해 ‘세계 보건의 날’(4월 7일) 주제를 'Depression(우울증), Let's talk'로 지정했다.\nWHO는 우울증이 치료할 수 있는 질병이며. 우울하다는 기분일 들 때는 믿을 수 있는 사람과 자신의 감정을 얘기하고, 알코올 섭취를 피하며 전문가의 도움을 구하라는 등의 대응방안을 제시했다 안용민 서울대 정신건강의학과 교수는 “우울증도 다른 질병처럼 조기에 발견해 치료하는 것이 중요하다\\\"며 \\\"신체 질병을 방치하면 중증이 되듯 우울증도 방치할 경우 자해·자살 시도로 이어져 생명을 위태롭게 한다\\\"고 말했다.\n차전경 복지부 정신건강정책과장은“우울증이 의심되면 가까운 정신건강의학과나 정신건강복지센터를 찾아가 전문가의 도움을 받아야 한다\\\"며 \\\"쉽게 용기를 내기 어려우면 정신건강 위기상담 전화 (1577-0199)로 연락해 상담을 받아야 한다\\\"고 권했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지난 1년간 우울증을 겪은 61만명으로 추산된다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "또 4명 중 1명은 평생 한 번 이상 우울증을 겪는다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "보건복지부가 지난해 실시한 '정신질환 실태 역학조사' 결과다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "복지부와 건강증진개발원은 \\\"우울증은 적극적으로 치료해야 할 질병\\\"이라며 \\\"집중력이 떨어지고 무기력한 증상이 2주 이상 이어지면 전문가에게 도움을 받아야 한다\\\"는 내용을 담은 우울증 대처법을 17일 내놨다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "우울증은 대부분의 활동에 즐거움을 못 느끼며 일상이 무기력해지는 증상이 2주 지속하는 질병이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "식욕과 잠자는 시간이 변화하고 집중력이 떨어지며 죄책감·절망감이 들기도 한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "정신질환 실태 조사에 따르면 우울증에 걸릴 위험은 여성(6.9%)이 남성(3%)보다 두배 이상 높다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 기혼(1%)보다는 미혼(2.3%)이거나 이혼·별거·사별(3.1%)인 경우. 전일제 근무자(0.4%)보다 시간제(2.3%)이거나 미취업(2.8%)일 때 높은 것으로 나타났다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "세계보건기구(WHO)에 따르면 세계적으로 3억 2200명이 우울증을 앓고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "WHO는 올해 ‘세계 보건의 날’(4월 7일) 주제를 'Depression(우울증), Let's talk'로 지정했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "WHO는 우울증이 치료할 수 있는 질병이며. 우울하다는 기분일 들 때는 믿을 수 있는 사람과 자신의 감정을 얘기하고, 알코올 섭취를 피하며 전문가의 도움을 구하라는 등의 대응방안을 제시했다 안용민 서울대 정신건강의학과 교수는 “우울증도 다른 질병처럼 조기에 발견해 치료하는 것이 중요하다\\\"며 \\\"신체 질병을 방치하면 중증이 되듯 우울증도 방치할 경우 자해·자살 시도로 이어져 생명을 위태롭게 한다\\\"고 말했다.",
+        "sentenceSize": 230
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "차전경 복지부 정신건강정책과장은“우울증이 의심되면 가까운 정신건강의학과나 정신건강복지센터를 찾아가 전문가의 도움을 받아야 한다\\\"며 \\\"쉽게 용기를 내기 어려우면 정신건강 위기상담 전화 (1577-0199)로 연락해 상담을 받아야 한다\\\"고 권했다.",
+        "sentenceSize": 139
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "4명 중 1명이 평생 한 번 이상 겪는 질병은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

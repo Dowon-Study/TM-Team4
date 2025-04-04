@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198078",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[짤막소식] 서울 웨스틴조선호텔 호경전 중식당 外",
+    "newsSubTitle": "",
+    "newsContent": "■서울 웨스틴조선호텔 호경전 중식당은 오는 19일부터 30일까지 중국 최고의 연회음식인 공부연(孔府宴) 을 선보인다.\n공부연은 공자의 저택을 방문한 황제와 관리들을 대접하던 음식이다.\n중국요리에서 화려함의 극치라고 일컬어지는 ‘만한전석’도 공부연이 발전된 형태다.\n이를 위해 호경전은 공부연 전문가인 가오핑이 국제 중식 요리대사를 비롯해 7명의 전문가를 초청했다.\n특히 22일 오후 6시30분부터는 청나라 서태후의 환갑연을 재현한 ‘공부연 갈라디너’가 열리는데 참가비는 25만원이다.\n02-317-0494. ■국수와 소스 제조업체인 면사랑은 오는 28, 29일 이틀간 서울 삼성동 본사 요리교실에서 국내외 면 전문가들이 요리 대결을 펼치는 ‘면 요리 최고 고수들의 맛 대 맛’ 특강을 진행한다.\n이번엔 우동과 라면의 대결로 28일엔 가네야마 사누키우동 조리사가, 29일엔 고종규 일본 라면 전문가가 나온다.\n참가비 10만원. 080-555-1597. ■서울신라호텔 콘티넨탈 레스토랑은 오는 22일 오후 6시30분 명품 샴페인 ‘크리스털’의 다양한 빈티지를 느끼는 갈라디너 행사를 연다. 크리스털 3종(1990년산, 2000년산, 로제 1999년산)을 중심으로 한 와인에 맞춘 10가지 프랑스 요리가 나온다.\n참가비 40만원. 02-2230-3369.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "■서울 웨스틴조선호텔 호경전 중식당은 오는 19일부터 30일까지 중국 최고의 연회음식인 공부연(孔府宴) 을 선보인다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "공부연은 공자의 저택을 방문한 황제와 관리들을 대접하던 음식이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "중국요리에서 화려함의 극치라고 일컬어지는 ‘만한전석’도 공부연이 발전된 형태다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이를 위해 호경전은 공부연 전문가인 가오핑이 국제 중식 요리대사를 비롯해 7명의 전문가를 초청했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 22일 오후 6시30분부터는 청나라 서태후의 환갑연을 재현한 ‘공부연 갈라디너’가 열리는데 참가비는 25만원이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "02-317-0494. ■국수와 소스 제조업체인 면사랑은 오는 28, 29일 이틀간 서울 삼성동 본사 요리교실에서 국내외 면 전문가들이 요리 대결을 펼치는 ‘면 요리 최고 고수들의 맛 대 맛’ 특강을 진행한다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번엔 우동과 라면의 대결로 28일엔 가네야마 사누키우동 조리사가, 29일엔 고종규 일본 라면 전문가가 나온다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "참가비 10만원. 080-555-1597. ■서울신라호텔 콘티넨탈 레스토랑은 오는 22일 오후 6시30분 명품 샴페인 ‘크리스털’의 다양한 빈티지를 느끼는 갈라디너 행사를 연다. 크리스털 3종(1990년산, 2000년산, 로제 1999년산)을 중심으로 한 와인에 맞춘 10가지 프랑스 요리가 나온다.",
+        "sentenceSize": 167
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "참가비 40만원. 02-2230-3369.",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중국 최고 연회 음식 '공부연', 이곳 가면 만날 수 있다... 황제 대접 한번 받아볼까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

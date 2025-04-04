@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193144",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "병원도 '비상'…\\\"메르스 감염자 오면 이렇게 대처해야\\\"",
+    "newsSubTitle": "의협, 의료기간 대응방침 제작‧배포",
+    "newsContent": "메르스(중동호흡기증후군) 환가 18명(1일 오전 기준)으로 늘어나 공포가 확산되고 있는 가운데, 대한의사협회(회장 추무진)가 의료기관의 대응방침을 포스터로 제작해 배포에 나섰다.\n의협은 31일 메르스에 대한 의학적 설명과 의료기관의 행동지침 포스터, 메르스 전파 도식도를 제작해 배포했다.\n의협은 메르스 임상적 특성에 대해 “대부분 환자가 중증급성하기도질환(폐럼)이나 일부는 무증상을 나타내거나 경한 급성상기도질환이 나타내는 경우도 있다”고 설명했다.\n주증상은 발열, 기침, 호흡곤란이며 그 외에도 두통, 오한, 인후통, 콧물, 근육통 뿐 아니라 식욕부진, 오심, 구토, 복통, 설사 등이 나타날 수 있음을 강조했다.\n이에 대한 합병증으로는 호흡부전, 패혈성 쇼크, 다발성 장기부전 등이다.\n의협은 “특히 당뇨, 만성폐질환, 암, 신부전 등 기저질환이 있는 경우와 면영끼능 저하자는 메르스 감염 위험이 높고 예후도 불량하다”며 “잠복기는 5일, 치명률은 30~40%”라고 밝혔다.\n더불어 메르스 감염 의심자 방문 시 의료기관의 대응 개요를 제시했다.\n우선 37.5도 이상의 발열과 호흡기 증상 또는 폐렴, 급성호흡부전의 증상‧징후를 확인하고, 증상 시작 전 14일 이내에 중동지역에 여행했거나 메르스 확진 환자와 접촉했는지를 점검한다.\n메르스 감염 확진 판정이 나면 환자를 격리하고 관할 보건소에 즉시 신고하며, 욕실 또는 뚜껑이 있는 변기가 있는 1인실이나 밀폐된 공간에 환자를 배치해야 한다.\n또한 의협은 이같은 메르스 진료 시 의료인 감염 예방 수칙을 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "메르스(중동호흡기증후군) 환가 18명(1일 오전 기준)으로 늘어나 공포가 확산되고 있는 가운데, 대한의사협회(회장 추무진)가 의료기관의 대응방침을 포스터로 제작해 배포에 나섰다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "의협은 31일 메르스에 대한 의학적 설명과 의료기관의 행동지침 포스터, 메르스 전파 도식도를 제작해 배포했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "의협은 메르스 임상적 특성에 대해 “대부분 환자가 중증급성하기도질환(폐럼)이나 일부는 무증상을 나타내거나 경한 급성상기도질환이 나타내는 경우도 있다”고 설명했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "주증상은 발열, 기침, 호흡곤란이며 그 외에도 두통, 오한, 인후통, 콧물, 근육통 뿐 아니라 식욕부진, 오심, 구토, 복통, 설사 등이 나타날 수 있음을 강조했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 대한 합병증으로는 호흡부전, 패혈성 쇼크, 다발성 장기부전 등이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "의협은 “특히 당뇨, 만성폐질환, 암, 신부전 등 기저질환이 있는 경우와 면영끼능 저하자는 메르스 감염 위험이 높고 예후도 불량하다”며 “잠복기는 5일, 치명률은 30~40%”라고 밝혔다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "더불어 메르스 감염 의심자 방문 시 의료기관의 대응 개요를 제시했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "우선 37.5도 이상의 발열과 호흡기 증상 또는 폐렴, 급성호흡부전의 증상‧징후를 확인하고, 증상 시작 전 14일 이내에 중동지역에 여행했거나 메르스 확진 환자와 접촉했는지를 점검한다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "메르스 감염 확진 판정이 나면 환자를 격리하고 관할 보건소에 즉시 신고하며, 욕실 또는 뚜껑이 있는 변기가 있는 1인실이나 밀폐된 공간에 환자를 배치해야 한다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또한 의협은 이같은 메르스 진료 시 의료인 감염 예방 수칙을 강조했다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대한의사협회, 의료기관 대응방침 배포한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

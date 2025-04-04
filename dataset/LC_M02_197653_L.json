@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197653",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "김병옥, '리갈하이' 하차+'한끼줍쇼' 결방...음주운전 여파",
+    "newsSubTitle": "",
+    "newsContent": "김병옥이 음주운전 혐의로 '리갈하이'에서 결국 하차한다. 14일 JTBC 드라마 '리갈하이' 관계자는 미디어SR에 \\\"배우 측과 진중한 논의를 나눈 끝에 김병옥의 드라마 하차를 결정지었다\\\"고 밝혔다.\n김병옥 측이 먼저 자숙의 시간과 드라마 피해 최소화를 위해 '리갈하이' 측에 하차를 요청한 것으로 알려졌다. '리갈하이' 측은 \\\"김병옥이 맡은 극 중 배역의 중요도를 고려, 이미 촬영이 완료된 8회 이후 적절한 시점에 극 흐름에 방해되지 않는 선에서 하차하는 방향 고려 중\\\"이라면서 \\\"시청자 여러분에 불편 끼친 점 깊은 양해 말씀 드린다. 끝까지 좋은 드라마 선보일 수 있도록 최선 다할 것\\\"이라고 덧붙였다.\n앞서 김병옥은 지난 12일 오전 경기도 부천에 위치한 자신의 아파트 단지 내 주차장에서 음주운전을 하다 아파트 주민의 신고를 받고 출동한 경찰에 적발, 불구속 입건됐다.\n당시 김병옥의 혈중알코올농도는 0.085%였다.\n이는 면허 정지에 해당되는 수치다.\n김병옥의 음주운전 사실이 알려지며 13일 방송 예정이었던 JTBC '한끼줍쇼' 역시 결방을 면치 못했다. '리갈하이' 출연진인 진구와 김병옥의 방송분이 전파를 탈 예정이었으나 결국 JTBC 드라마 '눈이 부시게'로 대체 편성됐다.\n김병옥 측은 이에 대해 \\\"변명의 여지 없이 책임을 깊게 통감하고 있다. 절대 해서는 안 될 물의를 일으킨 점 진심으로 사과드린다\\\"며 사죄의 뜻을 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김병옥이 음주운전 혐의로 '리갈하이'에서 결국 하차한다. 14일 JTBC 드라마 '리갈하이' 관계자는 미디어SR에 \\\"배우 측과 진중한 논의를 나눈 끝에 김병옥의 드라마 하차를 결정지었다\\\"고 밝혔다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김병옥 측이 먼저 자숙의 시간과 드라마 피해 최소화를 위해 '리갈하이' 측에 하차를 요청한 것으로 알려졌다. '리갈하이' 측은 \\\"김병옥이 맡은 극 중 배역의 중요도를 고려, 이미 촬영이 완료된 8회 이후 적절한 시점에 극 흐름에 방해되지 않는 선에서 하차하는 방향 고려 중\\\"이라면서 \\\"시청자 여러분에 불편 끼친 점 깊은 양해 말씀 드린다. 끝까지 좋은 드라마 선보일 수 있도록 최선 다할 것\\\"이라고 덧붙였다.",
+        "sentenceSize": 232
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 김병옥은 지난 12일 오전 경기도 부천에 위치한 자신의 아파트 단지 내 주차장에서 음주운전을 하다 아파트 주민의 신고를 받고 출동한 경찰에 적발, 불구속 입건됐다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당시 김병옥의 혈중알코올농도는 0.085%였다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이는 면허 정지에 해당되는 수치다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김병옥의 음주운전 사실이 알려지며 13일 방송 예정이었던 JTBC '한끼줍쇼' 역시 결방을 면치 못했다. '리갈하이' 출연진인 진구와 김병옥의 방송분이 전파를 탈 예정이었으나 결국 JTBC 드라마 '눈이 부시게'로 대체 편성됐다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김병옥 측은 이에 대해 \\\"변명의 여지 없이 책임을 깊게 통감하고 있다. 절대 해서는 안 될 물의를 일으킨 점 진심으로 사과드린다\\\"며 사죄의 뜻을 전했다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김병옥, 갑작스러운 드라마 하차 결정… 이유는 '이것' 때문",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

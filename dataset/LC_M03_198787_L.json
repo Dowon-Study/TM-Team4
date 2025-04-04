@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198787",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "정수기와 공기정청기‧스타일러 등 케어솔루션 동시 가입 땐 요금 혜택",
+    "newsSubTitle": "LG전자 11월 한달간 이벤트",
+    "newsContent": "LG전자에서 11월 한 달 간 정수기는 물론, 타 가전제품 케어솔루션 동시 가입 시 요금 할인 혜택을 제공하는 이벤트를 마련했다.\n행사기간 내 동시가입 시 정수기와 행사 대상 가전제품의 월 요금을 각각 할인 받을 수 있다.\n행사 대상 제품은 공기청정기, 스타일러, 건조기, 전기레인지, 안마의자 등이다.\n이번 프로모션은 11월 내 주문 및 결제를 완료한 뒤 12월 10일까지 제품 설치를 완료한 고객을 대상으로 전국 LG 베스트샵을 포함한 전 채널에서 진행된다(패키지 타입과 중복 적용 불가). 자세한 내용은 LG전자 이벤트 페이지를 통해 확인할 수 있다.\nLG전자 관계자는 “매년 직수관 교체로 차원이 다른 깨끗함을 선사하는 LG 퓨리케어 정수기 뿐만 아니라 전문가가 방문해 관리하는 LG전자의 케어솔루션 서비스를 보다 다양한 제품군에서 요금 부담 없이 경험할 수 있는 기회를 마련하고자 준비했다”고 전했다.\n한편, 케어솔루션은 전문 교육을 이수한 매니저가 가정에 방문해 제품 세척 및 부품 교체 등을 진행하는 LG전자의 체계적인 유지관리 서비스다.\n특히 정수기 케어솔루션의 경우 매년 직수관 무상 교체 뿐만 아니라 주기에 따른 필터 무상 교체, 3개월마다 고온 살균 및 고압세척으로 정수기 내외부 위생을 관리하는 방문 살균 서비스, 5년 무상 A/S 서비스 등이 서비스에 포함된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "LG전자에서 11월 한 달 간 정수기는 물론, 타 가전제품 케어솔루션 동시 가입 시 요금 할인 혜택을 제공하는 이벤트를 마련했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "행사기간 내 동시가입 시 정수기와 행사 대상 가전제품의 월 요금을 각각 할인 받을 수 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "행사 대상 제품은 공기청정기, 스타일러, 건조기, 전기레인지, 안마의자 등이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 프로모션은 11월 내 주문 및 결제를 완료한 뒤 12월 10일까지 제품 설치를 완료한 고객을 대상으로 전국 LG 베스트샵을 포함한 전 채널에서 진행된다(패키지 타입과 중복 적용 불가). 자세한 내용은 LG전자 이벤트 페이지를 통해 확인할 수 있다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "LG전자 관계자는 “매년 직수관 교체로 차원이 다른 깨끗함을 선사하는 LG 퓨리케어 정수기 뿐만 아니라 전문가가 방문해 관리하는 LG전자의 케어솔루션 서비스를 보다 다양한 제품군에서 요금 부담 없이 경험할 수 있는 기회를 마련하고자 준비했다”고 전했다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 케어솔루션은 전문 교육을 이수한 매니저가 가정에 방문해 제품 세척 및 부품 교체 등을 진행하는 LG전자의 체계적인 유지관리 서비스다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 정수기 케어솔루션의 경우 매년 직수관 무상 교체 뿐만 아니라 주기에 따른 필터 무상 교체, 3개월마다 고온 살균 및 고압세척으로 정수기 내외부 위생을 관리하는 방문 살균 서비스, 5년 무상 A/S 서비스 등이 서비스에 포함된다.",
+        "sentenceSize": 130
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "LG전자, 가전제품 케어 솔루션 동시 가입 시 이런 이벤트까지?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

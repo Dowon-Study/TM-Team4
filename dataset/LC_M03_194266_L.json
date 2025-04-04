@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194266",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[이야기가있는욕실] ‘만화 스티커’ 붙여 동화나라로",
+    "newsSubTitle": "",
+    "newsContent": "생후 6개월 된 우리 아기. 두어 달 전만 해도 욕실에 들어서면 울음을 그치지 않았어요.\n목욕 때마다 전쟁을 치르듯 울어버리는 아기 때문에 우리 부부는 고민에 빠졌었죠.\n고심 끝에 욕실 분위기를 바꾸기로 했어요.\n동화 속에 온 것 같은 분위기를 내려고 아기가 좋아하는 만화 캐릭터 스티커를 욕실 벽에 붙였어요.\n아가는 정말 거짓말처럼 울음을 그치더군요.\n이제는 가끔 곰돌이 푸와 그 친구들에게 옹알이를 하고 물장구도 치며 목욕을 즐긴답니다.\n김현경(서울시 서대문구 북아현동) 중앙일보와 욕실전문업체 아메리칸 스탠다드가 ‘이야기가 있는 욕실’의 사연을 찾습니다.\n아메리칸 스탠다드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려주세요.\n매주 1명을 선정해 소개하며, 50만원 상당의 욕실 제품도 드립니다.\n1588-5903. ▶ 중앙일보 라이프스타일 섹션 '레인보우' 홈 가기",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "생후 6개월 된 우리 아기. 두어 달 전만 해도 욕실에 들어서면 울음을 그치지 않았어요.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "목욕 때마다 전쟁을 치르듯 울어버리는 아기 때문에 우리 부부는 고민에 빠졌었죠.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "고심 끝에 욕실 분위기를 바꾸기로 했어요.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "동화 속에 온 것 같은 분위기를 내려고 아기가 좋아하는 만화 캐릭터 스티커를 욕실 벽에 붙였어요.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아가는 정말 거짓말처럼 울음을 그치더군요.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이제는 가끔 곰돌이 푸와 그 친구들에게 옹알이를 하고 물장구도 치며 목욕을 즐긴답니다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김현경(서울시 서대문구 북아현동) 중앙일보와 욕실전문업체 아메리칸 스탠다드가 ‘이야기가 있는 욕실’의 사연을 찾습니다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아메리칸 스탠다드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려주세요.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "매주 1명을 선정해 소개하며, 50만원 상당의 욕실 제품도 드립니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "1588-5903. ▶ 중앙일보 라이프스타일 섹션 '레인보우' 홈 가기",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "욕실만 들어가면 전쟁을 치르는 아기를 위한 해결책은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198925",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "뚱뚱한 것도 서러운데…비만이 암 부른다?",
+    "newsSubTitle": "",
+    "newsContent": "한국 연구진이 체질량 지수(BMI·체중을 키의 제곱으로 나눈 값) 증가가 백혈병 등 6개 암을 일으킬만한 위험요인이라는 사실을 확인했다.\n연세의대 소아과학교실 신재일 교수팀은 BMI 증가와 암 발생 위험의 상관관계를 다룬 전 세계 메타분석 논문과 빅데이터, 최신 개별 연구논문 등을 종합적으로 재분석한 결과를 유럽종양학회에서 발간하는 저명 저널인 '종양학 연보'(Annals of Oncology) 최근호에 발표했다고 7일 밝혔다.\n연구팀은 총 20개 암(백혈병, 다발골수종, 췌장암, 자궁내막암, 직장암, 콩팥세포암종, 악성흑색종, 비호지킨 림프종, 식도암, 뇌종양과 중추신경계 종양, 유방암, 대장암, 담낭암, 폐암, 간암, 난소암, 갑상선암, 방광암, 위암, 전립선암)을 대상으로 BMI 증가가 암 발생에 영향을 미쳤는지를 살폈다.\n그 결과 BMI 증가는 백혈병·다발골수종·췌장암·자궁내막암·직장암·콩팥세포암종(신장암) 등 6개 암에서 확신할만한(Convincing) 위험요인으로 지목됐다.\n또 악성흑색종, 비호지킨 림프종, 식도암의 3개 암은 BMI 증가가 암시적(Suggestive) 위험을 증가시키는 요인으로 평가됐다.\n암시적 위험은 확신할만한(Convincing) 위험요인으로 확인된 것은 아니지만, 암 위험을 높이는 개연성이 있다는 의미다.\n뇌·중추신경계 종양, 유방암, 대장암, 담낭암, 폐암, 간암, 난소암, 갑상선암의 8개 암은 BMI 증가와 관련성이 약한(weak) 근거 수준으로 파악됐다.\n일부 관련성을 주장하는 연구결과가 있으나 객관적인 근거로 삼기에는 부족하다는 것이다.\n반면 방광암·위암·전립선암의 3개 암은 BMI 증가와 해당 암 발생 사이에 아예 상관이 없는 것으로 연구팀은 평가했다.\n신재일 교수는 \\\"이번 연구는 암 발생의 위험요인으로서 비만이 미치는 영향에 대해 총정리라고 할 수 있다\\\"며 \\\"향후 암 위험과 관련지어 비만을 예방하고 관리하는 보건정책을 강화하는데 근거가 될 수 있다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국 연구진이 체질량 지수(BMI·체중을 키의 제곱으로 나눈 값) 증가가 백혈병 등 6개 암을 일으킬만한 위험요인이라는 사실을 확인했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "연세의대 소아과학교실 신재일 교수팀은 BMI 증가와 암 발생 위험의 상관관계를 다룬 전 세계 메타분석 논문과 빅데이터, 최신 개별 연구논문 등을 종합적으로 재분석한 결과를 유럽종양학회에서 발간하는 저명 저널인 '종양학 연보'(Annals of Oncology) 최근호에 발표했다고 7일 밝혔다.",
+        "sentenceSize": 164
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구팀은 총 20개 암(백혈병, 다발골수종, 췌장암, 자궁내막암, 직장암, 콩팥세포암종, 악성흑색종, 비호지킨 림프종, 식도암, 뇌종양과 중추신경계 종양, 유방암, 대장암, 담낭암, 폐암, 간암, 난소암, 갑상선암, 방광암, 위암, 전립선암)을 대상으로 BMI 증가가 암 발생에 영향을 미쳤는지를 살폈다.",
+        "sentenceSize": 170
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 결과 BMI 증가는 백혈병·다발골수종·췌장암·자궁내막암·직장암·콩팥세포암종(신장암) 등 6개 암에서 확신할만한(Convincing) 위험요인으로 지목됐다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 악성흑색종, 비호지킨 림프종, 식도암의 3개 암은 BMI 증가가 암시적(Suggestive) 위험을 증가시키는 요인으로 평가됐다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "암시적 위험은 확신할만한(Convincing) 위험요인으로 확인된 것은 아니지만, 암 위험을 높이는 개연성이 있다는 의미다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "뇌·중추신경계 종양, 유방암, 대장암, 담낭암, 폐암, 간암, 난소암, 갑상선암의 8개 암은 BMI 증가와 관련성이 약한(weak) 근거 수준으로 파악됐다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "일부 관련성을 주장하는 연구결과가 있으나 객관적인 근거로 삼기에는 부족하다는 것이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "반면 방광암·위암·전립선암의 3개 암은 BMI 증가와 해당 암 발생 사이에 아예 상관이 없는 것으로 연구팀은 평가했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "신재일 교수는 \\\"이번 연구는 암 발생의 위험요인으로서 비만이 미치는 영향에 대해 총정리라고 할 수 있다\\\"며 \\\"향후 암 위험과 관련지어 비만을 예방하고 관리하는 보건정책을 강화하는데 근거가 될 수 있다\\\"고 말했다.",
+        "sentenceSize": 122
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신재일 교수, '이것'과 암 발생 상관관계... 연구논문 발표",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

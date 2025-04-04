@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193892",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "'SKY캐슬', 축구중계 여파 25일 결방 확정...종영일도 불투명",
+    "newsSubTitle": "",
+    "newsContent": "'SKY캐슬'이 종영을 2회 앞두고 결방을 결정지었다.\n23일 JTBC 측은 금토드라마 'SKY캐슬'(극본 유현미, 연출 조현탁)이 오는 25일 결방을 최종 확정지었다고 밝혔다.\n한국 대표팀이 바레인 전에서 2:1로 승리하며 오는 25일 밤 9시 45분에 '2019 AFC 아시안컵' 대한민국 대 카타르 경기를 생중계하게 됨에 따라 같은 날 밤 11시에 편성이 예정됐던 'SKY캐슬'이 결방하게 된 것. JTBC 관계자는 미디어SR에 \\\"오는 26일 밤 11시에 'SKY캐슬' 19회는 정상 방송된다. 하지만 마지막 회인 20회는 향후 축구 일정에 따라 편성 스케줄이 유동적으로 변경될 수 있다. 편성이 결정되는 대로 공지할 예정\\\"이라고 설명했다. 'SKY캐슬'은 지난 19일 방송된 18회가 닐슨코리아 전국 기준 22.3%를 기록, 뜨거운 인기를 모으고 있다.\n결방으로 인해 'SKY캐슬'에 대한 관심과 기대는 더욱 고조되고 있는 상황. 종영을 앞두고 있는 'SKY캐슬'의 시청률이 어디까지 치솟을지 이목이 집중된다.\n한편 JTBC는 한국 축구 외에도 오는 24일 밤 9시 45분에 베트남 대 일본의 8강 경기를 생중계한다.\n이에 따라 매주 목요일 밤 9시 30분에 방송되는 '이규연의 스포트라이트'와 밤 11시에 편성된 '너의 노래는'은 한 주 쉬어갈 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'SKY캐슬'이 종영을 2회 앞두고 결방을 결정지었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "23일 JTBC 측은 금토드라마 'SKY캐슬'(극본 유현미, 연출 조현탁)이 오는 25일 결방을 최종 확정지었다고 밝혔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국 대표팀이 바레인 전에서 2:1로 승리하며 오는 25일 밤 9시 45분에 '2019 AFC 아시안컵' 대한민국 대 카타르 경기를 생중계하게 됨에 따라 같은 날 밤 11시에 편성이 예정됐던 'SKY캐슬'이 결방하게 된 것. JTBC 관계자는 미디어SR에 \\\"오는 26일 밤 11시에 'SKY캐슬' 19회는 정상 방송된다. 하지만 마지막 회인 20회는 향후 축구 일정에 따라 편성 스케줄이 유동적으로 변경될 수 있다. 편성이 결정되는 대로 공지할 예정\\\"이라고 설명했다. 'SKY캐슬'은 지난 19일 방송된 18회가 닐슨코리아 전국 기준 22.3%를 기록, 뜨거운 인기를 모으고 있다.",
+        "sentenceSize": 327
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "결방으로 인해 'SKY캐슬'에 대한 관심과 기대는 더욱 고조되고 있는 상황. 종영을 앞두고 있는 'SKY캐슬'의 시청률이 어디까지 치솟을지 이목이 집중된다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 JTBC는 한국 축구 외에도 오는 24일 밤 9시 45분에 베트남 대 일본의 8강 경기를 생중계한다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 따라 매주 목요일 밤 9시 30분에 방송되는 '이규연의 스포트라이트'와 밤 11시에 편성된 '너의 노래는'은 한 주 쉬어갈 예정이다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'SKY캐슬' 종영 2회 남기고 결방이라니... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

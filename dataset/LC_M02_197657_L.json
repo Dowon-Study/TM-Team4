@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197657",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "이매리, \\\"카타르 일 마무리 하고, 4월 '미투' 기자회견\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 이매리가 미투와 관련된 기자회견을 열 예정이다.\n이매리는 27일 미디어SR에 \\\"현재 카타르에 머물고 있다. 여기 일을 잘 마무리하고 난 뒤 구체적인 기자회견 일정 및 장소를 확정할 것이다\\\"라며 4월 기자회견을 예고했다.\n이매리는 시민단체 정의연대와 함께 관련 기자회견을 열 예정이다.\n앞서 이매리는 자신의 SNS에 \\\"장자연 사건 수사 연장 지지 응원합니다. 보다 철저한 성역없는 조사를 원합니다\\\"라며 본인 역시 고위 관계자들로부터 술시중 강요 등을 받았다는 내용의 글을 작성한 바 있다.\n그는 이에 앞서 지난 1월 미디어SR에 전직 국회의원, 대기업 임원 등의 실명을 거론하며 \\\"아빠의 임종을 모독하고 성폭행 했던 자에게 사과 받고 싶다. 6년 동안 말해왔다. 이런 내용들을 항의하면 '그런 일 없다고 해라. 그러면 일을 주겠다'라는 말을 듣기도 했다\\\"라며 울분을 토하기도 했다.\n한편 이매리는 SBS 주말드라마 '신기생뎐' 촬영 당시 어깨가 파열되고 무릎에 물이 차는 등의 부상을 입고, 이에 대한 적절한 보상을 받지 못해 방송국 측에 항의한 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이매리가 미투와 관련된 기자회견을 열 예정이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이매리는 27일 미디어SR에 \\\"현재 카타르에 머물고 있다. 여기 일을 잘 마무리하고 난 뒤 구체적인 기자회견 일정 및 장소를 확정할 것이다\\\"라며 4월 기자회견을 예고했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이매리는 시민단체 정의연대와 함께 관련 기자회견을 열 예정이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 이매리는 자신의 SNS에 \\\"장자연 사건 수사 연장 지지 응원합니다. 보다 철저한 성역없는 조사를 원합니다\\\"라며 본인 역시 고위 관계자들로부터 술시중 강요 등을 받았다는 내용의 글을 작성한 바 있다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 이에 앞서 지난 1월 미디어SR에 전직 국회의원, 대기업 임원 등의 실명을 거론하며 \\\"아빠의 임종을 모독하고 성폭행 했던 자에게 사과 받고 싶다. 6년 동안 말해왔다. 이런 내용들을 항의하면 '그런 일 없다고 해라. 그러면 일을 주겠다'라는 말을 듣기도 했다\\\"라며 울분을 토하기도 했다.",
+        "sentenceSize": 165
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이매리는 SBS 주말드라마 '신기생뎐' 촬영 당시 어깨가 파열되고 무릎에 물이 차는 등의 부상을 입고, 이에 대한 적절한 보상을 받지 못해 방송국 측에 항의한 바 있다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 이매리, '이것'으로 인해 기자회견 연다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

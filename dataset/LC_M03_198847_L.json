@@ -1,0 +1,267 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198847",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 심방세동 수술·시술 접목한 하이브리드 치료 주목",
+    "newsSubTitle": "",
+    "newsContent": "전문의 칼럼 정동섭 삼성서울병원 심장외과 교수 심방세동은 이름처럼 심장이 부르르 떨듯 뛰는 병을 말한다.\n병 그 자체보다 합병증이 더 무서운 병으로 알려져 있다.\n심방세동 환자는 건강한 사람보다 뇌졸중 발생 위험이 다섯 배나 높다.\n심방세동 환자 100명 중 6명가량은 진단 후 1년 내 뇌졸중이 발생한다.\n심방세동은 치료가 쉽지 않고 재발이 흔해 환자들의 삶을 위협한다.\n흉강경을 이용한 부정맥 수술을 포함해 하이브리드 부정맥 치료가 최근 각광받는 이유다.\n하이브리드 부정맥 치료는 외과 수술과 내과 시술이 접목된 첨단 치료법을 말한다.\n기존 내과적 치료에 반응을 하지 않거나 재발한 환자가 치료 대상이다.\n흉강경 부정맥 수술은 심장이 뛰고 있는 상태에서 이뤄진다.\n흉곽에 0.5㎝ 구멍을 내고 흉강경을 통해 심장을 직접 보며 양극성 고주파로 부정맥 유발 부위를 차단한다.\n수술 후에도 비정상 전기신호가 발견되면 내과적 시술을 추가한다.\n흉강경을 통해 심장을 눈으로 보면서 시행해 수술 시간이 짧고 안정성이 높다.\n절개 부분이 작아 수술 후 통증이 적고 회복은 빠르다.\n수술은 2시간이 채 걸리지 않고 평균 입원 기간도 4~5일에 불과하다.\n뇌졸중을 유발하는 혈전 발생 부위인 좌심방이를 절제할 수 있다는 것도 장점 중 하나다.\n하이브리드 부정맥 치료는 항응고제를 먹지 않아도 될뿐더러 식생활에 제한이 없고 격렬한 운동도 가능하다.\n기존 치료법에 비해 삶의 질이 매우 높다.\n전체 환자 중 30% 내외에서는 흉강경으로 접근이 어려운 심장 안쪽에 비정상 전기신호를 발생시키는 병변이 발견된다.\n이 경우 심장 안쪽에서 전극도자술 등 내과적 시술을 추가한다.\n심장 바깥쪽과 안쪽에서 부정맥을 유발한 부위를 모두 제거하는 ‘하이브리드’ 치료다.\n치료 성적은 고무적이다.\n삼성서울병원의 경우 하이브리드 부정맥 치료의 1년 성적은 93.7%에 달한다.\n가장 최근 치료받은 환자 172명 중에서는 흉강경 부정맥 수술만으로 150명이 정상 박동을 유지했다.\n재발 환자 22명도 내과적 시술을 추가하자 17명이 정상 박동을 되찾았다.\n하이브리드 치료 이후 2년간 심방세동 회피율은 90%다.\n기존 치료법만 적용했을 때는 55~60%대였다.\n부정맥 치료의 패러다임은 끊임없이 진화하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 27,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전문의 칼럼 정동섭 삼성서울병원 심장외과 교수 심방세동은 이름처럼 심장이 부르르 떨듯 뛰는 병을 말한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "병 그 자체보다 합병증이 더 무서운 병으로 알려져 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "심방세동 환자는 건강한 사람보다 뇌졸중 발생 위험이 다섯 배나 높다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "심방세동 환자 100명 중 6명가량은 진단 후 1년 내 뇌졸중이 발생한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "심방세동은 치료가 쉽지 않고 재발이 흔해 환자들의 삶을 위협한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "흉강경을 이용한 부정맥 수술을 포함해 하이브리드 부정맥 치료가 최근 각광받는 이유다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하이브리드 부정맥 치료는 외과 수술과 내과 시술이 접목된 첨단 치료법을 말한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "기존 내과적 치료에 반응을 하지 않거나 재발한 환자가 치료 대상이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "흉강경 부정맥 수술은 심장이 뛰고 있는 상태에서 이뤄진다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "흉곽에 0.5㎝ 구멍을 내고 흉강경을 통해 심장을 직접 보며 양극성 고주파로 부정맥 유발 부위를 차단한다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "수술 후에도 비정상 전기신호가 발견되면 내과적 시술을 추가한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "흉강경을 통해 심장을 눈으로 보면서 시행해 수술 시간이 짧고 안정성이 높다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "절개 부분이 작아 수술 후 통증이 적고 회복은 빠르다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "수술은 2시간이 채 걸리지 않고 평균 입원 기간도 4~5일에 불과하다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "뇌졸중을 유발하는 혈전 발생 부위인 좌심방이를 절제할 수 있다는 것도 장점 중 하나다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "하이브리드 부정맥 치료는 항응고제를 먹지 않아도 될뿐더러 식생활에 제한이 없고 격렬한 운동도 가능하다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "기존 치료법에 비해 삶의 질이 매우 높다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "전체 환자 중 30% 내외에서는 흉강경으로 접근이 어려운 심장 안쪽에 비정상 전기신호를 발생시키는 병변이 발견된다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "이 경우 심장 안쪽에서 전극도자술 등 내과적 시술을 추가한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "심장 바깥쪽과 안쪽에서 부정맥을 유발한 부위를 모두 제거하는 ‘하이브리드’ 치료다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "치료 성적은 고무적이다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "삼성서울병원의 경우 하이브리드 부정맥 치료의 1년 성적은 93.7%에 달한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "가장 최근 치료받은 환자 172명 중에서는 흉강경 부정맥 수술만으로 150명이 정상 박동을 유지했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "재발 환자 22명도 내과적 시술을 추가하자 17명이 정상 박동을 되찾았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "하이브리드 치료 이후 2년간 심방세동 회피율은 90%다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "기존 치료법만 적용했을 때는 55~60%대였다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "부정맥 치료의 패러다임은 끊임없이 진화하고 있다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정동섭 교수, 이것 떨리는 병... 합병증보다 무서워",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

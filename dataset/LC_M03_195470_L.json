@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195470",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[한 끗 리빙] 소금·세제 푼 뜨거운 물에 유리컵 5분 두면 투명해져",
+    "newsSubTitle": "",
+    "newsContent": "오래 사용해 표면이 뿌연 유리컵은 주방세제만으로는 깨끗하게 닦이지 않는다.\n이때는 소금을 한 스푼 추가하면 쉽게 유리컵의 투명한 빛을 되찾는다.\n뜨거운 물에 소금과 주방세제를 한 스푼씩 넣고 잘 푼 후 컵을 5분간 담가 놓으면 된다.\n물이 컵 끝까지 차지 않으면 한 번씩 돌려 소금·주방세제 물을 컵에 골고루 묻혀 준다.\n5분 후 컵을 꺼내 표면을 부드러운 스펀지로 살살 비벼주기만 하면 컵이 반들반들하게 윤이 나고 투명해진다.\n잠시 컵을 뒤집어 놔 물기를 약간만 말리고 마른 행주로 닦아 물기를 완전히 제거한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오래 사용해 표면이 뿌연 유리컵은 주방세제만으로는 깨끗하게 닦이지 않는다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이때는 소금을 한 스푼 추가하면 쉽게 유리컵의 투명한 빛을 되찾는다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뜨거운 물에 소금과 주방세제를 한 스푼씩 넣고 잘 푼 후 컵을 5분간 담가 놓으면 된다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "물이 컵 끝까지 차지 않으면 한 번씩 돌려 소금·주방세제 물을 컵에 골고루 묻혀 준다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "5분 후 컵을 꺼내 표면을 부드러운 스펀지로 살살 비벼주기만 하면 컵이 반들반들하게 윤이 나고 투명해진다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "잠시 컵을 뒤집어 놔 물기를 약간만 말리고 마른 행주로 닦아 물기를 완전히 제거한다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "뿌연 유리컵을 새 제품처럼 만드는 비법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

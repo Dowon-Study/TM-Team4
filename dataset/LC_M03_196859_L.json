@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196859",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "뇌 건강 돕는 슈퍼푸드…\\\"똑똑해지는 기분이야\\\"",
+    "newsSubTitle": "",
+    "newsContent": "‘뇌 건강 돕는 슈퍼푸드…“똑똑해지는 기분이야”’ 뇌 건강 돕는 슈퍼푸드에는 어떤 것들이 있을까.\n연어·견과류·브로콜리·다크초콜릿·달걀·아보카도가 뇌 건강 돕는 슈퍼푸드에 꼽혔다.\n연어는 고도불포화지방산의 하나인 DHA 함유량이 풍부해 뇌 건강 기능을 활성화하는 것으로 알려졌다.\n특히 치매 예방에 효과적이다.\n아몬드·호두 같은 견과류는 비타민 E가 풍부해 콜레스테롤 수치를 낮추고 집중력을 높여줘 뇌 건강에 도움이 된다.\n브로콜리는 치매에 탁월한 엽산이 많이 들어있다.\n비타민 K와 콜린 성분 또한 풍부해 신경계 건강에 도움을 줘 뇌 건강에 좋다.\n다크초콜릿은 카카오 속에 들어있는 플라바놀이 뇌 혈류 흐름을 원활히 해주는 것으로 알려졌다.\n뇌졸중 예방에 특효가 있다.\n아보카도는 풍부한 불포화지방산 리놀산이 스트레스에 지친 뇌를 완화해준다.\n콜레스테롤의 산화와 분해를 막아 뇌 혈액순환을 원활히 만든다.\n달걀의 레시틴 성분은 기억력 감퇴를 억제한다.\n빠른 뇌회전이 필요한 오전에 섭취하면 효과적이다.\n오히려 뇌 건강을 악화하는 음식에는 참치·팝콘·과자·사탕·아가베시럽이 꼽혔다.\n참치는 수은 함량이 높고 팝콘에는 트랜스지방이 다량 함유돼 있어 인지 능력을 저하시킨다.\n과자·사탕·아가베시럽은 당분이 많아 인지력·집중력·주의력을 저하시키는 것으로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘뇌 건강 돕는 슈퍼푸드…“똑똑해지는 기분이야”’ 뇌 건강 돕는 슈퍼푸드에는 어떤 것들이 있을까.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "연어·견과류·브로콜리·다크초콜릿·달걀·아보카도가 뇌 건강 돕는 슈퍼푸드에 꼽혔다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연어는 고도불포화지방산의 하나인 DHA 함유량이 풍부해 뇌 건강 기능을 활성화하는 것으로 알려졌다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 치매 예방에 효과적이다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아몬드·호두 같은 견과류는 비타민 E가 풍부해 콜레스테롤 수치를 낮추고 집중력을 높여줘 뇌 건강에 도움이 된다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "브로콜리는 치매에 탁월한 엽산이 많이 들어있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "비타민 K와 콜린 성분 또한 풍부해 신경계 건강에 도움을 줘 뇌 건강에 좋다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "다크초콜릿은 카카오 속에 들어있는 플라바놀이 뇌 혈류 흐름을 원활히 해주는 것으로 알려졌다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "뇌졸중 예방에 특효가 있다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "아보카도는 풍부한 불포화지방산 리놀산이 스트레스에 지친 뇌를 완화해준다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "콜레스테롤의 산화와 분해를 막아 뇌 혈액순환을 원활히 만든다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "달걀의 레시틴 성분은 기억력 감퇴를 억제한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "빠른 뇌회전이 필요한 오전에 섭취하면 효과적이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "오히려 뇌 건강을 악화하는 음식에는 참치·팝콘·과자·사탕·아가베시럽이 꼽혔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "참치는 수은 함량이 높고 팝콘에는 트랜스지방이 다량 함유돼 있어 인지 능력을 저하시킨다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "과자·사탕·아가베시럽은 당분이 많아 인지력·집중력·주의력을 저하시키는 것으로 알려졌다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "먹고 나면 똑똑해지는 '뇌 슈퍼푸드' 견과류, 다크초콜릿, 아보카도, 달걀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

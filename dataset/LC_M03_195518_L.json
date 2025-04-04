@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195518",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 원료부터 철저한 이력관리로 신뢰↑",
+    "newsSubTitle": "",
+    "newsContent": "우수품질관리 부문 천호식품 ‘천심본’ 천호식품의 홍삼 브랜드 ‘천심본’(사진)은 우수한 품질관리 체계로 호평을 받았다.\n천심본은 원료의 수급부터 가공·유통·판매에 이르기까지 제품화에 필요한 모든 공정을 철저히 관리한다.\n새로운 홍삼 품질관리 기준을 제시해 소비자 신뢰를 높였다는 평가다.\n천호식품의 품질관리시스템은 천심본 홍삼에 사용하는 원료인 인삼을 재배하는 환경을 점검하는 것에서부터 시작한다.\n인삼은 기후에 민감하다.\n강원도는 겨울에 일교차가 뚜렷해 인삼이 자랄 때 조직이 단단하고 향이 좋다.\n그 다음은 토양이다.\n토양이 건강해야 품질 좋은 인삼을 재배할 수 있어서다.\n천호식품은 홍삼 재배 전 한 차례 토양검사를 진행한다.\n이 검사를 통과한 곳에서 재배한 인삼만 원료로 사용한다.\n여기서 끝이 아니다.\n인삼을 재배·수확하는 과정에서도 286종의 잔류농약 검사를 진행한다.\n이렇게 선별한 인삼은 이력추적을 위한 바코드가 부착된 뒤 원료 혼입을 막기 위해 봉인된다.\n홍삼으로 가공해 추출·농축·숙성 과정을 거친 다음에는 품질검사가 이뤄진다.\n진세노사이드 함량을 점검해 천심본의 품질을 확인하고, 타르 색소나 세균 유입을 차단해 안전성을 높이기 위해서다.\n마지막으로 판매 단계에서는 원료 재배부터 제품 생산에 이르는 과정마다 진행했던 검사 성적서, 원산지 증명서, 이력 확인서 등 결과를 과감하게 공개한다.\n소비자가 직접 결과를 확인하고 검증한 다음 구입할 수 있도록 돕는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우수품질관리 부문 천호식품 ‘천심본’ 천호식품의 홍삼 브랜드 ‘천심본’(사진)은 우수한 품질관리 체계로 호평을 받았다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "천심본은 원료의 수급부터 가공·유통·판매에 이르기까지 제품화에 필요한 모든 공정을 철저히 관리한다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "새로운 홍삼 품질관리 기준을 제시해 소비자 신뢰를 높였다는 평가다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "천호식품의 품질관리시스템은 천심본 홍삼에 사용하는 원료인 인삼을 재배하는 환경을 점검하는 것에서부터 시작한다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "인삼은 기후에 민감하다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "강원도는 겨울에 일교차가 뚜렷해 인삼이 자랄 때 조직이 단단하고 향이 좋다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 다음은 토양이다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "토양이 건강해야 품질 좋은 인삼을 재배할 수 있어서다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "천호식품은 홍삼 재배 전 한 차례 토양검사를 진행한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 검사를 통과한 곳에서 재배한 인삼만 원료로 사용한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "여기서 끝이 아니다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "인삼을 재배·수확하는 과정에서도 286종의 잔류농약 검사를 진행한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이렇게 선별한 인삼은 이력추적을 위한 바코드가 부착된 뒤 원료 혼입을 막기 위해 봉인된다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "홍삼으로 가공해 추출·농축·숙성 과정을 거친 다음에는 품질검사가 이뤄진다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "진세노사이드 함량을 점검해 천심본의 품질을 확인하고, 타르 색소나 세균 유입을 차단해 안전성을 높이기 위해서다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "마지막으로 판매 단계에서는 원료 재배부터 제품 생산에 이르는 과정마다 진행했던 검사 성적서, 원산지 증명서, 이력 확인서 등 결과를 과감하게 공개한다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "소비자가 직접 결과를 확인하고 검증한 다음 구입할 수 있도록 돕는다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "원료부터 판매까지 철저한 이력 관리로 호평받은 홍삼 브랜드는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

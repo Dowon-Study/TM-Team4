@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197107",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[최윤희·권혁재의 ‘날마다 행복’] 할머니가 ‘함박’ 웃는 이유는?",
+    "newsSubTitle": "",
+    "newsContent": "할머니가 ‘함박’ 웃는 이유는? 젊은 사람들이 거의 없는 시골~ 우편집배원 아저씨가 하는 일은 아주 다양하다.\n편지를 읽어드리는 것은 기본이고 세금도 대신 납부해드려야 한다.\n은행에서 돈도 찾아다 드리고 아프면 병원에도 모시고 가야 한다.\n그래서 우편집배원 아저씨들은 연말에 더 바빠진다.\n편지 위에 사랑까지 살포시 얹어 배달을 해야 하니 어찌 바쁘지 않을 것인가!\n할머니가 따뜻한 숭늉을 한 잔 주면서 우편집배원을 붙잡는다.\n-이것 봐, 편지에 뭐라고 써있능 거여? 우리 아들놈이 온다능 거여? 안 온다능 거여? -할머니, 아드님이 다음 달에 온대요.\n어머님 무릎 시린 것은 좀 어떠시냐고 물어보네요.\n-아이고, 내 새끼, 그래도 지 에미라고 생각은 자주 하는 가벼? …… 빨간 모자가 빨간색 사랑처럼 따뜻하다.\n할머니는 아들 소식에 기뻐서 입이 함박~ 얼마만일까?",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "할머니가 ‘함박’ 웃는 이유는? 젊은 사람들이 거의 없는 시골~ 우편집배원 아저씨가 하는 일은 아주 다양하다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "편지를 읽어드리는 것은 기본이고 세금도 대신 납부해드려야 한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "은행에서 돈도 찾아다 드리고 아프면 병원에도 모시고 가야 한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그래서 우편집배원 아저씨들은 연말에 더 바빠진다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "편지 위에 사랑까지 살포시 얹어 배달을 해야 하니 어찌 바쁘지 않을 것인가!",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "할머니가 따뜻한 숭늉을 한 잔 주면서 우편집배원을 붙잡는다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "-이것 봐, 편지에 뭐라고 써있능 거여? 우리 아들놈이 온다능 거여? 안 온다능 거여? -할머니, 아드님이 다음 달에 온대요.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "어머님 무릎 시린 것은 좀 어떠시냐고 물어보네요.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "-아이고, 내 새끼, 그래도 지 에미라고 생각은 자주 하는 가벼? …… 빨간 모자가 빨간색 사랑처럼 따뜻하다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "할머니는 아들 소식에 기뻐서 입이 함박~ 얼마만일까?",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "후끈한 열기 가득… 연말이면 더 바빠지는 시골 집배원",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

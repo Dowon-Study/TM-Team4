@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196405",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[짤막소식] 월간외식경영 外",
+    "newsSubTitle": "",
+    "newsContent": "■월간외식경영(대표 김현수)은 다음달 23일 도쿄로 출발하는 ‘야키니쿠 벤치마킹 투어단’을 모집한다.\n도라지·쇼타이엔 등 일본 굴지의 야키니쿠 체인점을 방문해 그들의 경영노하우 등을 살펴볼 예정이다.\n일정은 3박4일로 선착순 35명 한정. 참가비는 168만원. 02-518-3632. ■밀레니엄 서울힐튼의 겐지 일식당은 다음달 1~11일 일본의 설음식인 ‘오세치 요리’를 준비한다.\n새우구이·연근 초절임·어묵·은대구 유자구이·찐 전복·단호박·문어조림·바닷장어말이 등 다양한 메뉴가 있다.\n세 가지를 선택할 수 있는데 값은 7만원부터. 02-317-3240. ■서울 웨스틴조선호텔의 호경전 중식당은 1월 한 달간 중국의 새해 요리를 선보인다.\n상어지느러미찜이 나오는 점심 세트는 9만5000원. 송로버섯 삼보탕이 곁들여지는 저녁 세트는 16만원. 02-317-0494. ■일간지 여행기자들의 모임인 한국관광기자협회가 『여행기자들이 다시 찾고 싶은 여행지 BEST 30(수첩속의 풍경-그 네 번째 이야기)』을 펴냈다.\n안그라픽스 간, 1만원. 한국관광공사 공동 기획, 문화관광부후원으로 제작됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "■월간외식경영(대표 김현수)은 다음달 23일 도쿄로 출발하는 ‘야키니쿠 벤치마킹 투어단’을 모집한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "도라지·쇼타이엔 등 일본 굴지의 야키니쿠 체인점을 방문해 그들의 경영노하우 등을 살펴볼 예정이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일정은 3박4일로 선착순 35명 한정. 참가비는 168만원. 02-518-3632. ■밀레니엄 서울힐튼의 겐지 일식당은 다음달 1~11일 일본의 설음식인 ‘오세치 요리’를 준비한다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "새우구이·연근 초절임·어묵·은대구 유자구이·찐 전복·단호박·문어조림·바닷장어말이 등 다양한 메뉴가 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세 가지를 선택할 수 있는데 값은 7만원부터. 02-317-3240. ■서울 웨스틴조선호텔의 호경전 중식당은 1월 한 달간 중국의 새해 요리를 선보인다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "상어지느러미찜이 나오는 점심 세트는 9만5000원. 송로버섯 삼보탕이 곁들여지는 저녁 세트는 16만원. 02-317-0494. ■일간지 여행기자들의 모임인 한국관광기자협회가 『여행기자들이 다시 찾고 싶은 여행지 BEST 30(수첩속의 풍경-그 네 번째 이야기)』을 펴냈다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "안그라픽스 간, 1만원. 한국관광공사 공동 기획, 문화관광부후원으로 제작됐다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'월간외식경영', 야키니쿠 벤치마킹 투어단 모집... 100만 원 남짓하는 돈으로 경영 노하우 배운다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

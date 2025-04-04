@@ -1,0 +1,249 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193571",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[더오래]새벽부터 집합! 메이저리거는 훈련 별로 안한다더니…",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 김병곤의 MLB 컨디셔닝 스토리(1) 20여년간 한국 프로야구에서 재활과 트레이닝 관련 일을 했다.\n올해는 류현진 선수가 이적한 토론토 블루제이스에 소속돼 스프링 트레이닝과 시즌을 함께한다.\n이 경험을 스포츠과학, 트레이닝, 재활의 관점으로 한국 야구와 비교해 풀어낸다. 〈편집자〉 메이저리그 팀마다 각각 다르긴 하겠지만, 토론토는 아침 일찍부터 클럽하우스에 선수들이 모인다.\n내가 클럽 하우스에 도착하는 시간은 6시 50분인데 클럽 하우스 매니저와 직원, 선수트레이너(athletic trainer: 재활전문가), 스트랭스 코치(Strength & conditioning coach: 부상예방 및 체력관리) 뿐만 아니라 선수 중 몇몇은 벌써 운동 준비를 하고 있었다.\n이곳은 6시 30분부터 아침 식사를 시작으로 일과가 시작된다.\n정규 야구장 훈련시간은 오전 10시부터 오후 1시까지 3시간이다.\n그전에 8시부터 9시 30분까지 부상예방과 회복을 위한 관리가 이뤄진다.\n야구장 훈련 종료 후에도 2시간 정도의 트레이닝을 진행한다.\n하루 6시간 정도의 훈련을 하는 셈이다.\n생각했던 것보다 훈련시간이 길다.\n메이저리그 선수들은 훈련을 별로 하지 않는다고 알려진 바와 달리, 운동장에 하는 훈련보다 눈에 보이지 않게 뒤에서 준비하는 시간이 길다.\n또 한가지 생각과 달랐던 점이 있다.\n웨이트 트레이닝장에서 하는 트레이닝 강도다.\n물론 현재 스프링 훈련 기간이지만 선수들을 보면 훈련 없이 웨이트 트레이닝만 하고 집에 갈 것처럼 고강도 트레이닝을 한다.\n현재 플로리다에 스프링 트레이닝을 하는 한국팀들은 벌써 경기 준비를 하는 단계로 넘어갔을 것이다.\n한 시즌 동안 버틸 수 있는 체력을 만들 시기에 빠른 경기 적응은 체력을 향상하지 못해 경기력을 떨어지게 한다.\n부상 빈도가 높아지는 원인이 될 수도 있다.\n필요한 시기에 필요한 훈련을 하는 적기 트레이닝은 프런트와 팀에서 신경 써야 할 부분이다.\n적기 트레이닝이라고 하면 조금 생소할 수도 있을 것이다.\n선수의 몸 상태를 정확하게 파악해 현재 필요한 것을 트레이닝 프로그램으로 제공하는 것이다.\n스포츠 능력의 계층 구분에서 보듯이 만약 가동성이 필요한 선수는 가동성을 회복한 후 활성화 운동을 해야 한다.\n근력이 부족한 선수는 근력 트레이닝을 향상한 후 스피드 트레이닝을 해야 하는 것을 적기 트레이닝이라 말할 수 있다.\n상위 버전의 운동을 한다고, 어려운 트레이닝을 해야 선수가 좋아지는 것이 아니다.\n현재 부족한 것을 찾아서 적재적소에 배치하는 것이 전문가가 해야 할 일이다.\n메이저리그에 어떤 특별한 방식이 있다기보다는 이러한 기본을 지키는 것을 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 25,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 김병곤의 MLB 컨디셔닝 스토리(1) 20여년간 한국 프로야구에서 재활과 트레이닝 관련 일을 했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "올해는 류현진 선수가 이적한 토론토 블루제이스에 소속돼 스프링 트레이닝과 시즌을 함께한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 경험을 스포츠과학, 트레이닝, 재활의 관점으로 한국 야구와 비교해 풀어낸다. 〈편집자〉 메이저리그 팀마다 각각 다르긴 하겠지만, 토론토는 아침 일찍부터 클럽하우스에 선수들이 모인다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "내가 클럽 하우스에 도착하는 시간은 6시 50분인데 클럽 하우스 매니저와 직원, 선수트레이너(athletic trainer: 재활전문가), 스트랭스 코치(Strength & conditioning coach: 부상예방 및 체력관리) 뿐만 아니라 선수 중 몇몇은 벌써 운동 준비를 하고 있었다.",
+        "sentenceSize": 163
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이곳은 6시 30분부터 아침 식사를 시작으로 일과가 시작된다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정규 야구장 훈련시간은 오전 10시부터 오후 1시까지 3시간이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그전에 8시부터 9시 30분까지 부상예방과 회복을 위한 관리가 이뤄진다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "야구장 훈련 종료 후에도 2시간 정도의 트레이닝을 진행한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하루 6시간 정도의 훈련을 하는 셈이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "생각했던 것보다 훈련시간이 길다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "메이저리그 선수들은 훈련을 별로 하지 않는다고 알려진 바와 달리, 운동장에 하는 훈련보다 눈에 보이지 않게 뒤에서 준비하는 시간이 길다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "또 한가지 생각과 달랐던 점이 있다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "웨이트 트레이닝장에서 하는 트레이닝 강도다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "물론 현재 스프링 훈련 기간이지만 선수들을 보면 훈련 없이 웨이트 트레이닝만 하고 집에 갈 것처럼 고강도 트레이닝을 한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "현재 플로리다에 스프링 트레이닝을 하는 한국팀들은 벌써 경기 준비를 하는 단계로 넘어갔을 것이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "한 시즌 동안 버틸 수 있는 체력을 만들 시기에 빠른 경기 적응은 체력을 향상하지 못해 경기력을 떨어지게 한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "부상 빈도가 높아지는 원인이 될 수도 있다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "필요한 시기에 필요한 훈련을 하는 적기 트레이닝은 프런트와 팀에서 신경 써야 할 부분이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "적기 트레이닝이라고 하면 조금 생소할 수도 있을 것이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "선수의 몸 상태를 정확하게 파악해 현재 필요한 것을 트레이닝 프로그램으로 제공하는 것이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "스포츠 능력의 계층 구분에서 보듯이 만약 가동성이 필요한 선수는 가동성을 회복한 후 활성화 운동을 해야 한다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "근력이 부족한 선수는 근력 트레이닝을 향상한 후 스피드 트레이닝을 해야 하는 것을 적기 트레이닝이라 말할 수 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "상위 버전의 운동을 한다고, 어려운 트레이닝을 해야 선수가 좋아지는 것이 아니다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "현재 부족한 것을 찾아서 적재적소에 배치하는 것이 전문가가 해야 할 일이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "메이저리그에 어떤 특별한 방식이 있다기보다는 이러한 기본을 지키는 것을 확인할 수 있다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "[더오래]메이저리거는 훈련 별로 안한다더니… 노답 새벽 훈련",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

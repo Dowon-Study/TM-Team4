@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198676",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"코로나 한번 걸리면 6개월까진 항체 지속\\\" 英연구진 발표",
+    "newsSubTitle": "",
+    "newsContent": "영국에서 신종 코로나바이러스 감염증(코로나19)에 한번 감염되면 최소 6개월 간은 항체가 지속된다는 연구 결과가 나왔다.\n로이터통신은 3일(현지시간) 영국 바이오뱅크(UK Biobank)의 연구 결과를 인용해 이같이 보도했다.\n코로나19에 걸렸던 실험 참여자 중 99%는 석달간 항체를 갖고 있었고, 88%는 6개월이 지나서도 항체를 보유했다.\n나오미 앨런 바이오뱅크 수석 과학자는 \\\"적어도 감염 후 6개월 동안은 재감염에서 보호받는다는 것을 의미한다\\\"고 밝혔다.\n또 이번 실험을 통해 재감염이 빠르게 일어나는 것은 극히 드물다는 점을 재차 확인했다고 덧붙였다.\n앨런은 영국의 앞선 연구와 아이슬란드의 연구에서도 비슷한 결과가 나왔다고 했다.\n한편 지난달 발표된 영국 의료진 대상 연구 결과에 따르면 코로나19에 감염된 후 항체가 지속하더라도, 여전히 바이러스 전파는 가능한 것으로 나타나 주의가 필요하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영국에서 신종 코로나바이러스 감염증(코로나19)에 한번 감염되면 최소 6개월 간은 항체가 지속된다는 연구 결과가 나왔다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "로이터통신은 3일(현지시간) 영국 바이오뱅크(UK Biobank)의 연구 결과를 인용해 이같이 보도했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "코로나19에 걸렸던 실험 참여자 중 99%는 석달간 항체를 갖고 있었고, 88%는 6개월이 지나서도 항체를 보유했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "나오미 앨런 바이오뱅크 수석 과학자는 \\\"적어도 감염 후 6개월 동안은 재감염에서 보호받는다는 것을 의미한다\\\"고 밝혔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 이번 실험을 통해 재감염이 빠르게 일어나는 것은 극히 드물다는 점을 재차 확인했다고 덧붙였다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앨런은 영국의 앞선 연구와 아이슬란드의 연구에서도 비슷한 결과가 나왔다고 했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 지난달 발표된 영국 의료진 대상 연구 결과에 따르면 코로나19에 감염된 후 항체가 지속하더라도, 여전히 바이러스 전파는 가능한 것으로 나타나 주의가 필요하다.",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영국 연구진, 코로나 한번 감염되면 최소 '이 기간'은 항체 지속",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

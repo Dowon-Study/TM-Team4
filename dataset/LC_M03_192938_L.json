@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192938",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BookBriefing] '빙하시대' 外",
+    "newsSubTitle": "",
+    "newsContent": "◆루브르박물관과 프랑스의 만화전문출판사가 기획한 '루브르 만화컬렉션'의 첫 권으로 '빙하시대'(니콜라 드 크레시 그림, 김세리 옮김, 열화당, 80쪽, 1만7000원)가 나왔다.\n그림 한 폭, 하나의 컬렉션 혹은 박물관의 방 하나나 박물관 자체를 소재로 한 기발한 상상력을 만날 수 있는 시리즈다. '만화로 읽는 문학의 고전'시리즈의 하나인 '잃어버린 시간을 찾아서-스완네 집 쪽으로'(스테판 외에 각색.그림, 정재곤 옮김, 52쪽, 1만5000원)도 함께 출간됐다.\n◆시공사가 전편에 이어 2년만에 '불멸의 오페라 2'(박종호 지음, 1108쪽, 4만8000원)을 출간했다.\n정신과 전문의에서 오페라 해설가로 변신한 지은이가 프랑스와 독일의 오페라 중심으로 음악적 요소는 물론 역사적 배경, 전문용어 해설 등을 다뤘다.\n◆현직 지리교사가 우리 땅 60곳을 직접 답사하며 쓴 한반도 지형탐사기 '지리교사 이우평의 한국지형산책 1.2'(푸른숲, 368.328쪽, 각 1만8000원)가 출간됐다.\n800여 장의 사진과 150여 컷의 입체영상을 곁들여 지형의 형성과정에서 오늘의 환경문제까지 다뤄, 충실한 인문지리 대안교과서 구실을 할 만하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆루브르박물관과 프랑스의 만화전문출판사가 기획한 '루브르 만화컬렉션'의 첫 권으로 '빙하시대'(니콜라 드 크레시 그림, 김세리 옮김, 열화당, 80쪽, 1만7000원)가 나왔다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그림 한 폭, 하나의 컬렉션 혹은 박물관의 방 하나나 박물관 자체를 소재로 한 기발한 상상력을 만날 수 있는 시리즈다. '만화로 읽는 문학의 고전'시리즈의 하나인 '잃어버린 시간을 찾아서-스완네 집 쪽으로'(스테판 외에 각색.그림, 정재곤 옮김, 52쪽, 1만5000원)도 함께 출간됐다.",
+        "sentenceSize": 161
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "◆시공사가 전편에 이어 2년만에 '불멸의 오페라 2'(박종호 지음, 1108쪽, 4만8000원)을 출간했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정신과 전문의에서 오페라 해설가로 변신한 지은이가 프랑스와 독일의 오페라 중심으로 음악적 요소는 물론 역사적 배경, 전문용어 해설 등을 다뤘다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◆현직 지리교사가 우리 땅 60곳을 직접 답사하며 쓴 한반도 지형탐사기 '지리교사 이우평의 한국지형산책 1.2'(푸른숲, 368.328쪽, 각 1만8000원)가 출간됐다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "800여 장의 사진과 150여 컷의 입체영상을 곁들여 지형의 형성과정에서 오늘의 환경문제까지 다뤄, 충실한 인문지리 대안교과서 구실을 할 만하다.",
+        "sentenceSize": 81
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "프랑스 만화전문 출판사와의 협업기획으로 새로운 소재의 학습만화 다수 출간 중… 대안 교과서로도 호평",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

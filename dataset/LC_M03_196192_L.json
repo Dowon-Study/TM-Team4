@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196192",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "건대병원 대장암센터 수술 1000례 돌파...수술 후 사망 無",
+    "newsSubTitle": "합병증 발생률 1.2%로 낮아…환자 절반 이상 타지역 환자",
+    "newsContent": "▲ 건국대병원 대장암센터가 대장암 수술 1,000례 돌파를 기념해 축하떡케이크 절단식을 마련했다.\n건국대학교병원이 대장암수술 1,000례를 돌파했다.\n최근 건대병원 대장암센터(센터장 황대용 교수)는 2009년 대장암센터 설립 후 지금까지 1,013례 수술을 시행했다고 밝혔다.\n수술 후 사망 환자는 한 명도 없었으며 합병증도 전체 수술의 1.2%(13례)로 낮았다.\n또 전체 환자의 57%가 병원 인접 지역이 아닌 다른 지역에서 온 환자로 대장암 수술을 위해 건국대병원 대장암센터를 찾은 것으로 나타났다.\n1기 이하 환자가 14%, 3, 4기 중증 환자는 38%였다.\n황대용 센터장은 “대한대장항문학회에 따르면 우리나라 대장암 환자의 65%가 1기, 3기와 4기는 합쳐 21% 정도”라며 “우리나라 평균보다 중증 대장암 환자의 수술이 약 2배 정도 더 많이 이뤄진 것”이라고 전했다.\n환자의 거주지는 서울이 73%, 그 외 지역이 27%였다.\n서울에서도 병원 인접 지역 외에서 온 환자가 30%로 전체 환자의 57%가 병원 인접 지역이 아닌 다른 지역에서 온 환자로 나타났다.\n외국인 대장암 환자 수술도 14례(1.4%)나 있었다.\n황 센터장은 “대장암만을 전문적으로 다루는 센터가 설립돼 단기간에 대장암 수술 1,000례를 달성하고 치료 성적도 좋았던 것 같다”며 “앞으로도 환자 개개인에 맞는 최적의 맞춤치료로 더 나은 치료성적을 내고 환자의 만족도도 높일 것”이라고 말했다.\n한편 건대병원 대장암센터는 2009년부터 매년 대장암 국제 심포지엄을 개최해 오고 있다.\n오는 9월 14일(토) 제5회 심포지엄을 개최할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "▲ 건국대병원 대장암센터가 대장암 수술 1,000례 돌파를 기념해 축하떡케이크 절단식을 마련했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "건국대학교병원이 대장암수술 1,000례를 돌파했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 건대병원 대장암센터(센터장 황대용 교수)는 2009년 대장암센터 설립 후 지금까지 1,013례 수술을 시행했다고 밝혔다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "수술 후 사망 환자는 한 명도 없었으며 합병증도 전체 수술의 1.2%(13례)로 낮았다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 전체 환자의 57%가 병원 인접 지역이 아닌 다른 지역에서 온 환자로 대장암 수술을 위해 건국대병원 대장암센터를 찾은 것으로 나타났다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1기 이하 환자가 14%, 3, 4기 중증 환자는 38%였다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "황대용 센터장은 “대한대장항문학회에 따르면 우리나라 대장암 환자의 65%가 1기, 3기와 4기는 합쳐 21% 정도”라며 “우리나라 평균보다 중증 대장암 환자의 수술이 약 2배 정도 더 많이 이뤄진 것”이라고 전했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "환자의 거주지는 서울이 73%, 그 외 지역이 27%였다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "서울에서도 병원 인접 지역 외에서 온 환자가 30%로 전체 환자의 57%가 병원 인접 지역이 아닌 다른 지역에서 온 환자로 나타났다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "외국인 대장암 환자 수술도 14례(1.4%)나 있었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "황 센터장은 “대장암만을 전문적으로 다루는 센터가 설립돼 단기간에 대장암 수술 1,000례를 달성하고 치료 성적도 좋았던 것 같다”며 “앞으로도 환자 개개인에 맞는 최적의 맞춤치료로 더 나은 치료성적을 내고 환자의 만족도도 높일 것”이라고 말했다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "한편 건대병원 대장암센터는 2009년부터 매년 대장암 국제 심포지엄을 개최해 오고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "오는 9월 14일(토) 제5회 심포지엄을 개최할 예정이다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "건국대병원 대장암센터 수술 1,000례 돌파··· 무사고 비결은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

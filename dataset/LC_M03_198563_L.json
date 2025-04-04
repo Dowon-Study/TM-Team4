@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198563",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "철학 속에 녹인 그리스 유머 '농담'",
+    "newsSubTitle": "",
+    "newsContent": "기원전 2세기의 목가 시인 비온에게 어떤 사람이 죽음의 길이 험난한지를 물었다.\n그러자 이본이 웃으며 이렇게 대답했다.\n\\\"아무 걱정 마시게. 저승길은 아주 평탄하다네. 누구든 눈을 감고도 갈 수 있는 길이니까.\\\" '눈을 감고도 갈 수 있는 길이니까'를 요약한 것이다.\n이 책은 고대 그리스의 철학자들과 유랑 시인들이 남긴 글 중에서 유머감각이 뛰어난 글만을 모아 옮겼다.\n탈레스.소크라테스.플라톤.디오게네스 등 고대 철학자들의 풍자에는 지혜가 느껴진다.\n철학자 안티스테네스(기원전 445?~365?)는 타락한 정치판을 이렇게 개탄했다.\n\\\"사람들은 곡식을 널어놓고 독보리를 열심히 골라낸다. 또한 군대에서는 용기 없는 병사들을 가려내 집으로 돌려보낸다. 그런데 정치판에서는 … 천하고 추하며 극도로 못된 자들이 정부 속에 끼여 있어도, 그들을 가려내 내치지 않는다\\\"('독보리는 열심히 골라내면서…' 중)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "기원전 2세기의 목가 시인 비온에게 어떤 사람이 죽음의 길이 험난한지를 물었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그러자 이본이 웃으며 이렇게 대답했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "\\\"아무 걱정 마시게. 저승길은 아주 평탄하다네. 누구든 눈을 감고도 갈 수 있는 길이니까.\\\" '눈을 감고도 갈 수 있는 길이니까'를 요약한 것이다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 책은 고대 그리스의 철학자들과 유랑 시인들이 남긴 글 중에서 유머감각이 뛰어난 글만을 모아 옮겼다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "탈레스.소크라테스.플라톤.디오게네스 등 고대 철학자들의 풍자에는 지혜가 느껴진다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "철학자 안티스테네스(기원전 445?~365?)는 타락한 정치판을 이렇게 개탄했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "\\\"사람들은 곡식을 널어놓고 독보리를 열심히 골라낸다. 또한 군대에서는 용기 없는 병사들을 가려내 집으로 돌려보낸다. 그런데 정치판에서는 … 천하고 추하며 극도로 못된 자들이 정부 속에 끼여 있어도, 그들을 가려내 내치지 않는다\\\"('독보리는 열심히 골라내면서…' 중)",
+        "sentenceSize": 150
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고대 그리스 ‘이 사람들’의 유머는 어땠을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

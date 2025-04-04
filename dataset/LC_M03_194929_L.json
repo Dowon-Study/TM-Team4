@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194929",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "볼쇼이 발레단 내한공연",
+    "newsSubTitle": "",
+    "newsContent": "러시아 볼쇼이발레단의 내한공연이 오는 11월 3일과 4일 오후 7시30분 예술의 전당 오페라극장에서 열린다. 230년 전통의 세계 최정상 발레단인 볼쇼이의 이번 한국공연은 명작발레의 하이라이트를 모은 갈라공연으로 진행된다.\n1부에서는 볼쇼이극장 총감독 블라디미르 바실리예프가 지난 97년 새로 안무한 '지젤'의 2막이 공연된다.\n지젤역은 볼쇼이의 유망주 스베틀라나 룬키나, 알브레히트역은 주역무용수 세르게이 필린이 맡는다.\n또 갈리나 스테파넨코, 안드레이 우바로프, 이나 페트로바 등 볼쇼이의 스타무용수들은 2부에서 '백조의 호수' 2막 아다지오, '라 바야데르' 북춤, '호두까기인형' 2인무, '돈키호테' 집시춤 등을 보여준다.\n볼쇼이의 유일한 외국인 정식단원인 배주윤(22)씨는 '베니스의 축제' 2인무에 출연한다.\n서울예고 재학중 러시아로 유학을 떠나 95년 볼쇼이발레학교를 졸업한 배씨는 98년 페름국제발레콩쿠르에서 우승, 세계무용계의 주목의 받고있다.\n지난 90년이후 네번째인 볼쇼이의 이번 한국공연을 위해 발레단원 48명과 오케스트라 단원 70명이 내한한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "러시아 볼쇼이발레단의 내한공연이 오는 11월 3일과 4일 오후 7시30분 예술의 전당 오페라극장에서 열린다. 230년 전통의 세계 최정상 발레단인 볼쇼이의 이번 한국공연은 명작발레의 하이라이트를 모은 갈라공연으로 진행된다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1부에서는 볼쇼이극장 총감독 블라디미르 바실리예프가 지난 97년 새로 안무한 '지젤'의 2막이 공연된다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지젤역은 볼쇼이의 유망주 스베틀라나 룬키나, 알브레히트역은 주역무용수 세르게이 필린이 맡는다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 갈리나 스테파넨코, 안드레이 우바로프, 이나 페트로바 등 볼쇼이의 스타무용수들은 2부에서 '백조의 호수' 2막 아다지오, '라 바야데르' 북춤, '호두까기인형' 2인무, '돈키호테' 집시춤 등을 보여준다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "볼쇼이의 유일한 외국인 정식단원인 배주윤(22)씨는 '베니스의 축제' 2인무에 출연한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서울예고 재학중 러시아로 유학을 떠나 95년 볼쇼이발레학교를 졸업한 배씨는 98년 페름국제발레콩쿠르에서 우승, 세계무용계의 주목의 받고있다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난 90년이후 네번째인 볼쇼이의 이번 한국공연을 위해 발레단원 48명과 오케스트라 단원 70명이 내한한다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "세계 최정상 발레단인 볼쇼이의 이번 한국 공연은...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

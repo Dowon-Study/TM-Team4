@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195573",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "동화약품 후시딘 연매출 200억 달성",
+    "newsSubTitle": "",
+    "newsContent": "[김진구 기자] 동화약품의 상처치료제 ‘부채표 후시딘’이 연매출 200억원을 돌파했다.\n1980년 국내 발매 후 36년 만에 이룬 성과다.\n동화약품 관계자는 “기존 튜브형 연고부터 후시딘 휴대용, 후시딘 밴드, 후시딘 겔 등 제형, 용량 등을 다양화한 제품 라인업을 구성한 것이 매출 신장의 바탕이 된 것”이라고 말했다.\n특히, 2016년 1월 출시한 후시딘 연고 휴대용(7.5g)은 튜브형이 아닌 개별 파우치 포장으로 1회 사용분(0.5g)의 연고가 담겨있어 여행·캠핑·등산 등 외부 활동 중 발생할 상처에 대비해 휴대가 적합한 것이 특징으로, 소비자의 니즈를 잘 반영한 제품으로 평가받는다.\n부채표 후시딘은 상처 부위에 세균감염을 효과적으로 치료, 처음부터 사용하면 흉터 없이 빨리 아물게 한다.\n특히, 스테로이드 성분이 들어있지 않아 아이들 상처에 안심하고 사용할 수 있으며 일반의약품으로 약국에서 구입할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 동화약품의 상처치료제 ‘부채표 후시딘’이 연매출 200억원을 돌파했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1980년 국내 발매 후 36년 만에 이룬 성과다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "동화약품 관계자는 “기존 튜브형 연고부터 후시딘 휴대용, 후시딘 밴드, 후시딘 겔 등 제형, 용량 등을 다양화한 제품 라인업을 구성한 것이 매출 신장의 바탕이 된 것”이라고 말했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히, 2016년 1월 출시한 후시딘 연고 휴대용(7.5g)은 튜브형이 아닌 개별 파우치 포장으로 1회 사용분(0.5g)의 연고가 담겨있어 여행·캠핑·등산 등 외부 활동 중 발생할 상처에 대비해 휴대가 적합한 것이 특징으로, 소비자의 니즈를 잘 반영한 제품으로 평가받는다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "부채표 후시딘은 상처 부위에 세균감염을 효과적으로 치료, 처음부터 사용하면 흉터 없이 빨리 아물게 한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히, 스테로이드 성분이 들어있지 않아 아이들 상처에 안심하고 사용할 수 있으며 일반의약품으로 약국에서 구입할 수 있다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "동화약품 후시딘, 어떻게 연매출 200억 달성했을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

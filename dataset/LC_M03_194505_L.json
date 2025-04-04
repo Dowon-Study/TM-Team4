@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194505",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[I♡뮤지컬] 오만석·배해선 '더 뮤지컬 어워즈' 홍보대사에",
+    "newsSubTitle": "",
+    "newsContent": "오만석(32.(左))과 배해선(33.(右)). 한국 뮤지컬계를 대표하는 두 배우가 '더 뮤지컬 어워즈(The Musical Awards)'의 홍보 대사로 위촉됐다.\n\\\"새로운 시도는 언제나 가슴을 설레게 한다. 더 뮤지컬 어워즈 탄생을 축하한다\\\"(오만석), \\\"많은 팬과 함께하는 축제이자 오랜 세월을 켜켜이 쌓을 수 있는 친구로 남기를 기대한다\\\"(배해선)고 둘은 말한다.\n오만석은 분주하다.\n연극에서 출발한 그는 뮤지컬로, 드라마와 영화로 장르를 가리지 않는다.\n선이 굵은 듯 보이면서도 자신의 몫을 제대로 낚아채는 영리함도 겸비했다.\n최고의 인기를 누리지만 뿌리를 쉽게 흔들지 않는, '뮤지컬계의 적자(嫡子)'다.\n배해선은 다채롭다.\n소녀 같은 풋풋함(페임)을 풍기는가 싶더니 예술과 사랑에 아파하고(카미유 클로델) 어느새 거침없이 지도력을 발휘하는 카리스마(아이다)로 무장한다. '지하철 1호선'에서 배해선을 지켜보았던 김민기 연출가는 \\\"최근 그의 연기를 보면 정말 물이 올랐다고밖에 할 말이 없다\\\"고 말한다.\n둘은 '더 뮤지컬 어워즈'의 전도사로 활발히 활동할 예정이다.\n5월 14일에 열리는 '더 뮤지컬 어워즈' 시상식은 SBS-TV를 통해 밤 12시40분에 중계 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오만석(32.(左))과 배해선(33.(右)). 한국 뮤지컬계를 대표하는 두 배우가 '더 뮤지컬 어워즈(The Musical Awards)'의 홍보 대사로 위촉됐다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "\\\"새로운 시도는 언제나 가슴을 설레게 한다. 더 뮤지컬 어워즈 탄생을 축하한다\\\"(오만석), \\\"많은 팬과 함께하는 축제이자 오랜 세월을 켜켜이 쌓을 수 있는 친구로 남기를 기대한다\\\"(배해선)고 둘은 말한다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오만석은 분주하다.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연극에서 출발한 그는 뮤지컬로, 드라마와 영화로 장르를 가리지 않는다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "선이 굵은 듯 보이면서도 자신의 몫을 제대로 낚아채는 영리함도 겸비했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최고의 인기를 누리지만 뿌리를 쉽게 흔들지 않는, '뮤지컬계의 적자(嫡子)'다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "배해선은 다채롭다.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "소녀 같은 풋풋함(페임)을 풍기는가 싶더니 예술과 사랑에 아파하고(카미유 클로델) 어느새 거침없이 지도력을 발휘하는 카리스마(아이다)로 무장한다. '지하철 1호선'에서 배해선을 지켜보았던 김민기 연출가는 \\\"최근 그의 연기를 보면 정말 물이 올랐다고밖에 할 말이 없다\\\"고 말한다.",
+        "sentenceSize": 157
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "둘은 '더 뮤지컬 어워즈'의 전도사로 활발히 활동할 예정이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "5월 14일에 열리는 '더 뮤지컬 어워즈' 시상식은 SBS-TV를 통해 밤 12시40분에 중계 방송된다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'더 뮤지컬 어워즈' 홍보 대사에 위촉된 남녀 뮤지컬 배우는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

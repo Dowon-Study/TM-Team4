@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193397",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[와글와글e동네] 개그 타짜, 타짱",
+    "newsSubTitle": "",
+    "newsContent": "'타짱'을 아십니까.\n모 개그 프로그램의 새 코너 이름이죠.\n그런데 이 '타짱'이 이번주 인터넷 세상에서 대단한 관심을 모으고 있습니다.\n이름에서도 알 수 있듯 '타짱'은 영화 타짜를 패러디한 것입니다.\n개그맨들끼리 개인기를 펼쳐 먼저 웃는 자가 패배하고 벌칙을 받는, 일종의 개그 배틀이죠.\n네티즌들은 여러 출연자 중에서도 개그맨 양배추(본명 조세호)씨를 최고로 꼽습니다.\n쟁쟁한 선후배를 물리치고 3연속 우승을 거머쥐었거든요.\n양배추씨의 우승 비결은 엽기 변신. 금불상, 말탈(사진), 돼지탈 등 엽기 만화에나 등장할 만한 모습입니다.\n요즘 이 코너를 운영하는 프로그램에선 시청자를 대상으로 타짱 동영상을 공모 중입니다.\n무료한 주말, 가족.친구들과 함께 만든 개인기 대결 동영상으로 새로운 '타짱'이 돼 보지 않으시렵니까.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'타짱'을 아십니까.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "모 개그 프로그램의 새 코너 이름이죠.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그런데 이 '타짱'이 이번주 인터넷 세상에서 대단한 관심을 모으고 있습니다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이름에서도 알 수 있듯 '타짱'은 영화 타짜를 패러디한 것입니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "개그맨들끼리 개인기를 펼쳐 먼저 웃는 자가 패배하고 벌칙을 받는, 일종의 개그 배틀이죠.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "네티즌들은 여러 출연자 중에서도 개그맨 양배추(본명 조세호)씨를 최고로 꼽습니다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "쟁쟁한 선후배를 물리치고 3연속 우승을 거머쥐었거든요.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "양배추씨의 우승 비결은 엽기 변신. 금불상, 말탈(사진), 돼지탈 등 엽기 만화에나 등장할 만한 모습입니다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "요즘 이 코너를 운영하는 프로그램에선 시청자를 대상으로 타짱 동영상을 공모 중입니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "무료한 주말, 가족.친구들과 함께 만든 개인기 대결 동영상으로 새로운 '타짱'이 돼 보지 않으시렵니까.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무료한 주말, 웃음이 필요하다면 '아묻따'··· '타짱' 주목",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

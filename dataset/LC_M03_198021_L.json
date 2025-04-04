@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198021",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "일간스포츠 회사 이름 ‘아이에스플러스’로",
+    "newsSubTitle": "종합 엔터테인먼트 미디어 그룹 탈바꿈",
+    "newsContent": "일간스포츠가 회사 이름을 바꾸고 새롭게 출발했다.\n일간스포츠는 21일 주주총회를 열어 사명을 ‘아이에스플러스 코프(ISplus corp.)’로 변경하고, 종합 엔터테인먼트 미디어 그룹으로 도약하겠다는 의지를 밝혔다.\nISplus는 스포츠·엔터테인먼트 산업의 핵심인 이슈(Issue)와 스타(Star)에 관한 정보를 제공하고, 이를 바탕으로 드라마 제작과 방송사업·대중 공연·스포츠 마케팅 등 4대 신사업을 펼치기로 했다.\n경영과 신문 제작을 분리해 장중호 사장은 신사업에 주력하고, 일간스포츠 발행·인쇄인은 허남진 대표이사 부사장이 맡게 된다.\nISplus는 지난해 전환사채 발행과 대규모 증자를 통해 333억원의 자금을 조달해 종합 엔터테인먼트 미디어 그룹으로 발전할 토대를 마련했다.\n자회사인 드라마하우스에서 제작한 ‘바람의 화원’이 9월부터 SBS를 통해 방영된다.\n지난해 인수한 국내 최고 뮤지컬 제작사 설앤컴퍼니는 5월 말 뮤지컬 ‘캣츠’ 오리지널 팀을 초청해 공연을 한다.\n스포츠 마케팅 분야에서도 지난해 명문 축구 구단인 맨체스터 유나이티드 내한 경기를 주최한 데 이어 이달 초 미국 LA 갤럭시 팀의 내한 경기를 주관했다.\n장 사장은 이날 주총에서 “지난해가 6년 만에 흑자를 낸 뜻 깊은 해였다면 올해는 4대 신사업이 뿌리 내리는 출발점이 될 것”이라고 말했다.\nISplus는 지난해 매출 381억8000만원에 영업이익 8억7000만원, 당기순이익 1억5000만원의 실적을 냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일간스포츠가 회사 이름을 바꾸고 새롭게 출발했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "일간스포츠는 21일 주주총회를 열어 사명을 ‘아이에스플러스 코프(ISplus corp.)’로 변경하고, 종합 엔터테인먼트 미디어 그룹으로 도약하겠다는 의지를 밝혔다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "ISplus는 스포츠·엔터테인먼트 산업의 핵심인 이슈(Issue)와 스타(Star)에 관한 정보를 제공하고, 이를 바탕으로 드라마 제작과 방송사업·대중 공연·스포츠 마케팅 등 4대 신사업을 펼치기로 했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "경영과 신문 제작을 분리해 장중호 사장은 신사업에 주력하고, 일간스포츠 발행·인쇄인은 허남진 대표이사 부사장이 맡게 된다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "ISplus는 지난해 전환사채 발행과 대규모 증자를 통해 333억원의 자금을 조달해 종합 엔터테인먼트 미디어 그룹으로 발전할 토대를 마련했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "자회사인 드라마하우스에서 제작한 ‘바람의 화원’이 9월부터 SBS를 통해 방영된다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난해 인수한 국내 최고 뮤지컬 제작사 설앤컴퍼니는 5월 말 뮤지컬 ‘캣츠’ 오리지널 팀을 초청해 공연을 한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "스포츠 마케팅 분야에서도 지난해 명문 축구 구단인 맨체스터 유나이티드 내한 경기를 주최한 데 이어 이달 초 미국 LA 갤럭시 팀의 내한 경기를 주관했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "장 사장은 이날 주총에서 “지난해가 6년 만에 흑자를 낸 뜻 깊은 해였다면 올해는 4대 신사업이 뿌리 내리는 출발점이 될 것”이라고 말했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "ISplus는 지난해 매출 381억8000만원에 영업이익 8억7000만원, 당기순이익 1억5000만원의 실적을 냈다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'아이에스플러스코프'로 사명 변경한 이 회사... 그 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

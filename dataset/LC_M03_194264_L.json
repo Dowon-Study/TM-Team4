@@ -1,0 +1,294 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194264",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "좋은 제품 고르려면…알레르기 있으면 단백질 분해한 분유 좋아",
+    "newsSubTitle": "",
+    "newsContent": "아기에게 최상의 음식은 모유다.\n세계보건기구(WHO)는 출생 후 2년은 가급적 모유를 먹이라고 추천한다.\n그러나 모유를 먹일 수 없는 경우 아기에게 처음부터 조제유를 먹여도 괜찮다.\n조제유는 대개 우유를 주 원료로 제조된다(우유 조제유). 우유 알레르기가 있는 아이에겐 두유로 만든 조제유(두유 조제유)나 우유의 카세인(단백질의 일종)을 가수분해시킨 조제유(단백질 가수분해물 조제유)를 먹인다.\n모유와 가장 근접한 조제유를 만드는 것이 제조업체의 지상 목표. 우유 조제유의 경우 주 원료인 우유의 단백질·미네랄 함량을 낮춰 모유와 비슷하게 맞춘다.\n또 아기가 소화하기 쉽도록 균질화·열처리 과정을 거친다.\nDHA·락토페린·초유성분·유산균 등 웰빙 성분을 첨가하기도 한다.\nDHA는 두뇌와 망막 기능, 초유·락토페린은 면역력 증강에 도움을 준다(매일유업 중앙연구소 윤숭섭 소장). 두유 조제유엔 콩가루에 부족한 아미노산인 메티오닌이 보충된다.\n우유·두유에 모두 알레르기가 있는 아기에겐 단백질 가수분해물 조제유가 대안. 이 조제유는 맛·냄새가 비호감이다.\n어려서부터 먹었다면 문제가 없지만 조금 커서 이 조제유를 처음 맛본 아기는 거부감을 곧잘 나타낸다.\n조제유 구입 시엔 HACCP 인증 마크와 영양 성분·유통기한 등을 확인한다.\n조제유를 다룰 때는 위생과 희석 비율에 각별히 신경 써야 한다.\n조제유에 사용하는 물은 반드시 끓여서 소독한다.\n지하수·약수의 사용은 피한다.\n중금속 등 유해성분의 함량이 높을 수 있어서다.\n먼저 손을 깨끗이 씻는다.\n젖병·젖꼭지 등 기구는 충분히 살균한다.\n한꺼번에 하루치를 보관할 경우엔 조제유가 담긴 병뚜껑을 반쯤 잠그고 물을 반쯤 채운 냄비에 넣어 15분가량 끓인다.\n살균을 마친 젖병은 꺼내 식힌 뒤 뚜껑을 단단히 잠가 냉장고에 보관한다.\n먹다 남은 우유는 버리는 것이 원칙. 국내에서 시판되는 조제유는 분유의 형태다.\n아기에게 13% 용액(분유 13g에 물을 부어 총량이 100가 되게 한다)을 만들어 먹이면 적당하다.\n이보다 과도하게 진하게 타면 아기의 소화에 문제가 생길 수 있다.\n변비·설사 증상도 일으킨다.\n신장에도 큰 부담이 된다.\n반대로 너무 묽게 타면 성장·발육에 지장을 받는다.\n아기는 위가 작아서 먹는 양에 한계가 있어서다(인제대 식품생명과학부 김정인 교수). 아기는 모유보다 조제유를 확실히 더 많이 먹는다.\n국내에서 생후 3개월된 아기를 대상으로 조사한 결과 하루 평균 모유를 720씩 섭취했다.\n반면 조제유는 매일 861씩 먹었다.\n아기(생후 3개월 기준)의 열량 섭취량도 조제유 섭취아는 590㎉, 모유 수유아는 480㎉로 상당한 차이를 보였다.\n조제유 섭취아의 열량 섭취량은 한국영양학회가 설정한 3개월 아기의 열량 섭취 권장 기준(500㎉)을 초과하는 것이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 30,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아기에게 최상의 음식은 모유다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "세계보건기구(WHO)는 출생 후 2년은 가급적 모유를 먹이라고 추천한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러나 모유를 먹일 수 없는 경우 아기에게 처음부터 조제유를 먹여도 괜찮다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "조제유는 대개 우유를 주 원료로 제조된다(우유 조제유). 우유 알레르기가 있는 아이에겐 두유로 만든 조제유(두유 조제유)나 우유의 카세인(단백질의 일종)을 가수분해시킨 조제유(단백질 가수분해물 조제유)를 먹인다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "모유와 가장 근접한 조제유를 만드는 것이 제조업체의 지상 목표. 우유 조제유의 경우 주 원료인 우유의 단백질·미네랄 함량을 낮춰 모유와 비슷하게 맞춘다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 아기가 소화하기 쉽도록 균질화·열처리 과정을 거친다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "DHA·락토페린·초유성분·유산균 등 웰빙 성분을 첨가하기도 한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "DHA는 두뇌와 망막 기능, 초유·락토페린은 면역력 증강에 도움을 준다(매일유업 중앙연구소 윤숭섭 소장). 두유 조제유엔 콩가루에 부족한 아미노산인 메티오닌이 보충된다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "우유·두유에 모두 알레르기가 있는 아기에겐 단백질 가수분해물 조제유가 대안. 이 조제유는 맛·냄새가 비호감이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "어려서부터 먹었다면 문제가 없지만 조금 커서 이 조제유를 처음 맛본 아기는 거부감을 곧잘 나타낸다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "조제유 구입 시엔 HACCP 인증 마크와 영양 성분·유통기한 등을 확인한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "조제유를 다룰 때는 위생과 희석 비율에 각별히 신경 써야 한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "조제유에 사용하는 물은 반드시 끓여서 소독한다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "지하수·약수의 사용은 피한다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "중금속 등 유해성분의 함량이 높을 수 있어서다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "먼저 손을 깨끗이 씻는다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "젖병·젖꼭지 등 기구는 충분히 살균한다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "한꺼번에 하루치를 보관할 경우엔 조제유가 담긴 병뚜껑을 반쯤 잠그고 물을 반쯤 채운 냄비에 넣어 15분가량 끓인다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "살균을 마친 젖병은 꺼내 식힌 뒤 뚜껑을 단단히 잠가 냉장고에 보관한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "먹다 남은 우유는 버리는 것이 원칙. 국내에서 시판되는 조제유는 분유의 형태다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "아기에게 13% 용액(분유 13g에 물을 부어 총량이 100가 되게 한다)을 만들어 먹이면 적당하다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "이보다 과도하게 진하게 타면 아기의 소화에 문제가 생길 수 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "변비·설사 증상도 일으킨다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "신장에도 큰 부담이 된다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "반대로 너무 묽게 타면 성장·발육에 지장을 받는다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "아기는 위가 작아서 먹는 양에 한계가 있어서다(인제대 식품생명과학부 김정인 교수). 아기는 모유보다 조제유를 확실히 더 많이 먹는다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "국내에서 생후 3개월된 아기를 대상으로 조사한 결과 하루 평균 모유를 720씩 섭취했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "반면 조제유는 매일 861씩 먹었다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 29,
+        "sentenceContent": "아기(생후 3개월 기준)의 열량 섭취량도 조제유 섭취아는 590㎉, 모유 수유아는 480㎉로 상당한 차이를 보였다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 30,
+        "sentenceContent": "조제유 섭취아의 열량 섭취량은 한국영양학회가 설정한 3개월 아기의 열량 섭취 권장 기준(500㎉)을 초과하는 것이다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아기에게 최상의 음식 '모유'를 대신할 조제유, 어떻게 먹이는 게 좋을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 29,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 30,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

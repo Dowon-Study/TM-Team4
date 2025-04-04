@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193898",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "주진모, 10세 연하 가정의학과 전문의와 6월 비공개 결혼",
+    "newsSubTitle": "",
+    "newsContent": "주진모(45)가 오는 6월 화촉을 밝힌다. 9일 배우 주진모 소속사 화이브라더스 측은 미디어SR에 \\\"주진모가 오는 6월 결혼한다. 구체적인 장소와 시기 등은 비공개\\\"라고 밝혔다.\n주진모의 결혼 상대는 10살 연하의 가정의학과 전문의 민혜연(35) 씨다.\n닥터테이너로 주목 받은 민 씨는 MBC '기분 좋은 날', SBS '좋은 아침', 온스타일 '바디 액츄얼리', SBS플러스 '여자플러스' 등에 출연하는 등 다수 방송에서 활약했다.\n특히 주진모는 지난 1월 민혜연 씨와의 열애설을 인정한 뒤 3개월여 만에 결혼 소식을 전해 눈길을 끈다.\n두 사람은 지인 소개로 만나 사랑을 키워온 것으로 전해졌다.\n주진모는 지난 1999년 영화 '댄스댄스'로 데뷔했다.\n이후 영화 '미녀는 괴로워', '쌍화점'과 드라마 '기황후', '사랑하는 은동아', '나쁜 녀석들 : 악의 도시' 등에 출연하는 등 스크린과 브라운관을 오가며 열연을 펼쳤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "주진모(45)가 오는 6월 화촉을 밝힌다. 9일 배우 주진모 소속사 화이브라더스 측은 미디어SR에 \\\"주진모가 오는 6월 결혼한다. 구체적인 장소와 시기 등은 비공개\\\"라고 밝혔다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "주진모의 결혼 상대는 10살 연하의 가정의학과 전문의 민혜연(35) 씨다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "닥터테이너로 주목 받은 민 씨는 MBC '기분 좋은 날', SBS '좋은 아침', 온스타일 '바디 액츄얼리', SBS플러스 '여자플러스' 등에 출연하는 등 다수 방송에서 활약했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 주진모는 지난 1월 민혜연 씨와의 열애설을 인정한 뒤 3개월여 만에 결혼 소식을 전해 눈길을 끈다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두 사람은 지인 소개로 만나 사랑을 키워온 것으로 전해졌다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "주진모는 지난 1999년 영화 '댄스댄스'로 데뷔했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 영화 '미녀는 괴로워', '쌍화점'과 드라마 '기황후', '사랑하는 은동아', '나쁜 녀석들 : 악의 도시' 등에 출연하는 등 스크린과 브라운관을 오가며 열연을 펼쳤다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "주진모 결혼 발표, 10살 연하의 상대는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

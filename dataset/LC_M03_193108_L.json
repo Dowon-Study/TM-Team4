@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193108",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "'글로벌 정형외과 의사' 부천 연세사랑서 진료 시작",
+    "newsSubTitle": "인공관절수술 권위자 권세광 병원장 美 연수 마치고 18일부터",
+    "newsContent": "부천 연세사랑병원은 13일 인공관절수술 분야 권위자인 권세광 병원장(사진)이 18일부터 진료를 시작한다고 밝혔다.\n권 병원장은 정형외과 전문의로 지난 2008년부터 부천 연세사랑병원에서 병원장을 역임해 왔다.\n전문 분야는 스포츠 무릎 손상과 연골 결손, 퇴행성 관절염 등의 무릎질환 및 류마티스 질환이다.\n그동안 약 6000여건의 수술과 시술을 집도하면서 특히 관절경과 인공 관절 수술 분야에 명성을 떨쳤다.\n활발한 연구로도 알려져있다.\n지난 2015년에는 세계 최고 권위의 미국 정형외과 학회(AAOS)에서 ‘개방형 절골술에 쓰이는 임플란트의 안정성 비교 연구’에 대한 포스터를 발표했다.\n이어 그 해 9월부터 미국 스탠포드 대학교 메디컬센터에서 visiting 교수 자격으로 스포츠 의학 및 연골재생 연구를 진행했었다.\n또 인공 관절 수술의 권위자로 손꼽히는 스크립스 그린병원(Scripps Green Hospital) Dr. Ezzet 교수와도 활발한 교류를 벌였고, 세계적인 의료기기 회사 스미스앤네퓨(Smith&Nephe)로부터 ‘글로벌 정형외과 의사’로 선정돼, 최근까지 선진 의료 기술에 대한 연구를 지속해왔다.\n올해로 개원 13주년이 된 부천 연세사랑병원은 특히 인공관절 수술과 연골 재생술로 잘 알려진 관절∙척추 병원이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "부천 연세사랑병원은 13일 인공관절수술 분야 권위자인 권세광 병원장(사진)이 18일부터 진료를 시작한다고 밝혔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "권 병원장은 정형외과 전문의로 지난 2008년부터 부천 연세사랑병원에서 병원장을 역임해 왔다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "전문 분야는 스포츠 무릎 손상과 연골 결손, 퇴행성 관절염 등의 무릎질환 및 류마티스 질환이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그동안 약 6000여건의 수술과 시술을 집도하면서 특히 관절경과 인공 관절 수술 분야에 명성을 떨쳤다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "활발한 연구로도 알려져있다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 2015년에는 세계 최고 권위의 미국 정형외과 학회(AAOS)에서 ‘개방형 절골술에 쓰이는 임플란트의 안정성 비교 연구’에 대한 포스터를 발표했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 그 해 9월부터 미국 스탠포드 대학교 메디컬센터에서 visiting 교수 자격으로 스포츠 의학 및 연골재생 연구를 진행했었다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 인공 관절 수술의 권위자로 손꼽히는 스크립스 그린병원(Scripps Green Hospital) Dr. Ezzet 교수와도 활발한 교류를 벌였고, 세계적인 의료기기 회사 스미스앤네퓨(Smith&Nephe)로부터 ‘글로벌 정형외과 의사’로 선정돼, 최근까지 선진 의료 기술에 대한 연구를 지속해왔다.",
+        "sentenceSize": 168
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "올해로 개원 13주년이 된 부천 연세사랑병원은 특히 인공관절 수술과 연골 재생술로 잘 알려진 관절∙척추 병원이다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "부천 연세사랑 진료 시작... 그동안 약 6000여건의 수술로 명성 떨쳐",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

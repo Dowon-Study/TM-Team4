@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194785",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "패션은 문화와 사상의 '상징'",
+    "newsSubTitle": "",
+    "newsContent": "'패션에 대한 문화적 탐구' 란 주제는 얼마나 흥미로운가.\n너무나 통속적이고 대중적인데다가, 개인의 선호도를 넘어서 사회의 문화와 사상을 드러내고 상징하는 과정을 분석하는 것 말이다.\n이 책 『패션의 얼굴』은 여성 의상과 남성 의상에서 화장품, 향수, 패션모델과 잡지에 이르기까지 패션의 영역에 속하는 모든 것을 논의 대상으로 삼고 있다.\n\\\"우리는 옷을 통해 몸을 입는다\\\" 가 이 책이 취하는 기본적인 관점. 그렇기에 사회 관습에 개인을 적응시키는 기제로서 패션을 분석하는 일을 책의 출발점으로 삼고 있다.\n인간의 몸을 사회화.외부화시키는 패션을 '바디 테크닉' 이라고 명명하고 있다.\n이런 몸에 대한 관심은 패션과 몸 사이에 은폐와 노출이라는 숨바꼭질을 만들어 내며 이는 성적 매력을 부여하는 주요한 방법 중의 하나다.\n이 책의 또 다른 장점은 패션사의 이면을 바라볼 수 있도록 해준다는 것이다.\n서구의 유명 디자이너를 중심으로 해 하이패션 위주로 기술된 패션의 역사에, 일상복과 비서구권의 복식을 또 하나의 새로운 주인공으로 등장시키고 있다.\n이처럼 하이패션과 일상패션 사이의 갈등과 긴장 관계를 통한 패션읽기가 흥미롭다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'패션에 대한 문화적 탐구' 란 주제는 얼마나 흥미로운가.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "너무나 통속적이고 대중적인데다가, 개인의 선호도를 넘어서 사회의 문화와 사상을 드러내고 상징하는 과정을 분석하는 것 말이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 책 『패션의 얼굴』은 여성 의상과 남성 의상에서 화장품, 향수, 패션모델과 잡지에 이르기까지 패션의 영역에 속하는 모든 것을 논의 대상으로 삼고 있다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "\\\"우리는 옷을 통해 몸을 입는다\\\" 가 이 책이 취하는 기본적인 관점. 그렇기에 사회 관습에 개인을 적응시키는 기제로서 패션을 분석하는 일을 책의 출발점으로 삼고 있다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "인간의 몸을 사회화.외부화시키는 패션을 '바디 테크닉' 이라고 명명하고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이런 몸에 대한 관심은 패션과 몸 사이에 은폐와 노출이라는 숨바꼭질을 만들어 내며 이는 성적 매력을 부여하는 주요한 방법 중의 하나다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 책의 또 다른 장점은 패션사의 이면을 바라볼 수 있도록 해준다는 것이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "서구의 유명 디자이너를 중심으로 해 하이패션 위주로 기술된 패션의 역사에, 일상복과 비서구권의 복식을 또 하나의 새로운 주인공으로 등장시키고 있다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이처럼 하이패션과 일상패션 사이의 갈등과 긴장 관계를 통한 패션읽기가 흥미롭다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "패션은 그냥 패션이 아니다... 패션의 영역 확장과 그 이면까지 바라보는 책?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

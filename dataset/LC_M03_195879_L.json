@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195879",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "오존 예보제 시행, 4단계로 나눠 하루 4번씩 발표",
+    "newsSubTitle": "",
+    "newsContent": "오존 예보제 시행, 4단계로 나눠 하루 4번씩 발표 오존 예보제 시행이 화제다.\n오존 예보제는 15일 부터 실시된다.\n국립환경과학원은 오존 고농도 기간에 맞춰 오존 예보를 시행한다고 14일 밝혔다.\n예보는 하루 중 최고 농도를 기준으로 좋음, 보통, 나쁨, 매우 나쁨 등 4단계로 구분해 전국 18개 광역시·도(경기도는 북·남부, 강원도는 영서·동 권역으로 세분화)를 대상으로 하루에 오전, 오후 두차례씩 4번 발표된다.\n오존주의보는 1시간 평균 농도 기준 120ppb 이상, 경보는 300ppb 이상, 중대경보는 500ppb 이상일때 내려진다.\n예보등급 나쁨 이상(90ppb) 발생 빈도는 경기남부가 83일(45%)로 빈번했고, 강원 영동권역이 15일(8%)로 가장 적었다.\n오존 예보는 작년 2월부터 시행하고 있는 미세먼지 예보와 마찬가지로 에어코리아 누리집(www.airkorea.or.kr) 또는 스마트폰 앱인 '우리동네 대기질'을 통해 확인할 수 있다. ' 꽃가루 위험예보' 올바른 마스크 사용법 - 황사방지용 마스크를 세탁할 경우 마스크 내에 있는 필터가 물리적으로 손상되거나 기능이 손상되어 황사 성분을 제대로 차단하지 못할 수 있기 때문에 세탁하여 사용하지 말아야 한다.\n- 착용 후 마스크 겉면을 손으로 만지면 마스크에 있는 필터를 손상시킬 수 있어 마스크를 착용한 후에 가능한 만지지 않는 것이 좋다.\n- 일부 여성의 경우 화장이 지워지는 것을 우려하여 수건이나 휴지 등을 덧댄 후 마스크를 사용하는 경우가 있는데, 이는 마스크가 얼굴에 밀착되는 것을 막아 미세먼지의 차단 효과를 떨어트릴 수 있으므로 주의해야 한다.\n- 약국, 마트, 편의점 등에서 ‘황사방지용 마스크’를 구입하고자 하는 경우에는 반드시 제품 용기 또는 포장에 「의약외품」과 ?황사마스크」란 표시를 꼭 확인해야 한다.\n- 의약외품으로 허가 받은 황사방지용 마스크 제품은 식약처 홈페이지에서 확인 할 수 있다.\n식약처에서는 황사마스크가 미세입자의 크기가 평균 0.6 μm인 것을 80% 이상 차단할 수 있어야 허가를 하기 때문에, 식약처에서 허가 받은 황사마스크는 아주 작은 먼지까지 차단할 수 있다.\n또한 황사마스크의 차단효과가 높은 이유는 황사마스크가 일반 보건마스크에 비해 틈이 더 작아 미세먼지와 먼지에 흡착되어 있는 미생물을 잘 걸러내기 때문이다.\n서울시 보건환경연구원에 따르면, 황사마스크는 98% 이상의 미생물을 차단한 반면 일반 보건마스크는 80%의 차단효과를 보였다.\n온라인 중앙일보[사진 식품의약품안전처·중앙포토]'오존 예보제 시행'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오존 예보제 시행, 4단계로 나눠 하루 4번씩 발표 오존 예보제 시행이 화제다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오존 예보제는 15일 부터 실시된다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국립환경과학원은 오존 고농도 기간에 맞춰 오존 예보를 시행한다고 14일 밝혔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "예보는 하루 중 최고 농도를 기준으로 좋음, 보통, 나쁨, 매우 나쁨 등 4단계로 구분해 전국 18개 광역시·도(경기도는 북·남부, 강원도는 영서·동 권역으로 세분화)를 대상으로 하루에 오전, 오후 두차례씩 4번 발표된다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오존주의보는 1시간 평균 농도 기준 120ppb 이상, 경보는 300ppb 이상, 중대경보는 500ppb 이상일때 내려진다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "예보등급 나쁨 이상(90ppb) 발생 빈도는 경기남부가 83일(45%)로 빈번했고, 강원 영동권역이 15일(8%)로 가장 적었다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오존 예보는 작년 2월부터 시행하고 있는 미세먼지 예보와 마찬가지로 에어코리아 누리집(www.airkorea.or.kr) 또는 스마트폰 앱인 '우리동네 대기질'을 통해 확인할 수 있다. ' 꽃가루 위험예보' 올바른 마스크 사용법 - 황사방지용 마스크를 세탁할 경우 마스크 내에 있는 필터가 물리적으로 손상되거나 기능이 손상되어 황사 성분을 제대로 차단하지 못할 수 있기 때문에 세탁하여 사용하지 말아야 한다.",
+        "sentenceSize": 228
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "- 착용 후 마스크 겉면을 손으로 만지면 마스크에 있는 필터를 손상시킬 수 있어 마스크를 착용한 후에 가능한 만지지 않는 것이 좋다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "- 일부 여성의 경우 화장이 지워지는 것을 우려하여 수건이나 휴지 등을 덧댄 후 마스크를 사용하는 경우가 있는데, 이는 마스크가 얼굴에 밀착되는 것을 막아 미세먼지의 차단 효과를 떨어트릴 수 있으므로 주의해야 한다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "- 약국, 마트, 편의점 등에서 ‘황사방지용 마스크’를 구입하고자 하는 경우에는 반드시 제품 용기 또는 포장에 「의약외품」과 ?황사마스크」란 표시를 꼭 확인해야 한다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "- 의약외품으로 허가 받은 황사방지용 마스크 제품은 식약처 홈페이지에서 확인 할 수 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "식약처에서는 황사마스크가 미세입자의 크기가 평균 0.6 μm인 것을 80% 이상 차단할 수 있어야 허가를 하기 때문에, 식약처에서 허가 받은 황사마스크는 아주 작은 먼지까지 차단할 수 있다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "또한 황사마스크의 차단효과가 높은 이유는 황사마스크가 일반 보건마스크에 비해 틈이 더 작아 미세먼지와 먼지에 흡착되어 있는 미생물을 잘 걸러내기 때문이다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "서울시 보건환경연구원에 따르면, 황사마스크는 98% 이상의 미생물을 차단한 반면 일반 보건마스크는 80%의 차단효과를 보였다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "온라인 중앙일보[사진 식품의약품안전처·중앙포토]'오존 예보제 시행'",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "15일부터 시행되는 오존 예보제, 하루 동안 어떻게 발표될까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

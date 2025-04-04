@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194454",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[유태우의서금요법] 당뇨병 개선",
+    "newsSubTitle": "",
+    "newsContent": "당뇨는 이제 국민병이 됐다.\n현재 당뇨병을 앓고 있는 환자만도 400만 명으로 추산된다.\n서금요법은 인체에 나타나는 통증만 해소하는 것이 아니라, 내장과 각 기관의 기능을 조절하는 데도 효과가 크다.\n이런 면에서 당뇨 조절에 서금요법은 매우 유용하다.\n당뇨병 치료를 위해선 인슐린을 직접 주입하거나, 인슐린 저항성을 개선해주는 약물을 쓰고, 보조요법으로 식사와 운동을 권한다.\n하지만 중요한 것은 몸의 각 기관의 기능을 극대화하는 것이다.\n당뇨의 원인이 췌장에서 인슐린 호르몬을 분비하는 베타세포의 기능이 크게 떨어져 있기 때문이다.\n췌장은 다른 오장육부와 밀접하게 관련돼 있어, 인체의 어느 장부가 손상을 받아 균형을 잃으면 결국 췌장에까지 영향을 미친다.\n특히 문제가 되는 것이 자율신경 부조화다.\n스트레스나 환경 요인으로 자율신경이 깨지면 췌장의 미주신경 기능이 저하되고, 그 결과 인슐린 분비에 이상이 생긴다.\n요즘처럼 고온다습한 날씨가 계속되면 불쾌지수가 높아져 교감신경이 크게 항진돼 췌장의 미주신경이 저하된다.\n이 같은 스트레스는 위장장애와 간기능장애를 동반해 췌장 기능을 더욱 떨어뜨린다.\n서금요법으로 당뇨병을 개선하는 원리는 이렇게 항진된 교감신경을 잠재워 자율신경의 균형을 도모하는 것이다.\n특히 위와 간기능의 개선도 중요하다.\n위장기능을 도와주려면 A12, 간기능 항진에 의한 스트레스를 해소하려면 N18, 그리고 췌장의 미주신경을 조절하기 위해선 A10·F19·F4번을 찾는다.\n이 위치에 서암뜸으로 온열자극을 하거나(여러 번 많이 뜨면 좋지만, 지나치게 뜨겁지 않게, 상처 나지 않게 한다), 침봉(금속돌기에 금도금이나 순금·순은 침이 좋다)으로 20∼30초씩 접촉한다.\n가볍게 간헐적인 압박자극을 반복해 20∼30분 이상, 매일 자극한다.\n또 이 부위에 금속돌기로 만든 서암봉을 계속 붙여주면 인슐린 분비에 큰 도움이 된다.\n당뇨환자가 여름을 건강하게 나려면 적당한 온도조절, 음식과 운동도 필수적이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "당뇨는 이제 국민병이 됐다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "현재 당뇨병을 앓고 있는 환자만도 400만 명으로 추산된다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서금요법은 인체에 나타나는 통증만 해소하는 것이 아니라, 내장과 각 기관의 기능을 조절하는 데도 효과가 크다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이런 면에서 당뇨 조절에 서금요법은 매우 유용하다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당뇨병 치료를 위해선 인슐린을 직접 주입하거나, 인슐린 저항성을 개선해주는 약물을 쓰고, 보조요법으로 식사와 운동을 권한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 중요한 것은 몸의 각 기관의 기능을 극대화하는 것이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당뇨의 원인이 췌장에서 인슐린 호르몬을 분비하는 베타세포의 기능이 크게 떨어져 있기 때문이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "췌장은 다른 오장육부와 밀접하게 관련돼 있어, 인체의 어느 장부가 손상을 받아 균형을 잃으면 결국 췌장에까지 영향을 미친다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "특히 문제가 되는 것이 자율신경 부조화다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "스트레스나 환경 요인으로 자율신경이 깨지면 췌장의 미주신경 기능이 저하되고, 그 결과 인슐린 분비에 이상이 생긴다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "요즘처럼 고온다습한 날씨가 계속되면 불쾌지수가 높아져 교감신경이 크게 항진돼 췌장의 미주신경이 저하된다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이 같은 스트레스는 위장장애와 간기능장애를 동반해 췌장 기능을 더욱 떨어뜨린다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "서금요법으로 당뇨병을 개선하는 원리는 이렇게 항진된 교감신경을 잠재워 자율신경의 균형을 도모하는 것이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "특히 위와 간기능의 개선도 중요하다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "위장기능을 도와주려면 A12, 간기능 항진에 의한 스트레스를 해소하려면 N18, 그리고 췌장의 미주신경을 조절하기 위해선 A10·F19·F4번을 찾는다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "이 위치에 서암뜸으로 온열자극을 하거나(여러 번 많이 뜨면 좋지만, 지나치게 뜨겁지 않게, 상처 나지 않게 한다), 침봉(금속돌기에 금도금이나 순금·순은 침이 좋다)으로 20∼30초씩 접촉한다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "가볍게 간헐적인 압박자극을 반복해 20∼30분 이상, 매일 자극한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "또 이 부위에 금속돌기로 만든 서암봉을 계속 붙여주면 인슐린 분비에 큰 도움이 된다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "당뇨환자가 여름을 건강하게 나려면 적당한 온도조절, 음식과 운동도 필수적이다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국민병인 당뇨병, '서금요법'이 당뇨 조절에 매우 유용한다는데... 대체 무엇이길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

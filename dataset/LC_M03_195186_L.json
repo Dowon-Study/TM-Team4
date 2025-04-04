@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195186",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "31년 역사교사 신동필이 제자들을 위해 마련한 책, '창업'",
+    "newsSubTitle": "",
+    "newsContent": "서울 한영고등학교에서 역사 교사로 31년째 재직하고 있는 저자 신동필이 제자들과의 약속을 지키기 위해 쓴 소설 '창업'이 발간됐다. '창업'은 정도전에 대한 소설이다.\n공민왕의 죽음 이후 서른네 살에 유배 길에 나선 정도전은 곧 돌아오겠다는 다짐이 무색하게 10년 동안 유배와 유랑 생활을 하게 된다.\n가난과 수탈에 지친 백성들의 모습을 보고 그들의 눈으로 세상을 보면서 백성을 위한 나라를 세우려는 그의 다짐이 굳어졌다.\n그는 백성을 생각하는 책임 있는 지식인으로 최선을 다했다.\n그 결과 500년 새 왕조의 틀이 만들어졌다.\n국민과 소통하고 국민을 위한 진정한 위정자의 모습이 필요한 이때 정도전의 삶은 이 시대를 살아가는 우리 모두에게 특별한 의미로 다가선다 하겠다.\n저자는 정도전의 삶을 있는 그대로 소설 속에 담기 위해 여러 사료들과 자료들을 참고하였다.\n한국사에 대한 남다른 애정과 30년간 고등학교에서 한국사를 지도한 경험을 바탕으로 창업이라는 제목에 걸맞게 정도전을 잘 담아냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서울 한영고등학교에서 역사 교사로 31년째 재직하고 있는 저자 신동필이 제자들과의 약속을 지키기 위해 쓴 소설 '창업'이 발간됐다. '창업'은 정도전에 대한 소설이다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "공민왕의 죽음 이후 서른네 살에 유배 길에 나선 정도전은 곧 돌아오겠다는 다짐이 무색하게 10년 동안 유배와 유랑 생활을 하게 된다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "가난과 수탈에 지친 백성들의 모습을 보고 그들의 눈으로 세상을 보면서 백성을 위한 나라를 세우려는 그의 다짐이 굳어졌다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 백성을 생각하는 책임 있는 지식인으로 최선을 다했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 결과 500년 새 왕조의 틀이 만들어졌다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "국민과 소통하고 국민을 위한 진정한 위정자의 모습이 필요한 이때 정도전의 삶은 이 시대를 살아가는 우리 모두에게 특별한 의미로 다가선다 하겠다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "저자는 정도전의 삶을 있는 그대로 소설 속에 담기 위해 여러 사료들과 자료들을 참고하였다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한국사에 대한 남다른 애정과 30년간 고등학교에서 한국사를 지도한 경험을 바탕으로 창업이라는 제목에 걸맞게 정도전을 잘 담아냈다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "31년 역사 교사 신동필이 집필한 '창업', 담겨있는 내용은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

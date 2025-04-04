@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193637",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "“게을러서가 아니야”…운동 알레르기, 진짜 존재한다",
+    "newsSubTitle": "",
+    "newsContent": "다이어트를 마음먹었다면, 운동은 필수적이라고 알려졌다.\n매번 헬스장을 등록하고 온갖 핑계를 대며 가지 않는 사람이 많다.\n그런데 운동을 하지 않을 정당한 이유를 가지고 있는 사람들도 있다고 한다.\n해외매체 포퓰러 사이언스(Popular Science)에 따르면 체질적으로 운동하면 알레르기 반응이 나타나는 사람이 있다고 한다.‘운동 유발성 과민증(exercise-induced anaphylaxis)'이라고 불리는 해당 알레르기 반응은 운동 후 피부가 붉어지고 부풀어 오르거나 설사, 두드러기 등 다양한 증상을 동반한다고 한다.\n해당 증상에 대한 논문은 1979년 처음 발표되었다.\n10만 명당 50명꼴로 해당 알레르기 반응을 보인다고 알려졌다.\n만약 운동을 한 뒤 피부에 반점이 나타나거나 구토, 설사 증세 등을 보이면 병원을 방문해 알레르기 검사를 받는 게 좋다고 한다.\n브리검 여성병원(Brigham and Women's Hospital)의 알레르기 전문 의사 마리아 카스텔스(Maria C. Castells) 박사는 해당 알레르기에 대해 \\\"증상에 대한 인식은 높아졌지만 정확한 원인을 파악하기 위해서는 아직 시간이 필요하다”고 했다.\n해당 알레르기 증상이 발현되기까지 소모되는 운동의 강도는 사람마다 다르다.\n보통 신체적으로 건강한 사람이 운동했을 때 알레르기 반응이 일어날 확률이 그렇지 않은 사람에 비해 낮다고 한다.\n운동 유발성 과민증은 운동 전에 먹는 음식과 높은 관련이 있다.\n알레르기 반응을 경험하는 사람 중 30~50%가 음식에 영향을 받는다고 한다.\n밀(wheat)과 조개류(shellfish)가 알레르기를 유발하는 가장 흔한 장본인으로 꼽힌다.\n운동하는 날 아스피린을 먹으면 알레르기 증상이 일어나는 경우도 잦다.\n아스피린을 먹은 후 운동을 하면 혀가 부풀어 오르거나, 소화불량, 현기증이 일어날 수 있다.\n몇몇 여성의 경우 월경주기에 따라 알레르기 반응을 경험하기도 한다.\n높은 수준의 에스트로겐이 알러지 반응을 촉진할 수도 있기 때문이다.\n해당 알레르기 증상을 보이는 사람에게 카스텔스 박사는 수영을 권했다.\n그에 따르며 달리기, 등산, 춤추기 등 모든 운동을 했을 때 해당 알레르기 반응이 나타나지만 수영만큼은 예외라고 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "다이어트를 마음먹었다면, 운동은 필수적이라고 알려졌다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "매번 헬스장을 등록하고 온갖 핑계를 대며 가지 않는 사람이 많다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그런데 운동을 하지 않을 정당한 이유를 가지고 있는 사람들도 있다고 한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "해외매체 포퓰러 사이언스(Popular Science)에 따르면 체질적으로 운동하면 알레르기 반응이 나타나는 사람이 있다고 한다.‘운동 유발성 과민증(exercise-induced anaphylaxis)'이라고 불리는 해당 알레르기 반응은 운동 후 피부가 붉어지고 부풀어 오르거나 설사, 두드러기 등 다양한 증상을 동반한다고 한다.",
+        "sentenceSize": 185
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "해당 증상에 대한 논문은 1979년 처음 발표되었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "10만 명당 50명꼴로 해당 알레르기 반응을 보인다고 알려졌다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "만약 운동을 한 뒤 피부에 반점이 나타나거나 구토, 설사 증세 등을 보이면 병원을 방문해 알레르기 검사를 받는 게 좋다고 한다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "브리검 여성병원(Brigham and Women's Hospital)의 알레르기 전문 의사 마리아 카스텔스(Maria C. Castells) 박사는 해당 알레르기에 대해 \\\"증상에 대한 인식은 높아졌지만 정확한 원인을 파악하기 위해서는 아직 시간이 필요하다”고 했다.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "해당 알레르기 증상이 발현되기까지 소모되는 운동의 강도는 사람마다 다르다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "보통 신체적으로 건강한 사람이 운동했을 때 알레르기 반응이 일어날 확률이 그렇지 않은 사람에 비해 낮다고 한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "운동 유발성 과민증은 운동 전에 먹는 음식과 높은 관련이 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "알레르기 반응을 경험하는 사람 중 30~50%가 음식에 영향을 받는다고 한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "밀(wheat)과 조개류(shellfish)가 알레르기를 유발하는 가장 흔한 장본인으로 꼽힌다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "운동하는 날 아스피린을 먹으면 알레르기 증상이 일어나는 경우도 잦다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "아스피린을 먹은 후 운동을 하면 혀가 부풀어 오르거나, 소화불량, 현기증이 일어날 수 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "몇몇 여성의 경우 월경주기에 따라 알레르기 반응을 경험하기도 한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "높은 수준의 에스트로겐이 알러지 반응을 촉진할 수도 있기 때문이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "해당 알레르기 증상을 보이는 사람에게 카스텔스 박사는 수영을 권했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "그에 따르며 달리기, 등산, 춤추기 등 모든 운동을 했을 때 해당 알레르기 반응이 나타나지만 수영만큼은 예외라고 한다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "운동 안 한다고 '꼰대'처럼 굴지 말자, 운동 알레르기 실제로 존재...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

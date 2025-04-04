@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195721",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "자외선LED 광선치료, 아토피피부염에 효과",
+    "newsSubTitle": "중앙대병원 김범준 교수팀, UV-LED 치료기전 규명",
+    "newsContent": "아토피피부염 치료에 ‘자외선 발광다이오드(UV-LED)’를 이용한 광선 치료 효과와 안정성이 입증된 연구가 나왔다.\n중앙대학교병원(원장 김성덕) 피부과 김범준 교수 연구팀(권태린, 오창택 연구원)은‘인간 각질형성세포에서 종양괴사인자 알파(TNF-α)와 인터페론 감마(IFN-γ)에서 유도된 ICAM-1과 STAT1의 증가를 억제하는 자외선 발광다이오드의 효과'란 제목의 연구 논문을 최근 발표했다.‘자외선 발광다이오드(UV-LED)’는 염증성 피부 질환에 효과가 있는 치료방법 중 하나로 알려져 왔다.\n그러나 임상 효과와 그 치료 작용 기전에 대해서는 정확하게 알려져 있지 않았다.\n김범준 교수팀은 연구를 통해 아토피피부염에 대한 광선 치료 장치로서 자외선 발광다이오드를 이용해 세포와 전임상 실험에서의 안전성과 효능에 대한 가능성을 확인했다.\n연구팀은 인간각질형성세포와 섬유아세포에서 310nm(나노미터) 파장과 340nm(나노미터) 파장의 자외선 발광다이오드에 대한 영향을 실험을 통해 확인했다.\n그 결과 염증성 물질의 발현을 억제하는 것을 확인했다.\n또 아토피피부염이 있는 쥐에 자외선 발광다이오드 광선 치료했더니 경피 수분 손실을 억제하고 긁는 행동과 부종, 홍반, 건조, 가려움증 같은 피부 증상을 완화하는 것을 확인했다.\n김범준 교수는 “이러한 과학적 논리를 기반으로 하여 향후 새로운 광선 치료 요법의 개발에 적용할 수 있을 것으로 기대된다”고 말했다.\n한편, 이번 연구는 서울바이오시스에서 제공한 장비로 서울대학교 재료공학과 서대웅 교수와 함께 연구를 수행했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아토피피부염 치료에 ‘자외선 발광다이오드(UV-LED)’를 이용한 광선 치료 효과와 안정성이 입증된 연구가 나왔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "중앙대학교병원(원장 김성덕) 피부과 김범준 교수 연구팀(권태린, 오창택 연구원)은‘인간 각질형성세포에서 종양괴사인자 알파(TNF-α)와 인터페론 감마(IFN-γ)에서 유도된 ICAM-1과 STAT1의 증가를 억제하는 자외선 발광다이오드의 효과'란 제목의 연구 논문을 최근 발표했다.‘자외선 발광다이오드(UV-LED)’는 염증성 피부 질환에 효과가 있는 치료방법 중 하나로 알려져 왔다.",
+        "sentenceSize": 215
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러나 임상 효과와 그 치료 작용 기전에 대해서는 정확하게 알려져 있지 않았다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김범준 교수팀은 연구를 통해 아토피피부염에 대한 광선 치료 장치로서 자외선 발광다이오드를 이용해 세포와 전임상 실험에서의 안전성과 효능에 대한 가능성을 확인했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연구팀은 인간각질형성세포와 섬유아세포에서 310nm(나노미터) 파장과 340nm(나노미터) 파장의 자외선 발광다이오드에 대한 영향을 실험을 통해 확인했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 결과 염증성 물질의 발현을 억제하는 것을 확인했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 아토피피부염이 있는 쥐에 자외선 발광다이오드 광선 치료했더니 경피 수분 손실을 억제하고 긁는 행동과 부종, 홍반, 건조, 가려움증 같은 피부 증상을 완화하는 것을 확인했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김범준 교수는 “이러한 과학적 논리를 기반으로 하여 향후 새로운 광선 치료 요법의 개발에 적용할 수 있을 것으로 기대된다”고 말했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 이번 연구는 서울바이오시스에서 제공한 장비로 서울대학교 재료공학과 서대웅 교수와 함께 연구를 수행했다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "자외선 LED 광선치료, 아토피피부염에 얼마나 효과적일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

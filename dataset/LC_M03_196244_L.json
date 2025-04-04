@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196244",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Really?] 독감백신, 2월까지 맞아도 괜찮아요",
+    "newsSubTitle": "",
+    "newsContent": "Q 올해는 신종 플루 여파로 독감 백신 가격이 오르고 공급이 늦어져 접종 시기가 예년보다 한 달가량 늦어졌다.\n독감 백신을 너무 이르거나 늦게 맞으면 아무 소용이 없나?\nA 일반적으로 계절성 독감 백신은 9월부터 맞도록 권장된다.\n그해 가을에 독감 백신이 생산되면 가능한한 빨리 접종하는 것이 원칙이다.\n그러나 너무 일찍 백신을 맞으면 약효가 점차 떨어져 몇 달 뒤 독감에 걸릴지 모른다고 우려하는 사람이 많다.\n그러나 그렇지 않다.\n독감 백신 효과는 독감을 약 90% 예방한다.\n보통 접종한 지 2주 후부터 면역력이 생겨 일 년가량 지속된다.\n따라서 남들보다 조금 일찍 맞더라도 상관없다.\n특히 올해 처음 독감 백신을 맞는 유아나 소아는 4주 간격으로 2회 접종받아야 하므로 다른 연령대보다 한발 먼저 백신을 맞는 것이 옳다.\n단 65세 이상 노인은 계절성 독감 백신의 효과가 그리 오래 지속하지 않는다.\n따라서 10월께 백신을 맞는 것이 적당하다(서울대병원 소아청소년과 이환종 교수). 접종 시기를 놓쳤더라도 이듬해 2월까지는 백신을 맞는 것이 좋다.\n계절성 독감이 유행하는 시기가 4월까지 길어졌기 때문이다.\n최근엔 독감이 유행하면 4월에도 백신 접종을 권하는 추세다.\n독감이 한창 돌고 있는 와중이라도 백신 접종을 포기해선 안 된다.\n독감 백신은 늦게라도 맞는 것이 낫다.\n설령 독감 예방엔 실패하더라도 폐렴 등 심각한 합병증을 줄이고, 증상을 경감시키는 데 도움을 주기 때문이다.\n신종 플루 백신도 이와 비슷한 효과를 보일 것으로 기대된다.\n자녀에게 독감 백신을 맞히려 하는데 DPT 백신(디프테리아·백일해·파상풍 예방백신)·MMR(홍역·볼거리·풍진 예방 백신) 백신이나 신종 플루 백신과 일정이 겹칠까 봐 걱정하는 엄마가 많다.\n결론부터 말하면 독감 백신은 신종 플루 백신 등 다른 백신과 함께 놓아도 문제가 안 된다.\n같은 날 맞아도 괜찮다.\n대부분 독감 백신은 사백신이며, 다른 백신의 효과에 영향을 미치지 않는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "Q 올해는 신종 플루 여파로 독감 백신 가격이 오르고 공급이 늦어져 접종 시기가 예년보다 한 달가량 늦어졌다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "독감 백신을 너무 이르거나 늦게 맞으면 아무 소용이 없나?",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "A 일반적으로 계절성 독감 백신은 9월부터 맞도록 권장된다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그해 가을에 독감 백신이 생산되면 가능한한 빨리 접종하는 것이 원칙이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 너무 일찍 백신을 맞으면 약효가 점차 떨어져 몇 달 뒤 독감에 걸릴지 모른다고 우려하는 사람이 많다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 그렇지 않다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "독감 백신 효과는 독감을 약 90% 예방한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "보통 접종한 지 2주 후부터 면역력이 생겨 일 년가량 지속된다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "따라서 남들보다 조금 일찍 맞더라도 상관없다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "특히 올해 처음 독감 백신을 맞는 유아나 소아는 4주 간격으로 2회 접종받아야 하므로 다른 연령대보다 한발 먼저 백신을 맞는 것이 옳다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "단 65세 이상 노인은 계절성 독감 백신의 효과가 그리 오래 지속하지 않는다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "따라서 10월께 백신을 맞는 것이 적당하다(서울대병원 소아청소년과 이환종 교수). 접종 시기를 놓쳤더라도 이듬해 2월까지는 백신을 맞는 것이 좋다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "계절성 독감이 유행하는 시기가 4월까지 길어졌기 때문이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "최근엔 독감이 유행하면 4월에도 백신 접종을 권하는 추세다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "독감이 한창 돌고 있는 와중이라도 백신 접종을 포기해선 안 된다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "독감 백신은 늦게라도 맞는 것이 낫다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "설령 독감 예방엔 실패하더라도 폐렴 등 심각한 합병증을 줄이고, 증상을 경감시키는 데 도움을 주기 때문이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "신종 플루 백신도 이와 비슷한 효과를 보일 것으로 기대된다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "자녀에게 독감 백신을 맞히려 하는데 DPT 백신(디프테리아·백일해·파상풍 예방백신)·MMR(홍역·볼거리·풍진 예방 백신) 백신이나 신종 플루 백신과 일정이 겹칠까 봐 걱정하는 엄마가 많다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "결론부터 말하면 독감 백신은 신종 플루 백신 등 다른 백신과 함께 놓아도 문제가 안 된다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "같은 날 맞아도 괜찮다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "대부분 독감 백신은 사백신이며, 다른 백신의 효과에 영향을 미치지 않는다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "[독감 백신 QnA] 독감 백신, 지금 맞아도 괜찮을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

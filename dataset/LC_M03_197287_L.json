@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197287",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[행복한 책읽기] '월간중앙 7월호'",
+    "newsSubTitle": "집중해부 '청와대 120일'",
+    "newsContent": "월간중앙 7월호/중앙일보 시사 미디어, 1만원 대통령의 통치 스타일, 시스템, 인맥, 정보의 흐름 등 4대 관점에서 노무현의 국정실험 1백20일을 집중 해부한 '청와대 믿어도 됩니까'가 월간중앙 7월호의 머릿기사다.\n노무현 대통령의 측근 중의 측근인 이광재 국정상황실장의 파워를 분석한 기사와 비서관.행정관급 이상 3백여명의 청와대 인맥을 꼼꼼히 분석한 '청와대 인맥 대연구'도 특집(5백매)에 무게를 더한다.\n노정부의 청와대 조직개편의 기초를 제공한 것으로 알려진 박세일 교수와 DJ 정부 시절 박준영, 이태복 전 청와대 수석들도 현 청와대의 운용과 시스템에 대해 깊이 있는 충고를 했다.\n최근 삐걱거리는 청와대를 비판적으로 분석한 이 특집은 현 정부의 정권 운용 스타일과 체제를 한눈에 파악할 수 있게 한다.\n낮은 국방 예산에 따른 심각한 현실을 해부한 '문민 10년! 군은 가난하다'도 이번 호 월간중앙이 역점적으로 내세운 심층 기획이다.\n한때 GDP의 6%였던 국방비가 DJ 정부 시절 2%대로 떨어지면서 군의 전투력.사기.복지 등이 심각하게 후퇴한 현상을 정밀하게 분석했다.\n국회의원 2백3명의 홈페이지를 평가, 순위를 매긴 월간중앙 정치개혁포럼의 특별기획도 월간중앙 7월호의 야심작이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "월간중앙 7월호/중앙일보 시사 미디어, 1만원 대통령의 통치 스타일, 시스템, 인맥, 정보의 흐름 등 4대 관점에서 노무현의 국정실험 1백20일을 집중 해부한 '청와대 믿어도 됩니까'가 월간중앙 7월호의 머릿기사다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "노무현 대통령의 측근 중의 측근인 이광재 국정상황실장의 파워를 분석한 기사와 비서관.행정관급 이상 3백여명의 청와대 인맥을 꼼꼼히 분석한 '청와대 인맥 대연구'도 특집(5백매)에 무게를 더한다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "노정부의 청와대 조직개편의 기초를 제공한 것으로 알려진 박세일 교수와 DJ 정부 시절 박준영, 이태복 전 청와대 수석들도 현 청와대의 운용과 시스템에 대해 깊이 있는 충고를 했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최근 삐걱거리는 청와대를 비판적으로 분석한 이 특집은 현 정부의 정권 운용 스타일과 체제를 한눈에 파악할 수 있게 한다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "낮은 국방 예산에 따른 심각한 현실을 해부한 '문민 10년! 군은 가난하다'도 이번 호 월간중앙이 역점적으로 내세운 심층 기획이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한때 GDP의 6%였던 국방비가 DJ 정부 시절 2%대로 떨어지면서 군의 전투력.사기.복지 등이 심각하게 후퇴한 현상을 정밀하게 분석했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "국회의원 2백3명의 홈페이지를 평가, 순위를 매긴 월간중앙 정치개혁포럼의 특별기획도 월간중앙 7월호의 야심작이다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국방비가 GDP 2%까지 떨어지면, 서울 불바다는 현실이 된다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

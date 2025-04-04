@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199048",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "'파인애플 피자' 논쟁 또 시작?…고든 램지 트윗 보니",
+    "newsSubTitle": "",
+    "newsContent": "세계 유명 셰프이자 레스토랑 경영자 고든 램지(Gordon Ramsay)의 트윗이 화제가 됐다.\n고든 램지는 지난 4일 자신의 트위터 계정에 한 트위터리안이 남긴 글에 \\\"파인애플은 피자 위에 올라가지 않는다\\\"고 답글을 남겼다.\n이 트위터리안은 앞서 고든 램지를 태그한 뒤 \\\"피자는 창조성과 독창성에서 비롯됐다\\\"며 피자 토핑에는 제한이 없음을 강조하는 내용의 게시물을 올렸다.\n파인애플 토핑을 인정해야 한다는 취지다.\n파인애플 토핑을 인정하지 않는 고든 램지의 입장은 한동안 잠잠했던 파인애플 피자 논쟁을 부추겼다.\n그의 트윗은 5일 오후 5시 기준 11만9000여개의 '좋아요'와 4000여개의 댓글이 달리며 큰 관심을 받고 있다.\n파인애플 피자 논쟁은 지난 2월 \\\"파인애플 토핑을 법으로 금지하고 싶다\\\"는 귀드니 요하네손 아이슬란드 대통령의 발언에서 시작됐다. '따뜻한 파인애플' 특유의 식감으로 이미 호불호가 갈렸던 터라 대통령의 이 같은 발언은 큰 관심을 불러일으켰다.\n귀드니 요하네손 대통령은 이에 \\\"나는 파인애플 토핑을 금지하는 법을 만들 권한이 없고, 그런 권한을 가지고 싶지도 않다\\\"고 해명하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세계 유명 셰프이자 레스토랑 경영자 고든 램지(Gordon Ramsay)의 트윗이 화제가 됐다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "고든 램지는 지난 4일 자신의 트위터 계정에 한 트위터리안이 남긴 글에 \\\"파인애플은 피자 위에 올라가지 않는다\\\"고 답글을 남겼다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 트위터리안은 앞서 고든 램지를 태그한 뒤 \\\"피자는 창조성과 독창성에서 비롯됐다\\\"며 피자 토핑에는 제한이 없음을 강조하는 내용의 게시물을 올렸다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "파인애플 토핑을 인정해야 한다는 취지다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "파인애플 토핑을 인정하지 않는 고든 램지의 입장은 한동안 잠잠했던 파인애플 피자 논쟁을 부추겼다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그의 트윗은 5일 오후 5시 기준 11만9000여개의 '좋아요'와 4000여개의 댓글이 달리며 큰 관심을 받고 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "파인애플 피자 논쟁은 지난 2월 \\\"파인애플 토핑을 법으로 금지하고 싶다\\\"는 귀드니 요하네손 아이슬란드 대통령의 발언에서 시작됐다. '따뜻한 파인애플' 특유의 식감으로 이미 호불호가 갈렸던 터라 대통령의 이 같은 발언은 큰 관심을 불러일으켰다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "귀드니 요하네손 대통령은 이에 \\\"나는 파인애플 토핑을 금지하는 법을 만들 권한이 없고, 그런 권한을 가지고 싶지도 않다\\\"고 해명하기도 했다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "피자 토핑으로 적합한지 여부에 의견이 엇갈리는 '이 과일'... 여러분의 생각은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

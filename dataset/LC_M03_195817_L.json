@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195817",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "메르스 현황, 메르스 환자 4명 늘어 총179명…'수퍼 전파자' 감염 고리 계속",
+    "newsSubTitle": "",
+    "newsContent": "'메르스 현황' 환자 4명 늘어 메르스 현황, 메르스 환자 4명 늘어 총 179명 '수퍼 전파자' 감염 계속 중동호흡기증후군(MERSㆍ메르스) 확진자가 4명 늘어 179명이 됐다.\n14번과 76번 같은 ‘수퍼 전파자’의 감염 고리가 끊기지 않고 있다.\n중앙메르스관리대책본부는 건국대병원과 삼성서울병원, 평택박애병원, 강릉의료원에서 추가 환자가 나왔다고 24일 밝혔다.\n176번 환자(51)는 지난 6일 건국대병원에서 76번 환자(75·여·사망)와 같은 병동에 입원했다 감염됐고, 177번 환자(50·여)는 지난달 27~29일 삼성서울병원 응급실에서 14번 환자(35)에게 감염됐다.\n178번(29)은 평택박애병원에 입원한 환자의 가족이고, 179번(54·여)은 강릉의료원 간호사로 격리 병동에서 치료를 맡았던 96·97·132번 확진자에게 노출된 것으로 추정된다.\n강릉의료원에서 환자가 발생한 것은 이번이 처음이다.\n178번 환자와 179번 환자에 대해선 추가 조사가 진행중이다.\n완치 후 퇴원자는 67명이 됐다.\n포항 지역 교사인 131번 환자(59)와 중국 국적의 93번 환자(64·여) 등 13명이 22~23일 완치 판정을 받고 병원을 나섰다.\n추가 사망자는 없었다.\n격리 대상자는 3103명으로 전날보다 298명 늘었다.\n격리 해제는 1만1210명이다.\n상태가 불안정한 환자는 16명이다. '메르스 현황' 환자 4명 늘어 온라인 중앙일보 '메르스 현황' 환자 4명 늘어",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'메르스 현황' 환자 4명 늘어 메르스 현황, 메르스 환자 4명 늘어 총 179명 '수퍼 전파자' 감염 계속 중동호흡기증후군(MERSㆍ메르스) 확진자가 4명 늘어 179명이 됐다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "14번과 76번 같은 ‘수퍼 전파자’의 감염 고리가 끊기지 않고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "중앙메르스관리대책본부는 건국대병원과 삼성서울병원, 평택박애병원, 강릉의료원에서 추가 환자가 나왔다고 24일 밝혔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "176번 환자(51)는 지난 6일 건국대병원에서 76번 환자(75·여·사망)와 같은 병동에 입원했다 감염됐고, 177번 환자(50·여)는 지난달 27~29일 삼성서울병원 응급실에서 14번 환자(35)에게 감염됐다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "178번(29)은 평택박애병원에 입원한 환자의 가족이고, 179번(54·여)은 강릉의료원 간호사로 격리 병동에서 치료를 맡았던 96·97·132번 확진자에게 노출된 것으로 추정된다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "강릉의료원에서 환자가 발생한 것은 이번이 처음이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "178번 환자와 179번 환자에 대해선 추가 조사가 진행중이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "완치 후 퇴원자는 67명이 됐다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "포항 지역 교사인 131번 환자(59)와 중국 국적의 93번 환자(64·여) 등 13명이 22~23일 완치 판정을 받고 병원을 나섰다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "추가 사망자는 없었다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "격리 대상자는 3103명으로 전날보다 298명 늘었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "격리 해제는 1만1210명이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "상태가 불안정한 환자는 16명이다. '메르스 현황' 환자 4명 늘어 온라인 중앙일보 '메르스 현황' 환자 4명 늘어",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "메르스 확진자 추가 발생 `슈퍼 전파자` 감염 고리 끊기지 않는 이유는? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

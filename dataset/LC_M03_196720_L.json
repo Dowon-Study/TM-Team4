@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196720",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[라이프 트렌드] 종근당건강 ‘프로메가 올케어’ 중년 이후 건강에 필요한 여섯 가지 기능 함유",
+    "newsSubTitle": "",
+    "newsContent": "종근당건강은 중·노년층에 필요한 신진대사를 종합적으로 관리할 수 있는 건강기능식품 ‘프로메가 올케어’(사진)를 출시했다.\n건강기능식품 기능성 원료인 오메가3, 녹차 추출물, 코엔자임Q10 등이 여섯 가지 기능을 발휘한다.\n오메가3는 핵심 성분인 EPA·DHA가 ‘혈중 중성지질 개선’ ‘혈행 개선’을 담당한다.\n녹차 추출물은 ‘체지방 감소’ ‘혈중 콜레스테롤 개선’에, 코엔자임Q10은 ‘높은 혈압 감소’에 효과가 있다.\n또한 녹차 추출물 및 코엔자임Q10은 ‘항산화’에 도움이 될 수 있다.\n한번에 캡슐 두 알을 충분한 물과 함께 섭취하면 된다.\n오메가3는 공기·온도·습도·빛에 의해 쉽게 산패되는 단점이 있다.\n그래서 이 제품은 PTP라는 개별포장 방식을 적용해 외부 환경과의 반응을 최소화했다.\n종근당건강은 ‘프로메가 올케어’ 출시를 기념해 이달 17~25일 선착순 500명에게 할인된 가격으로 제품을 판매한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "종근당건강은 중·노년층에 필요한 신진대사를 종합적으로 관리할 수 있는 건강기능식품 ‘프로메가 올케어’(사진)를 출시했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "건강기능식품 기능성 원료인 오메가3, 녹차 추출물, 코엔자임Q10 등이 여섯 가지 기능을 발휘한다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오메가3는 핵심 성분인 EPA·DHA가 ‘혈중 중성지질 개선’ ‘혈행 개선’을 담당한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "녹차 추출물은 ‘체지방 감소’ ‘혈중 콜레스테롤 개선’에, 코엔자임Q10은 ‘높은 혈압 감소’에 효과가 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 녹차 추출물 및 코엔자임Q10은 ‘항산화’에 도움이 될 수 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한번에 캡슐 두 알을 충분한 물과 함께 섭취하면 된다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오메가3는 공기·온도·습도·빛에 의해 쉽게 산패되는 단점이 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그래서 이 제품은 PTP라는 개별포장 방식을 적용해 외부 환경과의 반응을 최소화했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "종근당건강은 ‘프로메가 올케어’ 출시를 기념해 이달 17~25일 선착순 500명에게 할인된 가격으로 제품을 판매한다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "종근당건강 ‘프로메가 올케어’ 건강에 필요한 수십 가지 기능 함유... 무료에 가까운 가격",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

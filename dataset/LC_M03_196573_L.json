@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196573",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "독일 부부 사진작가 베허 展",
+    "newsSubTitle": "20세기가 녹아있는 메마른 공장 풍경들",
+    "newsContent": "풀밭 위에 거대한 병들이 솟아난 듯 보이는 사진에 '산업이 있는 풍경'이란 제목이 붙어있다.\n철제 원통과 대형 관들이 늘어선 대규모 공장단지, 삼각 뾰족 지붕이 닮은꼴을 한 주택가 모습은 건조하기 짝이 없다.\n메마른 회색 표면, 일말의 감정이나 한 치의 서정성이 침투할 여백을 안 주는 사물의 침묵이 화면을 엄숙하게 지배하고 있다.\n서울 화동 pkm 갤러리 지하와 1, 2층 벽면을 메운 흑백 사진들은 지루할 만큼 단조롭지만 보는 이를 질리게 할 정도로 강력하다.\n공장 사진으로 이름난 독일의 부부사진가 베른트 베허(73)와 힐라 베허(70)가 1962년부터 2000년 사이 찍은 대표작 44점을 선보이는 이번 전시회는 독일 현대사진이 어디에서 출발했는가를 보여준다.\n이 부부작가는 59년부터 공동 작업을 시작해 현대 사진사에 한 계보를 이룬 것으로 유명하다.\n토마스 슈트루트, 토마스 루프, 안드레아스 구르스키 등 오늘날 독일을 대표하는 사진가를 길러낸 것도 베허 부부다.\n베허 부부가 찍은 공장과 탄광 등 산업 건축물 연작은 20세기를 상징하는 시대적 이미지다.\n기록성을 넘어서는 역사적 인식과 일관된 시대 정신이 이들 사진을 개념주의 미술의 위치로 끌어올린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "풀밭 위에 거대한 병들이 솟아난 듯 보이는 사진에 '산업이 있는 풍경'이란 제목이 붙어있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "철제 원통과 대형 관들이 늘어선 대규모 공장단지, 삼각 뾰족 지붕이 닮은꼴을 한 주택가 모습은 건조하기 짝이 없다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "메마른 회색 표면, 일말의 감정이나 한 치의 서정성이 침투할 여백을 안 주는 사물의 침묵이 화면을 엄숙하게 지배하고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서울 화동 pkm 갤러리 지하와 1, 2층 벽면을 메운 흑백 사진들은 지루할 만큼 단조롭지만 보는 이를 질리게 할 정도로 강력하다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "공장 사진으로 이름난 독일의 부부사진가 베른트 베허(73)와 힐라 베허(70)가 1962년부터 2000년 사이 찍은 대표작 44점을 선보이는 이번 전시회는 독일 현대사진이 어디에서 출발했는가를 보여준다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 부부작가는 59년부터 공동 작업을 시작해 현대 사진사에 한 계보를 이룬 것으로 유명하다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "토마스 슈트루트, 토마스 루프, 안드레아스 구르스키 등 오늘날 독일을 대표하는 사진가를 길러낸 것도 베허 부부다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "베허 부부가 찍은 공장과 탄광 등 산업 건축물 연작은 20세기를 상징하는 시대적 이미지다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "기록성을 넘어서는 역사적 인식과 일관된 시대 정신이 이들 사진을 개념주의 미술의 위치로 끌어올린다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서울 화동 pkm 갤러리를 싹 뒤덮은 베허의 사진",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

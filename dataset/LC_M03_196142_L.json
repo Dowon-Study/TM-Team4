@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196142",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "과식을 부르는 음식 6가지…\\\"내가 살 찌는 이유가 여기에\\\"",
+    "newsSubTitle": "",
+    "newsContent": "과식을 부르는 음식 6가지가 소개됐다.\n최근 미국의 인터넷 매체 ‘더스트리스닷컴’은 식욕을 촉진시켜 더 많이 먹게 만드는 ‘과식을 부르는 음식 6가지’를 소개했다.\n소개된 6가지 음식은 술, 흰 파스타, 프렌치프라이, 피자, 흰빵, 인공 감미료다.\n술은 3잔만 마셔도 식욕억제호르몬인 렙틴을 30%나 줄어들게 한다.\n술은 식욕을 억제하는 뇌 부위인 시상하부에 직접적으로 지장을 줘 고칼로리 음식에 대한 욕구를 증가시킨다.\n흰 파스타는 단순 탄수화물 함유량이 높다.\n단순 탄수화물을 많이 섭취하면 췌장이 인슐린을 만들어내기 위해 발동을 걸고 인슐린이 많아지면 혈당 수치가 떨어져 공복감이 몰려온다.\n패스트푸드점을 통해 쉽게 접할 수 있는 프렌치프라이도 마찬가지다.\n피자는 하얀 밀가루 반죽과 수소 첨가유(경화유), 가공 치즈, 각종 첨가제가 들어가 혈당 수치와 포만 호르몬 분비, 그리고 공복감을 조절하는 뇌 부위에 영향을 준다.\n탄수화물이 혈중 포도당으로 금방 전환되는 지수인 저혈당지수가 높은 음식인 흰 빵도 소화가 금방 되기 때문에 먹고 나서도 배고픔을 느끼게 만든다.\n인공 감미료는 에너지 증강 효과를 얻을 수 없기 때문에 신체는 이를 보충하기 위해 공복감을 만들어 낸다.\n온라인 중앙일보 ‘과식을 부르는 음식’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "과식을 부르는 음식 6가지가 소개됐다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 미국의 인터넷 매체 ‘더스트리스닷컴’은 식욕을 촉진시켜 더 많이 먹게 만드는 ‘과식을 부르는 음식 6가지’를 소개했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소개된 6가지 음식은 술, 흰 파스타, 프렌치프라이, 피자, 흰빵, 인공 감미료다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "술은 3잔만 마셔도 식욕억제호르몬인 렙틴을 30%나 줄어들게 한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "술은 식욕을 억제하는 뇌 부위인 시상하부에 직접적으로 지장을 줘 고칼로리 음식에 대한 욕구를 증가시킨다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "흰 파스타는 단순 탄수화물 함유량이 높다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "단순 탄수화물을 많이 섭취하면 췌장이 인슐린을 만들어내기 위해 발동을 걸고 인슐린이 많아지면 혈당 수치가 떨어져 공복감이 몰려온다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "패스트푸드점을 통해 쉽게 접할 수 있는 프렌치프라이도 마찬가지다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "피자는 하얀 밀가루 반죽과 수소 첨가유(경화유), 가공 치즈, 각종 첨가제가 들어가 혈당 수치와 포만 호르몬 분비, 그리고 공복감을 조절하는 뇌 부위에 영향을 준다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "탄수화물이 혈중 포도당으로 금방 전환되는 지수인 저혈당지수가 높은 음식인 흰 빵도 소화가 금방 되기 때문에 먹고 나서도 배고픔을 느끼게 만든다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "인공 감미료는 에너지 증강 효과를 얻을 수 없기 때문에 신체는 이를 보충하기 위해 공복감을 만들어 낸다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "온라인 중앙일보 ‘과식을 부르는 음식’ [사진 중앙포토]",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "내가 이 음식을 먹고 살쪘다? 과식을 부르는 음식 6가지는 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

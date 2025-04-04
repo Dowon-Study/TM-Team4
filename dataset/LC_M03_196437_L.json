@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196437",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "'화성에서 꿈꾸다' 1회 더 뮤지컬 어워즈 최우수 작품상",
+    "newsSubTitle": "",
+    "newsContent": "잔치는 끝났다.\n제 1회 더 뮤지컬 어워즈(주최 JMnet.한국뮤지컬협회)는 최고의 영예인 최우수 작품상에 '화성에서 꿈꾸다'를 선택했다. '천사의 발톱'은 연출.작곡상 등 주요 4개 부문을 차지, 최다 수상 작품의 영광을 안았다.\n그러나 이날 시상식의 진정한 주인공은 이들 작품이 아닌 무명의 배우들이었다.\n일반인과 매니어들의 심사 참여로 대중적인 스타가 수상할 것이란 예상을 뒤엎고, 시상식의 꽃인 남녀 주연상은 민영기(34)와 김선영(33)에게 돌아갔다.\n뮤지컬계에선 일찍이 실력파로 인정 받고 있었지만 둘은 일반인에겐 낯설기만 한 배우들이다.\n민영기는 한양대 성악과를 나와 오페라부터 출발한, 탄탄한 기본기의 배우였지만 지금껏 뚜렷한 대표작을 만나지 못한 채 미완의 대기로만 남아 있었다.\n김선영 역시 호소력 짙은 목소리로 일본에서도 \\\"이런 배우를 알지 못했다는 것 자체가 이상하다\\\"는 찬사를 받았지만 스타로서 도약하진 못 해 왔다.\n남녀 조연 역시 마찬가지. 남우 조연상을 받은 전병욱(28)은 2003년 데뷔 이후 주로 소극장 무대에서만 활동해 온 신예다.\n여우 조연상의 구원영(28)은 '천사의 발톱'이전까지는 매니어들도 잘 알지 못하던, 철저한 무명이었다.\n\\\"이 작품은 제게 너무 많은 선물을 안겨줬는데 이렇게까지…\\\"라며 떨리는 목소리로 울먹거린 것도 당연했다.\n더 뮤지컬 어워즈는 이런 '무명과 신예의 반란'을 북돋웠다.\n무려 250명에 이르는 심사 위원들은 다단계에 걸친 검증과 상호 견제로 숨겨진 보석을 발굴해 냈다.\n그들은 철저히 실력을 묻고 있었다.\n특히 한국 공연 시상 제도 최초로 도입된 일반인 심사단 200명은 지금껏 공연 심사의 고질적인 폐단인 학연과 지연, 내 사람 감싸기 등의 사슬에서 자유로왔다.\n이들의 표심에 따라 막판 대역전이 벌어지곤 했다.\n심사의 결정적 영향을 미치는 캐스팅 보트의 역할을 충실히 실행했다.\n더 뮤지컬 어워즈의 탄생과 함께 한국 뮤지컬은 '변화'와 '세대교체'를 맞이하게 됐다.\n수상 결과는 이를 그대로 입증하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "잔치는 끝났다.",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "제 1회 더 뮤지컬 어워즈(주최 JMnet.한국뮤지컬협회)는 최고의 영예인 최우수 작품상에 '화성에서 꿈꾸다'를 선택했다. '천사의 발톱'은 연출.작곡상 등 주요 4개 부문을 차지, 최다 수상 작품의 영광을 안았다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러나 이날 시상식의 진정한 주인공은 이들 작품이 아닌 무명의 배우들이었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "일반인과 매니어들의 심사 참여로 대중적인 스타가 수상할 것이란 예상을 뒤엎고, 시상식의 꽃인 남녀 주연상은 민영기(34)와 김선영(33)에게 돌아갔다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "뮤지컬계에선 일찍이 실력파로 인정 받고 있었지만 둘은 일반인에겐 낯설기만 한 배우들이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "민영기는 한양대 성악과를 나와 오페라부터 출발한, 탄탄한 기본기의 배우였지만 지금껏 뚜렷한 대표작을 만나지 못한 채 미완의 대기로만 남아 있었다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김선영 역시 호소력 짙은 목소리로 일본에서도 \\\"이런 배우를 알지 못했다는 것 자체가 이상하다\\\"는 찬사를 받았지만 스타로서 도약하진 못 해 왔다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "남녀 조연 역시 마찬가지. 남우 조연상을 받은 전병욱(28)은 2003년 데뷔 이후 주로 소극장 무대에서만 활동해 온 신예다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "여우 조연상의 구원영(28)은 '천사의 발톱'이전까지는 매니어들도 잘 알지 못하던, 철저한 무명이었다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "\\\"이 작품은 제게 너무 많은 선물을 안겨줬는데 이렇게까지…\\\"라며 떨리는 목소리로 울먹거린 것도 당연했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "더 뮤지컬 어워즈는 이런 '무명과 신예의 반란'을 북돋웠다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "무려 250명에 이르는 심사 위원들은 다단계에 걸친 검증과 상호 견제로 숨겨진 보석을 발굴해 냈다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그들은 철저히 실력을 묻고 있었다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "특히 한국 공연 시상 제도 최초로 도입된 일반인 심사단 200명은 지금껏 공연 심사의 고질적인 폐단인 학연과 지연, 내 사람 감싸기 등의 사슬에서 자유로왔다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "이들의 표심에 따라 막판 대역전이 벌어지곤 했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "심사의 결정적 영향을 미치는 캐스팅 보트의 역할을 충실히 실행했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "더 뮤지컬 어워즈의 탄생과 함께 한국 뮤지컬은 '변화'와 '세대교체'를 맞이하게 됐다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "수상 결과는 이를 그대로 입증하고 있다.",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대중들에게는 `무명`이었던 뮤지컬 배우들의 놀라운 반란",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196050",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "펠리오 다이어트란, '건강한 고기, 생선, 채소' 구석기 식단!",
+    "newsSubTitle": "",
+    "newsContent": "펠리오 다이어트란 펠리오리틱(paleolithic)의 약자로 가공 식품이 없는 구석기 시대 식단으로 돌아가자는 것을 의미한다.\n펠리오 다이어트는 미국 로렌 코데인 박사가 2011년 12월 ‘펠리오 다이어트’라는 책을 출간하며 선풍적인 인기를 끌었다.\n펠리오 다이어트는 신석기 시대 이후 등장한 식재료인 유제품, 속껍질까지 벗겨낸 가공 곡류, GMO 콩류, 콩기름 등 가공된 기름, 정제된 설탕과 소금, 주류, 커피, 과자, 아이스크림과 패스트푸드 음식을 금지하는 반면 소나 양에게서 직접 짠 우유, 방목해 키운 쇠고기와 닭고기, 생선, 채소는 적극 권장한다.\n또 펠리오 다이어트는 탄수화물을 줄이는 다이어트지 끊는 다이어트가 아니다.\n하루 탄수화물 300g은 섭취해야 한다.\n펠리오 식단을 따르면 별도의 운동을 하지 않아도 살이 빠지지만 건강을 위해 적절한 운동이 권장된다.\n자주 걷고, 1주일에 2∼3회 근육운동과 1회의 전력질주(100m 달리기)면 충분하다.\n온라인 중앙일보 ‘펠리오 다이어트란, 펠리오 다이어트란, 펠리오 다이어트란, 펠리오 다이어트란, 펠리오 다이어트란, 펠리오 다이어트란, 펠리오 다이어트란’",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "펠리오 다이어트란 펠리오리틱(paleolithic)의 약자로 가공 식품이 없는 구석기 시대 식단으로 돌아가자는 것을 의미한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "펠리오 다이어트는 미국 로렌 코데인 박사가 2011년 12월 ‘펠리오 다이어트’라는 책을 출간하며 선풍적인 인기를 끌었다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "펠리오 다이어트는 신석기 시대 이후 등장한 식재료인 유제품, 속껍질까지 벗겨낸 가공 곡류, GMO 콩류, 콩기름 등 가공된 기름, 정제된 설탕과 소금, 주류, 커피, 과자, 아이스크림과 패스트푸드 음식을 금지하는 반면 소나 양에게서 직접 짠 우유, 방목해 키운 쇠고기와 닭고기, 생선, 채소는 적극 권장한다.",
+        "sentenceSize": 172
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 펠리오 다이어트는 탄수화물을 줄이는 다이어트지 끊는 다이어트가 아니다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하루 탄수화물 300g은 섭취해야 한다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "펠리오 식단을 따르면 별도의 운동을 하지 않아도 살이 빠지지만 건강을 위해 적절한 운동이 권장된다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "자주 걷고, 1주일에 2∼3회 근육운동과 1회의 전력질주(100m 달리기)면 충분하다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 ‘펠리오 다이어트란, 펠리오 다이어트란, 펠리오 다이어트란, 펠리오 다이어트란, 펠리오 다이어트란, 펠리오 다이어트란, 펠리오 다이어트란’",
+        "sentenceSize": 86
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'건강한 고기, 생선, 채소'를 이용해 구석기 식단으로 돌아가는 다이어트 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

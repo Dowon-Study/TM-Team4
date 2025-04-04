@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197968",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[이달의웰빙제품] '엔젤리아' 3단 녹즙기",
+    "newsSubTitle": "전 부품 스테인리스 … 내·외부 오염 막아줘",
+    "newsContent": "채소와 과일에는 비타민·미네랄 외에도 파이토케미칼이라고 하는 항산화물질이 함유돼 있다.\n라이코펜·안토시아닌·플라보노이드·카로틴 등 우리에게 익숙한 이들 물질은 노화방지는 물론 최근에는 항암효과까지 밝혀졌다.\n이달의 웰빙제품은 이러한 소비 트렌드에 맞춰 엔젤 녹즙기에서 개발한 ‘엔젤리아’(사진)를 소개한다. ‘엔젤리아’는 3단 착즙시스템(특허 획득)을 갖췄고, 녹즙기 업체 중 유일하게 전 부품을 스테인리스로 만들었다.\n이러한 항균부품이 내·외부 오염을 방지한다.\n또 채소의 푸른 물만 짜는 보통 육즙 수준에서 세계 최초로 다단계 착즙 시스템을 개발, 골수 녹즙까지 추출한다.\n골수 녹즙이란 식물 줄기의 섬유질에 있는 핵심 영양소를 파괴하지 않고, 인체 흡수가 잘 되는 상태로 추출한 것을 말한다.\n채소의 질량이 80% 이상 남기 때문에 영양은 물론 재료를 절약하는 효과도 있다.\n열을 효율적으로 배출하는 특수모터쿨링 시스템을 개발, 제품 수명을 높이고, 저소음과 본체의 온도를 최적 상태로 유지시킬 수 있다.\n현재 미국·영국·호주 등 선진 7개국으로 수출되고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "채소와 과일에는 비타민·미네랄 외에도 파이토케미칼이라고 하는 항산화물질이 함유돼 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "라이코펜·안토시아닌·플라보노이드·카로틴 등 우리에게 익숙한 이들 물질은 노화방지는 물론 최근에는 항암효과까지 밝혀졌다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이달의 웰빙제품은 이러한 소비 트렌드에 맞춰 엔젤 녹즙기에서 개발한 ‘엔젤리아’(사진)를 소개한다. ‘엔젤리아’는 3단 착즙시스템(특허 획득)을 갖췄고, 녹즙기 업체 중 유일하게 전 부품을 스테인리스로 만들었다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이러한 항균부품이 내·외부 오염을 방지한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 채소의 푸른 물만 짜는 보통 육즙 수준에서 세계 최초로 다단계 착즙 시스템을 개발, 골수 녹즙까지 추출한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "골수 녹즙이란 식물 줄기의 섬유질에 있는 핵심 영양소를 파괴하지 않고, 인체 흡수가 잘 되는 상태로 추출한 것을 말한다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "채소의 질량이 80% 이상 남기 때문에 영양은 물론 재료를 절약하는 효과도 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "열을 효율적으로 배출하는 특수모터쿨링 시스템을 개발, 제품 수명을 높이고, 저소음과 본체의 온도를 최적 상태로 유지시킬 수 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "현재 미국·영국·호주 등 선진 7개국으로 수출되고 있다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "시중 녹즙기 중 유일하게 전 부품 스테인리스로 만들어진 `이 제품`!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

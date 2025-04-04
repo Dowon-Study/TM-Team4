@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195656",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "당뇨병 환자, 혈당보다 중요한 것은 '콜레스테롤'",
+    "newsSubTitle": "LDL 1mmol/L 감소할 때마다 관상동맥질환 위험 36% 감소",
+    "newsContent": "세계보건기구(WHO)에 따르면 매 7초에 한 명씩 당뇨병으로 인해 사망한다.\nWHO가 올해 ‘세계 보건의 날’의 주제로 당뇨병을 선정한 이유다.\n우리나라도 상황은 비슷하다.\n국내 당뇨병 환자는 2010년 202만명에서 2015년 252만명으로 5년간 24.6% 증가했다.\n당뇨병 환자 사망원인 80%가 심혈관질환 당뇨병으로 인한 사망의 심각한 원인은 심혈관질환이다.\n제2형 당뇨병 환자의 사망 원인 가운데 80%는 심혈관질환이다.\n고개가 갸우뚱해지는 통계일 수 있으나 이는 당뇨병의 주요 합병증 중 하나가 고지혈증이기 때문이다.\n실제 국내 당뇨병 환자 2명 중 1명(49.5%)은 고지혈증을 동반한다.\n당뇨병 환자가 대사증후군을 함께 갖고 있을 경우 그렇지 않은 환자보다 심혈관질환 발생 위험이 4배 높다는 보고도 있다.\n또 다른 연구에선 당뇨병을 10년 이상 앓은 환자 517명 가운데 절반에 가까운 254명의 관상동맥이 원래보다 50% 이상 좁아져 있는 것으로 나타났다.\n때문에 당뇨병 환자라면 혈당 관리 못지않게 중요한 게 바로 고지혈증 관리다. ‘나쁜 콜레스테롤’로 꼽히는 LDL콜레스테롤 수치를 우선 낮추는 게 급선무다.\n이와 함께 HDL콜레스테롤, 당화혈색소, 수축기혈압, 흡연 등을 함께 관리해야 한다.\n당뇨병 환자가 LDL콜레스테롤을 1mmol/L 감소했을 때 관상동맥질환 발병 위험이 36% 감소한다는 연구결과가 있다.\n당뇨병 환자 콜레스테롤 관리법 나쁜 콜레스테롤을 줄이기 위해선 평소 생활습관 관리가 필수다.\n대한당뇨병학회는 지난 5월 당뇨병 환자의 고지혈증 관리를 위해 적정 체중 유지를 권고했다.\n걷기나 자전거 타기, 수영 같은 유산소 운동을 주 3회 이상, 가볍게 땀에 젖을 정도(30분 이상)로 하는 게 좋다.\n이와 함께 고지혈증 약을 꾸준히 복용하면 큰 도움이 된다.\n당뇨병학회는 초기 약물 치료를 적극 권장한다.\n당뇨병 환자의 고지혈증 관리엔 일반적으로 ‘아토르바스타틴(제품명 리피토)’ 같은 고지혈증 치료제가 사용된다.\n이 치료제는 망막병증, 알부민뇨 같은 합병증이 있거나 흡연, 고혈압과 같은 관상동맥질환 위험요소를 함께 갖고 있는 환자의 심근경색·뇌졸중 위험을 감소시킨다고 미국 식품의약국(FDA)이 승인했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세계보건기구(WHO)에 따르면 매 7초에 한 명씩 당뇨병으로 인해 사망한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "WHO가 올해 ‘세계 보건의 날’의 주제로 당뇨병을 선정한 이유다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "우리나라도 상황은 비슷하다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "국내 당뇨병 환자는 2010년 202만명에서 2015년 252만명으로 5년간 24.6% 증가했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당뇨병 환자 사망원인 80%가 심혈관질환 당뇨병으로 인한 사망의 심각한 원인은 심혈관질환이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "제2형 당뇨병 환자의 사망 원인 가운데 80%는 심혈관질환이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "고개가 갸우뚱해지는 통계일 수 있으나 이는 당뇨병의 주요 합병증 중 하나가 고지혈증이기 때문이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "실제 국내 당뇨병 환자 2명 중 1명(49.5%)은 고지혈증을 동반한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "당뇨병 환자가 대사증후군을 함께 갖고 있을 경우 그렇지 않은 환자보다 심혈관질환 발생 위험이 4배 높다는 보고도 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또 다른 연구에선 당뇨병을 10년 이상 앓은 환자 517명 가운데 절반에 가까운 254명의 관상동맥이 원래보다 50% 이상 좁아져 있는 것으로 나타났다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "때문에 당뇨병 환자라면 혈당 관리 못지않게 중요한 게 바로 고지혈증 관리다. ‘나쁜 콜레스테롤’로 꼽히는 LDL콜레스테롤 수치를 우선 낮추는 게 급선무다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이와 함께 HDL콜레스테롤, 당화혈색소, 수축기혈압, 흡연 등을 함께 관리해야 한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "당뇨병 환자가 LDL콜레스테롤을 1mmol/L 감소했을 때 관상동맥질환 발병 위험이 36% 감소한다는 연구결과가 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "당뇨병 환자 콜레스테롤 관리법 나쁜 콜레스테롤을 줄이기 위해선 평소 생활습관 관리가 필수다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "대한당뇨병학회는 지난 5월 당뇨병 환자의 고지혈증 관리를 위해 적정 체중 유지를 권고했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "걷기나 자전거 타기, 수영 같은 유산소 운동을 주 3회 이상, 가볍게 땀에 젖을 정도(30분 이상)로 하는 게 좋다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이와 함께 고지혈증 약을 꾸준히 복용하면 큰 도움이 된다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "당뇨병학회는 초기 약물 치료를 적극 권장한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "당뇨병 환자의 고지혈증 관리엔 일반적으로 ‘아토르바스타틴(제품명 리피토)’ 같은 고지혈증 치료제가 사용된다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "이 치료제는 망막병증, 알부민뇨 같은 합병증이 있거나 흡연, 고혈압과 같은 관상동맥질환 위험요소를 함께 갖고 있는 환자의 심근경색·뇌졸중 위험을 감소시킨다고 미국 식품의약국(FDA)이 승인했다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "혈당은 잡혔는데… 당뇨병 치료가 더딘 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

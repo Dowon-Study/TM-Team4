@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195010",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[생활 건강] 노인 절반이 '영양실조'",
+    "newsSubTitle": "치아 손상·우울증 등 때문 유동식에 비타민 섭취해야",
+    "newsContent": "노인들의 삶의 질에 가장 영향을 미치는 것이 식생활이다.\n최근 국민건강보험공단이 조사한 결과에 따르면 젊은층은 갈수록 영양과잉인데 비해 60세 이상 노인들은 50% 이상이 영양실조에 걸려 있다.\n경희대병원 가정의학과 원장원 교수는 \\\"어르신 대부분이 만성 영양불량으로 면역력 저하나 골다공증.빈혈에 시달리고 있지만 이를 개선하기 위해 의사나 영양전문가를 찾는 일은 거의 없다\\\"고 말했다.\n노인들이 영양관리를 하지 못하는 이유는 크게 세 가지. 첫째는 혀에서 맛을 감지하는 미뢰와 치아의 손실이다.\n특히 단맛과 짠맛을 감지하지 못해 음식이 씁쓸하고 맛없게 느껴진다.\n또 이가 손상됨으로써 양질의 단백질 공급이나 채소를 통해 얻는 무기질과 비타민 섭취가 어려워져 영양 불균형을 초래한다.\n둘째는 위액 분비와 위의 연동 작용이 약해지는 등 소화력이 떨어지는 것이다.\n다양한 종류의 충분한 음식을 섭취하지 못해 영양부족 상태가 된다.\n셋째는 정서적인 문제. 고립감.무기력, 그리고 우울증이 식욕을 방해한다.\n노인들의 영양을 개선하기 위해 가장 먼저 해야 할 일은 관심이다.\n신체적인 퇴행과 기능 저하를 이해해야 한다는 것. 원교수는 \\\"가정에서 부부 또는 아이 중심의 식단을 차리다보면 어르신들은 식탁에서도 소외받는다\\\"며 \\\"어르신 입맛에 맞는 전통식을 한두 가지 준비하는 배려가 있어야 할 것\\\"이라고 말했다.\n또 떨어진 미각기능을 되살리기 위한 방법으로 약간 쓴맛이 나는 식재료나 강한 향신료도 추천했다.\n소화기관이나 치아가 나쁜 노인들을 위해선 유동식을 준비하되 지방은 최소화하면서 필수 영양소인 단백질과 비타민.무기질(특히 칼슘과 비타민D) 등을 배려해야 한다.\n노인들은 갈증 반응이 느리므로 목이 마르지 않더라도 평소 물을 자주 마시는 것도 추천 대상이다.\n최근에는 영양결핍 노인들을 위한 치료용 보충식도 나와 있어 도움을 받을 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "노인들의 삶의 질에 가장 영향을 미치는 것이 식생활이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 국민건강보험공단이 조사한 결과에 따르면 젊은층은 갈수록 영양과잉인데 비해 60세 이상 노인들은 50% 이상이 영양실조에 걸려 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "경희대병원 가정의학과 원장원 교수는 \\\"어르신 대부분이 만성 영양불량으로 면역력 저하나 골다공증.빈혈에 시달리고 있지만 이를 개선하기 위해 의사나 영양전문가를 찾는 일은 거의 없다\\\"고 말했다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "노인들이 영양관리를 하지 못하는 이유는 크게 세 가지. 첫째는 혀에서 맛을 감지하는 미뢰와 치아의 손실이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 단맛과 짠맛을 감지하지 못해 음식이 씁쓸하고 맛없게 느껴진다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 이가 손상됨으로써 양질의 단백질 공급이나 채소를 통해 얻는 무기질과 비타민 섭취가 어려워져 영양 불균형을 초래한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "둘째는 위액 분비와 위의 연동 작용이 약해지는 등 소화력이 떨어지는 것이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "다양한 종류의 충분한 음식을 섭취하지 못해 영양부족 상태가 된다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "셋째는 정서적인 문제. 고립감.무기력, 그리고 우울증이 식욕을 방해한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "노인들의 영양을 개선하기 위해 가장 먼저 해야 할 일은 관심이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "신체적인 퇴행과 기능 저하를 이해해야 한다는 것. 원교수는 \\\"가정에서 부부 또는 아이 중심의 식단을 차리다보면 어르신들은 식탁에서도 소외받는다\\\"며 \\\"어르신 입맛에 맞는 전통식을 한두 가지 준비하는 배려가 있어야 할 것\\\"이라고 말했다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "또 떨어진 미각기능을 되살리기 위한 방법으로 약간 쓴맛이 나는 식재료나 강한 향신료도 추천했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "소화기관이나 치아가 나쁜 노인들을 위해선 유동식을 준비하되 지방은 최소화하면서 필수 영양소인 단백질과 비타민.무기질(특히 칼슘과 비타민D) 등을 배려해야 한다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "노인들은 갈증 반응이 느리므로 목이 마르지 않더라도 평소 물을 자주 마시는 것도 추천 대상이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "최근에는 영양결핍 노인들을 위한 치료용 보충식도 나와 있어 도움을 받을 수 있다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "생활 건강, 노인 절반이 영양실조... 이유와 예방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

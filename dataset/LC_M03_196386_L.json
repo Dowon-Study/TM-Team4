@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196386",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "“MM유전자 논란 김용선 교수 논문 인간광우병과는 다른 질병 다룬 것”",
+    "newsSubTitle": "신희섭 KIST 센터장 주장",
+    "newsContent": "‘한국인이 유전적으로 인간광우병에 잘 걸린다’는 논란의 시발점이 된 김용선 한림대 교수의 논문은 인간광우병과는 다른 질병을 다룬 논문이라는 주장이 나왔다.\n한국과학기술연구원(KIST)의 신희섭 신경과학센터장(국가과학자)은 8일 연구소에서 진행한 기자간담회에서 “김 교수의 논문은 인간광우병으로 불리는 변형 크로이츠펠트 야코프병(vCJD)에 관한 것이 아니라, 지금까지 감염 경로가 확실하게 규명되지 않은 산발형 크로이츠펠트 야코프병(sCJD)에 관한 것”이라고 말했다.\n한국인이 인간광우병에 잘 걸리고 안 걸리고를 다룬 게 아니라는 것이다.\nvCJD는 광우병에 걸린 소에서 비롯된 질병으로 20대가 주로 걸렸다.\n그러나 sCJD는 우리나라뿐만 아니라 전 세계에서 발병하는 질병으로 50~60대 이상 고령층에서 나타난다.\n한국과학기술한림원이 8일 서울 한국프레스센터에 마련한 원탁토론회에 참석한 양기화 대한의사협회 전문위원도 인간광우병은 인종이나 유전자·연령에 상관없이 발병 확률이 비슷하다고 밝혔다.\n다음은 두 곳에서 과학자들이 밝힌 내용을 쟁점별로 정리했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘한국인이 유전적으로 인간광우병에 잘 걸린다’는 논란의 시발점이 된 김용선 한림대 교수의 논문은 인간광우병과는 다른 질병을 다룬 논문이라는 주장이 나왔다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국과학기술연구원(KIST)의 신희섭 신경과학센터장(국가과학자)은 8일 연구소에서 진행한 기자간담회에서 “김 교수의 논문은 인간광우병으로 불리는 변형 크로이츠펠트 야코프병(vCJD)에 관한 것이 아니라, 지금까지 감염 경로가 확실하게 규명되지 않은 산발형 크로이츠펠트 야코프병(sCJD)에 관한 것”이라고 말했다.",
+        "sentenceSize": 175
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국인이 인간광우병에 잘 걸리고 안 걸리고를 다룬 게 아니라는 것이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "vCJD는 광우병에 걸린 소에서 비롯된 질병으로 20대가 주로 걸렸다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 sCJD는 우리나라뿐만 아니라 전 세계에서 발병하는 질병으로 50~60대 이상 고령층에서 나타난다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한국과학기술한림원이 8일 서울 한국프레스센터에 마련한 원탁토론회에 참석한 양기화 대한의사협회 전문위원도 인간광우병은 인종이나 유전자·연령에 상관없이 발병 확률이 비슷하다고 밝혔다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다음은 두 곳에서 과학자들이 밝힌 내용을 쟁점별로 정리했다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"인간광우병에 걸린 사람은 전부 다 한국인\", 논란된 김용선 교수 논문 해명한 KIST… 하지만 또다시 일어난 반발",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

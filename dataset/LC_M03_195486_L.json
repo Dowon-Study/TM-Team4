@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195486",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "“잠 6시간 이하면 허리둘레 4cm 늘어난다”",
+    "newsSubTitle": "",
+    "newsContent": "수면시간이 부족하면 허리에 살이 더 찌는 등 건강에 부정적인 영향을 미칠 수 있다는 연구결과가 나왔다.\n영국 리즈(Leeds) 대학 의대의 로라 하디 분자역학 교수 연구팀이 성인 남녀 1615명을 대상으로 수면시간, 체질량지수(BMI: 체중을 신장의 제곱으로 나눈 수치), 허리굴레, 식습관을 조사하고 혈압, 혈당, 혈중 콜레스테롤, 갑상선 기능을 측정한 결과 이 같은 사실이 밝혀졌다고 헬스데이 뉴스가 5일(현지시간) 보도했다.\n연구에 따르면 수면시간이 하루 평균 5.9시간인 사람은 8.4시간인 사람에 비해 허리둘레가 4cm 길고(95cm대 91cm) BMI가 1.5 높은 (28.6대 27.1) 것으로 나타났다.\n하루 수면시간이 1시간 늘어날 때마다 허리둘레는 0.8cm 짧아지고 BMI는 0.5 낮아지는 것으로 분석됐다.\n이는 성별, 연령, 인종, 사회경제적 지위, 흡연 등 다른 변수들을 고려한 것이다.\n연구에 의하면 짧은 수면시간과 식습관 사이에는 연관성이 없는 것으로 나타났다.\n이는 잠이 부족하면 고지방, 고당분 음식을 찾게 된다는 과거의 연구결과들과는 맞지 않는 것이다.\n수면시간이 5.5시간 이하인 사람은 7시간 이상 자는 사람에 비해 하루 평균 385㎈를 더 먹는다는 조사결과도 있다.\n만약 수면 부족과 나쁜 식습관 사이에 연관이 없는 것이 확실하다면 수면 부족에 의한 부정적인 결과들이 식습관이 아닌 다른 이유 때문일 수 있다.\n그 다른 이유로 하디 교수는 대사속도 저하 가능성을 지목했다.\n이 연구결과는 온라인 과학전문지 ‘공공과학도서관’(PLoS One)에 실렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "수면시간이 부족하면 허리에 살이 더 찌는 등 건강에 부정적인 영향을 미칠 수 있다는 연구결과가 나왔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영국 리즈(Leeds) 대학 의대의 로라 하디 분자역학 교수 연구팀이 성인 남녀 1615명을 대상으로 수면시간, 체질량지수(BMI: 체중을 신장의 제곱으로 나눈 수치), 허리굴레, 식습관을 조사하고 혈압, 혈당, 혈중 콜레스테롤, 갑상선 기능을 측정한 결과 이 같은 사실이 밝혀졌다고 헬스데이 뉴스가 5일(현지시간) 보도했다.",
+        "sentenceSize": 182
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구에 따르면 수면시간이 하루 평균 5.9시간인 사람은 8.4시간인 사람에 비해 허리둘레가 4cm 길고(95cm대 91cm) BMI가 1.5 높은 (28.6대 27.1) 것으로 나타났다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하루 수면시간이 1시간 늘어날 때마다 허리둘레는 0.8cm 짧아지고 BMI는 0.5 낮아지는 것으로 분석됐다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이는 성별, 연령, 인종, 사회경제적 지위, 흡연 등 다른 변수들을 고려한 것이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구에 의하면 짧은 수면시간과 식습관 사이에는 연관성이 없는 것으로 나타났다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이는 잠이 부족하면 고지방, 고당분 음식을 찾게 된다는 과거의 연구결과들과는 맞지 않는 것이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "수면시간이 5.5시간 이하인 사람은 7시간 이상 자는 사람에 비해 하루 평균 385㎈를 더 먹는다는 조사결과도 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "만약 수면 부족과 나쁜 식습관 사이에 연관이 없는 것이 확실하다면 수면 부족에 의한 부정적인 결과들이 식습관이 아닌 다른 이유 때문일 수 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그 다른 이유로 하디 교수는 대사속도 저하 가능성을 지목했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 연구결과는 온라인 과학전문지 ‘공공과학도서관’(PLoS One)에 실렸다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "굶지 않고 허리둘레를 줄이는 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

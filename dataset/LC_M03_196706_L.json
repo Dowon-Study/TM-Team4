@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196706",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[라이프 트렌드] 피부 지키는 저분자 콜라겐 뉴트리 '에버콜라겐 인&업'",
+    "newsSubTitle": "",
+    "newsContent": "건강기능식품 전문기업 뉴트리(NEWTREE)가 이달 30일까지 ‘에버콜라겐 인&업’(사진)을 할인 판매한다.\n이 제품은 2013년 식품의약품안전처에서 ‘피부의 보습, 건강을 유지하는 데 도움을 줄 수 있음’으로 기능성을 인정받은 제품이다.\n인체시험을 통해 피부 변화를 직접 확인한 저분자 콜라겐 펩타이드 제품으로 국내에서 처음으로 식약처 이중 복합 기능성을 인정받기도 했다.\n저분자 콜라겐 펩타이드는 자외선으로 손상된 피부 치유에도 도움을 줄 수 있다.\n이 제품은 한국인 40~60세를 대상으로 12주 동안 저분자 콜라겐 펩타이드를 인체에 적용하는 시험 결과, 주름·탄력·보습 개선에 도움이 되는 것으로 확인됐다.\n제품에는 콜라겐 트리펩타이드 성분이 15% 이상 함유됐다.\n주성분인 저분자 콜라겐 트리펩타이드뿐 아니라 비타민C와 비오틴을 포함하고, 부원료로 피부 진피의 주요 구성 성분인 히알루론산과 엘라스틴도 함유한다.\n제품은 하루에 한 번 3정을 물과 함께 섭취하면 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "건강기능식품 전문기업 뉴트리(NEWTREE)가 이달 30일까지 ‘에버콜라겐 인&업’(사진)을 할인 판매한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 제품은 2013년 식품의약품안전처에서 ‘피부의 보습, 건강을 유지하는 데 도움을 줄 수 있음’으로 기능성을 인정받은 제품이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "인체시험을 통해 피부 변화를 직접 확인한 저분자 콜라겐 펩타이드 제품으로 국내에서 처음으로 식약처 이중 복합 기능성을 인정받기도 했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "저분자 콜라겐 펩타이드는 자외선으로 손상된 피부 치유에도 도움을 줄 수 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 제품은 한국인 40~60세를 대상으로 12주 동안 저분자 콜라겐 펩타이드를 인체에 적용하는 시험 결과, 주름·탄력·보습 개선에 도움이 되는 것으로 확인됐다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "제품에는 콜라겐 트리펩타이드 성분이 15% 이상 함유됐다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "주성분인 저분자 콜라겐 트리펩타이드뿐 아니라 비타민C와 비오틴을 포함하고, 부원료로 피부 진피의 주요 구성 성분인 히알루론산과 엘라스틴도 함유한다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "제품은 하루에 한 번 3정을 물과 함께 섭취하면 된다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'에버콜라겐 인&업' 하나면 비싼 보톡스 없이 20대 피부로 회춘",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

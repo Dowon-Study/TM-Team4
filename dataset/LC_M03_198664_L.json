@@ -1,0 +1,303 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198664",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 코로나19 백신 접종은 사회적 건강 디딤돌",
+    "newsSubTitle": "기고",
+    "newsContent": "우리나라에 첫 신종 코로나바이러스 감염증(코로나19) 확진자가 나온 지 1년이 넘었다.\n그동안 12만 명이 넘는 환자와 1800명이 넘는 사망자가 발생했다.\n피해가 작지 않지만 전 세계 상황에 비해 상대적으로 선방해 왔다.\n월드오미터의 자료에 따르면 인구 100만 명당 확진자 수는 158위, 사망자 수는 152위다.\n이는 힘든 시기를 버티며 거리두기에 참여해 온 국민 덕분이다.\n그런데 국내외 코로나19 상황이 다양하게 변하고 있다.\n전 세계 일일 신규 확진자 규모는 지난해 12월 정점을 넘어 더 커져가고 있지만 국가마다 상황은 다르다.\n인도나 일본처럼 걷잡을 수 없는 곳도 있고 이스라엘이나 영국 같이 잦아드는 곳도 있다.\n여기에는 사회적 활동 정도, 거리두기 같은 방역 수칙 적용 수준, 바이러스 변이, 코로나19 백신 종류와 접종률 등이 영향을 미친다.\n우리는 사회적 거리두기로 위험을 비교적 잘 통제해 왔다.\n그리고 그 가치는 변이라는 불확실성에도 유의미하다.\n하지만 강력한 거리두기 지속은 매우 어렵다.\n지난해 대비 현재 우리의 위기감이나 경각심은 절대 같지 않다.\n거리두기 단계 유지에도 사회적 활동은 많이 늘었다.\n같은 단계의 거리두기로 더 이상 같은 수준의 효과를 기대하기 어려울뿐더러 거리두기를 계속 강화하기도 어렵다.\n많은 피해를 감내해 온 이들에게 희생을 계속 요구할 수는 없는 일이다.\n결국 접촉과 만남은 늘어날 수밖에 없다.\n그럼에도 코로나19의 위험이 늘지 않을 방법이 있을까.\n코로나19 백신이 필요한 이유 중 하나가 이것이다.\n백신은 사회적 활동과 접촉이 늘더라도 위험이 증가하지 않도록 만들어 줄 수 있다.\n이는 보건학적 관점을 넘어 우리 각자가 갖게 될 또 다른 이득이다.\n어떤 이들에게는 보건학적 관점의 이득보다 더 중요한 부분이다.\n그래서 백신 접종은 성공적으로 진행돼야 한다.\n코로나19로 고통받거나 사망할 위험을 줄이는 것만이 목표가 아니기 때문이다.\n백신 접종은 코로나19로 사회·경제적으로 어려워진 이가 다시 피해를 볼 위험을 줄이는 방법이기도 하다.\n게다가 활동이 억제돼 신체적으로나 정서적으로 건강이 나빠진 이가 다시 건강을 유지할 수 있게 될 수 있고, 예체능 분야에서 꿈을 펼치던 이가 다시 꿈꿀 수 있는 기회를 가질 수도 있다.\n코로나19 백신 접종을 기다리는 이들의 기대에는 이러한 것도 함께 들어 있다.\n백신 접종은 미래를 위한 것이다.\n거리두기, 마스크 착용 같은 방역 수칙이 지금까지의 상황을 만들어 왔다면 앞으로는 백신 접종이 상황을 변화시킬 가능성이 크다.\n거리두기를 통해 조금 더 버티면서 고통의 시간이 더 길어지지 않도록 안전한 백신 공급과 접종이 최대한 신속하게 이뤄지기를 바란다.\n최원석 고려대 의대 감염내과 교수",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 31,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우리나라에 첫 신종 코로나바이러스 감염증(코로나19) 확진자가 나온 지 1년이 넘었다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그동안 12만 명이 넘는 환자와 1800명이 넘는 사망자가 발생했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "피해가 작지 않지만 전 세계 상황에 비해 상대적으로 선방해 왔다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "월드오미터의 자료에 따르면 인구 100만 명당 확진자 수는 158위, 사망자 수는 152위다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이는 힘든 시기를 버티며 거리두기에 참여해 온 국민 덕분이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그런데 국내외 코로나19 상황이 다양하게 변하고 있다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "전 세계 일일 신규 확진자 규모는 지난해 12월 정점을 넘어 더 커져가고 있지만 국가마다 상황은 다르다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "인도나 일본처럼 걷잡을 수 없는 곳도 있고 이스라엘이나 영국 같이 잦아드는 곳도 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "여기에는 사회적 활동 정도, 거리두기 같은 방역 수칙 적용 수준, 바이러스 변이, 코로나19 백신 종류와 접종률 등이 영향을 미친다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "우리는 사회적 거리두기로 위험을 비교적 잘 통제해 왔다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그리고 그 가치는 변이라는 불확실성에도 유의미하다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "하지만 강력한 거리두기 지속은 매우 어렵다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "지난해 대비 현재 우리의 위기감이나 경각심은 절대 같지 않다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "거리두기 단계 유지에도 사회적 활동은 많이 늘었다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "같은 단계의 거리두기로 더 이상 같은 수준의 효과를 기대하기 어려울뿐더러 거리두기를 계속 강화하기도 어렵다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "많은 피해를 감내해 온 이들에게 희생을 계속 요구할 수는 없는 일이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "결국 접촉과 만남은 늘어날 수밖에 없다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "그럼에도 코로나19의 위험이 늘지 않을 방법이 있을까.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "코로나19 백신이 필요한 이유 중 하나가 이것이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "백신은 사회적 활동과 접촉이 늘더라도 위험이 증가하지 않도록 만들어 줄 수 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "이는 보건학적 관점을 넘어 우리 각자가 갖게 될 또 다른 이득이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "어떤 이들에게는 보건학적 관점의 이득보다 더 중요한 부분이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "그래서 백신 접종은 성공적으로 진행돼야 한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "코로나19로 고통받거나 사망할 위험을 줄이는 것만이 목표가 아니기 때문이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "백신 접종은 코로나19로 사회·경제적으로 어려워진 이가 다시 피해를 볼 위험을 줄이는 방법이기도 하다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "게다가 활동이 억제돼 신체적으로나 정서적으로 건강이 나빠진 이가 다시 건강을 유지할 수 있게 될 수 있고, 예체능 분야에서 꿈을 펼치던 이가 다시 꿈꿀 수 있는 기회를 가질 수도 있다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "코로나19 백신 접종을 기다리는 이들의 기대에는 이러한 것도 함께 들어 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "백신 접종은 미래를 위한 것이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 29,
+        "sentenceContent": "거리두기, 마스크 착용 같은 방역 수칙이 지금까지의 상황을 만들어 왔다면 앞으로는 백신 접종이 상황을 변화시킬 가능성이 크다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 30,
+        "sentenceContent": "거리두기를 통해 조금 더 버티면서 고통의 시간이 더 길어지지 않도록 안전한 백신 공급과 접종이 최대한 신속하게 이뤄지기를 바란다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 31,
+        "sentenceContent": "최원석 고려대 의대 감염내과 교수",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "거리두기로 코로나 선방하고 있지만, 이제는 '이것' 필요한 때",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 29,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 30,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 31,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

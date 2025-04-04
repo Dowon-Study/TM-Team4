@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193654",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "생리통·근육통으로 반전 노리는 애드빌",
+    "newsSubTitle": "‘빠른 두통약’ 마케팅 한계 느꼈나",
+    "newsContent": "[김진구 기자] 두통약으로 좀처럼 힘을 못 쓰던 애드빌이 생리통과 근육통을 강조하는 새 광고를 공개했다.\n같은 이부프로펜 성분의 이지엔6가 ‘여성 진통제’ 혹은 ‘생리통’ 시장을 파고들며 성공 가능성을 비춘 데 영향을 받은 게 아니냐는 분석이다.\n한국화이자제약은 최근 애드빌의 신규 디지털 광고를 공개했다.\n두통과 감기로 인한 통증이 주제였던 지난 광고와는 조금 다른 내용이다.\n2013년 한국에 출시된 화이자의 애드빌은 리퀴드 성분이 접목돼 15분의 빠른 진통 효과를 자랑한다.\n이에 힘입어 2015년 기준 일반의약품 진통제 시장에서 세계 판매 1위를 차지한 바 있다.\n세계 시장에서의 선전과 달리 애드빌은 한국 시장에서 좀처럼 두통약으로서 자리를 잡지 못하고 있다.\n실제 국내 두통약 시장은 타이레놀, 게보린, 펜잘 정도가 대부분을 점유하고 있다.\n실제 국내 진통제 시장의 매출 현황(IMS DATA 기준)을 보면, 지난해 진통제 시장에서 타이레놀의 매출은 199억8000만원으로 전년대비 4% 성장했다.\n게보린은 141억1000만원으로 17% 성장했다.\n펜잘 역시 패밀리 매출이 63억2000만원의 매출을 올리며 선방하는 모습이었다.\n눈에 띄는 건 이지엔이다.\n전년대비 35% 성장했다.\n3년 평균 성장률도 두 자릿수를 보이며 약진을 거듭하고 있다.\n44억3000만원을 거둬들였다.\n맥시부펜, 부루펜, 탁센 등도 적게는 32억원에서 많게는 69억원에 이르는 매출을 올렸다.\n애드빌은 6억9000만원에 그쳤다.\n발매 후 10억원을 돌파하지 못한 채 어려움을 겪고 있다.\n새 광고 런칭과 함께 마케팅 노선을 근육통·생리통 쪽으로 새로 잡은 게 아니냐는 분석이 등장하는 이유다.\n화이자 측에서는 이를 부인하고 있다.\n화이자 관계자는 “마케팅 노선의 변화는 아니다”며 “지금까지 근육통·생리통을 주제로 광고한 적이 없었기 때문에 이를 알리는 차원에서 이번에 처음 시도한 것”이라고 설명했다.\n그러나 한 제약업계 관계자는 “한국 두통약 시장은 효능만큼 마케팅·광고가 중요하게 작용한다”며 “이부프로펜 성분 진통제들이 워낙 맥을 못 추는 상황에서 아세트아미노펜보다 근육통에 강점이 있다는 부분을 강조하려는 의도로 해석된다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 두통약으로 좀처럼 힘을 못 쓰던 애드빌이 생리통과 근육통을 강조하는 새 광고를 공개했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "같은 이부프로펜 성분의 이지엔6가 ‘여성 진통제’ 혹은 ‘생리통’ 시장을 파고들며 성공 가능성을 비춘 데 영향을 받은 게 아니냐는 분석이다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국화이자제약은 최근 애드빌의 신규 디지털 광고를 공개했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "두통과 감기로 인한 통증이 주제였던 지난 광고와는 조금 다른 내용이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2013년 한국에 출시된 화이자의 애드빌은 리퀴드 성분이 접목돼 15분의 빠른 진통 효과를 자랑한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 힘입어 2015년 기준 일반의약품 진통제 시장에서 세계 판매 1위를 차지한 바 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "세계 시장에서의 선전과 달리 애드빌은 한국 시장에서 좀처럼 두통약으로서 자리를 잡지 못하고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "실제 국내 두통약 시장은 타이레놀, 게보린, 펜잘 정도가 대부분을 점유하고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "실제 국내 진통제 시장의 매출 현황(IMS DATA 기준)을 보면, 지난해 진통제 시장에서 타이레놀의 매출은 199억8000만원으로 전년대비 4% 성장했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "게보린은 141억1000만원으로 17% 성장했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "펜잘 역시 패밀리 매출이 63억2000만원의 매출을 올리며 선방하는 모습이었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "눈에 띄는 건 이지엔이다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "전년대비 35% 성장했다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "3년 평균 성장률도 두 자릿수를 보이며 약진을 거듭하고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "44억3000만원을 거둬들였다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "맥시부펜, 부루펜, 탁센 등도 적게는 32억원에서 많게는 69억원에 이르는 매출을 올렸다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "애드빌은 6억9000만원에 그쳤다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "발매 후 10억원을 돌파하지 못한 채 어려움을 겪고 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "새 광고 런칭과 함께 마케팅 노선을 근육통·생리통 쪽으로 새로 잡은 게 아니냐는 분석이 등장하는 이유다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "화이자 측에서는 이를 부인하고 있다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "화이자 관계자는 “마케팅 노선의 변화는 아니다”며 “지금까지 근육통·생리통을 주제로 광고한 적이 없었기 때문에 이를 알리는 차원에서 이번에 처음 시도한 것”이라고 설명했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "그러나 한 제약업계 관계자는 “한국 두통약 시장은 효능만큼 마케팅·광고가 중요하게 작용한다”며 “이부프로펜 성분 진통제들이 워낙 맥을 못 추는 상황에서 아세트아미노펜보다 근육통에 강점이 있다는 부분을 강조하려는 의도로 해석된다”고 말했다.",
+        "sentenceSize": 133
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "두통약 힘 못 쓰던 애드빌, 근육통·생리통 쪽으로 마케팅 전략 '빠태'?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

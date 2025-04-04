@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194878",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "자연에 대한 그리움 - 현정숙展",
+    "newsSubTitle": "",
+    "newsContent": "서울 삼성동 현대아트 갤러리에서 27일까지 열리는 현정숙전은 이야기가 있는 꽃그림 전이다.\n소재는 쑥부쟁이·민들레·도라지 같은 야생화와 목련·덩굴장미·접시꽃·해바라기처럼 시골집 부근의 꽃들이 주류를 이룬다.\n하지만 그 꽃에서는 과장된 화려한 색채나 빛과 그림자의 강렬한 대비가 보이지 않는다.\n감정을 제어한 평상심으로 사물을 바라보려는 것이다.\n그 내용은 달관이라기보다는 '세상은 이런 곳이다'라는 수락의 미학이다.\n화폭에 담긴 꽃들은 '힘들지만 나름대로 살고 있다'는 메시지를 담고 있다. '태고…그리고 꿈-Ⅲ'에서 금간 시멘트 담을 타고 오르는 덩굴장미가 그렇다.\n화병에 담긴 꽃무더기들은 '축제' 'Harmony'같은 편안한 이름을 붙이고 있다.\n하지만 저마다 모습을 뽐내기보다는 외롭고 불안정한 분위기를 풍긴다.\n누군가 돌보고 사랑해준다는 믿음이 없는, 절정기를 막 지난 청춘이 느껴지는 것이다.\n길가의 꽃과 숲을 그린 '5월 어느날'같은 작품은 현실이 아닌 어떤 장소를 연상시킨다.\n구원을 가져다주는 피안의 세계라기보다 이제는 도달할 수 없는 어떤 아늑한 곳이다.\n작가는 경기대 조형대학원을 졸업하고 중앙문화센터 강사로 활동 중이다.\n이번이 세번째 개인전. 02-3467-6689.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서울 삼성동 현대아트 갤러리에서 27일까지 열리는 현정숙전은 이야기가 있는 꽃그림 전이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소재는 쑥부쟁이·민들레·도라지 같은 야생화와 목련·덩굴장미·접시꽃·해바라기처럼 시골집 부근의 꽃들이 주류를 이룬다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 그 꽃에서는 과장된 화려한 색채나 빛과 그림자의 강렬한 대비가 보이지 않는다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "감정을 제어한 평상심으로 사물을 바라보려는 것이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 내용은 달관이라기보다는 '세상은 이런 곳이다'라는 수락의 미학이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "화폭에 담긴 꽃들은 '힘들지만 나름대로 살고 있다'는 메시지를 담고 있다. '태고…그리고 꿈-Ⅲ'에서 금간 시멘트 담을 타고 오르는 덩굴장미가 그렇다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "화병에 담긴 꽃무더기들은 '축제' 'Harmony'같은 편안한 이름을 붙이고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 저마다 모습을 뽐내기보다는 외롭고 불안정한 분위기를 풍긴다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "누군가 돌보고 사랑해준다는 믿음이 없는, 절정기를 막 지난 청춘이 느껴지는 것이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "길가의 꽃과 숲을 그린 '5월 어느날'같은 작품은 현실이 아닌 어떤 장소를 연상시킨다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "구원을 가져다주는 피안의 세계라기보다 이제는 도달할 수 없는 어떤 아늑한 곳이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "작가는 경기대 조형대학원을 졸업하고 중앙문화센터 강사로 활동 중이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이번이 세번째 개인전. 02-3467-6689.",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "현정숙전이 전하고자 하는 메시지는 무엇일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

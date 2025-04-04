@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198191",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[짤막소식] 마니프 아트페어 제2부 '2007 아트서울'전 外",
+    "newsSubTitle": "",
+    "newsContent": "■마니프 아트페어 제2부 '2007 아트서울'전이 서울 서초동 예술의전당 한가람미술관 전관에서 열리고 있다.\n각 미술대학에서 추천받은 신예작가 94명의 작품 1000여 점을 전시 중이다.\n근래 화단에서 두각을 나타내고 있는 이동재. 안성하. 박성민. 임태규. 도성욱. 최영걸씨 등 젊은 작가들이 올해로 5회를 맞는 아트서울 출신이다.\n14일까지, 02-514-9292. ■서울 신사동 코리아나 미술관은 'ZAIN-마리 이야기'전을 열고 있다.\n미술관이 소장한 프랑스 여성 작가 마리 로랑생(1883~1956)의 유화.판화 등 12점을 국내에 처음 소개하는 자리다.\n이 밖에 권소원.함경아.SASA(44).윤리 등 국내외에서 활발히 활동해 온 7명의 작가가 다양하게 해석한 여성 이미지를 사진. 영상.설치를 통해 보여준다.\n28일까지, 02-547-9177. ■쉐라톤그랜드워커힐은 '워커힐 벚꽃축제' 기간인 5월 8일까지 '스프링 애비뉴' 패키지를 판매한다. 1일 숙박에 조식 뷔페(2인), 벚꽃축제 푸드 메뉴 두 종류, 뮤지컬 하이라이트 쇼 '서브웨이' 관람권(2인) 중 한 가지를 고를 수 있다.\n별관 더글라스룸은 15만원이고 본관 디럭스룸은 19만원(세금.봉사료 별도)이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "■마니프 아트페어 제2부 '2007 아트서울'전이 서울 서초동 예술의전당 한가람미술관 전관에서 열리고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "각 미술대학에서 추천받은 신예작가 94명의 작품 1000여 점을 전시 중이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "근래 화단에서 두각을 나타내고 있는 이동재. 안성하. 박성민. 임태규. 도성욱. 최영걸씨 등 젊은 작가들이 올해로 5회를 맞는 아트서울 출신이다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "14일까지, 02-514-9292. ■서울 신사동 코리아나 미술관은 'ZAIN-마리 이야기'전을 열고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "미술관이 소장한 프랑스 여성 작가 마리 로랑생(1883~1956)의 유화.판화 등 12점을 국내에 처음 소개하는 자리다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 밖에 권소원.함경아.SASA(44).윤리 등 국내외에서 활발히 활동해 온 7명의 작가가 다양하게 해석한 여성 이미지를 사진. 영상.설치를 통해 보여준다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "28일까지, 02-547-9177. ■쉐라톤그랜드워커힐은 '워커힐 벚꽃축제' 기간인 5월 8일까지 '스프링 애비뉴' 패키지를 판매한다. 1일 숙박에 조식 뷔페(2인), 벚꽃축제 푸드 메뉴 두 종류, 뮤지컬 하이라이트 쇼 '서브웨이' 관람권(2인) 중 한 가지를 고를 수 있다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "별관 더글라스룸은 15만원이고 본관 디럭스룸은 19만원(세금.봉사료 별도)이다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이곳'에서 각 미술대학에서 추천받은 신예 작가 94명 작품 전시한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

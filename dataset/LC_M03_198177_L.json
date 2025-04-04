@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198177",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강신간] '축농증 이겨내기' 外",
+    "newsSubTitle": "",
+    "newsContent": "◆미국에서 건강서적으로 정평이 있는 하버드 메디컬 스쿨 가이드 '축농증 이겨내기'가 국내에 번역돼 나왔다.\n코의 구조부터 진단ㆍ치료까지 그림을 곁들여 상세히 설명하고 있다.\n흔한 코 증상을 쉽게 가라앉히는 실용적인 방법과 자가치료로서 비강 세척의 중요성과 식염수 만드는 법까지 소개한다.\n제주도에서 개원하고 있는 강병철 원장이 번역했다.\n조윤커뮤니케이션 출판, 237쪽, 1만6000원. ◆파킨슨병 환자가 자신의 병을 극복하기 위해 꼭 알아야 할 '환자와 가족을 위한 파킨슨병 치료'가 출판됐다.\n책의 제목은 치료법이지만 ‘증상별 대처법’ ‘재활을 위한 운동’ ‘일상생활을 위한 갖가지 주의사항’이나 ‘가족의 개호 방법’ 등을 소개하고 있다.\n일본 교린의대 교수인 사쿠타 마나부 박사가 썼고, 국립 강릉대 세라믹공학과 김신 교수가 번역했다.\nE*PUBLIC 출판, 165쪽, 2만원. ◆세브란스 어린이병원장인 김덕희 교수가 '엄마와 함께 읽는 만화-소아비만과 소아당뇨'를 펴냈다.\n어린이 비만과 당뇨병은 발병부터 치료까지 부모의 역할이 크다.\n이 책은 딱딱한 의학 지식을 쉽게 전개하면서 어린이의 흥미를 유발하도록 만화를 삽입했다.\n어머니를 위해선 운동과 식사, 행동요법의 중요성을 강조하고, 아이에겐 비만과 당뇨병의 원인이 되는 나쁜 습관들을 재미있게 소개한다.\n좋은날, 250쪽, 1만5000원.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆미국에서 건강서적으로 정평이 있는 하버드 메디컬 스쿨 가이드 '축농증 이겨내기'가 국내에 번역돼 나왔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "코의 구조부터 진단ㆍ치료까지 그림을 곁들여 상세히 설명하고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "흔한 코 증상을 쉽게 가라앉히는 실용적인 방법과 자가치료로서 비강 세척의 중요성과 식염수 만드는 법까지 소개한다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "제주도에서 개원하고 있는 강병철 원장이 번역했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "조윤커뮤니케이션 출판, 237쪽, 1만6000원. ◆파킨슨병 환자가 자신의 병을 극복하기 위해 꼭 알아야 할 '환자와 가족을 위한 파킨슨병 치료'가 출판됐다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "책의 제목은 치료법이지만 ‘증상별 대처법’ ‘재활을 위한 운동’ ‘일상생활을 위한 갖가지 주의사항’이나 ‘가족의 개호 방법’ 등을 소개하고 있다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "일본 교린의대 교수인 사쿠타 마나부 박사가 썼고, 국립 강릉대 세라믹공학과 김신 교수가 번역했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "E*PUBLIC 출판, 165쪽, 2만원. ◆세브란스 어린이병원장인 김덕희 교수가 '엄마와 함께 읽는 만화-소아비만과 소아당뇨'를 펴냈다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "어린이 비만과 당뇨병은 발병부터 치료까지 부모의 역할이 크다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 책은 딱딱한 의학 지식을 쉽게 전개하면서 어린이의 흥미를 유발하도록 만화를 삽입했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "어머니를 위해선 운동과 식사, 행동요법의 중요성을 강조하고, 아이에겐 비만과 당뇨병의 원인이 되는 나쁜 습관들을 재미있게 소개한다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "좋은날, 250쪽, 1만5000원.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "어린이의 '이 병'은 부모 역할이 중요... 엄마와 아이가 함께 읽는 만화!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

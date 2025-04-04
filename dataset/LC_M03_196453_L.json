@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196453",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "11.9 권… 평균 한달에 1권 꼴로 우리나라 성인 책 읽어",
+    "newsSubTitle": "",
+    "newsContent": "우리 나라 성인은 책을 연간 11.9권, 즉 한 달에 한 권 꼴로 읽는 것으로 나타났다.\n이는 1996년 연간 9.1권, 2004년 11권보다 증가한 수치로 최근 10년간 최고 수준이다.\n그러나 책을 전혀 읽지 않는 비독서자 비율은 23.7%로 2004년보다 0.4%포인트 늘었다.\n즉, 책을 읽는 사람만 점점 더 책을 많이 읽는 셈이다.\n국립중앙도서관이 한국출판연구소에 의뢰해 9월 한 달간 만 18세 이상 성인 1000명과 초.중.고교생 3000명을 대상으로 실시한 '2006년 국민 독서 실태 조사' 결과다.\n책 독서량은 일본인과 비슷한 수준이지만 잡지 독서량은 성인의 경우 일본인(2권)이 한국인(0.5권)의 4배, 고교생은 10배 (일본 2.9권, 한국 0.3권)을 읽는 등 격차가 심한 것으로 나타났다.\n독서량은 늘었지만 책을 구입하는 양은 오히려 줄었다.\n성인들의 '최근 3개월간 도서.잡지 구입량'은 2년 전(3.3권)에 비해 1.2권 줄어든 2.1권으로 나타났다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우리 나라 성인은 책을 연간 11.9권, 즉 한 달에 한 권 꼴로 읽는 것으로 나타났다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이는 1996년 연간 9.1권, 2004년 11권보다 증가한 수치로 최근 10년간 최고 수준이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러나 책을 전혀 읽지 않는 비독서자 비율은 23.7%로 2004년보다 0.4%포인트 늘었다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "즉, 책을 읽는 사람만 점점 더 책을 많이 읽는 셈이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "국립중앙도서관이 한국출판연구소에 의뢰해 9월 한 달간 만 18세 이상 성인 1000명과 초.중.고교생 3000명을 대상으로 실시한 '2006년 국민 독서 실태 조사' 결과다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "책 독서량은 일본인과 비슷한 수준이지만 잡지 독서량은 성인의 경우 일본인(2권)이 한국인(0.5권)의 4배, 고교생은 10배 (일본 2.9권, 한국 0.3권)을 읽는 등 격차가 심한 것으로 나타났다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "독서량은 늘었지만 책을 구입하는 양은 오히려 줄었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "성인들의 '최근 3개월간 도서.잡지 구입량'은 2년 전(3.3권)에 비해 1.2권 줄어든 2.1권으로 나타났다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이러다 아무도 책 읽지 않는 시대가 온다… 비독서자 비율 폭증",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

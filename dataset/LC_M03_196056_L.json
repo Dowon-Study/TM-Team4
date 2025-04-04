@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196056",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "딸기의 효능, 비타민C 풍부해…오래 씻으면 오히려 손해?",
+    "newsSubTitle": "",
+    "newsContent": "딸기는 항산화 작용의 효능을 가지고 있다.\n딸기에는 비타민 C가 풍부하기 때문이다.\n또 딸기 속의 일라직산은 암세포의 ‘세포자살’을 유도하기 때문에 암세포 억제에도 도움을 준다.\n딸기의 열량은 100그램에 27칼로리로 낮은 편이기 때문에 다이어트에도 좋다.\n딸기를 우유, 유산균음료, 요구르트와 함께 먹으면 칼슘이 보충되기 때문에 골다공증 예방에 도움이 된다.\n딸기의 제철은 1월~5월인데 딸기를 살 때는 꼭지가 마르지 않고 진한 푸른색을 띠는지 확인해야 한다.\n과육의 붉은 빛깔이 꼭지 부분까지 도는 것이 잘 익은 딸기다.\n딸기는 습도에 약하므로 밀봉하고 보관하면 물러지거나 곰팡이가 생기기 쉽다.\n그러므로 종이상자에 보관한다.\n금방 먹을 딸기는 꼭지를 떼지 말고 비닐 랩을 씌워 냉장고에 보관하며, 오래 보관하기는 힘드므로 1주일이 되기 전 먹는 것이 좋다.\n딸기는 소금물로 재빠르게 헹구거나 식초에 탄 물에 헹구면 소독의 효과를 얻을 수 있다. 30초 이상 물에 담가두면 비타민 C가 물에 녹아 빠져나오므로 주의해야 한다.\n온라인 중앙일보 ‘딸기의 효능’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "딸기는 항산화 작용의 효능을 가지고 있다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "딸기에는 비타민 C가 풍부하기 때문이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 딸기 속의 일라직산은 암세포의 ‘세포자살’을 유도하기 때문에 암세포 억제에도 도움을 준다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "딸기의 열량은 100그램에 27칼로리로 낮은 편이기 때문에 다이어트에도 좋다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "딸기를 우유, 유산균음료, 요구르트와 함께 먹으면 칼슘이 보충되기 때문에 골다공증 예방에 도움이 된다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "딸기의 제철은 1월~5월인데 딸기를 살 때는 꼭지가 마르지 않고 진한 푸른색을 띠는지 확인해야 한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "과육의 붉은 빛깔이 꼭지 부분까지 도는 것이 잘 익은 딸기다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "딸기는 습도에 약하므로 밀봉하고 보관하면 물러지거나 곰팡이가 생기기 쉽다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그러므로 종이상자에 보관한다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "금방 먹을 딸기는 꼭지를 떼지 말고 비닐 랩을 씌워 냉장고에 보관하며, 오래 보관하기는 힘드므로 1주일이 되기 전 먹는 것이 좋다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "딸기는 소금물로 재빠르게 헹구거나 식초에 탄 물에 헹구면 소독의 효과를 얻을 수 있다. 30초 이상 물에 담가두면 비타민 C가 물에 녹아 빠져나오므로 주의해야 한다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "온라인 중앙일보 ‘딸기의 효능’ [사진 중앙포토]",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비타민 C 풍부한 딸기, 오래 씻으면 오히려 손해?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

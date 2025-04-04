@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198938",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "찬물 부어 10분이면 먹을 수 있는 떡국·떡볶이 나왔다",
+    "newsSubTitle": "",
+    "newsContent": "떡 제조업체 ‘아셀떡’은 찬물만 부어도 10여 분 만에 먹을 수 있는 2018년형 레저용 즉석식품 ‘끝판 떡국’과 ‘끝판 떡볶이’를 출시했다고 16일 밝혔다.\n두 제품은 조리용 쿠커, 떡(떡국 떡 160g, 떡볶이 떡 180g), 스프(떡국 스프 11g, 떡볶이 스프는 30g), 발열팩, 조리용기, 숟가락을 각각 제공한다.\n해외여행이나 국내외 출장 시 호텔이나 게스트하우스 등에서 아침 식사나 간식으로 간편하게 먹을 수 있다.\n제품 유통기한은 상온에서 3개월이다.\n조리법은 간단하다.\n쿠커 바닥에 발열팩을 넓게 펴서 깔고, 찬물을 종이컵 3분의 2 수준으로 붓는다.\n떡국이 들어 있는 조리 용기를 쿠커에 넣고, 지퍼백을 완전히 밀봉한다.\n약 15~30초 기다리면 물이 발열팩과 반응한다.\n쿠커 양옆 작은 구멍으로 수증기가 분출되면 떡국은 약 12분 후, 떡볶이는 약 15분 후 꺼내 먹으면 된다.\n끝판 떡국·떡볶이의 소비자 가격은 1봉 기준 6500원이다.\n판매 총판인 코윈스와 메타포밍은 신제품 출시를 기념해 5~20개 묶음 단위로 최대 15% 할인 판매한다.\n메타몰.com, 코윈스 홈페이지 쇼핑몰를 비롯해 주요 온라인 쇼핑몰에서 살 수 있다.\n아셀떡 측은 “두 신제품은 인체에 무해한 발열체를 활용해 찬물만 부어 뜨겁게 조리가 가능하다”며 “이런 점 때문에 해외여행, 레저활동 등에서 활용도가 높을 것”이라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "떡 제조업체 ‘아셀떡’은 찬물만 부어도 10여 분 만에 먹을 수 있는 2018년형 레저용 즉석식품 ‘끝판 떡국’과 ‘끝판 떡볶이’를 출시했다고 16일 밝혔다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "두 제품은 조리용 쿠커, 떡(떡국 떡 160g, 떡볶이 떡 180g), 스프(떡국 스프 11g, 떡볶이 스프는 30g), 발열팩, 조리용기, 숟가락을 각각 제공한다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "해외여행이나 국내외 출장 시 호텔이나 게스트하우스 등에서 아침 식사나 간식으로 간편하게 먹을 수 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "제품 유통기한은 상온에서 3개월이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "조리법은 간단하다.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "쿠커 바닥에 발열팩을 넓게 펴서 깔고, 찬물을 종이컵 3분의 2 수준으로 붓는다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "떡국이 들어 있는 조리 용기를 쿠커에 넣고, 지퍼백을 완전히 밀봉한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "약 15~30초 기다리면 물이 발열팩과 반응한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "쿠커 양옆 작은 구멍으로 수증기가 분출되면 떡국은 약 12분 후, 떡볶이는 약 15분 후 꺼내 먹으면 된다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "끝판 떡국·떡볶이의 소비자 가격은 1봉 기준 6500원이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "판매 총판인 코윈스와 메타포밍은 신제품 출시를 기념해 5~20개 묶음 단위로 최대 15% 할인 판매한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "메타몰.com, 코윈스 홈페이지 쇼핑몰를 비롯해 주요 온라인 쇼핑몰에서 살 수 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "아셀떡 측은 “두 신제품은 인체에 무해한 발열체를 활용해 찬물만 부어 뜨겁게 조리가 가능하다”며 “이런 점 때문에 해외여행, 레저활동 등에서 활용도가 높을 것”이라고 밝혔다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'찬물 부었는데 뜨거운 음식이 나온다', 레저용으로 출시된 이 제품은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

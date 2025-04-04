@@ -1,0 +1,285 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194239",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "메디컬 에세이 <1> 음식 먹고 숨쉬기 곤란한 환자",
+    "newsSubTitle": "세균 독, 땅콩 알레르기 가능성 많아 복어 독은 먹은 뒤 5분이면 이상 증세",
+    "newsContent": "의사들은 ‘음식을 먹고 가슴이 답답하고 숨쉬기 힘들다’며 응급실을 찾는 환자들을 접할 때 신경을 곤두세운다.\n피부가 울긋불긋하고, 도드라지는 두드러기라면 항히스타민제를 먹이고 조금 기다려 보자고 한다.\n하지만 부기가 심해 기도가 막힌 증세를 보이거나 기력이 떨어져 창백한 상태로 실려 들어오면 환자를 위해 서둘러 조치를 취해야 한다.\n미국에선 음식을 먹고 이런 증상으로 매년 200여 명이 사망한다.\n그러나 원인을 찾아내는 작업은 그리 간단치 않다.\n알레르기 반응은 땅콩·계란·우유·메밀 같은 항원에 의해 나타날 수 있으므로 혈액을 통해 식품에서 원인을 찾는 검사를 한다.\n알레르기 반응은 또 음식의 독에 의한 증상과도 비슷하다.\n따라서 음식을 오래 방치해 생긴 세균의 독이 원인인지, 땅콩을 요리한 도마에서 옮겨온 땅콩 알레르기가 원인인지 구별해야 한다.\n또 다른 특별한 상황도 있다.\n복어 독에 중독된 사람은 땅콩을 먹고 나타나는 아나필락시스 환자처럼 창백하고, 숨차한다.\n증상은 유사하지만 원인은 사뭇 다르다.\n땅콩에 의한 알레르기는 땅콩에 민감하게 반응하는 항체를 몸안에 가지고 있기 때문에 나타나는 알레르기 반응이다.\n반면 복어 독은 말 그대로 독이다.\n독은 온몸에 뻗어있는 신경줄을 끊어놓는다.\n신경줄이 끊어지면서 나타나는 증상은 땅콩 알레르기 반응처럼 과격하고 치명적이다.\n먹은 지 5분이면 구역질을 하고, 입 주위 감각이 이상하다고 호소한다. 10분이 지나면 말도 어눌해지고, 얼굴 주위 감각이 떨어진다.\n이때 환자는 죽을 것 같다는 불안감과 공포감에 떨게 된다.\n15분이 지나면서 온몸에 마비가 생긴다.\n팔 다리를 움직이지 못하고, 호흡근의 마비로 숨을 쉬지 못한다.\n눈도 제대로 움직이지 못한 채 별다른 조치가 없으면 사망한다.\n복어 독에 중독된 사람을 살리기 위해선 어떤 수를 써서라도 숨을 쉬게 해야 한다.\n정신을 차리도록 어깨를 흔드는 것이 아니라 강제로 숨을 쉬게 만들어야 한다.\n한번 손상받은 신경이 회복되는 데는 하루나 이틀 정도면 충분하다.\n이틀 동안 호흡 근육이 마비돼 움직이지 못하는 환자의 폐에 강제로 산소를 불어넣어주면 복어 독은 사라지면서 멀쩡하게 살아남는다.\n요즘 이러한 독이 왜 사람 신경줄을 끊어 놓는지에 대한 연구가 진행되고 있다.\n마치 근육마비를 일으키는 보툴리늄 독소를 이용해 보톡스가 개발된 것처럼 이 연구가 결실을 보면 통증치료제의 개발도 가능할 것이다.\n신경줄이 끊겨 죽음에 이르는 것과 신경줄을 끊어 통증을 줄이겠다는 것은 같은 메커니즘을 활용하는 것이지만 쓰임새는 다르다.\n현재 연구도 많이 진행돼 의사들이 치료 목적으로 사용하기 전단계까지 와 있다.\n한만용 교수 포천중문의대 분당차병원 소아청소년과",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 29,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "의사들은 ‘음식을 먹고 가슴이 답답하고 숨쉬기 힘들다’며 응급실을 찾는 환자들을 접할 때 신경을 곤두세운다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "피부가 울긋불긋하고, 도드라지는 두드러기라면 항히스타민제를 먹이고 조금 기다려 보자고 한다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 부기가 심해 기도가 막힌 증세를 보이거나 기력이 떨어져 창백한 상태로 실려 들어오면 환자를 위해 서둘러 조치를 취해야 한다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미국에선 음식을 먹고 이런 증상으로 매년 200여 명이 사망한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 원인을 찾아내는 작업은 그리 간단치 않다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "알레르기 반응은 땅콩·계란·우유·메밀 같은 항원에 의해 나타날 수 있으므로 혈액을 통해 식품에서 원인을 찾는 검사를 한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "알레르기 반응은 또 음식의 독에 의한 증상과도 비슷하다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "따라서 음식을 오래 방치해 생긴 세균의 독이 원인인지, 땅콩을 요리한 도마에서 옮겨온 땅콩 알레르기가 원인인지 구별해야 한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 다른 특별한 상황도 있다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "복어 독에 중독된 사람은 땅콩을 먹고 나타나는 아나필락시스 환자처럼 창백하고, 숨차한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "증상은 유사하지만 원인은 사뭇 다르다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "땅콩에 의한 알레르기는 땅콩에 민감하게 반응하는 항체를 몸안에 가지고 있기 때문에 나타나는 알레르기 반응이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "반면 복어 독은 말 그대로 독이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "독은 온몸에 뻗어있는 신경줄을 끊어놓는다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "신경줄이 끊어지면서 나타나는 증상은 땅콩 알레르기 반응처럼 과격하고 치명적이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "먹은 지 5분이면 구역질을 하고, 입 주위 감각이 이상하다고 호소한다. 10분이 지나면 말도 어눌해지고, 얼굴 주위 감각이 떨어진다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이때 환자는 죽을 것 같다는 불안감과 공포감에 떨게 된다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "15분이 지나면서 온몸에 마비가 생긴다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "팔 다리를 움직이지 못하고, 호흡근의 마비로 숨을 쉬지 못한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "눈도 제대로 움직이지 못한 채 별다른 조치가 없으면 사망한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "복어 독에 중독된 사람을 살리기 위해선 어떤 수를 써서라도 숨을 쉬게 해야 한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "정신을 차리도록 어깨를 흔드는 것이 아니라 강제로 숨을 쉬게 만들어야 한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "한번 손상받은 신경이 회복되는 데는 하루나 이틀 정도면 충분하다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "이틀 동안 호흡 근육이 마비돼 움직이지 못하는 환자의 폐에 강제로 산소를 불어넣어주면 복어 독은 사라지면서 멀쩡하게 살아남는다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "요즘 이러한 독이 왜 사람 신경줄을 끊어 놓는지에 대한 연구가 진행되고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "마치 근육마비를 일으키는 보툴리늄 독소를 이용해 보톡스가 개발된 것처럼 이 연구가 결실을 보면 통증치료제의 개발도 가능할 것이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "신경줄이 끊겨 죽음에 이르는 것과 신경줄을 끊어 통증을 줄이겠다는 것은 같은 메커니즘을 활용하는 것이지만 쓰임새는 다르다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "현재 연구도 많이 진행돼 의사들이 치료 목적으로 사용하기 전단계까지 와 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 29,
+        "sentenceContent": "한만용 교수 포천중문의대 분당차병원 소아청소년과",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "음식 먹고 숨쉬기 곤란한 환자... 미국에서 매년 200여 명이 사망하는 이유?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 29,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

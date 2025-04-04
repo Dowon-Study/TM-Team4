@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195569",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "화이자, 텔미사르탄 복합제 ‘노바스크T’ 3월 출시",
+    "newsSubTitle": "CCB+ARB 복합제…노바스크 포트폴리오 4개로 확대",
+    "newsContent": "[김진구 기자] 화이자는 오는 3월 고혈압 복합제인 ‘노바스크T(암로디핀 베실레이트?텔미사르탄)’를 출시할 예정이라고 25일 밝혔다.\n노바스크T는 노바스크의 원료의약품 암로디핀 베실레이트(CCB)에 텔미사르탄(ARB)을 더한 고혈압 복합제다.\n암로디핀 또는 텔미사르탄 단독요법으로 혈압이 적절히 조절되지 않는 본태성 고혈압 환자 치료에 사용할 수 있으며 1일 1회 1정 복용한다.\n이로써 화이자는 노바스크 브랜드 포트폴리오를 4개로 늘릴 예정이다.\n기존에는 ‘노바스크 5mg정’과 ‘고용량 10mg’정, 노바스크 구강붕해정(OD) 및 암로디핀(CCB)-발사르탄(ARB) 복합제인 ‘노바스크V’등이 있었다.\n한국화이자제약 김선아 부사장은 “노바스크 T는 노바스크 원료의약품을 사용한 복합제제로, 노바스크의 고유한 가치를 계승하고 있다”며 “앞으로도 노바스크는 고혈압 치료제의 대표적인 브랜드로서 다양한 특성을 가진 고혈압 환자들이 폭넓은 치료 혜택을 누릴 수 있도록 진화시켜 나갈 것”이라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 화이자는 오는 3월 고혈압 복합제인 ‘노바스크T(암로디핀 베실레이트?텔미사르탄)’를 출시할 예정이라고 25일 밝혔다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "노바스크T는 노바스크의 원료의약품 암로디핀 베실레이트(CCB)에 텔미사르탄(ARB)을 더한 고혈압 복합제다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "암로디핀 또는 텔미사르탄 단독요법으로 혈압이 적절히 조절되지 않는 본태성 고혈압 환자 치료에 사용할 수 있으며 1일 1회 1정 복용한다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이로써 화이자는 노바스크 브랜드 포트폴리오를 4개로 늘릴 예정이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "기존에는 ‘노바스크 5mg정’과 ‘고용량 10mg’정, 노바스크 구강붕해정(OD) 및 암로디핀(CCB)-발사르탄(ARB) 복합제인 ‘노바스크V’등이 있었다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한국화이자제약 김선아 부사장은 “노바스크 T는 노바스크 원료의약품을 사용한 복합제제로, 노바스크의 고유한 가치를 계승하고 있다”며 “앞으로도 노바스크는 고혈압 치료제의 대표적인 브랜드로서 다양한 특성을 가진 고혈압 환자들이 폭넓은 치료 혜택을 누릴 수 있도록 진화시켜 나갈 것”이라고 말했다.",
+        "sentenceSize": 163
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "화이자, 고혈압 복합제 '노바스크 T' 언제 출시할까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

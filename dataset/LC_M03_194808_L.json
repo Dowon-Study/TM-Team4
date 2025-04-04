@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194808",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "고대인의 삶과 예술 '세계 신화 이야기'",
+    "newsSubTitle": "",
+    "newsContent": "세계 여러 민족과 문화권의 신화들을 동서양 지역과 고금의 시간을 종횡하며 주제별로 묶어낸 책이다.\n태초와 종말의 세계, 자연과 우주의 신비로움, 그리고 사랑과 미움, 삶과 죽음 등에 대한 고대인들의 원형적 사고가 후대인들의 삶과 예술에 면면히 이어짐을 발견하게 된다.\n또 한자리에 놓인 다양한 신화의 형상을 통해 문화공간의 원형적 유사성을 주목하게 된다.\n가로 23㎝ 세로 30㎝의 대형 판형 3백4쪽 분량에 쪽 마다 곁들인 희귀한 컬러 사진과 그림.지도 등을 감상하는 재미도 쏠쏠하다.\n종이책만이 줄 수 있는 심미적 포만감과 독서의 즐거움을 느낄 수 있는 것이다.\n저명한 신화연구가 엘리아데와 캠벨의 짧은 논문 두 편을 서론 격으로 앞에 실었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세계 여러 민족과 문화권의 신화들을 동서양 지역과 고금의 시간을 종횡하며 주제별로 묶어낸 책이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "태초와 종말의 세계, 자연과 우주의 신비로움, 그리고 사랑과 미움, 삶과 죽음 등에 대한 고대인들의 원형적 사고가 후대인들의 삶과 예술에 면면히 이어짐을 발견하게 된다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 한자리에 놓인 다양한 신화의 형상을 통해 문화공간의 원형적 유사성을 주목하게 된다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "가로 23㎝ 세로 30㎝의 대형 판형 3백4쪽 분량에 쪽 마다 곁들인 희귀한 컬러 사진과 그림.지도 등을 감상하는 재미도 쏠쏠하다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "종이책만이 줄 수 있는 심미적 포만감과 독서의 즐거움을 느낄 수 있는 것이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "저명한 신화연구가 엘리아데와 캠벨의 짧은 논문 두 편을 서론 격으로 앞에 실었다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "동양과 서양, 태초와 종말을 볼 수 있는 책은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

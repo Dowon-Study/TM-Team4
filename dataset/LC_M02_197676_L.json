@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197676",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "김호영, 동성 성추문 의혹…소속사 \\\"전혀 사실무근\\\" 반박",
+    "newsSubTitle": "",
+    "newsContent": "뮤지컬배우 김호영이 동성을 성추행했다는 추문에 휩싸였다.\n11일 한 매체는 김호영이 지난 9월 24일 차량 내부에서 A씨에게 유사성행위를 한 혐의로 피소됐다고 보도했다.\n매체에 따르면 피해자는 남성으로, 성동경찰서 여성청소년과에 고소장을 제출했으며 김호영은 스케줄 상의 이유로 소환조사에 불응하고 있는 것으로 전해진다.\n이에 대해 김호영 측은 \\\"전혀 사실무근\\\"이라며 전면 반박하고 나섰다.\n김호영 소속사 PLK엔터테인먼트는 이날 공식입장을 내고 \\\"구체적인 내용을 확인 중\\\"이라면서 \\\"오보 등에 대해 적극적인 법적 조치를 취할 것이며 온라인 댓글 포함 모든 악의적 허위사실의 작성·배포·유통·확산과 기타 명예훼손 행위에 대해 강력한 법적 조치를 취할 예정\\\"이라고 강조했다.\n경찰 역시 말을 아끼고 있다.\n성동경찰서 관계자는 미디어SR에 \\\"해당 내용에 대해서는 확인이 불가하다\\\"며 자세한 언급을 피했다.\n김호영은 지난 2002년 뮤지컬 '렌트'로 데뷔해 '광화문연가', '맨 오브 라만차', '킹키부츠', '거미여인의 키스', '라이어', '로미오와 줄리엣' 등에서 활약하는 등 뮤지컬 배우로 활동 중이다.\n최근에는 예능 프로그램 '복면가왕'과 '진짜사나이 300' 등에 출연하는 등 방송을 통해서도 활약하고 있으며, 현재 tvN 금요드라마 '쌉니다 천리마마트'에 출연해 배우로도 활동 영역을 넓였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "뮤지컬배우 김호영이 동성을 성추행했다는 추문에 휩싸였다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 한 매체는 김호영이 지난 9월 24일 차량 내부에서 A씨에게 유사성행위를 한 혐의로 피소됐다고 보도했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "매체에 따르면 피해자는 남성으로, 성동경찰서 여성청소년과에 고소장을 제출했으며 김호영은 스케줄 상의 이유로 소환조사에 불응하고 있는 것으로 전해진다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 대해 김호영 측은 \\\"전혀 사실무근\\\"이라며 전면 반박하고 나섰다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김호영 소속사 PLK엔터테인먼트는 이날 공식입장을 내고 \\\"구체적인 내용을 확인 중\\\"이라면서 \\\"오보 등에 대해 적극적인 법적 조치를 취할 것이며 온라인 댓글 포함 모든 악의적 허위사실의 작성·배포·유통·확산과 기타 명예훼손 행위에 대해 강력한 법적 조치를 취할 예정\\\"이라고 강조했다.",
+        "sentenceSize": 161
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "경찰 역시 말을 아끼고 있다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "성동경찰서 관계자는 미디어SR에 \\\"해당 내용에 대해서는 확인이 불가하다\\\"며 자세한 언급을 피했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김호영은 지난 2002년 뮤지컬 '렌트'로 데뷔해 '광화문연가', '맨 오브 라만차', '킹키부츠', '거미여인의 키스', '라이어', '로미오와 줄리엣' 등에서 활약하는 등 뮤지컬 배우로 활동 중이다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "최근에는 예능 프로그램 '복면가왕'과 '진짜사나이 300' 등에 출연하는 등 방송을 통해서도 활약하고 있으며, 현재 tvN 금요드라마 '쌉니다 천리마마트'에 출연해 배우로도 활동 영역을 넓였다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "뮤지컬배우 김호영, 차 내부에서 동성에게 한 '이 행동'으로 문제 불거져",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

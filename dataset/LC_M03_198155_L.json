@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198155",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK책갈피] 밀어붙여라 … 성공 확률 50%라면 5번 시도 땐 반드시 성공",
+    "newsSubTitle": "",
+    "newsContent": "고용 불안에 시달리는 사람들이 많다.\n현 직장에서 언제까지 일할 수 있을지, 쫓겨나면 뭘 할지, 창업하면 잘 할 수 있을지 등을 고민한다.\n대부분은 이렇게 고민만 하다가 끝난다.\n등 떼밀려 관둘 때가 돼서야 비로소 \\\"뭘 먹고 살아야 하지\\\"라고 생각한다.\n이런 사람들에게 용기를 주는 또 하나의 책이 나왔다.\n자신이 정말 하고 싶은 일이 무엇인지를 우선 정하고 그런 후 주저하지 말고 실행하라고 한다.\n어떤 어려움이 닥쳐도 결코 좌절하지 말고 끝까지 밀어붙이라고도 충고한다.\n성공 노하우치고는 참 싱겁다.\n그런데도 저자는 '뻔하지 않은 이야기'로 만들었다. '확률'이라는 무기가 그 비결이다. '시작이 반'이라는 속담이 있다.\n저자 역시 똑같이 주장한다.\n다만 왜 그런지를 설명하는 방식이 다르다.\n성공과 실패 가능성이 반반(1/2의 확률)인 어떤 일을 추진할까, 말까를 고민할 때 네 번만 실패할 각오를 한다면 '하라'고 권고한다.\n다섯 번 모두 실패할 가능성은 3%밖에 안되기 때문이다.\n성공 가능성이 1%밖에 안된다고 해도 마찬가지다.\n모두 다 차일 각오를 하고 450명의 여성에게 데이트 신청을 하면 이중 한 명은 OK를 할 가능성이 무려 99%나 된다.\n성공 가능성이 거의 없는(0.1%)일도 2000번을 포기하지 않으면 반드시 성공한다(성공 확률 99.9956%). 그러니 실패를 두려워해선 안된다.\n중간에 포기하면 성공 가능성은 정말 제로(0)가 된다.\n생활의 노하우도 가르쳐 준다. '가위 바위 보'게임에서 이기는 비법이 있단다.\n갑작스레 이 게임을 할 경우 이 책을 본 독자들은 '보'를 내면 된다. '가위'는 손의 형태가 어렵기 때문에 사람들은 대체로 '바위'나 '보'를 낸다는 이유에서다. 4명의 이성과 맞선을 볼 때 가장 마음에 드는 상대와 결혼할 가능성을 높이는 비결도 가르쳐준다.\n그러나 이것 한 가지는 주의하길 바란다. 450명의 여성에게 데이트 신청을 했지만 한 번도 성공하지 않는 사람이 있을 수 있고, '보'를 냈는데도 지는 경우가 있을 수 있다는 점을. 확률은 어디까지나 평균적으로 그렇다는 얘기일 뿐이다.\n한번 뿐인 인생에서 무수히 도전하는 건 불가능하며, 성공의 화살은 언제나 '나'를 피해갈 수도 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "고용 불안에 시달리는 사람들이 많다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "현 직장에서 언제까지 일할 수 있을지, 쫓겨나면 뭘 할지, 창업하면 잘 할 수 있을지 등을 고민한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대부분은 이렇게 고민만 하다가 끝난다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "등 떼밀려 관둘 때가 돼서야 비로소 \\\"뭘 먹고 살아야 하지\\\"라고 생각한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이런 사람들에게 용기를 주는 또 하나의 책이 나왔다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "자신이 정말 하고 싶은 일이 무엇인지를 우선 정하고 그런 후 주저하지 말고 실행하라고 한다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "어떤 어려움이 닥쳐도 결코 좌절하지 말고 끝까지 밀어붙이라고도 충고한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "성공 노하우치고는 참 싱겁다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그런데도 저자는 '뻔하지 않은 이야기'로 만들었다. '확률'이라는 무기가 그 비결이다. '시작이 반'이라는 속담이 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "저자 역시 똑같이 주장한다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "다만 왜 그런지를 설명하는 방식이 다르다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "성공과 실패 가능성이 반반(1/2의 확률)인 어떤 일을 추진할까, 말까를 고민할 때 네 번만 실패할 각오를 한다면 '하라'고 권고한다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "다섯 번 모두 실패할 가능성은 3%밖에 안되기 때문이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "성공 가능성이 1%밖에 안된다고 해도 마찬가지다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "모두 다 차일 각오를 하고 450명의 여성에게 데이트 신청을 하면 이중 한 명은 OK를 할 가능성이 무려 99%나 된다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "성공 가능성이 거의 없는(0.1%)일도 2000번을 포기하지 않으면 반드시 성공한다(성공 확률 99.9956%). 그러니 실패를 두려워해선 안된다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "중간에 포기하면 성공 가능성은 정말 제로(0)가 된다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "생활의 노하우도 가르쳐 준다. '가위 바위 보'게임에서 이기는 비법이 있단다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "갑작스레 이 게임을 할 경우 이 책을 본 독자들은 '보'를 내면 된다. '가위'는 손의 형태가 어렵기 때문에 사람들은 대체로 '바위'나 '보'를 낸다는 이유에서다. 4명의 이성과 맞선을 볼 때 가장 마음에 드는 상대와 결혼할 가능성을 높이는 비결도 가르쳐준다.",
+        "sentenceSize": 145
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "그러나 이것 한 가지는 주의하길 바란다. 450명의 여성에게 데이트 신청을 했지만 한 번도 성공하지 않는 사람이 있을 수 있고, '보'를 냈는데도 지는 경우가 있을 수 있다는 점을. 확률은 어디까지나 평균적으로 그렇다는 얘기일 뿐이다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "한번 뿐인 인생에서 무수히 도전하는 건 불가능하며, 성공의 화살은 언제나 '나'를 피해갈 수도 있다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "시작이 반인 것처럼 '이것'을 믿고 밀어붙이는게 성공 노하우?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

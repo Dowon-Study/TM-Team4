@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198541",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "공짜로 보는 e-삼국지",
+    "newsSubTitle": "솔출판사 '김구용…' 인터넷에 무료 제공",
+    "newsContent": "솔출판사의 '김구용 삼국지'가 16일 낮 12시부터 4개 인터넷 사이트에서 무료 다운로드된다. 고 김구용 선생이 완역한 '삼국지 연의'(전 10권)가 무료 제공되는 사이트는 ebook32(www.ebook21.com), 마이클럽(www.miclub.co.kr), 벅스뮤직(www.bugs.co.kr), 엠파스(www.empas.com) 등이다.\n지금까지 인터넷 사이트에서 저작권이 소멸된 고전소설이나 근대소설을 무료 제공한 경우는 있었지만 저작권이 살아있는 장편소설을 무료 제공하는 것은 이번이 처음이다.\n북토피아(www.booktopia.com) 등 인터넷 사이트에서는 소설 작품을 다운로드 받는데 오프라인 서적 가격의 절반 정도의 금액을 받고 있다.\n출판사 측은 \\\"삼국지의 인터넷 무료 제공은 일단 연말까지 계속된다. 또 오프라인 서적 판매 수익은 전액 아름다운재단에 기부할 예정\\\"이라고 밝혔다.\n솔출판사의 파격적인 삼국지 무료 제공은 '이문열 평역 삼국지'(민음사)와 '황석영 번역 삼국지'(창비)가 양분하고 있는 삼국지 시장에 변화를 꾀하고 '김구용 삼국지'를 홍보하기 위한 것으로 보인다.\n출판사는 \\\"'김구용 삼국지'의 번역이 가장 정확하고 원전에 충실하다는 점을 알리기 위해 무료 제공을 결정했다\\\"고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "솔출판사의 '김구용 삼국지'가 16일 낮 12시부터 4개 인터넷 사이트에서 무료 다운로드된다. 고 김구용 선생이 완역한 '삼국지 연의'(전 10권)가 무료 제공되는 사이트는 ebook32(www.ebook21.com), 마이클럽(www.miclub.co.kr), 벅스뮤직(www.bugs.co.kr), 엠파스(www.empas.com) 등이다.",
+        "sentenceSize": 192
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지금까지 인터넷 사이트에서 저작권이 소멸된 고전소설이나 근대소설을 무료 제공한 경우는 있었지만 저작권이 살아있는 장편소설을 무료 제공하는 것은 이번이 처음이다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "북토피아(www.booktopia.com) 등 인터넷 사이트에서는 소설 작품을 다운로드 받는데 오프라인 서적 가격의 절반 정도의 금액을 받고 있다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "출판사 측은 \\\"삼국지의 인터넷 무료 제공은 일단 연말까지 계속된다. 또 오프라인 서적 판매 수익은 전액 아름다운재단에 기부할 예정\\\"이라고 밝혔다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "솔출판사의 파격적인 삼국지 무료 제공은 '이문열 평역 삼국지'(민음사)와 '황석영 번역 삼국지'(창비)가 양분하고 있는 삼국지 시장에 변화를 꾀하고 '김구용 삼국지'를 홍보하기 위한 것으로 보인다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "출판사는 \\\"'김구용 삼국지'의 번역이 가장 정확하고 원전에 충실하다는 점을 알리기 위해 무료 제공을 결정했다\\\"고 밝혔다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'김구용 삼국지' 무료 다운로드… 번역이 가장 정확하고 '이것'에 충실하다는 점을 알리기 위해 실시한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

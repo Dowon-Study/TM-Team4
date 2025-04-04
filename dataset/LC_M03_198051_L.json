@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198051",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "손목에 차고만 있어도 혈당 측정",
+    "newsSubTitle": "",
+    "newsContent": "케이엠에이치는 무채혈 연속 혈당 측정기 ‘글루콜’에 대한 임상시험결과를 최근 서울아산병원 등으로부터 승인 받았다.\n글루콜은 피를 뽑지 않고 혈당을 체크하는 혈당측정기다.\n시계처럼 손목에 차고 있으면 피부 내의 글루코스를 추출해 20분마다 연속적으로 혈당수치를 측정해 보여준다.\n당뇨환자들이 직접 채혈침을 이용해 피를 뽑아 혈당을 체크하는 번거로움을 줄였다.\n회사는 지난해 10월말부터 1개월여 동안 서울 아산병원과 아주대학병원에서 당뇨환자 41명을 대상으로 임상시험을 했다.\n그 결과 제품의 안정성과 유효성을 서울아산병원과 아주대병원의 IRB(병원내부임상기관)으로부터 승인받았다.\n회사 관계자는 “세계적으로 글루콜과 비슷한 방법으로 혈당을 측정하는 연구가 꾸준히 진행되고 있으나 실제 시장에 판매되는 경우는 없다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "케이엠에이치는 무채혈 연속 혈당 측정기 ‘글루콜’에 대한 임상시험결과를 최근 서울아산병원 등으로부터 승인 받았다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "글루콜은 피를 뽑지 않고 혈당을 체크하는 혈당측정기다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "시계처럼 손목에 차고 있으면 피부 내의 글루코스를 추출해 20분마다 연속적으로 혈당수치를 측정해 보여준다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당뇨환자들이 직접 채혈침을 이용해 피를 뽑아 혈당을 체크하는 번거로움을 줄였다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "회사는 지난해 10월말부터 1개월여 동안 서울 아산병원과 아주대학병원에서 당뇨환자 41명을 대상으로 임상시험을 했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 결과 제품의 안정성과 유효성을 서울아산병원과 아주대병원의 IRB(병원내부임상기관)으로부터 승인받았다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "회사 관계자는 “세계적으로 글루콜과 비슷한 방법으로 혈당을 측정하는 연구가 꾸준히 진행되고 있으나 실제 시장에 판매되는 경우는 없다”고 말했다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "당뇨환자들 피 뽑을 일 사라진다... '이것'만 있으면 혈당 측정 오케이",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

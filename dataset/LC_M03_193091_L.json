@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193091",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "비정상 세포 죽이는 염소이온 운반체 개발…새로운 항암제 개발되나",
+    "newsSubTitle": "",
+    "newsContent": "국내 연구진이 세포가 어떤 생물학적 과정을 통해 사멸되는지 규명해 새로운 항암제 개발의 길을 열었다.\n연세대는 이 대학 화학과 신인재 교수 연구팀이 세포 사멸 과정을 규명하고 세포 내 염소이온 농도를 변화시킬 수 있는 염소이온 운반체를 개발했다고 31일 밝혔다.\n세포 내 이온 농도가 정상적이지 않으면 다양한 질병에 걸리고, 이온 농도가 바뀌면 세포가 사멸된다는 것이 알려지면서 이온 농도를 변화시키는 인공 이온 운반체 개발 연구는 활발하게 진행됐다.\n이번에 발견한 스쿠아르아미드(squaramide) 구조의 인공 염소이온 운반체는 자가소화작용을 억제해 세포사멸을 촉진한다는 것이 연구팀의 설명이다.\n자가소화작용은 세포가 영양소 부족 상태에 놓였을 때 세포 내 단백질이나 세포소기관을 분해해 에너지를 만드는 작용을 말한다.\n미래창조과학부의 지원을 받아 이뤄진 이번 연구의 결과는 권위 있는 국제학술지인 네이처 케미스트리(Nature Chemistry)에 게재됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국내 연구진이 세포가 어떤 생물학적 과정을 통해 사멸되는지 규명해 새로운 항암제 개발의 길을 열었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "연세대는 이 대학 화학과 신인재 교수 연구팀이 세포 사멸 과정을 규명하고 세포 내 염소이온 농도를 변화시킬 수 있는 염소이온 운반체를 개발했다고 31일 밝혔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "세포 내 이온 농도가 정상적이지 않으면 다양한 질병에 걸리고, 이온 농도가 바뀌면 세포가 사멸된다는 것이 알려지면서 이온 농도를 변화시키는 인공 이온 운반체 개발 연구는 활발하게 진행됐다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번에 발견한 스쿠아르아미드(squaramide) 구조의 인공 염소이온 운반체는 자가소화작용을 억제해 세포사멸을 촉진한다는 것이 연구팀의 설명이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "자가소화작용은 세포가 영양소 부족 상태에 놓였을 때 세포 내 단백질이나 세포소기관을 분해해 에너지를 만드는 작용을 말한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "미래창조과학부의 지원을 받아 이뤄진 이번 연구의 결과는 권위 있는 국제학술지인 네이처 케미스트리(Nature Chemistry)에 게재됐다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국내 연구진 새로운 길 열어... '네이처 케미스트리'에 게재",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

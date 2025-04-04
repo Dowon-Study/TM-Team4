@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195626",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "차바이오텍 동종 탯줄유래 '무릎 관절연골 결손' 치료제 임상 승인",
+    "newsSubTitle": "3년여 간 최대 12명 환자 대상, 분당차병원서 진행 예정",
+    "newsContent": "차바이오텍은 20일 \\\"‘무릎 관절연골 결손치료제(Cordstem-CD Kit)’에 대한 임상승인을 식품의약품안전처로부터 획득했다\\\"고 밝혔다.\n이번 임상은 안전성과 잠재적 유효성을 평가하는 임상1상으로 총 36개월에 걸쳐 최대 12명의 임상환자들을 대상으로 분당차병원에서 진행된다.\n치료제의 투여방법은 관절 내시경적 방법을 통해 연골결손부의 심층부를 정리하고 겔(gel)화된 치료제를 병변 부위에 주사하는 방법으로 병변 면적에 따라 환자를 2개의 군(코호트)로 나누어 각각의 다른 투여용량을 적용한다.\n관절연골 결손은 염증이나 스포츠 손상 등 다양한 원인으로 인해 관절연골이 소실되는 질환이다.\n전체적으로 연골이 마모되는 퇴행성 관절염과는 다르게 병변의 주변부는 건강한 관절연골이 유지되기 때문에 결손부위를 건강한 연골로 대체하는 치료법이 필요하다.\n이를 위해 미세천공술, 자가 골연골 이식술, 자가 연골세포 이식술 등 다양한 연구가 지속적으로 이뤄지고 있지만 아직 결손부위를 대체할 수 있는 완전한 치료방법은 없는 실정이다.\n차바이오텍은 금번 관절연골 결손 질환에 대해 국내 최초로 동결기술을 접목시켜 최장 36개월까지 보관이 가능하고 배양기간에 상관없이 환자에게 즉시 투여할 수 있는 세포치료제를 개발하는 것을 목표로 하고 있다.\n대량생산을 통해 제조원가를 낮추게 되면 상대적으로 낮은 가격대의 치료제를 공급할 수 있을 것이라 차아비오텍은 내다보고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "차바이오텍은 20일 \\\"‘무릎 관절연골 결손치료제(Cordstem-CD Kit)’에 대한 임상승인을 식품의약품안전처로부터 획득했다\\\"고 밝혔다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번 임상은 안전성과 잠재적 유효성을 평가하는 임상1상으로 총 36개월에 걸쳐 최대 12명의 임상환자들을 대상으로 분당차병원에서 진행된다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "치료제의 투여방법은 관절 내시경적 방법을 통해 연골결손부의 심층부를 정리하고 겔(gel)화된 치료제를 병변 부위에 주사하는 방법으로 병변 면적에 따라 환자를 2개의 군(코호트)로 나누어 각각의 다른 투여용량을 적용한다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "관절연골 결손은 염증이나 스포츠 손상 등 다양한 원인으로 인해 관절연골이 소실되는 질환이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "전체적으로 연골이 마모되는 퇴행성 관절염과는 다르게 병변의 주변부는 건강한 관절연골이 유지되기 때문에 결손부위를 건강한 연골로 대체하는 치료법이 필요하다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 위해 미세천공술, 자가 골연골 이식술, 자가 연골세포 이식술 등 다양한 연구가 지속적으로 이뤄지고 있지만 아직 결손부위를 대체할 수 있는 완전한 치료방법은 없는 실정이다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "차바이오텍은 금번 관절연골 결손 질환에 대해 국내 최초로 동결기술을 접목시켜 최장 36개월까지 보관이 가능하고 배양기간에 상관없이 환자에게 즉시 투여할 수 있는 세포치료제를 개발하는 것을 목표로 하고 있다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "대량생산을 통해 제조원가를 낮추게 되면 상대적으로 낮은 가격대의 치료제를 공급할 수 있을 것이라 차아비오텍은 내다보고 있다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "차바이오텍, '무릎 관절연골 결손 치료제' 개발 어디까지 진행됐나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

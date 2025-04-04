@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196718",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스 신간",
+    "newsSubTitle": "",
+    "newsContent": "수면 부족에 시달리는 현대인을 위한 수면 가이드 『스탠퍼드식 최고의 수면법』이 나왔다.\n이 책은 적게 자도 피곤하지 않은 방법으로 ‘잠든 후 90분 숙면’을 제시한다. 90분 숙면의 비밀과 이를 실천하기 위한 다양한 비법을 소개한다.\n잠들기 전의 나쁜 습관을 없애고 각성·수면과 관계된 호르몬 분비를 활성화하는 법을 알려준다.\n생체리듬에 따라 하루를 보내는 법도 소개한다.\n노화를 막는 비결을 과학적으로 제시한 책 『영거(Younger)』가 출간됐다.\n의사이자 과학자인 저자는 우리 몸의 노화를 가속화하는 다섯 가지 핵심 인자로 근육·뇌·호르몬·장·독성지방을 소개한다.\n건강한 노년 생활을 위해 이 인자들을 조절하는 방법을 알려준다.\n생활 환경의 변화로 유전자 변화를 유도하는 ‘후성 유전적’ 노화 방지 팁도 제시한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "수면 부족에 시달리는 현대인을 위한 수면 가이드 『스탠퍼드식 최고의 수면법』이 나왔다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 책은 적게 자도 피곤하지 않은 방법으로 ‘잠든 후 90분 숙면’을 제시한다. 90분 숙면의 비밀과 이를 실천하기 위한 다양한 비법을 소개한다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "잠들기 전의 나쁜 습관을 없애고 각성·수면과 관계된 호르몬 분비를 활성화하는 법을 알려준다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "생체리듬에 따라 하루를 보내는 법도 소개한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "노화를 막는 비결을 과학적으로 제시한 책 『영거(Younger)』가 출간됐다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "의사이자 과학자인 저자는 우리 몸의 노화를 가속화하는 다섯 가지 핵심 인자로 근육·뇌·호르몬·장·독성지방을 소개한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "건강한 노년 생활을 위해 이 인자들을 조절하는 방법을 알려준다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "생활 환경의 변화로 유전자 변화를 유도하는 ‘후성 유전적’ 노화 방지 팁도 제시한다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"이 책 읽고 하루 2시간 자도 쌩쌩해요\" 수면 부족인 당신이 읽어야 할 책",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

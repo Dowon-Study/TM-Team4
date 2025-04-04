@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195187",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "에어컨, 창문 열고 틀라더니…또 말 바꾼 당국 \\\"환기가 낫다\\\"",
+    "newsSubTitle": "당국 \\\"에어컨, 창문 열고 트는 건 과도…환기가 적절\\\"",
+    "newsContent": "방역당국이 에어컨 사용과 관련 \\\"창문을 열어놓고 트는 건 과도하고, 환기가 적절하다\\\"고 밝혔다.\n손영래 중앙사고수습본부 전략기획반장은 20일 정부서울청사에서 열린 정례 브리핑에서 전날 생활방역위원회에서 에어컨 사용과 관련해 논의한 결과를 소개했다.\n손 반장은 \\\"창문을 열어놓고 에어컨을 트는 지침 자체는 과도하다는 의견이 모였다\\\"며 \\\"전력상 문제나 환경파괴 등의 문제를 고려할 때 (감염 확산의) 위험도에 비해 너무 지나치게 고비용을 초래하는 행위라는 결론\\\"이라고 설명했다.\n그는 이어 창문을 열어두기 보다, 환기를 하면서 적절히 하는 게(에어컨을 트는 게) 낫다는 취지로 말했다.\n정부는 여름철 에어컨 사용이 코로나19를 확산시킬 수 있다는 우려가 제기되자, 적절한 사용법을 안내하기 위해 관련 전문가들과 논의 중이다.\n교육부는 등교개학을 앞두고 에어컨 사용 논란이 이어지자, 지난 7일 교실 창문을 3분의 1 이상 여는 조건으로 에어컨 사용을 허용하기로 학교 방역 가이드라인을 수정한다고 발표했다.\n하지만 방역당국이 약 2주 만에 해당 지침에 다시 제동을 건 모습이다.\n손 반장은 \\\"에어컨 사용수칙을 좀 더 다듬기로 했다\\\"며 \\\"관계부처들이 모여 조만간 지침을 확립해 발표하겠다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방역당국이 에어컨 사용과 관련 \\\"창문을 열어놓고 트는 건 과도하고, 환기가 적절하다\\\"고 밝혔다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "손영래 중앙사고수습본부 전략기획반장은 20일 정부서울청사에서 열린 정례 브리핑에서 전날 생활방역위원회에서 에어컨 사용과 관련해 논의한 결과를 소개했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "손 반장은 \\\"창문을 열어놓고 에어컨을 트는 지침 자체는 과도하다는 의견이 모였다\\\"며 \\\"전력상 문제나 환경파괴 등의 문제를 고려할 때 (감염 확산의) 위험도에 비해 너무 지나치게 고비용을 초래하는 행위라는 결론\\\"이라고 설명했다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 이어 창문을 열어두기 보다, 환기를 하면서 적절히 하는 게(에어컨을 트는 게) 낫다는 취지로 말했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정부는 여름철 에어컨 사용이 코로나19를 확산시킬 수 있다는 우려가 제기되자, 적절한 사용법을 안내하기 위해 관련 전문가들과 논의 중이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "교육부는 등교개학을 앞두고 에어컨 사용 논란이 이어지자, 지난 7일 교실 창문을 3분의 1 이상 여는 조건으로 에어컨 사용을 허용하기로 학교 방역 가이드라인을 수정한다고 발표했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 방역당국이 약 2주 만에 해당 지침에 다시 제동을 건 모습이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "손 반장은 \\\"에어컨 사용수칙을 좀 더 다듬기로 했다\\\"며 \\\"관계부처들이 모여 조만간 지침을 확립해 발표하겠다\\\"고 말했다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여름철 코로나19 예방 위해 창문 열고 에어컨 틀라더니... 이제 와서 아니다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

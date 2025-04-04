@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193346",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "속초의료원, 서비스 개선 나선다",
+    "newsSubTitle": "강원대학병원과 의료진 교류 협약",
+    "newsContent": "강원도 영동북부지역 종합병원인 속초의료원이 강원대학병원과 연계해 의료 서비스 질 개선에 나선다.\n강원도는 만성적인 경영난을 겪고 있는 속초의료원이 강원대병원과 의료진 교류·지원 협약을 맺고 의료의 질 향상과 경영개선을 벌인다고 3일 발표했다.\n협약기간은 2010년까지 3년이다.\n협약에 따라 한헌 강원대병원 영상의학과장이 3일 속초의료원장에 취임했다.\n강원대병원은 속초의료원 정상화를 위해 협진위원회를 구성해 속초의료원에서 필요한 진료과목을 선정하고, 어느 정도 급의 의료진을 파견 또는 지원할지 등을 결정한 후 빠르면 2008년 3월부터 본격 진료할 계획이다.\n이 과정에서 강원대병원은 진료를 전담하고, 강원도는 건실한 운영을 위해 업무협력관을 파견한다.\n강원도는 강원대병원과 협력을 계기로 현재 운영중인 속초의료원 재활요양병동(60병동)을 2008년 100병동으로 늘리는 등 지리적 여건을 활용해 요양병동 가동률을 높일 계획이다.\n또 강원대병원에서 추진중인 ‘강원도 노인보건의료센터’ 및 ‘지역암센터’와의 네트워크를 구성하는 등 속초의료원 의료의 질을 대학병원 급 수준으로 높여 경쟁력을 확보할 방침이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "강원도 영동북부지역 종합병원인 속초의료원이 강원대학병원과 연계해 의료 서비스 질 개선에 나선다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "강원도는 만성적인 경영난을 겪고 있는 속초의료원이 강원대병원과 의료진 교류·지원 협약을 맺고 의료의 질 향상과 경영개선을 벌인다고 3일 발표했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "협약기간은 2010년까지 3년이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "협약에 따라 한헌 강원대병원 영상의학과장이 3일 속초의료원장에 취임했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "강원대병원은 속초의료원 정상화를 위해 협진위원회를 구성해 속초의료원에서 필요한 진료과목을 선정하고, 어느 정도 급의 의료진을 파견 또는 지원할지 등을 결정한 후 빠르면 2008년 3월부터 본격 진료할 계획이다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 과정에서 강원대병원은 진료를 전담하고, 강원도는 건실한 운영을 위해 업무협력관을 파견한다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "강원도는 강원대병원과 협력을 계기로 현재 운영중인 속초의료원 재활요양병동(60병동)을 2008년 100병동으로 늘리는 등 지리적 여건을 활용해 요양병동 가동률을 높일 계획이다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 강원대병원에서 추진중인 ‘강원도 노인보건의료센터’ 및 ‘지역암센터’와의 네트워크를 구성하는 등 속초의료원 의료의 질을 대학병원 급 수준으로 높여 경쟁력을 확보할 방침이다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "속초의료원, 의료 서비스 질 개선에 나선다... '가즈아'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195051",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"인간 수명 130세 돌파 가능\\\" 英 연구팀 그 근거 찾았다",
+    "newsSubTitle": "",
+    "newsContent": "현시대에 인간이 도달할 수 있는 최고령은 130세이며 더 늘어날 수도 있다는 연구 결과가 발표됐다.\n7일(현지시간) 영국 더타임스에 따르면 캐나다 몬트리올 대학교 HEC 경영대학 레오 벨자일 조교수 연구팀은 실제 장수 사례의 수치 데이터를 분석해 인간의 최대 수명이 130년 이상으로 늘어날 수 있다는 결과를 도출했다.\n현재까지 보고된 공식 역대 최장수 기록은 122세다.\n프랑스의 잔 루이즈 칼망 할머니가 1875년 출생해 1997년 마지막 숨을 거뒀다.\n생존한 전세계 최고령자는 올해 118세가 된 일본의 다나카 가네 할머니다.\n연구팀은 110세 이상 초고령자와 105세 이상 준초고령자 통계를 비롯해 연령별 사망 위험, 생존율 등을 종합적으로 분석했다.\n통상 50세 이상부터는 연령이 높아질수록 사망 위험도 같이 커지는데, 110세 이상 장수한 사람들의 수명 데이터를 분석한 결과 80세부터는 사망률 증가세가 완화되고 105∼110세부터는 위험률이 오히려 낮아지는 경향을 나타냈다.\n110세 이후 장수할 가능성이 더 높아진다는 의미다.\n벨자일 교수는 “특정 데이터 표본을 분석하면 인간의 수명에 한계가 없다는 결과가 나오기도 한다”며 “인간의 수명은 기존에 드러난 장수 사례를 훨씬 뛰어넘을 수 있다. 특히 특별한 의료 기술 발달 없이도 이런 기대를 할 수 있다”고 결론지었다.\n그는 “가까운 미래에 최고령이 130세를 넘길 가능성은 매우 희박하지만 그 확률이 0은 아니다”고 부연했다.\n그러면서도 “관측 대상의 수명은 모두 유한했다. 따라서, 수학적 분석을 일상 언어로 해석할 때는 주의가 필요하다”고 확대 해석을 경계했다.\n이 연구 내용은 국제학술지 ‘통계와 응용 연례 비평’에 게재될 예정이다.\n인간의 사망·수명 전문가인 에일린 크리민스 서던 캘리포니아 대학교(USC) 교수도 더타임스에 “2100년 이전에 누군가 130세에 도달한다 해도 놀라지 않을 것”이라고 설명했다.\n그러나 그는 “아직 122세 이상 생존한 사람은 없다. 누군가가 130세를 살 수는 있다. 사람이 많을수록 장수하는 사람이 나올 확률도 높다”고 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "현시대에 인간이 도달할 수 있는 최고령은 130세이며 더 늘어날 수도 있다는 연구 결과가 발표됐다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "7일(현지시간) 영국 더타임스에 따르면 캐나다 몬트리올 대학교 HEC 경영대학 레오 벨자일 조교수 연구팀은 실제 장수 사례의 수치 데이터를 분석해 인간의 최대 수명이 130년 이상으로 늘어날 수 있다는 결과를 도출했다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "현재까지 보고된 공식 역대 최장수 기록은 122세다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "프랑스의 잔 루이즈 칼망 할머니가 1875년 출생해 1997년 마지막 숨을 거뒀다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "생존한 전세계 최고령자는 올해 118세가 된 일본의 다나카 가네 할머니다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구팀은 110세 이상 초고령자와 105세 이상 준초고령자 통계를 비롯해 연령별 사망 위험, 생존율 등을 종합적으로 분석했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "통상 50세 이상부터는 연령이 높아질수록 사망 위험도 같이 커지는데, 110세 이상 장수한 사람들의 수명 데이터를 분석한 결과 80세부터는 사망률 증가세가 완화되고 105∼110세부터는 위험률이 오히려 낮아지는 경향을 나타냈다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "110세 이후 장수할 가능성이 더 높아진다는 의미다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "벨자일 교수는 “특정 데이터 표본을 분석하면 인간의 수명에 한계가 없다는 결과가 나오기도 한다”며 “인간의 수명은 기존에 드러난 장수 사례를 훨씬 뛰어넘을 수 있다. 특히 특별한 의료 기술 발달 없이도 이런 기대를 할 수 있다”고 결론지었다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그는 “가까운 미래에 최고령이 130세를 넘길 가능성은 매우 희박하지만 그 확률이 0은 아니다”고 부연했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그러면서도 “관측 대상의 수명은 모두 유한했다. 따라서, 수학적 분석을 일상 언어로 해석할 때는 주의가 필요하다”고 확대 해석을 경계했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이 연구 내용은 국제학술지 ‘통계와 응용 연례 비평’에 게재될 예정이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "인간의 사망·수명 전문가인 에일린 크리민스 서던 캘리포니아 대학교(USC) 교수도 더타임스에 “2100년 이전에 누군가 130세에 도달한다 해도 놀라지 않을 것”이라고 설명했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그러나 그는 “아직 122세 이상 생존한 사람은 없다. 누군가가 130세를 살 수는 있다. 사람이 많을수록 장수하는 사람이 나올 확률도 높다”고 했다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "캐나다 연구팀, 인간 최대 수명은 130년 이상... 110세 이후 장수 가능성 더 높다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

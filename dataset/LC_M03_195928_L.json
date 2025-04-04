@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195928",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "서남대 우선협상대상자에 '명지병원' 선정",
+    "newsSubTitle": "임시이사회, 25일 저녁 회의 열고 표결로 결정",
+    "newsContent": "서남대학교 재정기여자 공모에 뛰어든 명지의료재단(명지병원)이 우선협상대상자로 최종 선정됐다.\n이로써 명지병원은 서남대 인수를 위한 유리한 고지를 점령했다.\n서남대 임시이사회는 25일 익산의 궁 웨딩홀에서 우선협상대상자 선정을 위한 회의를 열고, 공모에 참여한 명지의료재단과 전주예수병원 등 2곳에 대해 검토를 벌였다.\n그 결과 명지병원이 최종 우선협상대상자로 선정되면서 두달 가까이 진행됐던 서남대 정상화 재정기여자 공모도 마침표를 찍게 됐다.\n이날 표결에는 이사장을 제외한 5명의 이사가 참여했으며, 명지병원이 만장일치로 선정된 것으로 알려졌다.\n명지병원은 그동안 의대인증평가 가능성과 학교 정상화 의지, 재정 능력 등을 들어 서남대 우선협상대상자 공모에 자신감을 보여왔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서남대학교 재정기여자 공모에 뛰어든 명지의료재단(명지병원)이 우선협상대상자로 최종 선정됐다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이로써 명지병원은 서남대 인수를 위한 유리한 고지를 점령했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서남대 임시이사회는 25일 익산의 궁 웨딩홀에서 우선협상대상자 선정을 위한 회의를 열고, 공모에 참여한 명지의료재단과 전주예수병원 등 2곳에 대해 검토를 벌였다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 결과 명지병원이 최종 우선협상대상자로 선정되면서 두달 가까이 진행됐던 서남대 정상화 재정기여자 공모도 마침표를 찍게 됐다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 표결에는 이사장을 제외한 5명의 이사가 참여했으며, 명지병원이 만장일치로 선정된 것으로 알려졌다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "명지병원은 그동안 의대인증평가 가능성과 학교 정상화 의지, 재정 능력 등을 들어 서남대 우선협상대상자 공모에 자신감을 보여왔다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "명지병원이 우선협상대상자로 최종 선정돼… 공모에 선정될 수 있었던 이유는? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

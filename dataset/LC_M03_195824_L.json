@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195824",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "흑설탕 스크럽 만들기, 여름철 모공관리에 ‘대박 효과’ 그 방법은?",
+    "newsSubTitle": "",
+    "newsContent": "흑설탕 스크럽 만들기 여름철 집에서 쉽게 할 수 있는 모공관리법으로 흑설탕 스크럽 만들기가 화제를 모으고 있다.\n흑설탕 스크럽 만들기는 집에서도 손쉽게 할 수 있다.\n플레인 요구르트 1숟가락과 흑설탕 1숟가락만 넣으면 흑설탈 스크럽 만들기가 끝난다.\n흑설탕 스크럽 만들기 외에도 어떤 방법으로 모공관리를 할 수 있는지 살펴보자. 1. 흑설탕 스크럽 흑설탕은 강력한 스크럽 효과를 가지고 있으며 각질제거에 매우 효과적이다.\n특히 요구르트와 섞어 2~3분 마사지하고 씻어내면 부드러운 피부를 만들 수 있다.(플레인요구르트1술+흑설탕1술) 2. 플레인요구르트팩 지성피부 혹은 모공이 넓어져 모공관리가 필요한 분에겐 요구르트가 좋다.\n요구르트는 각질제거에 효과적이며 단기간에 깨끗한 피부를 만들 수 있다.(플레인요구르트2술+오트밀가루2술) 3. 달걀흰자팩 세정작용이 있는 달걀흰자는 피부 깊숙한 곳에 있는 피지를 흡착하고 세정하는 기능이 있다.\n달걀흰자를 거품이 날 때까지 젖어준 다음 밀가루를 섞어 농도를 조절해 팩을 하면 블랙헤드를 제거 하는데 효과가 있다.(달걀흰자1개+밀가루2술) 흑설탕 스크럽 만들기 온라인 중앙일보 [사진 중앙포토] 흑설탕 스크럽 만들기",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "흑설탕 스크럽 만들기 여름철 집에서 쉽게 할 수 있는 모공관리법으로 흑설탕 스크럽 만들기가 화제를 모으고 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "흑설탕 스크럽 만들기는 집에서도 손쉽게 할 수 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "플레인 요구르트 1숟가락과 흑설탕 1숟가락만 넣으면 흑설탈 스크럽 만들기가 끝난다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "흑설탕 스크럽 만들기 외에도 어떤 방법으로 모공관리를 할 수 있는지 살펴보자. 1. 흑설탕 스크럽 흑설탕은 강력한 스크럽 효과를 가지고 있으며 각질제거에 매우 효과적이다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 요구르트와 섞어 2~3분 마사지하고 씻어내면 부드러운 피부를 만들 수 있다.(플레인요구르트1술+흑설탕1술) 2. 플레인요구르트팩 지성피부 혹은 모공이 넓어져 모공관리가 필요한 분에겐 요구르트가 좋다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "요구르트는 각질제거에 효과적이며 단기간에 깨끗한 피부를 만들 수 있다.(플레인요구르트2술+오트밀가루2술) 3. 달걀흰자팩 세정작용이 있는 달걀흰자는 피부 깊숙한 곳에 있는 피지를 흡착하고 세정하는 기능이 있다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "달걀흰자를 거품이 날 때까지 젖어준 다음 밀가루를 섞어 농도를 조절해 팩을 하면 블랙헤드를 제거 하는데 효과가 있다.(달걀흰자1개+밀가루2술) 흑설탕 스크럽 만들기 온라인 중앙일보 [사진 중앙포토] 흑설탕 스크럽 만들기",
+        "sentenceSize": 122
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여름철 집에서 쉽게 할 수 있는 화제의 모공 관리 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

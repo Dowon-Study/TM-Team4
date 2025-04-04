@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194518",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "[week&기자콩밥시식기] 콩밥엔 콩이 없다",
+    "newsSubTitle": "못된 짓 하면 감방 가서 콩밥 먹을 줄 알라고요? 천만의 말씀, 만만의 콩떡! '콩밥'은 없었습니다",
+    "newsContent": "당신은 어떤 밥을 주로 드십니까?\n\\\"김이 모락모락 나는 갓 지은 쌀밥\\\"\\\"차게 먹으면 더 맛있는 찰밥\\\"\\\"알록달록 여러가지 재료가 들어간 잡곡밥\\\"\\\"건강 때문에 챙겨먹는 현미밥\\\"등 다양한 답이 나올 겁니다.\n그런데 답하기 꺼려지는 밥이 있습니다.\n바로 콩밥입니다.\n듣기만 해도 가슴이 철렁 내려앉는, 그래서 입에 담고 싶지도 않은 밥. 바로 교도소에서 재소자들이 먹는 '콩밥'입니다.\n밥은 생존을 위해 섭취하는 최소한의 에너지원이기도 합니다.\n이를 기준으로 보면 '눈물 젖은 빵'은 삶의 몸부림이 담긴 밥입니다.\n그래도 어금니 한번 악물면 희망이 보이는 밥입니다.\n그러나 '콩밥'은 눈물 젖은 빵의 절절함과도 견줄 수 없을 정도로 참혹한 이미지의 밥입니다.\n어떤 일이 있더라도 눈을 뜨고 살아 있는 동안 절대로 먹고 싶지 않은 밥이기 때문입니다.\n그래도 그 밥을 먹고 있는 사람들이 있습니다.\n물론 죄를 지었기 때문이지요.\n그렇지만 현재 우리랑 같은 공기를 마시며 호흡하고 있고, 죄에 대한 대가를 치르고 나면 함께 생활해야 할 사람들입니다.\n그렇다면 소설이나 영화 속에 그려진 '눈살 찌푸려지는 밥'은 아니어야 한다는 데 생각이 미쳤습니다.\n그래서 직접 확인하기로 마음을 먹고 재소자 음식을 체험할 수 있는 길을 모색했습니다.\n물론 범죄자가 되는 가장 쉬운 길은 포기했습니다.\n다행히 천안에 있는 개방교도소에 줄이 닿았습니다.\n철문이 굳게 닫힌 일반교도소와 다소 차이는 있지만 재소자들의 급식 실태를 입으로 먹어보고, 눈으로 확인하는 데는 전혀 부족함이 없었습니다.\n지난달 22일 언론사 기자 신분으로 국내에서 처음 '콩밥'을 취재한 결과는 \\\"지난날 논산훈련소에서 제가 허겁지겁 먹었던 군대 '짬밥'에 떨어지지 않는 수준\\\"으로 요약할 수 있습니다.\n참, 우리가 알고 있는 '콩밥'은 콩밥이 아니었습니다.\n보리가 섞인 보리밥이었습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "당신은 어떤 밥을 주로 드십니까?",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "\\\"김이 모락모락 나는 갓 지은 쌀밥\\\"\\\"차게 먹으면 더 맛있는 찰밥\\\"\\\"알록달록 여러가지 재료가 들어간 잡곡밥\\\"\\\"건강 때문에 챙겨먹는 현미밥\\\"등 다양한 답이 나올 겁니다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그런데 답하기 꺼려지는 밥이 있습니다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "바로 콩밥입니다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "듣기만 해도 가슴이 철렁 내려앉는, 그래서 입에 담고 싶지도 않은 밥. 바로 교도소에서 재소자들이 먹는 '콩밥'입니다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "밥은 생존을 위해 섭취하는 최소한의 에너지원이기도 합니다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 기준으로 보면 '눈물 젖은 빵'은 삶의 몸부림이 담긴 밥입니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그래도 어금니 한번 악물면 희망이 보이는 밥입니다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그러나 '콩밥'은 눈물 젖은 빵의 절절함과도 견줄 수 없을 정도로 참혹한 이미지의 밥입니다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "어떤 일이 있더라도 눈을 뜨고 살아 있는 동안 절대로 먹고 싶지 않은 밥이기 때문입니다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그래도 그 밥을 먹고 있는 사람들이 있습니다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "물론 죄를 지었기 때문이지요.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그렇지만 현재 우리랑 같은 공기를 마시며 호흡하고 있고, 죄에 대한 대가를 치르고 나면 함께 생활해야 할 사람들입니다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그렇다면 소설이나 영화 속에 그려진 '눈살 찌푸려지는 밥'은 아니어야 한다는 데 생각이 미쳤습니다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "그래서 직접 확인하기로 마음을 먹고 재소자 음식을 체험할 수 있는 길을 모색했습니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "물론 범죄자가 되는 가장 쉬운 길은 포기했습니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "다행히 천안에 있는 개방교도소에 줄이 닿았습니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "철문이 굳게 닫힌 일반교도소와 다소 차이는 있지만 재소자들의 급식 실태를 입으로 먹어보고, 눈으로 확인하는 데는 전혀 부족함이 없었습니다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "지난달 22일 언론사 기자 신분으로 국내에서 처음 '콩밥'을 취재한 결과는 \\\"지난날 논산훈련소에서 제가 허겁지겁 먹었던 군대 '짬밥'에 떨어지지 않는 수준\\\"으로 요약할 수 있습니다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "참, 우리가 알고 있는 '콩밥'은 콩밥이 아니었습니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "보리가 섞인 보리밥이었습니다.",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "교도소 재소자들은 정말 콩밥을 먹을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

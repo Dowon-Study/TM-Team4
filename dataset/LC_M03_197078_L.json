@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197078",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "조인스닷컴, 노인요양사업 성공세미나 열다",
+    "newsSubTitle": "일본 츠쿠이사 노인요양사업 전문가 초청 교육",
+    "newsContent": "오는 7월부터 시작되는 노인장기요양보험은 가정과 시설에 있는 노인성질환 환자와 가족의 부담을 크게 덜어줄 전망이다.\n현재 재가장기요양기관을 신설하면서 많은 예비 창업자들이 7월제도 시작에 대비하여 서비스 개발에 만전을 기하고 있다.\n조인스닷컴은 재가서비스회사 엔젤홈케어와 함께 일본 개호서비스회사 츠쿠이사의 전문 강사를 초청, 전문적이고 체계화된 노인요양기관의 관리 및 서비스를 배우는 자리를 마련했다.\n츠쿠이사는 개호서비스를 제공하는 회사다.\n종업원이 약 8,000여명에 작년 매출액이 3000억원으로 일본내에서 노인요양 분야에서는 인지도가 높은 회사이다.\n츠쿠이사의 전문강사들을 초청한 세미나는 6월 16, 17일 양일간 진행된다.\n세미나에서는 요양기관 관리 실전 노하우와 노인요양방문사업 관리자의 능력을 배양하는 내용이 소개된다.\n교육비용은 50만원(중식 및 주차료 제공, 부가세 별도)이며, 수료 후에는 수료증이 제공된다.\n신청은 전화 또는 인터넷을 통해 가능하며 자세한 내용은 조인스닷컴 실버케어사이트(http://silvercare.joins.com)에서 볼 수 있다.\n신청문의 : 조인스닷컴 실버케어사업부(02-2116-2112)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오는 7월부터 시작되는 노인장기요양보험은 가정과 시설에 있는 노인성질환 환자와 가족의 부담을 크게 덜어줄 전망이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "현재 재가장기요양기관을 신설하면서 많은 예비 창업자들이 7월제도 시작에 대비하여 서비스 개발에 만전을 기하고 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "조인스닷컴은 재가서비스회사 엔젤홈케어와 함께 일본 개호서비스회사 츠쿠이사의 전문 강사를 초청, 전문적이고 체계화된 노인요양기관의 관리 및 서비스를 배우는 자리를 마련했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "츠쿠이사는 개호서비스를 제공하는 회사다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "종업원이 약 8,000여명에 작년 매출액이 3000억원으로 일본내에서 노인요양 분야에서는 인지도가 높은 회사이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "츠쿠이사의 전문강사들을 초청한 세미나는 6월 16, 17일 양일간 진행된다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "세미나에서는 요양기관 관리 실전 노하우와 노인요양방문사업 관리자의 능력을 배양하는 내용이 소개된다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "교육비용은 50만원(중식 및 주차료 제공, 부가세 별도)이며, 수료 후에는 수료증이 제공된다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "신청은 전화 또는 인터넷을 통해 가능하며 자세한 내용은 조인스닷컴 실버케어사이트(http://silvercare.joins.com)에서 볼 수 있다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "신청문의 : 조인스닷컴 실버케어사업부(02-2116-2112)",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "조인스닷컴, 노인 요양사업 세미나 열어… 파격적 실전 비결 전격 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

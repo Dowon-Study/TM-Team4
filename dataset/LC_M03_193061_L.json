@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193061",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 건강강좌",
+    "newsSubTitle": "",
+    "newsContent": "강북삼성병원 ‘두통 바로 알기’ 강북삼성병원은 16일(화) 오후 2시 신관 15층 대회의실에서 ‘현대인의 두통’을 주제로 건강강좌를 연다. 신경과 문희수 교수가 만성 두통의 원인과 치료법에 대해 강의한다.\n사전 등록 없이 두통에 관심 있는 누구나 무료로 참여할 수 있다.\n문의 02-2001-2780 순천향대 부천병원 ‘폐경·골다공증’ 순천향대 부천병원이 18일(목) 낮 12시 별관 순의홀에서 중·장년층 여성을 위한 건강강좌를 개최한다.\n이날 강좌에서는 산부인과 이해혁 교수가 ‘폐경·골다공증의 증상·원인·관리법과 호르몬 대체요법의 필요성’ 등을 주제로 강의한다.\n강의가 끝난 후에는 무료로 골밀도 검사를 받을 수 있다.\n사전 등록 없이 누구나 무료로 참석할 수 있다.\n문의 032-621-5055 메디플렉스 세종병원 ‘치매’ 메디플렉스 세종병원은 18일(목) 오후 2시 지하 1층 비전홀에서 ‘치매, 극복할 수 있다’를 주제로 새해맞이 건강강좌를 연다. 정신건강의학과 권순재(치매전문센터장) 과장이 치매의 원인과 치료법에 대해 강의한다.\n치매에 관심 있는 사람은 누구나 참여할 수 있다.\n강의 후 질의응답이 진행된다.\n문의 032-240-8724 건국대병원 ‘전방십자인대 재건술’ 건국대병원은 23일(화) 오후 2시 대강당 지하 3층에서 ‘무릎’ 건강강좌를 연다. 김진구 스포츠의학센터장이 ‘전방십자인대 재건술’을 주제로 ▶전방십자인대 손상 기전 및 수술 적응증 ▶재건술 방법 및 최근 경향 ▶재건술 후 재활 ▶재건술 전후 관리 등을 알린다.\n별도의 신청 없이 누구나 무료로 참석할 수 있다.\n문의 1588-1533 김안과병원 ‘당뇨병성 망막병증’ 건양의대 김안과병원은 24일(수) 오후 3시30분 김안과병원 명곡홀(망막병원 7층)에서 ‘무서운 당뇨 합병증, 당뇨병성 망막병증’을 주제로 2018년도 첫 번째 ‘해피 eye 눈 건강 강좌’를 개최한다.\n망막병원 이석현 교수가 성인 실명을 유발하는 주요 질환 중 하나인 당뇨병성 망막병증의 원인과 진단법, 치료와 관리법 등을 설명한다.\n매달 1회 열리는 ‘해피 eye 눈 건강 강좌’를 통해 일반인이 알아야 할 안과 건강 정보를 전달할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "강북삼성병원 ‘두통 바로 알기’ 강북삼성병원은 16일(화) 오후 2시 신관 15층 대회의실에서 ‘현대인의 두통’을 주제로 건강강좌를 연다. 신경과 문희수 교수가 만성 두통의 원인과 치료법에 대해 강의한다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사전 등록 없이 두통에 관심 있는 누구나 무료로 참여할 수 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "문의 02-2001-2780 순천향대 부천병원 ‘폐경·골다공증’ 순천향대 부천병원이 18일(목) 낮 12시 별관 순의홀에서 중·장년층 여성을 위한 건강강좌를 개최한다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 강좌에서는 산부인과 이해혁 교수가 ‘폐경·골다공증의 증상·원인·관리법과 호르몬 대체요법의 필요성’ 등을 주제로 강의한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "강의가 끝난 후에는 무료로 골밀도 검사를 받을 수 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사전 등록 없이 누구나 무료로 참석할 수 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "문의 032-621-5055 메디플렉스 세종병원 ‘치매’ 메디플렉스 세종병원은 18일(목) 오후 2시 지하 1층 비전홀에서 ‘치매, 극복할 수 있다’를 주제로 새해맞이 건강강좌를 연다. 정신건강의학과 권순재(치매전문센터장) 과장이 치매의 원인과 치료법에 대해 강의한다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "치매에 관심 있는 사람은 누구나 참여할 수 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "강의 후 질의응답이 진행된다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "문의 032-240-8724 건국대병원 ‘전방십자인대 재건술’ 건국대병원은 23일(화) 오후 2시 대강당 지하 3층에서 ‘무릎’ 건강강좌를 연다. 김진구 스포츠의학센터장이 ‘전방십자인대 재건술’을 주제로 ▶전방십자인대 손상 기전 및 수술 적응증 ▶재건술 방법 및 최근 경향 ▶재건술 후 재활 ▶재건술 전후 관리 등을 알린다.",
+        "sentenceSize": 181
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "별도의 신청 없이 누구나 무료로 참석할 수 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "문의 1588-1533 김안과병원 ‘당뇨병성 망막병증’ 건양의대 김안과병원은 24일(수) 오후 3시30분 김안과병원 명곡홀(망막병원 7층)에서 ‘무서운 당뇨 합병증, 당뇨병성 망막병증’을 주제로 2018년도 첫 번째 ‘해피 eye 눈 건강 강좌’를 개최한다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "망막병원 이석현 교수가 성인 실명을 유발하는 주요 질환 중 하나인 당뇨병성 망막병증의 원인과 진단법, 치료와 관리법 등을 설명한다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "매달 1회 열리는 ‘해피 eye 눈 건강 강좌’를 통해 일반인이 알아야 할 안과 건강 정보를 전달할 예정이다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "순천향대 부천병원, 관리법과 대체요법 필요성 강의",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198105",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK책갈피] 빈곤국 제품은 더 비싼 값에 사주자",
+    "newsSubTitle": "",
+    "newsContent": "인간의 얼굴을 한 시장 경제, 공정무역 마일즈 리트비노프 외 지음, 김병순 옮김, 모티브 북, 320쪽, 1만5000원 빈민들의 가난이 부자의 잘못때문일까.\n그런 면이 전혀 없진 않겠지만 대체로는 아니다.\n제3세계의 빈곤 역시 선진국의 착취 때문은 아니다.\n그래서 부자나 선진국에게 가난한 사람이나 나라들을 도울 의무가 있는 건 아니다.\n기부나 원조를 강요해서도 안 된다.\n그런데도 기부를 많이 하는 부자들은 존경 받는다. ‘보통 부자’가 하기 어려운 일을 하기 때문이다.\n그게 ‘노블리스 오블리제’(가진 자의 도덕적 의무)다.\n제3 세계를 돕겠다며 노력하는 사람들이 아름다운 것도 같은 이유에서다.\n이런 노력 중 하나가 요즘 세상의 주목을 받고 있는 공정무역(Fair Trade)이다.\n사실 물건은 시장에서 형성되는 가격으로 거래되고, 또 그래야 한다.\n그러나 공정무역은 제3 세계에서 만든 물건은 시장가격보다 좀더 쳐주자고 주장한다.\n왜냐? 지은이의 답변은 이렇다.\n제3 세계 국가들이 수출하는 커피나 설탕 등 농산물을 재배하는 농민들은 무수히 많다.\n반면 이를 구입하는 곳은 몇몇 다국적기업이다.\n공급자는 무수히 많지만 수요자는 극히 적은 ‘수요자 독점’구조에서는 수요자인 다국적기업이 부르는 게 시장가격이다.\n농민들이 생산비 조차 못 건지니 빈부격차라든가 선진국 및 후진국간 격차는 갈수록 커진다는 것이다.\n그러니 정상적인 이윤이 더해진, 경쟁시장에서의 가격으로 제3 세계 제품을 사주자는 것이다. .\n지은이는 이렇게 공정무역을 하면 50가지 문제가 해결된다고 한다.\n이들에게 희망을 주고, 인간의 얼굴을 한 개발도 가능해지며, 아이들을 학교에 보낼 수 있다는 것이다.\n더 나아가 자유무역과 세계화의 대안이자, 미래의 경제모델이 될 수 있다고 주장한다.\n설마 그럴 리야 있겠냐마는, 그러나 물건값을 더 쳐줌으로써 제3세계 빈민들에게 희망을 줄 수 있다면 동참해보는 것도 좋을 것 같다.\n국내에서는 여성환경연대가 희망무역이라는 이름으로 온라인쇼핑몰(www.ecofairtrade.co.kr)을 열어놓고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "인간의 얼굴을 한 시장 경제, 공정무역 마일즈 리트비노프 외 지음, 김병순 옮김, 모티브 북, 320쪽, 1만5000원 빈민들의 가난이 부자의 잘못때문일까.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그런 면이 전혀 없진 않겠지만 대체로는 아니다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "제3세계의 빈곤 역시 선진국의 착취 때문은 아니다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그래서 부자나 선진국에게 가난한 사람이나 나라들을 도울 의무가 있는 건 아니다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "기부나 원조를 강요해서도 안 된다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그런데도 기부를 많이 하는 부자들은 존경 받는다. ‘보통 부자’가 하기 어려운 일을 하기 때문이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그게 ‘노블리스 오블리제’(가진 자의 도덕적 의무)다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "제3 세계를 돕겠다며 노력하는 사람들이 아름다운 것도 같은 이유에서다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이런 노력 중 하나가 요즘 세상의 주목을 받고 있는 공정무역(Fair Trade)이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "사실 물건은 시장에서 형성되는 가격으로 거래되고, 또 그래야 한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그러나 공정무역은 제3 세계에서 만든 물건은 시장가격보다 좀더 쳐주자고 주장한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "왜냐? 지은이의 답변은 이렇다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "제3 세계 국가들이 수출하는 커피나 설탕 등 농산물을 재배하는 농민들은 무수히 많다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "반면 이를 구입하는 곳은 몇몇 다국적기업이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "공급자는 무수히 많지만 수요자는 극히 적은 ‘수요자 독점’구조에서는 수요자인 다국적기업이 부르는 게 시장가격이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "농민들이 생산비 조차 못 건지니 빈부격차라든가 선진국 및 후진국간 격차는 갈수록 커진다는 것이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "그러니 정상적인 이윤이 더해진, 경쟁시장에서의 가격으로 제3 세계 제품을 사주자는 것이다. .",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "지은이는 이렇게 공정무역을 하면 50가지 문제가 해결된다고 한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "이들에게 희망을 주고, 인간의 얼굴을 한 개발도 가능해지며, 아이들을 학교에 보낼 수 있다는 것이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "더 나아가 자유무역과 세계화의 대안이자, 미래의 경제모델이 될 수 있다고 주장한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "설마 그럴 리야 있겠냐마는, 그러나 물건값을 더 쳐줌으로써 제3세계 빈민들에게 희망을 줄 수 있다면 동참해보는 것도 좋을 것 같다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "국내에서는 여성환경연대가 희망무역이라는 이름으로 온라인쇼핑몰(www.ecofairtrade.co.kr)을 열어놓고 있다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "빈민들의 가난이 부자의 잘못 때문일까... '이곳' 제품은 더 비싼 값에 사주자고 언급한 책은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

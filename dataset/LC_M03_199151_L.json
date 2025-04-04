@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199151",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 홍삼 3개월 먹은 치매 환자 기억력 좋아져",
+    "newsSubTitle": "병원리포트",
+    "newsContent": "알츠하이머성 치매 환자가 홍삼을 3개월간 꾸준히 먹었더니 기억력이 좋아졌다는 연구결과가 나왔다.\n서울의료원 신경과 허재혁 교수팀은 평균 나이 74세의 알츠하이머성 치매 환자 14명에게 12주(3개월) 동안 매일 홍삼을 4.5g씩 먹게 했다.\n이후 뇌 기능 검사를 했다.\n우선 전두엽 기능을 검사했다.\n이마 쪽에 있는 전두엽(이마엽)은 기억력·사고력을 담당한다.\n전두엽 기능이 떨어지면 ADHD(주의력 결핍 과잉행동장애)를 유발할 수 있다.\n검사 결과 환자의 전두엽 기능 점수(18점 만점)는 홍삼을 먹기 전 9.07점에서 10.5점으로 높아졌다.\n연구팀은 또 ‘정량적 뇌파 스펙트럼 검사’라는 뇌파 검사를 통해 치료 전후 치매 환자의 뇌파 가운데 ‘알파파’를 비교했다.\n알파파는 집중력·기억력을 담당하는 뇌파다.\n새·시냇물·파도소리를 들을 때처럼 마음이 편안할 때 알파파가 잘 나온다.\n이는 집중력·창의력을 높이는 원동력이기도 하다.\n이 검사에서 홍삼을 먹은 후 오른쪽 관자놀이 쪽 측두엽(관자엽), 정수리 쪽 두정엽, 뒤통수 쪽 후두엽(뒤통수엽)의 알파파가 활발하게 분비됐다.\n허 교수는 “홍삼이 기억력에 관여하는 뇌 알파파를 활성화시켜 인지력을 담당하는 전두엽 기능을 끌어올린 것으로 분석된다”며 “홍삼을 꾸준히 먹으면 기억력을 개선하는 데 도움을 줄 것으로 보인다”고 말했다.\n집중력·창의력 높이는 알파파 활성 이번 연구는 보완대체의학 분야의 권위 있는 국제학술지인 ‘보완대체의학저널(The Journal of Alternative and Complementary Medicine)’ 4월호에 실렸다.\n치매 환자는 전 세계적으로 늘어나는 추세다.\n국제알츠하이머병협회(ADI)는 세계 전체 알츠하이머성 치매 환자 수가 2010년 3600만 명에서 올해 4680만 명으로 늘어난 뒤 2030년 7470만 명, 2050년 1억3100만 명까지 급증할 것으로 내다봤다.\n우리나라도 치매 환자가 늘고 있다.\n건강보험심사평가원에 따르면 치매로 진료받은 국내 환자는 2011년 29만4647명에서 2015년 45만9068명으로 5년 새 16만4421명이 늘었다.\n매년 11.7%씩 늘어나는 셈이다.\n이들 89%가 70대 이상 노년층이다.\n치매는 알츠하이머성, 혈관성, 뇌수두성, 중추신경계 감염 등 종류가 다양하다.\n이 가운데 알츠하이머성 치매는 전체 치매 환자의 72%나 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "알츠하이머성 치매 환자가 홍삼을 3개월간 꾸준히 먹었더니 기억력이 좋아졌다는 연구결과가 나왔다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울의료원 신경과 허재혁 교수팀은 평균 나이 74세의 알츠하이머성 치매 환자 14명에게 12주(3개월) 동안 매일 홍삼을 4.5g씩 먹게 했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이후 뇌 기능 검사를 했다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "우선 전두엽 기능을 검사했다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이마 쪽에 있는 전두엽(이마엽)은 기억력·사고력을 담당한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전두엽 기능이 떨어지면 ADHD(주의력 결핍 과잉행동장애)를 유발할 수 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "검사 결과 환자의 전두엽 기능 점수(18점 만점)는 홍삼을 먹기 전 9.07점에서 10.5점으로 높아졌다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구팀은 또 ‘정량적 뇌파 스펙트럼 검사’라는 뇌파 검사를 통해 치료 전후 치매 환자의 뇌파 가운데 ‘알파파’를 비교했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "알파파는 집중력·기억력을 담당하는 뇌파다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "새·시냇물·파도소리를 들을 때처럼 마음이 편안할 때 알파파가 잘 나온다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이는 집중력·창의력을 높이는 원동력이기도 하다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이 검사에서 홍삼을 먹은 후 오른쪽 관자놀이 쪽 측두엽(관자엽), 정수리 쪽 두정엽, 뒤통수 쪽 후두엽(뒤통수엽)의 알파파가 활발하게 분비됐다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "허 교수는 “홍삼이 기억력에 관여하는 뇌 알파파를 활성화시켜 인지력을 담당하는 전두엽 기능을 끌어올린 것으로 분석된다”며 “홍삼을 꾸준히 먹으면 기억력을 개선하는 데 도움을 줄 것으로 보인다”고 말했다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "집중력·창의력 높이는 알파파 활성 이번 연구는 보완대체의학 분야의 권위 있는 국제학술지인 ‘보완대체의학저널(The Journal of Alternative and Complementary Medicine)’ 4월호에 실렸다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "치매 환자는 전 세계적으로 늘어나는 추세다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "국제알츠하이머병협회(ADI)는 세계 전체 알츠하이머성 치매 환자 수가 2010년 3600만 명에서 올해 4680만 명으로 늘어난 뒤 2030년 7470만 명, 2050년 1억3100만 명까지 급증할 것으로 내다봤다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "우리나라도 치매 환자가 늘고 있다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "건강보험심사평가원에 따르면 치매로 진료받은 국내 환자는 2011년 29만4647명에서 2015년 45만9068명으로 5년 새 16만4421명이 늘었다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "매년 11.7%씩 늘어나는 셈이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "이들 89%가 70대 이상 노년층이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "치매는 알츠하이머성, 혈관성, 뇌수두성, 중추신경계 감염 등 종류가 다양하다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "이 가운데 알츠하이머성 치매는 전체 치매 환자의 72%나 된다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "치매 환자의 기억력을 되살리는 '이것'... 3개월간의 놀라운 실험 결과",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

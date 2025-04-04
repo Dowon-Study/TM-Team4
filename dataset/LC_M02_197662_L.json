@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197662",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "하니 정화, EXID 떠난다...소속사 재계약 불발 \\\"해체는 NO\\\"",
+    "newsSubTitle": "",
+    "newsContent": "EXID 하니, 정화가 팀을 떠난다. 3일 걸그룹 EXID 소속사 바나나컬쳐 엔터테인먼트(이하 바나나컬쳐) 측은 \\\"멤버 솔지, LE, 혜린과는 재계약을 체결했으나 하니와 정화는 양측 합의 하에 2019년 5월 말 전속계약 종료 후 새 소속사를 찾을 예정\\\"이라고 밝혔다.\n그러면서도 해체는 아니라고 강조했다.\n바나나컬쳐 측은 미디어SR에 \\\"팀 해체는 아니다. 추후에 활동을 펼칠 수 있도록 여러 방법을 고심하고 있는 상황\\\"이라고 말했다.\n바나나컬쳐와 재계약을 맺은 솔지와 LE, 혜린은 당분간 개인 활동을 전개한다.\n소속사 측은 \\\"솔지와 LE는 솔로 가수로서 활동을 준비 중이고 혜린은 다양한 방송 및 음악 활동을 계획 중\\\"이라고 설명했다.\nLE, 정화, 하니, 솔지, 혜린 등 5명의 멤버로 구성된 걸그룹 EXID는 지난 2012년 데뷔했다.\n이후 '위 아래'가 뒤늦게 인기를 얻으며 대세 걸그룹으로 도약, '핫 핑크', '아예', 'L.I.E', '덜덜덜', '내일해', '낮보다는 밤' 등 다양한 곡들로 활동했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "EXID 하니, 정화가 팀을 떠난다. 3일 걸그룹 EXID 소속사 바나나컬쳐 엔터테인먼트(이하 바나나컬쳐) 측은 \\\"멤버 솔지, LE, 혜린과는 재계약을 체결했으나 하니와 정화는 양측 합의 하에 2019년 5월 말 전속계약 종료 후 새 소속사를 찾을 예정\\\"이라고 밝혔다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그러면서도 해체는 아니라고 강조했다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "바나나컬쳐 측은 미디어SR에 \\\"팀 해체는 아니다. 추후에 활동을 펼칠 수 있도록 여러 방법을 고심하고 있는 상황\\\"이라고 말했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "바나나컬쳐와 재계약을 맺은 솔지와 LE, 혜린은 당분간 개인 활동을 전개한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소속사 측은 \\\"솔지와 LE는 솔로 가수로서 활동을 준비 중이고 혜린은 다양한 방송 및 음악 활동을 계획 중\\\"이라고 설명했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "LE, 정화, 하니, 솔지, 혜린 등 5명의 멤버로 구성된 걸그룹 EXID는 지난 2012년 데뷔했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 '위 아래'가 뒤늦게 인기를 얻으며 대세 걸그룹으로 도약, '핫 핑크', '아예', 'L.I.E', '덜덜덜', '내일해', '낮보다는 밤' 등 다양한 곡들로 활동했다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "핵심 멤버들이 떠나는 이 걸그룹... 해체 수순 밟나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198280",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[살림UP] 재료가 남았다고요 ? 찰떡궁합 요리 해 봐요",
+    "newsSubTitle": "",
+    "newsContent": "김장 뒤 남은 재료는 매끼 식단 고민에 시달리는 주부들에게 고마운 존재다.\n김칫소는 굴무침으로 활용하고 절인 배추는 냉동실에 넣어 뒀다 국 끓여 먹기 딱이다.\n남은 김칫소를 익혀 냉장고에 넣어 두고 콩나물국을 끓일 때마다 넣어 주면 얼큰한 해장국이 된다.\n최근 '김치백서'를 펴낸 요리연구가 박상혜씨에게 남은 김장 재료 활용 요리법을 들어봤다.\n# 해물파전 ●재료=절인 배추 1포기, 오징어 1마리, 굴 3큰술, 청고추.홍고추 3개씩, 미나리 1/4단, 쪽파 1/3단, 기름 1컵 ●반죽=밀가루 2컵, 달걀 1개, 녹말가루 2큰술, 물 1컵, 소금 약간 ●만드는 법=①절인 배추는 채 썰고, 고추는 어슷 썬다.\n②오징어는 채 썰고, 미나리와 쪽파는 5㎝ 길이로 자르며, 굴은 소금물에 헹궈 물기를 뺀다.\n③밀가루에 물과 녹말가루.달걀.소금을 넣어 부침 반죽을 만든다.\n④부침 반죽에 ①과 ②의 재료들을 넣어 섞는다.\n⑤달군 팬에 기름을 두른 뒤 ④의 반죽을 한 국자씩 떠넣고 부쳐낸다.\n# 배추우거지 고등어조림 ●재료=배추 1포기, 고등어 2마리, 대파 1대, 홍고추.청고추 2개씩, 고춧가루 1작은술, 된장 2큰술, 참기름 1작은술, 다진 마늘 1작은술, 다진 생강 1/2작은술 ●만드는 법=①고등어는 어슷하게 잘라 4등분한다.\n②배추는 밑동을 자르고 뜨거운 물에 데쳐내어 우거지로 만든다.\n③우거지에 된장.마늘.생강을 넣고 참기름으로 양념해 버무린다.\n④냄비에 양념한 우거지를 깔고 고등어를 올린 뒤 고춧가루를 뿌려 끓인다.\n⑤④에 고추와 대파를 어슷 썰어 넣고 푹 끓인다.\n# 무굴밥 ●재료=무 1/2개, 굴 4큰술, 쌀 2공기, 콩나물 2줌, 물 3컵 ●양념=고춧가루 1작은술, 다진 쪽파 1큰술, 진간장 3큰술, 다진 마늘 1작은술, 참기름 1작은술, 통깨 1큰술 ●만드는 법=①무는 5㎝ 길이로 채 썰고, 콩나물과 굴은 물에 씻은 뒤 물기를 빼놓는다.\n②쌀을 씻어 20분 정도 물에 불린 뒤 물기를 뺀다.\n③뚝배기에 쌀과 물 3컵을 넣어 밥을 한다.\n④양념 재료를 모두 섞는다.\n⑤밥이 끓어오르면 무.콩나물.굴을 올린 뒤 뜸을 들여 완성하고, 양념으로 간해 먹는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김장 뒤 남은 재료는 매끼 식단 고민에 시달리는 주부들에게 고마운 존재다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김칫소는 굴무침으로 활용하고 절인 배추는 냉동실에 넣어 뒀다 국 끓여 먹기 딱이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "남은 김칫소를 익혀 냉장고에 넣어 두고 콩나물국을 끓일 때마다 넣어 주면 얼큰한 해장국이 된다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최근 '김치백서'를 펴낸 요리연구가 박상혜씨에게 남은 김장 재료 활용 요리법을 들어봤다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "# 해물파전 ●재료=절인 배추 1포기, 오징어 1마리, 굴 3큰술, 청고추.홍고추 3개씩, 미나리 1/4단, 쪽파 1/3단, 기름 1컵 ●반죽=밀가루 2컵, 달걀 1개, 녹말가루 2큰술, 물 1컵, 소금 약간 ●만드는 법=①절인 배추는 채 썰고, 고추는 어슷 썬다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "②오징어는 채 썰고, 미나리와 쪽파는 5㎝ 길이로 자르며, 굴은 소금물에 헹궈 물기를 뺀다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "③밀가루에 물과 녹말가루.달걀.소금을 넣어 부침 반죽을 만든다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "④부침 반죽에 ①과 ②의 재료들을 넣어 섞는다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "⑤달군 팬에 기름을 두른 뒤 ④의 반죽을 한 국자씩 떠넣고 부쳐낸다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "# 배추우거지 고등어조림 ●재료=배추 1포기, 고등어 2마리, 대파 1대, 홍고추.청고추 2개씩, 고춧가루 1작은술, 된장 2큰술, 참기름 1작은술, 다진 마늘 1작은술, 다진 생강 1/2작은술 ●만드는 법=①고등어는 어슷하게 잘라 4등분한다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "②배추는 밑동을 자르고 뜨거운 물에 데쳐내어 우거지로 만든다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "③우거지에 된장.마늘.생강을 넣고 참기름으로 양념해 버무린다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "④냄비에 양념한 우거지를 깔고 고등어를 올린 뒤 고춧가루를 뿌려 끓인다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "⑤④에 고추와 대파를 어슷 썰어 넣고 푹 끓인다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "# 무굴밥 ●재료=무 1/2개, 굴 4큰술, 쌀 2공기, 콩나물 2줌, 물 3컵 ●양념=고춧가루 1작은술, 다진 쪽파 1큰술, 진간장 3큰술, 다진 마늘 1작은술, 참기름 1작은술, 통깨 1큰술 ●만드는 법=①무는 5㎝ 길이로 채 썰고, 콩나물과 굴은 물에 씻은 뒤 물기를 빼놓는다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "②쌀을 씻어 20분 정도 물에 불린 뒤 물기를 뺀다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "③뚝배기에 쌀과 물 3컵을 넣어 밥을 한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "④양념 재료를 모두 섞는다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "⑤밥이 끓어오르면 무.콩나물.굴을 올린 뒤 뜸을 들여 완성하고, 양념으로 간해 먹는다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이것'하고 남은 재료로 맛있는 음식 만들어 먹어요!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

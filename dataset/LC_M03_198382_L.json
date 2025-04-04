@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198382",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/깊이 읽기] 그의 드라마틱한 성격, 이유 있었네",
+    "newsSubTitle": "",
+    "newsContent": "Mr. 김정일 마이클 브린 지음, 김유경 옮김, 길산, 300쪽, 1만4000원 김정일의 사진이 든 빨간 표지, 게다가 제목엔 'Dear Leader'란 말까지 써있다.\n10여년전만 해도 이런 책을 가지고 다니면 국가보안법 위반으로 어딘가로 끌려가진 않았을까.\n물론 이 책은 김정일에 대한 찬양적인 내용을 담고 있진 않다.\n오히려 다소 비판적인 시각이다.\n기자 출신인 저자 마이클 브린은 폭넓은 루트와 다양한 인터뷰를 통해 폐쇄국의 '지도자' 김정일과 '인간' 김정일의 양면을 입체적으로 조명한다.\n특히 김정일의 머리맡에 드리워진 아버지 김일성의 그늘을 지적하는데 주력한다.\n김정일은 아버지처럼 빨치산 전력도 없고, 군대에서 나라를 위해 싸우지도 못했으며 국민들의 마음을 사로잡을 만한 카리스마도 없고 심지어 외모조차 그럴싸하지 못하다고 말한다.\n어려서 생모를 잃고 늘상 권력다툼의 중심에 서 있었기에 현재와 같은 드라마틱한 성격을 가지게 되었다고 분석한다.\n책은 '호모 노르도코레아누스'란 말로 북한 사람들이 '신인종'임을 강조한다.\n굶어 죽으면서도 구호 물자를 보내는 사람들 앞에 당당하고, 외자를 갚을 생각 대신 갚지 말아야할 이유를 내세우는 특성 등을 꼬집는다.\n그러나 북한에 대한 미국 정책에 대해선 좀더 전향적일 필요가 있다고 저자는 말한다.\n북-미간 공식 불가침 협정, 평양 미 대사관 건립, 차관 제공 등을 제안한다.\n정확히는 알아야 하지만 대처 방식은 유연해야 한다는 것이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "Mr. 김정일 마이클 브린 지음, 김유경 옮김, 길산, 300쪽, 1만4000원 김정일의 사진이 든 빨간 표지, 게다가 제목엔 'Dear Leader'란 말까지 써있다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10여년전만 해도 이런 책을 가지고 다니면 국가보안법 위반으로 어딘가로 끌려가진 않았을까.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "물론 이 책은 김정일에 대한 찬양적인 내용을 담고 있진 않다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오히려 다소 비판적인 시각이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "기자 출신인 저자 마이클 브린은 폭넓은 루트와 다양한 인터뷰를 통해 폐쇄국의 '지도자' 김정일과 '인간' 김정일의 양면을 입체적으로 조명한다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 김정일의 머리맡에 드리워진 아버지 김일성의 그늘을 지적하는데 주력한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김정일은 아버지처럼 빨치산 전력도 없고, 군대에서 나라를 위해 싸우지도 못했으며 국민들의 마음을 사로잡을 만한 카리스마도 없고 심지어 외모조차 그럴싸하지 못하다고 말한다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "어려서 생모를 잃고 늘상 권력다툼의 중심에 서 있었기에 현재와 같은 드라마틱한 성격을 가지게 되었다고 분석한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "책은 '호모 노르도코레아누스'란 말로 북한 사람들이 '신인종'임을 강조한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "굶어 죽으면서도 구호 물자를 보내는 사람들 앞에 당당하고, 외자를 갚을 생각 대신 갚지 말아야할 이유를 내세우는 특성 등을 꼬집는다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그러나 북한에 대한 미국 정책에 대해선 좀더 전향적일 필요가 있다고 저자는 말한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "북-미간 공식 불가침 협정, 평양 미 대사관 건립, 차관 제공 등을 제안한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "정확히는 알아야 하지만 대처 방식은 유연해야 한다는 것이다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "마이클 브린이 만난 지도자... 그의 드라마틱한 성격, '이것' 때문? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195004",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[꾸러기 책꽂이] '네가 행복하면 나도 행복해' 外",
+    "newsSubTitle": "",
+    "newsContent": "◆네가 행복하면 나도 행복해(송윤 글, 이희선 그림, 토토북, 7천5백원)='부모님의 사랑이란''행복이란''진정한 용기란''진정한 우정이란' 등 일곱가지 질문에 답을 해주는 따뜻한 이야기. 아우슈비츠 수용소에서 다른 사람을 대신해 죽었던 콜베 신부의 이야기 등 실화를 각색했다.\n◆하늘을 나는 돼지(딕 킹 스미스 글, 매리 레이너 그림, 김서정 옮김, 웅진닷컴, 7천5백원)=영화 '꼬마 돼지 베이브'를 기억하는지.\n이 영화의 원작자의 또다른 책이다.\n주인공은 약골로 태어난 돼지 별난이. 이 별난이의 꿈이 '하늘을 나는 돼지'가 되는 것이다.\n◆지진이 우르쾅쾅(애니타 개너리 글, 오숙은 옮김, 주니어김영사, 4천9백원)=지진의 조짐을 아는 요령과 지진을 측정하는 방법, 지진에 대한 과학자들의 이론을 설명했다.\n과학 상식을 재미있게 전하는 '앗!시리즈' 중 하나다.\n◆사월 그믐날 밤(방정환 지음, 김경신 그림, 우리교육, 6천5백원)=소파 방정환이 쓴 수필.동화.동시 등을 모은 책. '호랑이 형님'같은 우리 옛이야기도 있고, '털보 장사'처럼 외국 동화를 번안한 작품도 있다.\n◆빛의 유혹에 영혼을 던진 렘브란트(노성두 지음, 아이세움, 9천5백원)=빛의 움직임을 작품에 담고자 했던 네덜란드 태생의 화가 렘브란트의 생애를 다루고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆네가 행복하면 나도 행복해(송윤 글, 이희선 그림, 토토북, 7천5백원)='부모님의 사랑이란''행복이란''진정한 용기란''진정한 우정이란' 등 일곱가지 질문에 답을 해주는 따뜻한 이야기. 아우슈비츠 수용소에서 다른 사람을 대신해 죽었던 콜베 신부의 이야기 등 실화를 각색했다.",
+        "sentenceSize": 155
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "◆하늘을 나는 돼지(딕 킹 스미스 글, 매리 레이너 그림, 김서정 옮김, 웅진닷컴, 7천5백원)=영화 '꼬마 돼지 베이브'를 기억하는지.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 영화의 원작자의 또다른 책이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "주인공은 약골로 태어난 돼지 별난이. 이 별난이의 꿈이 '하늘을 나는 돼지'가 되는 것이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◆지진이 우르쾅쾅(애니타 개너리 글, 오숙은 옮김, 주니어김영사, 4천9백원)=지진의 조짐을 아는 요령과 지진을 측정하는 방법, 지진에 대한 과학자들의 이론을 설명했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "과학 상식을 재미있게 전하는 '앗!시리즈' 중 하나다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "◆사월 그믐날 밤(방정환 지음, 김경신 그림, 우리교육, 6천5백원)=소파 방정환이 쓴 수필.동화.동시 등을 모은 책. '호랑이 형님'같은 우리 옛이야기도 있고, '털보 장사'처럼 외국 동화를 번안한 작품도 있다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "◆빛의 유혹에 영혼을 던진 렘브란트(노성두 지음, 아이세움, 9천5백원)=빛의 움직임을 작품에 담고자 했던 네덜란드 태생의 화가 렘브란트의 생애를 다루고 있다.",
+        "sentenceSize": 89
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신작 '네가 행복하면 나도 행복해'... 아우슈비츠에서 헌신했던 한 신부의 이야기?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

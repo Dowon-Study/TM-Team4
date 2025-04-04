@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199001",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[라이프 트렌드] 영양소 골고루 든 블랙커민시드오일 하루 2캡슐",
+    "newsSubTitle": "",
+    "newsContent": "15일까지 500명에게 최저가 판매 ‘어스투어스(EARTH to US)’가 신제품 블랙커민시드오일(사진) 출시를 기념해 오는 15일까지 할인 행사를 진행한다.\n어스투어스는 각종 열매와 씨앗, 잎과 줄기, 뿌리, 해양 원료 등을 안전한 방법으로 가공해 자연 소재 제품들을 선보이고 있다.\n이를 위해 원료 탐색, 스크리닝, 선정, 검증, 제품 개발, 품질관리 등 여섯 단계의 식품 생산 시스템을 원칙으로 삼고 있다.\n브라질너트·아보카도오일·비폴렌에 이어 최근 출시된 블랙커민시드오일도 이러한 시스템을 거쳐 만들어졌다.\n어스투어스의 블랙커민시드오일은 캡슐 형태라 편리하게 사용할 수 있다.\n흑종초의 씨앗인 블랙커민시드를 오일 형태로 압착해 캡슐에 담았다.\n미국·인도·이집트산보다 리놀레산의 함량이 높은 터키산 블랙커민시드를 사용했고 저온 압착 방식으로 짜내 지방산의 파괴를 최소화했다.\n블랙커민시드오일에는 티모퀴논을 비롯해 단백질·비타민·철분과 불포화지방산 등 다양한 영양소가 함유됐다.\n캡슐 하나당 500㎎의 블랙커민시드오일이 들어 있어 하루 2캡슐만 섭취하면 된다.\n종근당건강은 선착순 500명에게 블랙커민시드오일을 유통 최저가에 할인 판매한다.\n행사 물량 소진 시 조기 마감될 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "15일까지 500명에게 최저가 판매 ‘어스투어스(EARTH to US)’가 신제품 블랙커민시드오일(사진) 출시를 기념해 오는 15일까지 할인 행사를 진행한다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "어스투어스는 각종 열매와 씨앗, 잎과 줄기, 뿌리, 해양 원료 등을 안전한 방법으로 가공해 자연 소재 제품들을 선보이고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이를 위해 원료 탐색, 스크리닝, 선정, 검증, 제품 개발, 품질관리 등 여섯 단계의 식품 생산 시스템을 원칙으로 삼고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "브라질너트·아보카도오일·비폴렌에 이어 최근 출시된 블랙커민시드오일도 이러한 시스템을 거쳐 만들어졌다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "어스투어스의 블랙커민시드오일은 캡슐 형태라 편리하게 사용할 수 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "흑종초의 씨앗인 블랙커민시드를 오일 형태로 압착해 캡슐에 담았다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "미국·인도·이집트산보다 리놀레산의 함량이 높은 터키산 블랙커민시드를 사용했고 저온 압착 방식으로 짜내 지방산의 파괴를 최소화했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "블랙커민시드오일에는 티모퀴논을 비롯해 단백질·비타민·철분과 불포화지방산 등 다양한 영양소가 함유됐다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "캡슐 하나당 500㎎의 블랙커민시드오일이 들어 있어 하루 2캡슐만 섭취하면 된다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "종근당건강은 선착순 500명에게 블랙커민시드오일을 유통 최저가에 할인 판매한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "행사 물량 소진 시 조기 마감될 수 있다.",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "티모퀴논 비롯 다양한 영양소 함유한 '이 씨앗', 오일 담긴 캡슐 형태로 재탄생",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

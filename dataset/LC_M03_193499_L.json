@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193499",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[발코니석에서] 지방 문예회관 개·보수 음향보정장치가 능사?",
+    "newsSubTitle": "",
+    "newsContent": "붙박이 마이크와 스피커로 음향 조건을 개선하는 전기 음향보정(補正)장치는 개.보수 공사를 앞둔 지방 문예회관의 유일한 희망인가.\nLG 아트센터.세종문화회관 대극장에 이어 내년 개.보수 공사가 예정돼 있는 경기문화예술회관이 잔향 시간을 늘리는 등 음향 성능 개선을 위해 네덜란드제 음향보정 장치인 SIAP(Systems for Improved Acoustic Performance)를 설치하기로 결정했다.\nSIAP 설치비는 2000석에 75만달러(약 10억원). 하지만 건축음향 전문가들은 음향 반사판과 내부 마감재, 객석 배치를 바꾸면 전기 장치를 사용하지 않더라도 충분히 음향을 개선할 수 있다고 말한다.\n또 런던 로열 페스티벌홀은 지난해 개.보수 공사에서 음향 보정장치를 철거했고 뉴욕 시티 오페라단은 SIAP 장치를 설치한 뉴욕 링컨센터 비비언 보먼트 시어터에서 다른 곳으로 무대를 옮기기로 결정했다.\n스피커로 나오는 노랫소리를 듣고 발길을 끊은 오페라팬들이 많았기 때문이다.\nLG 아트센터가 SIAP를 설치할 때도 '비밀 유지'를 조건으로 내걸었고, 세종문화회관도 예산 심의나 자문회의에서 SIAP에 대한 언급은 일절 없었다.\n별로 자랑할 일이 못되기 때문이다.\n1980년대부터 지방에 들어서기 시작한 공연장이 '서울시립'인 세종문화회관을 모델로 삼아온 것은 널리 알려진 사실이다.\n그렇다고 기계 장치로 문제를 해결하는 일까지 서울 것을 닮으려 한다면 곤란하다.\n서울.경기도에 이어 개.보수 공사를 앞둔 전국 공연장에 도미노 현상이 나타날까봐 걱정이 앞선다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "붙박이 마이크와 스피커로 음향 조건을 개선하는 전기 음향보정(補正)장치는 개.보수 공사를 앞둔 지방 문예회관의 유일한 희망인가.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "LG 아트센터.세종문화회관 대극장에 이어 내년 개.보수 공사가 예정돼 있는 경기문화예술회관이 잔향 시간을 늘리는 등 음향 성능 개선을 위해 네덜란드제 음향보정 장치인 SIAP(Systems for Improved Acoustic Performance)를 설치하기로 결정했다.",
+        "sentenceSize": 153
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "SIAP 설치비는 2000석에 75만달러(약 10억원). 하지만 건축음향 전문가들은 음향 반사판과 내부 마감재, 객석 배치를 바꾸면 전기 장치를 사용하지 않더라도 충분히 음향을 개선할 수 있다고 말한다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 런던 로열 페스티벌홀은 지난해 개.보수 공사에서 음향 보정장치를 철거했고 뉴욕 시티 오페라단은 SIAP 장치를 설치한 뉴욕 링컨센터 비비언 보먼트 시어터에서 다른 곳으로 무대를 옮기기로 결정했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "스피커로 나오는 노랫소리를 듣고 발길을 끊은 오페라팬들이 많았기 때문이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "LG 아트센터가 SIAP를 설치할 때도 '비밀 유지'를 조건으로 내걸었고, 세종문화회관도 예산 심의나 자문회의에서 SIAP에 대한 언급은 일절 없었다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "별로 자랑할 일이 못되기 때문이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "1980년대부터 지방에 들어서기 시작한 공연장이 '서울시립'인 세종문화회관을 모델로 삼아온 것은 널리 알려진 사실이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그렇다고 기계 장치로 문제를 해결하는 일까지 서울 것을 닮으려 한다면 곤란하다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "서울.경기도에 이어 개.보수 공사를 앞둔 전국 공연장에 도미노 현상이 나타날까봐 걱정이 앞선다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서울 것만 닮으려는 지방 문예회관 개·보수 공사, 돈만 축내는 '흑우' 될 수도...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

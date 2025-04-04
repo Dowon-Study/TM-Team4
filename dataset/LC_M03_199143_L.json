@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199143",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "당뇨 합병증 키우는 당뇨병 약?",
+    "newsSubTitle": "서울대병원 김효수 교수 \\\"DPP4억제제 당뇨망막증 악화\\\" 세계 최초 규명",
+    "newsContent": "당뇨병 환자가 복용하는 당뇨병약 일부가 대표적인 당뇨 합병증인 망막병증을 악화시킬 수 있는 것으로 드러나 약 선택에 주의가 요구된다.\n당뇨병 환자의 혈당을 떨어트리는 약으로 주로 사용되는 'DPP4-억제제'. 뛰어난 혈당강하 효과로 출시 이후 세계에서 가장 많이 팔린 약으로 등극했다.\n서울대병원 김효수 교수팀은 사람 세포와 쥐를 이용한 연구에서, DPP4-억제제가 비해서 망막혈관병증을 유의하게 악화시킨다는 연구결과를 세계 최초로 발표했다.\n당뇨병은 심뇌혈관계 질환, 콩팥 부전, 망막혈관병증 등의 합병증을 동반한다.\n적절한 혈당관리는 이런 합병증은 물론 사망률을 감소시킨다.\n이를 위해 다양한 경구용 혈당강하제들이 사용되고 있다.\n그 중에서도 DPP4-억제제는 인크레틴 분해를 억제하는 방식으로 혈당을 떨어트리는 약이다.\n이번 연구에선 DPP4-억제제가 인크레틴 분해를 억제하는 동시에 SDF-1α(Stromal cell Derived Factor)라는 물질의 분해도 억제하는 것으로 확인됐다.\nSDF1은 보통 염증이 생기거나 산소가 모자랄 때 몸속 세포가 분비하는 물질로, 혈관 투과성과 신생혈관 생성을 촉진한다.\n결국, 망막조직 세포에서 SDF 분해가 억제되면, 이로 인해 망막혈관의 투과성이 증가, 혈관이 새롭게 만들어져 망막병증을 악화한다는 게 이번 연구의 핵심이다.\n김 교수팀이 쥐를 이용해 실험한 결과 DPP4-억제제를 투약 받은 쥐는 위약을 투약 받은 쥐에 비해서 망막 혈관의 누수·누혈 현상이 3배나 증가했고 신생혈관 생성이 현저히 증가했다.\n특히 당뇨를 유발한 쥐 모델에서는 망막병증이 1.5배 증가했다.\n이에 앞서서 DPP4-억제제는 심부전을 악화시킨다는 관찰 결과가 나오기도 했다.\n이때의 심부전 악화는 보통 폐부종을 동반하는데, 정확한 원인은 밝혀지지 않은 상태였다.\n김 교수의 연구 결과는 DPP4-억제제의 심부전 악화 원인에 대해서도 힌트를 제공한다.\nDPP4-억제제가 폐혈관의 투과성을 증가시키고, 폐부종과 심부전을 초래한다는 가설이다.\n김효수 교수는 “DPP4-억제제는 당뇨병 환자에서 당뇨병성 망막병증을 악화시킬 개연성이 충분하기에, 이 약을 사용할 땐 정기적으로 망막병증 추이를 점검해야 한다”고 강조했다.\n그는 “나아가 인크레틴을 누적시켜 혈당을 떨어트리면서 SDF1은 누적시키지 않는 ‘인크레틴-특이적 DPP-억제제’ 개발이 필요하다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "당뇨병 환자가 복용하는 당뇨병약 일부가 대표적인 당뇨 합병증인 망막병증을 악화시킬 수 있는 것으로 드러나 약 선택에 주의가 요구된다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "당뇨병 환자의 혈당을 떨어트리는 약으로 주로 사용되는 'DPP4-억제제'. 뛰어난 혈당강하 효과로 출시 이후 세계에서 가장 많이 팔린 약으로 등극했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서울대병원 김효수 교수팀은 사람 세포와 쥐를 이용한 연구에서, DPP4-억제제가 비해서 망막혈관병증을 유의하게 악화시킨다는 연구결과를 세계 최초로 발표했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당뇨병은 심뇌혈관계 질환, 콩팥 부전, 망막혈관병증 등의 합병증을 동반한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "적절한 혈당관리는 이런 합병증은 물론 사망률을 감소시킨다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 위해 다양한 경구용 혈당강하제들이 사용되고 있다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 중에서도 DPP4-억제제는 인크레틴 분해를 억제하는 방식으로 혈당을 떨어트리는 약이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이번 연구에선 DPP4-억제제가 인크레틴 분해를 억제하는 동시에 SDF-1α(Stromal cell Derived Factor)라는 물질의 분해도 억제하는 것으로 확인됐다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "SDF1은 보통 염증이 생기거나 산소가 모자랄 때 몸속 세포가 분비하는 물질로, 혈관 투과성과 신생혈관 생성을 촉진한다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "결국, 망막조직 세포에서 SDF 분해가 억제되면, 이로 인해 망막혈관의 투과성이 증가, 혈관이 새롭게 만들어져 망막병증을 악화한다는 게 이번 연구의 핵심이다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "김 교수팀이 쥐를 이용해 실험한 결과 DPP4-억제제를 투약 받은 쥐는 위약을 투약 받은 쥐에 비해서 망막 혈관의 누수·누혈 현상이 3배나 증가했고 신생혈관 생성이 현저히 증가했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "특히 당뇨를 유발한 쥐 모델에서는 망막병증이 1.5배 증가했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이에 앞서서 DPP4-억제제는 심부전을 악화시킨다는 관찰 결과가 나오기도 했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이때의 심부전 악화는 보통 폐부종을 동반하는데, 정확한 원인은 밝혀지지 않은 상태였다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "김 교수의 연구 결과는 DPP4-억제제의 심부전 악화 원인에 대해서도 힌트를 제공한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "DPP4-억제제가 폐혈관의 투과성을 증가시키고, 폐부종과 심부전을 초래한다는 가설이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "김효수 교수는 “DPP4-억제제는 당뇨병 환자에서 당뇨병성 망막병증을 악화시킬 개연성이 충분하기에, 이 약을 사용할 땐 정기적으로 망막병증 추이를 점검해야 한다”고 강조했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "그는 “나아가 인크레틴을 누적시켜 혈당을 떨어트리면서 SDF1은 누적시키지 않는 ‘인크레틴-특이적 DPP-억제제’ 개발이 필요하다”고 말했다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "믿었던 약이 병을 키운다? 이 병을 가진 환자라면 특히 주의해야 한다는데....",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193003",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "1+1은 2라고? 화학과 물리학은 맞아도 생물학은 다르다[BOOK]",
+    "newsSubTitle": "",
+    "newsContent": "생명을 묻다 정우현 지음 이른비 사회 현상이나 사회적 이슈를 설명하는 데도 생물학, 특히 진화론이나 DNA 얘기가 빠지지 않는 시대다.\n하지만 생물학자이자 덕성여대 약학과 교수인 이 책 『생명을 묻다』의 저자는 삶의 의미를 비롯해 매사 그 답을 과학에 의지해서 얻으려하는 것도, 특정 시대의 과학을 온전히 '진리'로 여기는 것도 경계한다.\n그는 '진화'가 곧 '진보'는 아니라고, '우월한 유전자' 등의 표현을 비롯해 지금 시대 유전자와 DNA에 대한 과신과 맹신이 또 다른 우생학이 될 수도 있다고도 지적한다.\n저자에 따르면 과학이라고 항상 '1+1=2'는 아니다.\n물리학, 화학과 달리 생물학에서는 1 더하기 1이 2인 경우는 거의 없단다.\n대부분 2보다 훨씬 커진다고 한다.\n예컨대 단백질이나 핵산 등 살아있지 않은 것들로 구성된 세포는 살아서 움직인다.\n각각의 구성요소에서는 볼 수 없던 속성이다.\n저자는 과학 분야 중에도 생물학은 환원주의적 사고가 잘 들어맞지 않을 뿐더러, 보편적이라고 할 만한 법칙도 거의 없다고 강조한다.\n이 책은 고대부터 현대까지 생명에 대한 인간의 시각과 지식을 15가지 주제별로 펼쳐보인다.\n철학은 물론이고 문학과 영화도 아우르며 이름난 작가들을 적재적소에 인용하는 전개도 매력적이지만, 무엇보다 물리학과 화학을 포함해 지금까지 생물학과 관련 연구의 중요 성과를 단편적 지식이 아니라 전체적 맥락 속에 이해할 수 있게 하는 점이 두드러진다.\n리처드 도킨스의 '이기적 유전자'에 관한 얘기만 해도 그 의미와 파장, 여러 학자들의 다른 시각이나 쟁점을 고루 짚는다.\n저자는 인간이, 과학이 여전히 생명에 대해 모르는 것이 많다는 점을 수시로 상기시키지만 그렇다고 과학의 성과를 폄하하는 건 아니다.\n이제는 불로장생의 꿈도 마냥 꿈만은 아니다.\n선형 염색체 말단의 텔로미어와 이를 활성화하는 효소의 발견은 저자의 표현에 따르면 \\\"불로초 제작의 설계도\\\"를 우리 몸 속에서 발견한 격이다.\n하지만 노화와 죽음은 과연 생명의 적이자 극복할 대상일까.\n저자는 불멸이 초래할 종교적, 사회적 문제만 아니라 그동안 자연선택을 통해 진행된 진화의 특징을, 개체의 죽음이 역설적으로 생명의 지속에 기여한 바를 설명한다.\n이를 바탕으로 저자는 \\\"생명은 죽음을 통해서만 존재할 수 있다\\\"고 역설한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "생명을 묻다 정우현 지음 이른비 사회 현상이나 사회적 이슈를 설명하는 데도 생물학, 특히 진화론이나 DNA 얘기가 빠지지 않는 시대다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하지만 생물학자이자 덕성여대 약학과 교수인 이 책 『생명을 묻다』의 저자는 삶의 의미를 비롯해 매사 그 답을 과학에 의지해서 얻으려하는 것도, 특정 시대의 과학을 온전히 '진리'로 여기는 것도 경계한다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 '진화'가 곧 '진보'는 아니라고, '우월한 유전자' 등의 표현을 비롯해 지금 시대 유전자와 DNA에 대한 과신과 맹신이 또 다른 우생학이 될 수도 있다고도 지적한다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "저자에 따르면 과학이라고 항상 '1+1=2'는 아니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "물리학, 화학과 달리 생물학에서는 1 더하기 1이 2인 경우는 거의 없단다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "대부분 2보다 훨씬 커진다고 한다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "예컨대 단백질이나 핵산 등 살아있지 않은 것들로 구성된 세포는 살아서 움직인다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "각각의 구성요소에서는 볼 수 없던 속성이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "저자는 과학 분야 중에도 생물학은 환원주의적 사고가 잘 들어맞지 않을 뿐더러, 보편적이라고 할 만한 법칙도 거의 없다고 강조한다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 책은 고대부터 현대까지 생명에 대한 인간의 시각과 지식을 15가지 주제별로 펼쳐보인다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "철학은 물론이고 문학과 영화도 아우르며 이름난 작가들을 적재적소에 인용하는 전개도 매력적이지만, 무엇보다 물리학과 화학을 포함해 지금까지 생물학과 관련 연구의 중요 성과를 단편적 지식이 아니라 전체적 맥락 속에 이해할 수 있게 하는 점이 두드러진다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "리처드 도킨스의 '이기적 유전자'에 관한 얘기만 해도 그 의미와 파장, 여러 학자들의 다른 시각이나 쟁점을 고루 짚는다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "저자는 인간이, 과학이 여전히 생명에 대해 모르는 것이 많다는 점을 수시로 상기시키지만 그렇다고 과학의 성과를 폄하하는 건 아니다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이제는 불로장생의 꿈도 마냥 꿈만은 아니다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "선형 염색체 말단의 텔로미어와 이를 활성화하는 효소의 발견은 저자의 표현에 따르면 \\\"불로초 제작의 설계도\\\"를 우리 몸 속에서 발견한 격이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "하지만 노화와 죽음은 과연 생명의 적이자 극복할 대상일까.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "저자는 불멸이 초래할 종교적, 사회적 문제만 아니라 그동안 자연선택을 통해 진행된 진화의 특징을, 개체의 죽음이 역설적으로 생명의 지속에 기여한 바를 설명한다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "이를 바탕으로 저자는 \\\"생명은 죽음을 통해서만 존재할 수 있다\\\"고 역설한다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "1+1은 2가 아니라 그 이상... '불로장생'이 꿈이 아니라고 말하는 교수의 신선한 강의",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

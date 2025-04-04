@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195859",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "고구마 칼로리 낮고, 피부도 좋아진다? '다이어트 끝판왕'",
+    "newsSubTitle": "",
+    "newsContent": "고구마 칼로리 고구마 칼로리가 다이어트를 결심한 이들에게 관심을 받고 있다.\n고구마는 칼로리가 낮고 포만감을 얻을 수 있어 다이어트 하기에 좋은 식품이다.\n고구마 칼로리는 찐 고구마, 구운 고구마, 생 고구마로 조금씩 다른데, 고구마 칼로리를 100g당으로 계산을 해보면, 생 고구마 칼로리는 111Kcal, 찐 고구마 칼로리는 114Kcal, 군고구마 칼로리는 141Kcal로 다른 음식에 비해 비교적 낮다.\n칼로리가 낮고 포만감도 쉽게 느낄 수 있어 다이어트 식단으로 제격인 셈이다.\n혈당 지수도 낮다.\n고구마의 혈당 지수는 55인데 이는 감자보다도 낮은 수치다.\n혈당 지수는 음식이 소화되는 과정에서 포도당으로 전환되는 시간을 표시한 수치를 말한다.\n혈당 지수가 높을수록 체내에 많은 당이 쌓이게 된다.\n고구마는 식이섬유가 풍부해 변비환자에게도 좋고 우리 피 속에 있는 콜레스테롤을 낮춰주고 혈압도 내려준다.\n또한, 고구마에는 비타민A·B1·B2·C·E가 많이 들어있어 세포가 노화되는 것을 방지해주고, 피부에 좋다.\n고구마에는 항산화 물질인 베타카로틴이 많이 함유되어 있어 암세포가 증식되는 것을 막아준다.\n그리고 섬유소가 많이 들어있어서 대장암 예방에도 좋다.\n한편, 고구마 칼로리 소식을 접한 네티즌들은 \\\"고구마 칼로리, 역시 다이어트에 좋음\\\" \\\"고구마 칼로리, 포만감 짱\\\" \\\"고구마 칼로리, 맛도 좋으니 금상첨화\\\" 등의 반응을 보였다.\n온라인 중앙일보 '고구마 칼로리' [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "고구마 칼로리 고구마 칼로리가 다이어트를 결심한 이들에게 관심을 받고 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "고구마는 칼로리가 낮고 포만감을 얻을 수 있어 다이어트 하기에 좋은 식품이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "고구마 칼로리는 찐 고구마, 구운 고구마, 생 고구마로 조금씩 다른데, 고구마 칼로리를 100g당으로 계산을 해보면, 생 고구마 칼로리는 111Kcal, 찐 고구마 칼로리는 114Kcal, 군고구마 칼로리는 141Kcal로 다른 음식에 비해 비교적 낮다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "칼로리가 낮고 포만감도 쉽게 느낄 수 있어 다이어트 식단으로 제격인 셈이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "혈당 지수도 낮다.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "고구마의 혈당 지수는 55인데 이는 감자보다도 낮은 수치다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "혈당 지수는 음식이 소화되는 과정에서 포도당으로 전환되는 시간을 표시한 수치를 말한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "혈당 지수가 높을수록 체내에 많은 당이 쌓이게 된다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "고구마는 식이섬유가 풍부해 변비환자에게도 좋고 우리 피 속에 있는 콜레스테롤을 낮춰주고 혈압도 내려준다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또한, 고구마에는 비타민A·B1·B2·C·E가 많이 들어있어 세포가 노화되는 것을 방지해주고, 피부에 좋다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "고구마에는 항산화 물질인 베타카로틴이 많이 함유되어 있어 암세포가 증식되는 것을 막아준다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그리고 섬유소가 많이 들어있어서 대장암 예방에도 좋다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "한편, 고구마 칼로리 소식을 접한 네티즌들은 \\\"고구마 칼로리, 역시 다이어트에 좋음\\\" \\\"고구마 칼로리, 포만감 짱\\\" \\\"고구마 칼로리, 맛도 좋으니 금상첨화\\\" 등의 반응을 보였다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "온라인 중앙일보 '고구마 칼로리' [사진 중앙포토]",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고구마, 열량 낮고 포만감 쉽게 느껴 다이어트에 좋아… 혈당 지수는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

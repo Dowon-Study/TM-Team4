@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193715",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "연구중심병원 미국서 성공사례 배운다",
+    "newsSubTitle": "미국 보스턴 바이오클러스터 방문 및 국제 컨퍼런스 개최",
+    "newsContent": "기업과 협력해 사업화에 성공한 미국 병원의 모델을 벤치마킹하는 자리가 열린다.\n한국보건산업진흥원(이하 진흥원)과 연구중심병원 10개 기관 대표단은 사업화 성공을 위한 공동연구 방안을 모색하기 위해 미국 보스턴의 바이오클러스터를 방문한다.\n진흥원과 한국 연구중심병원 10개 기관 대표단은 26일부터 5일 동안 코네티컷 대학 R&D 센터, Pfizer R&D 센터, Johnson & Johnson Innovation 센터 등 주요 기관을 방문하면서 향후 연구협력의 발판을 마련할 계획이다.\n대표단은 27일 예일 대학과 코네티컷 대학을 방문해 코네티컷 대학의 사업화 성공사례와 연구중심병원의 사업화 사례를 공유한다.\n또 ‘성공적인 보건의료 연구개발과 사업화 전략’이라는 주제로 세미나를 개최한다.\n세미나에는 주미대한한국대사관, 예일 대학, 코네티컷 대학, 진흥원, 연구중심병원 대표단 등이 참석한다. 28일에는 보스턴 지역의 ‘병원중심의 연구를 통한 사업화 성공모델’과 ‘연구개발 사업화 및 생태계 전략’을 주제로 컨퍼런스를 개최한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "기업과 협력해 사업화에 성공한 미국 병원의 모델을 벤치마킹하는 자리가 열린다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국보건산업진흥원(이하 진흥원)과 연구중심병원 10개 기관 대표단은 사업화 성공을 위한 공동연구 방안을 모색하기 위해 미국 보스턴의 바이오클러스터를 방문한다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "진흥원과 한국 연구중심병원 10개 기관 대표단은 26일부터 5일 동안 코네티컷 대학 R&D 센터, Pfizer R&D 센터, Johnson & Johnson Innovation 센터 등 주요 기관을 방문하면서 향후 연구협력의 발판을 마련할 계획이다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대표단은 27일 예일 대학과 코네티컷 대학을 방문해 코네티컷 대학의 사업화 성공사례와 연구중심병원의 사업화 사례를 공유한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 ‘성공적인 보건의료 연구개발과 사업화 전략’이라는 주제로 세미나를 개최한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "세미나에는 주미대한한국대사관, 예일 대학, 코네티컷 대학, 진흥원, 연구중심병원 대표단 등이 참석한다. 28일에는 보스턴 지역의 ‘병원중심의 연구를 통한 사업화 성공모델’과 ‘연구개발 사업화 및 생태계 전략’을 주제로 컨퍼런스를 개최한다.",
+        "sentenceSize": 133
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미국 병원 벤치마킹 '쌉가능'··· 성공적 연구·사업화 세미나도 개최",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

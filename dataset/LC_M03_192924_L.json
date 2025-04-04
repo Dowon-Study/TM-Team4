@@ -1,0 +1,231 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192924",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "화장품, 꼭 비싸야 좋은가요?",
+    "newsSubTitle": "5만 원 미만 실속 선물법",
+    "newsContent": "여성을 위한 선물로는 화장품 선물세트가 인기다.\n그러나 세트는 가격이 만만치 않아 부담이다.\n15만~30만원은 족히 줘야 한다.\n하지만 꼭 세트 선물을 고집할 필요는 없다.\n세트 화장품을 선물한다고 해도 받은 사람이 세트에 든 화장품 모두를 사용하는 것은 아니기 때문이다.\n선물 받는 사람에 꼭 필요한 화장품을 고를 수만 있다면 단품으로 선물해도 무난하다.\n그럴 경우 5만 원이 채 안 들고 2만~3만원이면 살 수 있는 것도 많다.\n괜찮은 수입 화장품 중에는 통신 판매만 하는 것도 있으며 이들 화장품은 비교적 값이 싸다.\n이런 화장품을 고르기 위해서는 우선 받는 이의 피부타입을 고려하고, 사용 후기를 참조하는 게 좋다.\n건성·지성·중성·민감성·복합성 등 개개인마다 피부타입이 다르다.\n지성으로 고민하는 사람에게 유분이 듬뿍 농축된 영양크림을 선물한다면 쓰지도 못하는 물건을 선물하는 격이 된다.\n평소에 그 사람의 피부타입에 대해 파악해두는 센스가 필요하다.\n또 화장품 브랜드마다 제품별 타깃과 특성이 다르므로 이를 파악하고 다른 사람의 사용 후기나 상품 댓글을 참고해 선택하는 것이 바람직하다.\n연령별 피부고민을 공략한 기능성 제품을 선택하자.\n한 화장품 회사의 조사 결과 연령에 따라 피부 고민에 현격한 차이가 있다. 20~30대 여성 73%가 미백 고민으로 스트레스를 받고 있다.\n백조 피부(Swan Skin), 즉 쌩얼(Super Whitening)과 동안(Ageless, Newborn) 피부를 원한다. 30대 이후 40대로 접어드는 여성들의 가장 큰 피부 고민은 주름이다.\n계절에 따라 다른 피부상태를 고려해 선물을 골라야 한다.\n겨울은 피부에 있어서 가장 나쁜 계절이다.\n추위와 찬바람으로 신체의 모든 기능이 저하되고 피지와 땀의 분비량은 줄고 실내 난방으로 수분이 증발되어 피부는 건조하고 거칠어지기 쉽다.\n스키 등 겨울철 레저를 즐기는 사람들은 눈에 의한 자외선의 반사로 피부가 쉽게 그을기 마련이다.\n때문에 수분보다 유분이 많이 함유된 화장품을 선택해 피부를 촉촉하게 유지해야 하므로 이들에게는 이런 화장품을 선물하는 게 좋다.\n눈가는 겨울철 추운 날씨와 건조로 인해 잔주름이 두드러져 보이며 깊고 굵은 주름이 되기 쉬우므로 보다 각별한 손질이 필요하다.\n아이크림이나 에센스는 그래서 겨울에 좋은 선물이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 23,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "여성을 위한 선물로는 화장품 선물세트가 인기다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그러나 세트는 가격이 만만치 않아 부담이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "15만~30만원은 족히 줘야 한다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 꼭 세트 선물을 고집할 필요는 없다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세트 화장품을 선물한다고 해도 받은 사람이 세트에 든 화장품 모두를 사용하는 것은 아니기 때문이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "선물 받는 사람에 꼭 필요한 화장품을 고를 수만 있다면 단품으로 선물해도 무난하다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그럴 경우 5만 원이 채 안 들고 2만~3만원이면 살 수 있는 것도 많다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "괜찮은 수입 화장품 중에는 통신 판매만 하는 것도 있으며 이들 화장품은 비교적 값이 싸다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이런 화장품을 고르기 위해서는 우선 받는 이의 피부타입을 고려하고, 사용 후기를 참조하는 게 좋다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "건성·지성·중성·민감성·복합성 등 개개인마다 피부타입이 다르다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "지성으로 고민하는 사람에게 유분이 듬뿍 농축된 영양크림을 선물한다면 쓰지도 못하는 물건을 선물하는 격이 된다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "평소에 그 사람의 피부타입에 대해 파악해두는 센스가 필요하다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "또 화장품 브랜드마다 제품별 타깃과 특성이 다르므로 이를 파악하고 다른 사람의 사용 후기나 상품 댓글을 참고해 선택하는 것이 바람직하다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "연령별 피부고민을 공략한 기능성 제품을 선택하자.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "한 화장품 회사의 조사 결과 연령에 따라 피부 고민에 현격한 차이가 있다. 20~30대 여성 73%가 미백 고민으로 스트레스를 받고 있다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "백조 피부(Swan Skin), 즉 쌩얼(Super Whitening)과 동안(Ageless, Newborn) 피부를 원한다. 30대 이후 40대로 접어드는 여성들의 가장 큰 피부 고민은 주름이다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "계절에 따라 다른 피부상태를 고려해 선물을 골라야 한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "겨울은 피부에 있어서 가장 나쁜 계절이다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "추위와 찬바람으로 신체의 모든 기능이 저하되고 피지와 땀의 분비량은 줄고 실내 난방으로 수분이 증발되어 피부는 건조하고 거칠어지기 쉽다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "스키 등 겨울철 레저를 즐기는 사람들은 눈에 의한 자외선의 반사로 피부가 쉽게 그을기 마련이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "때문에 수분보다 유분이 많이 함유된 화장품을 선택해 피부를 촉촉하게 유지해야 하므로 이들에게는 이런 화장품을 선물하는 게 좋다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "눈가는 겨울철 추운 날씨와 건조로 인해 잔주름이 두드러져 보이며 깊고 굵은 주름이 되기 쉬우므로 보다 각별한 손질이 필요하다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "아이크림이나 에센스는 그래서 겨울에 좋은 선물이다.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "꼭 비싸야 좋은 것은 아니다... 개개인의 타입을 더 고려해야",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

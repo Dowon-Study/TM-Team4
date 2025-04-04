@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194529",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "서울의대 손대원 교수 305회, 과학인용색인(SCI) 논문 피인용 횟수 1위",
+    "newsSubTitle": "",
+    "newsContent": "국내 의학분야에서 과학인용색인(SCI) 논문 피인용 횟수 1위는 누구일까.\n지난 31년간 SCI 등재 학술지에 발표된 논문 중 서울대의대 손대원 교수(내과)가 305회로 가장 많은 피인용 횟수를 기록한 것으로 조사됐다.\nSCI 논문의 피인용 횟수는 연구 수준을 평가하는 국제적인 잣대. 따라서 연구기관은 연구비 지원이나, 학위 인정, 학술상 심사 등에 이 자료를 활용하기도 한다.\n대한민국의학한림원은 1974년부터 2004년까지 31년간 미국 톰슨 사이언티픽의 과학인용색인에 나타난 논문을 대상으로 피인용 횟수를 조사했다.\n이 기간에 SCI 학술잡지에 소개된 국내 의학논문 수는 4만764편이었으며 이들 논문의 총 피인용 횟수는 33만6529회로 나타났다.\n이 중 50회 이상 피인용된 논문은 201편, 4편 이상을 발표한 의학기관은 모두 9곳이었다.\n서울대의대가 총 65편으로 가장 많았으며, 22편의 연세대의대와 17편을 발표한 가톨릭대의대가 뒤를 이었다.\n손 교수의 논문은 '좌심실 이완기능 평가에 있어 승모판윤 운동속도의 역할'로, 미국심장학회지 1997년 8월호에 발표됐다.\n한편 서울대의대 윤보현 교수(산부인과)는 피인용 횟수가 가장 많은 상위 논문 10편 중 4편이 들어가는 기록을 세웠다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국내 의학분야에서 과학인용색인(SCI) 논문 피인용 횟수 1위는 누구일까.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 31년간 SCI 등재 학술지에 발표된 논문 중 서울대의대 손대원 교수(내과)가 305회로 가장 많은 피인용 횟수를 기록한 것으로 조사됐다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "SCI 논문의 피인용 횟수는 연구 수준을 평가하는 국제적인 잣대. 따라서 연구기관은 연구비 지원이나, 학위 인정, 학술상 심사 등에 이 자료를 활용하기도 한다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대한민국의학한림원은 1974년부터 2004년까지 31년간 미국 톰슨 사이언티픽의 과학인용색인에 나타난 논문을 대상으로 피인용 횟수를 조사했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 기간에 SCI 학술잡지에 소개된 국내 의학논문 수는 4만764편이었으며 이들 논문의 총 피인용 횟수는 33만6529회로 나타났다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 중 50회 이상 피인용된 논문은 201편, 4편 이상을 발표한 의학기관은 모두 9곳이었다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "서울대의대가 총 65편으로 가장 많았으며, 22편의 연세대의대와 17편을 발표한 가톨릭대의대가 뒤를 이었다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "손 교수의 논문은 '좌심실 이완기능 평가에 있어 승모판윤 운동속도의 역할'로, 미국심장학회지 1997년 8월호에 발표됐다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 서울대의대 윤보현 교수(산부인과)는 피인용 횟수가 가장 많은 상위 논문 10편 중 4편이 들어가는 기록을 세웠다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'과학인용색인' 논문 피인용 횟수 1위는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

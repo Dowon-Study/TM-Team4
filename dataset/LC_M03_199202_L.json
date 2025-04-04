@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199202",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강 신간] 한영미 원장의 통증 이야기 外",
+    "newsSubTitle": "",
+    "newsContent": "20년 임상 경험의 통증 전문의가 쓴 책이 나왔다.\n지은이 한영미 원장은 현재 국제나은병원 원장으로, 가정의학과와 마취통증의학과 복수 전문의를 취득한 통증전문가다.\n통증은 몸의 이상을 알리는 첫번째 신호다.\n이 책은 통증이 왜 중요하고 어떻게 받아들여야 하며 어떻게 치료할 것인가에 대해 알기 쉽게 풀었다.\n1부는 환자들이 어떻게 통증을 경험하고 있는지, 2부에서는 통증을 치료하는 다양한 방법을, 3부에서는 통증 예방법을 소개한다.\n통증은 생각보다 쉽게 치료할 수 있으며, 너무 불안해 하지 않아도 된다고 말한다.\n한영미 지음, 메디마크, 163쪽, 1만원. 한의사 아빠와 의사 엄마가 쓴 자녀 건강 양육서가 나왔다.\n저자들은 대한민국에서 아이 건강을 위해 가장 많이 싸운 부부일 것이라 이야기한다.\n아이가 열 날 때의 대처법, 변비가 있을 때 관장에 대한 이견, 예방접종에 대한 생각의 차이 등 다양한 의학적 견해 차이를 놓고 논쟁하고, 합의점을 찾아간다.\n기존의 건강 육아서가 백과사전식으로 건강법이나 응급상황 대처법을 제시했다면, 이 책은 세 자녀를 키우며 겪었던 경험을 에피소드 형식으로 풀어냈다.\n읽는 재미도 쏠쏠하다.\n박은성·이혜란 지음, 엔자임헬스, 280쪽, 1만3800원.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "20년 임상 경험의 통증 전문의가 쓴 책이 나왔다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지은이 한영미 원장은 현재 국제나은병원 원장으로, 가정의학과와 마취통증의학과 복수 전문의를 취득한 통증전문가다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "통증은 몸의 이상을 알리는 첫번째 신호다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 책은 통증이 왜 중요하고 어떻게 받아들여야 하며 어떻게 치료할 것인가에 대해 알기 쉽게 풀었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "1부는 환자들이 어떻게 통증을 경험하고 있는지, 2부에서는 통증을 치료하는 다양한 방법을, 3부에서는 통증 예방법을 소개한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "통증은 생각보다 쉽게 치료할 수 있으며, 너무 불안해 하지 않아도 된다고 말한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한영미 지음, 메디마크, 163쪽, 1만원. 한의사 아빠와 의사 엄마가 쓴 자녀 건강 양육서가 나왔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "저자들은 대한민국에서 아이 건강을 위해 가장 많이 싸운 부부일 것이라 이야기한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아이가 열 날 때의 대처법, 변비가 있을 때 관장에 대한 이견, 예방접종에 대한 생각의 차이 등 다양한 의학적 견해 차이를 놓고 논쟁하고, 합의점을 찾아간다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "기존의 건강 육아서가 백과사전식으로 건강법이나 응급상황 대처법을 제시했다면, 이 책은 세 자녀를 키우며 겪었던 경험을 에피소드 형식으로 풀어냈다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "읽는 재미도 쏠쏠하다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "박은성·이혜란 지음, 엔자임헬스, 280쪽, 1만3800원.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "20년 임상 경험의 전문의, '이것'은 몸의 이상을 알리는 첫 번째 신호!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

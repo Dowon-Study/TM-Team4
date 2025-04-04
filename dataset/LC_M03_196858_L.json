@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196858",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "두릅의 효능… 나른한 봄에 탁월한 효과, \\\"다이어트에도 좋다며?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "두릅의 효능… 나른한 봄에 탁월한 효과, \\\"다이어트에도 좋다며?\\\" 나른한 봄철에 제철을 맞은 두릅의 효능이 화제다.\n특히 두릅은 피로를 풀어주고 몸에 활력을 주는 것으로 알려져 춘곤증에 탁월하다. ‘봄 두릅은 금(金)이고 가을 두릅은 은(銀)이다’라는 말처럼 봄철 두릅은 다양한 효능을 갖고 있다.\n두릅은 일반적인 봄나물에 비해 단백질이 매우 풍부하고 칼로리가 적다.\n비타민 A, C, 칼슘, 섬유질 함량 등이 높아 다이어트에 좋다.\n두릅에 들어있는 사포닌과 비타민 C는 암을 유발하는 물질인 나이트로사민을 억제해 혈당과 혈중지질을 낮춰 당뇨병 환자에도 좋다.\n정신이 맑아지는 효과가 있어 아침에 잘 일어나지 못하는 사람에게 좋다.\n또한 무기력증·위장병·신경쇠약·저혈압·신장병·간 질환 등 여러 병에 특효약이다.\n두릅나무는 산기슭의 양지나 골짜기에서 자라고 높이는 3~4m이며 가지가 매우 적다.\n두릅은 끓는 물에 살짝 데쳐야 쓴맛과 떫은맛이 제거되고 초고추장에 찍어 먹으면 나물 고유의 향을 느낄 수 있다.\n두릅을 약으로 쓸 때는 새순을 초봄에 채취해 그늘에 말려 달여 마시는 경우가 많다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "두릅의 효능… 나른한 봄에 탁월한 효과, \\\"다이어트에도 좋다며?\\\" 나른한 봄철에 제철을 맞은 두릅의 효능이 화제다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특히 두릅은 피로를 풀어주고 몸에 활력을 주는 것으로 알려져 춘곤증에 탁월하다. ‘봄 두릅은 금(金)이고 가을 두릅은 은(銀)이다’라는 말처럼 봄철 두릅은 다양한 효능을 갖고 있다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두릅은 일반적인 봄나물에 비해 단백질이 매우 풍부하고 칼로리가 적다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "비타민 A, C, 칼슘, 섬유질 함량 등이 높아 다이어트에 좋다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두릅에 들어있는 사포닌과 비타민 C는 암을 유발하는 물질인 나이트로사민을 억제해 혈당과 혈중지질을 낮춰 당뇨병 환자에도 좋다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정신이 맑아지는 효과가 있어 아침에 잘 일어나지 못하는 사람에게 좋다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 무기력증·위장병·신경쇠약·저혈압·신장병·간 질환 등 여러 병에 특효약이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "두릅나무는 산기슭의 양지나 골짜기에서 자라고 높이는 3~4m이며 가지가 매우 적다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "두릅은 끓는 물에 살짝 데쳐야 쓴맛과 떫은맛이 제거되고 초고추장에 찍어 먹으면 나물 고유의 향을 느낄 수 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "두릅을 약으로 쓸 때는 새순을 초봄에 채취해 그늘에 말려 달여 마시는 경우가 많다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "봄철 나물인 두릅, 다이어트와 불면증 한정으로 만병통치약",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

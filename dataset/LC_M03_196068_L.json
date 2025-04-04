@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196068",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "오늘 미세먼지 농도 최고값 '나쁨' 수준…삼겹살이 미세먼지 씻어줄까?",
+    "newsSubTitle": "",
+    "newsContent": "오늘 미세먼지가 화제다.\n오늘 미세먼지 농도 최고값은 서울이 116㎍/㎥, 경기 145㎍/㎥, 부산 189㎍/㎥, 대구 168㎍/㎥, 인천 140㎍/㎥, 대전 106㎍/㎥ 등으로 전국이 대체적으로 '나쁨' 수준에 속한다.\n오늘 미세먼지 농도에서 1시간과 일평균 값을 모두 고려하면 '보통'에 속하지만 최고값이 '나쁨'에 속하기 때문에 외출시 모자나 마스크를 착용하는 등 건강에 유의해야 한다.\n오늘 미세먼지 농도의 최고값이 '나쁨' 수준에 속하면서 식사 메뉴로 삼겹살을 떠올리는 네티즌들이 많다.\n그러나 삼겹살의 지방이 입과 기관지의 미세먼지를 씻어 준다는 내용은 의학적으로 증명된 바 없는 속설이다.\n지방은 오히려 지용성 유해 물질의 체내 흡수를 높일 수 있으니 가급적 피하는 것이 좋다.\n삼겹살을 먹기보다는 물을 자주 마시고 해조류와 마늘, 녹황색 채소 등을 먹는 것이 좋다.\n특히, 미역은 미세먼지로 인해 체내에 축적된 중금속 배출을 도와준다.\n오늘 미세먼지 농도의 최고값이 '나쁨'에 속한 만큼 식사 때 중금속 배출을 돕는 미역 등 해조류를 섭취하면 좋겠다.\n온라인 중앙일보 [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오늘 미세먼지가 화제다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘 미세먼지 농도 최고값은 서울이 116㎍/㎥, 경기 145㎍/㎥, 부산 189㎍/㎥, 대구 168㎍/㎥, 인천 140㎍/㎥, 대전 106㎍/㎥ 등으로 전국이 대체적으로 '나쁨' 수준에 속한다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오늘 미세먼지 농도에서 1시간과 일평균 값을 모두 고려하면 '보통'에 속하지만 최고값이 '나쁨'에 속하기 때문에 외출시 모자나 마스크를 착용하는 등 건강에 유의해야 한다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오늘 미세먼지 농도의 최고값이 '나쁨' 수준에 속하면서 식사 메뉴로 삼겹살을 떠올리는 네티즌들이 많다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 삼겹살의 지방이 입과 기관지의 미세먼지를 씻어 준다는 내용은 의학적으로 증명된 바 없는 속설이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지방은 오히려 지용성 유해 물질의 체내 흡수를 높일 수 있으니 가급적 피하는 것이 좋다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "삼겹살을 먹기보다는 물을 자주 마시고 해조류와 마늘, 녹황색 채소 등을 먹는 것이 좋다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히, 미역은 미세먼지로 인해 체내에 축적된 중금속 배출을 도와준다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "오늘 미세먼지 농도의 최고값이 '나쁨'에 속한 만큼 식사 때 중금속 배출을 돕는 미역 등 해조류를 섭취하면 좋겠다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 [사진 중앙포토]",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미세먼지 씻어주는 음식은 따로 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

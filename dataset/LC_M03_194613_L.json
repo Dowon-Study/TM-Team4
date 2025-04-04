@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194613",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Family건강] 무릎연골 배양이식술의 진화",
+    "newsSubTitle": "접착제 섞으니 연골 모양 잘 잡혀",
+    "newsContent": "무릎연골 손상 환자에게 적용하는 자가연골 배양이식술이 새로운 전기를 맡고 있다.\n빨리 굳는 연골배양액이 선보이면서 수술이 편해지고, 생착률이 크게 좋아져 종래 시술을 빠르게 대체할 것으로 기대되고 있다.\n이 시술은 이름 그대로 자신의 무릎 연골 일부를 조금 떼어내 실험실에서 키운 뒤 손상된 부위에 집어넣는 첨단 기법이다.\n1990년대 초 스웨덴에서 개발돼 미국.유럽에 정착됐고, 우리나라엔 7년여 전 도입돼 확산일로에 있다.\n그동안 대중화되지 않은 것은 배양된 세포가 액상이었기 때문. 강남성모병원 정형외과 김정만 교수는 \\\"연골배양액이 액체여서 흘러내리는 등 생착이 어려웠다\\\"며 \\\"따라서 뼈에서 골막을 채취, 세포를 담을 그릇을 만들어 붙이는 방법을 사용했다\\\"고 말했다.\n여기서 한걸음 나아간 것이 배양 연골세포에 접착제를 첨가하는 방식. 미국에선 붙이는 패치형이 나왔지만 국내에선 피부린이라는 생체 아교와 섞어 주입하는 방법이 개발돼 환자에 사용되고 있다.\n장점은 역시 빨리 굳는다는 것이다.\n이에 따라 수술시간.회복속도가 빠르고, 성공률도 높아졌다.\n연세사랑병원 고용곤 원장은 \\\"골막을 사용하지 않기 때문에 시술시간이 1시간에서 20분으로 단축되고, 성공률도 95%로 높아졌다\\\"고 말했다.\n이 병원이 최근 2년간 시술한 환자 중 추적이 가능한 30명을 조사한 결과 이식 3개월 후 생착에 성공한 환자는 29명으로 나타났다.\n환자의 연골 손상 크기는 모두 2㎝ 이상이었고, 40대 환자가 압도적으로 많았다.\n골막을 사용하는 의사도 있다.\n김 교수는 \\\"골막을 사용하지 않을 경우 무릎을 구부릴 때 이식한 연골이 찌부러드는 등 변형이 올 수 있다\\\"고 강조했다.\n현재 골막을 만들어 붙이는 의사는 절반 정도. 이에 대해 고 원장은 \\\"이식한 부위가 떨어지지 않도록 뼈에 앵커를 박는 등 새로운 술식이 필요하다\\\"며 \\\"관절경으로 사후 관찰한 결과 지금까지 별문제가 없었다\\\"고 밝혔다.\n연골은 무릎뼈 사이의 충격완화 장치. 대부분 운동이나 나쁜 자세로 인해 망가진다.\n등산.마라톤 등 지속적인 충격을 가하거나, 쪼그려 앉는 자세가 반복될 경우 연골이 분화구처럼 파인다.\n이를 방치할 경우 만성 퇴행성관절염으로 진행된다.\n종래엔 무릎뼈에 미세한 구멍을 뚫어 혈액이 나오도록 유도하는 미세천공술(혈액이 굳으면서 메워진다)이나, 잘 사용하지 않는 부위의 연골을 옮겨 주는 뼈연골 이식술이 선호됐다.\n하지만 이들 시술은 내구성이 약하고, 연골 채취를 위해 또 다른 손상을 입어야 하며, 손상부위가 넓을 경우 적용할 수 없는 한계가 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "무릎연골 손상 환자에게 적용하는 자가연골 배양이식술이 새로운 전기를 맡고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "빨리 굳는 연골배양액이 선보이면서 수술이 편해지고, 생착률이 크게 좋아져 종래 시술을 빠르게 대체할 것으로 기대되고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 시술은 이름 그대로 자신의 무릎 연골 일부를 조금 떼어내 실험실에서 키운 뒤 손상된 부위에 집어넣는 첨단 기법이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "1990년대 초 스웨덴에서 개발돼 미국.유럽에 정착됐고, 우리나라엔 7년여 전 도입돼 확산일로에 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그동안 대중화되지 않은 것은 배양된 세포가 액상이었기 때문. 강남성모병원 정형외과 김정만 교수는 \\\"연골배양액이 액체여서 흘러내리는 등 생착이 어려웠다\\\"며 \\\"따라서 뼈에서 골막을 채취, 세포를 담을 그릇을 만들어 붙이는 방법을 사용했다\\\"고 말했다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "여기서 한걸음 나아간 것이 배양 연골세포에 접착제를 첨가하는 방식. 미국에선 붙이는 패치형이 나왔지만 국내에선 피부린이라는 생체 아교와 섞어 주입하는 방법이 개발돼 환자에 사용되고 있다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "장점은 역시 빨리 굳는다는 것이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 따라 수술시간.회복속도가 빠르고, 성공률도 높아졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "연세사랑병원 고용곤 원장은 \\\"골막을 사용하지 않기 때문에 시술시간이 1시간에서 20분으로 단축되고, 성공률도 95%로 높아졌다\\\"고 말했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 병원이 최근 2년간 시술한 환자 중 추적이 가능한 30명을 조사한 결과 이식 3개월 후 생착에 성공한 환자는 29명으로 나타났다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "환자의 연골 손상 크기는 모두 2㎝ 이상이었고, 40대 환자가 압도적으로 많았다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "골막을 사용하는 의사도 있다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "김 교수는 \\\"골막을 사용하지 않을 경우 무릎을 구부릴 때 이식한 연골이 찌부러드는 등 변형이 올 수 있다\\\"고 강조했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "현재 골막을 만들어 붙이는 의사는 절반 정도. 이에 대해 고 원장은 \\\"이식한 부위가 떨어지지 않도록 뼈에 앵커를 박는 등 새로운 술식이 필요하다\\\"며 \\\"관절경으로 사후 관찰한 결과 지금까지 별문제가 없었다\\\"고 밝혔다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "연골은 무릎뼈 사이의 충격완화 장치. 대부분 운동이나 나쁜 자세로 인해 망가진다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "등산.마라톤 등 지속적인 충격을 가하거나, 쪼그려 앉는 자세가 반복될 경우 연골이 분화구처럼 파인다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이를 방치할 경우 만성 퇴행성관절염으로 진행된다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "종래엔 무릎뼈에 미세한 구멍을 뚫어 혈액이 나오도록 유도하는 미세천공술(혈액이 굳으면서 메워진다)이나, 잘 사용하지 않는 부위의 연골을 옮겨 주는 뼈연골 이식술이 선호됐다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "하지만 이들 시술은 내구성이 약하고, 연골 채취를 위해 또 다른 손상을 입어야 하며, 손상부위가 넓을 경우 적용할 수 없는 한계가 있다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무릎 연골 손상 환자에게 희소식... 획기적인 기술 변화는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

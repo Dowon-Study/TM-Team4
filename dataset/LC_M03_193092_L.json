@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193092",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "“하루 20분만 걸으세요” 비만 뿐 아니라 관절염, 암예방까지",
+    "newsSubTitle": "",
+    "newsContent": "하루 20분 꾸준한 운동만 해도 몸 안에 염증을 억제해 비만 뿐 아니라 관절염과 암까지 예방할 수 있다는 연구결과가 나왔다.\n15일 인디아 투데이는 미국 샌디에이고 캘리포니아대(UC샌디에이고) 연구팀이 이같은 연구결과를 과학 학술지인 ‘뇌와 행동, 면역’에 게재했다고 보도했다.\nUC샌디에이고 연구팀은 걷기와 같은 20분 운동으로 몸이 염증과 싸우는데 도움을 준다고 분석했다.\n또 심장과 뼈, 근육을 강화시킨다.\n심장과 혈관 움직임을 자극해 고혈압이나 저혈압을 예방하기도 한다.\n세포 활동을 왕성하게 해 암세포만을 공격하는 단백질로 알려진 TNF도 늘어날 수 있다.\n연구팀 홍수지 교수는 “미국인 2500만명이 자기면역질환을 앓고 있는데 20분 운동이 이를 막을 수 있다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "하루 20분 꾸준한 운동만 해도 몸 안에 염증을 억제해 비만 뿐 아니라 관절염과 암까지 예방할 수 있다는 연구결과가 나왔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 인디아 투데이는 미국 샌디에이고 캘리포니아대(UC샌디에이고) 연구팀이 이같은 연구결과를 과학 학술지인 ‘뇌와 행동, 면역’에 게재했다고 보도했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "UC샌디에이고 연구팀은 걷기와 같은 20분 운동으로 몸이 염증과 싸우는데 도움을 준다고 분석했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 심장과 뼈, 근육을 강화시킨다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "심장과 혈관 움직임을 자극해 고혈압이나 저혈압을 예방하기도 한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "세포 활동을 왕성하게 해 암세포만을 공격하는 단백질로 알려진 TNF도 늘어날 수 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연구팀 홍수지 교수는 “미국인 2500만명이 자기면역질환을 앓고 있는데 20분 운동이 이를 막을 수 있다”고 말했다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비만 뿐 아니라 관절염, 암 예방까지... 심장과 뼈, 근육도 강화, 만능이네",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

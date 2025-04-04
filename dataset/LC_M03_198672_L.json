@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198672",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "케이크 표절 논란에도···솔비 미술작품 1010만원에 팔렸다",
+    "newsSubTitle": "",
+    "newsContent": "미술 활동을 하는 가수 솔비(본명 권지안)의 작품이 서울 옥션 스페셜 경매에서 1010만원에 낙찰됐다.\n소속사 엠에이피크루에 따르면 솔비의 작품 '저스트 어 케이크-엔절'(Just a Cake-Angel)은 전날 마감된 서울 옥션 경매에서 시초가 100만원에서 시작해 49회 경합을 거치며 1010만원에 낙찰됐다.\n이번 출품작은 가로 50㎝, 세로 70㎝의 사이즈의 블루투스 스피커에 작업했다.\n흰색 케이크가 엉클어진 것 같은 부조 작품에 자신의 신곡 '엔젤'을 함께 포함시켰다.\n음악과 미술을 융합한 실험적 작품이다.\n낙찰자가 동의하지 않으면 음악은 대중에 공개되지 않고 낙찰자가 소장하도록 했다. '저스트 어 케이크' 시리즈는 지난해 12월 케이크 표절 이슈에서 시작됐다.\n소속사는 \\\"이는 가나 아틀리에 입주 작가들이 스피커 오브제로 작업한 평면 작품 중 최고가로, 동시대에 주목받는 작가들보다 높은 낙찰가\\\"라고 소개했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미술 활동을 하는 가수 솔비(본명 권지안)의 작품이 서울 옥션 스페셜 경매에서 1010만원에 낙찰됐다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 엠에이피크루에 따르면 솔비의 작품 '저스트 어 케이크-엔절'(Just a Cake-Angel)은 전날 마감된 서울 옥션 경매에서 시초가 100만원에서 시작해 49회 경합을 거치며 1010만원에 낙찰됐다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 출품작은 가로 50㎝, 세로 70㎝의 사이즈의 블루투스 스피커에 작업했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "흰색 케이크가 엉클어진 것 같은 부조 작품에 자신의 신곡 '엔젤'을 함께 포함시켰다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "음악과 미술을 융합한 실험적 작품이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "낙찰자가 동의하지 않으면 음악은 대중에 공개되지 않고 낙찰자가 소장하도록 했다. '저스트 어 케이크' 시리즈는 지난해 12월 케이크 표절 이슈에서 시작됐다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "소속사는 \\\"이는 가나 아틀리에 입주 작가들이 스피커 오브제로 작업한 평면 작품 중 최고가로, 동시대에 주목받는 작가들보다 높은 낙찰가\\\"라고 소개했다.",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미술 활동하는 '이 가수' 작품, 서울 옥션 경매서 1,010만 원에 낙찰",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

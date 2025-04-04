@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195396",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스 신간",
+    "newsSubTitle": "",
+    "newsContent": "『암환자를 살리는 항암 보양 식탁』 미이 도시코·고타카 슈지 지음 전나무숲 296쪽, 2만원 암 환자를 위한 레시피북 『암환자를 살리는 항암 보양 식탁』이 발간됐다.\n암을 극복하려면 항암 치료를 견딜 수 있는 체력과 면역력을 키우는 게 중요하다.\n저자는 무엇을 먹느냐에 따라 암 환자의 몸 상태가 달라지고, 이것이 암 극복의 성패를 가른다고 강조한다.\n위암은 버섯약선수프·전칠인삼달걀찜·칡죽, 대장암은 녹차감자샐러드·참마수프 등 암 종류별 적절한 약선요리 레시피를 소개한다. 『어쩐지, 도망치고 싶더라니』 뇌부자들 지음 아르테 360쪽, 1만6000원 정신 건강 안내서 『어쩐지, 도망치고 싶더라니』가 출간됐다.\n인기 팟캐스트 ‘뇌부자들’의 진행자인 정신건강의학과 의사 5명이 진료실을 배경으로 엮은 책이다.\n심리상태에 대한 직접적인 처방이나 조언보다는 독자 스스로 마음을 들여다보고 감정을 읽어내는 방법을 일러준다.\n분노·불안·무기력·우울·산후우울증·강박 등 생활 속에서 흔히 겪을 수 있는 정신 건강 문제에 적절하게 대처하는 방법을 소개한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "『암환자를 살리는 항암 보양 식탁』 미이 도시코·고타카 슈지 지음 전나무숲 296쪽, 2만원 암 환자를 위한 레시피북 『암환자를 살리는 항암 보양 식탁』이 발간됐다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "암을 극복하려면 항암 치료를 견딜 수 있는 체력과 면역력을 키우는 게 중요하다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "저자는 무엇을 먹느냐에 따라 암 환자의 몸 상태가 달라지고, 이것이 암 극복의 성패를 가른다고 강조한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "위암은 버섯약선수프·전칠인삼달걀찜·칡죽, 대장암은 녹차감자샐러드·참마수프 등 암 종류별 적절한 약선요리 레시피를 소개한다. 『어쩐지, 도망치고 싶더라니』 뇌부자들 지음 아르테 360쪽, 1만6000원 정신 건강 안내서 『어쩐지, 도망치고 싶더라니』가 출간됐다.",
+        "sentenceSize": 145
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "인기 팟캐스트 ‘뇌부자들’의 진행자인 정신건강의학과 의사 5명이 진료실을 배경으로 엮은 책이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "심리상태에 대한 직접적인 처방이나 조언보다는 독자 스스로 마음을 들여다보고 감정을 읽어내는 방법을 일러준다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "분노·불안·무기력·우울·산후우울증·강박 등 생활 속에서 흔히 겪을 수 있는 정신 건강 문제에 적절하게 대처하는 방법을 소개한다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "암 극복 레시피부터 정신 건강 안내서까지 모두 있는 헬스 신간은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192919",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "성공경영을 위해서는 직원교육을 알아야 한다",
+    "newsSubTitle": "",
+    "newsContent": "최근 들어 의료 환경이 매우 빠르게 변화되고 있고 경쟁이 심화되면서 교육의 중요성이 부각되고 있다.\n뛰어난 직원이 병원의 매출에 매우 큰 영향을 끼치기 때문에 메디컬에서도 보다 전문화된 교육이 필요하다.\n아라컨설팅 (윤성민대표)의 말에 따르면 최근에 네트워크 병원과 종합병원들 중심으로 메디컬 환경에 특화된 교육을 원하는 사례가 많이 늘어가고 있다고 한다.\n직원들 또한 C.S 교육 뿐만 아니라 상담 스킬, 마케팅, 스트레스 관리, 리더십, 외국어 등 다양한 교육을 원하고 있다고 한다.\n이러한 요구에 맞추어 메디컬 마케팅 MBA 과정을 6기까지 배출한 아라컨설팅은 조인스닷컴과 함께 병원매니지먼트전문가 과정과 개원코칭과정, 메디컬 중간관리자과정, Dr. 최고경영자 과정, 병원워크샵 등 병원 특화 교육을 실시하고 있다.\n메디컬에 특화된 MBA교육과 다양한 병원교육으로 알려진 아라컨설팅은 2008년 들어 더욱 다양한 교육으로 높은 스트레스 환경에서 근무하는 의료 근무자들의 발전과 성장에 크게 기여할 것으로 본다.\n■ 문의/ 전화 : 02-2116-2112 (http://healthcare.joins.com/academy) 조인스닷컴(joins.com)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최근 들어 의료 환경이 매우 빠르게 변화되고 있고 경쟁이 심화되면서 교육의 중요성이 부각되고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "뛰어난 직원이 병원의 매출에 매우 큰 영향을 끼치기 때문에 메디컬에서도 보다 전문화된 교육이 필요하다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아라컨설팅 (윤성민대표)의 말에 따르면 최근에 네트워크 병원과 종합병원들 중심으로 메디컬 환경에 특화된 교육을 원하는 사례가 많이 늘어가고 있다고 한다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "직원들 또한 C.S 교육 뿐만 아니라 상담 스킬, 마케팅, 스트레스 관리, 리더십, 외국어 등 다양한 교육을 원하고 있다고 한다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이러한 요구에 맞추어 메디컬 마케팅 MBA 과정을 6기까지 배출한 아라컨설팅은 조인스닷컴과 함께 병원매니지먼트전문가 과정과 개원코칭과정, 메디컬 중간관리자과정, Dr. 최고경영자 과정, 병원워크샵 등 병원 특화 교육을 실시하고 있다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "메디컬에 특화된 MBA교육과 다양한 병원교육으로 알려진 아라컨설팅은 2008년 들어 더욱 다양한 교육으로 높은 스트레스 환경에서 근무하는 의료 근무자들의 발전과 성장에 크게 기여할 것으로 본다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "■ 문의/ 전화 : 02-2116-2112 (http://healthcare.joins.com/academy) 조인스닷컴(joins.com)",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "성공하는 경영자들은 모두 알고 있던 비밀... 당신만 모르고 있다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

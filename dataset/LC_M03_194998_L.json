@@ -1,0 +1,231 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194998",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[이건 이렇지요] 한약, 직접 달여야 보약",
+    "newsSubTitle": "",
+    "newsContent": "더위에 지친 몸을 보(補)하기 위해 한약을 찾는 사람이 적지 않다고 합니다.\n요즘은 한방병원.한의원에서 약탕기를 써서 직접 한약을 달여 환자에게 제공하고 있지요.\n그러나 한 두재 분량을 한꺼번에 달여 드시는 것은 허준 선생의 처방이 아닙니다.\n보관 도중 약 성분 중 일부가 변해 약효가 떨어질 수 있지요.\n밥도 금방 지어 먹어야 맛이 좋고 소화가 잘 되듯이 한번에 1백50~2백㎖쯤 탕액을 만들어 바로 온복(溫服)하는 것이 최상의 복용법입니다(경희대 한의학과 최호영 교수). 이때 약사발에 가라앉은 찌꺼기는 굳이 드시지 않아도 됩니다.\n대개 섬유소이지만 이물질이 섞여 있을 가능성도 있습니다.\n그러나 탕액이 식으면서 침전된 것이라면 대개는 약효 성분이므로 다시 데워 드시는 것이 좋습니다.\n약을 달이는 그릇(약탕기)은 곱돌 약탕관이 가장 좋고 그 다음으론 질그릇을 꼽습니다.\n은근히 데워지고 서서히 식기 때문입니다.\n법랑.유리.파이렉스 약탕기도 무방하나 알루미늄.철.구리 등 금속으로 만든 것은 약 성분과 화학적인 반응을 할 수 있으므로 피해야 합니다.\n약탕기에 넣는 물은 깨끗한 우물물이 좋으나, 정수한 수돗물을 사용해도 무방합니다.\n이때 물의 양은 약 1첩에 물 1사발(4백50㏄) 정도가 알맞습니다.\n물이 약 위로 3~4㎝쯤 올라오게 해야겠지요.\n빈 약탕기에 먼저 약재를 넣고 끓인 물을 부어 2시간쯤 방치한 뒤 달이기 시작합니다.\n약이 끓기 시작한 지 10분쯤 후에 탕액을 1차로 따라냅니다.\n그리고 다시 물을 부어 약한 불로 2시간쯤 달여 약찌꺼기가 물위로 드러나면 삼베보자기 등으로 가볍게 걸러냅니다.\n이렇게 달인 두 약액을 섞어 세 번에 나눠 복용하는 것이 가장 이상적입니다.\n한약의 복용법은 약효에 바로 영향을 미칩니다.\n하루 3회 복용이 원칙이나 병이 심하면 횟수에 구애받을 필요가 없습니다.\n대개 몸을 보하는 한약이나 위장질환을 치료하는 한약은 빈 속에 복용하는 것이 좋습니다.\n그래야 약의 흡수가 빨라지지요.\n반면 소화를 돕거나 위에 자극이 있는 한약은 식후에,불면증 치료를 돕는 한약은 잠들기 전에 드시는게 좋습니다.\n양약을 함께 복용하고 있을 때는 1시간쯤 간격을 두고 드시면 됩니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 23,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "더위에 지친 몸을 보(補)하기 위해 한약을 찾는 사람이 적지 않다고 합니다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "요즘은 한방병원.한의원에서 약탕기를 써서 직접 한약을 달여 환자에게 제공하고 있지요.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러나 한 두재 분량을 한꺼번에 달여 드시는 것은 허준 선생의 처방이 아닙니다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보관 도중 약 성분 중 일부가 변해 약효가 떨어질 수 있지요.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "밥도 금방 지어 먹어야 맛이 좋고 소화가 잘 되듯이 한번에 1백50~2백㎖쯤 탕액을 만들어 바로 온복(溫服)하는 것이 최상의 복용법입니다(경희대 한의학과 최호영 교수). 이때 약사발에 가라앉은 찌꺼기는 굳이 드시지 않아도 됩니다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "대개 섬유소이지만 이물질이 섞여 있을 가능성도 있습니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러나 탕액이 식으면서 침전된 것이라면 대개는 약효 성분이므로 다시 데워 드시는 것이 좋습니다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "약을 달이는 그릇(약탕기)은 곱돌 약탕관이 가장 좋고 그 다음으론 질그릇을 꼽습니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "은근히 데워지고 서서히 식기 때문입니다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "법랑.유리.파이렉스 약탕기도 무방하나 알루미늄.철.구리 등 금속으로 만든 것은 약 성분과 화학적인 반응을 할 수 있으므로 피해야 합니다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "약탕기에 넣는 물은 깨끗한 우물물이 좋으나, 정수한 수돗물을 사용해도 무방합니다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이때 물의 양은 약 1첩에 물 1사발(4백50㏄) 정도가 알맞습니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "물이 약 위로 3~4㎝쯤 올라오게 해야겠지요.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "빈 약탕기에 먼저 약재를 넣고 끓인 물을 부어 2시간쯤 방치한 뒤 달이기 시작합니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "약이 끓기 시작한 지 10분쯤 후에 탕액을 1차로 따라냅니다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "그리고 다시 물을 부어 약한 불로 2시간쯤 달여 약찌꺼기가 물위로 드러나면 삼베보자기 등으로 가볍게 걸러냅니다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이렇게 달인 두 약액을 섞어 세 번에 나눠 복용하는 것이 가장 이상적입니다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "한약의 복용법은 약효에 바로 영향을 미칩니다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "하루 3회 복용이 원칙이나 병이 심하면 횟수에 구애받을 필요가 없습니다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "대개 몸을 보하는 한약이나 위장질환을 치료하는 한약은 빈 속에 복용하는 것이 좋습니다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "그래야 약의 흡수가 빨라지지요.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "반면 소화를 돕거나 위에 자극이 있는 한약은 식후에,불면증 치료를 돕는 한약은 잠들기 전에 드시는게 좋습니다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "양약을 함께 복용하고 있을 때는 1시간쯤 간격을 두고 드시면 됩니다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "몸이 허할 때 찾게 되는 한약... 어떻게 하면 잘 달일 수 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

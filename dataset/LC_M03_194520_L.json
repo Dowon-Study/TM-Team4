@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194520",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[짤막소식] 한지와 천을 화면에 기우고 붙이는 콜라주 작업 外",
+    "newsSubTitle": "",
+    "newsContent": "◆한국화가 박민희씨의 6번째 개인전이 서울 인사동 공화랑에서 열리고 있다(4월 3일까지, 02-735-9938). 한지와 천을 화면에 기우고 붙이는 콜라주 작업을 보여준다.\n화면은 환하게 만발한 꽃송이가 되기도 하고, 비 내리는 숲의 모습을 보여주기도 한다.\n꽃은 강렬한 색채로 존재감을 드러내고 숲은 은은하고도 품위있게 어우러진다.\n◆예술의전당이 2007 교향악축제를 시작한다. 4월 1일 오후 4시 부천필하모닉오케스트라(지휘:임헌정)의 브람스 연주로 시작하는 이번 축제에는 모두 21개의 교향악단이 참가한다.\n교향악축제는 1995년 시작한 이후 국내 교향악단들이 벌이는 가장 큰 축제로 자리매김해 왔다.\n이 릴레이 연주는 예술의전당 콘서트홀에서 4월 23일까지 계속된다.\n02-580-1300 ◆이달 22일 개봉한 영화 '향수:어느 살인자의 이야기' OST (EMI)가 발매됐다.\n세계 최고의 오케스트라로 손꼽히는 베를린 필하모닉과 지휘자 사이먼 래틀이 처음으로 녹음한 영화음악이다.\n천재적 후각을 가진 한 남자의 욕망을 그린 작품의 분위기가 강렬한 화음 안에 담겼다.\n02-3467-9423 ◆해피바순이 4월 3일 오후 7시30분 세종체임버홀에서 창단연주회를 연다. 김충배씨 등 바순 연주자 4명이 만든 이 단체는 고전음악에서 팝까지 다양한 장르 음악을 선사한다. 02-583-6295",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆한국화가 박민희씨의 6번째 개인전이 서울 인사동 공화랑에서 열리고 있다(4월 3일까지, 02-735-9938). 한지와 천을 화면에 기우고 붙이는 콜라주 작업을 보여준다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "화면은 환하게 만발한 꽃송이가 되기도 하고, 비 내리는 숲의 모습을 보여주기도 한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "꽃은 강렬한 색채로 존재감을 드러내고 숲은 은은하고도 품위있게 어우러진다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "◆예술의전당이 2007 교향악축제를 시작한다. 4월 1일 오후 4시 부천필하모닉오케스트라(지휘:임헌정)의 브람스 연주로 시작하는 이번 축제에는 모두 21개의 교향악단이 참가한다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "교향악축제는 1995년 시작한 이후 국내 교향악단들이 벌이는 가장 큰 축제로 자리매김해 왔다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 릴레이 연주는 예술의전당 콘서트홀에서 4월 23일까지 계속된다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "02-580-1300 ◆이달 22일 개봉한 영화 '향수:어느 살인자의 이야기' OST (EMI)가 발매됐다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "세계 최고의 오케스트라로 손꼽히는 베를린 필하모닉과 지휘자 사이먼 래틀이 처음으로 녹음한 영화음악이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "천재적 후각을 가진 한 남자의 욕망을 그린 작품의 분위기가 강렬한 화음 안에 담겼다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "02-3467-9423 ◆해피바순이 4월 3일 오후 7시30분 세종체임버홀에서 창단연주회를 연다. 김충배씨 등 바순 연주자 4명이 만든 이 단체는 고전음악에서 팝까지 다양한 장르 음악을 선사한다. 02-583-6295",
+        "sentenceSize": 121
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한지와 천을 화면에 기우고 붙이면... 새롭게 선보이는 작품, 어디서 볼 수 있나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

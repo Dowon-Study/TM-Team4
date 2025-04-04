@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196147",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "바이오시밀러 시대 개막…엔브렐 바이오시밀러 탄생",
+    "newsSubTitle": "후발주자와 비교해 1년이상 빨라",
+    "newsContent": "국내 3번째 바이오 시밀러가 탄생했다.\n주인공은 한화케미칼에서 자체 개발한 엔브렐 바이오시밀러 '다빅트렐'이다.\n13일 식품의약품안전처는 한화케미칼의 류마티스관절염치료제 다빅트렐주 25㎎의 국내 시판을 승인했다고 밝혔다.\n이 제품은 보험약가 등재 등 절차를 거쳐 내년 상반기 판매될 것으로 예상된다.\n본래 다빅트렐은 2012년 최초로 허가를 신청했지만 자료보완 등을 이유로 한 차례 하가가 보류됐다.\n이후 올해 초 허가 재신청을 통해 최종적으로 시판 승인을 받았다.\n바이오시밀러는 유전자재조합기술 및 세포배양기술 등 생명공학기술을 활용해 개발·판매중인 오리지널 바이오의약품과 품질·효능·안전성 측면에서 동등성을 입증한 제품을 의미한다.\n관련업계에서는 엔브렐 바이오시밀러 첫 주자가 나타났다는 점에 주목하고 있다.\n현재 엔브렐 바이오시밀러는 국내에서만 삼성바이오에피스, LG생명과학, 대웅제약, 동아쏘시오홀딩스 등이 치열하게 제품개발을 경쟁하고 있다.\n이중 한화케미칼이 엔브렐 바이오시밀러 분야에서는 전세계적으로 처음 시판허가를 받은 것. 엔브렐 바이오 시밀러 중에서는 가장 빠른 행보다. 특히 임상 3상을 진행하고 있는 삼성바이오에피스가 엔브렐 바이오시미러 출시를 2016년으로 목표하고 있는만큼 다빅트렐은 1년 이상 빨리 시장에 진입할 수 있다.\n앞서 셀트리온이 국내 1·2호 바이오시밀러 ‘램시마’(레미케이드 바이오시밀러)와 ‘허쥬마’(허셉틴 바이오시밀러)를 허가받았다.\n한화케미칼은 이번 다빅트렐 시판허가를 계기로 국내 뿐만 아니라 해외시장도 적극 공략하겠다는 계획이다.\n앞서 한화케미칼은 2011년 미국 머크와 7800억원대 규모의 판매계약을 체결했다가 해지하기도 했다.\n현재는 독일 머크세로노와 기술수출 계약을 추진중인 것으로 알려졌다.\n한편 한화케미칼은 엔브렐 바이오시밀러 외에도 다양한 바이오시밀러를 개발하면서 파이프라인 확대를 추진하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국내 3번째 바이오 시밀러가 탄생했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "주인공은 한화케미칼에서 자체 개발한 엔브렐 바이오시밀러 '다빅트렐'이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "13일 식품의약품안전처는 한화케미칼의 류마티스관절염치료제 다빅트렐주 25㎎의 국내 시판을 승인했다고 밝혔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 제품은 보험약가 등재 등 절차를 거쳐 내년 상반기 판매될 것으로 예상된다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "본래 다빅트렐은 2012년 최초로 허가를 신청했지만 자료보완 등을 이유로 한 차례 하가가 보류됐다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 올해 초 허가 재신청을 통해 최종적으로 시판 승인을 받았다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "바이오시밀러는 유전자재조합기술 및 세포배양기술 등 생명공학기술을 활용해 개발·판매중인 오리지널 바이오의약품과 품질·효능·안전성 측면에서 동등성을 입증한 제품을 의미한다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "관련업계에서는 엔브렐 바이오시밀러 첫 주자가 나타났다는 점에 주목하고 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "현재 엔브렐 바이오시밀러는 국내에서만 삼성바이오에피스, LG생명과학, 대웅제약, 동아쏘시오홀딩스 등이 치열하게 제품개발을 경쟁하고 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이중 한화케미칼이 엔브렐 바이오시밀러 분야에서는 전세계적으로 처음 시판허가를 받은 것. 엔브렐 바이오 시밀러 중에서는 가장 빠른 행보다. 특히 임상 3상을 진행하고 있는 삼성바이오에피스가 엔브렐 바이오시미러 출시를 2016년으로 목표하고 있는만큼 다빅트렐은 1년 이상 빨리 시장에 진입할 수 있다.",
+        "sentenceSize": 166
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "앞서 셀트리온이 국내 1·2호 바이오시밀러 ‘램시마’(레미케이드 바이오시밀러)와 ‘허쥬마’(허셉틴 바이오시밀러)를 허가받았다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "한화케미칼은 이번 다빅트렐 시판허가를 계기로 국내 뿐만 아니라 해외시장도 적극 공략하겠다는 계획이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "앞서 한화케미칼은 2011년 미국 머크와 7800억원대 규모의 판매계약을 체결했다가 해지하기도 했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "현재는 독일 머크세로노와 기술수출 계약을 추진중인 것으로 알려졌다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "한편 한화케미칼은 엔브렐 바이오시밀러 외에도 다양한 바이오시밀러를 개발하면서 파이프라인 확대를 추진하고 있다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국내 3번쨰 바이오 시밀러의 주인공은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198098",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BookBriefing] 『비행기의 역사』 外",
+    "newsSubTitle": "",
+    "newsContent": "◆인류사를 뒤바꾼 상상력과 도전의 역사를 짚어보는 ‘위대한 도전이 낳은 인류의 명작’ 시리즈 첫 번째 책 『비행기의 역사』(리카르도 니콜리 지음, 유자화 옮김, 예담, 320쪽, 8만원)이 출간됐다.\n레오나르도 다빈치의 비행기계에서부터 우주 여행까지 인류 비행의 역사 100년을 한눈에 꿰뚫어 볼 수 있도록 다양한 사진과 그림·스케치를 함께 실었다.\n항해의 역사를 담은 『범선의 역사』(프랑코 지오게티 ·에릭 아브란슨 엮음, 안진이 옮김, 304쪽, 8만원)도 함께 나왔다.\n◆세계적인 고고학자·역사학자 42명이 최신 연구와 발굴성과를 토대로 풀어낸 『고대 세계의 위대한 발명 70』(브라이언 M. 페이건 외 지음, 강미경 옮김, 랜덤하우스코리아, 304쪽, 4만5000원)이 나왔다.\n저자들은 바구니 짜는 기술, 물 공급과 배관, 발효 음료, 바퀴와 수레, 보드게임, 보석, 피임약과 최음제 등을 고대 세계의 가장 탁월한 발명 70가지에 포함시키고, 이를 544컷의 도판과 함께 소개했다.\n◆중국 민법의 전면적인 체계를 소개하는 『중국민법』(강평 지음, 노정환·중국정법학회·사법연수원 중국법학회 옮김, 삼성경제연구소, 1468쪽, 4만5000원)이 출간됐다.\n중국 사법부의 지휘 아래 정치·법률 관련 학자들이 집필했다.\n대검찰청 소속 현직 검사와 중국정법대 한국인 유학생, 사법연수원생 등이 3년여 동안 번역했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆인류사를 뒤바꾼 상상력과 도전의 역사를 짚어보는 ‘위대한 도전이 낳은 인류의 명작’ 시리즈 첫 번째 책 『비행기의 역사』(리카르도 니콜리 지음, 유자화 옮김, 예담, 320쪽, 8만원)이 출간됐다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "레오나르도 다빈치의 비행기계에서부터 우주 여행까지 인류 비행의 역사 100년을 한눈에 꿰뚫어 볼 수 있도록 다양한 사진과 그림·스케치를 함께 실었다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "항해의 역사를 담은 『범선의 역사』(프랑코 지오게티 ·에릭 아브란슨 엮음, 안진이 옮김, 304쪽, 8만원)도 함께 나왔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "◆세계적인 고고학자·역사학자 42명이 최신 연구와 발굴성과를 토대로 풀어낸 『고대 세계의 위대한 발명 70』(브라이언 M. 페이건 외 지음, 강미경 옮김, 랜덤하우스코리아, 304쪽, 4만5000원)이 나왔다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "저자들은 바구니 짜는 기술, 물 공급과 배관, 발효 음료, 바퀴와 수레, 보드게임, 보석, 피임약과 최음제 등을 고대 세계의 가장 탁월한 발명 70가지에 포함시키고, 이를 544컷의 도판과 함께 소개했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "◆중국 민법의 전면적인 체계를 소개하는 『중국민법』(강평 지음, 노정환·중국정법학회·사법연수원 중국법학회 옮김, 삼성경제연구소, 1468쪽, 4만5000원)이 출간됐다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "중국 사법부의 지휘 아래 정치·법률 관련 학자들이 집필했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "대검찰청 소속 현직 검사와 중국정법대 한국인 유학생, 사법연수원생 등이 3년여 동안 번역했다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고대 세계의 탁월한 발명 70가지를 재밌게 풀어간 '이 책'은 무엇일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

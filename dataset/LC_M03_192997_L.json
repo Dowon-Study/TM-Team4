@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192997",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "문학잡지 원고료 정부서 지원",
+    "newsSubTitle": "2005년부터…詩 1편 20만원, 산문 1장당 3만원까지",
+    "newsContent": "기초예술분야를 살리기 위해 문학잡지에 게재된 작가들의 원고료를 정부에서 직접 지원하는 정책이 추진된다.\n이창동 문화관광부 장관은 12일 고건 대통령 권한대행에게 올해 주요 업무를 보고하면서 \\\"문화예술의 뿌리인 기초 예술을 살리기 위해 내년부터 2008년까지 문학잡지에 게재되는 작가들의 원고를 선별해 문화부가 원고료를 지원할 계획\\\"이라고 밝혔다.\n지원규모는 우선 내년에 시는 편당 10만원, 산문은 원고지 1매당 1만원을 지원하되 2008년까지 각각 20만원, 3만원으로 늘려갈 예정이다.\n문화부는 이를 위해 내년부터 문예진흥기금과 통합복권 수익금 등에서 15억원 정도의 예산을 확보할 방침이다.\n문화관광부 김갑수 예술진흥과장은 \\\"문예진흥원이 문예진흥위원회로 전환되면 지방 문예지를 포함해 10종의 문예지를 심사를 통해 선정해 원고료를 지원하게 된다\\\"며 \\\"기존의 문예지 구입.배포 정책도 함께 추진하겠다\\\"고 밝혔다.\n문화부는 또 미술분야에서는 신진 유망작가들의 해외 연수 참가를 지원하고, 무대공연부문에서는 우수작품 제작에 120억원을 지원할 계획이라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "기초예술분야를 살리기 위해 문학잡지에 게재된 작가들의 원고료를 정부에서 직접 지원하는 정책이 추진된다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이창동 문화관광부 장관은 12일 고건 대통령 권한대행에게 올해 주요 업무를 보고하면서 \\\"문화예술의 뿌리인 기초 예술을 살리기 위해 내년부터 2008년까지 문학잡지에 게재되는 작가들의 원고를 선별해 문화부가 원고료를 지원할 계획\\\"이라고 밝혔다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지원규모는 우선 내년에 시는 편당 10만원, 산문은 원고지 1매당 1만원을 지원하되 2008년까지 각각 20만원, 3만원으로 늘려갈 예정이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "문화부는 이를 위해 내년부터 문예진흥기금과 통합복권 수익금 등에서 15억원 정도의 예산을 확보할 방침이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "문화관광부 김갑수 예술진흥과장은 \\\"문예진흥원이 문예진흥위원회로 전환되면 지방 문예지를 포함해 10종의 문예지를 심사를 통해 선정해 원고료를 지원하게 된다\\\"며 \\\"기존의 문예지 구입.배포 정책도 함께 추진하겠다\\\"고 밝혔다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "문화부는 또 미술분야에서는 신진 유망작가들의 해외 연수 참가를 지원하고, 무대공연부문에서는 우수작품 제작에 120억원을 지원할 계획이라고 밝혔다.",
+        "sentenceSize": 81
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이제는 정부가 직접 부담한다... 문예진흥기금으로 예산 충당",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

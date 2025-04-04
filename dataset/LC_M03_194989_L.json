@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194989",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[이건 이렇지요] 호화 검진에 주눅 들 필요 없어",
+    "newsSubTitle": "동네의원서 20만원대 실속 체크",
+    "newsContent": "리무진 승용차로 모시고 호텔 숙박까지 주선하는 모 대학병원의 초호화 건강검진 서비스가 등장해 화제가 되고 있습니다.\n프리미엄 건강진단의 경우 최고 3백만원의 비용이 든다고 합니다.\n놀라운 것은 이 병원의 호화 검진에 사람들이 몰려 수개월 동안 예약이 찼다는 사실입니다.\n질병을 조기 발견하기 위해 건강검진이 필요하다는 것은 상식입니다.\n그리고 경제적 여유가 있는 사람이 호화 검진을 받는 것에 돌을 던질 순 없는 일입니다.\n그렇다면 과연 값비싼 검진만 효과가 있는 것일까요.\n검진에서 가장 중요한 것은 기계보다 사람입니다.\n값비싼 장비나 시설보다 경험 있는 의사의 성의있는 진찰과 분석이 핵심이란 뜻입니다.\n숫자만 잔뜩 나열돼 있는 결과지를 통해 정상과 비정상이란 이분법적 해석을 내리는 것은 의미가 없습니다.\n실속있는 검진은 투망식 검진보다 자신에게 필요한 항목만 골라 받는 선택형 검진입니다.\n이런 것은 자주 찾는 동네의원 의사에게 상의하면 됩니다.\n혈액과 대소변 검사, 가슴 엑스선 촬영 등 기본 검사는 물론 위장과 대장 내시경, 복부 초음파 검사, 자궁경부암과 유방암 검사, 골밀도 검사 등 대부분의 검진이 동네의원에서도 가능합니다.\n이들 모두를 선택하기보다 연령과 신체 상태, 과거 질병 여부와 흡연 등 생활습관을 꼼꼼히 따져 꼭 필요한 항목만 받으면 10만~20만원으로 충분합니다.\n만일 이상 소견이 발견되면 그때 의사가 추천하는 대학병원 교수진을 찾아 CT나 MRI 등 정밀검진을 받으면 됩니다.\n동네의원에서 내시경을 하지 않는다면 대학병원 소화기내과를, 초음파를 하지 않는다면 대학병원 진단방사선과를 직접 찾아가서 받아도 됩니다.\n건강검진의 마무리는 실천입니다.\n결과만 확인해선 곤란합니다.\n앞으로 생활습관을 어떻게 바꿔야하는지 의사에게 상세히 들을 수 있어야합니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "리무진 승용차로 모시고 호텔 숙박까지 주선하는 모 대학병원의 초호화 건강검진 서비스가 등장해 화제가 되고 있습니다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "프리미엄 건강진단의 경우 최고 3백만원의 비용이 든다고 합니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "놀라운 것은 이 병원의 호화 검진에 사람들이 몰려 수개월 동안 예약이 찼다는 사실입니다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "질병을 조기 발견하기 위해 건강검진이 필요하다는 것은 상식입니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그리고 경제적 여유가 있는 사람이 호화 검진을 받는 것에 돌을 던질 순 없는 일입니다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그렇다면 과연 값비싼 검진만 효과가 있는 것일까요.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "검진에서 가장 중요한 것은 기계보다 사람입니다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "값비싼 장비나 시설보다 경험 있는 의사의 성의있는 진찰과 분석이 핵심이란 뜻입니다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "숫자만 잔뜩 나열돼 있는 결과지를 통해 정상과 비정상이란 이분법적 해석을 내리는 것은 의미가 없습니다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "실속있는 검진은 투망식 검진보다 자신에게 필요한 항목만 골라 받는 선택형 검진입니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이런 것은 자주 찾는 동네의원 의사에게 상의하면 됩니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "혈액과 대소변 검사, 가슴 엑스선 촬영 등 기본 검사는 물론 위장과 대장 내시경, 복부 초음파 검사, 자궁경부암과 유방암 검사, 골밀도 검사 등 대부분의 검진이 동네의원에서도 가능합니다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이들 모두를 선택하기보다 연령과 신체 상태, 과거 질병 여부와 흡연 등 생활습관을 꼼꼼히 따져 꼭 필요한 항목만 받으면 10만~20만원으로 충분합니다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "만일 이상 소견이 발견되면 그때 의사가 추천하는 대학병원 교수진을 찾아 CT나 MRI 등 정밀검진을 받으면 됩니다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "동네의원에서 내시경을 하지 않는다면 대학병원 소화기내과를, 초음파를 하지 않는다면 대학병원 진단방사선과를 직접 찾아가서 받아도 됩니다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "건강검진의 마무리는 실천입니다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "결과만 확인해선 곤란합니다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "앞으로 생활습관을 어떻게 바꿔야하는지 의사에게 상세히 들을 수 있어야합니다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "줄 서서 기다리는 호화 건강검진... 가격만큼 효과 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

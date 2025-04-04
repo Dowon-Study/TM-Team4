@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196038",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "의료계, 문신 합법화 추진에 심기불편 '실태조사 해보니…'",
+    "newsSubTitle": "보건의료연구원, 문신 시술자 대상 실태조사 결과",
+    "newsContent": "정부의 비의료인 문신 허용을 놓고 의료계가 우려의 목소리를 높이고 있는 가운데 국내 문신 실태파악 연구 결과가 나와 주목된다.\n특히 국내 문신시술자의 절반 가량이 시술에 시용하는 바늘이나 거즈 등을 의료용 폐기물이 아닌 일반 쓰레기로 처리하고 있는 것으로 나타났다.\n한국보건의료연구원이 발표한 ‘2014년 서화문신 행위 실태파악을 위한 기획연구’ 보고서에 따르면 537명의 문신 시술자를 대상으로 지난 해 8월 설문조사를 실시한 결과, 47.7%가 문신 시술시 사용되는 바늘과 거즈 등을 일반 쓰레기로 처리한다고 답했다.\n문신 시술에 사용되는 바늘, 거즈 등은 체액이나 혈액 등이 묻을 수 있어 질병 감염을 막기 위해 의료용 폐기물로 처리돼야 한다.\n보고서는 “문신 시술자가 처리방식을 미처 인지하지 못했거나, 알고 있는 경우에도 문신 시술행위가 불법으로 규정돼 공식 폐기물 처리가 불가능한 것으로 추정된다”고 설명했다.\n문신 시술자 중 22.2%는 문신 업소를 운영하지 않는 것으로 나타났으며, 이들은 주로 출장문신 및 자택 시술 등 위생을 확보하기 어려운 곳에서 시술을 하고 있었다.\n설문 응답자들은 안전한 문신을 위해 가장 필요한 것으로 '문신 시술자 가격 관리제도 도입'(33.0%)을 가장 많이 꼽았다. '안전관리 규정 마련'(27.2%)과 '위생관리 교육'(14.9%)을 선택한 사람도 적지 않았다.\n이번 연구 결과는 정부가 예술적 문신 행위를 양성화하기로 방침을 정한 뒤 나온 것이다.\n정부는 지난달 28일 문신 합법화 방침을 포함한 '규제 기요틴(단두대)' 추진과제를 발표한 바 있다.\n의료계는 문신사 합법화에 대해 감염 방지와 안전을 담보하고자 의료기관 내 시행을 원칙으로 해야 한다는 입장이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "정부의 비의료인 문신 허용을 놓고 의료계가 우려의 목소리를 높이고 있는 가운데 국내 문신 실태파악 연구 결과가 나와 주목된다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특히 국내 문신시술자의 절반 가량이 시술에 시용하는 바늘이나 거즈 등을 의료용 폐기물이 아닌 일반 쓰레기로 처리하고 있는 것으로 나타났다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국보건의료연구원이 발표한 ‘2014년 서화문신 행위 실태파악을 위한 기획연구’ 보고서에 따르면 537명의 문신 시술자를 대상으로 지난 해 8월 설문조사를 실시한 결과, 47.7%가 문신 시술시 사용되는 바늘과 거즈 등을 일반 쓰레기로 처리한다고 답했다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "문신 시술에 사용되는 바늘, 거즈 등은 체액이나 혈액 등이 묻을 수 있어 질병 감염을 막기 위해 의료용 폐기물로 처리돼야 한다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "보고서는 “문신 시술자가 처리방식을 미처 인지하지 못했거나, 알고 있는 경우에도 문신 시술행위가 불법으로 규정돼 공식 폐기물 처리가 불가능한 것으로 추정된다”고 설명했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "문신 시술자 중 22.2%는 문신 업소를 운영하지 않는 것으로 나타났으며, 이들은 주로 출장문신 및 자택 시술 등 위생을 확보하기 어려운 곳에서 시술을 하고 있었다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "설문 응답자들은 안전한 문신을 위해 가장 필요한 것으로 '문신 시술자 가격 관리제도 도입'(33.0%)을 가장 많이 꼽았다. '안전관리 규정 마련'(27.2%)과 '위생관리 교육'(14.9%)을 선택한 사람도 적지 않았다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이번 연구 결과는 정부가 예술적 문신 행위를 양성화하기로 방침을 정한 뒤 나온 것이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정부는 지난달 28일 문신 합법화 방침을 포함한 '규제 기요틴(단두대)' 추진과제를 발표한 바 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "의료계는 문신사 합법화에 대해 감염 방지와 안전을 담보하고자 의료기관 내 시행을 원칙으로 해야 한다는 입장이다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비의료인의 문신 허용, 의료계 우려의 목소리 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

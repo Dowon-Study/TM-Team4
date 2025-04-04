@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198558",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[문화캘린더] '집의 숨·집의 결' 展",
+    "newsSubTitle": "전통과 현대가 함께 숨쉬는 집",
+    "newsContent": "청명.한식도 지나고 산과 들에 꽃비가 내린다.\n남녘에서 올라오는 꽃소식에 엉덩이부터 흔들리는 도시인들에게 전남 영암군 구림리 영암도기문화센터가 멋진 판 하나를 벌였다.\n지난 3일 시작한 '집의 숨.집의 결'전이다.\n이화여대박물관(관장 윤난지)과 영암군(군수 김철호)이 함께 마련한 '집…' 특별전은 오늘 우리가 몸을 부리고 있는 집에 대한 생각거리를 던져준다.\n한반도 고대 주거문화의 유적지이자 옛 한옥이 잘 보존되어온 천연의 터 구림마을에 현대미술가 15명이 '생명을 키우는 집'얘기를 풀어놓았다.\n전통(결)과 현대(숨)가 만나 살아 숨쉬는 집이 탄생했다.\n조각가 안규철씨가 선보인'원룸전원주택'(사진)은 들고나는 관람객들로 만원이다.\n현대도시생활을 요약한 원룸에 도시민의 꿈인 전원주택을 통합한 작품이 한옥마을 복판에 서서 현대인의 쓸쓸함과 결핍을 절로 드러낸다.\n전시장 외벽을 바코드 색띠로 장식한 양주혜씨, 자투리 공간을 기하학적 작품으로 개조한 홍승혜씨, 가부장제 남성문화의 상징인 정자에 여성 공간을 설치한 윤석남씨, 초록대문집에서 주운 물건을 방안에 늘어놓고 명상의 공간을 만든 우순옥씨 등 토담길 따라 이어지는 작가들의 집에 대한 상상력은 끝나지 않는다.\n부대행사도 푸짐하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "청명.한식도 지나고 산과 들에 꽃비가 내린다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "남녘에서 올라오는 꽃소식에 엉덩이부터 흔들리는 도시인들에게 전남 영암군 구림리 영암도기문화센터가 멋진 판 하나를 벌였다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 3일 시작한 '집의 숨.집의 결'전이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이화여대박물관(관장 윤난지)과 영암군(군수 김철호)이 함께 마련한 '집…' 특별전은 오늘 우리가 몸을 부리고 있는 집에 대한 생각거리를 던져준다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한반도 고대 주거문화의 유적지이자 옛 한옥이 잘 보존되어온 천연의 터 구림마을에 현대미술가 15명이 '생명을 키우는 집'얘기를 풀어놓았다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전통(결)과 현대(숨)가 만나 살아 숨쉬는 집이 탄생했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "조각가 안규철씨가 선보인'원룸전원주택'(사진)은 들고나는 관람객들로 만원이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현대도시생활을 요약한 원룸에 도시민의 꿈인 전원주택을 통합한 작품이 한옥마을 복판에 서서 현대인의 쓸쓸함과 결핍을 절로 드러낸다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "전시장 외벽을 바코드 색띠로 장식한 양주혜씨, 자투리 공간을 기하학적 작품으로 개조한 홍승혜씨, 가부장제 남성문화의 상징인 정자에 여성 공간을 설치한 윤석남씨, 초록대문집에서 주운 물건을 방안에 늘어놓고 명상의 공간을 만든 우순옥씨 등 토담길 따라 이어지는 작가들의 집에 대한 상상력은 끝나지 않는다.",
+        "sentenceSize": 168
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "부대행사도 푸짐하다.",
+        "sentenceSize": 11
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전통과 현대가 만나 탄생한 집이 궁금하다면 '이곳' 으로...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

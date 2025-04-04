@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198274",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"한국 조류인플루엔자 H5N1으로 확인\\\"",
+    "newsSubTitle": "",
+    "newsContent": "지난 23일 전라북도 익산의 한 농장에서 발견된 조류 인플루엔자(AI)로 의심되는 바이러스는 치명적인 H5N1 바이러스에 의한 것으로 확인됐다고 방역당국 관계자가 25일 밝혔다.\n농림부 국립수의과학검역원의 고위 관계자는 \\\"H5N1형 바이러스로 확인됐다\\\"면서 \\\"그러나 고병원성인지 저병원성인지를 판명하기 위해서는 추가적인 검사가 필요하다\\\"고 말했다.\n현재 고병원성 여부에 대해 정밀 검사를 실시하고 있으며 최종결과는 밤 10시쯤 발표될 것으로 알려졌다.\n관계자는 \\\"H5N1형 바이러스의 경우 고병원성일 가능성이 높아 보인다\\\"고 전했다.\n전북도는 25일 조류 인플루엔자(AI)가 발생했던 함열읍 석매리 이모씨의 농장에 있는 닭 7000여마리, 개 2마리 등을 오후 2시께 살처분 했다.\n이씨의 농장에는 총 1만3000여마리의 종계(알 낳는 닭)가 있으며, 이중 6000여마리는 지난 19~22일 집단 폐사했다.\n전북도는 또 25일 오후부터 방역대를 이씨의 농장으로부터 반경 10㎞로 확대했다.\n이에따라 이 지역에는 20여개의 통제 초소가 설치돼 모든 가축의 이동을 엄격히 제한하고 통행 차량에 대해서는 소독을 실시하고 있다.\n전북도와 방역대책본부는 AI가 고병원성으로 판정되면 농장 오염지역 500m 이내에 있는 6개 농가 25만여마리의 닭, 오리, 개, 돼지, 고양이 등을 살처분할 방침이다.\n한편 익산지역에는 함열읍ㆍ삼기ㆍ낭산ㆍ망성면 등지의 440여 농가에서 520여만 마리의 닭을 키우고 있다.\nAI가 발생한 이씨 농장에서 9㎞쯤 떨어진 망성면 어량리에는 국내 최대 닭고기 업체인 ㈜하림 본사가 있다.\n이 회사는 하루 30만~35만 마리의 닭을 가공ㆍ생산해 국내 생닭 시장에 22%를 공급하고 있다.\n☞조류인플루엔자(AI)=닭ㆍ오리ㆍ타조 등에 나타나는 바이러스로 대부분은 증상이 가벼운 저병원성이다.\n그러나 고병원성 AI는 사람에게 감염되고, 전염성이 높다. 고병원성 AI는 2003년 한국ㆍ태국ㆍ베트남 등에서 발생했으며 유럽ㆍ아프리카 등 현재까지 43개국에서 발견됐다.\n철새가 도래하는 11월초~12월에 주로 발생하며 지금까지 10개국에서 153명이 감염으로 숨졌다.\n우리나라에서 조류 인플루엔자가 발생한 것은 지난 2003년 12월에 이어 이번이 두번째로 지난 2003년 12월부터 2004년 3월까지 전국 10개 시.군 19개 농가에서 발생해 530만 마리의 닭과 오리를 살처분하는 등 1500억원의 손실을 입은 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지난 23일 전라북도 익산의 한 농장에서 발견된 조류 인플루엔자(AI)로 의심되는 바이러스는 치명적인 H5N1 바이러스에 의한 것으로 확인됐다고 방역당국 관계자가 25일 밝혔다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "농림부 국립수의과학검역원의 고위 관계자는 \\\"H5N1형 바이러스로 확인됐다\\\"면서 \\\"그러나 고병원성인지 저병원성인지를 판명하기 위해서는 추가적인 검사가 필요하다\\\"고 말했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "현재 고병원성 여부에 대해 정밀 검사를 실시하고 있으며 최종결과는 밤 10시쯤 발표될 것으로 알려졌다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "관계자는 \\\"H5N1형 바이러스의 경우 고병원성일 가능성이 높아 보인다\\\"고 전했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "전북도는 25일 조류 인플루엔자(AI)가 발생했던 함열읍 석매리 이모씨의 농장에 있는 닭 7000여마리, 개 2마리 등을 오후 2시께 살처분 했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이씨의 농장에는 총 1만3000여마리의 종계(알 낳는 닭)가 있으며, 이중 6000여마리는 지난 19~22일 집단 폐사했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "전북도는 또 25일 오후부터 방역대를 이씨의 농장으로부터 반경 10㎞로 확대했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에따라 이 지역에는 20여개의 통제 초소가 설치돼 모든 가축의 이동을 엄격히 제한하고 통행 차량에 대해서는 소독을 실시하고 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "전북도와 방역대책본부는 AI가 고병원성으로 판정되면 농장 오염지역 500m 이내에 있는 6개 농가 25만여마리의 닭, 오리, 개, 돼지, 고양이 등을 살처분할 방침이다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 익산지역에는 함열읍ㆍ삼기ㆍ낭산ㆍ망성면 등지의 440여 농가에서 520여만 마리의 닭을 키우고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "AI가 발생한 이씨 농장에서 9㎞쯤 떨어진 망성면 어량리에는 국내 최대 닭고기 업체인 ㈜하림 본사가 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이 회사는 하루 30만~35만 마리의 닭을 가공ㆍ생산해 국내 생닭 시장에 22%를 공급하고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "☞조류인플루엔자(AI)=닭ㆍ오리ㆍ타조 등에 나타나는 바이러스로 대부분은 증상이 가벼운 저병원성이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그러나 고병원성 AI는 사람에게 감염되고, 전염성이 높다. 고병원성 AI는 2003년 한국ㆍ태국ㆍ베트남 등에서 발생했으며 유럽ㆍ아프리카 등 현재까지 43개국에서 발견됐다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "철새가 도래하는 11월초~12월에 주로 발생하며 지금까지 10개국에서 153명이 감염으로 숨졌다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "우리나라에서 조류 인플루엔자가 발생한 것은 지난 2003년 12월에 이어 이번이 두번째로 지난 2003년 12월부터 2004년 3월까지 전국 10개 시.군 19개 농가에서 발생해 530만 마리의 닭과 오리를 살처분하는 등 1500억원의 손실을 입은 바 있다.",
+        "sentenceSize": 144
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이것'으로 확인된 조류 인플루엔자... 고병원성 여부 확인 중 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

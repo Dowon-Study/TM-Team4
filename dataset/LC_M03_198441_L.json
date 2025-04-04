@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198441",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "쥴리아나 갤러리서 '제임스 브라운' 전시회",
+    "newsSubTitle": "",
+    "newsContent": "서울 청담동 쥴리아나 갤러리에서 열리고 있는 '제임스 브라운' 전은 세계적인 작가의 작품을 감상할 수 있는 좋은 기회다(7월 20일까지) . 브라운은 뉴욕 타임스 선정 '20세기 1백대 미술가' 의 한명으로 1970년대 말 이후 국제미술계에서 '미국 지성의 대표' 라 할 만큼 정신적이고 깊이있는 작품으로 주목을 받아왔다.\n이번 첫 한국전에서 전시 중인 작품은 'SALT(MIRACLES) ' 'GEOMETRY STUDY' 연작 20여점. 이중 89년작인 'SALT(MIRACLES) ' 7점은 미공개작으로 20만달러를 선수금으로 지급하고 가져와 처음으로 한국에서 전시 중이다.\n특정한 미술유파에 포함되지 않는 그의 추상적이고 정신적인 화풍은 'SALT' 연작에서 드러난다.\n일본종이 위의 간결한 공간을 동그란 점들이 규칙적으로 채우고 있는 화면은 물이 증발해 소금이 침전된 흔적으로 해석된다.\n우주와 인간을 정화시키는 대지의 소금을 초월적으로 형상화한 작품들이다.\n90년대 중반에 제작한 'GEOMETRY' 연작은 규칙적으로 분할한 면의 여기저기에 불규칙한 타원의 일부를 삽입한 작품으로 역시 차분한 명상적인 분위기를 띤다.\n미국 평론가 루카 비아트리시는 \\\"가공하지 않은 자연의 단순한 형태에 의미를 부여하는 그의 작품들은 예언자적이고 신비주의적\\\" 이라고 평가하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서울 청담동 쥴리아나 갤러리에서 열리고 있는 '제임스 브라운' 전은 세계적인 작가의 작품을 감상할 수 있는 좋은 기회다(7월 20일까지) . 브라운은 뉴욕 타임스 선정 '20세기 1백대 미술가' 의 한명으로 1970년대 말 이후 국제미술계에서 '미국 지성의 대표' 라 할 만큼 정신적이고 깊이있는 작품으로 주목을 받아왔다.",
+        "sentenceSize": 180
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번 첫 한국전에서 전시 중인 작품은 'SALT(MIRACLES) ' 'GEOMETRY STUDY' 연작 20여점. 이중 89년작인 'SALT(MIRACLES) ' 7점은 미공개작으로 20만달러를 선수금으로 지급하고 가져와 처음으로 한국에서 전시 중이다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특정한 미술유파에 포함되지 않는 그의 추상적이고 정신적인 화풍은 'SALT' 연작에서 드러난다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "일본종이 위의 간결한 공간을 동그란 점들이 규칙적으로 채우고 있는 화면은 물이 증발해 소금이 침전된 흔적으로 해석된다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "우주와 인간을 정화시키는 대지의 소금을 초월적으로 형상화한 작품들이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "90년대 중반에 제작한 'GEOMETRY' 연작은 규칙적으로 분할한 면의 여기저기에 불규칙한 타원의 일부를 삽입한 작품으로 역시 차분한 명상적인 분위기를 띤다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "미국 평론가 루카 비아트리시는 \\\"가공하지 않은 자연의 단순한 형태에 의미를 부여하는 그의 작품들은 예언자적이고 신비주의적\\\" 이라고 평가하고 있다.",
+        "sentenceSize": 83
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "청담동에서 만나는 '미국 지성의 대표' 전시 첫 공개 일정은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

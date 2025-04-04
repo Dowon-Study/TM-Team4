@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197235",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[신간리뷰] '비트에서 인간으로'",
+    "newsSubTitle": "컴퓨터 만능시대? 아니, 인간이 먼저야",
+    "newsContent": "21세기는 '정보의 세기' 다.\nIT(정보기술)혁명에 의해 정치.경제.사회의 모든 분야가 변화하고 인간의 생활패턴 역시 전적으로 '정보' 에 종속돼 있다고 해도 과언이 아니다. 『비트에서 인간으로』는 숨가쁘게 발전.변화하는 21세기 정보화사회의 틈바구니에서 '인간' 이란 과연 어떤 존재인가 라는 관점에서 출발한 책이다.\n결론부터 말하자면 인간의 중요성을 간과한 정보화 및 IT혁명은 실패할 수 밖에 없다는 것이다.\nIT산업에 대한 찬양일변도의 사회흐름에서, 과감히 '눈먼 정보화' 에 대한 반격을 시도한 최초의 본격 저술서란 평을 받는 것도 이 때문이다.\n저자인 브라운이 제록스의 수석연구원이자 팔로알토 리서치센터의 소장으로, 20세기말 '복사기 없는 사무실' '퍼스널컴퓨터(PC)의 네트워크컴퓨터(NC)로의 전환' 등 이 분야의 미래예측을 도맡아온 장본인이라는 점에서 이 책이 시사하는 바가 크다.\n저자 브라운과 두기드는 이 책에서 정보화 시대에 대한 맹목적인 환상을 버리고, 21세기 정보 및 지식 중심의 정보화와 기업경영이 나아가야 할 길을 명쾌하게 제시한다.\n과거 디지털중개소.재택근무.종이없는 사무실.가상법인.디지털대학 등 이론적으로는 엄청난 지지를 받았으면서도 이들이 사회에 뿌리내리지 못한 요인이 어디에 있을까.\n이는 첨단 시스템을 받아들이는 인간, 즉 사회적 기반이 도입과정에서 철저하게 무시됐기 때문이다.\n그렇다고 이 책이 첨단 디지털산업을 전면 부정하는 것은 아니다.\n언제 어디서나 찾아보기 쉽지만 분류하기도 어렵고 정보의 양도 극히 제한되는 '종이' 처럼, 정보화산업에 대해서도 객관적인 평가가 이뤄져야 한다는 책의 메시지는 '첨단' 이라는 유행에 휩쓸리기 쉬운 세태에 대한 경고이기도 하다. (존 실리 브라운·폴 두기드 지음, 이진우 옮김, 거름, 1만2천원)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "21세기는 '정보의 세기' 다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "IT(정보기술)혁명에 의해 정치.경제.사회의 모든 분야가 변화하고 인간의 생활패턴 역시 전적으로 '정보' 에 종속돼 있다고 해도 과언이 아니다. 『비트에서 인간으로』는 숨가쁘게 발전.변화하는 21세기 정보화사회의 틈바구니에서 '인간' 이란 과연 어떤 존재인가 라는 관점에서 출발한 책이다.",
+        "sentenceSize": 161
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "결론부터 말하자면 인간의 중요성을 간과한 정보화 및 IT혁명은 실패할 수 밖에 없다는 것이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "IT산업에 대한 찬양일변도의 사회흐름에서, 과감히 '눈먼 정보화' 에 대한 반격을 시도한 최초의 본격 저술서란 평을 받는 것도 이 때문이다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "저자인 브라운이 제록스의 수석연구원이자 팔로알토 리서치센터의 소장으로, 20세기말 '복사기 없는 사무실' '퍼스널컴퓨터(PC)의 네트워크컴퓨터(NC)로의 전환' 등 이 분야의 미래예측을 도맡아온 장본인이라는 점에서 이 책이 시사하는 바가 크다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "저자 브라운과 두기드는 이 책에서 정보화 시대에 대한 맹목적인 환상을 버리고, 21세기 정보 및 지식 중심의 정보화와 기업경영이 나아가야 할 길을 명쾌하게 제시한다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "과거 디지털중개소.재택근무.종이없는 사무실.가상법인.디지털대학 등 이론적으로는 엄청난 지지를 받았으면서도 이들이 사회에 뿌리내리지 못한 요인이 어디에 있을까.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이는 첨단 시스템을 받아들이는 인간, 즉 사회적 기반이 도입과정에서 철저하게 무시됐기 때문이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그렇다고 이 책이 첨단 디지털산업을 전면 부정하는 것은 아니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "언제 어디서나 찾아보기 쉽지만 분류하기도 어렵고 정보의 양도 극히 제한되는 '종이' 처럼, 정보화산업에 대해서도 객관적인 평가가 이뤄져야 한다는 책의 메시지는 '첨단' 이라는 유행에 휩쓸리기 쉬운 세태에 대한 경고이기도 하다. (존 실리 브라운·폴 두기드 지음, 이진우 옮김, 거름, 1만2천원)",
+        "sentenceSize": 165
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'눈먼 정보화'에 대한 반격을 시도한 파격적인 저술서 '비트에서 인간으로'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

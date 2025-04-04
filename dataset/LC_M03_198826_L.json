@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198826",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "그 한마디, 장미 가시처럼 가슴을 콕콕 찌른다오",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 웃긴다! 79살이란다(28) 잠자리에서 눈을 떴다.\n아직은 이른 새벽이다.\n현관문을 열고 바닥에 떨어져 있는 신문을 주워들었다.\n그리고는 곧장 화장실로 들어갔다.\n변기에 얼마나 오래 앉아 있었을까?\n신문의 마지막 장까지 꼼꼼하게 읽고 난 나는 변기 꼭지를 눌러 물을 내리고 거실로 나왔다.\n그리고는 천천히 베란다 문을 열고 나가면서 활짝 핀 꽃들과 눈을 마주쳤다. ‘날도 밝지 않았는데 왜 벌써 일어나셨어요?’ 화초들이 새벽부터 바지런을 떠는 나에게 핀잔을 준다.\n다시 거실로 들어왔다.\n마누라가 자는 안방에선 아직도 기척이 없다.\n어제 밤늦도록 옷장 정리를 하더니 피곤했나 보다. “오늘 하루는 또 무엇으로 시간을 죽이지?” 엊저녁 저녁 먹으면서 마누라가 잔소리처럼 내뱉은 말이 이 새벽까지 지워지지 않고 다시 귀청을 간질인다.\n할 일 없이 집안에서만 소일하기보단 학교 동창, 친한 친구, 퇴직사원 모임 같은데도 빠지지 말고 부지런히 돌아다녀 봐요.\n사람은 움직여야 건강해진대. 더구나 남자는 여자와 달리 집안에서만 줄곧 있으면 병 생긴대. 내가 당신 빈둥거리는 거 보기 싫어 잔소리하는 거 아니야. 잔소리하는 거 아니야. 잔소리하는 거 아니야. ............. 이상하다!\n그런데도 마누라의 저 예쁜 말들이 왜 장미 가시처럼 내 살갗을 아프게 콕콕 찌르는 걸까?",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 웃긴다! 79살이란다(28) 잠자리에서 눈을 떴다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아직은 이른 새벽이다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "현관문을 열고 바닥에 떨어져 있는 신문을 주워들었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그리고는 곧장 화장실로 들어갔다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "변기에 얼마나 오래 앉아 있었을까?",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "신문의 마지막 장까지 꼼꼼하게 읽고 난 나는 변기 꼭지를 눌러 물을 내리고 거실로 나왔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그리고는 천천히 베란다 문을 열고 나가면서 활짝 핀 꽃들과 눈을 마주쳤다. ‘날도 밝지 않았는데 왜 벌써 일어나셨어요?’ 화초들이 새벽부터 바지런을 떠는 나에게 핀잔을 준다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "다시 거실로 들어왔다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "마누라가 자는 안방에선 아직도 기척이 없다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "어제 밤늦도록 옷장 정리를 하더니 피곤했나 보다. “오늘 하루는 또 무엇으로 시간을 죽이지?” 엊저녁 저녁 먹으면서 마누라가 잔소리처럼 내뱉은 말이 이 새벽까지 지워지지 않고 다시 귀청을 간질인다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "할 일 없이 집안에서만 소일하기보단 학교 동창, 친한 친구, 퇴직사원 모임 같은데도 빠지지 말고 부지런히 돌아다녀 봐요.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "사람은 움직여야 건강해진대. 더구나 남자는 여자와 달리 집안에서만 줄곧 있으면 병 생긴대. 내가 당신 빈둥거리는 거 보기 싫어 잔소리하는 거 아니야. 잔소리하는 거 아니야. 잔소리하는 거 아니야. ............. 이상하다!",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그런데도 마누라의 저 예쁜 말들이 왜 장미 가시처럼 내 살갗을 아프게 콕콕 찌르는 걸까?",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "마누라의 이 말 한마디, 가시가 되어 살갗을 찌른다오",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

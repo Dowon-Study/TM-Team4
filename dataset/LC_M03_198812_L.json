@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198812",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "의료정보 플랫폼 ‘착한의사’ 비바이노베이션 투자 유치",
+    "newsSubTitle": "",
+    "newsContent": "헬스케어 서비스 “착한의사”를 운영하는 스타트업 비바이노베이션이 이달 ㈜다래전략사업센터와 선헬스케어인터내셔널㈜로부터 전략적 투자를 유치했다.\n비바이노베이션의 ‘착한의사’는 환자와 의사 간 정보 격차를 해소해 환자에게 맞는 병원 찾기를 돕고 진료 시 환자가 적극적 참여가 가능하도록 문을 열어주는 플랫폼 서비스다.\n비바이노베이션은 현재 서울바이오허브에 입주하고 있다.\n지난해 1월 설립한 비바이노베이션은 당해 5월 ‘착한의사’를 출시했다.\n출시 5개월 만에 사용자 5만 명을 확보하고 AI엔젤클럽과 한국벤처투자㈜로부터 시드 투자를 유치한 바 있다.\n올해 4월은 ‘가톨릭대학교 서울성모병원’과 병원 솔루션 기업 ‘비트컴퓨터’와 컨소시엄을 맺은 바 있다.\n이 컨소시엄의 R&D를 통해 비바이노베이션은 ‘인공지능 질병 예측 문진 알고리즘’을 개발했다.\n비바이노베이션은 건강보험심사평가원으로부터 의료 빅데이터를 제공받아 헬스케어 서비스를 제공 중이다.\n비바이노베이션만의 차별점은 바로 인공지능이라고 비바이노베이션 측은 말했다.\n인공지능 문진 기술은 환자의 증상을 통해 진료과목과 증상 일치율이 높은 질병 정보를 제공하는 것이 특징이다.\n이와 관련된 특허만 비바이노베이션은 4건을 보유 중이다.\n이번 전략적 투자를 유치한 ㈜다래전략사업화센터(대표 김정국, 배순구)는 IP(특허)컨설팅 사업을 기반으로 800여개 중소기업들의 성장전략을 지원해온 R&D x IP 엑셀러레이팅 전문기업이다.\n배순구 대표는 “이번 투자를 계기로 스타트업이 보유한 역량과 혁신기술이 사업적 결실을 맺도록 전문성을 최대한 지원하겠다”고 밝혔다.\n선헬스케어인터내셔널은 B2B 헬스케어 솔루션 전문 업체로 시장 점유율 2위 의료 정보 기업이다.\n김성태 기술이사(비바이노베이션)는 “이번 전략적 투자로 선헬스케어인터내셔널의 건강검진 빅데이터와 비바이노베이션의 인공지능 기술을 결합해 검진 추천 알고리즘을 개발한다”며 “2020년 선헬스케어인터내셔널과 함께 시장을 선도하는 스타트업으로 자리매김할 것”이라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "헬스케어 서비스 “착한의사”를 운영하는 스타트업 비바이노베이션이 이달 ㈜다래전략사업센터와 선헬스케어인터내셔널㈜로부터 전략적 투자를 유치했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "비바이노베이션의 ‘착한의사’는 환자와 의사 간 정보 격차를 해소해 환자에게 맞는 병원 찾기를 돕고 진료 시 환자가 적극적 참여가 가능하도록 문을 열어주는 플랫폼 서비스다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "비바이노베이션은 현재 서울바이오허브에 입주하고 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난해 1월 설립한 비바이노베이션은 당해 5월 ‘착한의사’를 출시했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "출시 5개월 만에 사용자 5만 명을 확보하고 AI엔젤클럽과 한국벤처투자㈜로부터 시드 투자를 유치한 바 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "올해 4월은 ‘가톨릭대학교 서울성모병원’과 병원 솔루션 기업 ‘비트컴퓨터’와 컨소시엄을 맺은 바 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 컨소시엄의 R&D를 통해 비바이노베이션은 ‘인공지능 질병 예측 문진 알고리즘’을 개발했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "비바이노베이션은 건강보험심사평가원으로부터 의료 빅데이터를 제공받아 헬스케어 서비스를 제공 중이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "비바이노베이션만의 차별점은 바로 인공지능이라고 비바이노베이션 측은 말했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "인공지능 문진 기술은 환자의 증상을 통해 진료과목과 증상 일치율이 높은 질병 정보를 제공하는 것이 특징이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이와 관련된 특허만 비바이노베이션은 4건을 보유 중이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이번 전략적 투자를 유치한 ㈜다래전략사업화센터(대표 김정국, 배순구)는 IP(특허)컨설팅 사업을 기반으로 800여개 중소기업들의 성장전략을 지원해온 R&D x IP 엑셀러레이팅 전문기업이다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "배순구 대표는 “이번 투자를 계기로 스타트업이 보유한 역량과 혁신기술이 사업적 결실을 맺도록 전문성을 최대한 지원하겠다”고 밝혔다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "선헬스케어인터내셔널은 B2B 헬스케어 솔루션 전문 업체로 시장 점유율 2위 의료 정보 기업이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "김성태 기술이사(비바이노베이션)는 “이번 전략적 투자로 선헬스케어인터내셔널의 건강검진 빅데이터와 비바이노베이션의 인공지능 기술을 결합해 검진 추천 알고리즘을 개발한다”며 “2020년 선헬스케어인터내셔널과 함께 시장을 선도하는 스타트업으로 자리매김할 것”이라고 밝혔다.",
+        "sentenceSize": 149
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "환자에게 딱 맞는 병원 찾아주는 '이 플랫폼' 서비스, 투자 유치까지 받아... 어떤 플랫폼?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

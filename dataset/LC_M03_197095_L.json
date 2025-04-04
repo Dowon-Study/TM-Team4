@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197095",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "학교 주변서 떡볶이·청량음료 못 사 먹게 되나",
+    "newsSubTitle": "불량식품 못 파는 ‘그린푸드 존’ 내년 3월 도입",
+    "newsContent": "수업을 마치고 나온 학생들이 학교 앞 포장마차에서 떡볶이나 어묵을 사 먹으며 출출한 배를 채우던 모습이 사라지게 된다.\n내년 3월부터 초·중·고교 주변에서는 비위생적으로 만든 ‘길거리 음식’을 팔 수 없게 되기 때문이다.\n식품의약품안전청은 최근 ‘어린이 식생활안전관리 특별법안’이 국회에서 의결됨에 따라 내년 3월부터 식품안전보호구역(그린 푸드 존·Green Food Zone) 제도를 시행할 계획이라고 28일 밝혔다. ‘그린 푸드 존’은 학교 주변 200m 안에서는 학생의 건강을 해치는 불량식품은 물론 패스트푸드(피자·햄버거 등)·탄산음료·빙과·사탕과 같은 식품의 판매를 금지하는 제도다.\n대신 빵·우유·과일·요구르트 같은 ‘권장 식품’은 판매를 허용할 예정이다.\n이재용 식의약청 식품안전정책팀장은 “3월에 법이 공포되면 6월까지 구체적인 판매 금지 품목과 기준을 정할 계획”이라며 “떡볶이나 어묵 같은 음식은 식수대나 보관 냉장고를 갖춰놓고 위생적으로 조리해야 판매할 수 있다”고 말했다.\n패스트푸드는 식의약청이 열량과 영양에 대한 기준을 내놓으면 업체가 이 기준에 맞춰 새로운 제품을 만들어야 팔 수 있다.\n이를 어기는 업소는 행정제재를 검토 중이다.\n이 팀장은 “각 시·군·구와 교육청, 학교장이 협의해 통학로 주변에 그린 푸드 존을 지정하면 전담 관리 요원을 배치해 관리할 계획”이라며 “중국산 같은 질이 떨어지는 불량식품이 학교 주변에서 퇴출될 것으로 기대한다”고 말했다.\n하지만 실효성에 논란이 일고 있다.\n학교 주변에는 분식집이나 포장마차, 간이 음식 판매대가 많은데 불량식품 판정 잣대가 명확하지 않고 관리 요원 확보도 쉽지 않아서다.\n현실적으로 수퍼마켓이나 구멍가게에서 탄산음료 판매를 강제로 금지하기도 어렵다.\n식의약청은 “학부모·학생·학교·상인 등 각계 의견을 수렴해 기준을 만들겠다”고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "수업을 마치고 나온 학생들이 학교 앞 포장마차에서 떡볶이나 어묵을 사 먹으며 출출한 배를 채우던 모습이 사라지게 된다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "내년 3월부터 초·중·고교 주변에서는 비위생적으로 만든 ‘길거리 음식’을 팔 수 없게 되기 때문이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "식품의약품안전청은 최근 ‘어린이 식생활안전관리 특별법안’이 국회에서 의결됨에 따라 내년 3월부터 식품안전보호구역(그린 푸드 존·Green Food Zone) 제도를 시행할 계획이라고 28일 밝혔다. ‘그린 푸드 존’은 학교 주변 200m 안에서는 학생의 건강을 해치는 불량식품은 물론 패스트푸드(피자·햄버거 등)·탄산음료·빙과·사탕과 같은 식품의 판매를 금지하는 제도다.",
+        "sentenceSize": 207
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대신 빵·우유·과일·요구르트 같은 ‘권장 식품’은 판매를 허용할 예정이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이재용 식의약청 식품안전정책팀장은 “3월에 법이 공포되면 6월까지 구체적인 판매 금지 품목과 기준을 정할 계획”이라며 “떡볶이나 어묵 같은 음식은 식수대나 보관 냉장고를 갖춰놓고 위생적으로 조리해야 판매할 수 있다”고 말했다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "패스트푸드는 식의약청이 열량과 영양에 대한 기준을 내놓으면 업체가 이 기준에 맞춰 새로운 제품을 만들어야 팔 수 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 어기는 업소는 행정제재를 검토 중이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 팀장은 “각 시·군·구와 교육청, 학교장이 협의해 통학로 주변에 그린 푸드 존을 지정하면 전담 관리 요원을 배치해 관리할 계획”이라며 “중국산 같은 질이 떨어지는 불량식품이 학교 주변에서 퇴출될 것으로 기대한다”고 말했다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하지만 실효성에 논란이 일고 있다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "학교 주변에는 분식집이나 포장마차, 간이 음식 판매대가 많은데 불량식품 판정 잣대가 명확하지 않고 관리 요원 확보도 쉽지 않아서다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "현실적으로 수퍼마켓이나 구멍가게에서 탄산음료 판매를 강제로 금지하기도 어렵다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "식의약청은 “학부모·학생·학교·상인 등 각계 의견을 수렴해 기준을 만들겠다”고 밝혔다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"더러운 음식은 안돼\", 학교 주변서 길거리 음식 못 판다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

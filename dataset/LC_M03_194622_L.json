@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194622",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[week&CoverStory] 쿨한 이별 매너",
+    "newsSubTitle": "",
+    "newsContent": "(1)문자나 전화로 이별을 통보하지 않는다.\n전화나 e-메일로 이별을 알리는 것은 한때 사랑했던 사람에 대한 예의가 아니다.\n상대는 서운함과 분노로 사랑을 정리하기 더 힘들어진다. (2)\\\"친구로 지내자\\\"는 말은 하지 않는다 헤어진 연인은 대부분 친구가 되기 힘들다.\n시간이 흐른 뒤에도 애증의 감정은 되살아나게 마련이다.\n우정을 가장해 상대를 붙잡지 말자.\n상대에게 어설픈 희망만 주게 된다. (3)주변 정리를 깨끗이 한다 휴대전화 명의를 같이 썼거나 저금을 함께 관리했다면 깨끗이 정리하자.\n빌려준 돈이 있다면 돌려받는다.\n치사하다고 생각할 필요는 없다.\n흐지부지 넘어간 뒤 나중에 얼굴 붉히는 것보다 낫다. (4)상대에게 책임을 돌리지 않는다 이별하자고 하면서 상대의 단점까지 들먹일 필요는 없다.\n이별의 책임을 상대에게 떠넘기는 것도 좋지 않다.\n내가 욕먹어도 깔끔하게 끝내는 것이 후회도 적게 남는다. (5)이별은 냉정하게 한다 상대가 불쌍하다며 이별을 질질 끌지 말자.\n사치스러운 배려 따윈 상대를 더 힘들게 만든다.\n이별에 적응하지 못 해 상대의 주변을 서성거리는 것도 미련만 남길 뿐이다.\n도움말='듀오' 강혜림 상담팀장 '연애의 정석' 저자 송창민",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "(1)문자나 전화로 이별을 통보하지 않는다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "전화나 e-메일로 이별을 알리는 것은 한때 사랑했던 사람에 대한 예의가 아니다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "상대는 서운함과 분노로 사랑을 정리하기 더 힘들어진다. (2)\\\"친구로 지내자\\\"는 말은 하지 않는다 헤어진 연인은 대부분 친구가 되기 힘들다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "시간이 흐른 뒤에도 애증의 감정은 되살아나게 마련이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "우정을 가장해 상대를 붙잡지 말자.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "상대에게 어설픈 희망만 주게 된다. (3)주변 정리를 깨끗이 한다 휴대전화 명의를 같이 썼거나 저금을 함께 관리했다면 깨끗이 정리하자.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "빌려준 돈이 있다면 돌려받는다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "치사하다고 생각할 필요는 없다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "흐지부지 넘어간 뒤 나중에 얼굴 붉히는 것보다 낫다. (4)상대에게 책임을 돌리지 않는다 이별하자고 하면서 상대의 단점까지 들먹일 필요는 없다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이별의 책임을 상대에게 떠넘기는 것도 좋지 않다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "내가 욕먹어도 깔끔하게 끝내는 것이 후회도 적게 남는다. (5)이별은 냉정하게 한다 상대가 불쌍하다며 이별을 질질 끌지 말자.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "사치스러운 배려 따윈 상대를 더 힘들게 만든다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이별에 적응하지 못 해 상대의 주변을 서성거리는 것도 미련만 남길 뿐이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "도움말='듀오' 강혜림 상담팀장 '연애의 정석' 저자 송창민",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "세상에서 가장 사랑했던 나의 베스트 프렌드... 이별에 필요한 매너는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

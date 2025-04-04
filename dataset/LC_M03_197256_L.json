@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197256",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "2000 서울 세계청소년 무용제",
+    "newsSubTitle": "내달 5일 교육문화회관서 개막",
+    "newsContent": "무용을 통해 세계 청소년들이 만나는 친교와 화합의 장 '2000 서울 세계 청소년 무용축제'가 오는 5월 5~7일 서울 양재동 서울교육문화회관에서 펼쳐진다.\n한국현대무용진흥회(이사장 육완순)가 주최하는 이번 행사에는 한국을 비롯해 중국·핀란드·일본·폴란드·싱가포르·인도·슬로베니아 등 8개국 13개 무용단 2백여명의 청소년이 참가한다.\n올해로 4회째를 맞는 이 행사의 주제는 '평화 그리고 무용'. 공연단은 초등학생으로부터 중·고등학생들로 구성되었으며, 발레와 민속무용·현대무용 등을 선보인다.\n특히 1991년 구(舊)유고연방에서 탈퇴한 작은 나라 슬로베니아 청소년들이 '어린이들이여! 전쟁은 그만'이라는 작품을 무대에 올려 눈길을 끈다.\n어린이날인 5일 오전 11시에는 서울교육문화회관 야외무대에서 참가국의 민속춤 관람과 함께 관객들도 춤을 배울 수 있다. 6일 오전 10시에는 영동 세브란스 병원을 방문해 근육병을 앓고 있는 청소년들을 위한 공연도 가진다.\n또한 5월 가정의 달을 맞아 낙도 어린이, 소년소녀 가장 및 실직자·탈북자 자녀, 특수학교 학생들도 초청해 즐거운 시간을 함께 한다.\n실내 무대에서 열리는 공연은 5~7일 오후 3시, 5시에 펼쳐지며, 5일 오후 3시 개막식 공연과 7일 오후 5시 폐막식 공연은 인터넷(http://www.dancenet.or.kr)으로 생중계한다. 02-325-5702.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "무용을 통해 세계 청소년들이 만나는 친교와 화합의 장 '2000 서울 세계 청소년 무용축제'가 오는 5월 5~7일 서울 양재동 서울교육문화회관에서 펼쳐진다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국현대무용진흥회(이사장 육완순)가 주최하는 이번 행사에는 한국을 비롯해 중국·핀란드·일본·폴란드·싱가포르·인도·슬로베니아 등 8개국 13개 무용단 2백여명의 청소년이 참가한다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "올해로 4회째를 맞는 이 행사의 주제는 '평화 그리고 무용'. 공연단은 초등학생으로부터 중·고등학생들로 구성되었으며, 발레와 민속무용·현대무용 등을 선보인다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 1991년 구(舊)유고연방에서 탈퇴한 작은 나라 슬로베니아 청소년들이 '어린이들이여! 전쟁은 그만'이라는 작품을 무대에 올려 눈길을 끈다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "어린이날인 5일 오전 11시에는 서울교육문화회관 야외무대에서 참가국의 민속춤 관람과 함께 관객들도 춤을 배울 수 있다. 6일 오전 10시에는 영동 세브란스 병원을 방문해 근육병을 앓고 있는 청소년들을 위한 공연도 가진다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 5월 가정의 달을 맞아 낙도 어린이, 소년소녀 가장 및 실직자·탈북자 자녀, 특수학교 학생들도 초청해 즐거운 시간을 함께 한다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "실내 무대에서 열리는 공연은 5~7일 오후 3시, 5시에 펼쳐지며, 5일 오후 3시 개막식 공연과 7일 오후 5시 폐막식 공연은 인터넷(http://www.dancenet.or.kr)으로 생중계한다. 02-325-5702.",
+        "sentenceSize": 124
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"어린이들이여! 피비린내 나는 전쟁은 그만\" 슬로베니아 청소년, 서울에서 무용 선보여",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

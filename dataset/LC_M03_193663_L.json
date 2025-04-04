@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193663",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "“암 치료 결정할 때 가족이 함께 했으면”",
+    "newsSubTitle": "암 환자 및 전문의 대상 설문조사 결과 95~98%가 가족 참여 찬성",
+    "newsContent": "[김진구 기자] 암 환자 10명 중 9명은 암 치료를 결정할 때 가족이 함께 참여하는 것으로 나타났다.\n암 전문의도 마찬가지였다.\n서울의대 가정의학교실 신동욱 교수, 충북의대 예방의학교실 박종혁 교수 연구팀은 국내 암환자와 가족 725쌍과 이들을 진료하는 암 전문의 134명을 대상으로 암 환자의 치료 결정에 가족이 참여해야 하는지를 물었다.\n그 결과 암 환자와 가족은 각각 94.8%, 97.4%가, 암 전문의는 98.5%가 참여해야 한다고 답했다.\n암 환자와 가족 90% 이상은 가족의 참여가 치료 결정, 의사소통, 심리적 지지를 돕는다고 생각했다.\n암 전문의도 치료 결정(76.1%), 의사소통(82.8%), 심리적 지지(91.8%) 등 긍정적 효과에 대해 대체로 동의했다.\n그러나 일부는 의견 차이를 보였다.\n환자 21.5%, 가족 23.7%, 암 전문의 34.3%는 가족의 참여가 오히려 치료 결정을 복잡하게 한다고 답했다.\n신동욱 교수는 “암환자 가족은 환자의 치료결정 과정에서 의료진에게는 정보를, 환자에게는 심리적 안정을 주는 등의 큰 역할을 한다. 본 연구는 이런 역할에 대한 긍정적 인식을 보여주며, 가족의 좋은 역할을 극대화할 수 있는 방안을 고민해야 한다”고 말했다.\n박종혁 교수는 “전반적으로 가족은 환자의 치료결정에 긍정적인 역할을 하지만, 의사결정을 복잡하게 만들거나 환자의 자율성을 해칠 수도 있다”며 “향후 가족의 긍정적인 참여를 유도하고, 환자와 가족 모두가 최선을 결정을 하도록 돕는 암진료시스템을 구축해야 한다”고 말했다.\n한편, 이번 연구결과는 국제학술지 ‘정신종양학(psycho-oncology)’ 최근호에 발표됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 암 환자 10명 중 9명은 암 치료를 결정할 때 가족이 함께 참여하는 것으로 나타났다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "암 전문의도 마찬가지였다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서울의대 가정의학교실 신동욱 교수, 충북의대 예방의학교실 박종혁 교수 연구팀은 국내 암환자와 가족 725쌍과 이들을 진료하는 암 전문의 134명을 대상으로 암 환자의 치료 결정에 가족이 참여해야 하는지를 물었다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 결과 암 환자와 가족은 각각 94.8%, 97.4%가, 암 전문의는 98.5%가 참여해야 한다고 답했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "암 환자와 가족 90% 이상은 가족의 참여가 치료 결정, 의사소통, 심리적 지지를 돕는다고 생각했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "암 전문의도 치료 결정(76.1%), 의사소통(82.8%), 심리적 지지(91.8%) 등 긍정적 효과에 대해 대체로 동의했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러나 일부는 의견 차이를 보였다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "환자 21.5%, 가족 23.7%, 암 전문의 34.3%는 가족의 참여가 오히려 치료 결정을 복잡하게 한다고 답했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "신동욱 교수는 “암환자 가족은 환자의 치료결정 과정에서 의료진에게는 정보를, 환자에게는 심리적 안정을 주는 등의 큰 역할을 한다. 본 연구는 이런 역할에 대한 긍정적 인식을 보여주며, 가족의 좋은 역할을 극대화할 수 있는 방안을 고민해야 한다”고 말했다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "박종혁 교수는 “전반적으로 가족은 환자의 치료결정에 긍정적인 역할을 하지만, 의사결정을 복잡하게 만들거나 환자의 자율성을 해칠 수도 있다”며 “향후 가족의 긍정적인 참여를 유도하고, 환자와 가족 모두가 최선을 결정을 하도록 돕는 암진료시스템을 구축해야 한다”고 말했다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "한편, 이번 연구결과는 국제학술지 ‘정신종양학(psycho-oncology)’ 최근호에 발표됐다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "암 치료 결정엔 가족의 '찐 사랑' 극대화되어야…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

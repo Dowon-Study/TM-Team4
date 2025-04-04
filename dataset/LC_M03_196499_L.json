@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196499",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK즐겨읽기] 한·미 FTA 과연 국익에 도움될까?",
+    "newsSubTitle": "",
+    "newsContent": "낯선 식민지, 한미 FTA 이해영 지음, 메이데이, 276쪽, 1만5000원 제목에서 풍기는 느낌대로 이 책은 5일 1차 본협상에 들어간 한.미 자유무역협정(FTA)에 반기를 든다.\n저자는 이해영 한신대 교수(국제관계학). '한.미 FTA 저지 범국민운동본부' 정책기획연구단장을 비롯해 스크린쿼터 영화인대책위원회 정책위원장으로 활동 중인, '반 FTA 진영'의 대표적 이론가다.\n책은 스크린쿼터, 쇠고기 수입, 약값 인하, 자동차 배기가스 기준 등 4대 현안을 둘러싼 논란, 제조업.서비스업.투자.지적재산권.농업 등 협상 주요 분야에 걸쳐 FTA가 우리에 미칠 영향 등을 조목조목 분석했다.\n지은이는 특히 4대 현안에 대해 정부가 이미 내줄 것은 다 내줬기 때문에 \\\"협상은 시작하기도 전에 끝났다\\\"고 주장한다.\n\\\"고도의 전문성을 갖춘 미국의 협상 전략, 치밀한 계획과 준비, 국익에 대한 명료한 이해, 북핵 문제를 비롯한 풍부한 압박 카드 등 이 모든 것에 한국 협상팀은 정치적으로나 실무적으로나 한계를 보이고 있다\\\"는 지적 등 FTA에 대한 찬.반 여부를 떠나 귀기울일 만한 대목이 적지 않다.\nFTA를 반대하는 목소리가 어떤 이론적 배경을 딛고 서 있는지 궁금하다면 참고할 만하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "낯선 식민지, 한미 FTA 이해영 지음, 메이데이, 276쪽, 1만5000원 제목에서 풍기는 느낌대로 이 책은 5일 1차 본협상에 들어간 한.미 자유무역협정(FTA)에 반기를 든다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "저자는 이해영 한신대 교수(국제관계학). '한.미 FTA 저지 범국민운동본부' 정책기획연구단장을 비롯해 스크린쿼터 영화인대책위원회 정책위원장으로 활동 중인, '반 FTA 진영'의 대표적 이론가다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "책은 스크린쿼터, 쇠고기 수입, 약값 인하, 자동차 배기가스 기준 등 4대 현안을 둘러싼 논란, 제조업.서비스업.투자.지적재산권.농업 등 협상 주요 분야에 걸쳐 FTA가 우리에 미칠 영향 등을 조목조목 분석했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지은이는 특히 4대 현안에 대해 정부가 이미 내줄 것은 다 내줬기 때문에 \\\"협상은 시작하기도 전에 끝났다\\\"고 주장한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "\\\"고도의 전문성을 갖춘 미국의 협상 전략, 치밀한 계획과 준비, 국익에 대한 명료한 이해, 북핵 문제를 비롯한 풍부한 압박 카드 등 이 모든 것에 한국 협상팀은 정치적으로나 실무적으로나 한계를 보이고 있다\\\"는 지적 등 FTA에 대한 찬.반 여부를 떠나 귀기울일 만한 대목이 적지 않다.",
+        "sentenceSize": 161
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "FTA를 반대하는 목소리가 어떤 이론적 배경을 딛고 서 있는지 궁금하다면 참고할 만하다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한·미 FTA 체결되는 순간 대한민국은 100년 전으로 퇴보한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

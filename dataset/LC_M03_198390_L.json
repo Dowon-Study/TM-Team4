@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198390",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/꿈나무] 박물관 모형이 관람객 공격한다면",
+    "newsSubTitle": "",
+    "newsContent": "타임월드 역사 박물관 앤디 딕슨 지음, 시몬 보니 그림, 남경태 옮김 달리, 32쪽, 1만원 박물관 전시대 속에서 과거의 역사를 전하는 모형 인형들은 어떤 것들은 그럴싸하지만 어떤 것들은 어딘지 엉성해 보인다.\n만약 박물관의 모형 인형들이 단순한 인형이 아니라 사람과 구별하기 어려울 정도로 흡사한 로봇들이라면? 역사 속 장면들을 똑같이 재현하던 로봇들이 갑자기 미쳐 날뛰며 관람객들을 공격하기 시작한다면? 역사 그림책인 신간은 영화에서나 등장할 법한 흥미진진한 설정으로 책에서 손을 떼지 못하게 한다.\n여러분은 막 타임월드 역사 박물관 견학에 나섰다.\n미국 서부관.중세 영국관.바이킹관.고대 로마관.고대 이집트관.흑사병관 등 6개 관으로 나뉜 이 박물관의 모형 인형들은 진짜 사람처럼 여러분의 눈 앞에서 싸우고, 죽고, 웃고, 운다. 사파리 동물원처럼 차를 타고 견학하게 돼 있는 박물관 안에서 휴대전화는 금지돼 있다.\n또 인조인간을 보고 웃어서도 안된다.\n미라와 로마 검투사, 바이킹, 서부의 악당들이 공격하는 순간 여러분의 박물관 견학은 악몽이 된다.\n라이벌 박물관인 다크 데이스가 흉계를 꾸민 것. 살아남기 위해서는 그림 속 숨은 그림들을 찾아내야 한다.\n그림책이 제시하는 문제를 푸는 과정에서 자연스럽게 역사 지식을 얻게 된다.\n실사 애니메이션처럼 정교한 그림들이 눈을 즐겁게 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "타임월드 역사 박물관 앤디 딕슨 지음, 시몬 보니 그림, 남경태 옮김 달리, 32쪽, 1만원 박물관 전시대 속에서 과거의 역사를 전하는 모형 인형들은 어떤 것들은 그럴싸하지만 어떤 것들은 어딘지 엉성해 보인다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "만약 박물관의 모형 인형들이 단순한 인형이 아니라 사람과 구별하기 어려울 정도로 흡사한 로봇들이라면? 역사 속 장면들을 똑같이 재현하던 로봇들이 갑자기 미쳐 날뛰며 관람객들을 공격하기 시작한다면? 역사 그림책인 신간은 영화에서나 등장할 법한 흥미진진한 설정으로 책에서 손을 떼지 못하게 한다.",
+        "sentenceSize": 163
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "여러분은 막 타임월드 역사 박물관 견학에 나섰다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미국 서부관.중세 영국관.바이킹관.고대 로마관.고대 이집트관.흑사병관 등 6개 관으로 나뉜 이 박물관의 모형 인형들은 진짜 사람처럼 여러분의 눈 앞에서 싸우고, 죽고, 웃고, 운다. 사파리 동물원처럼 차를 타고 견학하게 돼 있는 박물관 안에서 휴대전화는 금지돼 있다.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 인조인간을 보고 웃어서도 안된다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "미라와 로마 검투사, 바이킹, 서부의 악당들이 공격하는 순간 여러분의 박물관 견학은 악몽이 된다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "라이벌 박물관인 다크 데이스가 흉계를 꾸민 것. 살아남기 위해서는 그림 속 숨은 그림들을 찾아내야 한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그림책이 제시하는 문제를 푸는 과정에서 자연스럽게 역사 지식을 얻게 된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "실사 애니메이션처럼 정교한 그림들이 눈을 즐겁게 한다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "관람객을 공격하는 박물관의 '그것'... 정체를 파헤치는 흥미진진한 책",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

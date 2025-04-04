@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196482",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[Family건강] 대장암 증상 있건 없건 발병률 비슷",
+    "newsSubTitle": "정기 검사 받아야",
+    "newsContent": "대장암을 예방하기 위해선 증상이 없을 때도 정기적으로 검사를 받아야 할 것으로 지적됐다.\n11개 대학병원에서 대장내시경 검사를 받은 1만7307명을 대상으로 조사한 결과, 증상이 있거나 없거나 대장암 또는 진행성 선종(대장암 전단계)으로 진단된 비율은 비슷한 것으로 나타났다.\n자료에 따르면 무증상의 경우엔 6.4%가 대장암 또는 진행성 선종으로 확진받았다.\n반면 배변습관 변화(5.1%), 변이 가늘어짐(5.0%), 혈변(7.1%), 잔변감(5.7%), 복통(4.6%)의 경우 역시 대장암 발병비율이 크게 높지 않은 것으로 밝혀졌다.\n이밖에도 가족력이 있는 경우 7.0%, 과거력이 있는 사람에선 6.5%, 염증성 장질환을 앓고 있는 사람에선 4.8%의 발병률을 보였다.\n증상.치료.예방법 등 자세한 정보는 조인스헬스케어(http://healthcare.joins.com)를 참고.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대장암을 예방하기 위해선 증상이 없을 때도 정기적으로 검사를 받아야 할 것으로 지적됐다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11개 대학병원에서 대장내시경 검사를 받은 1만7307명을 대상으로 조사한 결과, 증상이 있거나 없거나 대장암 또는 진행성 선종(대장암 전단계)으로 진단된 비율은 비슷한 것으로 나타났다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "자료에 따르면 무증상의 경우엔 6.4%가 대장암 또는 진행성 선종으로 확진받았다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "반면 배변습관 변화(5.1%), 변이 가늘어짐(5.0%), 혈변(7.1%), 잔변감(5.7%), 복통(4.6%)의 경우 역시 대장암 발병비율이 크게 높지 않은 것으로 밝혀졌다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이밖에도 가족력이 있는 경우 7.0%, 과거력이 있는 사람에선 6.5%, 염증성 장질환을 앓고 있는 사람에선 4.8%의 발병률을 보였다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "증상.치료.예방법 등 자세한 정보는 조인스헬스케어(http://healthcare.joins.com)를 참고.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아무런 증상 없이 우리 몸을 정복하는 대장암, 정기검진만이 살길",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

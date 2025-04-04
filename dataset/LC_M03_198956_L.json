@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198956",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"사우나 자주 찾는 남성은 정자 수 줄어든다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "겨울철 몸을 따뜻하게 데우고 피로를 풀기 위해 한국인들이 자주 찾는 사우나. 그런데 몸을 개운하게 해주는 사우나가 정자에는 좋지 않을 수 있다는 연구결과가 나왔다.\n영국매체 데일리메일(Daily Mail)은 사우나에 자주 가면 정자에 손상이 있을 수 있다는 이탈리아 파도바대학 연구팀의 연구결과를 보도했다.\n연구진은 보통의 정자 수를 지닌 핀란드의 30대 남성 10명을 대상으로 실험을 진행했다.\n연구 참가자들은 3개월 동안 일주일에 15분씩 두 번 사우나에 들어갔다.\n그리고 이후에 정자 수를 측정했다.\n그 결과 연구진은 남성들의 정자 수가 3개월 전보다 줄었음을 확인했다.\n줄어든 정자수는 6개월이 지나서야 원래대로 돌아왔다고 한다.\n비뇨기과 전문의 앤드류 크레이머(Andrew Kramer)는 남성들의 정자가 줄어든 원인으로 열기(heat)를 지목했다.\n사우나를 하는 동안 남성 음낭(scrotum)의 온도가 섭씨 3도가량 상승했다고 한다.\n크레이머는 \\\"고환이 몸으로부터 분리되어 매달려있는 이유는 낮은 온도를 유지하기 위함\\\"이라며 \\\"미하강 고환을 지닌 남성이 정자가 손상되고 불임이 되는 이유일 수 있다\\\"고 설명했다.\n사우나를 이용한 남성의 미토콘드리아에도 손상이 일어나는 등 사우나는 정자의 DNA에도 영향을 주었다.\n노트북을 허벅지 위에 놓고 사용할 경우, 발생하는 열이 정자에 손상을 주어 생식 능력을 떨어뜨릴 수 있다는 연구결과도 있었다.\n학술지 'Human Reproduction'에 게재된 해당 연구는 \\\"북유럽 국가를 넘어 전 세계에 핀란드식 사우나가 보급되면서 사우나가 남성의 생식능력에 영향을 준다는 사실을 고려해야 할 것\\\"이라고 밝혔다.\n또한 사우나를 즐기는 나라에선 의사들이 남성들에게 주의를 주어야 할 것이라고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "겨울철 몸을 따뜻하게 데우고 피로를 풀기 위해 한국인들이 자주 찾는 사우나. 그런데 몸을 개운하게 해주는 사우나가 정자에는 좋지 않을 수 있다는 연구결과가 나왔다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영국매체 데일리메일(Daily Mail)은 사우나에 자주 가면 정자에 손상이 있을 수 있다는 이탈리아 파도바대학 연구팀의 연구결과를 보도했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구진은 보통의 정자 수를 지닌 핀란드의 30대 남성 10명을 대상으로 실험을 진행했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연구 참가자들은 3개월 동안 일주일에 15분씩 두 번 사우나에 들어갔다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그리고 이후에 정자 수를 측정했다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 결과 연구진은 남성들의 정자 수가 3개월 전보다 줄었음을 확인했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "줄어든 정자수는 6개월이 지나서야 원래대로 돌아왔다고 한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "비뇨기과 전문의 앤드류 크레이머(Andrew Kramer)는 남성들의 정자가 줄어든 원인으로 열기(heat)를 지목했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "사우나를 하는 동안 남성 음낭(scrotum)의 온도가 섭씨 3도가량 상승했다고 한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "크레이머는 \\\"고환이 몸으로부터 분리되어 매달려있는 이유는 낮은 온도를 유지하기 위함\\\"이라며 \\\"미하강 고환을 지닌 남성이 정자가 손상되고 불임이 되는 이유일 수 있다\\\"고 설명했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "사우나를 이용한 남성의 미토콘드리아에도 손상이 일어나는 등 사우나는 정자의 DNA에도 영향을 주었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "노트북을 허벅지 위에 놓고 사용할 경우, 발생하는 열이 정자에 손상을 주어 생식 능력을 떨어뜨릴 수 있다는 연구결과도 있었다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "학술지 'Human Reproduction'에 게재된 해당 연구는 \\\"북유럽 국가를 넘어 전 세계에 핀란드식 사우나가 보급되면서 사우나가 남성의 생식능력에 영향을 준다는 사실을 고려해야 할 것\\\"이라고 밝혔다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또한 사우나를 즐기는 나라에선 의사들이 남성들에게 주의를 주어야 할 것이라고 덧붙였다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한국인들이 자주 찾는 사우나... '이것'에는 좋지 않다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

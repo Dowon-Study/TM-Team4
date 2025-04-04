@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196087",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "유두괄약근 절개 없는 새로운 담석 제거시술 선보여",
+    "newsSubTitle": "건대병원 심찬섭 교수, 풍선확장술 이용한 새 치료법 생중계",
+    "newsContent": "홍콩에서 열린 국제 워크숍에서 국내 의료진이 새로운 담석 제거시술법을 선보였다.\n건대병원 소화기내과 심찬섭 교수는 지난 9~11일 홍콩에서 열린 제29차 국제치료소화기내시경워크숍에서 풍선확장술을 이용한 담도결석의 새 치료법에 대해 강의와 시술 생중계를 진행했다.\n심 교수가 이번 워크숍에서 선보인 최신 시술법은 수술 후 생긴 담도 담석이나 장관 문합부 부위가 협착된 환자의 담석을 입을 통해 내시경을 삽입하지 않고 제거하는 방법이다.\n이날 다발성 담관 결석은 유두괄약근을 절개하지 않고 담도 입구를 풍선으로 확장해 제거하는 시술을 진행했다.\n이어 간 내 담석은 경피적으로 담관을 확장시킨 뒤 내시경을 통해 최신 홀륨 야그 레이저로 5cm 이상의 큰 담석을 분쇄시켰다.\n이후 협착된 담관 담석 문합부를 확장시켜서 완전히 담석을 제거하는 데 성공했다.\n이번 워크숍은 싱가폴, 미국, 네덜란드, 영국, 한국, 태국, 일본, 중국, 인도 등 9개국의 소화내시경 전문가 860여명이 참여한 가운데 진행됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "홍콩에서 열린 국제 워크숍에서 국내 의료진이 새로운 담석 제거시술법을 선보였다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "건대병원 소화기내과 심찬섭 교수는 지난 9~11일 홍콩에서 열린 제29차 국제치료소화기내시경워크숍에서 풍선확장술을 이용한 담도결석의 새 치료법에 대해 강의와 시술 생중계를 진행했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "심 교수가 이번 워크숍에서 선보인 최신 시술법은 수술 후 생긴 담도 담석이나 장관 문합부 부위가 협착된 환자의 담석을 입을 통해 내시경을 삽입하지 않고 제거하는 방법이다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 다발성 담관 결석은 유두괄약근을 절개하지 않고 담도 입구를 풍선으로 확장해 제거하는 시술을 진행했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 간 내 담석은 경피적으로 담관을 확장시킨 뒤 내시경을 통해 최신 홀륨 야그 레이저로 5cm 이상의 큰 담석을 분쇄시켰다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 협착된 담관 담석 문합부를 확장시켜서 완전히 담석을 제거하는 데 성공했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번 워크숍은 싱가폴, 미국, 네덜란드, 영국, 한국, 태국, 일본, 중국, 인도 등 9개국의 소화내시경 전문가 860여명이 참여한 가운데 진행됐다.",
+        "sentenceSize": 83
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국제 워크숍에서 국내 의료진이 선보인 담도결석의 새 치료법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

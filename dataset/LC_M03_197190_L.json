@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197190",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[맛있는주말] 고기음식점 벤치마킹 투어 外",
+    "newsSubTitle": "",
+    "newsContent": "■ 월간지 '외식경영'은 11일부터 1박2일 일정으로 대구.경북 지역의 고기음식점 벤치마킹 투어를 진행한다.\n이 지역에서 소문난 저가형 돼지갈비집.한우구이집.육회전문점 등 모두 8곳을 돌아본다.\n참가비는 36만원. 음식점 업주나 창업 희망자, 일반인도 참석 가능. 02-518-3632. ■ 워커힐호텔은 2일 리버파크 야외수영장에서 바비큐 파티와 개그쇼를 즐길 수 있는 풀 사이드 바비큐 파티를 연다. 개그맨 박준형과 정종철이 진행을 맡아 다양한 개그 퍼포먼스를 선보인다.\n입장료는 6만원. 02-455-5000. ■ 세종호텔 피렌체 레스토랑은 9월과 10월 매주 수요일 오후 6시부터 8시반까지 여성 고객에 한해 '플러스 원 이벤트'를 벌인다. 20여 가지 뷔페 안주와 함께 생맥주나 와인을 양껏 마실 수 있다.\n테이블당 여성이 세 명 이상인 경우 한 사람은 무료인 셈이다.\n참가비는 2만원. 02-3705-9146. ■ 홀리데이인서울 '라스텔라' 레스토랑은 11일부터 22일까지(토.일요일은 제외) 바닷가재특별행사를 준비한다.\n바닷가재를 주재료로 한 코스메뉴로 이어진다.\n점심은 5만원, 저녁은 7만원. 02-710-7276. ■ 63빌딩 일식당 와꼬는 광어.참치.새우.날치알 등으로 만든 20여 가지 초밥과 롤을 무한정 맛보고, 아이맥스 영화관 등 63빌딩의 관람시설도 덩달아 이용할 수 있는 '웰빙 초밥 패키지'를 1일부터 내놓았다.\n가격은 대인 3만4500원, 소인 2만5400원. 02-789-5751.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "■ 월간지 '외식경영'은 11일부터 1박2일 일정으로 대구.경북 지역의 고기음식점 벤치마킹 투어를 진행한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 지역에서 소문난 저가형 돼지갈비집.한우구이집.육회전문점 등 모두 8곳을 돌아본다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "참가비는 36만원. 음식점 업주나 창업 희망자, 일반인도 참석 가능. 02-518-3632. ■ 워커힐호텔은 2일 리버파크 야외수영장에서 바비큐 파티와 개그쇼를 즐길 수 있는 풀 사이드 바비큐 파티를 연다. 개그맨 박준형과 정종철이 진행을 맡아 다양한 개그 퍼포먼스를 선보인다.",
+        "sentenceSize": 155
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "입장료는 6만원. 02-455-5000. ■ 세종호텔 피렌체 레스토랑은 9월과 10월 매주 수요일 오후 6시부터 8시반까지 여성 고객에 한해 '플러스 원 이벤트'를 벌인다. 20여 가지 뷔페 안주와 함께 생맥주나 와인을 양껏 마실 수 있다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "테이블당 여성이 세 명 이상인 경우 한 사람은 무료인 셈이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "참가비는 2만원. 02-3705-9146. ■ 홀리데이인서울 '라스텔라' 레스토랑은 11일부터 22일까지(토.일요일은 제외) 바닷가재특별행사를 준비한다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "바닷가재를 주재료로 한 코스메뉴로 이어진다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "점심은 5만원, 저녁은 7만원. 02-710-7276. ■ 63빌딩 일식당 와꼬는 광어.참치.새우.날치알 등으로 만든 20여 가지 초밥과 롤을 무한정 맛보고, 아이맥스 영화관 등 63빌딩의 관람시설도 덩달아 이용할 수 있는 '웰빙 초밥 패키지'를 1일부터 내놓았다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "가격은 대인 3만4500원, 소인 2만5400원. 02-789-5751.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "화끈한 인기 얻은 고기음식점, 비결 뭐길래... 벤치마킹 투어 나선다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

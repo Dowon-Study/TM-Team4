@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193136",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "레지오넬라균 감염 비상...병원 에어컨 속 득실득실",
+    "newsSubTitle": "미국서 7명 사망…지난해 우리나라 병원 25곳서 레지오넬라균 검출",
+    "newsContent": "메르스 사태로 원내 감염예방에 대한 관심이 집중되고 있는 가운데, 여름철 냉방기에 주로 서식하는 레지오넬라균에 대한 주의가 당부된다.\n최근 미국에선 레지오넬라균 감염으로 인한 사망자가 잇따라 나오면서 보건당국을 긴장케 하고 있다.\n미국 현지언론에 따르면 4일 기준 미국 뉴욕 사우스 브롱크스 지역에서 레지오넬라균으로 인해 71명이 감염됐고, 이 가운데 7명이 사망했다.\n미국 질병통제예방센터(CDC)는 미국에서만 한 해 8000~1만2000 명 정도가 레지오넬라균에 감염되는 것으로 추산한다.\n우리나라의 경우 올해 감염사례가 나오진 않지만 병원이나 목욕탕, 숙박업소 등에 레지오넬라균이 서식하고 있는 것으로 드러나 주의가 요구된다.\n서울시 보건환경연구원이 지난해 병원 등 다중이용시설 총 187개소를 점검한 결과 전체의 35%인 66개소에서 레지오넬라균이 검출됐다.\n특히 종합병원은 전체의 47.1%인 25곳에서 레지오넬라균이 검출됐다.\n시설별 검출율 1위에 해당한다.\n이어 목욕탕 및 찜질방 32.9%, 호텔 및 여관 10.7%, 노인복지시설 2.3% 순으로 나타났다.\n▲ 서울시는 지난해 4~6월 목욕탕 및 찜질방, 노인복지시설, 종합병원 및 요양병원, 숙박업소 187곳을 대상으로 레지오넬라균 서식 여부를 점검했다.\n레지오넬라균은 폐렴이 원인이 되는 균으로, 따뜻하고 습한환경(온도 25~45°c, PH7.2~8.3)에서 잘 번식하며 에어컨, 샤워기, 수도꼭지 등의 오염된 물 속에서 서식하다가 공기를 타고 전파돼 호흡기를통해 감염된다.\n병원은 많은 사람이 오가고 공동으로 수도꼭지, 샤워기 등을 사용하는 시설인만큼 레지오넬라균의 온상이 되기 쉽다.\n따라서 균이 주로 서식하는 에어컨 응결수나 물받이 배관이 막히지 않게 주의하고 필터를 락스 등으로 주 1회 이상 소독하는 것이 좋다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "메르스 사태로 원내 감염예방에 대한 관심이 집중되고 있는 가운데, 여름철 냉방기에 주로 서식하는 레지오넬라균에 대한 주의가 당부된다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 미국에선 레지오넬라균 감염으로 인한 사망자가 잇따라 나오면서 보건당국을 긴장케 하고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "미국 현지언론에 따르면 4일 기준 미국 뉴욕 사우스 브롱크스 지역에서 레지오넬라균으로 인해 71명이 감염됐고, 이 가운데 7명이 사망했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미국 질병통제예방센터(CDC)는 미국에서만 한 해 8000~1만2000 명 정도가 레지오넬라균에 감염되는 것으로 추산한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "우리나라의 경우 올해 감염사례가 나오진 않지만 병원이나 목욕탕, 숙박업소 등에 레지오넬라균이 서식하고 있는 것으로 드러나 주의가 요구된다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서울시 보건환경연구원이 지난해 병원 등 다중이용시설 총 187개소를 점검한 결과 전체의 35%인 66개소에서 레지오넬라균이 검출됐다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 종합병원은 전체의 47.1%인 25곳에서 레지오넬라균이 검출됐다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "시설별 검출율 1위에 해당한다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이어 목욕탕 및 찜질방 32.9%, 호텔 및 여관 10.7%, 노인복지시설 2.3% 순으로 나타났다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "▲ 서울시는 지난해 4~6월 목욕탕 및 찜질방, 노인복지시설, 종합병원 및 요양병원, 숙박업소 187곳을 대상으로 레지오넬라균 서식 여부를 점검했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "레지오넬라균은 폐렴이 원인이 되는 균으로, 따뜻하고 습한환경(온도 25~45°c, PH7.2~8.3)에서 잘 번식하며 에어컨, 샤워기, 수도꼭지 등의 오염된 물 속에서 서식하다가 공기를 타고 전파돼 호흡기를통해 감염된다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "병원은 많은 사람이 오가고 공동으로 수도꼭지, 샤워기 등을 사용하는 시설인만큼 레지오넬라균의 온상이 되기 쉽다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "따라서 균이 주로 서식하는 에어컨 응결수나 물받이 배관이 막히지 않게 주의하고 필터를 락스 등으로 주 1회 이상 소독하는 것이 좋다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에어컨, 샤워기, 수도꼭지 속에 가득... 긴장하는 국제사회",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

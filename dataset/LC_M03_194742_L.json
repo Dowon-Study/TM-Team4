@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194742",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[논술이 있는 책읽기] 생각에 대해 생각해 볼까요",
+    "newsSubTitle": "",
+    "newsContent": "논리학에 '거짓말쟁이의 역설'이라는 것이 있다.\n크레타인이 '모든 크레타인은 거짓말쟁이'라고 말한다면 그 말이 참인지 거짓인지 알 수 없다는 역설이다.\n만일 이 말이 참이면 크레타인은 거짓말쟁이가 되고, 크레타인이 말한 이 문장은 다시 거짓이 된다.\n아주 간단한 경우라도 언어로 자기가 자신을 증명하려고 하면 모순이 일어난다.\n이 모순을 어떻게 해결할 수 있을까.\n더 높은 차원에 서서 생각의 규칙을 따져봐야 한다.\n같은 차원에 머물러 있으면 결코 역설은 끝나지 않는다.\n논리적으로 끝없는 되풀이(무한역행, infinite regress)가 일어날 뿐이다.\n해법은 지금 내가 서 있는 체계 바깥으로 성큼 걸어 나오는 것이다.\n물음에 답하기 전에 물음 자체를 되짚어보는 것, 이것이 철학적 사고의 출발이다. '책 속의 책'(요르크 뮐러 글, 비룡소)과 '리버밴드 마을의 이상한 하루'(크리스 반 알스버그 글, 문학동네어린이)는 바로 이런 문제를 다룬 책이다. '책 속의 책'은 무한역행을 재치 있게 보여주고 있다.\n주인공은 선물 받은 책의 포장지를 찢고 책 속으로 직접 걸어 들어간다.\n그 책 안에서 자기와 똑같은 사람이 자기를 보고 있는데 그것이 '조금 잘못' 그려져 있었기 때문이다.\n주인공은 화가를 만나 그림을 고치는데 성공하지만 화가는 그림을 끝낼 수 없다고 호소한다.\n독자는 책에 달린 색안경을 쓰고 주인공과 함께 책 안으로 들어가 무한역행의 해결을 돕는다.\n반면 '리버밴드 마을의 이상한 하루'는 독자가 책 안에서 밖으로 걸어 나오도록 이끄는 책이다.\n리버밴드 마을에서 일어나는 이상한 사건들은 책에서 나와야만 제대로 보인다.\n다행스럽게도 독자는 이 끔찍한 마을에서 빠져 나올 수 있다.\n책 속의 체계를 벗어나 상위 차원의 사고를 할 수 있기 때문이다.\n이 책들은 우리에게 '생각에 대해서 생각'하는 것의 힘을 일러준다.\n한 발짝 물러서서 나와 나의 생각을 되돌아보는 일이 얼마나 소중한지 깨닫게 해준다.\n이 여름, 꼬리에 꼬리를 무는 생각의 재미에 빠져보는 것은 어떨까.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "논리학에 '거짓말쟁이의 역설'이라는 것이 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "크레타인이 '모든 크레타인은 거짓말쟁이'라고 말한다면 그 말이 참인지 거짓인지 알 수 없다는 역설이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "만일 이 말이 참이면 크레타인은 거짓말쟁이가 되고, 크레타인이 말한 이 문장은 다시 거짓이 된다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아주 간단한 경우라도 언어로 자기가 자신을 증명하려고 하면 모순이 일어난다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 모순을 어떻게 해결할 수 있을까.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "더 높은 차원에 서서 생각의 규칙을 따져봐야 한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "같은 차원에 머물러 있으면 결코 역설은 끝나지 않는다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "논리적으로 끝없는 되풀이(무한역행, infinite regress)가 일어날 뿐이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "해법은 지금 내가 서 있는 체계 바깥으로 성큼 걸어 나오는 것이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "물음에 답하기 전에 물음 자체를 되짚어보는 것, 이것이 철학적 사고의 출발이다. '책 속의 책'(요르크 뮐러 글, 비룡소)과 '리버밴드 마을의 이상한 하루'(크리스 반 알스버그 글, 문학동네어린이)는 바로 이런 문제를 다룬 책이다. '책 속의 책'은 무한역행을 재치 있게 보여주고 있다.",
+        "sentenceSize": 160
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "주인공은 선물 받은 책의 포장지를 찢고 책 속으로 직접 걸어 들어간다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그 책 안에서 자기와 똑같은 사람이 자기를 보고 있는데 그것이 '조금 잘못' 그려져 있었기 때문이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "주인공은 화가를 만나 그림을 고치는데 성공하지만 화가는 그림을 끝낼 수 없다고 호소한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "독자는 책에 달린 색안경을 쓰고 주인공과 함께 책 안으로 들어가 무한역행의 해결을 돕는다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "반면 '리버밴드 마을의 이상한 하루'는 독자가 책 안에서 밖으로 걸어 나오도록 이끄는 책이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "리버밴드 마을에서 일어나는 이상한 사건들은 책에서 나와야만 제대로 보인다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "다행스럽게도 독자는 이 끔찍한 마을에서 빠져 나올 수 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "책 속의 체계를 벗어나 상위 차원의 사고를 할 수 있기 때문이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "이 책들은 우리에게 '생각에 대해서 생각'하는 것의 힘을 일러준다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "한 발짝 물러서서 나와 나의 생각을 되돌아보는 일이 얼마나 소중한지 깨닫게 해준다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "이 여름, 꼬리에 꼬리를 무는 생각의 재미에 빠져보는 것은 어떨까.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "책에서 나와 '생각에 대해 생각'하는 방법은 무엇일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

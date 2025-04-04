@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196808",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "메르스 피해보상 2500억원 이달 안에 지급",
+    "newsSubTitle": "다음 주 현장조사 시작…피해 세부항목 산정엔 의료기관과 이견",
+    "newsContent": "메르스 피해 의료기관에 대한 정부의 보상절차가 가시권에 접어들었다.\n이르면 이달 안에 일선 의료기관에 보상액이 지급될 것으로 보인다.\n▲메르스 피해병원에 대한 보상이 이달 안에 마무리될 예정이다.\n사진은 기사의 내용과 무관함. [중앙포토DB] 복지부는 최근 메르스 손실보상위원회를 첫 개최한 데 이어 현장조사에 본격 착수키로 했다.\n다음 주부터 시작되는 현장조사는 복지부에 관련 문건(손실보상 조사표)을 제출한 의료기관 150여곳이다.\n삼성서울병원과 평택성모병원을 비롯한 병원급 88곳과 의원급 62곳 등이 해당한다.\n여기에 대한의사협회에서 추가로 건의한 의원급 의료기관 11개도 포함될 전망이다.\n현장조사는 복지부와 건강보험심사평가원이 맡는다.\n정부는 상황의 시급성을 감안, 보상금 지급을 이달 안에 마무리한다는 방침이다.\n또 현장조사 결과 피해규모가 국회에서 결정된 2500억원을 초과할 경우 추경예산 편성도 건의한다는 방침이다.\n다만 의료계가 강력히 요구했던 간접피해에 대한 보상은 이뤄지지 않을 것으로 보인다.\n복지부는 피해보상 범위에 대해 정부나 지자체에서 폐쇄조치를 명령한 사실이 확인된 경우에만 보상해주겠다는 기존 방침을 재확인했다.\n피해보상액 산정에 있어서도 복지부와 의료기관간 셈법이 달라 마찰음이 예상된다.\n의사협회는 같은 건물의 다른 의료기관에게 내려진 폐쇄명령으로 어쩔 수 없이 문을 닫아야 했던 비자발적 폐쇄 의료기관을 보상범위에 포함시켜야 한다고 주장하고 있다.\n비급여 항목 역시 보상액 산정에 포함돼야 한다는 입장이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "메르스 피해 의료기관에 대한 정부의 보상절차가 가시권에 접어들었다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이르면 이달 안에 일선 의료기관에 보상액이 지급될 것으로 보인다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "▲메르스 피해병원에 대한 보상이 이달 안에 마무리될 예정이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진은 기사의 내용과 무관함. [중앙포토DB] 복지부는 최근 메르스 손실보상위원회를 첫 개최한 데 이어 현장조사에 본격 착수키로 했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다음 주부터 시작되는 현장조사는 복지부에 관련 문건(손실보상 조사표)을 제출한 의료기관 150여곳이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "삼성서울병원과 평택성모병원을 비롯한 병원급 88곳과 의원급 62곳 등이 해당한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여기에 대한의사협회에서 추가로 건의한 의원급 의료기관 11개도 포함될 전망이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현장조사는 복지부와 건강보험심사평가원이 맡는다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정부는 상황의 시급성을 감안, 보상금 지급을 이달 안에 마무리한다는 방침이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또 현장조사 결과 피해규모가 국회에서 결정된 2500억원을 초과할 경우 추경예산 편성도 건의한다는 방침이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "다만 의료계가 강력히 요구했던 간접피해에 대한 보상은 이뤄지지 않을 것으로 보인다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "복지부는 피해보상 범위에 대해 정부나 지자체에서 폐쇄조치를 명령한 사실이 확인된 경우에만 보상해주겠다는 기존 방침을 재확인했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "피해보상액 산정에 있어서도 복지부와 의료기관간 셈법이 달라 마찰음이 예상된다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "의사협회는 같은 건물의 다른 의료기관에게 내려진 폐쇄명령으로 어쩔 수 없이 문을 닫아야 했던 비자발적 폐쇄 의료기관을 보상범위에 포함시켜야 한다고 주장하고 있다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "비급여 항목 역시 보상액 산정에 포함돼야 한다는 입장이다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "메르스 피해 기관 150여 곳 '수천 억' 규모의 엄청난 정부 지원금 나올 예정",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

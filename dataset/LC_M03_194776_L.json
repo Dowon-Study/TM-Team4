@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194776",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "호주 출신 소설가 캐리 '부커상' 2번째 수상",
+    "newsSubTitle": "",
+    "newsContent": "영 연방 최고 권위의 문학상인 부커상(The Booker Prize) 올해 수상작으로 호주 출신 소설가 피터 캐리(58.사진) 의 『갱 켈리의 진정한 역사』가 18일 선정됐다.\n이 작품은 호주 역사의 유명한 반(反) 영웅인 네드 켈리의 삶을 통해 호주 초기 정착민들의 삶을 진솔하고 감동적으로 그려 낸 것으로 평가 받았다.\n저자는 주인공 네드 켈리를 고아출신이면서 은행털이, 말도둑질 등을 일삼는 인물로 그려냈다.\n피터 캐리는 수상 소감에서 \\\"이 상을 다시 받건 못 받건 크게 개의치 않으리라 생각했는데 두번째로 받고 나니 온 몸에서 아드레날린이 솟아오르고 마치 트럭에 받친 것 같은 전율을 느꼈다\\\"고 말했다.\n1998년『오스카와 루신다『로 이미 부커상을 받은 적 있는 피터 캐리는 이번에 두번째 부커상을 수상하면서 영국 문화권 최고의 작가로 자리잡았다.\n그가 쓴 소설은 총 6편이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영 연방 최고 권위의 문학상인 부커상(The Booker Prize) 올해 수상작으로 호주 출신 소설가 피터 캐리(58.사진) 의 『갱 켈리의 진정한 역사』가 18일 선정됐다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 작품은 호주 역사의 유명한 반(反) 영웅인 네드 켈리의 삶을 통해 호주 초기 정착민들의 삶을 진솔하고 감동적으로 그려 낸 것으로 평가 받았다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "저자는 주인공 네드 켈리를 고아출신이면서 은행털이, 말도둑질 등을 일삼는 인물로 그려냈다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "피터 캐리는 수상 소감에서 \\\"이 상을 다시 받건 못 받건 크게 개의치 않으리라 생각했는데 두번째로 받고 나니 온 몸에서 아드레날린이 솟아오르고 마치 트럭에 받친 것 같은 전율을 느꼈다\\\"고 말했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "1998년『오스카와 루신다『로 이미 부커상을 받은 적 있는 피터 캐리는 이번에 두번째 부커상을 수상하면서 영국 문화권 최고의 작가로 자리잡았다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그가 쓴 소설은 총 6편이다.",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "호주 소설가 캐리 '부커상' 두 번째 수상... 이번에는 어떤 이야기인가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

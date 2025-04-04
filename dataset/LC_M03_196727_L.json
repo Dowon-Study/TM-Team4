@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196727",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "어머니 초경 빨랐다면 딸도 빠를 가능성 1.48배",
+    "newsSubTitle": "한국 여학생 초경 연령 12.4세…과체중일 경우 조기 초경 위험",
+    "newsContent": "[김진구 기자] 어머니의 초경이 빨랐을 경우, 딸의 초경 역시 빠를 가능성이 높다는 연구결과가 발표됐다.\n상계백병원 소아청소년과 박미정 교수와 분당차병원 산부인과 이미화 교수가 10~18세 여아 3409명과 그 어머니를 대상으로 초경 연령을 분석한 결과, 딸이 어머니의 조기 초경을 따를 확률이 1.48배 높은 것으로 나타났다.\n연구에 따르면 2010~2011년 기준 한국 여야의 평균 초경 연령은 12.4세였다.\n10~11세에 초경을 하는 여아는 전체의 10.3%였다.\n초경에 영향을 주는 요소로 어머니의 초경 시기와 과체중이 꼽혔다.\n어머니가 조기 초경인 경우 딸도 조기 초경일 위험이 1.48배 높았다.\n과체중인 경우 조기초경을 할 위험이 1.24배 높았다.\n반대로 저체중일 땐 조기 초경 위험이 0.27배로 낮아졌다.\n부모의 소득·교육수준과 조기 초경의 위험은 연관이 없는 것으로 나타났다.\n이미화 교수는 “과체중이나 비만일 경우 체지방에서 만들어진 인자 및 효소들이 초경을 앞당길 수 있으므로 유의해야 한다”며 “그렇다고 무조건 다이어트를 해서 심하게 체중을 감량하는 경우에는 여성호르몬의 정상적인 분비가 억제되어서 사춘기와 초경의 발달이 비정상적으로 늦어질 수 있으므로 키에 알맞은 표준체중을 유지하는 것이 중요하다”고 말했다.\n박미정 교수는 “전체적으로 과거에 비해 초경연령이 앞당겨 지고 있고, 특히 딸아이가 체지방량이 많은 비만이면서 어머니가 초경이 빠른 경우 아이의 초경이 빠를 수 있는데, 몸과 마음이 준비가 되지 않은 상태에서 아이가 초경을 경험할 때 당황하지 않도록 세심한 주의가 필요하다”고 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 어머니의 초경이 빨랐을 경우, 딸의 초경 역시 빠를 가능성이 높다는 연구결과가 발표됐다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "상계백병원 소아청소년과 박미정 교수와 분당차병원 산부인과 이미화 교수가 10~18세 여아 3409명과 그 어머니를 대상으로 초경 연령을 분석한 결과, 딸이 어머니의 조기 초경을 따를 확률이 1.48배 높은 것으로 나타났다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구에 따르면 2010~2011년 기준 한국 여야의 평균 초경 연령은 12.4세였다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "10~11세에 초경을 하는 여아는 전체의 10.3%였다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "초경에 영향을 주는 요소로 어머니의 초경 시기와 과체중이 꼽혔다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "어머니가 조기 초경인 경우 딸도 조기 초경일 위험이 1.48배 높았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "과체중인 경우 조기초경을 할 위험이 1.24배 높았다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "반대로 저체중일 땐 조기 초경 위험이 0.27배로 낮아졌다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "부모의 소득·교육수준과 조기 초경의 위험은 연관이 없는 것으로 나타났다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이미화 교수는 “과체중이나 비만일 경우 체지방에서 만들어진 인자 및 효소들이 초경을 앞당길 수 있으므로 유의해야 한다”며 “그렇다고 무조건 다이어트를 해서 심하게 체중을 감량하는 경우에는 여성호르몬의 정상적인 분비가 억제되어서 사춘기와 초경의 발달이 비정상적으로 늦어질 수 있으므로 키에 알맞은 표준체중을 유지하는 것이 중요하다”고 말했다.",
+        "sentenceSize": 190
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "박미정 교수는 “전체적으로 과거에 비해 초경연령이 앞당겨 지고 있고, 특히 딸아이가 체지방량이 많은 비만이면서 어머니가 초경이 빠른 경우 아이의 초경이 빠를 수 있는데, 몸과 마음이 준비가 되지 않은 상태에서 아이가 초경을 경험할 때 당황하지 않도록 세심한 주의가 필요하다”고 전했다.",
+        "sentenceSize": 159
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "어머니 초경 빨랐다면 딸은 더 빠르다... 연구결과 발표",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

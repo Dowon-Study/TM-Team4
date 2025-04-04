@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197436",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[땅이야기 맛이야기] 대구(3) 명품 닭으로 건강을 더하다, 시골장닭",
+    "newsSubTitle": "한국국토정보공사 대구동부지사 직원이 추천하는 맛집",
+    "newsContent": "옛날 시골에서 먹던 맛 ‘닭개장’ 2012년에 문을 연 '시골장닭'은 이름 그대로 시골에서 키운 장닭을 만들어 요리하는 식당이다.\n이곳의 대표메뉴는 기름기가 적고, 쫄깃한 맛이 일품인 ‘닭개장’. 180일 이상된 수탉으로 만든 닭개장은 옛날 시골에서 푹 끓여낸 바로 그 맛이다.\n대파, 토란, 고사리를 넣고 5시간 이상 끓여냈기에 '시골장닭'만의 정성이 들어 있다.\n닭개장과 강황밥, 건강을 생각하다 얼큰한 닭개장은 국물이 걸쭉하니 진국이다.\n닭고기의 기름기가 적어 느끼하지 않고 깔끔하다.\n강황을 넣어 노란색을 띠는 밥으로 영양까지 더했다.\n닭개장과 잘 어울리는 새콤달콤한 도라지무침과 방풍나물, 부추, 깻잎, 두릅 등으로 만든 갖가지 장아찌와 함께 먹으면 보양식으로 최고다.\n부드러운 닭고기와 큼직한 채소의 결합 '시골장닭' 맛의 비결은 장닭에 있다.\n해발 700m 고지 산에서 방목해서 키웠기에 장닭 특유의 쫄깃한 맛을 느낄 수 있다.\n일반 닭에 비해 지방이 적어 어떤 요리를 해도 느끼하지 않다.\n닭을 푹 삶아 살을 찢어 낸 닭고기와 큼직하게 썬 채소의 결합은 어디에서도 흉내낼 수 없는 맛이다.\n소금구이와 한방백숙도 인기 '시골장닭'은 숯불에 구워먹는 소금구이가 주 메뉴다.\n이미 냄새만으로도 ‘몸에 좋을 것 같다’라는 생각이 절로 드는 한방백숙은 16가지 이상 한약재를 넣어 보약이 따로 없다.\n백숙은 큼지막한 장닭으로 바로바로 만들기 때문에 최소 1~2시간 전 예약은 필수다.\n몸보신을 하고 싶다면 '시골장닭'의 건강한 장닭을 맛 보는 건 어떨까?\n출처. 한국국토정보공사, 2016 땅이야기 맛이야기",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "옛날 시골에서 먹던 맛 ‘닭개장’ 2012년에 문을 연 '시골장닭'은 이름 그대로 시골에서 키운 장닭을 만들어 요리하는 식당이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이곳의 대표메뉴는 기름기가 적고, 쫄깃한 맛이 일품인 ‘닭개장’. 180일 이상된 수탉으로 만든 닭개장은 옛날 시골에서 푹 끓여낸 바로 그 맛이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대파, 토란, 고사리를 넣고 5시간 이상 끓여냈기에 '시골장닭'만의 정성이 들어 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "닭개장과 강황밥, 건강을 생각하다 얼큰한 닭개장은 국물이 걸쭉하니 진국이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "닭고기의 기름기가 적어 느끼하지 않고 깔끔하다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "강황을 넣어 노란색을 띠는 밥으로 영양까지 더했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "닭개장과 잘 어울리는 새콤달콤한 도라지무침과 방풍나물, 부추, 깻잎, 두릅 등으로 만든 갖가지 장아찌와 함께 먹으면 보양식으로 최고다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "부드러운 닭고기와 큼직한 채소의 결합 '시골장닭' 맛의 비결은 장닭에 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "해발 700m 고지 산에서 방목해서 키웠기에 장닭 특유의 쫄깃한 맛을 느낄 수 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "일반 닭에 비해 지방이 적어 어떤 요리를 해도 느끼하지 않다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "닭을 푹 삶아 살을 찢어 낸 닭고기와 큼직하게 썬 채소의 결합은 어디에서도 흉내낼 수 없는 맛이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "소금구이와 한방백숙도 인기 '시골장닭'은 숯불에 구워먹는 소금구이가 주 메뉴다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이미 냄새만으로도 ‘몸에 좋을 것 같다’라는 생각이 절로 드는 한방백숙은 16가지 이상 한약재를 넣어 보약이 따로 없다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "백숙은 큼지막한 장닭으로 바로바로 만들기 때문에 최소 1~2시간 전 예약은 필수다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "몸보신을 하고 싶다면 '시골장닭'의 건강한 장닭을 맛 보는 건 어떨까?",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "출처. 한국국토정보공사, 2016 땅이야기 맛이야기",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "명품 닭과 은밀한 비법 레시피로 인기 얻은 '시골장닭', 어떤 맛이길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

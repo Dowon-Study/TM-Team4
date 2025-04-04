@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195164",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "내일부터 ‘벌 쏘임사고 주의보’ 첫 발령…7월 1014건 발생",
+    "newsSubTitle": "",
+    "newsContent": "13일 오전 9시를 기해 전국에 ‘벌 쏘임사고 주의보’를 발령한다고 소방청이 12일 밝혔다.\n벌 쏘임사고 주의보가 발령되는 것은 이번이 처음이다.\n소방청은 올해 여름부터 ‘벌 쏘임사고 주의 예보제’를 도입했다.\n벌 쏘임사고 주의보는 관련 사고가 1주일에 300건 이상 발생할 때, 또는 벌집제거 출동이 주 7000건 이상 2주 연속 발생하거나 예상될 경우에 발령된다.\n소방청에 따르면 지난 2주일 동안 벌집제거 출동이 주당 8000건 이상 있었다.\n벌 쏘임사고도 1주일에 300여건씩 발생했다.\n여름철 벌 쏘임 사고는 통상 7월 말부터 급증하는데 올해는 7월에 1014건이 발생해 전달(420건)의 2.4배 수준으로 늘었다.\n소방청 관계자는 “올해는 긴 장마로 평년보다 기온이 낮았는데도 7월 벌 쏘임사고가 6월 대비 급증했다. 그동안 계속 비가 와서 먹이가 부족했던 벌들이 장마가 끝나면 본격적으로 활동에 나설 것으로 예상되므로 주의해야 한다”고 설명했다.\n또 “벌에 쏘였을 때 알레르기 반응으로 인한 과민성 쇼크가 발생하면 1시간 내 사망에 이를 수 있으므로 최대한 신속하게 병원으로 이송하거나 119에 신고해 달라”고 당부했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "13일 오전 9시를 기해 전국에 ‘벌 쏘임사고 주의보’를 발령한다고 소방청이 12일 밝혔다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "벌 쏘임사고 주의보가 발령되는 것은 이번이 처음이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소방청은 올해 여름부터 ‘벌 쏘임사고 주의 예보제’를 도입했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "벌 쏘임사고 주의보는 관련 사고가 1주일에 300건 이상 발생할 때, 또는 벌집제거 출동이 주 7000건 이상 2주 연속 발생하거나 예상될 경우에 발령된다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소방청에 따르면 지난 2주일 동안 벌집제거 출동이 주당 8000건 이상 있었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "벌 쏘임사고도 1주일에 300여건씩 발생했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여름철 벌 쏘임 사고는 통상 7월 말부터 급증하는데 올해는 7월에 1014건이 발생해 전달(420건)의 2.4배 수준으로 늘었다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "소방청 관계자는 “올해는 긴 장마로 평년보다 기온이 낮았는데도 7월 벌 쏘임사고가 6월 대비 급증했다. 그동안 계속 비가 와서 먹이가 부족했던 벌들이 장마가 끝나면 본격적으로 활동에 나설 것으로 예상되므로 주의해야 한다”고 설명했다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 “벌에 쏘였을 때 알레르기 반응으로 인한 과민성 쇼크가 발생하면 1시간 내 사망에 이를 수 있으므로 최대한 신속하게 병원으로 이송하거나 119에 신고해 달라”고 당부했다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전국에 ‘벌 쏘임 사고 주의보’ 발령된다... 7월에만 전달 대비 2.4배 급증한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

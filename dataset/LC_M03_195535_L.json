@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195535",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "다이어트 음료, 안심 못한다…\\\"매일 한 캔 섭취시 뇌졸중·치매 유발 3배가량 높아\\\"",
+    "newsSubTitle": "",
+    "newsContent": "건강을 위해 설탕음료보다 다이어트 음료를 찾는 사람이 많다.\n하지만 이마저도 안심하기는 힘들 것 같다.\n다이어트 음료를 매일 마시는 사람이 그렇지 않은 사람 보다 뇌졸중과 치매 위험이 3배 가량 높다는 연구가 최근 발표됐기 때문이다.\n지난 20일(현지시간) 미국 NBC 방송은 매튜 파이스(Matthew Pase) 박사가 이끄는 보스턴대학교 의대 연구팀의 보고서를 인용해 “다이어트 음료를 매일 마시는 사람들은 그렇지 않은 사람과 비교했을 때 향후 10년 내 뇌졸중과 치매를 동시에 앓을 확률이 3배 높다”고 보도했다.\n매튜 파이스 박사팀은 45세 이상 미국 성인 4300명을 대상으로 장기 추적 조사한 결과 인공감미료가 든 다이어트 음료를 하루 한 캔 이상 마시는 사람은 1주일에 한 캔 미만 마시는 사람에 비해 허혈성 뇌졸중에 걸릴 위험이 2.96배, 치매에 걸릴 위험은 2.89배 커지는 상관관계가 있는 것으로 나타났다고 밝혔다.\n파이스 박사팀은 1991년부터 2001년까지 18차례 식습관과 건강상태 등에 관해 설문하고 검사한 결과를 분석한 뒤 나이, 성, 교육 및 수입, 열량 섭취량과 식품의 질, 운동, 흡연 등 다른 영향 요인들을 제거하고 뇌졸중과 치매 위험 증가 정도를 계산했다.\n파이스 박사는 “다이어트 음료와 치매 간 상관관계를 연구한 것은 자신들이 처음이며 이 연구결과는 인공감미료 유해성에 대한 경각심을 더욱 크게 할 것”이라고 말했다.\n다만 “역학 조사로 상관관계만 밝힌 것이어서 인공감미료가 생물학적으로 뇌졸중과 치매의 원인으로 작용했는지를 확인하는 추가 연구들이 있어야 할 것”이라고 단서를 달았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "건강을 위해 설탕음료보다 다이어트 음료를 찾는 사람이 많다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하지만 이마저도 안심하기는 힘들 것 같다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "다이어트 음료를 매일 마시는 사람이 그렇지 않은 사람 보다 뇌졸중과 치매 위험이 3배 가량 높다는 연구가 최근 발표됐기 때문이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 20일(현지시간) 미국 NBC 방송은 매튜 파이스(Matthew Pase) 박사가 이끄는 보스턴대학교 의대 연구팀의 보고서를 인용해 “다이어트 음료를 매일 마시는 사람들은 그렇지 않은 사람과 비교했을 때 향후 10년 내 뇌졸중과 치매를 동시에 앓을 확률이 3배 높다”고 보도했다.",
+        "sentenceSize": 159
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "매튜 파이스 박사팀은 45세 이상 미국 성인 4300명을 대상으로 장기 추적 조사한 결과 인공감미료가 든 다이어트 음료를 하루 한 캔 이상 마시는 사람은 1주일에 한 캔 미만 마시는 사람에 비해 허혈성 뇌졸중에 걸릴 위험이 2.96배, 치매에 걸릴 위험은 2.89배 커지는 상관관계가 있는 것으로 나타났다고 밝혔다.",
+        "sentenceSize": 176
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "파이스 박사팀은 1991년부터 2001년까지 18차례 식습관과 건강상태 등에 관해 설문하고 검사한 결과를 분석한 뒤 나이, 성, 교육 및 수입, 열량 섭취량과 식품의 질, 운동, 흡연 등 다른 영향 요인들을 제거하고 뇌졸중과 치매 위험 증가 정도를 계산했다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "파이스 박사는 “다이어트 음료와 치매 간 상관관계를 연구한 것은 자신들이 처음이며 이 연구결과는 인공감미료 유해성에 대한 경각심을 더욱 크게 할 것”이라고 말했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "다만 “역학 조사로 상관관계만 밝힌 것이어서 인공감미료가 생물학적으로 뇌졸중과 치매의 원인으로 작용했는지를 확인하는 추가 연구들이 있어야 할 것”이라고 단서를 달았다.",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "건강 생각해서 먹는 다이어트 음료, 오히려 위험한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

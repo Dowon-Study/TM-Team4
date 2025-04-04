@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193220",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "경찰, '불법 유흥업소 방조 의혹' 빅뱅 대성 무혐의 결론",
+    "newsSubTitle": "",
+    "newsContent": "그룹 빅뱅 멤버 대성(31·본명 강대성) 소유 건물에서 불법 유흥업소가 운영돼 논란이 일은 가운데 대성이 무혐의 처분을 받았다.\n3일 서울 강남경찰서는 대성 소유 건물에서 불법 유흥업소를 운영한 업주와 종업원 등 56명을 기소 의견으로 검찰에 넘긴다.\n다만 대성에 대해서는 무혐의로 보고 불기소 의견을 달았다.\n앞서 대성은 경찰 조사에서 자신의 건물 내 무허가 운영이 있었다는 사실을 전혀 몰랐다고 진술한 것으로 알려졌다.\n건물 관리 대리인 역시 같은 취지의 진술을 했다고 전해졌다.\n경찰은 압수수색 등을 통해 확보한 자료와 관련자 진술 등을 토대로 대성이 받고 있던 무허가 유흥주점 방조 의혹에 대해 무혐의를 적용했다.\n이와 관련해 경찰 관계자는 미디어SR에 \\\"확보한 증거 등의 종합적인 검토를 마친 결과 혐의점으로 인식할 만한 부분이 없어 불기소 의견을 달은 것\\\"이라고 설명했다.\n경찰은 대성 소유 건물의 일부 업소에서 마약 거래 및 투약이 이뤄졌다는 의혹에 대해서도 혐의를 뒷받침할 자료를 찾지 못했다.\n조사 결과 성매매 관련 범죄 또한 건물 외부 숙박업소에서 이뤄졌다.\n이에 따라 경찰은 불법 유흥업소를 운영한 업주와 종업원에 대해서만 무허가 유흥주점 운영 및 접객·알선 행위(식품위생법 위반)와 성매매 알선과 성매매(성매매처벌법 위반)를 한 혐의를 적용해 입건, 불구속 기소 의견을 달아 넘기기로 했다.\n불법영업 행위에 대해 강남구청 및 세무서 등 유관기관에 행정조치도 의뢰할 계획이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 빅뱅 멤버 대성(31·본명 강대성) 소유 건물에서 불법 유흥업소가 운영돼 논란이 일은 가운데 대성이 무혐의 처분을 받았다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "3일 서울 강남경찰서는 대성 소유 건물에서 불법 유흥업소를 운영한 업주와 종업원 등 56명을 기소 의견으로 검찰에 넘긴다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "다만 대성에 대해서는 무혐의로 보고 불기소 의견을 달았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 대성은 경찰 조사에서 자신의 건물 내 무허가 운영이 있었다는 사실을 전혀 몰랐다고 진술한 것으로 알려졌다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "건물 관리 대리인 역시 같은 취지의 진술을 했다고 전해졌다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "경찰은 압수수색 등을 통해 확보한 자료와 관련자 진술 등을 토대로 대성이 받고 있던 무허가 유흥주점 방조 의혹에 대해 무혐의를 적용했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이와 관련해 경찰 관계자는 미디어SR에 \\\"확보한 증거 등의 종합적인 검토를 마친 결과 혐의점으로 인식할 만한 부분이 없어 불기소 의견을 달은 것\\\"이라고 설명했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "경찰은 대성 소유 건물의 일부 업소에서 마약 거래 및 투약이 이뤄졌다는 의혹에 대해서도 혐의를 뒷받침할 자료를 찾지 못했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "조사 결과 성매매 관련 범죄 또한 건물 외부 숙박업소에서 이뤄졌다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이에 따라 경찰은 불법 유흥업소를 운영한 업주와 종업원에 대해서만 무허가 유흥주점 운영 및 접객·알선 행위(식품위생법 위반)와 성매매 알선과 성매매(성매매처벌법 위반)를 한 혐의를 적용해 입건, 불구속 기소 의견을 달아 넘기기로 했다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "불법영업 행위에 대해 강남구청 및 세무서 등 유관기관에 행정조치도 의뢰할 계획이다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "빅뱅 대성 무혐의, 식은땀... 불법 유흥업소 운영 논란에 '깜놀'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

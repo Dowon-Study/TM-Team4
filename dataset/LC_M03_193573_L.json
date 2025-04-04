@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193573",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스신간『차(茶)의 과학』 外",
+    "newsSubTitle": "헬스 신간",
+    "newsContent": "『차(茶)의 과학』 오모리 마사시 지음 한국티소믈리에연구원 오늘날 차(茶)는 단순한 음료에 그치지 않는다.\n차의 유효 성분이 본격적으로 연구되면서 다양한 건강 기능성이 밝혀지고 있어서다. 『차(茶)의 과학』은 차 입문자를 위한 안내서다.\n차에 대한 기본 지식부터 연구 성과까지 일반 독자들이 알기 쉽게 소개한다.\n카테킨·테아닌·미네랄 등 차의 다양한 유효 성분을 알려주고 녹차·홍차·우롱차를 더욱 맛있게 즐길 수 있는 가이드라인을 제시한다. 『오늘의 키토식』 키토제닉 다이어트 카페 지음 길벗 키토식은 저탄수화물·중단백·고지방 식단을 말한다.\n탄수화물을 줄여 지방을 에너지원으로 쓰도록 몸을 바꾸는 식사법이다. 『오늘의 키토식』은 누구나 쉽게 따라 할 수 있는 키토식 실용서다.\n짧게는 2년, 길게는 5년가량 키토식을 실천한 11명이 고도 비만, 난임, 고지혈증과 같은 건강 문제를 개선한 사례를 다룬다.\n간단하면서 맛있게 요리해 먹을 수 있는 한국식 키토 레시피를 담았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "『차(茶)의 과학』 오모리 마사시 지음 한국티소믈리에연구원 오늘날 차(茶)는 단순한 음료에 그치지 않는다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "차의 유효 성분이 본격적으로 연구되면서 다양한 건강 기능성이 밝혀지고 있어서다. 『차(茶)의 과학』은 차 입문자를 위한 안내서다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "차에 대한 기본 지식부터 연구 성과까지 일반 독자들이 알기 쉽게 소개한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "카테킨·테아닌·미네랄 등 차의 다양한 유효 성분을 알려주고 녹차·홍차·우롱차를 더욱 맛있게 즐길 수 있는 가이드라인을 제시한다. 『오늘의 키토식』 키토제닉 다이어트 카페 지음 길벗 키토식은 저탄수화물·중단백·고지방 식단을 말한다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "탄수화물을 줄여 지방을 에너지원으로 쓰도록 몸을 바꾸는 식사법이다. 『오늘의 키토식』은 누구나 쉽게 따라 할 수 있는 키토식 실용서다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "짧게는 2년, 길게는 5년가량 키토식을 실천한 11명이 고도 비만, 난임, 고지혈증과 같은 건강 문제를 개선한 사례를 다룬다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "간단하면서 맛있게 요리해 먹을 수 있는 한국식 키토 레시피를 담았다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "『차(茶)의 과학』은 차 입문자를 위한 띵안내서",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

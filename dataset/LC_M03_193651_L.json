@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193651",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "기존 약 안 듣는 폐암 환자 위한 새 약 나와",
+    "newsSubTitle": "미국 식품의약처, 표적항암제 '브리가티닙' 승인 서울대병원 참여한 국제 연구서 효과 입증돼 기존 치료제 내성 있는 환자 54%에서 종양 줄어 치료 효과 12.9개월 지속…국내 승인 별도 받아야",
+    "newsContent": "기존 항암제에 내성이 생긴 폐암 환자에 쓸 수 있는 새로운 항암제의 효과가 입증돼 미국 식품의약처(FDA) 승인을 받았다.\n이 항암제의 임상시험은 국내 연구팀이 주도했다.\n서울대병원은 이 병원 종양내과 센터 김동완 교수가 주저자로 참여해 18개국 71개 병원에서 진행 중인 ‘ALTA 연구’의 최초 분석 결과가 종양학 분야 국제 학술지인 ‘임상종양학회지’ 5일자 온라인판에 게재됐다고 8일 밝혔다.\nFDA는 이 연구를 근거로 지난달 28일 새로운 표적항암제 '브리가티닙'을 기존에 쓰이던 표적항암제 '크리조티닙'에 내성이 있는 폐암 환자의 치료제로 승인했다.\n표적항암제는 특정 유전자 변이로 생기는 이상한 단백질(ALK)을 공격하는 항암제를 일컫는다.\n연구팀은 크리조티닙에 내성을 보인 ALK 양성 폐암 환자 222명을 두 그룹으로 나눠 한 그룹(112명)에는 90mg, 다른 그룹(110명)엔 180mg의 브리가티닙을 투여했다.\n그 결과 180mg을 투여한 쪽의 환자 절반(54%)에서 암세포 크기가 현저히 줄었다.\n그 효과는 평균 12.9개월 동안 이어졌다.\n암세포가 뇌로 전이된 환자의 67%도 암세포 크기가 줄어드는 효과가 나타났다.\n부작용으로는 설사·두통·기침 등이 흔했다.\n중증 이상 호흡기 부작용은 3%에서 발견됐다.\n김 교수는 “기존 항암제인 크리조티닙 치료 환자의 절반은 1년 내 내성이 발생하고 이 중 상당수는 암세포가 뇌로 전이된다. 이 점에서 브리가티닙은 크리조티닙 내성 환자에게 좋은 치료법이 될 수 있을 것”이라 말했다.\n다만 브리가티닙이 국내에서 치료제로 쓰이려면 국내 승인을 받는 절차를 거쳐야 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "기존 항암제에 내성이 생긴 폐암 환자에 쓸 수 있는 새로운 항암제의 효과가 입증돼 미국 식품의약처(FDA) 승인을 받았다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 항암제의 임상시험은 국내 연구팀이 주도했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서울대병원은 이 병원 종양내과 센터 김동완 교수가 주저자로 참여해 18개국 71개 병원에서 진행 중인 ‘ALTA 연구’의 최초 분석 결과가 종양학 분야 국제 학술지인 ‘임상종양학회지’ 5일자 온라인판에 게재됐다고 8일 밝혔다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "FDA는 이 연구를 근거로 지난달 28일 새로운 표적항암제 '브리가티닙'을 기존에 쓰이던 표적항암제 '크리조티닙'에 내성이 있는 폐암 환자의 치료제로 승인했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "표적항암제는 특정 유전자 변이로 생기는 이상한 단백질(ALK)을 공격하는 항암제를 일컫는다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구팀은 크리조티닙에 내성을 보인 ALK 양성 폐암 환자 222명을 두 그룹으로 나눠 한 그룹(112명)에는 90mg, 다른 그룹(110명)엔 180mg의 브리가티닙을 투여했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 결과 180mg을 투여한 쪽의 환자 절반(54%)에서 암세포 크기가 현저히 줄었다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그 효과는 평균 12.9개월 동안 이어졌다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "암세포가 뇌로 전이된 환자의 67%도 암세포 크기가 줄어드는 효과가 나타났다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "부작용으로는 설사·두통·기침 등이 흔했다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "중증 이상 호흡기 부작용은 3%에서 발견됐다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "김 교수는 “기존 항암제인 크리조티닙 치료 환자의 절반은 1년 내 내성이 발생하고 이 중 상당수는 암세포가 뇌로 전이된다. 이 점에서 브리가티닙은 크리조티닙 내성 환자에게 좋은 치료법이 될 수 있을 것”이라 말했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "다만 브리가티닙이 국내에서 치료제로 쓰이려면 국내 승인을 받는 절차를 거쳐야 한다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국내 연구팀 '킹정', 기존 약에 내성 생긴 폐암 환자 위한 새 항암제 나와",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

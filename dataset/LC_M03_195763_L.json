@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195763",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "심평원, 청구오류 예방 사전점검 서비스 확대",
+    "newsSubTitle": "",
+    "newsContent": "건강보험심사평가원(원장 손명세)은 국민건강과 요양기관의 청구오류를 최소화하기 위해 오·남용 우려가 큰 의약품 등에 대한 사전점검서비스를 확대 실시한다고 11일 밝혔다.\n구체적으로는 마약류 등 오남용 우려가 큰 1,871품목 약제에 대한 투여량 및 투여횟수 등을 사전에 점검할 수 있는 서비스다.\n그간 오남용 우려가 큰 마약류 등 의약품에 대해 심사조정을 통한 사후점검에서 확인된 문제점이 사전점검 항목에 우선 적용됐다.\n심평원은 요양기관의 청구 오류건이 반송·불능되거나 심사 조정되면 요양기관에서 추후 사유를 보완해 다시 청구하거나 이의신청하는 번거로움을 덜어주기 위해 청구오류 예방사업을 지난 2003년부터 실시해오고 있다.\n여기에 금액 착오 등 75개 항목을 추가, 총 703항목에 대해 ‘요양기관 PC내 점검’, ‘접수 전 사전점검’, ‘접수 후 청구오류 수정․보완’ 등 총 3회에 걸쳐 청구오류를 미리 점검하는 서비스를 제공하고 있다.\n이를 통해 지난 상반기에만 접수 전 사전점검으로 635억원을, 접수 후 청구오류 수정․보완으로 200억원 이상의 청구오류 예방효과를 거뒀다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "건강보험심사평가원(원장 손명세)은 국민건강과 요양기관의 청구오류를 최소화하기 위해 오·남용 우려가 큰 의약품 등에 대한 사전점검서비스를 확대 실시한다고 11일 밝혔다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "구체적으로는 마약류 등 오남용 우려가 큰 1,871품목 약제에 대한 투여량 및 투여횟수 등을 사전에 점검할 수 있는 서비스다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그간 오남용 우려가 큰 마약류 등 의약품에 대해 심사조정을 통한 사후점검에서 확인된 문제점이 사전점검 항목에 우선 적용됐다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "심평원은 요양기관의 청구 오류건이 반송·불능되거나 심사 조정되면 요양기관에서 추후 사유를 보완해 다시 청구하거나 이의신청하는 번거로움을 덜어주기 위해 청구오류 예방사업을 지난 2003년부터 실시해오고 있다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여기에 금액 착오 등 75개 항목을 추가, 총 703항목에 대해 ‘요양기관 PC내 점검’, ‘접수 전 사전점검’, ‘접수 후 청구오류 수정․보완’ 등 총 3회에 걸쳐 청구오류를 미리 점검하는 서비스를 제공하고 있다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 통해 지난 상반기에만 접수 전 사전점검으로 635억원을, 접수 후 청구오류 수정․보완으로 200억원 이상의 청구오류 예방효과를 거뒀다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "건강보험심사평가원, 의약품 사전점검 서비스 확대 시행… 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

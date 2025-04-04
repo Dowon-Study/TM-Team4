@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193122",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[유태우의 서금요법] 스마트폰 증후군 땐 I38, H2, B25과 상응점 자극",
+    "newsSubTitle": "",
+    "newsContent": "휴대전화 사용이 일상화되면서 많은 부작용도 뒤따르고 있다.\n대표적인 휴대전화 증후군이 VDT(Visual Display Terminal)다.\n주로 나타나는 증상은 근막통증증후군·손목터널증후군·디스크·거북목증후군·안구건조증 등이다.\n근막통증증후군은 견갑골 부근의 승모근이 긴장돼 나타난다.\n또 목디스크는 고개를 지나치게 숙이는 동작 때문에 목뼈의 디스크가 튀어나온 것을 말한다.\n이탈한 디스크가 신경을 압박해 손저림·어깨통증·운동장애가 생긴다.\n목을 앞으로 뺀 상태에서 휴대전화를 보면 머리 무게로 인해 후두통, 목의 통증이 나타나는데 이를 거북목증후군이라 부른다.\n이들 증후군엔 서금요법이 큰 도움이 된다.\n승모근이 긴장해 나타나는 통증일 때는 상응 부위가 M10·11이다.\n이 부위를 약간 아프게 자극하거나 마사지만 해도 긴장통은 잘 해소된다.\n목디스크는 경추의 신경 위치에 따라 차이는 있으나 B19~24까지가 상응부다.\n이곳을 볼펜자루 등으로 압박하면 극심한 통증을 느낀다.\n이곳을 약간 강자극하면 경추디스크 반응을 해소할 수 있다.\n특히 어깨꼭대기·경추 쪽 근육 통증, 손목 저림도 예방과 해소가 가능하다.\n거북목증후군은 B23~25까지의 상응부를 압박해 나타나는 상응점을 자극한다.\n스마트폰증후군은 모두가 교감신경이 긴장한 탓이므로 근육 긴장 이완 위치는 I38, H2, B25다.\n상응점에 압진봉을 놓고 약간 아플 정도로 5~20분간 간헐적으로 자극한다.\n오래 강하게 자극하기 위해서는 기마크봉을 붙인다.\n또 강자극이 필요하면 금봉 은색소형을 붙인다. 3~4시간 후면 통증이 소실된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "휴대전화 사용이 일상화되면서 많은 부작용도 뒤따르고 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "대표적인 휴대전화 증후군이 VDT(Visual Display Terminal)다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "주로 나타나는 증상은 근막통증증후군·손목터널증후군·디스크·거북목증후군·안구건조증 등이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "근막통증증후군은 견갑골 부근의 승모근이 긴장돼 나타난다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 목디스크는 고개를 지나치게 숙이는 동작 때문에 목뼈의 디스크가 튀어나온 것을 말한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이탈한 디스크가 신경을 압박해 손저림·어깨통증·운동장애가 생긴다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "목을 앞으로 뺀 상태에서 휴대전화를 보면 머리 무게로 인해 후두통, 목의 통증이 나타나는데 이를 거북목증후군이라 부른다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이들 증후군엔 서금요법이 큰 도움이 된다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "승모근이 긴장해 나타나는 통증일 때는 상응 부위가 M10·11이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 부위를 약간 아프게 자극하거나 마사지만 해도 긴장통은 잘 해소된다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "목디스크는 경추의 신경 위치에 따라 차이는 있으나 B19~24까지가 상응부다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이곳을 볼펜자루 등으로 압박하면 극심한 통증을 느낀다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이곳을 약간 강자극하면 경추디스크 반응을 해소할 수 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "특히 어깨꼭대기·경추 쪽 근육 통증, 손목 저림도 예방과 해소가 가능하다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "거북목증후군은 B23~25까지의 상응부를 압박해 나타나는 상응점을 자극한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "스마트폰증후군은 모두가 교감신경이 긴장한 탓이므로 근육 긴장 이완 위치는 I38, H2, B25다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "상응점에 압진봉을 놓고 약간 아플 정도로 5~20분간 간헐적으로 자극한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "오래 강하게 자극하기 위해서는 기마크봉을 붙인다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "또 강자극이 필요하면 금봉 은색소형을 붙인다. 3~4시간 후면 통증이 소실된다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "휴대전화의 충격적 부작용... 증상완화에 효과적인 방법 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

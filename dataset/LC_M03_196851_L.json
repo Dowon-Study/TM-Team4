@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196851",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "우리나라 성인 절반 이상 밤 잠 설쳐",
+    "newsSubTitle": "성인 1000명 대상 수면습관 설문조사 결과",
+    "newsContent": "우리나라 성인 중 절반 이상이 숙면을 취하지 못하고 있다는 조사결과가 나왔다.\n자생추나베개는 모바일 리서치 기관 ‘오픈서베이’와 공동으로 20대~70대 성인 남녀 1000명을 대상으로 벌인 ‘대한민국 성인 남녀 수면습관에 대한 조사’ 결과를 2일 발표했다.\n이에 따르면, 평균 수면 시간은 5시간 이상~7시간 미만이라는 응답이 65%로 가장 많았다.\n5시간 미만이란 응답도 전체의 11%였다.\n권장수면시간(8시간)을 채우지 못하는 인원이 전체의 76% 수준에 달한다.\n수면 만족도를 묻는 질문에는 54%가 숙면을 취하지 못한다고 답해, 우리나라 성인 절반 이상이 수면 시간과 수면 만족도 모두에 저조한 수치를 보이고 있는 것으로 조사됐다.\n수면 자세는 어떨까?\n성인의 72%가 옆으로 눕거나 엎드려 자는 습관을 가졌다고 응답했다.\n정 자세로 바르게 누워 자는 사람은 28%였다.\n수면 중이나 수면 후 통증이나 불편함을 느껴본 적이 있다는 응답자는 65%에 달했고, 이 중 67%는 목과 어깨, 23%는 허리통증을 경험한 것으로 조사됐다.\n하지만 숙면에 필요한 규칙적인 운동, 식습관 조절 등의 노력을 한다는 응답자는 27%에 불과해 정작 ‘수면의 질’에 쏟는 관심은 저조한 것으로 나타났다.\n숙면을 취하는 데 가장 중요한 요소를 묻는 질문에는 베개(70%)가 가장 높았고 이불(24%), 암막커텐(6%)이 뒤를 이었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우리나라 성인 중 절반 이상이 숙면을 취하지 못하고 있다는 조사결과가 나왔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "자생추나베개는 모바일 리서치 기관 ‘오픈서베이’와 공동으로 20대~70대 성인 남녀 1000명을 대상으로 벌인 ‘대한민국 성인 남녀 수면습관에 대한 조사’ 결과를 2일 발표했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 따르면, 평균 수면 시간은 5시간 이상~7시간 미만이라는 응답이 65%로 가장 많았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "5시간 미만이란 응답도 전체의 11%였다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "권장수면시간(8시간)을 채우지 못하는 인원이 전체의 76% 수준에 달한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "수면 만족도를 묻는 질문에는 54%가 숙면을 취하지 못한다고 답해, 우리나라 성인 절반 이상이 수면 시간과 수면 만족도 모두에 저조한 수치를 보이고 있는 것으로 조사됐다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "수면 자세는 어떨까?",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "성인의 72%가 옆으로 눕거나 엎드려 자는 습관을 가졌다고 응답했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정 자세로 바르게 누워 자는 사람은 28%였다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "수면 중이나 수면 후 통증이나 불편함을 느껴본 적이 있다는 응답자는 65%에 달했고, 이 중 67%는 목과 어깨, 23%는 허리통증을 경험한 것으로 조사됐다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하지만 숙면에 필요한 규칙적인 운동, 식습관 조절 등의 노력을 한다는 응답자는 27%에 불과해 정작 ‘수면의 질’에 쏟는 관심은 저조한 것으로 나타났다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "숙면을 취하는 데 가장 중요한 요소를 묻는 질문에는 베개(70%)가 가장 높았고 이불(24%), 암막커텐(6%)이 뒤를 이었다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "성인 80% 이상이 불면증… 수면의 질 높이려면 어떻게 해야 하나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

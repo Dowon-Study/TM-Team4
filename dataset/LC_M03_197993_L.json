@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197993",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "‘여성용 비아그라’내년 말 시판될 듯",
+    "newsSubTitle": "",
+    "newsContent": "‘여성용 비아그라’가 내년 말께 선보일 전망이다.\n독일계 제약사인 한국베링거인겔하임은 여성 성욕 감퇴 치료제 ‘플리반세린’에 대한 임상시험이 마지막 단계에 접어들어 이르면 내년 말 미국에서 시판 허가를 받을 것으로 예상된다고 23일 밝혔다.\n국내 시판 일정은 아직 미정이다.\n현재 ‘부케’라는 연구제목으로 유럽과 북미 지역에서 폐경 전 여성 5000명을 대상으로 대규모 임상시험이 진행 중이다.\n중추신경계에 작용하는 플리반세린은 비호르몬성 화합물로, 매일 먹는 약물로 개발됐다.\n성욕감퇴장애(HSDD)는 성적 흥미나 욕구가 줄어들고, 성적인 생각이나 환상이 사라지는 성기능 장애. 이달 초 미국 산부인과학회(ACOG)에서 발표된 연구 결과에 따르면 여성 열 명 중 한 명이 성욕감퇴장애로 고통을 받고 있으며, 이들 중 3분의 1 정도만이 전문가에게 조언을 구하거나 치료받고 있는 것으로 조사됐다.\n한국베링거인겔하임 관계자는 “비아그라와 같은 발기부전 치료제가 성적인 욕구는 있지만 기능이 따르지 않는 남성에게 필요한 것이라면, 플리반세린은 성적인 욕구조차 느끼지 못하는 여성을 위한 치료제”라며 “인위적으로 성욕을 느끼게 하는 최음제와도 구별된다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘여성용 비아그라’가 내년 말께 선보일 전망이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "독일계 제약사인 한국베링거인겔하임은 여성 성욕 감퇴 치료제 ‘플리반세린’에 대한 임상시험이 마지막 단계에 접어들어 이르면 내년 말 미국에서 시판 허가를 받을 것으로 예상된다고 23일 밝혔다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국내 시판 일정은 아직 미정이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "현재 ‘부케’라는 연구제목으로 유럽과 북미 지역에서 폐경 전 여성 5000명을 대상으로 대규모 임상시험이 진행 중이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "중추신경계에 작용하는 플리반세린은 비호르몬성 화합물로, 매일 먹는 약물로 개발됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "성욕감퇴장애(HSDD)는 성적 흥미나 욕구가 줄어들고, 성적인 생각이나 환상이 사라지는 성기능 장애. 이달 초 미국 산부인과학회(ACOG)에서 발표된 연구 결과에 따르면 여성 열 명 중 한 명이 성욕감퇴장애로 고통을 받고 있으며, 이들 중 3분의 1 정도만이 전문가에게 조언을 구하거나 치료받고 있는 것으로 조사됐다.",
+        "sentenceSize": 177
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한국베링거인겔하임 관계자는 “비아그라와 같은 발기부전 치료제가 성적인 욕구는 있지만 기능이 따르지 않는 남성에게 필요한 것이라면, 플리반세린은 성적인 욕구조차 느끼지 못하는 여성을 위한 치료제”라며 “인위적으로 성욕을 느끼게 하는 최음제와도 구별된다”고 말했다.",
+        "sentenceSize": 146
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중년여성 희소식... 여성용 `이것` 내년에 출시된다!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

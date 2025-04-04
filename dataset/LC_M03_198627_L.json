@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198627",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "임창정 앞서 아이유도 축가 불렀다…가요계 코로나 비상",
+    "newsSubTitle": "",
+    "newsContent": "가수 임창정이 백신 미접종 상태에서 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받으면서 가요계에 비상이 걸린 가운데, 아이유는 선제적으로 코로나 검사를 받기로 했다.\n아이유 소속사 EDAM엔터테인먼트는 10일 아이유가 임창정과 동선이 겹치진 않았으나 함께 방문한 매니저 등 스태프들과 함께 코로나19 검사를 받을 예정이라고 밝혔다.\nEDAM엔터 측은 검사 결과가 나오는 대로 공지한다는 방침이다.\n임창정은 지난 9일 코로나19 확진 판정을 받고 활동을 중단했다.\n임창정은 전날 서울 강남구 역삼동 한 웨딩홀에서 진행된 가수 이지훈 부부의 비공개 결혼식에 참석해 축가를 불렀다.\n그는 당시 마스크를 착용하고 있었다고 한다.\n아이유는 임창정의 앞 순서로 축가를 불렀다.\n아이유 외에 뮤지컬 배우 손준호와 카이도 해당 결혼식에 참석해 축가를 불렀다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 임창정이 백신 미접종 상태에서 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받으면서 가요계에 비상이 걸린 가운데, 아이유는 선제적으로 코로나 검사를 받기로 했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아이유 소속사 EDAM엔터테인먼트는 10일 아이유가 임창정과 동선이 겹치진 않았으나 함께 방문한 매니저 등 스태프들과 함께 코로나19 검사를 받을 예정이라고 밝혔다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "EDAM엔터 측은 검사 결과가 나오는 대로 공지한다는 방침이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "임창정은 지난 9일 코로나19 확진 판정을 받고 활동을 중단했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "임창정은 전날 서울 강남구 역삼동 한 웨딩홀에서 진행된 가수 이지훈 부부의 비공개 결혼식에 참석해 축가를 불렀다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 당시 마스크를 착용하고 있었다고 한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아이유는 임창정의 앞 순서로 축가를 불렀다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아이유 외에 뮤지컬 배우 손준호와 카이도 해당 결혼식에 참석해 축가를 불렀다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "임창정, '이것' 안 하고 축가 불러 '논란'... 가요계 비상사태",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

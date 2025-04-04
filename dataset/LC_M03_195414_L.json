@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195414",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[라이프 트렌드] 강남 가까운 성남 금토동, 개발호재로 들썩",
+    "newsSubTitle": "판교 제3테크노밸리 예정지",
+    "newsContent": "요즘 수도권 부동산 시장에서 경기도 성남시 판교 일대가 들썩이고 있다.\n판교테크노밸리 인근에 제2·3 판교테크노밸리가 조성되기 때문이다.\n그중에서도 제3판교테크노밸리가 들어서는 수정구 금토지구가 금싸라기 땅으로 주목받고 있다.\n경기도는 지난해 11월 금토동 일원 58만3581㎡ 부지가 포함된 지역에 2022년까지 제3판교테크노밸리를 조성한다고 발표했다.\n판교테크노밸리의 북쪽 43만㎡ 부지에 조성되는 판교 제2·3 테크노밸리는 2022년까지 단계적으로 만들어진다.\n제3판교테크노밸리가 완성되면 판교 일대에 2500여 개의 기업이 입주해 3만7000여 명의 고용 창출이 예상된다.\n게다가 금토동 일대는 지난해 11월 정부가 발표한 ‘주거복지 로드맵’에 포함된 지역이다.\n그린벨트를 해제해 개발되는 공공택지에는 사회 초년생과 신혼부부 무주택자를 위한 맞춤형 공공주택 등 3400가구가 조성될 예정이다.\n개발 호재가 잇따르고 있는 판교 제3테크노밸리 예정지 인근 금토동 그린벨트 지역 내에서 토지를 매각 중이다.\n부동산 대행사인 코래드컴은 금토동 토지(사진) 4만2307㎡ 중 1차분 30개 필지를 매각 중이며 마감이 임박했다.\n331㎡ 단위로 지주가 직접 매각하며 매매가는 3.3㎡당 80만원부터다.\n현장 답사 후 선착순으로 필지가 배정되며 잔금 납부와 동시에 소유권을 이전한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "요즘 수도권 부동산 시장에서 경기도 성남시 판교 일대가 들썩이고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "판교테크노밸리 인근에 제2·3 판교테크노밸리가 조성되기 때문이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그중에서도 제3판교테크노밸리가 들어서는 수정구 금토지구가 금싸라기 땅으로 주목받고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "경기도는 지난해 11월 금토동 일원 58만3581㎡ 부지가 포함된 지역에 2022년까지 제3판교테크노밸리를 조성한다고 발표했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "판교테크노밸리의 북쪽 43만㎡ 부지에 조성되는 판교 제2·3 테크노밸리는 2022년까지 단계적으로 만들어진다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "제3판교테크노밸리가 완성되면 판교 일대에 2500여 개의 기업이 입주해 3만7000여 명의 고용 창출이 예상된다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "게다가 금토동 일대는 지난해 11월 정부가 발표한 ‘주거복지 로드맵’에 포함된 지역이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그린벨트를 해제해 개발되는 공공택지에는 사회 초년생과 신혼부부 무주택자를 위한 맞춤형 공공주택 등 3400가구가 조성될 예정이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "개발 호재가 잇따르고 있는 판교 제3테크노밸리 예정지 인근 금토동 그린벨트 지역 내에서 토지를 매각 중이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "부동산 대행사인 코래드컴은 금토동 토지(사진) 4만2307㎡ 중 1차분 30개 필지를 매각 중이며 마감이 임박했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "331㎡ 단위로 지주가 직접 매각하며 매매가는 3.3㎡당 80만원부터다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "현장 답사 후 선착순으로 필지가 배정되며 잔금 납부와 동시에 소유권을 이전한다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "수도권 부동산 시장 개발호재에 들썩... 어디길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

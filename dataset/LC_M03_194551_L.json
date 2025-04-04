@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194551",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK꿈나무] 학 타고 구름 속으로 … 저승사자 막을 거예요",
+    "newsSubTitle": "",
+    "newsContent": "십장생을 찾아서 최향랑 글.그림 창비어린이 46쪽, 1만원 주인공은 할아버지와 둘도 없는 단짝이다.\n그러던 어느 날 할아버지는 병원에 입원한다.\n빈 방에서 잠든 소녀는 할아버지를 오래 살게하고 싶어서 십장생을 하나씩 모은다.\n반짇고리 안의 빨간 비단 주머니에서 솟구쳐나온 학의 등에 타고 모험을 시작한다.\n십장생 중 가장 오래된 해, 추운 겨울에도 푸른 소나무, 하늘의 비밀을 알고 있다는 사슴, 변치 않는 바위, 불로초, 수명이 긴 거북이, 생명의 원천인 물, 산과 구름. 소녀는 모두 열 개의 십장생을 모아 구름을 타고 할아버지의 병실에 간다.\n전통적인 소재를 최대한 활용해 이미지를 구현한 것도 흥미롭다.\n작가는 자개장에 붙어 있는 자개로 사슴을 만들고, 바위와 불로초 등의 이미지는 공단 천에 수를 놓아 표현했다.\n우리 전통의 문화와 사상, 삶과 죽음을 받아들이는 자세까지 생각하게 하는 잔잔한 그림책이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "십장생을 찾아서 최향랑 글.그림 창비어린이 46쪽, 1만원 주인공은 할아버지와 둘도 없는 단짝이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그러던 어느 날 할아버지는 병원에 입원한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "빈 방에서 잠든 소녀는 할아버지를 오래 살게하고 싶어서 십장생을 하나씩 모은다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "반짇고리 안의 빨간 비단 주머니에서 솟구쳐나온 학의 등에 타고 모험을 시작한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "십장생 중 가장 오래된 해, 추운 겨울에도 푸른 소나무, 하늘의 비밀을 알고 있다는 사슴, 변치 않는 바위, 불로초, 수명이 긴 거북이, 생명의 원천인 물, 산과 구름. 소녀는 모두 열 개의 십장생을 모아 구름을 타고 할아버지의 병실에 간다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전통적인 소재를 최대한 활용해 이미지를 구현한 것도 흥미롭다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "작가는 자개장에 붙어 있는 자개로 사슴을 만들고, 바위와 불로초 등의 이미지는 공단 천에 수를 놓아 표현했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "우리 전통의 문화와 사상, 삶과 죽음을 받아들이는 자세까지 생각하게 하는 잔잔한 그림책이다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "병든 할아버지 위해 십장생을 찾아 떠난 소녀의 모험... 결과는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

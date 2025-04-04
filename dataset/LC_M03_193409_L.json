@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193409",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[살림UP] 공짜 건강·요리 정보 ? 식품회사 사외보 강추",
+    "newsSubTitle": "",
+    "newsContent": "건강.요리.맛집 등에 대한 정보를 쉽게, 무료로 얻을 수 있는 방법이 있다.\n식품회사 '사외보'다.\n우편으로 받아볼 수 있어 더욱 편하다.\nCJ의 '생활 속의 이야기'(www.cjstory.com)는 식품이나 식재료에 대한 기사뿐 아니라 재미있는 삶의 이야기, 교훈을 주는 이야기 등 읽을거리도 많아 알차기로 정평이 난 사외보. 구독 신청은 인터넷으로 받는다.\n풀무원의 '자연을 담는 큰 그릇'(webzine.pulmuone.co.kr)은 웰빙.로하스.슬로푸드 등에 초점을 맞춘 친환경 잡지.\n과자와 햄 등에 만연한 식품 첨가물과 유해물질 등 현대 식품의 문제점을 하나하나 짚어주고 있다.\n대상의 '기분좋은 만남'(www.daesang.co.kr/fun/main.htm)은 톡톡 튀는 기획기사, 부부칼럼, 봉사하는 삶 소개 등을 함께 실어 재미를 더했다.\n식품회사 사외보는 아니지만 대한주택공사(031-738-3044)의 '우리집', 국민체육공단(02-4101-537)의 '국민체육21'도 내실있는 정보와 글로 쏠쏠한 재미를 준다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "건강.요리.맛집 등에 대한 정보를 쉽게, 무료로 얻을 수 있는 방법이 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "식품회사 '사외보'다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "우편으로 받아볼 수 있어 더욱 편하다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "CJ의 '생활 속의 이야기'(www.cjstory.com)는 식품이나 식재료에 대한 기사뿐 아니라 재미있는 삶의 이야기, 교훈을 주는 이야기 등 읽을거리도 많아 알차기로 정평이 난 사외보. 구독 신청은 인터넷으로 받는다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "풀무원의 '자연을 담는 큰 그릇'(webzine.pulmuone.co.kr)은 웰빙.로하스.슬로푸드 등에 초점을 맞춘 친환경 잡지.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "과자와 햄 등에 만연한 식품 첨가물과 유해물질 등 현대 식품의 문제점을 하나하나 짚어주고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "대상의 '기분좋은 만남'(www.daesang.co.kr/fun/main.htm)은 톡톡 튀는 기획기사, 부부칼럼, 봉사하는 삶 소개 등을 함께 실어 재미를 더했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "식품회사 사외보는 아니지만 대한주택공사(031-738-3044)의 '우리집', 국민체육공단(02-4101-537)의 '국민체육21'도 내실있는 정보와 글로 쏠쏠한 재미를 준다.",
+        "sentenceSize": 98
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "건강, 요리, 맛집 정보 필요하다면... 식품회사 사외보 '아묻따' 구독",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

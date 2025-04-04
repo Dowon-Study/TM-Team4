@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195458",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[더,오래] 배인구의 이상가족(22) 폭력남편과 이혼이냐, 아이 양육비냐",
+    "newsSubTitle": "성인자녀 양육비 지원은 의무 아냐 생활필요비 청구 가능..유학비용은 해당 안돼",
+    "newsContent": "저는 이혼을 앞둔 엄마입니다.\n남편은 저에게 폭력을 행사합니다.\n아이가 없었다면 벌써 남편과 이혼했을 거예요.\n아이 교육비가 걱정돼 어떻게든 아이에게 의지하며 남편의 폭력을 참아보려 했지만, 도저히 견딜 수 없어 용기 내 이혼을 결심했습니다.\n다행히 지금 고등학생인 아이는 부모의 다툼과 갈등 속에서도 올곧게 자라주었고, 무엇보다 공부를 열심히 했습니다.\n아이는 어쩌면 부모의 갈등을 피해서 공부로 숨었는지도 모르겠습니다.\n아이는 대학 공부에 이어 외국 유학도 나가고 싶어 합니다.\n아이의 장래를 봤을 때 아이가 아빠와 사는 게 나은 것 아닌가 생각하니 아이에게 미안하고, 나 살자고 이혼을 하는 것 같아 마음이 아픕니다.\n만약 이혼 후 제가 아이를 키운다면 과연 어느 정도까지 양육비를 지원받을 수 있을까요.\n배인구 변호사가 답합니다힘든 결정을 하셨습니다.\n이혼이 정답이 아닐 수도 있지만, 사례자께서 참고 희생하는 것을 자녀 역시 바라지는 않을 것입니다.\n양육자지정과 관련해서는 자녀의 의견도 매우 중요합니다.\n우리나라 부모는 대부분 자녀를 대학교 졸업할 때까지는 양육해야 한다고 생각합니다.\n공부하겠다는 자녀에게는 어떤 희생을 감수하더라도 지원해줘야 한다고 말이죠.\n그런데 민법은 다르게 판단합니다.\n미성년 자녀를 양육하는 경우에는 부모가 있는 힘을 다해 키워야 하지만, 성년이 된 자녀에게는 부모가 자신의 생활 수준을 유지하면서 여유가 있으면 자녀를 지원하도록 정하고 있습니다.\n아이가 미성년자인 경우에는 아빠의 자력에 상응한 상당한 양육비를 받을 수 있겠지만, 성년이 되면 부모의 양육비 지급의무는 소멸하고 법에 따라 자력이 있는 부모에게 부양료를 청구할 수 있습니다.\n대법원은 최근 판결에서 객관적으로 성년자녀의 생활비 수요가 자기의 자력 또는 근로로 충당할 수 없는 곤궁한 상태인 경우에 한해 부모를 상대로 그 부모가 부양할 수 있을 한도 내에서 생활부조로서 생활필요비에 해당하는 부양료를 청구할 수 있다고 했습니다.\n단 특별한 사정이 없는 한 통상적인 생활필요비라고 보기 어려운 유학비용을 부모에게 구할 수는 없다고 판결했습니다(대법원 2017. 8. 25.자 2017스5 결정). 따라서 아이를 위해서라도 조정으로 원만하게 이혼하는 것이 좋을 것 같습니다.\n보통 조정과정에서는 성년이 되었어도 부모로서 충분히 지원할 수 있는 방법을 모색하고 조정조항으로 명시할 수 있답니다.\n참고가 되었으면 좋겠네요.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "저는 이혼을 앞둔 엄마입니다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "남편은 저에게 폭력을 행사합니다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아이가 없었다면 벌써 남편과 이혼했을 거예요.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아이 교육비가 걱정돼 어떻게든 아이에게 의지하며 남편의 폭력을 참아보려 했지만, 도저히 견딜 수 없어 용기 내 이혼을 결심했습니다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다행히 지금 고등학생인 아이는 부모의 다툼과 갈등 속에서도 올곧게 자라주었고, 무엇보다 공부를 열심히 했습니다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아이는 어쩌면 부모의 갈등을 피해서 공부로 숨었는지도 모르겠습니다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아이는 대학 공부에 이어 외국 유학도 나가고 싶어 합니다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아이의 장래를 봤을 때 아이가 아빠와 사는 게 나은 것 아닌가 생각하니 아이에게 미안하고, 나 살자고 이혼을 하는 것 같아 마음이 아픕니다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "만약 이혼 후 제가 아이를 키운다면 과연 어느 정도까지 양육비를 지원받을 수 있을까요.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "배인구 변호사가 답합니다힘든 결정을 하셨습니다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이혼이 정답이 아닐 수도 있지만, 사례자께서 참고 희생하는 것을 자녀 역시 바라지는 않을 것입니다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "양육자지정과 관련해서는 자녀의 의견도 매우 중요합니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "우리나라 부모는 대부분 자녀를 대학교 졸업할 때까지는 양육해야 한다고 생각합니다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "공부하겠다는 자녀에게는 어떤 희생을 감수하더라도 지원해줘야 한다고 말이죠.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "그런데 민법은 다르게 판단합니다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "미성년 자녀를 양육하는 경우에는 부모가 있는 힘을 다해 키워야 하지만, 성년이 된 자녀에게는 부모가 자신의 생활 수준을 유지하면서 여유가 있으면 자녀를 지원하도록 정하고 있습니다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "아이가 미성년자인 경우에는 아빠의 자력에 상응한 상당한 양육비를 받을 수 있겠지만, 성년이 되면 부모의 양육비 지급의무는 소멸하고 법에 따라 자력이 있는 부모에게 부양료를 청구할 수 있습니다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "대법원은 최근 판결에서 객관적으로 성년자녀의 생활비 수요가 자기의 자력 또는 근로로 충당할 수 없는 곤궁한 상태인 경우에 한해 부모를 상대로 그 부모가 부양할 수 있을 한도 내에서 생활부조로서 생활필요비에 해당하는 부양료를 청구할 수 있다고 했습니다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "단 특별한 사정이 없는 한 통상적인 생활필요비라고 보기 어려운 유학비용을 부모에게 구할 수는 없다고 판결했습니다(대법원 2017. 8. 25.자 2017스5 결정). 따라서 아이를 위해서라도 조정으로 원만하게 이혼하는 것이 좋을 것 같습니다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "보통 조정과정에서는 성년이 되었어도 부모로서 충분히 지원할 수 있는 방법을 모색하고 조정조항으로 명시할 수 있답니다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "참고가 되었으면 좋겠네요.",
+        "sentenceSize": 14
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "민법이 판단하는 성년 자녀의 양육비 지원 청구범위는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

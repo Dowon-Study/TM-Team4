@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198417",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "경영의 귀재들 무엇이 다른가",
+    "newsSubTitle": "'한권으로 읽는 비지니스 세계의 거장들'",
+    "newsContent": "효과적으로 요약된 경영의 거장들에 관한 낱권 단행본이 『한권으로 읽는 비지니스 세계의 거장들』이다.\n기왕에 나온 이들에 관한 적지않은 책들과 또 다르게 올 컬러에 잘 요약된 정보가 돋보이는 편집이다.\n책은 각기 1백여쪽 분량이라서 독자들에게 부담감을 주지 않으면서도, 하드커버를 씌워 고품위한 분위기를 연출했다.\n경영학을 학문의 위치로 자리매김한 지난 세기 경영철학의 대부 피터 드러커, 투자의 귀재 워렌 버펫, 매킨지 컨설팅 출신의 경영혁명가 톰 피터스, 천하의 빌 게이츠가 각권으로 정리돼 있다.\n짧은 일대기, 핵심 경영철학 정보, 우리 시스템에서 적용할 수 있는 방법에 대한 조언들이 담겨있다.\n저자 헬러는 영국의 경영지 '매니지먼트 투데이' 의 베테랑이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "효과적으로 요약된 경영의 거장들에 관한 낱권 단행본이 『한권으로 읽는 비지니스 세계의 거장들』이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "기왕에 나온 이들에 관한 적지않은 책들과 또 다르게 올 컬러에 잘 요약된 정보가 돋보이는 편집이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "책은 각기 1백여쪽 분량이라서 독자들에게 부담감을 주지 않으면서도, 하드커버를 씌워 고품위한 분위기를 연출했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "경영학을 학문의 위치로 자리매김한 지난 세기 경영철학의 대부 피터 드러커, 투자의 귀재 워렌 버펫, 매킨지 컨설팅 출신의 경영혁명가 톰 피터스, 천하의 빌 게이츠가 각권으로 정리돼 있다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "짧은 일대기, 핵심 경영철학 정보, 우리 시스템에서 적용할 수 있는 방법에 대한 조언들이 담겨있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "저자 헬러는 영국의 경영지 '매니지먼트 투데이' 의 베테랑이다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "경영 거장들의 비법 전수... '이 책' 한 권이면 가능?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

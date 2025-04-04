@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194256",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[이달의웰빙제품] 순환장애 치료제 ‘타나민’",
+    "newsSubTitle": "",
+    "newsContent": "독일 슈바베가 개발해 연간 1억2000만 정 이상 팔리고 있는 ‘타나민’(사진)을 이달의 웰빙 제품으로 소개한다.\n타나민은 특허 추출물질인 EGb761로 만든 뇌 및 말초순환개선제다. 치매성 증상을 가지고 있거나 기억력감퇴, 집중력장애, 어지러움, 귀울림, 말초동맥 순환장애가 있는 사람들이 대상이다.\n타나민은 1000여 편의 국내외 임상논문에서 효능이 증명된 31종의 약효성분으로 구성됐으며, 27단계 특허추출공정을 거치면서 26종의 유해물질을 제거해 과학적인 효능과 안전성을 입증했다.\n독일·프랑스에선 6~8년간 지속적으로 의약품 판매 1위를 기록하기도 했다.\n특히 세계적인 임상 논문집 JAMA(1997년)에서도 알츠하이머 및 혈관성 치매에서의 타나민의 임상효과를 게재했다.\n국내에선 1993년부터 유유제약이 판매하고 있으며, 최근 일반약으로 분류돼 약국에서 살수 있다.\n소비자용 40mg, 80mg 제품이 각각 나와 있다.\n최근 ㈜한국리서치와 한국경제에서 주관하는 ‘2008년 소비자 대상’을 수상했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "독일 슈바베가 개발해 연간 1억2000만 정 이상 팔리고 있는 ‘타나민’(사진)을 이달의 웰빙 제품으로 소개한다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "타나민은 특허 추출물질인 EGb761로 만든 뇌 및 말초순환개선제다. 치매성 증상을 가지고 있거나 기억력감퇴, 집중력장애, 어지러움, 귀울림, 말초동맥 순환장애가 있는 사람들이 대상이다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "타나민은 1000여 편의 국내외 임상논문에서 효능이 증명된 31종의 약효성분으로 구성됐으며, 27단계 특허추출공정을 거치면서 26종의 유해물질을 제거해 과학적인 효능과 안전성을 입증했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "독일·프랑스에선 6~8년간 지속적으로 의약품 판매 1위를 기록하기도 했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 세계적인 임상 논문집 JAMA(1997년)에서도 알츠하이머 및 혈관성 치매에서의 타나민의 임상효과를 게재했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "국내에선 1993년부터 유유제약이 판매하고 있으며, 최근 일반약으로 분류돼 약국에서 살수 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "소비자용 40mg, 80mg 제품이 각각 나와 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최근 ㈜한국리서치와 한국경제에서 주관하는 ‘2008년 소비자 대상’을 수상했다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "독일 슈바베가 개발한 이달의 웰빙 제품은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

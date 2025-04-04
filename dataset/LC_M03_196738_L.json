@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196738",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "간편하게 착…발·다리 피로회복 패치 ‘휴족휴면’ 출시",
+    "newsSubTitle": "",
+    "newsContent": "일본제약회사인 라쿠르제약에서 제조한 발 다리 피로회복패치 ‘휴족휴면’이 최근 올리브영에서 출시됐다.\n기존의 파스형태의 재질에 하이드로겔이 접목되어 발과 다리가 피곤한 사람들에게 간편하게 붙이고 잘 수 있는 제품이다.\n휴족휴면은 기존 자사제품의 허브성분과는 다르게 포도잎 추출물의 주성분인 폴리페놀을 기반으로 하여 발과 다리에 쌓인 피로를 완화시키고 혈액순환을 촉진시켜 마치 다리에 마사지 받은 것과 비슷한 효과를 느낄 수 있는 것이 특징이다.\n특히, 포도잎 추출물의 폴리페놀의 효과는 오래 전부터 유럽에서 포도를 재배하는 사람들이 다리의 부종 및 통증 제거를 위해 포도잎을 으깨어 습포제 형태로 다리에 붙여 사용한 것으로 전해진다.\n이러한 사실은 유럽뿐만이 아니라 중국의 약방과 약재를 집대성한 고서인 \\\"중화본초\\\"에서도 찾아볼 수 있다고 회사측은 전했다.\n또한 자작나무추출물과 위치하젤은 해열 해독의 효능도 지니고 있어서 피부에 좋은 효과가 있는 것으로 알려져 있다.\n한국에서는 비교적 오래 서서 일하고 장시간 앉아서 근무하는 20-30대 직장인들을 위주로 선풍적인 인기를 끌고 있으며, 최근 따뜻한 봄날이 다가옴에 따라 등산 및 마라톤 등 레저활동을 하는 층에서도 관심과 인기를 한 몸에 받고 있다.\n회사 관계자는 “최근 유명 아웃도어 브랜드에서도 러브콜을 받고 있으며 마라톤 동호회 등 각종단체에서도 문의가 늘고 있다”고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일본제약회사인 라쿠르제약에서 제조한 발 다리 피로회복패치 ‘휴족휴면’이 최근 올리브영에서 출시됐다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "기존의 파스형태의 재질에 하이드로겔이 접목되어 발과 다리가 피곤한 사람들에게 간편하게 붙이고 잘 수 있는 제품이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "휴족휴면은 기존 자사제품의 허브성분과는 다르게 포도잎 추출물의 주성분인 폴리페놀을 기반으로 하여 발과 다리에 쌓인 피로를 완화시키고 혈액순환을 촉진시켜 마치 다리에 마사지 받은 것과 비슷한 효과를 느낄 수 있는 것이 특징이다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히, 포도잎 추출물의 폴리페놀의 효과는 오래 전부터 유럽에서 포도를 재배하는 사람들이 다리의 부종 및 통증 제거를 위해 포도잎을 으깨어 습포제 형태로 다리에 붙여 사용한 것으로 전해진다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이러한 사실은 유럽뿐만이 아니라 중국의 약방과 약재를 집대성한 고서인 \\\"중화본초\\\"에서도 찾아볼 수 있다고 회사측은 전했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 자작나무추출물과 위치하젤은 해열 해독의 효능도 지니고 있어서 피부에 좋은 효과가 있는 것으로 알려져 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한국에서는 비교적 오래 서서 일하고 장시간 앉아서 근무하는 20-30대 직장인들을 위주로 선풍적인 인기를 끌고 있으며, 최근 따뜻한 봄날이 다가옴에 따라 등산 및 마라톤 등 레저활동을 하는 층에서도 관심과 인기를 한 몸에 받고 있다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "회사 관계자는 “최근 유명 아웃도어 브랜드에서도 러브콜을 받고 있으며 마라톤 동호회 등 각종단체에서도 문의가 늘고 있다”고 밝혔다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국내 올리브영에서도 만날 수 있는 다리 피로 해소 끝판왕!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

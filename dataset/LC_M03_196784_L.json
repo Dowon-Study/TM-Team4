@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196784",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "펫슬랩, 반려동물 통합 앱 공식 론칭",
+    "newsSubTitle": "관심사 공유, 정보 수집 간편해. 안드로이드와 iOS 출시",
+    "newsContent": "반려동물 100만 마리 시대. 동물은 인간과 교감하며 정신과 신체에 큰 영향을 미친다.\n반려동물의 건강을 주의깊게 살펴야 하는 이유다.\n반려동물 헬스케어 시장도 갈수록 커지고 있다.\n반려동물을 키우는데 필요한 지식, 친구, 장소, 제품 등의 정보를 사람들이 쉽게 사용할 수 있도록 스마트폰으로 제공하는 반려동물 통합 플랫폼이 대표적이다.\n20일 출시된 펫슬랩(사진)도 그 중 하나다.\n반려동물과 관련된 정보와 콘텐츠를 제공하는 통합 플랫폼으로 안드로이드와 iOS 버전을 동시 지원한다.\n펫슬랩은 내가 팔로워하고 있는 사람의 정보를 모아보는 ‘홈’, 반려동물 전문 정보를 보여주는 ‘랩’, ‘그룹’, ‘카메라’ 등의 기능이 담겼다.\n메인 홈에서는 내 반려동물 사진을 올리고, 내가 팔로워한 친구의 소식과 미리 설정한 관심 노트들만 골라서 간편하게 볼 수 있다.\n랩 탭은 ▲스토리 ▲뉴스 ▲노하우 ▲가이드 등 반려동물을 키울 때 필요한 정보성 콘텐츠를 보여준다.\n관심사가 비슷한 사람이 모여 다양한 온·오프활동을 할 수 있는 그룹 페이지도 있다.\n특히 반려동물 전용 카메라는 셔터음이 다양한 개 짖는 소리로 되어있고, 나만의 소리를 직접 녹음 할 수 있어 반려동물의 매 순간을 카메라에 쉽게 담을 수 있도록 제작했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "반려동물 100만 마리 시대. 동물은 인간과 교감하며 정신과 신체에 큰 영향을 미친다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "반려동물의 건강을 주의깊게 살펴야 하는 이유다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "반려동물 헬스케어 시장도 갈수록 커지고 있다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "반려동물을 키우는데 필요한 지식, 친구, 장소, 제품 등의 정보를 사람들이 쉽게 사용할 수 있도록 스마트폰으로 제공하는 반려동물 통합 플랫폼이 대표적이다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "20일 출시된 펫슬랩(사진)도 그 중 하나다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "반려동물과 관련된 정보와 콘텐츠를 제공하는 통합 플랫폼으로 안드로이드와 iOS 버전을 동시 지원한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "펫슬랩은 내가 팔로워하고 있는 사람의 정보를 모아보는 ‘홈’, 반려동물 전문 정보를 보여주는 ‘랩’, ‘그룹’, ‘카메라’ 등의 기능이 담겼다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "메인 홈에서는 내 반려동물 사진을 올리고, 내가 팔로워한 친구의 소식과 미리 설정한 관심 노트들만 골라서 간편하게 볼 수 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "랩 탭은 ▲스토리 ▲뉴스 ▲노하우 ▲가이드 등 반려동물을 키울 때 필요한 정보성 콘텐츠를 보여준다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "관심사가 비슷한 사람이 모여 다양한 온·오프활동을 할 수 있는 그룹 페이지도 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "특히 반려동물 전용 카메라는 셔터음이 다양한 개 짖는 소리로 되어있고, 나만의 소리를 직접 녹음 할 수 있어 반려동물의 매 순간을 카메라에 쉽게 담을 수 있도록 제작했다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "반려동물 100만 마리 시대, 반려동물의 모든 것 담은 '펫슬랩' 출시",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

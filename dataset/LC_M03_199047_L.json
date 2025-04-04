@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199047",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "뇌 세포에 당 많으면 인지기능 떨어진다",
+    "newsSubTitle": "",
+    "newsContent": "세포의 영양 상태가 뇌 인지기능에 영향을 준다는 것이 밝혀졌다.\n한국과학기술연구원(KIST) 뇌과학연구소 임혜원 박사는 울산과학기술원(UNIST) 서판길 교수와의 공동연구를 통해 뇌 단백질에 붙는 당 분자인 ‘오글루넥’이 과하게 붙으면 인지기능이 떨어진다는 것을 확인했다고 6일 밝혔다. '오글루넥 당화'는 단백질에 오글루넥이 붙는 과정을 말한다.\n그동안 오글루넥 당화는 세포분열과 증식에 중요한 역할을 한다고 알려져 왔다.\n연구진은 유전자 변형을 통해 오글루넥 당화를 인위적으로 증가시킨 실험 쥐가 새로운 정보를 학습하는 데 더 오랜 시간이 걸렸으며, 학습 정보의 정확성도 떨어졌다는 것을 확인했다.\n연구진은 “오글루넥 당화는 몸속 포도당 농도에 따라 민감하게 조절된다\\\"며 \\\"영양 상태가 인지기능에 영향을 줄 수 있음을 시사한다”고 설명했다.\nKIST 임혜원 박사는 “노화 및 당뇨에서 흔히 발생하는 비정상적인 단백질 당화와 인지기능 저하 사이의 상관관계에 대해 추가 연구할 계획”이라고 말했다.\n이번 연구는 미래창조과학부 바이오의료기술, 뇌과학원천기술개발사업, KIST 기관고유사업의 지원으로 수행했으며 연구결과는 온라인 학술지 ‘사이언티픽 리포트’ 4월 3일 자에 실렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세포의 영양 상태가 뇌 인지기능에 영향을 준다는 것이 밝혀졌다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국과학기술연구원(KIST) 뇌과학연구소 임혜원 박사는 울산과학기술원(UNIST) 서판길 교수와의 공동연구를 통해 뇌 단백질에 붙는 당 분자인 ‘오글루넥’이 과하게 붙으면 인지기능이 떨어진다는 것을 확인했다고 6일 밝혔다. '오글루넥 당화'는 단백질에 오글루넥이 붙는 과정을 말한다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그동안 오글루넥 당화는 세포분열과 증식에 중요한 역할을 한다고 알려져 왔다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연구진은 유전자 변형을 통해 오글루넥 당화를 인위적으로 증가시킨 실험 쥐가 새로운 정보를 학습하는 데 더 오랜 시간이 걸렸으며, 학습 정보의 정확성도 떨어졌다는 것을 확인했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연구진은 “오글루넥 당화는 몸속 포도당 농도에 따라 민감하게 조절된다\\\"며 \\\"영양 상태가 인지기능에 영향을 줄 수 있음을 시사한다”고 설명했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "KIST 임혜원 박사는 “노화 및 당뇨에서 흔히 발생하는 비정상적인 단백질 당화와 인지기능 저하 사이의 상관관계에 대해 추가 연구할 계획”이라고 말했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번 연구는 미래창조과학부 바이오의료기술, 뇌과학원천기술개발사업, KIST 기관고유사업의 지원으로 수행했으며 연구결과는 온라인 학술지 ‘사이언티픽 리포트’ 4월 3일 자에 실렸다.",
+        "sentenceSize": 100
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "단백질에 당이 붙는 '이 현상'... 뇌 인지기능에도 영향",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

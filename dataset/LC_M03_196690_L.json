@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196690",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[江南人流] JTBC 팬텀싱어 24명이 벌이는 음악축제",
+    "newsSubTitle": "",
+    "newsContent": "완연한 봄, 뮤직페스티벌 시즌이 시작됐다.\n이번주 서울재즈페스티벌을 시작으로 다양한 장르의 야외 페스티벌이 차례를 기다리고 있다.\n그 중 올해 처음 열리는 색다른 음악 축제가 눈에 띈다.\n정통 성악부터 팝·록·뮤지컬 등 다양한 장르의 크로스오버 공연을 탁 트인 야외 잔디밭에서 14시간 동안 즐길 수 있는 ‘팬텀싱어 페스티벌’이다.\nJTBC 보컬 오디션 프로그램 ‘팬텀싱어’ 시즌 1·2의 출연자들이 꾸미는 음악축제로 오는 6월 9~10일 양일간 서울 올림픽공원 내 88잔디마당에서 열린다.\n지난 8일 공개된 타임테이블에 따르면 방송에서 화제를 모은 팬텀싱어 총 24명이 무대에 오르며, 시즌 1·2 팬텀싱어의 합동무대까지 준비된다.\n페스티벌 첫날은 시즌1과 2에 나란히 출연한 베이스 바리톤 박상돈·박상규 형제의 듀엣 무대로 문을 연다. 이어 마성의 테너 조민웅, 록과 성악의 하모니를 보여줄 이동신·곽동현, 시즌2 우승팀 ‘포레스텔라’의 유닛 무대로 이어진다.\n이후 정통 성악가와 베테랑 뮤지컬 배우로 구성된 ‘에델라인클랑’, 시즌2 준우승팀 ‘미라클라스’, 시즌1 우승팀 ‘포르테디콰트로’까지 강렬한 4중창 무대가 연달아 무대에 오른다.\n둘째날 오프닝은 ‘흑소테너’ 이동신이 맡았다.\n이어 성악가 안세권·김동현, 뮤지컬 배우 이충주·박강현, 이정수·임정모·정필립·강형호로 구성된 ‘라일락’, 1년 만에 완전체로 관객과 만나는 시즌1 준우승팀 ‘인기현상’ 등의 반가운 무대가 이어진다.\n클라이막스는 시즌2 우승팀 포레스텔라가 장식한다.\n양일간 페스티벌의 마지막에는 시즌1·2의 싱어들이 모두 함께하는 ‘팬텀싱어 특별무대’가 펼쳐진다.\n팬텀싱어 팬들의 오랜 염원이 이뤄지는 순간이다.\n어떤 곡을 함께 부를지는 아직 공개되지 않았다.\n하루에 7시간씩 펼쳐지는 국내 최초의 크로스오버 음악 축제인 만큼 관람객 또한 한결 자유롭게 공연을 즐길 수 있다.\n지정좌석 없이 잔디밭에서 휴대한 개인 돗자리를 깔고 주변에 설치된 15개의 푸드 트럭에서 음식과 음료를 마시며 공연을 즐길 수 있다.\n공연은 오후 3시부터 밤 10시까지 진행되며 1일권(9만9000원), 2일권(17만6000원)을 구입하면 밴드형 팔찌가 주어지며 재입장도 가능하다. ‘팬텀싱어 페스티벌’ 티켓과 출연진 타임테이블은 인터파크를 통해 확인, 구매할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "완연한 봄, 뮤직페스티벌 시즌이 시작됐다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번주 서울재즈페스티벌을 시작으로 다양한 장르의 야외 페스티벌이 차례를 기다리고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 중 올해 처음 열리는 색다른 음악 축제가 눈에 띈다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정통 성악부터 팝·록·뮤지컬 등 다양한 장르의 크로스오버 공연을 탁 트인 야외 잔디밭에서 14시간 동안 즐길 수 있는 ‘팬텀싱어 페스티벌’이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "JTBC 보컬 오디션 프로그램 ‘팬텀싱어’ 시즌 1·2의 출연자들이 꾸미는 음악축제로 오는 6월 9~10일 양일간 서울 올림픽공원 내 88잔디마당에서 열린다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 8일 공개된 타임테이블에 따르면 방송에서 화제를 모은 팬텀싱어 총 24명이 무대에 오르며, 시즌 1·2 팬텀싱어의 합동무대까지 준비된다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "페스티벌 첫날은 시즌1과 2에 나란히 출연한 베이스 바리톤 박상돈·박상규 형제의 듀엣 무대로 문을 연다. 이어 마성의 테너 조민웅, 록과 성악의 하모니를 보여줄 이동신·곽동현, 시즌2 우승팀 ‘포레스텔라’의 유닛 무대로 이어진다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이후 정통 성악가와 베테랑 뮤지컬 배우로 구성된 ‘에델라인클랑’, 시즌2 준우승팀 ‘미라클라스’, 시즌1 우승팀 ‘포르테디콰트로’까지 강렬한 4중창 무대가 연달아 무대에 오른다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "둘째날 오프닝은 ‘흑소테너’ 이동신이 맡았다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이어 성악가 안세권·김동현, 뮤지컬 배우 이충주·박강현, 이정수·임정모·정필립·강형호로 구성된 ‘라일락’, 1년 만에 완전체로 관객과 만나는 시즌1 준우승팀 ‘인기현상’ 등의 반가운 무대가 이어진다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "클라이막스는 시즌2 우승팀 포레스텔라가 장식한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "양일간 페스티벌의 마지막에는 시즌1·2의 싱어들이 모두 함께하는 ‘팬텀싱어 특별무대’가 펼쳐진다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "팬텀싱어 팬들의 오랜 염원이 이뤄지는 순간이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "어떤 곡을 함께 부를지는 아직 공개되지 않았다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "하루에 7시간씩 펼쳐지는 국내 최초의 크로스오버 음악 축제인 만큼 관람객 또한 한결 자유롭게 공연을 즐길 수 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "지정좌석 없이 잔디밭에서 휴대한 개인 돗자리를 깔고 주변에 설치된 15개의 푸드 트럭에서 음식과 음료를 마시며 공연을 즐길 수 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "공연은 오후 3시부터 밤 10시까지 진행되며 1일권(9만9000원), 2일권(17만6000원)을 구입하면 밴드형 팔찌가 주어지며 재입장도 가능하다. ‘팬텀싱어 페스티벌’ 티켓과 출연진 타임테이블은 인터파크를 통해 확인, 구매할 수 있다.",
+        "sentenceSize": 132
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "JTBC가 배출한 세계적 가수 24명… 서울 올림픽공원서 등장한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193382",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[병원평가] 간암 수술 10명에 6명은 '빅5' 시술",
+    "newsSubTitle": "이름값하는 5대 병원",
+    "newsContent": "서울아산병원 이승규 교수는 1990년 개복(開腹)하지 않고 담낭을 절제하는 수술을 국내에서 처음으로 시술했다.\n이 교수는 \\\"미국에 가 수술하는 것을 보고 와서 '홈런 감'이라고 보고했더니 병원에서 두 달 만에 기계를 들여왔다\\\"고 말했다. '빅5' 병원은 이처럼 과감한 투자와 전문화된 의료 기술로 이름값을 톡톡히 하고 있다. '빅5'란 국립암센터, 삼성서울병원, 서울대병원, 서울아산병원, 연세대 세브란스병원(가나다순)을 말한다.\n◆ 5대 병원 이름값=간암 수술을 받는 환자 10명 중 6명(57%)은 이른바 '빅5' 병원에서 수술을 받는 것으로 나타났다.\n전체 간암 수술 건수는 1621건인데 이 중 924건을 5대 병원에서 하고 있는 것이다.\n2004년 5대 병원의 수술 점유율이 49.9%인 것과 비교하면 쏠림 현상이 더 심화됐다.\n이들 5개 대형 병원은 폐암 수술의 45%를 담당하고 있었다.\n유방암 수술 환자의 35%가 5개 병원에 몰렸다.\n위암.갑상선암.대장암도 다른 암보다는 덜했지만 30% 안팎의 수술이 이들 병원으로 집중됐다.\n시설과 인력 면에서 국가대표급 병원들이기도 하지만 암에 걸리면 일단 수도권 대형 병원부터 찾으려는 환자들이 그만큼 많다는 것이다.\n5대 병원 외 원자력병원은 위암.간암.폐암.유방암.갑상선암에서, 아주대병원은 위암.간암.폐암.유방암에서 상위 10위에 들었다.\n폐암의 경우 수술 건수가 많은 병원일수록 입원 일수가 짧은 특성을 보였다.\n5대 병원의 수술 건당 입원 일수는 14~19일이었다.\n그러나 이보다 수술 건수가 적은 6~30위 병원은 대부분 입원 일수가 20일을 넘었다.\n초대형 병원의 수술 기술이 한발 앞서 있기도 하지만 환자가 몰려 병실에 오래 머물기 어려운 점도 있다.\n◆ 지역 거점 병원=대구.경북 지역에선 경북대 병원과 영남대 병원으로 환자가 몰렸다.\n경북대병원은 위암.대장암.간암.폐암.갑상선암에서 상위 10위 내에 이름을 올렸다.\n영남대병원은 유방암.갑상선암.간암에서 수도권의 대형 병원과 어깨를 나란히 했다.\n부산.경남에선 부산대병원, 인제대 백병원, 동아대병원, 고신대병원 등이 치열한 환자 유치전을 벌이고 있는 것으로 나타났다.\n강원도와 대전.충청권 병원들은 암 수술 건수가 많지 않았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서울아산병원 이승규 교수는 1990년 개복(開腹)하지 않고 담낭을 절제하는 수술을 국내에서 처음으로 시술했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 교수는 \\\"미국에 가 수술하는 것을 보고 와서 '홈런 감'이라고 보고했더니 병원에서 두 달 만에 기계를 들여왔다\\\"고 말했다. '빅5' 병원은 이처럼 과감한 투자와 전문화된 의료 기술로 이름값을 톡톡히 하고 있다. '빅5'란 국립암센터, 삼성서울병원, 서울대병원, 서울아산병원, 연세대 세브란스병원(가나다순)을 말한다.",
+        "sentenceSize": 180
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "◆ 5대 병원 이름값=간암 수술을 받는 환자 10명 중 6명(57%)은 이른바 '빅5' 병원에서 수술을 받는 것으로 나타났다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전체 간암 수술 건수는 1621건인데 이 중 924건을 5대 병원에서 하고 있는 것이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2004년 5대 병원의 수술 점유율이 49.9%인 것과 비교하면 쏠림 현상이 더 심화됐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이들 5개 대형 병원은 폐암 수술의 45%를 담당하고 있었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유방암 수술 환자의 35%가 5개 병원에 몰렸다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "위암.갑상선암.대장암도 다른 암보다는 덜했지만 30% 안팎의 수술이 이들 병원으로 집중됐다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "시설과 인력 면에서 국가대표급 병원들이기도 하지만 암에 걸리면 일단 수도권 대형 병원부터 찾으려는 환자들이 그만큼 많다는 것이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "5대 병원 외 원자력병원은 위암.간암.폐암.유방암.갑상선암에서, 아주대병원은 위암.간암.폐암.유방암에서 상위 10위에 들었다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "폐암의 경우 수술 건수가 많은 병원일수록 입원 일수가 짧은 특성을 보였다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "5대 병원의 수술 건당 입원 일수는 14~19일이었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그러나 이보다 수술 건수가 적은 6~30위 병원은 대부분 입원 일수가 20일을 넘었다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "초대형 병원의 수술 기술이 한발 앞서 있기도 하지만 환자가 몰려 병실에 오래 머물기 어려운 점도 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "◆ 지역 거점 병원=대구.경북 지역에선 경북대 병원과 영남대 병원으로 환자가 몰렸다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "경북대병원은 위암.대장암.간암.폐암.갑상선암에서 상위 10위 내에 이름을 올렸다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "영남대병원은 유방암.갑상선암.간암에서 수도권의 대형 병원과 어깨를 나란히 했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "부산.경남에선 부산대병원, 인제대 백병원, 동아대병원, 고신대병원 등이 치열한 환자 유치전을 벌이고 있는 것으로 나타났다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "강원도와 대전.충청권 병원들은 암 수술 건수가 많지 않았다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "간암 수술의 '넘사벽' 병원 '빅5'… 10명 중 6명 수술 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

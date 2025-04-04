@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196129",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "'인기-비인기과' 의사 지원 격차 여전해",
+    "newsSubTitle": "내년도 레지던트 1년차 전기모집 지원율 102.8%, 인기-비인기 과 격차 커",
+    "newsContent": "2015년도 레지던트 1년차 전기모집 지원율이 102.8%를 기록했다.\n대한병원협회는 5일 '2015년도 레지던트 전기모집 지원접수 현황’자료를 통해 “총 정원 3301명 가운데 3393명이 지원, 102.8%의 지원율을 보였다”고 밝혔다.\n성형외과는 원정원 77명에 110명이 지원, 142.9%의 지원률을 보이며 가장 경쟁이 치열했다.\n피부과, 정신건강의학과, 정형외과, 영상의학과 등도 지원률이 100%를 훌쩍 넘겼다.\n반면 비뇨기과는 원 정원 85명에 고작 29명이 지원, 지원률이 34.1%를 기록하는 등 인기과와 기피과 사이의 격차가 줄지 않은 것으로 나타났다.\n지원률이 100%에 미달된 과는 ▶신경과(98.9%) ▶내과(92.2%) ▶가정의학과(90.7%) ▶진단검사의학과(83.7%) ▶핵의학과(69.6%) ▶병리과(60.9%) ▶방사선종양학과(60.0%) ▶외과(58.9%) ▶흉부외과(39.6%) ▶비뇨기과(34.1%) 등이다.\n전기·후기 및 추가모집에 걸쳐 진행되는 내년도 레지던트 1년차 전반기 전형은 병원(기관)별 원서교부 및 접수를 시작으로, 후기모집(19일부터 22일)과 추가모집(내년 1월 5일부터 6일까지)의 순서로 이뤄진다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2015년도 레지던트 1년차 전기모집 지원율이 102.8%를 기록했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "대한병원협회는 5일 '2015년도 레지던트 전기모집 지원접수 현황’자료를 통해 “총 정원 3301명 가운데 3393명이 지원, 102.8%의 지원율을 보였다”고 밝혔다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "성형외과는 원정원 77명에 110명이 지원, 142.9%의 지원률을 보이며 가장 경쟁이 치열했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "피부과, 정신건강의학과, 정형외과, 영상의학과 등도 지원률이 100%를 훌쩍 넘겼다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "반면 비뇨기과는 원 정원 85명에 고작 29명이 지원, 지원률이 34.1%를 기록하는 등 인기과와 기피과 사이의 격차가 줄지 않은 것으로 나타났다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지원률이 100%에 미달된 과는 ▶신경과(98.9%) ▶내과(92.2%) ▶가정의학과(90.7%) ▶진단검사의학과(83.7%) ▶핵의학과(69.6%) ▶병리과(60.9%) ▶방사선종양학과(60.0%) ▶외과(58.9%) ▶흉부외과(39.6%) ▶비뇨기과(34.1%) 등이다.",
+        "sentenceSize": 153
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "전기·후기 및 추가모집에 걸쳐 진행되는 내년도 레지던트 1년차 전반기 전형은 병원(기관)별 원서교부 및 접수를 시작으로, 후기모집(19일부터 22일)과 추가모집(내년 1월 5일부터 6일까지)의 순서로 이뤄진다.",
+        "sentenceSize": 117
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "레지던트 1년차들이 가장 많이 지원한 인기 과는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194809",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "식모살이 소녀 굴하지 않고 부·성공 쟁취",
+    "newsSubTitle": "",
+    "newsContent": "일곱 살 때 벌써 가난한 가족의 '먹을 입을 덜기 위해' 더부살이를 시작해야 했던 소녀. 그러나 총명함과 성실함, 그리고 집념으로 부(富) 를 쌓고 성공하는 오싱의 삶을 담은 대하드라마는 1980년대 초 일본 열도를 눈물 바다로 만들었다.\n우리나라에도 드라마와 소설(전 6권) 로 소개됐던 그 '오싱' 이 어린이를 위한 동화로 나왔다.\n신간 『어린이를 위한 오싱』(전 2권) 은 그래서 중.장년층 독자들이 더욱 반가워 할 만한 책이다. '식모' 라는 이름의 더부살이가 이미 사라져가고 있던 80년대에도 오싱의 삶은 젊은층에게까지 감동을 주었기 때문이다.\n그때보다 더욱 물질적으로 풍요로워진 요즘의 아이들에게도 그런 감동은 통할 것으로 보인다.\n1권 '더부살이편' 을 읽히며 도시락도 못 싸가는 주변의 아이들에 대해, 그리고 어떤 시련에도 꿋꿋하게 대처하는 삶의 자세에 대해 얘기해보면 어떨지. 8월쯤 나올 '홀로서기편' 은 성인용 2~4권을 중심으로 편집했다고 한다.\n어차피 일본에서도 드라마로 먼저 나와 시나리오로 출간된 것이었던 만큼 굳이 원작에 연연해 할 필요는 없을 듯 하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일곱 살 때 벌써 가난한 가족의 '먹을 입을 덜기 위해' 더부살이를 시작해야 했던 소녀. 그러나 총명함과 성실함, 그리고 집념으로 부(富) 를 쌓고 성공하는 오싱의 삶을 담은 대하드라마는 1980년대 초 일본 열도를 눈물 바다로 만들었다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우리나라에도 드라마와 소설(전 6권) 로 소개됐던 그 '오싱' 이 어린이를 위한 동화로 나왔다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신간 『어린이를 위한 오싱』(전 2권) 은 그래서 중.장년층 독자들이 더욱 반가워 할 만한 책이다. '식모' 라는 이름의 더부살이가 이미 사라져가고 있던 80년대에도 오싱의 삶은 젊은층에게까지 감동을 주었기 때문이다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그때보다 더욱 물질적으로 풍요로워진 요즘의 아이들에게도 그런 감동은 통할 것으로 보인다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "1권 '더부살이편' 을 읽히며 도시락도 못 싸가는 주변의 아이들에 대해, 그리고 어떤 시련에도 꿋꿋하게 대처하는 삶의 자세에 대해 얘기해보면 어떨지. 8월쯤 나올 '홀로서기편' 은 성인용 2~4권을 중심으로 편집했다고 한다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "어차피 일본에서도 드라마로 먼저 나와 시나리오로 출간된 것이었던 만큼 굳이 원작에 연연해 할 필요는 없을 듯 하다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가난했던 식모살이 소녀가 부와 성공을 쟁취한 이야기는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

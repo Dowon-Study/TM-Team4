@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194951",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[생활·실용] '차 한잔의 음악읽기'",
+    "newsSubTitle": "언어로 단장한 모차르트",
+    "newsContent": "차 한잔의 음악읽기 유혜자 지음, 선우미디어, 314쪽, 1만원 수필가 유혜자씨의 두 번째 음악 에세이집이다.\n후배에게서 “거꾸로 가는 시계를 차고 가시네요”라는 말을 들을 정도로 클래식 음악을 즐겨 듣는 저자가 음악과 수필의 행복한 만남을 시도했다.\n음악가의 생애, 작곡과 연주에 얽힌 이야기 등을 찾다 보면 삶과 세계에 대한 길이 새롭게 열린다는 것. 저자는 “빈곤한 언어가 아름다운 음악에 공연한 화장을 시키지 않았는지 걱정된다”고 겸손해하지만 책에 실린 60편의 글은 우리를 음악과 삶의 조화 속으로 자연스럽게 인도해준다.\n일례로 저자는 부딪치며 치솟았다가 허물어져 내리는 변화무쌍한 파도를 보며 서른다섯에 요절한 모차르트를 떠올린다.\n뒤집히는 물결 속에서 한 천재 예술가가 피우지 못한 열정과 사랑을 그리워하는 것이다.\n베토벤·슈베르트·슈만·헨델 등 뛰어난 음악가를 오늘의 상황과 견주어 읽어본다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "차 한잔의 음악읽기 유혜자 지음, 선우미디어, 314쪽, 1만원 수필가 유혜자씨의 두 번째 음악 에세이집이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "후배에게서 “거꾸로 가는 시계를 차고 가시네요”라는 말을 들을 정도로 클래식 음악을 즐겨 듣는 저자가 음악과 수필의 행복한 만남을 시도했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "음악가의 생애, 작곡과 연주에 얽힌 이야기 등을 찾다 보면 삶과 세계에 대한 길이 새롭게 열린다는 것. 저자는 “빈곤한 언어가 아름다운 음악에 공연한 화장을 시키지 않았는지 걱정된다”고 겸손해하지만 책에 실린 60편의 글은 우리를 음악과 삶의 조화 속으로 자연스럽게 인도해준다.",
+        "sentenceSize": 155
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "일례로 저자는 부딪치며 치솟았다가 허물어져 내리는 변화무쌍한 파도를 보며 서른다섯에 요절한 모차르트를 떠올린다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "뒤집히는 물결 속에서 한 천재 예술가가 피우지 못한 열정과 사랑을 그리워하는 것이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "베토벤·슈베르트·슈만·헨델 등 뛰어난 음악가를 오늘의 상황과 견주어 읽어본다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "클래식에 조예가 깊은 작가가 출간한 에세이집… 제목은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196728",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "유방암 재발 발견에는 방사선+MRI",
+    "newsSubTitle": "방사선 검사에 초음파·MRI 병행하면 발견율 82~100%",
+    "newsContent": "[김진구 기자] 유방암 치료는 크게 암 조직을 떼어 내는 절제술, 유방은 보존하면서 방사선으로 암 조직만 없애는 보존술로 나뉜다.\n예전에는 절제술로 치료하는 환자가 많았으나 최근에는 보존술 환자가 늘어나는 추세다.\n매년 유방암을 진단받는 환자는 2만 명 수준으로, 이 가운데 60%가 보존치료를 선택한다.\n보존치료 후에는 재발이나 2차 암이 있는지 판단하기 위해 방사선 촬영을 한다.\n방사선 촬영은 유방 보존치료 후 표준 검사법이다.\n그러나 50세 미만 여성은 유방 조직의 밀도가 높지 않아 검진이 어렵다는 단점이 있었다.\n수술과 방사선 치료 과정에서 조직이 변해 재발 또는 2차 암과 헷갈리기 쉽다는 것도 단점으로 꼽혔다.\n실제 국내에서 진행된 한 연구에 따르면 유방 보존치료 후 방사선 촬영만 진행했을 때 발견율은 53%에 불과했다.\n방사선 치료에 초음파 검사나 MRI 검사를 추가했을 땐 발견율이 크게 향상됐다.\n서울대병원 유방센터 문우경 교수팀은 국내 6개 병원(서울대병원·분당서울대병원·서울아산병원·삼성서울병원·세브란스병원·서울성모병원)에서 2010~2016년 보존수술을 받은 50세 이하 754명을 3년간 추적 관찰했다.\n환자들은 각각 방사선 촬영, 유방초음파, MRI로 검사했다.\n그 결과, 방사선 촬영만 진행했을 때 발견율은 53%에 그친 반면 초음파를 추가했을 땐 82%, MRI를 추가헀을 땐 100%까지 발견율이 높아졌다.\n발견된 암은 모두 0~1기 초기 암이었다.\n수술 후 정기검진 사이에 환자 스스로 촉진을 통해 암을 발견한 사례는 한 건도 없었다.\n미국에선 0.75%의 환자가 스스로 암을 발견한 것으로 보고된다.\n결국 초음파나 MRI를 추가하는 방법으로 거의 완전하게 재발과 2차 암을 찾아낸다는 것이다.\n문우경 교수는 “유방암 치료 성적이 향상되면서 유방암 생존자 수가 매년 증가해 2차 암 검진 가이드라인이 필요한 시점”이라며 “연구는 개별 환자의 재발 위험도에 따라 적절한 2차 암 검진 방법 선택에 중요 자료가 될 것”이라고 말했다.\n한편, 이 연구는 미국의사협회지 자마 온콜로지(JAMA Oncology) 온라인판 최근호에 발표됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 유방암 치료는 크게 암 조직을 떼어 내는 절제술, 유방은 보존하면서 방사선으로 암 조직만 없애는 보존술로 나뉜다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "예전에는 절제술로 치료하는 환자가 많았으나 최근에는 보존술 환자가 늘어나는 추세다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "매년 유방암을 진단받는 환자는 2만 명 수준으로, 이 가운데 60%가 보존치료를 선택한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보존치료 후에는 재발이나 2차 암이 있는지 판단하기 위해 방사선 촬영을 한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방사선 촬영은 유방 보존치료 후 표준 검사법이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 50세 미만 여성은 유방 조직의 밀도가 높지 않아 검진이 어렵다는 단점이 있었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "수술과 방사선 치료 과정에서 조직이 변해 재발 또는 2차 암과 헷갈리기 쉽다는 것도 단점으로 꼽혔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "실제 국내에서 진행된 한 연구에 따르면 유방 보존치료 후 방사선 촬영만 진행했을 때 발견율은 53%에 불과했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "방사선 치료에 초음파 검사나 MRI 검사를 추가했을 땐 발견율이 크게 향상됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "서울대병원 유방센터 문우경 교수팀은 국내 6개 병원(서울대병원·분당서울대병원·서울아산병원·삼성서울병원·세브란스병원·서울성모병원)에서 2010~2016년 보존수술을 받은 50세 이하 754명을 3년간 추적 관찰했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "환자들은 각각 방사선 촬영, 유방초음파, MRI로 검사했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그 결과, 방사선 촬영만 진행했을 때 발견율은 53%에 그친 반면 초음파를 추가했을 땐 82%, MRI를 추가헀을 땐 100%까지 발견율이 높아졌다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "발견된 암은 모두 0~1기 초기 암이었다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "수술 후 정기검진 사이에 환자 스스로 촉진을 통해 암을 발견한 사례는 한 건도 없었다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "미국에선 0.75%의 환자가 스스로 암을 발견한 것으로 보고된다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "결국 초음파나 MRI를 추가하는 방법으로 거의 완전하게 재발과 2차 암을 찾아낸다는 것이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "문우경 교수는 “유방암 치료 성적이 향상되면서 유방암 생존자 수가 매년 증가해 2차 암 검진 가이드라인이 필요한 시점”이라며 “연구는 개별 환자의 재발 위험도에 따라 적절한 2차 암 검진 방법 선택에 중요 자료가 될 것”이라고 말했다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "한편, 이 연구는 미국의사협회지 자마 온콜로지(JAMA Oncology) 온라인판 최근호에 발표됐다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유방암 치료 후 재발 방지가 중요... 방사선 촬영만으로는 절대 못 찾아",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

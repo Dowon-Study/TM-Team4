@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193669",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[의료계 소식] 일산 글로벌 라이프센터 착공 外",
+    "newsSubTitle": "",
+    "newsContent": "일산 글로벌 라이프센터 착공 차병원그룹이 지난 8일 국제여성병원인 ‘일산 글로벌 라이프센터’ 착공에 들어갔다.\n경기도 고양시 장항동에 들어서는 이 센터는 연면적 7만2725㎡, 지하 8층, 지상 13층 규모다.\n2019년 2월 완공될 예정이다.\n차병원그룹은 센터 건립을 통해 해외 의료 수요층을 국내에 유치하고 병원, 바이오 연구소, 제약사, 주거단지가 합쳐진 세계 최초의 바이오 시티를 만든다는 구상이다.\n내·외국인 환자 내원 차량 지원 강동경희대병원이 고급택시 서비스 업체 하이엔과 업무협약을 맺고 내·외국인 환자 차량 지원 서비스를 제공한다.\n국제진료서비스와 연계해 공항에서 병원까지 환자를 픽업하는 서비스다.\n배기량 2800cc 이상의 고급 차량에 영어·중국어·일본어 등 외국어가 가능한 기사가 배치된다.\n강동경희대병원은 국제환자 전용 센터·병동을 운영하고 있으며, 연 8000명 이상의 외국인 환자를 진료하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일산 글로벌 라이프센터 착공 차병원그룹이 지난 8일 국제여성병원인 ‘일산 글로벌 라이프센터’ 착공에 들어갔다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "경기도 고양시 장항동에 들어서는 이 센터는 연면적 7만2725㎡, 지하 8층, 지상 13층 규모다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "2019년 2월 완공될 예정이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "차병원그룹은 센터 건립을 통해 해외 의료 수요층을 국내에 유치하고 병원, 바이오 연구소, 제약사, 주거단지가 합쳐진 세계 최초의 바이오 시티를 만든다는 구상이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "내·외국인 환자 내원 차량 지원 강동경희대병원이 고급택시 서비스 업체 하이엔과 업무협약을 맺고 내·외국인 환자 차량 지원 서비스를 제공한다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "국제진료서비스와 연계해 공항에서 병원까지 환자를 픽업하는 서비스다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "배기량 2800cc 이상의 고급 차량에 영어·중국어·일본어 등 외국어가 가능한 기사가 배치된다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "강동경희대병원은 국제환자 전용 센터·병동을 운영하고 있으며, 연 8000명 이상의 외국인 환자를 진료하고 있다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이 정도면 '반박 불가' 최고이자 최초의 바이오시티, '일산 글로벌 라이프센터' 착공",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

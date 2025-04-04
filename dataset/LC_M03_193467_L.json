@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193467",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[문화계 소식] 창작지원 대상자 13명 선정",
+    "newsSubTitle": "",
+    "newsContent": "*** 창작지원 대상자 13명 선정 대산문화재단(이사장 신창재)은 올해 문학인 창작지원사업 대상자로 시 부문에 이대흠 씨 등 5개 장르 13명을 선정했다.\n또 한국문학 번역지원 대상작으로 영어권에서 이청준씨의 〈당신들의 천국〉등 4개어권 13건을 뽑았다.\n문학인 창작지원 대상자는 시 부문에 이대흠.김행숙.서연정.이희철씨 등 4명, 소설 부문에 김종광.박청호.신미경씨 등 3명, 희곡 부문에 김영학.김혁수씨 등 2명, 평론 부문에 최현식.진정석씨 등 2명, 아동문학 부문에 한동철.한명순씨 등2명이다.\n지원금은 소설 부문은 작가당 1천만원 씩이며 그외 부문은 700만원 씩이다.\n이경철 기자 *** 학부모 위한 국악강좌 열어 국립국악원과 사단법인 국악진흥회는 7~12일 학부모를 위한 국악강좌를 연다. 오전 9시~12시50분, 오후 1시30분~5시20분 등에 민요.장구 등을 가르친다.\n선착순 1백20명. 수강료 4만원. 02-580-3141.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "*** 창작지원 대상자 13명 선정 대산문화재단(이사장 신창재)은 올해 문학인 창작지원사업 대상자로 시 부문에 이대흠 씨 등 5개 장르 13명을 선정했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "또 한국문학 번역지원 대상작으로 영어권에서 이청준씨의 〈당신들의 천국〉등 4개어권 13건을 뽑았다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "문학인 창작지원 대상자는 시 부문에 이대흠.김행숙.서연정.이희철씨 등 4명, 소설 부문에 김종광.박청호.신미경씨 등 3명, 희곡 부문에 김영학.김혁수씨 등 2명, 평론 부문에 최현식.진정석씨 등 2명, 아동문학 부문에 한동철.한명순씨 등2명이다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지원금은 소설 부문은 작가당 1천만원 씩이며 그외 부문은 700만원 씩이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이경철 기자 *** 학부모 위한 국악강좌 열어 국립국악원과 사단법인 국악진흥회는 7~12일 학부모를 위한 국악강좌를 연다. 오전 9시~12시50분, 오후 1시30분~5시20분 등에 민요.장구 등을 가르친다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "선착순 1백20명. 수강료 4만원. 02-580-3141.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대산문화재단 창작지원 대상자 13명 선정, '많관부'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

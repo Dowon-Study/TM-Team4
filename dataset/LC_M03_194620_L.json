@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194620",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[짤막소식] 르꼬르동블루 숙명 아카데미 外",
+    "newsSubTitle": "",
+    "newsContent": "◆ 르꼬르동블루 숙명 아카데미는 16일 오후 6시부터 프랑스 파리학교의 디디에 샹트포 총주방장을 초빙해 요리 시연행사를 한다.\n시식과 함께 올해 보졸레 누보 시음도 한다.\n참가비 6만원. 02-719-6961. ◆ 리츠칼튼 서울호텔 '더 가든 레스토랑'은 6일부터 12일까지 세계 3대 진미의 하나인 흰 송로버섯(알바 트러플)으로 만든 특선 세트 메뉴를 선보인다.\n6만8000원. 02-3451-8271. ◆ JW 메리어트 호텔 일식당 '미카도'는 다음달까지 참복어를 이용한 '특선 복어 프로모션'을 진행한다.\n참복 회, 참복 맑은국, 참복 튀김 등 다섯 가지 메뉴로 구성된 세트메뉴는 10만원. 02-6282-6751. ◆ 서울역에 있는 중식당 '티원'은 홍콩의 맛과 향이 가득한 홍콩 스페셜 메뉴를 새로 내놓았다.\n닭을 우려낸 육수에 각종 해산물을 첨가한 샥스핀 볶음 요리 등 일곱 가지다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆ 르꼬르동블루 숙명 아카데미는 16일 오후 6시부터 프랑스 파리학교의 디디에 샹트포 총주방장을 초빙해 요리 시연행사를 한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "시식과 함께 올해 보졸레 누보 시음도 한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "참가비 6만원. 02-719-6961. ◆ 리츠칼튼 서울호텔 '더 가든 레스토랑'은 6일부터 12일까지 세계 3대 진미의 하나인 흰 송로버섯(알바 트러플)으로 만든 특선 세트 메뉴를 선보인다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "6만8000원. 02-3451-8271. ◆ JW 메리어트 호텔 일식당 '미카도'는 다음달까지 참복어를 이용한 '특선 복어 프로모션'을 진행한다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "참복 회, 참복 맑은국, 참복 튀김 등 다섯 가지 메뉴로 구성된 세트메뉴는 10만원. 02-6282-6751. ◆ 서울역에 있는 중식당 '티원'은 홍콩의 맛과 향이 가득한 홍콩 스페셜 메뉴를 새로 내놓았다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "닭을 우려낸 육수에 각종 해산물을 첨가한 샥스핀 볶음 요리 등 일곱 가지다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "잃어버린 미각을 되찾고 싶다면 어디로?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

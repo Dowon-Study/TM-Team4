@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199086",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "다이어트 '요요 현상'은 장 박테리아 때문…이스라엘 연구팀",
+    "newsSubTitle": "",
+    "newsContent": "다이어트로 어렵게 뺀 몸무게가 다이어트가 끝나자 원래로 되돌아가기도 한다. ‘요요(yo-yo) 현상’이다.\n최대 80%가 다이어트 후 6개월 안에 다이어트 이전의 체중으로 되돌아간다는 연구결과도 있다.\n이스라엘 와이즈만 연구소의 면역학자 에란 엘리나브 박사는 ‘요요 현상’은 장내 세균총(미생물 집단)이 다이어트를 시작하기 이전의 ‘비만 기억’을 지니고 있기 때문이라는 연구 결과를 발표했다고 메디컬 익스프레스가 26일(현지시간) 보도했다.\n엘리나브 박사 연구팀은 쥐 실험을 통해 이런 사실을 발견했다.\n한 무리의 쥐에 고칼로리 먹이를 주거나 보통 먹이를 많이 먹게 해 몸무게가 늘어나게 한 뒤 다이어트를 시켰다.\n몸무게가 줄면 다시 예전처럼 먹이를 줬다.\n그러자 예전의 몸무게로 되돌아가거나 몸무게가 그보다 더 늘어났다.\n연구팀은 체중이 늘면 다이어트로 몸무게를 빼는 실험을 여러 번 반복했다.\n이러한 다이어트 사이클이 거듭할수록 다이어트 후 체중 증가 현상은 더욱 심해지는 것으로 나타났다.\n연구팀은 ‘요요 현상’을 일으킨 쥐에 항생제를 먹여 장내 세균총을 없앴다.\n그러자 급속히 몸무게가 다시 늘어나는 현상은 없어졌다.\n연구팀은 이번에는 항생제로 장 박테리아를 없앤 쥐에 한때 비만했던 쥐의 장 박테리아 또는 전에 살찐 일이 없는 쥐의 장 박테리아를 넣은 뒤 고칼로리 먹이를 주었다.\n그러자 전에 비만했던 쥐의 장 박테리아를 넣은 쥐가 살찐 적이 없었던 쥐의 장 박테리아를 넣은 쥐보다 몸무게가 눈에 띄게 빠른 속도로 늘어났다.\n비만한 쥐의 장 박테리아는 ‘비만 기억’을 지니고 있어서 다이어트로 몸무게가 빠진 뒤 다시 고칼로리 먹이가 들어오면 체중 증가를 가속화시키는 것이라고 엘리나브 박사는 설명했다.\n이 연구 결과는 과학 전문지 ‘네이처’ 최신호(11월 25일 자)에 발표됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "다이어트로 어렵게 뺀 몸무게가 다이어트가 끝나자 원래로 되돌아가기도 한다. ‘요요(yo-yo) 현상’이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최대 80%가 다이어트 후 6개월 안에 다이어트 이전의 체중으로 되돌아간다는 연구결과도 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이스라엘 와이즈만 연구소의 면역학자 에란 엘리나브 박사는 ‘요요 현상’은 장내 세균총(미생물 집단)이 다이어트를 시작하기 이전의 ‘비만 기억’을 지니고 있기 때문이라는 연구 결과를 발표했다고 메디컬 익스프레스가 26일(현지시간) 보도했다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "엘리나브 박사 연구팀은 쥐 실험을 통해 이런 사실을 발견했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한 무리의 쥐에 고칼로리 먹이를 주거나 보통 먹이를 많이 먹게 해 몸무게가 늘어나게 한 뒤 다이어트를 시켰다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "몸무게가 줄면 다시 예전처럼 먹이를 줬다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러자 예전의 몸무게로 되돌아가거나 몸무게가 그보다 더 늘어났다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구팀은 체중이 늘면 다이어트로 몸무게를 빼는 실험을 여러 번 반복했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이러한 다이어트 사이클이 거듭할수록 다이어트 후 체중 증가 현상은 더욱 심해지는 것으로 나타났다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "연구팀은 ‘요요 현상’을 일으킨 쥐에 항생제를 먹여 장내 세균총을 없앴다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그러자 급속히 몸무게가 다시 늘어나는 현상은 없어졌다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "연구팀은 이번에는 항생제로 장 박테리아를 없앤 쥐에 한때 비만했던 쥐의 장 박테리아 또는 전에 살찐 일이 없는 쥐의 장 박테리아를 넣은 뒤 고칼로리 먹이를 주었다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그러자 전에 비만했던 쥐의 장 박테리아를 넣은 쥐가 살찐 적이 없었던 쥐의 장 박테리아를 넣은 쥐보다 몸무게가 눈에 띄게 빠른 속도로 늘어났다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "비만한 쥐의 장 박테리아는 ‘비만 기억’을 지니고 있어서 다이어트로 몸무게가 빠진 뒤 다시 고칼로리 먹이가 들어오면 체중 증가를 가속화시키는 것이라고 엘리나브 박사는 설명했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "이 연구 결과는 과학 전문지 ‘네이처’ 최신호(11월 25일 자)에 발표됐다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "다이어트의 요요현상, '이것'이 원인이다? 이스라엘 연구팀이 밝혀냈다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

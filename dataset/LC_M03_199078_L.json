@@ -1,0 +1,276 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199078",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "근력 운동 할때 유산소 운동 같이 해야 하는 이유",
+    "newsSubTitle": "심폐 기능 정체되면 운동 효과도 절반에 그칠 수 있어",
+    "newsContent": "[이민영 기자] 시간이 없는 사람일수록 유산소 운동보다 무산소 운동을 중요시하는 경향이 있다.\n무산소 운동은 조금만 해도 힘이 들어서 운동 효과가 빨리 나타난다고 느끼기 때문이다.\n그렇지만 근력 운동을 할 때 유산소 운동을 같이 해줘야 운동 효과가 더 좋다.\n유산소 운동을 하지 않으면 심폐 기능이 정체돼 운동 효과도 절반에 그칠 수 있기 때문이다.\n삼성서울병원 스포츠의학센터 박원하 교수의 도움말로 연령대별 효과적인 유산소 운동 방법을 알아본다.\n유산소운동은 걷기·달리기·등산·수영이 대표적이다.\n심폐 기능 수준을 높이고 성인병 발병률과 사망률을 낮추기 위해서는 최소 주 3회 이상 규칙적으로 운동을 해야 한다.\n미국 버몬트대학에서는 중년 남성 1만 4000명을 대상으로 수십 년에 걸쳐 연구를 진행했다.\n그 결과 유산소 운동 능력이 좋은 집단은 낮은 집단보다 폐암에 걸릴 확률은 55% 낮았다.\n대장암에 걸릴 확률은 44% 낮았다.\n유산소운동의 효과가 증명된 결과다.\n이 밖에도 유산소 운동은 고혈압·협심증·심근경색 등 심혈관 질환 위험을 감소시킨다.\n당뇨와 비만 등 성인병을 예방하고 심폐 기능을 강화하는데도 도움을 준다.\n심장 혈액순환을 촉진해 심장기능을 향상시키고 암 발생 위험을 감소하는 효과도 있다. 20·30대 초반은 여러 운동을 경험하고 자신에게 맞는 운동을 선택해야 하는 시기다.\n단순한 걷기나 조깅보다는 유산소와 무산소 운동이 혼합된 운동을 추천한다.\n심폐지구력을 높이는 조깅, 자전거 등을 일주일에 3회, 하루 30~50분 하는 것이 적당하다.\n30대 중반~40대는 체력이 떨어지는 시기이므로 무리한 운동은 자제한다.\n걷기, 빨리 걷기, 조깅, 자전거 타기, 배드민턴 등 운동 강도가 낮은 유산소 운동을 중심으로 한다.\n골밀도가 감소하는 40대 여성은 골다공증 예방을 위해 근력 운동에 중점을 둔다.\n유산소 운동과 팔굽혀펴기, 윗몸일으키기, 앉았다 일어서기 등 간단한 근력운동을 함께 한다. 50·60대는 몸에 무리가 가는 지나친 운동은 자제한다.\n하루 30분 정도 러닝머신을 하거나 걷기를 추천한다. 60세 이상은 운동 시작 전 전문의와 상담후 진행한다.\n산책, 맨손 체조, 고정식 자전거타기 등 유산소 운동을 추천한다.\n관절염이 있는 사람은 유산소운동을 포기하는 경향이 있는데 운동을 피해선 안된다.\n규칙적인 유산소 운동으로 수영, 수중 걷기를 추천한다.\n수중에서 하는 운동은 관절의 고통을 줄이고 안전하게 근육을 키울 수 있다.\n물 속의 부력이 몸을 뜨게 해 하지와 다른 관절에 주는 체중 부담을 줄인다.\n유산소 운동이더라도 무리해서 강도를 높이면 심장에 무리가 갈 수 있다.\n유산소 운동의 강도를 높이기 위해서는 매일 조금씩 달리는 시간과 속도를 높여준다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 28,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[이민영 기자] 시간이 없는 사람일수록 유산소 운동보다 무산소 운동을 중요시하는 경향이 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "무산소 운동은 조금만 해도 힘이 들어서 운동 효과가 빨리 나타난다고 느끼기 때문이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그렇지만 근력 운동을 할 때 유산소 운동을 같이 해줘야 운동 효과가 더 좋다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유산소 운동을 하지 않으면 심폐 기능이 정체돼 운동 효과도 절반에 그칠 수 있기 때문이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "삼성서울병원 스포츠의학센터 박원하 교수의 도움말로 연령대별 효과적인 유산소 운동 방법을 알아본다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유산소운동은 걷기·달리기·등산·수영이 대표적이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "심폐 기능 수준을 높이고 성인병 발병률과 사망률을 낮추기 위해서는 최소 주 3회 이상 규칙적으로 운동을 해야 한다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "미국 버몬트대학에서는 중년 남성 1만 4000명을 대상으로 수십 년에 걸쳐 연구를 진행했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그 결과 유산소 운동 능력이 좋은 집단은 낮은 집단보다 폐암에 걸릴 확률은 55% 낮았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "대장암에 걸릴 확률은 44% 낮았다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "유산소운동의 효과가 증명된 결과다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이 밖에도 유산소 운동은 고혈압·협심증·심근경색 등 심혈관 질환 위험을 감소시킨다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "당뇨와 비만 등 성인병을 예방하고 심폐 기능을 강화하는데도 도움을 준다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "심장 혈액순환을 촉진해 심장기능을 향상시키고 암 발생 위험을 감소하는 효과도 있다. 20·30대 초반은 여러 운동을 경험하고 자신에게 맞는 운동을 선택해야 하는 시기다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "단순한 걷기나 조깅보다는 유산소와 무산소 운동이 혼합된 운동을 추천한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "심폐지구력을 높이는 조깅, 자전거 등을 일주일에 3회, 하루 30~50분 하는 것이 적당하다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "30대 중반~40대는 체력이 떨어지는 시기이므로 무리한 운동은 자제한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "걷기, 빨리 걷기, 조깅, 자전거 타기, 배드민턴 등 운동 강도가 낮은 유산소 운동을 중심으로 한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "골밀도가 감소하는 40대 여성은 골다공증 예방을 위해 근력 운동에 중점을 둔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "유산소 운동과 팔굽혀펴기, 윗몸일으키기, 앉았다 일어서기 등 간단한 근력운동을 함께 한다. 50·60대는 몸에 무리가 가는 지나친 운동은 자제한다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "하루 30분 정도 러닝머신을 하거나 걷기를 추천한다. 60세 이상은 운동 시작 전 전문의와 상담후 진행한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "산책, 맨손 체조, 고정식 자전거타기 등 유산소 운동을 추천한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "관절염이 있는 사람은 유산소운동을 포기하는 경향이 있는데 운동을 피해선 안된다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "규칙적인 유산소 운동으로 수영, 수중 걷기를 추천한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "수중에서 하는 운동은 관절의 고통을 줄이고 안전하게 근육을 키울 수 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "물 속의 부력이 몸을 뜨게 해 하지와 다른 관절에 주는 체중 부담을 줄인다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "유산소 운동이더라도 무리해서 강도를 높이면 심장에 무리가 갈 수 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "유산소 운동의 강도를 높이기 위해서는 매일 조금씩 달리는 시간과 속도를 높여준다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이 운동'하면 대장암에 걸릴 확률 44% 낮아져...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

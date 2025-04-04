@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198035",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "김정철이 에릭 클랩턴 불렀나",
+    "newsSubTitle": "기타 실력 수준급 … 골수 팬 2006년 독일 공연 때 목격도",
+    "newsContent": "2006년 에릭 클랩턴의 독일공연을 보러 온 김정철. 오른쪽은 에릭 클랩턴. [중앙포토] 김정일 국방위원장의 차남 김정철(27)은 영국 록 가수 에릭 클랩턴의 골수 팬이다.\n그래서 외신 보도를 통해 알려진 클랩턴의 평양 공연 추진도 김정철의 희망에 따른 것이 아니냐는 관측이 유력하게 제기되고 있다.\n클랩턴은 최근 북한 당국으로부터 내년에 평양에서 공연해 달라는 요청을 받았다고 파이낸셜 타임스가 보도했다.\n9월로 예정된 북한 국립교향악단의 런던 초청 공연에 대한 화답 차원에서 클랩턴의 평양 공연이 추진되고 있다는 것이다.\n클랩턴 공연에는 김정철이 직·간접으로 관련돼 있을 가능성이 높다.\n김정철은 2006년 6월 프랑크푸르트와 베를린 등 독일의 4개 도시에서 잇따라 목격된 바 있다.\n클랩턴의 독일 순회 공연을 따라다니며 빠짐없이 관람한 것이다.\n클랩턴의 얼굴이 그려진 티셔츠를 입은 그의 모습은 당시 모 서방국가의 정보기관에 의해 촬영되기도 했다.\n김정철은 전자기타 연주가 수준급이며 직접 록밴드를 결성해 김 위원장 앞에서 연주하기도 한다고 북한 고위층 출신 탈북자가 증언했다.\n김 위원장의 후계자로도 거론되고 있는 김정철의 또 다른 취미는 미국 프로농구(NBA) 관람으로 알려져 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2006년 에릭 클랩턴의 독일공연을 보러 온 김정철. 오른쪽은 에릭 클랩턴. [중앙포토] 김정일 국방위원장의 차남 김정철(27)은 영국 록 가수 에릭 클랩턴의 골수 팬이다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그래서 외신 보도를 통해 알려진 클랩턴의 평양 공연 추진도 김정철의 희망에 따른 것이 아니냐는 관측이 유력하게 제기되고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "클랩턴은 최근 북한 당국으로부터 내년에 평양에서 공연해 달라는 요청을 받았다고 파이낸셜 타임스가 보도했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "9월로 예정된 북한 국립교향악단의 런던 초청 공연에 대한 화답 차원에서 클랩턴의 평양 공연이 추진되고 있다는 것이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "클랩턴 공연에는 김정철이 직·간접으로 관련돼 있을 가능성이 높다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김정철은 2006년 6월 프랑크푸르트와 베를린 등 독일의 4개 도시에서 잇따라 목격된 바 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "클랩턴의 독일 순회 공연을 따라다니며 빠짐없이 관람한 것이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "클랩턴의 얼굴이 그려진 티셔츠를 입은 그의 모습은 당시 모 서방국가의 정보기관에 의해 촬영되기도 했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김정철은 전자기타 연주가 수준급이며 직접 록밴드를 결성해 김 위원장 앞에서 연주하기도 한다고 북한 고위층 출신 탈북자가 증언했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "김 위원장의 후계자로도 거론되고 있는 김정철의 또 다른 취미는 미국 프로농구(NBA) 관람으로 알려져 있다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이 사람의 평양 공연... 김정일 차남이 골수팬이기 때문이라는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

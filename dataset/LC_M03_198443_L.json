@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198443",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "\\\"일본 총리 야스쿠니 참배는 위헌\\\"",
+    "newsSubTitle": "",
+    "newsContent": "왜 일본 정부의 야스쿠니신사 참배가 문제인가.\n신간 〈야스쿠니신사〉는 전쟁과 학살을 초래한 비극의 지난 세기를 일본의 자존심 회복이란 이름으로 되살리려는 망동을 잠재울 수 있는 논리적 근거를 제시하는 책이다.\n일본의 양심적 역사학자 가운데 한 명인 저자 오에 시노부 전 이바라키대학 교수는 우선 전후 일본의 이른바 '평화헌법' 제20조를 근거로 일본 정부가 야스쿠니신사를 공식참배하는 것이 위헌임을 주장한다.\n일본 종교법령에 따르면 야스쿠니신사는 민간 종교법인이다.\n따라서 '나라 또는 그 기관의 종교 활동을 금지' 한 헌법에 따라 일본 천황이나 총리는 야스쿠니신사에 공식참배해선 안된다는 것이 오에 교수의 주장이다.\n저자에 따르면 지난 45년 패전 후 야스쿠니신사를 하나의 종교법인으로 규정한 것은 당시 일본 정부 자신이었다.\n당시 승전국 미국은 천황을 중세의 교황 같은 존재로 보고 정교(政敎) 분리 정책을 실시, 일본정부는 야스쿠니신사를 전몰자 추도시설로 만들 것인가 아니면 하나의 종교단체로 만들 것인가의 선택의 갈림길에 있었다.\n후자를 선택한 이유는 바로 국민을 종교적 신도로 통합케 하는 천황제를 부정할 수 없는 일본의 특수성 때문이었다.\n신간은 메이지유신 이후 중앙집권적 근대 국가 체제를 갖춘 일본에서 천황이 정치와 종교 일치체제의 이데올로기적 구심점으로 자리해 온 과정 설명을 통해 일본 우경화에 대한 배경 이해도 돕는다.\n메이지 시대 이후 천황.황족이 아닌 일반 국민을 국가가 직접 신으로 모신 유일한 신사가 야스쿠니다.\n야스쿠니신사의 신이 되는 조건은 천황을 위해 전사하는 것이었다.\n그 인물이 살아있었을 때 어떤 인물이었는가 하는 것은 그 지위고하를 막론하고 문제가 되지 않았다.\n신간은 일본에서 1984년에 출간된 것을 이번에 번역했다.\n일본에서 출간된 지 16년이 넘은 오늘 현 일본 총리는 야스쿠니신사 공식 참배를 선언했다.\n교과서 왜곡문제도 여전하다.\n그래서 이 책은 그 부당성을 지적하는 논리적 근거에도 불구하고 여전히 그들의 이성적 각성을 촉구할 수밖에 없는 현실적 답답함을 느끼게 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "왜 일본 정부의 야스쿠니신사 참배가 문제인가.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "신간 〈야스쿠니신사〉는 전쟁과 학살을 초래한 비극의 지난 세기를 일본의 자존심 회복이란 이름으로 되살리려는 망동을 잠재울 수 있는 논리적 근거를 제시하는 책이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일본의 양심적 역사학자 가운데 한 명인 저자 오에 시노부 전 이바라키대학 교수는 우선 전후 일본의 이른바 '평화헌법' 제20조를 근거로 일본 정부가 야스쿠니신사를 공식참배하는 것이 위헌임을 주장한다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "일본 종교법령에 따르면 야스쿠니신사는 민간 종교법인이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "따라서 '나라 또는 그 기관의 종교 활동을 금지' 한 헌법에 따라 일본 천황이나 총리는 야스쿠니신사에 공식참배해선 안된다는 것이 오에 교수의 주장이다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "저자에 따르면 지난 45년 패전 후 야스쿠니신사를 하나의 종교법인으로 규정한 것은 당시 일본 정부 자신이었다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당시 승전국 미국은 천황을 중세의 교황 같은 존재로 보고 정교(政敎) 분리 정책을 실시, 일본정부는 야스쿠니신사를 전몰자 추도시설로 만들 것인가 아니면 하나의 종교단체로 만들 것인가의 선택의 갈림길에 있었다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "후자를 선택한 이유는 바로 국민을 종교적 신도로 통합케 하는 천황제를 부정할 수 없는 일본의 특수성 때문이었다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "신간은 메이지유신 이후 중앙집권적 근대 국가 체제를 갖춘 일본에서 천황이 정치와 종교 일치체제의 이데올로기적 구심점으로 자리해 온 과정 설명을 통해 일본 우경화에 대한 배경 이해도 돕는다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "메이지 시대 이후 천황.황족이 아닌 일반 국민을 국가가 직접 신으로 모신 유일한 신사가 야스쿠니다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "야스쿠니신사의 신이 되는 조건은 천황을 위해 전사하는 것이었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그 인물이 살아있었을 때 어떤 인물이었는가 하는 것은 그 지위고하를 막론하고 문제가 되지 않았다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "신간은 일본에서 1984년에 출간된 것을 이번에 번역했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "일본에서 출간된 지 16년이 넘은 오늘 현 일본 총리는 야스쿠니신사 공식 참배를 선언했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "교과서 왜곡문제도 여전하다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "그래서 이 책은 그 부당성을 지적하는 논리적 근거에도 불구하고 여전히 그들의 이성적 각성을 촉구할 수밖에 없는 현실적 답답함을 느끼게 한다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"야스쿠니 참배는 '이것'이다\"··· 어느 일본 역사학자의 고백",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

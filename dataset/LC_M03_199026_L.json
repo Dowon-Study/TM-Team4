@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199026",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "\\\"고백인줄 설렜는데\\\" 학교 책상 위 케이크의 충격 반전",
+    "newsSubTitle": "",
+    "newsContent": "먹음직스럽게 생긴 생크림 케이크를 보고 설레는 마음으로 다가가자 충격적인 사실이 밝혀졌다.\n과거 온라인에서 화제가 된 ‘학교 책상에 있던 케이크’가 다시 주목을 받고 있다.\n누군가가 학교에서 찍은 것으로 추정되는 사진 속엔 국내 유명 빵집 케이크 상자 위에 흰색 생크림 케이크가 올라가 있다.\n그러나 이를 가까이서 찍은 사진을 보면 케이크의 반전이 드러난다.\n생크림처럼 보였던 케이크는 사실 지름이 긴 두루마리 휴지였고 케이크 위에 얹힌 빨간색 물체는 방울토마토였다. ‘반전 매력’을 뽐내는 케이크는 여기서 끝이 아니다.\n명품 브랜드의 가방, 신발 모양을 한 케이크도 있다.\n가방의 경우 바느질부터 장식까지 실제 제품과 매우 흡사해 케이크라고 생각하고 선뜻 먹기는 힘들어 보일 정도다.\n해외에서 주목을 받은 ‘유니콘 케이크’도 있다.\n실제 말 크기에 맞춘 유니콘 모형은 푸드 아티스트인 미스 케이크헤드(Miss Cakehead)와 동료들이 만든 것으로 2014년 10월 개최된 내셔널 베이킹 위크(National Baking Week)에서 선보이며 호평을 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "먹음직스럽게 생긴 생크림 케이크를 보고 설레는 마음으로 다가가자 충격적인 사실이 밝혀졌다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과거 온라인에서 화제가 된 ‘학교 책상에 있던 케이크’가 다시 주목을 받고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "누군가가 학교에서 찍은 것으로 추정되는 사진 속엔 국내 유명 빵집 케이크 상자 위에 흰색 생크림 케이크가 올라가 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러나 이를 가까이서 찍은 사진을 보면 케이크의 반전이 드러난다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "생크림처럼 보였던 케이크는 사실 지름이 긴 두루마리 휴지였고 케이크 위에 얹힌 빨간색 물체는 방울토마토였다. ‘반전 매력’을 뽐내는 케이크는 여기서 끝이 아니다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "명품 브랜드의 가방, 신발 모양을 한 케이크도 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "가방의 경우 바느질부터 장식까지 실제 제품과 매우 흡사해 케이크라고 생각하고 선뜻 먹기는 힘들어 보일 정도다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "해외에서 주목을 받은 ‘유니콘 케이크’도 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "실제 말 크기에 맞춘 유니콘 모형은 푸드 아티스트인 미스 케이크헤드(Miss Cakehead)와 동료들이 만든 것으로 2014년 10월 개최된 내셔널 베이킹 위크(National Baking Week)에서 선보이며 호평을 받았다.",
+        "sentenceSize": 128
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "행복한 날에는 늘 설레게 하는 '이것'의 충격적 반전",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

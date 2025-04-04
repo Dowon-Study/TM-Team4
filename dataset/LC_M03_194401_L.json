@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194401",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[SHOPPING] 숯으로 만든 칫솔·비누·탈취제 …",
+    "newsSubTitle": "",
+    "newsContent": "숯은 예부터 우리 생활과 밀접했다.\n미세한 구멍 사이로 수분과 냄새를 빨아들이는 힘이 있어 여러 용도로 쓰였다.\n숯의 이런 성질을 활용한 세제·탈취제 등 다양한 상품이 최근 쏟아진다.\n숯이나 활성탄을 담근 물에 과일을 씻으면 숯의 흡착력 때문에 농약이 상당 부분 제거된다고 한다.\n애경에서 내놓은 ‘순샘 대나무숯 죽초액 탄(炭)’(500ML·2900원)은 한국화학시험연구원의 ‘항균마크’를 받았다.\n죽초액(竹醋液)은 대나무 숯을 굽는 과정에서 나오는 연기를 냉각시켜 뽑아낸 액체다.\n항균 및 탈취 효과가 좋다고 한다.\n생활용품업체인 CJ라이온은 천연 소나무 숯을 함유한 ‘참그린 참숯’(1㎏·5990원)을 내놓았다.\n세정력이 좋고 잘 헹궈지며 피부자극이 적다.\n로즈메리 허브향을 사용해 상쾌한 느낌을 준다.\n냉장고 속에 숯을 넣어 두면 냄새가 덜 날 뿐 아니라 채소의 신선도도 오래 유지된다.\n숯 조각을 그냥 넣어 둬도 되지만 숯 성분을 이용한 전문 탈취제를 사용하면 관리가 편하다.\n애경ST의 ‘홈즈 탈취탄’(240g·3800원), LG생활건강의 ‘119참숯 탈취제’(280g·3800원) 등이 있다.\n제습 및 공기정화용 숯 제품도 다양하다.\n피죤 ‘참숯 제습제 다목적 슬림형’(3개·2990원)은 서랍장·옷장·여행가방·신발장 등 좁은 공간에서 간편하게 쓸 수 있다.\n애경도 ‘홈즈 제습력 이불 서랍장용’(4개·3500원)을 새로 내놓았다.\n한국존슨의 ‘크린에어 젤’(3300원)은 식물성 탈취 젤에 활성숯을 첨가해 탈취 효과를 높였다.\n얼굴 피지와 각질을 없애는 데 도움을 주는 세수용 숯제품으로는 러쉬코리아의 ‘콜페이스 세안비누’(150g·2만1300원), 보브의 ‘참숯 코팩’(6000원), 네슈라의 ‘메디케어 숯 스마트 클렌징 크림’(150g·5500원) 등이 있다.\n칫솔·치약에도 숯이 쓰인다.\n은숯나라의 ‘은숯 칫솔’(2250원)과 ‘은숯 차콜치약’(130g·1만5000원)은 칫솔모·치약에 숯과 은나노 성분 등을 섞어 플라크와 입냄새를 제거하고 구강질환을 예방하는 효과가 있다는 설명이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "숯은 예부터 우리 생활과 밀접했다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미세한 구멍 사이로 수분과 냄새를 빨아들이는 힘이 있어 여러 용도로 쓰였다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "숯의 이런 성질을 활용한 세제·탈취제 등 다양한 상품이 최근 쏟아진다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "숯이나 활성탄을 담근 물에 과일을 씻으면 숯의 흡착력 때문에 농약이 상당 부분 제거된다고 한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "애경에서 내놓은 ‘순샘 대나무숯 죽초액 탄(炭)’(500ML·2900원)은 한국화학시험연구원의 ‘항균마크’를 받았다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "죽초액(竹醋液)은 대나무 숯을 굽는 과정에서 나오는 연기를 냉각시켜 뽑아낸 액체다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "항균 및 탈취 효과가 좋다고 한다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "생활용품업체인 CJ라이온은 천연 소나무 숯을 함유한 ‘참그린 참숯’(1㎏·5990원)을 내놓았다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "세정력이 좋고 잘 헹궈지며 피부자극이 적다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "로즈메리 허브향을 사용해 상쾌한 느낌을 준다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "냉장고 속에 숯을 넣어 두면 냄새가 덜 날 뿐 아니라 채소의 신선도도 오래 유지된다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "숯 조각을 그냥 넣어 둬도 되지만 숯 성분을 이용한 전문 탈취제를 사용하면 관리가 편하다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "애경ST의 ‘홈즈 탈취탄’(240g·3800원), LG생활건강의 ‘119참숯 탈취제’(280g·3800원) 등이 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "제습 및 공기정화용 숯 제품도 다양하다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "피죤 ‘참숯 제습제 다목적 슬림형’(3개·2990원)은 서랍장·옷장·여행가방·신발장 등 좁은 공간에서 간편하게 쓸 수 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "애경도 ‘홈즈 제습력 이불 서랍장용’(4개·3500원)을 새로 내놓았다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "한국존슨의 ‘크린에어 젤’(3300원)은 식물성 탈취 젤에 활성숯을 첨가해 탈취 효과를 높였다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "얼굴 피지와 각질을 없애는 데 도움을 주는 세수용 숯제품으로는 러쉬코리아의 ‘콜페이스 세안비누’(150g·2만1300원), 보브의 ‘참숯 코팩’(6000원), 네슈라의 ‘메디케어 숯 스마트 클렌징 크림’(150g·5500원) 등이 있다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "칫솔·치약에도 숯이 쓰인다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "은숯나라의 ‘은숯 칫솔’(2250원)과 ‘은숯 차콜치약’(130g·1만5000원)은 칫솔모·치약에 숯과 은나노 성분 등을 섞어 플라크와 입냄새를 제거하고 구강질환을 예방하는 효과가 있다는 설명이다.",
+        "sentenceSize": 110
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "다양한 용도로 사용되는 '숯'의 성질은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

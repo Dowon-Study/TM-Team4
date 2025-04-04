@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196685",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[라이프 트렌드] 영양소 60여 종 담은 클로렐라 플래티넘",
+    "newsSubTitle": "",
+    "newsContent": "클로렐라는 건강한 식생활에 필요한 거의 모든 영양소를 함유하고 있다.\n클로렐라를 원료로 한 다양한 제품이 시중에 판매되는 이유다.\n국내에서는 대상웰라이프가 기술력과 노하우를 바탕으로 클로렐라 시장을 선도한다.\n대상웰라이프는 1990년대 초부터 오랜 연구개발 끝에 국내 최초로 클로렐라 배양법을 자체 기술로 개발해 특허를 따냈다.\n기후의 영향을 받지 않는 옥내 배양 방식, 무균 순수배양법으로 품질이 균일한 클로렐라를 생산하고 있다.\n대상웰라이프 클로렐라는 100% 국내산으로 만들었다.\n특히 대표 제품인 ‘클로렐라 플래티넘’(사진)은 비타민류 12종, 일반 영양소 3종, 미네랄류 11종, 식이섬유, 필수아미노산 9종, 비필수아미노산 9종 등 60여 가지 영양 성분을 함유한 클로렐라 성분 100% 제품이다. ‘클로렐라 플래티넘’은 면역력 증진 및 혈중 콜레스테롤 개선, 피부 건강, 항산화에 도움을 줄 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "클로렐라는 건강한 식생활에 필요한 거의 모든 영양소를 함유하고 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "클로렐라를 원료로 한 다양한 제품이 시중에 판매되는 이유다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국내에서는 대상웰라이프가 기술력과 노하우를 바탕으로 클로렐라 시장을 선도한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대상웰라이프는 1990년대 초부터 오랜 연구개발 끝에 국내 최초로 클로렐라 배양법을 자체 기술로 개발해 특허를 따냈다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "기후의 영향을 받지 않는 옥내 배양 방식, 무균 순수배양법으로 품질이 균일한 클로렐라를 생산하고 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "대상웰라이프 클로렐라는 100% 국내산으로 만들었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 대표 제품인 ‘클로렐라 플래티넘’(사진)은 비타민류 12종, 일반 영양소 3종, 미네랄류 11종, 식이섬유, 필수아미노산 9종, 비필수아미노산 9종 등 60여 가지 영양 성분을 함유한 클로렐라 성분 100% 제품이다. ‘클로렐라 플래티넘’은 면역력 증진 및 혈중 콜레스테롤 개선, 피부 건강, 항산화에 도움을 줄 수 있다.",
+        "sentenceSize": 183
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영양소 수십 종 담긴 클로렐라 플래티넘... 100% 국내산이라 더욱 안심",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

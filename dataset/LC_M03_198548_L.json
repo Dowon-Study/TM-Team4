@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198548",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[문학] '모건의 길'",
+    "newsSubTitle": "유배당한 죄수의 호주 개척記",
+    "newsContent": "모건의 길 원제 Morgan's Run, 콜린 매컬로 지음 김영희 옮김, 문학사상사, 1·2권 각권 511·411쪽, 각권 9000원 TV 시리즈물로도 만들어졌던 세계적인 베스트셀러 소설 『가시나무새』의 저자 콜린 매컬로가 자신의 남편의 선조가 겪었던 실화를 바탕으로 쓴 장편소설. 영국의 죄수 수송선 알렉산더호는 남자 죄수 582명, 여자 죄수 193명을 태운 채 1787년 영국 런던의 템스강을 떠나 8개월 만인 이듬해 초 호주에 도착한다.\n알렉산더호에 탔던 소설의 주인공 리처드 모건은 장총을 만드는데 천부적인 재능이 있고, 브리스톨에서 술집을 경영하는 아버지를 도우며 단란한 가정을 꾸려가던 남부러울 것 없는 사람이었다.\n하지만 두 아이와 사랑하는 아내를 차례로 잃고 생을 비관하던 중 모함과 불운이 겹쳐 7년 호주 유배형을 선고받는다.\n운명의 반전이 시작되는 것은 더 이상 내려갈 곳이 없는 바닥에 도달했을 때다.\n생명을 위협하는 참혹한 수송선 환경에서 살아남아 죄수들의 지도자로 떠오른 그는 장총과 럼주 제조기술 등을 발휘, 거친 땅 호주에 처음 정착한 개척자가 된다.\n방대한 규모의 역사소설이면서 해양소설이고 독자들의 심금을 울리는 멜로 드라마다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "모건의 길 원제 Morgan's Run, 콜린 매컬로 지음 김영희 옮김, 문학사상사, 1·2권 각권 511·411쪽, 각권 9000원 TV 시리즈물로도 만들어졌던 세계적인 베스트셀러 소설 『가시나무새』의 저자 콜린 매컬로가 자신의 남편의 선조가 겪었던 실화를 바탕으로 쓴 장편소설. 영국의 죄수 수송선 알렉산더호는 남자 죄수 582명, 여자 죄수 193명을 태운 채 1787년 영국 런던의 템스강을 떠나 8개월 만인 이듬해 초 호주에 도착한다.",
+        "sentenceSize": 248
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "알렉산더호에 탔던 소설의 주인공 리처드 모건은 장총을 만드는데 천부적인 재능이 있고, 브리스톨에서 술집을 경영하는 아버지를 도우며 단란한 가정을 꾸려가던 남부러울 것 없는 사람이었다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 두 아이와 사랑하는 아내를 차례로 잃고 생을 비관하던 중 모함과 불운이 겹쳐 7년 호주 유배형을 선고받는다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "운명의 반전이 시작되는 것은 더 이상 내려갈 곳이 없는 바닥에 도달했을 때다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "생명을 위협하는 참혹한 수송선 환경에서 살아남아 죄수들의 지도자로 떠오른 그는 장총과 럼주 제조기술 등을 발휘, 거친 땅 호주에 처음 정착한 개척자가 된다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "방대한 규모의 역사소설이면서 해양소설이고 독자들의 심금을 울리는 멜로 드라마다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신간 <모건의 길>... 방대한 규모의 역사소설이며 독자들의 심금을 울리는 '이것' 같은 책",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

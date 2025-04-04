@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199126",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "이명 환자 57% \\\"내가 이명이었어?\\\"",
+    "newsSubTitle": "이명 경험자 800명 대상 설문조사…치료 소극적",
+    "newsContent": "이명을 경험한 환자 중 절반 이상은 자신이 의학적으로 이명에 해당하는지 인지하지 못하는 것으로 나타났다.\n태전그룹 AOK가 이명을 경험한 20~50대 남녀 800명을 대상으로 한 설문조사에서 이명 경험자 중 자신이 겪은 증상을 이명이라고 인지한 사람은 42.4%에 그쳤다.\n이명 증상으로 인해 겪는 불편함은 불안감이 40.3%로 가장 높았고, 어지러움 35.4%, 수면 방해 33.0%, 무기력 18.3%, 기억력 감퇴 10.0% 등이 뒤를 이었다.\n이명이 단순히 증상에 그치는 게 아니라 일상생활에 심리적·육체적으로 영향을 끼친다는 결과다.\n이런 불편함에도 증상의 심각성에 대한 인식과 치료 적극성은 상당히 부족한 것으로 드러났다.\n자신의 증상이 심각하다고 느낀 응답자는 20.5%에 불과했고, 치료·관리에 적극적으로 임한다는 응답자도 11.6%에 그쳤다.\n이는 이명을 누구나 겪는 흔한 증상이라고 여기거나(61.1%), 이명을 인지했더라도 방치한 채 치료하지 않는(76.8%) 등 이명이란 질환에 대한 인식이 부족하기 때문인 것으로 나타났다.\n태전그룹 관계자는 “이명은 다른 질환의 전조증상일 수도 있지만, 증상 자체만으로도 일상생활을 방해하는 요소”라며 “삶의 질 향상을 위해서 이명 증상 발생 초기부터 적극적인 관리와 치료가 필요하다”고 전했다.\n한편, 태전그룹 AOK는 이명 치료제 ‘실비도정’을 지난 7월 출시했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이명을 경험한 환자 중 절반 이상은 자신이 의학적으로 이명에 해당하는지 인지하지 못하는 것으로 나타났다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "태전그룹 AOK가 이명을 경험한 20~50대 남녀 800명을 대상으로 한 설문조사에서 이명 경험자 중 자신이 겪은 증상을 이명이라고 인지한 사람은 42.4%에 그쳤다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이명 증상으로 인해 겪는 불편함은 불안감이 40.3%로 가장 높았고, 어지러움 35.4%, 수면 방해 33.0%, 무기력 18.3%, 기억력 감퇴 10.0% 등이 뒤를 이었다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이명이 단순히 증상에 그치는 게 아니라 일상생활에 심리적·육체적으로 영향을 끼친다는 결과다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이런 불편함에도 증상의 심각성에 대한 인식과 치료 적극성은 상당히 부족한 것으로 드러났다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "자신의 증상이 심각하다고 느낀 응답자는 20.5%에 불과했고, 치료·관리에 적극적으로 임한다는 응답자도 11.6%에 그쳤다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이는 이명을 누구나 겪는 흔한 증상이라고 여기거나(61.1%), 이명을 인지했더라도 방치한 채 치료하지 않는(76.8%) 등 이명이란 질환에 대한 인식이 부족하기 때문인 것으로 나타났다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "태전그룹 관계자는 “이명은 다른 질환의 전조증상일 수도 있지만, 증상 자체만으로도 일상생활을 방해하는 요소”라며 “삶의 질 향상을 위해서 이명 증상 발생 초기부터 적극적인 관리와 치료가 필요하다”고 전했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 태전그룹 AOK는 이명 치료제 ‘실비도정’을 지난 7월 출시했다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이것' 스스로 인지하지 못하는 환자가 절반 이상... 일상에 끼치는 영향력은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M09_193970",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "영화·애니",
+    "newsTitle": "무기의 부실은 군의 부실?",
+    "newsSubTitle": "null",
+    "newsContent": "그것이 알고 싶다(SBS 밤 11시10분) 연평도 포격과 무기의 그늘 편. 11월23일 일어난 연평도 도발은 휴전 이후 처음 일어난 북한의 직접적인 포격사건이었다.\n공격의 징후들이 있었다는 증거가 속속들이 밝혀지면서 우리 군의 대응에 총체적 부실이 있었음이 드러났다.\n현재 우리 군의 주력 무기는 케이(K) 계열 궤도 전투장비다.\nK-1 전차나 K-55 자주포처럼 국내 기술이나 라이선스로 만들어진 장비들이다.\n그러나 K-9 자주포는 작동 불능 상태에 빠져 있었고, 최근 K-21 장갑차는 훈련중 사고를 일으켰다.\nK-11 소총은 절반이 불량품으로 드러났으며 K-1 전차 역시 부실 정비로 포신이 찢어졌다.\n신형 미사일 고속함은 직진을 할 수 없는 것으로 드러났다.\n총체적 부실에 예산 낭비까지, 과연 우리 군은 어떤 대응 태세를 취하고 있는 것일까.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그것이 알고 싶다(SBS 밤 11시10분) 연평도 포격과 무기의 그늘 편. 11월23일 일어난 연평도 도발은 휴전 이후 처음 일어난 북한의 직접적인 포격사건이었다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "공격의 징후들이 있었다는 증거가 속속들이 밝혀지면서 우리 군의 대응에 총체적 부실이 있었음이 드러났다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "현재 우리 군의 주력 무기는 케이(K) 계열 궤도 전투장비다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "K-1 전차나 K-55 자주포처럼 국내 기술이나 라이선스로 만들어진 장비들이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 K-9 자주포는 작동 불능 상태에 빠져 있었고, 최근 K-21 장갑차는 훈련중 사고를 일으켰다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "K-11 소총은 절반이 불량품으로 드러났으며 K-1 전차 역시 부실 정비로 포신이 찢어졌다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "신형 미사일 고속함은 직진을 할 수 없는 것으로 드러났다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "총체적 부실에 예산 낭비까지, 과연 우리 군은 어떤 대응 태세를 취하고 있는 것일까.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'K-11 절반이 불량'... 우리 군 예산 낭비 이대로 괜찮은가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

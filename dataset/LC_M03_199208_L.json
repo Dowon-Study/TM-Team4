@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199208",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "두부 칼로리, 요기방법과 힘에 따라 종류도 다양해",
+    "newsSubTitle": "",
+    "newsContent": "두부 칼로리가 화제다.\n두부 칼로리는 100g에 84kcal정도다.\n하얀 해콩을 물에 불려 끓인 뒤 굳힌 두부는 칼로리 낮고 단백질 풍부한 대표 건강식품이다다.\n끓이는 시간이나 굳히는 방법, 힘에 따라 연두부·순두부 등으로 다양하다.\n두부의 효능은 혈압, 콜레스테롤을 낮춰 동맥경화에 효과적이며 두부의 단백질은 혈액 안의 콜레스테롤을 저하해 혈압상승을 억제하며, 혈관에 부착하는 나쁜 콜레스테롤을 없애고 몸에 좋은 콜레스테롤을 증가시키는 작용을 한다.\n또 두부는 고혈압, 콜레스테롤이 원인이 되는 동맥경화를 방지해 뇌혈압, 심근경색, 협심증 등의 예방에 효과가 있다.\n두부는 동맥경화를 방지하고 더욱이 지방대사기능에 의해 간장의 지방분을 감소시키는 역할을 해 지방간 예방에도 좋은 효과가 있는 것으로 알려졌다.\n이를 접한 네티즌들은 \\\"두부 칼로리, 다이어트에 탁월할 듯\\\" \\\"두부 칼로리, 백종원의 두부 요리법 해봐야지\\\" \\\"두부 칼로리, 맛있게 요리할 수 없을까\\\" \\\"두부 칼로리, 콜레스테롤 높다면 두부를\\\" 등의 반응을 보였다.\n온라인 중앙일보 '두부 칼로리'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "두부 칼로리가 화제다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "두부 칼로리는 100g에 84kcal정도다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하얀 해콩을 물에 불려 끓인 뒤 굳힌 두부는 칼로리 낮고 단백질 풍부한 대표 건강식품이다다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "끓이는 시간이나 굳히는 방법, 힘에 따라 연두부·순두부 등으로 다양하다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두부의 효능은 혈압, 콜레스테롤을 낮춰 동맥경화에 효과적이며 두부의 단백질은 혈액 안의 콜레스테롤을 저하해 혈압상승을 억제하며, 혈관에 부착하는 나쁜 콜레스테롤을 없애고 몸에 좋은 콜레스테롤을 증가시키는 작용을 한다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 두부는 고혈압, 콜레스테롤이 원인이 되는 동맥경화를 방지해 뇌혈압, 심근경색, 협심증 등의 예방에 효과가 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두부는 동맥경화를 방지하고 더욱이 지방대사기능에 의해 간장의 지방분을 감소시키는 역할을 해 지방간 예방에도 좋은 효과가 있는 것으로 알려졌다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 접한 네티즌들은 \\\"두부 칼로리, 다이어트에 탁월할 듯\\\" \\\"두부 칼로리, 백종원의 두부 요리법 해봐야지\\\" \\\"두부 칼로리, 맛있게 요리할 수 없을까\\\" \\\"두부 칼로리, 콜레스테롤 높다면 두부를\\\" 등의 반응을 보였다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 '두부 칼로리'",
+        "sentenceSize": 17
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이 건강식품, 칼로리가 낮아 다이어트에 도움 된다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

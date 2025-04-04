@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198528",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[스타가 반한 책] 성시경 가수",
+    "newsSubTitle": "사랑 노래는 사람 노래 인간의 이해 넓혀줘",
+    "newsContent": "요즘은 신곡의 가사를 쓰느라 사랑에 관한 책을 많이 읽어요. 『그남자 그여자』(이미나 지음, 중앙M&B)는 사랑해 본 사람이라면 누구나 공감할 수 있는 내용이에요.\n남녀의 심리가 섬세하게 표현돼 있으면서도 손에 잡으면 금세 다 읽을 수 있을 정도로 쉽게 잘 쓴 책이랍니다. 『화성에서 온 남자 금성에서 온 여자』(존 그레이 지음, 친구미디어)는 좀 더 깊이있게 남녀 심리를 분석하지요.\n인간 관계에 대한 이해의 폭을 넓히는데 도움이 되니까 10대가 읽어도 좋을 거예요.\n원서를 읽는 것이 영어 공부에도 도움이 된다지만 사실 영어 소설 같은 걸 읽으면 머리가 막 아프고 더 공부가 안 되지 않나요?\n하지만 영어 수필은 비교적 길이도 짧고 내용도 쉬워서 저도 학창 시절 그렇게 공부했답니다.\n예를 들어 로버트 풀검의『내가 정말 알아야 할 모든 것은 유치원에서 배웠다』(삼진기획)를 『All I Really Need to Know I Learned in Kindergarten』(Ballantine Books)의 원문과 번갈아 읽는 거지요.\n얼마 전에 유학 갔다가 돌아와 군대 간 친구 녀석이 댄 브라운의 『다빈치 코드』가 재밌다고 하길래 선물로 달라고 했죠.\n그랬더니 문고판 원서를 사왔더라고요!\n사전 찾을 시간도 없고 해서 대충대충 읽고 있는데 3년쯤 뒤에나 소감을 말씀드릴 수 있을 것 같은데요?",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "요즘은 신곡의 가사를 쓰느라 사랑에 관한 책을 많이 읽어요. 『그남자 그여자』(이미나 지음, 중앙M&B)는 사랑해 본 사람이라면 누구나 공감할 수 있는 내용이에요.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "남녀의 심리가 섬세하게 표현돼 있으면서도 손에 잡으면 금세 다 읽을 수 있을 정도로 쉽게 잘 쓴 책이랍니다. 『화성에서 온 남자 금성에서 온 여자』(존 그레이 지음, 친구미디어)는 좀 더 깊이있게 남녀 심리를 분석하지요.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "인간 관계에 대한 이해의 폭을 넓히는데 도움이 되니까 10대가 읽어도 좋을 거예요.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "원서를 읽는 것이 영어 공부에도 도움이 된다지만 사실 영어 소설 같은 걸 읽으면 머리가 막 아프고 더 공부가 안 되지 않나요?",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 영어 수필은 비교적 길이도 짧고 내용도 쉬워서 저도 학창 시절 그렇게 공부했답니다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "예를 들어 로버트 풀검의『내가 정말 알아야 할 모든 것은 유치원에서 배웠다』(삼진기획)를 『All I Really Need to Know I Learned in Kindergarten』(Ballantine Books)의 원문과 번갈아 읽는 거지요.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "얼마 전에 유학 갔다가 돌아와 군대 간 친구 녀석이 댄 브라운의 『다빈치 코드』가 재밌다고 하길래 선물로 달라고 했죠.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그랬더니 문고판 원서를 사왔더라고요!",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "사전 찾을 시간도 없고 해서 대충대충 읽고 있는데 3년쯤 뒤에나 소감을 말씀드릴 수 있을 것 같은데요?",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'스타가 반한 책' 성시경 편, \"신곡 가사 쓰느라 사랑에 관한 '이 책' 읽고 있어요\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

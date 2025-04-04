@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195041",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "\\\"우기명은 내 자화상\\\" 기안84, 첫 개인전…수익 일부 기부키로",
+    "newsSubTitle": "",
+    "newsContent": "'패션왕' '복학왕' 등 인기웹툰 작가 기안84(본명 김희민·38)이 첫 개인전을 연다. 2일 스타아트코리아·픽사티브는 기안84의 '제1회 개인전이' 오는 25일부터 내달 5일까지 서울 강남구 대치동 '슈페리어 갤러리'에서 열린다고 밝혔다.\n기안84는 첫 개인전에서 자신이 창작한 웹툰캐릭터 우기명을 비롯한 다양한 소재들을 팝아트와 접목시킨 신작 18점을 보여줄 예정이다.\n기안84는 자신을 투영시킨 '우기명'이란 캐릭터를 탄생시켜 10여년간 웹툰 '패션왕' '복학왕' 등을 연재해왔다.\n지난해 '복학왕' 연재를 끝낸 그는 새로운 예술영역에 대한 갈증을 느꼈다고 한다.\n그간 자신이 도구로 사용해왔던 '태블릿' 펜을 내려놓고 붓을 들었다.\n기안84는 작품을 준비하며 \\\"우기명의 표정들을 생각하면 본인의 자화상처럼 느껴졌다\\\"고 말했다.\n주최 측은 \\\"세심하고 밀도감 있는 붓터치로 탄생된 기안84의 작품들에는 우기명의 탄생 과정부터 현재까지의 시간 속을 배경으로 한 그의 성장 과정을 담고 있다\\\"며 작품을 통해 '인생'을 해학적으로 풀어냈다고 설명했다.\n한편 기안84가 이번 첫 개인전 수익의 일부를 기부할 계획이라고 주최 측은 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'패션왕' '복학왕' 등 인기웹툰 작가 기안84(본명 김희민·38)이 첫 개인전을 연다. 2일 스타아트코리아·픽사티브는 기안84의 '제1회 개인전이' 오는 25일부터 내달 5일까지 서울 강남구 대치동 '슈페리어 갤러리'에서 열린다고 밝혔다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "기안84는 첫 개인전에서 자신이 창작한 웹툰캐릭터 우기명을 비롯한 다양한 소재들을 팝아트와 접목시킨 신작 18점을 보여줄 예정이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "기안84는 자신을 투영시킨 '우기명'이란 캐릭터를 탄생시켜 10여년간 웹툰 '패션왕' '복학왕' 등을 연재해왔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난해 '복학왕' 연재를 끝낸 그는 새로운 예술영역에 대한 갈증을 느꼈다고 한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그간 자신이 도구로 사용해왔던 '태블릿' 펜을 내려놓고 붓을 들었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "기안84는 작품을 준비하며 \\\"우기명의 표정들을 생각하면 본인의 자화상처럼 느껴졌다\\\"고 말했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "주최 측은 \\\"세심하고 밀도감 있는 붓터치로 탄생된 기안84의 작품들에는 우기명의 탄생 과정부터 현재까지의 시간 속을 배경으로 한 그의 성장 과정을 담고 있다\\\"며 작품을 통해 '인생'을 해학적으로 풀어냈다고 설명했다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 기안84가 이번 첫 개인전 수익의 일부를 기부할 계획이라고 주최 측은 밝혔다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "기안84, 첫 개인전 '슈페리어 갤러리'에서 전시... 캐릭터를 팝아트와 접목?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

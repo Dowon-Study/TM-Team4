@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195620",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "광동제약, '비타민C 산학연구회 세미나' 개최",
+    "newsSubTitle": "",
+    "newsContent": "한국식품과학회 비타민C 산학연구회(위원장 단국대 백형희 교수)는 29일 광동제약 본사에서 제5회 비타민C 산학연구회 세미나를 개최했다.\n백형희 위원장은 개회사에서 “비타민C에 대한 최신 지식을 교류하는 이 자리가 어느덧 5회를 맞았다”며 “비타민C의 다양한 효능을 밝힐 수 있도록 지속적으로 후원해주신 광동제약에 감사인사를 전한다”고 밝혔다.\n비타민C 산학연구회를 후원하고 있는 광동제약 이인재 부사장은 “비타민C 산학세미나에서 활발하게 교류되는 전문 지식과 견해들은 비타민C의 순기능을 밝혀내려는 열정적인 연구활동의 산물”이라고 말했다.\n이번 세미나에서 이화여대 식품영양학과 김유리 교수는 ‘비타민C의 총체적 대장건강 개선을 위한 기능성 규명 및 효능 평가’에 대한 연구 결과를 발표했다.\n김 교수는 주제 발표에서 “대장암을 유발한 실험용 쥐에 비타민C를 투여하고, 항염증 마커, 대장 염증 척도 점수 등을 측정한 결과 비타민C의 섭취가 염증 예방이나 대장암 초기에 도움을 줄 수 있는 것을 확인할 수 있었다”고 밝혀 비타민C의 대장건강 개선 가능성을 제시했다.\n한편 2013년 3월 설립된 비타민C 산학연구회는 비타민C에 대한 과학적 연구를 통한 국민건강증진을 목표로 비타민C를 연구하는 학계와 산업 관계자들이 모여 최신 지견을 교류하고자 마련된 학술행사다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국식품과학회 비타민C 산학연구회(위원장 단국대 백형희 교수)는 29일 광동제약 본사에서 제5회 비타민C 산학연구회 세미나를 개최했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "백형희 위원장은 개회사에서 “비타민C에 대한 최신 지식을 교류하는 이 자리가 어느덧 5회를 맞았다”며 “비타민C의 다양한 효능을 밝힐 수 있도록 지속적으로 후원해주신 광동제약에 감사인사를 전한다”고 밝혔다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "비타민C 산학연구회를 후원하고 있는 광동제약 이인재 부사장은 “비타민C 산학세미나에서 활발하게 교류되는 전문 지식과 견해들은 비타민C의 순기능을 밝혀내려는 열정적인 연구활동의 산물”이라고 말했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 세미나에서 이화여대 식품영양학과 김유리 교수는 ‘비타민C의 총체적 대장건강 개선을 위한 기능성 규명 및 효능 평가’에 대한 연구 결과를 발표했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김 교수는 주제 발표에서 “대장암을 유발한 실험용 쥐에 비타민C를 투여하고, 항염증 마커, 대장 염증 척도 점수 등을 측정한 결과 비타민C의 섭취가 염증 예방이나 대장암 초기에 도움을 줄 수 있는 것을 확인할 수 있었다”고 밝혀 비타민C의 대장건강 개선 가능성을 제시했다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 2013년 3월 설립된 비타민C 산학연구회는 비타민C에 대한 과학적 연구를 통한 국민건강증진을 목표로 비타민C를 연구하는 학계와 산업 관계자들이 모여 최신 지견을 교류하고자 마련된 학술행사다.",
+        "sentenceSize": 110
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "제5회 비타민C 산학연구회 세미나··· 어떤 내용 다루나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

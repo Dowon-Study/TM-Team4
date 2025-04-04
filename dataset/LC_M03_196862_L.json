@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196862",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "'치실 사용법' 올바른 치실 사용 중요해…잇몸 병 예방 'v 체크'",
+    "newsSubTitle": "",
+    "newsContent": "잇몸 병은 예방이 중요하다.\n음식을 먹은 뒤나 잠자리에 들기 전에 꼼꼼히 칫솔질을 해야 한다.\n입속 곳곳에 자리 잡은 플라크를 제거하기 위해서다.\n치간칫솔과 치실을 함께 사용하면 더 효과적이다.\n치아는 곡선의 입체구조인 데다 틈새가 많아 칫솔질만으로 플라크를 완벽하게 제거하기 힘들다.\n치아와 치아가 맞닿는 부위나 치아와 잇몸 경계는 잘 닦이지 않는다.\n여기에 플라크가 붙으면 잇몸이나 잇몸 뼈까지 염증이 발생한다.\n이미 플라크가 딱딱하게 굳어 치석으로 변했다면 칫솔질만으로는 제거하기 힘들다. 1년에 한 번씩 정기적으로 스케일링을 받으면서 잇몸을 꾸준히 관리해야 한다.\n다음으로는 양쪽 손 엄지나 검지를 이용해서 치실을 눌러준다.\n이때 손가락 간에는 2~3cm 정도의 공간이 적당하다.\n치실은 사용할 부위에 따라 양쪽 엄지와 검지를 조합해서 사용한다.\n치실을 치아 사이로 밀어 넣을 때는 앞뒤로 조심스럽게 움직여 줘야 잇몸에 상처를 내지 않을 수 있다.\n치실이 치아 사이로 들어가면 치아의 길이 방향, 즉 잇몸에서 치아 끝 쪽으로 혹은 그 반대로 움직이면서 치아를 닦아 줘야 한다.\n온라인 중앙일보 [사진 중앙포토] '치실 사용법'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "잇몸 병은 예방이 중요하다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "음식을 먹은 뒤나 잠자리에 들기 전에 꼼꼼히 칫솔질을 해야 한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "입속 곳곳에 자리 잡은 플라크를 제거하기 위해서다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "치간칫솔과 치실을 함께 사용하면 더 효과적이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "치아는 곡선의 입체구조인 데다 틈새가 많아 칫솔질만으로 플라크를 완벽하게 제거하기 힘들다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "치아와 치아가 맞닿는 부위나 치아와 잇몸 경계는 잘 닦이지 않는다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여기에 플라크가 붙으면 잇몸이나 잇몸 뼈까지 염증이 발생한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이미 플라크가 딱딱하게 굳어 치석으로 변했다면 칫솔질만으로는 제거하기 힘들다. 1년에 한 번씩 정기적으로 스케일링을 받으면서 잇몸을 꾸준히 관리해야 한다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다음으로는 양쪽 손 엄지나 검지를 이용해서 치실을 눌러준다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이때 손가락 간에는 2~3cm 정도의 공간이 적당하다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "치실은 사용할 부위에 따라 양쪽 엄지와 검지를 조합해서 사용한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "치실을 치아 사이로 밀어 넣을 때는 앞뒤로 조심스럽게 움직여 줘야 잇몸에 상처를 내지 않을 수 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "치실이 치아 사이로 들어가면 치아의 길이 방향, 즉 잇몸에서 치아 끝 쪽으로 혹은 그 반대로 움직이면서 치아를 닦아 줘야 한다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "온라인 중앙일보 [사진 중앙포토] '치실 사용법'",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "칫솔질 아무리 열심히 해도… 치실 없으면 잇몸 뼈까지 염증번져 목숨이 위험하다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

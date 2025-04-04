@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195503",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "저녁형 인간도 ‘이것’만 있으면 건강할 수 있다",
+    "newsSubTitle": "분당서울대병원 수면센터 “회복탄력성 키워 피로·우울 줄여”",
+    "newsContent": "[김진구 기자] 흔히 아침형 인간이 저녁형 인간에 비해 건강이 더 좋다고 알려져 있다.\n그러나 비교적 느즈막히 일어나 늦은 시간에 잠드는 생활습관이라도 충분히 건강할 수 있다는 연구결과가 나왔다.\n분당서울대병원 수면센터 윤인영 교수와 건국대병원 정신건강의학과 전홍준 교수는 저녁형 인간이 건강을 찾을 수 있는 조건으로 ‘회복탄력성’을 제시했다.\n회복탄력성이란 부정적이거나 불리한 상황을 극복하는 개인의 역량을 의미한다.\n윤 교수팀은 분당서울대병원 직원 1794명을 대상으로 수면의 질과 주간 졸림증, 신체 피로, 우울·불안, 삶의 질을 평가하고 아침형 인간인지 저녁형 인간인지 조사했다.\n그 결과, 저녁형 인간이 수면의 질은 훨씬 떨어지는 것으로 나타났다.\n이를 제외한 주간 졸림증, 신체 피로, 우울·불안, 삶의 질은 아침형인지 저녁형인지보다 개인의 회복탄력성에 좌우되는 것으로 나타났다.\n윤인영 교수는 “저녁형 인간은 피로나 우울 같은 문제가 쉽게 발생한다는 게 기존 견해였지만, 이번 연구에선 회복탄력성이 높은 사람은 저녁형 인간이라도 큰 문제가 없는 것으로 나타났다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 흔히 아침형 인간이 저녁형 인간에 비해 건강이 더 좋다고 알려져 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그러나 비교적 느즈막히 일어나 늦은 시간에 잠드는 생활습관이라도 충분히 건강할 수 있다는 연구결과가 나왔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "분당서울대병원 수면센터 윤인영 교수와 건국대병원 정신건강의학과 전홍준 교수는 저녁형 인간이 건강을 찾을 수 있는 조건으로 ‘회복탄력성’을 제시했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "회복탄력성이란 부정적이거나 불리한 상황을 극복하는 개인의 역량을 의미한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "윤 교수팀은 분당서울대병원 직원 1794명을 대상으로 수면의 질과 주간 졸림증, 신체 피로, 우울·불안, 삶의 질을 평가하고 아침형 인간인지 저녁형 인간인지 조사했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 결과, 저녁형 인간이 수면의 질은 훨씬 떨어지는 것으로 나타났다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 제외한 주간 졸림증, 신체 피로, 우울·불안, 삶의 질은 아침형인지 저녁형인지보다 개인의 회복탄력성에 좌우되는 것으로 나타났다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "윤인영 교수는 “저녁형 인간은 피로나 우울 같은 문제가 쉽게 발생한다는 게 기존 견해였지만, 이번 연구에선 회복탄력성이 높은 사람은 저녁형 인간이라도 큰 문제가 없는 것으로 나타났다”고 말했다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "건강을 위한 저녁형 인간의 최적화된 조건은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

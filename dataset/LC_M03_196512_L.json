@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196512",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "창작과 비평사, 홈페이지 조회 100만 돌파",
+    "newsSubTitle": "",
+    "newsContent": "창작과 비평사에 겹경사가 났다.\n하나는 이 출판사의 홈페이지인 디지털창비(http://www.changbi.com)가 조회수 1백만회 돌파를 목전에 두고 있다는 것. 1998년 3월 문을 연 이 사이트의 조회수는 개별 출판사 홈페이지로는 유례가 없는 수치다.\n창비측은 \\\"이달 중순쯤 1백만회를 넘게 돼 있어 1백만~1백만20번째 방문자에게는 다양한 선물을 줄 계획\\\"이라고 밝혔다.\n창비측은 홈페이지 중 자유게시판이 큰 역할을 한 것으로 분석하고 있다.\n문단을 달군 문학권력 논쟁이 이뤄진 것을 비롯해 미당 담론, 이문열 논쟁 등 우리 사회의 주요 논란 거리들이 다뤄지는 마당으로 자리잡았다.\n창작과 비평사를 기쁘게 한 또 다른 일은 『괭이부리말 아이들』이 불과 두 달여만에 22만부 이상 팔리면서 그 수익금 5억여원을 불우이웃돕기성금으로 낼 수 있게 된 점이다.\nMBC 오락프로그램 '느낌표'에서 독서 캠페인의 일환으로 7주 동안 이 책을 집중 권장하면서 베스트셀러 1위에 올랐다.\n방송사의 캠페인 덕을 본 것이고 캠페인 시작때부터 기부가 약속되긴 했지만 출판사 입장에서 이 정도의 '선행'은 앞으로도 불가능하리란 예상이다.\n2001년 출간 당시 이 책은 2만5천여부가 팔렸었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "창작과 비평사에 겹경사가 났다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하나는 이 출판사의 홈페이지인 디지털창비(http://www.changbi.com)가 조회수 1백만회 돌파를 목전에 두고 있다는 것. 1998년 3월 문을 연 이 사이트의 조회수는 개별 출판사 홈페이지로는 유례가 없는 수치다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "창비측은 \\\"이달 중순쯤 1백만회를 넘게 돼 있어 1백만~1백만20번째 방문자에게는 다양한 선물을 줄 계획\\\"이라고 밝혔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "창비측은 홈페이지 중 자유게시판이 큰 역할을 한 것으로 분석하고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "문단을 달군 문학권력 논쟁이 이뤄진 것을 비롯해 미당 담론, 이문열 논쟁 등 우리 사회의 주요 논란 거리들이 다뤄지는 마당으로 자리잡았다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "창작과 비평사를 기쁘게 한 또 다른 일은 『괭이부리말 아이들』이 불과 두 달여만에 22만부 이상 팔리면서 그 수익금 5억여원을 불우이웃돕기성금으로 낼 수 있게 된 점이다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "MBC 오락프로그램 '느낌표'에서 독서 캠페인의 일환으로 7주 동안 이 책을 집중 권장하면서 베스트셀러 1위에 올랐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "방송사의 캠페인 덕을 본 것이고 캠페인 시작때부터 기부가 약속되긴 했지만 출판사 입장에서 이 정도의 '선행'은 앞으로도 불가능하리란 예상이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "2001년 출간 당시 이 책은 2만5천여부가 팔렸었다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "창작과 비평사 홈페이지 조회 수 1백만 회 돌파, 수익금 수억 원 기부",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

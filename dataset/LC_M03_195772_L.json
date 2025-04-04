@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195772",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "아보카도 효능, 혈관 건강에 유익한 불포화지방 풍부 …또 어디에 좋을까?",
+    "newsSubTitle": "",
+    "newsContent": "‘아보카도 효능’ 아보카도 효능, ‘밀림의 버터’ 어디에 좋을까?\n아보카도는 ‘밀림의 버터’로 통한다.\n영양적으론 염분 함량이 적고 혈압을 조절해주는 칼륨이 열대 과일 중 가장 많이 들어 있다(100g당 634㎎). 고혈압·동맥경화 환자에게 추천하는 것은 이래서다. 100g당 열량은 177㎉나 되지만 당분 함량은 2.7g밖에 안 돼 당뇨병 환자에게도 권장된다.\n아보카도는 100g당 지방 함량이 17.3g이나 된다.\n하지만 코코넛과는 달리 지방의 85%가 혈관 건강에 유익한 불포화지방이다.\n아보카도는 껍질이 녹색에서 약간 검게 변한 상태에서 손으로 살짝 눌렀을 때 부드럽게 눌러지는 것이 잘 익은 것이다.\n익은 것은 냉장 보관이 가능하나 익지 않은 것은 냉장고에 넣어선 안 된다.\n냉장 보관은 5일을 넘기지 않도록 한다.\n껍질을 벗긴 것은 냉장고에 넣기 전에 레몬즙을 발라준다.\n그래야 과육의 변색을 막을 수 있다.\n빨리 익히고 싶으면 알루미늄 호일에 싸서 실온에 보관한다.\n아보카도 효능에 관해 네티즌들은 “아보카도 효능, 몸에 좋구나” “아보카도 효능, 맛있는데 건강에도 좋아” “아보카도 효능, 대단하구나” 등의 반응을 보였다. ‘아보카도 효능’ 온라인 중앙일보 [사진 중앙DB] ‘아보카도 효능’",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘아보카도 효능’ 아보카도 효능, ‘밀림의 버터’ 어디에 좋을까?",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아보카도는 ‘밀림의 버터’로 통한다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영양적으론 염분 함량이 적고 혈압을 조절해주는 칼륨이 열대 과일 중 가장 많이 들어 있다(100g당 634㎎). 고혈압·동맥경화 환자에게 추천하는 것은 이래서다. 100g당 열량은 177㎉나 되지만 당분 함량은 2.7g밖에 안 돼 당뇨병 환자에게도 권장된다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아보카도는 100g당 지방 함량이 17.3g이나 된다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 코코넛과는 달리 지방의 85%가 혈관 건강에 유익한 불포화지방이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아보카도는 껍질이 녹색에서 약간 검게 변한 상태에서 손으로 살짝 눌렀을 때 부드럽게 눌러지는 것이 잘 익은 것이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "익은 것은 냉장 보관이 가능하나 익지 않은 것은 냉장고에 넣어선 안 된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "냉장 보관은 5일을 넘기지 않도록 한다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "껍질을 벗긴 것은 냉장고에 넣기 전에 레몬즙을 발라준다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그래야 과육의 변색을 막을 수 있다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "빨리 익히고 싶으면 알루미늄 호일에 싸서 실온에 보관한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "아보카도 효능에 관해 네티즌들은 “아보카도 효능, 몸에 좋구나” “아보카도 효능, 맛있는데 건강에도 좋아” “아보카도 효능, 대단하구나” 등의 반응을 보였다. ‘아보카도 효능’ 온라인 중앙일보 [사진 중앙DB] ‘아보카도 효능’",
+        "sentenceSize": 127
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "밀림의 버터 `아보카도`, 염분 적고 칼륨 많아… 먹어도 괜찮은 환자는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

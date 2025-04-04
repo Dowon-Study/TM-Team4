@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199083",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[땅이야기 맛이야기] 충남(12) 메기 하나로 중독을 부르다, 양어장집",
+    "newsSubTitle": "한국국토정보공사 예산지사 직원이 추천하는 맛집",
+    "newsContent": "처음부터 끝까지 오로지 메기 예당저수지 부근에 자리한 '양어장집'은 양어장 가든이라고도 불린다. 1993년 11월에 문을 연 이래로 오로지 메기 하나로만 승부를 보고 있는데, 모든 메기는 주인장의 동생이 양어장에서 직접 키운 것을 그대로 바로바로 가져다 쓴다.\n그래서 메뉴도 메기매운탕과 메기조림 두 가지. 외지인들은 메기매운탕을, 지역 주민들은 메기조림을 선호하는 경향이 있다.\n중독성 있는 양념 비법은 비밀 메기매운탕과 메기조림 모두 양념이 관건인데, 그 비법은 주인장만 안다.\n다만 비린내가 전혀 없는 것이 중독성이 있어, 그 비법이 대단할 것이라는 점만 추측할 따름이다.\n쑥갓을 푸짐하게 얹어주는 메기 매운탕의 경우에는 포장해가는 경우도 많다.\n특히 주인장이 직접 농사지은 쌀로 밥을 지어서인지 윤기가 자르르 흐르는 것이 꿀맛이 따로 없다.\n외진 곳임에도 맛은 입소문을 타고 '양어장집'은 결코 작지 않다.\n하지만 건물이 크다고 해서 자리가 여유로울 거라고 생각하면 오산이다.\n찾아오기 수월한 위치가 아님에도 불구하고 사시사철 붐비기 때문에 기다릴 것을 예상해야 한다.\n특히 5월에서 9월까지는 말로 할 수 없을 정도다.\n다만 추석과 설 같은 명절을 제외하면 문을 닫는 법이 없어서, 일일이 전화해 영업을 확인할 필요는 없다.\n널리 알려진 이름, 그럼에도 착한 가격 '양어장집'을 찾아왔던 어느 전문가가 어찌 시골에 이런 맛이 있을 수 있느냐며 자부심을 가지라고 말했을 정도로 '양어장집'의 맛은 훌륭하다.\n게다가 가격 또한 흔히들 이야기하는 ‘착한 가격’이다.\n주인장에게 별다른 욕심이 없어서이다.\n다만 주인장이 소망하는 것은 '양어장집'의 맛과 인심이 변함없이 오래도록 이어지는 것이다.\n출처. 한국국토정보공사, 2016 땅이야기 맛이야기",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "처음부터 끝까지 오로지 메기 예당저수지 부근에 자리한 '양어장집'은 양어장 가든이라고도 불린다. 1993년 11월에 문을 연 이래로 오로지 메기 하나로만 승부를 보고 있는데, 모든 메기는 주인장의 동생이 양어장에서 직접 키운 것을 그대로 바로바로 가져다 쓴다.",
+        "sentenceSize": 145
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그래서 메뉴도 메기매운탕과 메기조림 두 가지. 외지인들은 메기매운탕을, 지역 주민들은 메기조림을 선호하는 경향이 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "중독성 있는 양념 비법은 비밀 메기매운탕과 메기조림 모두 양념이 관건인데, 그 비법은 주인장만 안다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다만 비린내가 전혀 없는 것이 중독성이 있어, 그 비법이 대단할 것이라는 점만 추측할 따름이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "쑥갓을 푸짐하게 얹어주는 메기 매운탕의 경우에는 포장해가는 경우도 많다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 주인장이 직접 농사지은 쌀로 밥을 지어서인지 윤기가 자르르 흐르는 것이 꿀맛이 따로 없다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "외진 곳임에도 맛은 입소문을 타고 '양어장집'은 결코 작지 않다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 건물이 크다고 해서 자리가 여유로울 거라고 생각하면 오산이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "찾아오기 수월한 위치가 아님에도 불구하고 사시사철 붐비기 때문에 기다릴 것을 예상해야 한다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "특히 5월에서 9월까지는 말로 할 수 없을 정도다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "다만 추석과 설 같은 명절을 제외하면 문을 닫는 법이 없어서, 일일이 전화해 영업을 확인할 필요는 없다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "널리 알려진 이름, 그럼에도 착한 가격 '양어장집'을 찾아왔던 어느 전문가가 어찌 시골에 이런 맛이 있을 수 있느냐며 자부심을 가지라고 말했을 정도로 '양어장집'의 맛은 훌륭하다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "게다가 가격 또한 흔히들 이야기하는 ‘착한 가격’이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "주인장에게 별다른 욕심이 없어서이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "다만 주인장이 소망하는 것은 '양어장집'의 맛과 인심이 변함없이 오래도록 이어지는 것이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "출처. 한국국토정보공사, 2016 땅이야기 맛이야기",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "예당저수지 부근에 자리한 '이 집'... 메기 하나로 맛 평정",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

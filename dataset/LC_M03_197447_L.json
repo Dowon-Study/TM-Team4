@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197447",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "CJ프레시웨이 \\\"병원·골프장 급식이 매출 효자\\\"",
+    "newsSubTitle": "3분기 매출 6065억원…전년보다 12% 늘어",
+    "newsContent": "CJ그룹의 식자재 유통 및 단체급식 전문기업 CJ프레시웨이는 올해 3분기 매출이 6065억원으로 전년 동기 대비 12.1% 증가했다고 3일 밝혔다.\n매출이익도 64억원 늘어난 781억원으로 집계됐다.\n사업 부문별로 보면 '식자재 유통사업'은 외식경기의 장기적 침체 속에서도 대형 급식유통 거래처 확보와 자회사인 프레시원의 성장으로 매출액이 지난해보다 10.6% 상승한 5072억원을 기록했다.\n또 단체급식 부문에서도 전통적인 비수기 기간임에도 불구하고 병원, 골프장 등과 같은 신규 거래처의 지속적인 증가에 힘입어 매출액은 전년 동기대비19% 신장한 839억원을 달성했다.\n다만 영업이익은 미래성장을 대비한 선제적인 인력충원, IT인프라 투자 등 투자성 판관비 증가로 지난해 같은 기간보다 일부 감소한 83억원을 기록했다.\nCJ프레시웨이는 4분기에도 대형 외식 프랜차이즈와의 신규 거래 등이 시작되면서 안정적인 실적을 이어갈 것으로 내다봤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "CJ그룹의 식자재 유통 및 단체급식 전문기업 CJ프레시웨이는 올해 3분기 매출이 6065억원으로 전년 동기 대비 12.1% 증가했다고 3일 밝혔다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "매출이익도 64억원 늘어난 781억원으로 집계됐다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사업 부문별로 보면 '식자재 유통사업'은 외식경기의 장기적 침체 속에서도 대형 급식유통 거래처 확보와 자회사인 프레시원의 성장으로 매출액이 지난해보다 10.6% 상승한 5072억원을 기록했다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 단체급식 부문에서도 전통적인 비수기 기간임에도 불구하고 병원, 골프장 등과 같은 신규 거래처의 지속적인 증가에 힘입어 매출액은 전년 동기대비19% 신장한 839억원을 달성했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다만 영업이익은 미래성장을 대비한 선제적인 인력충원, IT인프라 투자 등 투자성 판관비 증가로 지난해 같은 기간보다 일부 감소한 83억원을 기록했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "CJ프레시웨이는 4분기에도 대형 외식 프랜차이즈와의 신규 거래 등이 시작되면서 안정적인 실적을 이어갈 것으로 내다봤다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "CJ프레시웨이, 올해 3분기 매출... 파격적인 증가!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

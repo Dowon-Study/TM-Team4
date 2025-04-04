@@ -1,0 +1,249 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196193",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "여름철 자외선이 백내장 유발한다?",
+    "newsSubTitle": "자외선 많은 아프리카, 백내장으로 인한 실명 가장 많아",
+    "newsContent": "세계보건기구(WHO)의 발표에 따르면 현재 전 세계 실명자의 비중이 가장 큰 것은 아프리카 대륙이다.\n그 원인은 무엇일까.\n바로 백내장이다.\n아프리카인들은 평소 자외선이 강한 야외에서 활동하는 시간이 많다.\n아시아인에 비해 백내장의 위험에 크게 노출되어 있다.\n자외선은 피부 건강의 '적'인 동시에 눈을 위협하는 위험요소이기도 하다.\n여름 자외선, 백내장에 치명적 자외선과 관련해 ‘피부’만 주의하면 된다고 생각하는 경우가 대부분이다.\n하지만 피부만큼 주의를 요하는 것이 바로 ‘눈’이다.\n백내장을 유발하는 위험인자 중 하나가 자외선인 탓이다.\n백내장은 수정체에 혼탁이 발생해 시력이 저하되는 상태를 말한다.\n성모맑은눈안과 임석범 원장은 “수정체는 나이가 들어감에 따라 투명성을 잃게 되는데 자외선은 수정체 단백질에 손상을 일으켜서 백내장의 원인이 되기도 한다”고 말했다.\n수정체가 혼탁해지면 눈에 들어온 빛이 제대로 통과하지 못해 시야가 안개가 낀 것처럼 뿌옇고 눈이 쉽게 피로해진다.\n백내장은 50대에 서서히 시작되며 60대에서 약 70%, 70대 이상에서는 90%의 발병율이 나타난다.\n최근에는 야외활동의 증가로 30~40대에서 백내장이 발생하기도 한다.\n백내장과 노안, 한 번에 해결도 가능해 그렇다면 백내장은 어떻게 치료해야 할까.\n대표적인 치료법은 수술이다.\n혼탁해진 수정체를 제거하고 인공수정체를 삽입한다.\n안경 없이도 생활할 수 있다.\n최근에는 백내장과 노안이라는 '두 마리 토끼'를 동시에 잡기도 한다.\n인공수정체 중 노안까지 해결할 수 있는 특수수정체가 개발된 덕분이다.\n임 원장은 “다초점 인공수정체는 렌즈에서 빛이 두 가닥으로 꺾이면서 망막에 도달하는 빛의 양을 자동으로 조절하기 때문에 근거리와 원거리를 모두 잘 볼 수 있게 된다는 장점이 있다”고 말했다.\n이어 “단, 근거리와 원거리는 잘 보이지만 중간거리는 상대적으로 잘 보이지 않는다는 단점이 있기 때문에 명확한 시력을 원하는지, 삶의 질 향상을 바라는지 전문의와 상담 후 시술방법을 선택하는 것이 좋다”고 조언했다.\n백내장은 무엇보다 예방이 중요하다.\n자외선이 강한 여름철엔 외출시 눈 보호에 신경써야 한다.\n오랜 시간 외부 활동하는 것을 피한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 25,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세계보건기구(WHO)의 발표에 따르면 현재 전 세계 실명자의 비중이 가장 큰 것은 아프리카 대륙이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그 원인은 무엇일까.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "바로 백내장이다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아프리카인들은 평소 자외선이 강한 야외에서 활동하는 시간이 많다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아시아인에 비해 백내장의 위험에 크게 노출되어 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "자외선은 피부 건강의 '적'인 동시에 눈을 위협하는 위험요소이기도 하다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여름 자외선, 백내장에 치명적 자외선과 관련해 ‘피부’만 주의하면 된다고 생각하는 경우가 대부분이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 피부만큼 주의를 요하는 것이 바로 ‘눈’이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "백내장을 유발하는 위험인자 중 하나가 자외선인 탓이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "백내장은 수정체에 혼탁이 발생해 시력이 저하되는 상태를 말한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "성모맑은눈안과 임석범 원장은 “수정체는 나이가 들어감에 따라 투명성을 잃게 되는데 자외선은 수정체 단백질에 손상을 일으켜서 백내장의 원인이 되기도 한다”고 말했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "수정체가 혼탁해지면 눈에 들어온 빛이 제대로 통과하지 못해 시야가 안개가 낀 것처럼 뿌옇고 눈이 쉽게 피로해진다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "백내장은 50대에 서서히 시작되며 60대에서 약 70%, 70대 이상에서는 90%의 발병율이 나타난다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "최근에는 야외활동의 증가로 30~40대에서 백내장이 발생하기도 한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "백내장과 노안, 한 번에 해결도 가능해 그렇다면 백내장은 어떻게 치료해야 할까.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "대표적인 치료법은 수술이다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "혼탁해진 수정체를 제거하고 인공수정체를 삽입한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "안경 없이도 생활할 수 있다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "최근에는 백내장과 노안이라는 '두 마리 토끼'를 동시에 잡기도 한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "인공수정체 중 노안까지 해결할 수 있는 특수수정체가 개발된 덕분이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "임 원장은 “다초점 인공수정체는 렌즈에서 빛이 두 가닥으로 꺾이면서 망막에 도달하는 빛의 양을 자동으로 조절하기 때문에 근거리와 원거리를 모두 잘 볼 수 있게 된다는 장점이 있다”고 말했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "이어 “단, 근거리와 원거리는 잘 보이지만 중간거리는 상대적으로 잘 보이지 않는다는 단점이 있기 때문에 명확한 시력을 원하는지, 삶의 질 향상을 바라는지 전문의와 상담 후 시술방법을 선택하는 것이 좋다”고 조언했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "백내장은 무엇보다 예방이 중요하다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "자외선이 강한 여름철엔 외출시 눈 보호에 신경써야 한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "오랜 시간 외부 활동하는 것을 피한다.",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여름철 자외선에 오래 노출되면 백내장 유발 위험 높아··· 백내장 예방은 어떻게?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

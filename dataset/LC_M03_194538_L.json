@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194538",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "기독교 聖畵도 인터넷 경매로 구입",
+    "newsSubTitle": "",
+    "newsContent": "포털아트(www.porart.com)는 중견 화가 김순이 화백의 기독교 성화 작품을 경매에 통해 판매한다고 밝혔다.\n김순이 화백의 기독교 성화는 작년 7월 14일부터 8월 20일까지 한국국제전시장(일산 킨텍스)에서 열린 레오나르도 다빈치 그림 전시회에 초청받아 다빈치 작품들과 같이 전시되는 영광을 누렸다.\n김순이 화백의 기독교 성화는 기존의 성화들과는 확연하게 차별화된다.\n기존의 기독교 성화가 파란 눈의 마리아를 표현하여 우리에게 이질감을 준다면, 김순이 화백의 성화는 검은색 눈을, 예수의 눈에는 우리 이웃의 눈을 담아내고 있기 때문에 신선한 충격과 감동을 주는지도 모른다.\n김순이 화백은 “작가의 시각적인 그림이 아닌 주님의 말씀까지도 그려야 한다는 무게를, 신앙생활과 주변의 도움으로 마칠수 있었다” 며 “ 성화 작품은 다른 작품들보다 최소 3배이상 시간이 걸렸다.” 고 감회를 밝혔다.\n포털아트(www.porart.com) 김범훈 대표는 “레오나르도 다빈치 그림 전시회에 같이 전시된 김순이 화백의 기독교 성화가 경매로 판매된다는데 의의가 있는 것”이라며 “김순이 화백의 작품 막달라마리아 (4호) 작품은 경매 상한가인 즉시구매가 35만원에 낙찰될 정도로 기독교인 뿐만이 아니라 일반인들에게도 인기가 높다.”고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "포털아트(www.porart.com)는 중견 화가 김순이 화백의 기독교 성화 작품을 경매에 통해 판매한다고 밝혔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김순이 화백의 기독교 성화는 작년 7월 14일부터 8월 20일까지 한국국제전시장(일산 킨텍스)에서 열린 레오나르도 다빈치 그림 전시회에 초청받아 다빈치 작품들과 같이 전시되는 영광을 누렸다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김순이 화백의 기독교 성화는 기존의 성화들과는 확연하게 차별화된다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "기존의 기독교 성화가 파란 눈의 마리아를 표현하여 우리에게 이질감을 준다면, 김순이 화백의 성화는 검은색 눈을, 예수의 눈에는 우리 이웃의 눈을 담아내고 있기 때문에 신선한 충격과 감동을 주는지도 모른다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김순이 화백은 “작가의 시각적인 그림이 아닌 주님의 말씀까지도 그려야 한다는 무게를, 신앙생활과 주변의 도움으로 마칠수 있었다” 며 “ 성화 작품은 다른 작품들보다 최소 3배이상 시간이 걸렸다.” 고 감회를 밝혔다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "포털아트(www.porart.com) 김범훈 대표는 “레오나르도 다빈치 그림 전시회에 같이 전시된 김순이 화백의 기독교 성화가 경매로 판매된다는데 의의가 있는 것”이라며 “김순이 화백의 작품 막달라마리아 (4호) 작품은 경매 상한가인 즉시구매가 35만원에 낙찰될 정도로 기독교인 뿐만이 아니라 일반인들에게도 인기가 높다.”고 밝혔다.",
+        "sentenceSize": 186
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김순이 화백의 기독교 성화, 신선한 충격과 감동 주는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

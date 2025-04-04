@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193608",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "\\\"아내 아픈 건 나 때문\\\" 자책하는 삼식이",
+    "newsSubTitle": "",
+    "newsContent": "━ [더,오래] 강인춘의 마눌님! 마눌님!(24) 마눌이 아침, 점심도 거른 채 다 저녁때까지 안방에 드러누워 있다.\n좀처럼 보이지 않던 행동이라 궁금했다. “왜, 어디 아파요?” “어디 아프냐고~” 몇 번을 다그쳐 물어보았지만 마눌은 쳐다보지도 않고 인상만 구기고 있다.\n나는 바로 자책감에 사로잡힌다.\n보나 마나 저 증상은 집에서만 죽치고 있으면서 삼시 세끼 챙겨 먹는 이놈의 삼식이 때문일 것이다.\n설마 그럴 리가? 강하게 부정해보지만, 해답은 사방에 꽉 막힌 벽들뿐이다.\n그래, 구차하게 변명을 찾지 말자.\n사나이답게 오지게 덤터기를 쓰자. ‘백수 아내의 병 90%가 그 원인은 남편 때문이다. 이 병은 두통이나 현기증, 온몸 쑤심, 불면증, 등등의 증상으로 나타나는데 이름하여 화병(火病)이라고도 한다.’ 엊그제 신문에서 본 기사가 이렇게 증명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [더,오래] 강인춘의 마눌님! 마눌님!(24) 마눌이 아침, 점심도 거른 채 다 저녁때까지 안방에 드러누워 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "좀처럼 보이지 않던 행동이라 궁금했다. “왜, 어디 아파요?” “어디 아프냐고~” 몇 번을 다그쳐 물어보았지만 마눌은 쳐다보지도 않고 인상만 구기고 있다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "나는 바로 자책감에 사로잡힌다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보나 마나 저 증상은 집에서만 죽치고 있으면서 삼시 세끼 챙겨 먹는 이놈의 삼식이 때문일 것이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "설마 그럴 리가? 강하게 부정해보지만, 해답은 사방에 꽉 막힌 벽들뿐이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그래, 구차하게 변명을 찾지 말자.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사나이답게 오지게 덤터기를 쓰자. ‘백수 아내의 병 90%가 그 원인은 남편 때문이다. 이 병은 두통이나 현기증, 온몸 쑤심, 불면증, 등등의 증상으로 나타나는데 이름하여 화병(火病)이라고도 한다.’ 엊그제 신문에서 본 기사가 이렇게 증명했다.",
+        "sentenceSize": 136
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아내가 화병이 난 이유는 솔까말 삼식이 남편 때문",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

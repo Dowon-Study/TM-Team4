@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194841",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "직장인의 세밀한 '절세 노하우'",
+    "newsSubTitle": "'합법적으로 세금 안 내는 110가지 방법'",
+    "newsContent": "직장인들은 해마다 연말이면 연말정산을 위한 증빙 서류를 챙기느라 바쁘다.\n하지만 세금 공제혜택을 받을 수 있는 경우가 많지만 평소에 챙겨 두지 않아 후회하기 일쑤다.\n올해 4인 가족 기준 가구당 세금 부담액이 1천만원을 넘어선 지금 씀씀이를 줄이는 것 못지 않게 절세(節稅)의 노하우를 터득하는 게 중요하다.\n이 책은 외환은행 재테크 ·세무 컨설팅센터 실장으로 있는 저자가 고객 상담 현장에서 겪은 세무 관련 문의내용을 알기 쉽게 정리한 것이다.\n가령 상속세를 줄이는 방법은 ▶부모님의 병환이 위중할 때는 재산을 처분하지 않는다 ▶보험료는 자녀들이 불입한다 ▶새로 대출을 받는다 ▶배우자나 자녀에게 미리 증여한다 ▶빚이 얼마나 있는지 알아둔다 ▶병원비나 공과금은 돌아가신 후 상속 재산으로 지불한다 등이다.\n부모님을 모시지 않더라도 생활비를 보태드린 증명(통장 입금 영수증)이 있으면 자녀 중 1명이 소득 공제를 받을 수 있고 자녀 명의로 예금을 분산하면 종합소득세도 줄이고 미리 증여도 할 수 있다.\n또 현금보다 부동산 증여가 유리하고 배우자 명의로 보험을 드는 것도 세금을 내지 않고 증여하는 방법이다. (노병윤 지음/ 아라크네/ 1만2천원)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "직장인들은 해마다 연말이면 연말정산을 위한 증빙 서류를 챙기느라 바쁘다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하지만 세금 공제혜택을 받을 수 있는 경우가 많지만 평소에 챙겨 두지 않아 후회하기 일쑤다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "올해 4인 가족 기준 가구당 세금 부담액이 1천만원을 넘어선 지금 씀씀이를 줄이는 것 못지 않게 절세(節稅)의 노하우를 터득하는 게 중요하다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 책은 외환은행 재테크 ·세무 컨설팅센터 실장으로 있는 저자가 고객 상담 현장에서 겪은 세무 관련 문의내용을 알기 쉽게 정리한 것이다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "가령 상속세를 줄이는 방법은 ▶부모님의 병환이 위중할 때는 재산을 처분하지 않는다 ▶보험료는 자녀들이 불입한다 ▶새로 대출을 받는다 ▶배우자나 자녀에게 미리 증여한다 ▶빚이 얼마나 있는지 알아둔다 ▶병원비나 공과금은 돌아가신 후 상속 재산으로 지불한다 등이다.",
+        "sentenceSize": 145
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "부모님을 모시지 않더라도 생활비를 보태드린 증명(통장 입금 영수증)이 있으면 자녀 중 1명이 소득 공제를 받을 수 있고 자녀 명의로 예금을 분산하면 종합소득세도 줄이고 미리 증여도 할 수 있다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 현금보다 부동산 증여가 유리하고 배우자 명의로 보험을 드는 것도 세금을 내지 않고 증여하는 방법이다. (노병윤 지음/ 아라크네/ 1만2천원)",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "직장인, 평소에 챙겨두지 않으면 후회하기 일쑤… 알고 보니…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

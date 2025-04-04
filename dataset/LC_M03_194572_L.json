@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194572",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강서적] 겨울 약선 40가지 조리법 外",
+    "newsSubTitle": "",
+    "newsContent": "◆겨울 약선 40가지 조리법 대한약선연구소정인 차은정 박사가 『계절 약선 40선-추동편』(사진)을 선보였다.\n제 고장에서 생산되는 제철음식을 먹자는 일본의 지산지소 운동이나 서양의 슬로푸드 운동에 신토불이 이론을 접목한 건강조리책이다.\n작약토란전골·우슬골뱅이국 등 40가지 약선 조리과정을 사진과 함께 보여주고 있다.\n덧붙여 발효액 담그는 법, 우리 미액(소스류)과 오행, 만드는 법, 약재의 치선방법 활용 등을 소개했다.\n도서출판 효일, 123쪽, 1만8000원. ◆전 아산병원장의 '메스 인생' 회고 72세가 될 때까지 외과의사로서 환자치료에 매진해온 민병철 전 서울아산병원장이 자신의 인생 역정을 담담하게 그려낸 『나는 대한민국 외과의사다』(사진)가 출간됐다.\n6·25 전쟁 직후 어려운 환경을 극복하고 의대생이 되기까지, 그리고 미국 외과 전문의 한국인 1호로 금의환향한 뒤 교수와 의사·병원 CEO로서 자신이 걸어온 삶을 기억을 통해 생생하게 그려내고 있다.\n특히 그는 책의 말미에 젊은 후학들에게 '사람의 삶을 이해하는 의사'가 될 것을 당부했다.\n새론북스 출판, 239쪽, 1만원.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆겨울 약선 40가지 조리법 대한약선연구소정인 차은정 박사가 『계절 약선 40선-추동편』(사진)을 선보였다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "제 고장에서 생산되는 제철음식을 먹자는 일본의 지산지소 운동이나 서양의 슬로푸드 운동에 신토불이 이론을 접목한 건강조리책이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "작약토란전골·우슬골뱅이국 등 40가지 약선 조리과정을 사진과 함께 보여주고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "덧붙여 발효액 담그는 법, 우리 미액(소스류)과 오행, 만드는 법, 약재의 치선방법 활용 등을 소개했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "도서출판 효일, 123쪽, 1만8000원. ◆전 아산병원장의 '메스 인생' 회고 72세가 될 때까지 외과의사로서 환자치료에 매진해온 민병철 전 서울아산병원장이 자신의 인생 역정을 담담하게 그려낸 『나는 대한민국 외과의사다』(사진)가 출간됐다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "6·25 전쟁 직후 어려운 환경을 극복하고 의대생이 되기까지, 그리고 미국 외과 전문의 한국인 1호로 금의환향한 뒤 교수와 의사·병원 CEO로서 자신이 걸어온 삶을 기억을 통해 생생하게 그려내고 있다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 그는 책의 말미에 젊은 후학들에게 '사람의 삶을 이해하는 의사'가 될 것을 당부했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "새론북스 출판, 239쪽, 1만원.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우리 고장 제철음식 '신토불이'로 건강하게 먹는 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

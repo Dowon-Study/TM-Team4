@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197104",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "[포토뉴스] 추울수록 깊어진다 … 혹한에 익는 황태 맛",
+    "newsSubTitle": "",
+    "newsContent": "엄동설한에 황태가 익는다.\n겨울 밤 어느 시인의 술안주로 북북 찢어져도 좋을 황태가 하얀 눈 아래에서 익어 간다.\n지난해 12월 말까지 강원도의 황태 덕장들은 전부 개점휴업 상태였다.\n지구온난화의 영향이 강원도 산골까지 덮친 것이다.\n황태 덕장 나무걸이엔 황태 대신 주민들 한숨이 걸렸다.\n해가 바뀌고 소한(6일)이 지나더니 마침내 눈이 내리고 날씨가 제자리를 찾았다.\n영하 10도를 맴도는 기온이 계속되면서 한가하던 황태 덕장이 바빠졌다.\n한숨이 걸렸던 자리엔 명태들이 걸렸다.\n바다가 그리운 명태는 눈 녹은 물에 갈증을 푼다. 얼었다 녹고, 녹았다 얼고. 햇볕 한소끔 살짝 간이 밴 황태가 노랗게 익어간다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "엄동설한에 황태가 익는다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "겨울 밤 어느 시인의 술안주로 북북 찢어져도 좋을 황태가 하얀 눈 아래에서 익어 간다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난해 12월 말까지 강원도의 황태 덕장들은 전부 개점휴업 상태였다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지구온난화의 영향이 강원도 산골까지 덮친 것이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "황태 덕장 나무걸이엔 황태 대신 주민들 한숨이 걸렸다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해가 바뀌고 소한(6일)이 지나더니 마침내 눈이 내리고 날씨가 제자리를 찾았다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "영하 10도를 맴도는 기온이 계속되면서 한가하던 황태 덕장이 바빠졌다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한숨이 걸렸던 자리엔 명태들이 걸렸다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "바다가 그리운 명태는 눈 녹은 물에 갈증을 푼다. 얼었다 녹고, 녹았다 얼고. 햇볕 한소끔 살짝 간이 밴 황태가 노랗게 익어간다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "뚝 떨어진 기온에 후끈 달아오른 황태 덕장",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

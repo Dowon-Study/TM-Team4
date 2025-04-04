@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198984",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"단속 나오면 햄버거에 소독약 부어\\\"…맥도날드 점장의 폭로",
+    "newsSubTitle": "",
+    "newsContent": "맥도날드가 보건당국의 위생점검 때 식중독균을 찾아낼 수 없도록 햄버거에 소독제를 뿌렸다는 충격적인 폭로가 나왔다.\n9월 21일 TV조선 '종합뉴스 9'는 맥도날드가 보건당국이 위생점검을 나오면 식중독균이 검출되지 않도록 소독제를 뿌리게 했다는 점장 A씨의 폭로를 단독 보도했다.\n보도에 따르면 맥도날드 매장에서 수년 동안 근무를 하는 점장 A씨는 보건당국이 매장에 위생점검을 나오면 '수거용 얼음'을 제공한다고 말했다.\n대장균을 비롯한 식중독균이 검출되지 않도록 점검반 몰래 식기 세척에 쓰는 소독제를 얼음에 뿌려 건넨다는 것이다.\n맥도날드 점장 A씨는 TV조선 취재진과의 인터뷰에서 \\\"(소독제를) 그냥 확 (얼음에) 부어버린다\\\"며 \\\"그거를 그대로 가져가게 되면 대장균이나 그런 것들은 100% 나올 수가 없다\\\"고 말했다.\n점장 A씨는 또 한국맥도날드 본사가 '소독된 얼음을 제공하라'고 위생점검 대응 지침을 메일로 보냈다고 주장했다.\n그러면서 이를 점포 관리자들이 직접 확인하는 경우도 있었다고 폭로해 큰 충격을 준다.\n이뿐만이 아니었다.\n햄버거에도 소독제를 뿌려 점검반에 제공했다.\n맥도날드 점장 A씨는 \\\"햄버거에도 뿌리는데, 그거는 눈치껏 해야 한다\\\"며 \\\"햄버거 안쪽에다가 패티 있는 쪽에다가 이렇게 뿌린다\\\"고 말했다.\n점장 A씨는 이러한 일은 맥도날드 여러 매장에 관행처럼 이뤄지고 있다면서 동료 점장과 주고받은 SNS 대화, 통화 내용 등도 TV조선 취재진에게 공개했다.\n또 다른 맥도날드 점장 B씨는 \\\"엄청 (소독제) 뿌려서 가는데 (음식에다가?) 거기서 그러면 합격해서 나온다\\\"며 \\\"보건당국이 먹어본 건 아니니까\\\"라고 말했다.\nTV조선의 해당 보도에 대해 맥도날드 측은 \\\"보도된 내용은 범죄 행위로 당사 매장에서는 결코 있을 수 없는 일이다\\\"라며 \\\"이런 행위를 하지 않도록 교육·훈련을 받아온 직원·감독자가 그런 행위를 하며 이를 촬영했다고 하는 것은 누가 보아도 그 의도가 심히 의심스러울 수밖에 없다. 당사로서는 형사고발 조치를 취할 수밖에 없다\\\"라는 입장을 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "맥도날드가 보건당국의 위생점검 때 식중독균을 찾아낼 수 없도록 햄버거에 소독제를 뿌렸다는 충격적인 폭로가 나왔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "9월 21일 TV조선 '종합뉴스 9'는 맥도날드가 보건당국이 위생점검을 나오면 식중독균이 검출되지 않도록 소독제를 뿌리게 했다는 점장 A씨의 폭로를 단독 보도했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "보도에 따르면 맥도날드 매장에서 수년 동안 근무를 하는 점장 A씨는 보건당국이 매장에 위생점검을 나오면 '수거용 얼음'을 제공한다고 말했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대장균을 비롯한 식중독균이 검출되지 않도록 점검반 몰래 식기 세척에 쓰는 소독제를 얼음에 뿌려 건넨다는 것이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "맥도날드 점장 A씨는 TV조선 취재진과의 인터뷰에서 \\\"(소독제를) 그냥 확 (얼음에) 부어버린다\\\"며 \\\"그거를 그대로 가져가게 되면 대장균이나 그런 것들은 100% 나올 수가 없다\\\"고 말했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "점장 A씨는 또 한국맥도날드 본사가 '소독된 얼음을 제공하라'고 위생점검 대응 지침을 메일로 보냈다고 주장했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러면서 이를 점포 관리자들이 직접 확인하는 경우도 있었다고 폭로해 큰 충격을 준다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이뿐만이 아니었다.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "햄버거에도 소독제를 뿌려 점검반에 제공했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "맥도날드 점장 A씨는 \\\"햄버거에도 뿌리는데, 그거는 눈치껏 해야 한다\\\"며 \\\"햄버거 안쪽에다가 패티 있는 쪽에다가 이렇게 뿌린다\\\"고 말했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "점장 A씨는 이러한 일은 맥도날드 여러 매장에 관행처럼 이뤄지고 있다면서 동료 점장과 주고받은 SNS 대화, 통화 내용 등도 TV조선 취재진에게 공개했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "또 다른 맥도날드 점장 B씨는 \\\"엄청 (소독제) 뿌려서 가는데 (음식에다가?) 거기서 그러면 합격해서 나온다\\\"며 \\\"보건당국이 먹어본 건 아니니까\\\"라고 말했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "TV조선의 해당 보도에 대해 맥도날드 측은 \\\"보도된 내용은 범죄 행위로 당사 매장에서는 결코 있을 수 없는 일이다\\\"라며 \\\"이런 행위를 하지 않도록 교육·훈련을 받아온 직원·감독자가 그런 행위를 하며 이를 촬영했다고 하는 것은 누가 보아도 그 의도가 심히 의심스러울 수밖에 없다. 당사로서는 형사고발 조치를 취할 수밖에 없다\\\"라는 입장을 밝혔다.",
+        "sentenceSize": 196
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "맥도날드 점장의 충격 폭로, \"위생 단속 나오면 '이것'까지 여기저기 붓는다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

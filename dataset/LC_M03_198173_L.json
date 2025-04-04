@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198173",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[와글와글e동네] 개똥 예술",
+    "newsSubTitle": "",
+    "newsContent": "\\\"어머 개똥이 왕관을 쓰고 있네!\\\" \\\"와인이 곁들여져 있는 음식도 혹시 개똥 아니에요?\\\"(사진) 인터넷에서 '개똥 아트 사진'이 인기입니다.\n포크와 냅킨까지 그럴듯하게 차려진 식탁의 주인공도 개똥이고요, 앙증맞은 은색 왕관을 쓰고 있는 것도 개똥입니다.\n파이처럼 설탕 장식물이 뿌려져 있는 개똥도 있고요.\n이것들은 3명으로 구성된 한 예술가 집단이 만든 '작품'입니다.\n2005년부터 활동해온 이들은 거리를 돌아다니면서 개 배설물을 찾아 즉석에서 그와 어울리는 예술 작품들을 만들어낸다고 하네요.\n거기 제목을 붙이고 사진을 찍어 자신들의 홈페이지(sprinklebrigade.com)에 올리고 있답니다.\n엉뚱하고 엽기적인 발상. 네티즌들이 좋아할 만도 하죠?",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"어머 개똥이 왕관을 쓰고 있네!\\\" \\\"와인이 곁들여져 있는 음식도 혹시 개똥 아니에요?\\\"(사진) 인터넷에서 '개똥 아트 사진'이 인기입니다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "포크와 냅킨까지 그럴듯하게 차려진 식탁의 주인공도 개똥이고요, 앙증맞은 은색 왕관을 쓰고 있는 것도 개똥입니다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "파이처럼 설탕 장식물이 뿌려져 있는 개똥도 있고요.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이것들은 3명으로 구성된 한 예술가 집단이 만든 '작품'입니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2005년부터 활동해온 이들은 거리를 돌아다니면서 개 배설물을 찾아 즉석에서 그와 어울리는 예술 작품들을 만들어낸다고 하네요.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "거기 제목을 붙이고 사진을 찍어 자신들의 홈페이지(sprinklebrigade.com)에 올리고 있답니다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "엉뚱하고 엽기적인 발상. 네티즌들이 좋아할 만도 하죠?",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "홈페이지에 올라온 '이 사진'... 엉뚱하고 엽기적이라 네티즌 사이에서 인기 만발",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

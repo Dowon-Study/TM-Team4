@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193073",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 헬스 신간",
+    "newsSubTitle": "",
+    "newsContent": "『잘 먹고 잘 싸기』 박효진 지음, 황금알, 200쪽, 1만4000원 위장관 질환 예방 지침서 『잘 먹고 잘 싸기』 가 발간됐다.\n한국인은 위장병에 취약하다.\n가벼운 소화불량부터 위염·위궤양·위암에이르기까지 다양한 질병에 시달린다.\n강남세브란스병원 소화기내과 교수인 저자는 일반인이 가장 궁금해하는 식도·위장관 질환을 선별해 책으로 엮었다.\n질환의 원인과 증상, 진단법은 물론 최신 치료법까지 두루 안내한다.\n핵심 내용을 180개의 문답으로 설명해 이해하기 쉽도록 꾸몄다. 『안 먹는 아이 잘 먹는 아이』 한영신·박수화 지음, 청어람Life, 160쪽, 1만3000원 영유아 건강 가이드북 『안 먹는 아이 잘 먹는 아이』가 출간됐다.\n부모의 가장 큰 걱정은 아이가 먹지 않을 때다.\n모유를 줄이고이유식을 시작하는 시기부터 아이의 먹는문제로 고민한다.\n식품영양학자·소아청소년과 의사인 저자들은 식사 문제의 원인을찾아내 6가지 유형으로 나눴다.\n유형별로올바른 육아법이 뭔지 알려준다.\n아이의 성장·발달 과정을 이해하고 영양 상식을 얻는데 유익하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "『잘 먹고 잘 싸기』 박효진 지음, 황금알, 200쪽, 1만4000원 위장관 질환 예방 지침서 『잘 먹고 잘 싸기』 가 발간됐다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국인은 위장병에 취약하다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "가벼운 소화불량부터 위염·위궤양·위암에이르기까지 다양한 질병에 시달린다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "강남세브란스병원 소화기내과 교수인 저자는 일반인이 가장 궁금해하는 식도·위장관 질환을 선별해 책으로 엮었다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "질환의 원인과 증상, 진단법은 물론 최신 치료법까지 두루 안내한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "핵심 내용을 180개의 문답으로 설명해 이해하기 쉽도록 꾸몄다. 『안 먹는 아이 잘 먹는 아이』 한영신·박수화 지음, 청어람Life, 160쪽, 1만3000원 영유아 건강 가이드북 『안 먹는 아이 잘 먹는 아이』가 출간됐다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "부모의 가장 큰 걱정은 아이가 먹지 않을 때다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "모유를 줄이고이유식을 시작하는 시기부터 아이의 먹는문제로 고민한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "식품영양학자·소아청소년과 의사인 저자들은 식사 문제의 원인을찾아내 6가지 유형으로 나눴다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "유형별로올바른 육아법이 뭔지 알려준다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "아이의 성장·발달 과정을 이해하고 영양 상식을 얻는데 유익하다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "원인과 증상, 최신 치료법까지 두루 안내한 책... 이해하기 쉽도록 꾸며",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

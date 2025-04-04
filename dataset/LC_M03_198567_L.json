@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198567",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[틴틴/키즈] '거꾸로 경제학자들의 바로 경제학'",
+    "newsSubTitle": "요술피리 글, 노현정 그림, 올벼, 9천원",
+    "newsContent": "근대 경제학의 아버지 애덤 스미스부터 노벨 경제학상 수상자인 밀턴 프리드먼까지 11명의 경제학자들의 삶과 경제 이론을 어린이 눈높이에 맞춰 설명한 책이다.\n\\\"경제가 이루어지는 것은 보이지 않는 손이 각자의 이기심을 조절해 서로에게 도움이 되도록 만들어주기 때문\\\"이라는 애덤 스미스의 '국부론'을 경쟁 상대인 코끼리 문구점과 캥거루 문구점의 예화로 들려준다.\n코끼리 문구점은 돈을 많이 벌고 싶어서 1백원 하던 연필을 어느 날 2백원으로 올려 받지만, 바로 옆 캥거루 문구점에서는 50원만 올려 1백50원에 팔자 코끼리 문구점에서는 연필이 팔리지 않는다.\n문구점 주인이나 1백50원에 연필을 산 사람들이나 모두 이기심에 따라 행동하기 때문이다.\n책에는 데이비드 리카도의 무역 이론인 '비교우위론', 마르크스의 '자본론'도 등장한다.\n강동호(종교학).양원태(경영학).최강문(정치학) 씨 등이 참여한 기획집단 요술피리가 글을 썼다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "근대 경제학의 아버지 애덤 스미스부터 노벨 경제학상 수상자인 밀턴 프리드먼까지 11명의 경제학자들의 삶과 경제 이론을 어린이 눈높이에 맞춰 설명한 책이다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "\\\"경제가 이루어지는 것은 보이지 않는 손이 각자의 이기심을 조절해 서로에게 도움이 되도록 만들어주기 때문\\\"이라는 애덤 스미스의 '국부론'을 경쟁 상대인 코끼리 문구점과 캥거루 문구점의 예화로 들려준다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "코끼리 문구점은 돈을 많이 벌고 싶어서 1백원 하던 연필을 어느 날 2백원으로 올려 받지만, 바로 옆 캥거루 문구점에서는 50원만 올려 1백50원에 팔자 코끼리 문구점에서는 연필이 팔리지 않는다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "문구점 주인이나 1백50원에 연필을 산 사람들이나 모두 이기심에 따라 행동하기 때문이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "책에는 데이비드 리카도의 무역 이론인 '비교우위론', 마르크스의 '자본론'도 등장한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "강동호(종교학).양원태(경영학).최강문(정치학) 씨 등이 참여한 기획집단 요술피리가 글을 썼다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이들'의 삶과 경제 이론을 어린이 눈높이에 맞춰 설명한 책 나왔다는데... ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198967",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "女 폐암 환자 93%가 비흡연···진짜 원인은 '음식 연기'",
+    "newsSubTitle": "",
+    "newsContent": "폐암의 원인 70~80%가 흡연이지만 여성 폐암 환자 10명 중 9명은 비흡연자다.\n전문가들은 비흡연 여성 폐암의 주요 원인으로 ‘음식 조리 시 발생하는 연기’를 꼽았다.\n분당서울대병원에서 2003~2015년 폐암으로 수술한 여성 환자 957명을 분석한 결과, 92.7%(887명)가 비흡연자였다.\n10명 중 9명이 흡연이 아닌 다른 원인 때문에 폐암에 걸린다는 것인데, 폐암 전문가들은 음식 조리 시 발생하는 연기를 주요 원인으로 설명했다.\n헬스조선에 따르면 전문가들은 어류·육류 등 단백질 식품이나 식용유가 탈 때 발생하는 발암물질이 섞인 연기나 그을음이 폐에 침투해 폐암을 일으킨다고 추정한다.\n최근 대한폐암학회가 전국 10개 대학병원에서 비흡연 여성 폐암 환자 226명과 비흡연 여성 환자 76명을 대상으로 설문조사를 진행한 결과 비흡연 여성 폐암 환자가 집에서 직접 요리를 하는 경우가 많았다.\n또 요리할 때 눈이 따가울 정도로 연기가 자욱한 환경에 많이 노출됐으며 튀기거나 부침 요리 등 기름을 많이 쓰는 요리를 하는 것으로 조사됐다.\n대한폐암학회 장승훈 총무 이사(한림대 성심병원 호흡기 알레르기내과 교수)는 헬스조선에 “지금까지 나온 연구를 종합해보면 조리 시 연기로 인한 폐암 위험은 1.6~3.3배가 된다”며 “조리 시 꼭 레인지 후드 같은 환기장치를 켜고 창문을 열어놓는 습관을 들여야 한다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "폐암의 원인 70~80%가 흡연이지만 여성 폐암 환자 10명 중 9명은 비흡연자다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "전문가들은 비흡연 여성 폐암의 주요 원인으로 ‘음식 조리 시 발생하는 연기’를 꼽았다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "분당서울대병원에서 2003~2015년 폐암으로 수술한 여성 환자 957명을 분석한 결과, 92.7%(887명)가 비흡연자였다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "10명 중 9명이 흡연이 아닌 다른 원인 때문에 폐암에 걸린다는 것인데, 폐암 전문가들은 음식 조리 시 발생하는 연기를 주요 원인으로 설명했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "헬스조선에 따르면 전문가들은 어류·육류 등 단백질 식품이나 식용유가 탈 때 발생하는 발암물질이 섞인 연기나 그을음이 폐에 침투해 폐암을 일으킨다고 추정한다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최근 대한폐암학회가 전국 10개 대학병원에서 비흡연 여성 폐암 환자 226명과 비흡연 여성 환자 76명을 대상으로 설문조사를 진행한 결과 비흡연 여성 폐암 환자가 집에서 직접 요리를 하는 경우가 많았다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 요리할 때 눈이 따가울 정도로 연기가 자욱한 환경에 많이 노출됐으며 튀기거나 부침 요리 등 기름을 많이 쓰는 요리를 하는 것으로 조사됐다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "대한폐암학회 장승훈 총무 이사(한림대 성심병원 호흡기 알레르기내과 교수)는 헬스조선에 “지금까지 나온 연구를 종합해보면 조리 시 연기로 인한 폐암 위험은 1.6~3.3배가 된다”며 “조리 시 꼭 레인지 후드 같은 환기장치를 켜고 창문을 열어놓는 습관을 들여야 한다”고 말했다.",
+        "sentenceSize": 154
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여성 폐암 환자 93%가 비흡연자··· 진짜 원인은 '이것'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

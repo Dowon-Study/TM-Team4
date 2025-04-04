@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197166",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[뉴스비타민] '꼬매고 싶은 입'상",
+    "newsSubTitle": "여성주의 포털 첫 선정 여성 비하 발언에 경고",
+    "newsContent": "여성주의 커뮤니티 포털사이트인 '언니네(www.unninet.net)'가 18일 '2006 꼬매고 싶은 입'이라는 다소 과격한 이름의 상을 선정해 발표했습니다.\n여성을 비하하거나 성적 대상화하는 말을 함부로 하지 못하도록 하자는 취지로 올해 처음으로 제정됐습니다.\n대상 격인 '미싱상'에는 최연희 의원과 그를 옹호한 의원 5명이 뽑혔습니다.\n최 의원은 여기자를 성추행하고 \\\"술에 취해 음식점 주인으로 착각했다\\\"고 말했습니다.\n\\\"아름다운 꽃을 보면 누구나 그 향기에 취하고 싶고 가까이 다가가 만져 보고 싶은 것이 자연의 섭리\\\"라고 홈페이지에 올렸던 한광원(열린우리당) 의원과 \\\"최 의원도 악성적인 술 문화의 희생양일 뿐\\\"이라고 거들었던 정의화(한나라당) 의원 등도 함께 선정됐습니다.\n2등인 '본드상'은 국회 여성가족위원회 회의에서 \\\"(불법) 마사지 등은 성행위는 아니고 '짙은 안마'\\\"라고 표현한 김충환(한나라당) 의원에게 돌아갔습니다.\n3위 '대바늘상'은 여성 재소자들에 대한 성적 비하 발언과 국회의원이 골프장과 성매매 업소에 가지 못한 것을 비꼰 이재웅(한나라당) 의원이 선정됐습니다.\n이 의원은 당 지도부 행사에서 자신의 수감 시절 경험을 이야기하면서 여성 재소자들이 창살 밖으로 가슴을 내미는 흉내를 내며 \\\"창틀에 기대 남성이 지나가면 한번 줄까 한번 줄까 하더라\\\"고 말했다고 합니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "여성주의 커뮤니티 포털사이트인 '언니네(www.unninet.net)'가 18일 '2006 꼬매고 싶은 입'이라는 다소 과격한 이름의 상을 선정해 발표했습니다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여성을 비하하거나 성적 대상화하는 말을 함부로 하지 못하도록 하자는 취지로 올해 처음으로 제정됐습니다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대상 격인 '미싱상'에는 최연희 의원과 그를 옹호한 의원 5명이 뽑혔습니다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최 의원은 여기자를 성추행하고 \\\"술에 취해 음식점 주인으로 착각했다\\\"고 말했습니다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "\\\"아름다운 꽃을 보면 누구나 그 향기에 취하고 싶고 가까이 다가가 만져 보고 싶은 것이 자연의 섭리\\\"라고 홈페이지에 올렸던 한광원(열린우리당) 의원과 \\\"최 의원도 악성적인 술 문화의 희생양일 뿐\\\"이라고 거들었던 정의화(한나라당) 의원 등도 함께 선정됐습니다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2등인 '본드상'은 국회 여성가족위원회 회의에서 \\\"(불법) 마사지 등은 성행위는 아니고 '짙은 안마'\\\"라고 표현한 김충환(한나라당) 의원에게 돌아갔습니다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "3위 '대바늘상'은 여성 재소자들에 대한 성적 비하 발언과 국회의원이 골프장과 성매매 업소에 가지 못한 것을 비꼰 이재웅(한나라당) 의원이 선정됐습니다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 의원은 당 지도부 행사에서 자신의 수감 시절 경험을 이야기하면서 여성 재소자들이 창살 밖으로 가슴을 내미는 흉내를 내며 \\\"창틀에 기대 남성이 지나가면 한번 줄까 한번 줄까 하더라\\\"고 말했다고 합니다.",
+        "sentenceSize": 115
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"꽃 보면 취하고 싶은게 섭리\" 여성 비하 헛소리에 '미싱상' 수여",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

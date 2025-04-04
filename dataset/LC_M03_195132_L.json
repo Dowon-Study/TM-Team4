@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195132",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[속보]코로나 사흘연속 300명대…정 총리 대국민담화 \\\"K방역 위기\\\"",
+    "newsSubTitle": "누적 확진자 3만명, 사망자 500명 넘어서",
+    "newsContent": "신종 코로나바이러스 감염증(코로나19) 신규 환자가 363명 발생해 사흘 연속 300명을 넘었다.\n질병관리청 중앙방역대책본부는 20일 0시 기준 코로나19 신규 환자는 363명으로 총 누적환자는 3만17명이 됐다고 밝혔다.\n신규환자 가운데 지역발생은 320명 해외유입은 43명이었다.\n신규 환자가 18일 313명→19일 343명→20일 363명으로 계속 늘고 있다.\n사흘 연속 300명대 확진자가 나온 것은 수도권 유행이 한창이던 8월 21∼23일(324명→332명→396명) 이후 약 3개월 만이다.\n이 같은 확산세 속에 지난 1월 20일 국내에서 첫 확진자가 나온 이후 305일만에 누적 확진자도 3만 명을 넘었다.\n사망자도 500명을 넘어섰다.\n정세균 국무총리는 20일 정부서울청사에서 코로나19 방역 관련 대국민담화문를 발표했다.\n정 총리의 여섯번째 코로나19 담화로, 최근 코로나19가 급격한 확산세를 보이며 유행 차단이 시급하다는 판단에 따른 것으로 풀이된다.\n정 총리는 \\\"최근 코로나19(신종 코로나바이러스 감염증) 확산세가 거세지며 다시 한번 'K-방역'이 위기를 맞고 있다\\\"며 \\\"특히 60세 이상의 연령층에서는 겨울철 건강관리에 유의하면서 불필요한 외출과 만남을 최소화해달라. 직장인들은 송년회, 회식 모임 등을 연기하거나 취소해달라\\\"고 당부했다.\n정 총리는 \\\"기업에서도 재택근무 등을 통해 일터 방역에 동참해 주실 것을 요청드린다\\\"며 \\\"정부를 비롯한 공공부문부터 앞장서겠다\\\"고 강조했다.\n또 \\\"각 부처, 지자체, 그리고 전국의 공공기관은 각종 회식·모임 자제, 대면회의 최소화, 재택근무 활성화 등 강화된 방역조치를 다음주부터 시행하겠다\\\"고 말했다.\n정 총리는 이어 \\\"유럽 등 해외상황을 반면교사로 삼아 코로나19에 대한 경각심을 한층 강화하고 우리 모두 비상한 각오로 방역에 사활을 걸어야 한다\\\"고 강조했다.\n이날 코로나19 지역 발생 환자는 서울 127명, 경기 62명, 인천 29명으로 수도권에서만 218명이 나왔다.\n다른 지역은 강원 24명, 경남 18명, 전남 14명, 전북 13명 등이었다.\n대전, 울산, 세종은 신규 환자가 발생하지 않았다.\n해외 유입 환자는 검역 단계에서 23명, 지역사회에서 20명이 늘었다.\n유입 국가는 러시아 17명, 미국 10명, 브라질 2명 등이었다.\n이날까지 신규 격리 해제자는 165명으로 총 2만6263명이 격리 해제했고, 현재 3253명이 격리하고 있다.\n위중증 환자는 84명이며, 사망자는 3명 늘어 누적 사망자는 501명이 됐다.\n코로나19의 치명률은 1.67%다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신종 코로나바이러스 감염증(코로나19) 신규 환자가 363명 발생해 사흘 연속 300명을 넘었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "질병관리청 중앙방역대책본부는 20일 0시 기준 코로나19 신규 환자는 363명으로 총 누적환자는 3만17명이 됐다고 밝혔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신규환자 가운데 지역발생은 320명 해외유입은 43명이었다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신규 환자가 18일 313명→19일 343명→20일 363명으로 계속 늘고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사흘 연속 300명대 확진자가 나온 것은 수도권 유행이 한창이던 8월 21∼23일(324명→332명→396명) 이후 약 3개월 만이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 같은 확산세 속에 지난 1월 20일 국내에서 첫 확진자가 나온 이후 305일만에 누적 확진자도 3만 명을 넘었다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사망자도 500명을 넘어섰다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "정세균 국무총리는 20일 정부서울청사에서 코로나19 방역 관련 대국민담화문를 발표했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정 총리의 여섯번째 코로나19 담화로, 최근 코로나19가 급격한 확산세를 보이며 유행 차단이 시급하다는 판단에 따른 것으로 풀이된다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "정 총리는 \\\"최근 코로나19(신종 코로나바이러스 감염증) 확산세가 거세지며 다시 한번 'K-방역'이 위기를 맞고 있다\\\"며 \\\"특히 60세 이상의 연령층에서는 겨울철 건강관리에 유의하면서 불필요한 외출과 만남을 최소화해달라. 직장인들은 송년회, 회식 모임 등을 연기하거나 취소해달라\\\"고 당부했다.",
+        "sentenceSize": 167
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "정 총리는 \\\"기업에서도 재택근무 등을 통해 일터 방역에 동참해 주실 것을 요청드린다\\\"며 \\\"정부를 비롯한 공공부문부터 앞장서겠다\\\"고 강조했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "또 \\\"각 부처, 지자체, 그리고 전국의 공공기관은 각종 회식·모임 자제, 대면회의 최소화, 재택근무 활성화 등 강화된 방역조치를 다음주부터 시행하겠다\\\"고 말했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "정 총리는 이어 \\\"유럽 등 해외상황을 반면교사로 삼아 코로나19에 대한 경각심을 한층 강화하고 우리 모두 비상한 각오로 방역에 사활을 걸어야 한다\\\"고 강조했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이날 코로나19 지역 발생 환자는 서울 127명, 경기 62명, 인천 29명으로 수도권에서만 218명이 나왔다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "다른 지역은 강원 24명, 경남 18명, 전남 14명, 전북 13명 등이었다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "대전, 울산, 세종은 신규 환자가 발생하지 않았다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "해외 유입 환자는 검역 단계에서 23명, 지역사회에서 20명이 늘었다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "유입 국가는 러시아 17명, 미국 10명, 브라질 2명 등이었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "이날까지 신규 격리 해제자는 165명으로 총 2만6263명이 격리 해제했고, 현재 3253명이 격리하고 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "위중증 환자는 84명이며, 사망자는 3명 늘어 누적 사망자는 501명이 됐다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "코로나19의 치명률은 1.67%다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "3개월 만에 사흘 연속 300명대 확진자, 정 총리 대국민 담화문 어떤 내용 담겼나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

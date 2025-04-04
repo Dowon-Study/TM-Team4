@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194370",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[꼭알아야할가스상식] 얼어 있는 부탄캔, 뜨거운 물로 녹이려다가는 '펑'",
+    "newsSubTitle": "",
+    "newsContent": "“바글바글” “지글지글”. 불판 위에서 된장 뚝배기가 끓고 돼지갈비가 익는다.\n어디서든 즐길 수 있는 약식 갈비 파티, 휴대용 가스레인지와 부탄캔 덕이다.\n음식점뿐만 아니라 일반 가정, 야외에서도 이제 생활필수품이 된 부탄캔. 한 해 자그마치 3억6000만 개가 소비된다.\n이 부탄캔이 이따금 화를 일으키기도 한다.\n추운 겨울철에 더욱 그렇다.\n지난해 사용을 잘못해 17건의 사고가 일어나 183명이 다치거나 죽었다.\n지난 겨울 초등학교 앞에서 설탕과자를 팔던 노점상의 이야기다.\n불이 켜지지 않자 그는 가스가 얼었다고 판단했다.\n이를 녹이려 뜨거운 물에 넣고 데우다 캔이 터져 본인은 물론 주위에 있던 초등학생 6명까지 다치고 말았다.\n겨울철 부탄캔의 사고는 폭발로 인한 경우가 많다.\n온도가 떨어지면서 가스가 제대로 나오지 않을 때 불로 가열하거나 물에 넣고 끓이다 용기가 터지는 것이다.\n캔을 화기 근처에 놔뒀다가 터지기도 한다.\n온도가 떨어지면 부탄가스의 움직임이 더디다.\n이때 용기가 비었다고 생각해 구멍을 뚫다가 폭발하는 경우도 있다.\n가스가 잘 나오지 않을 경우엔 두터운 헝겊으로 용기를 감싸 따뜻하게 하면 된다.\n다 쓴 가스통은 집 밖의 사방이 트인 장소에서 폐기해야 한다.\n부탄가스 사고는 가스 흡입으로 인한 환각사고만 있는 것이 아니다.\n지난해 사고를 기준으로 따지면 부탄캔 사고 확률은 ‘3억6000만 분의 17’이다.\n조금만 정신 차리면 당신은 운이 없는 17명에 들어가지 않는다.\n이장우 차장(한국가스안전공사 사고조사팀)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "“바글바글” “지글지글”. 불판 위에서 된장 뚝배기가 끓고 돼지갈비가 익는다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "어디서든 즐길 수 있는 약식 갈비 파티, 휴대용 가스레인지와 부탄캔 덕이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "음식점뿐만 아니라 일반 가정, 야외에서도 이제 생활필수품이 된 부탄캔. 한 해 자그마치 3억6000만 개가 소비된다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 부탄캔이 이따금 화를 일으키기도 한다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "추운 겨울철에 더욱 그렇다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난해 사용을 잘못해 17건의 사고가 일어나 183명이 다치거나 죽었다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난 겨울 초등학교 앞에서 설탕과자를 팔던 노점상의 이야기다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "불이 켜지지 않자 그는 가스가 얼었다고 판단했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이를 녹이려 뜨거운 물에 넣고 데우다 캔이 터져 본인은 물론 주위에 있던 초등학생 6명까지 다치고 말았다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "겨울철 부탄캔의 사고는 폭발로 인한 경우가 많다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온도가 떨어지면서 가스가 제대로 나오지 않을 때 불로 가열하거나 물에 넣고 끓이다 용기가 터지는 것이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "캔을 화기 근처에 놔뒀다가 터지기도 한다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "온도가 떨어지면 부탄가스의 움직임이 더디다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이때 용기가 비었다고 생각해 구멍을 뚫다가 폭발하는 경우도 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "가스가 잘 나오지 않을 경우엔 두터운 헝겊으로 용기를 감싸 따뜻하게 하면 된다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "다 쓴 가스통은 집 밖의 사방이 트인 장소에서 폐기해야 한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "부탄가스 사고는 가스 흡입으로 인한 환각사고만 있는 것이 아니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "지난해 사고를 기준으로 따지면 부탄캔 사고 확률은 ‘3억6000만 분의 17’이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "조금만 정신 차리면 당신은 운이 없는 17명에 들어가지 않는다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "이장우 차장(한국가스안전공사 사고조사팀)",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "얼어 있는 부탄캔, 뜨거운 물로 녹이려다가는...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

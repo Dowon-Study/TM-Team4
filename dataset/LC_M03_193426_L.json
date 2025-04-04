@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193426",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "상해보험·경제교실 … 어린이 펀드 '쏠쏠'",
+    "newsSubTitle": "부가서비스 꼼꼼 비교를",
+    "newsContent": "어린이 펀드 상품은 회사별로 차이가 있지만 대체로 5만원 이상이면 자유롭게 적립할 수 있는 상품이 많다.\n단 10년간 부모가 적립해 주는 금액이 1500만원을 넘지 않아야 증여세를 내지 않는다.\n어린이펀드는 장기투자를 목적으로 하는 만큼 주식 편입 비율이 60% 이상인 경우가 많다.\n판매 수수료는 연간 2% 내외다.\n펀드 상품에 따라 어린이를 위한 다양한 혜택을 준다.\n우리은행과 우리투자증권 등이 판매하는 우리-쥬니어네이버적립식펀드는 납입 금액이 30만원 이상이면 1년 동안 무료 상해보험에 가입해 준다.\n미래에셋이 출시한 우리아이 3억 만들기 펀드는 가입한 자녀가 방학 중에 경제교실 등에 참여할 수 있는 기회를 준다.\n또 3개월마다 신탁재산운용보고서를 보내 아이들이 경제에 대한 관심을 갖도록 유도하고 있다.\n동양종금증권이 판매하는 우리아이꿈나무적립식펀드랩은 어린이 상해보험에 매년 무료가입해 주고 월 20만원 이상 3년 이상 적립한 고객을 상대로 추첨해 어린이 경제 캠프에 참가하도록 해준다.\n신영증권의 주니어경제박사 주식형펀드는 어린이뿐 아니라 성인 한 명에 대해 무료상해보험에 가입해준다.\n증여 신고 등의 대행 서비스를 한다.\n현대증권의 주식형 사과나무통장 상품은 반드시 매월 10만원 이상을 적립하는 상품이다.\n미리 정한 나이에 상품을 해지하지 않고도 일정한 교육비를 지급받을 수 있도록 했다.\n지난해부터 판매하기 시작한 어린이펀드는 주가가 오르면서 현재 50~100%의 수익률을 내는 상품도 있다.\n주식에 투자하는 어린이펀드는 투자상품인 만큼 원금 손실이 날 가능성이 있다.\n그러나 장기투자를 하는 상품의 특성상 주식시장이 장기적으로 침체하지만 않는다면 원금 손실이 날 가능성은 작다는 것이 판매사들의 설명이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "어린이 펀드 상품은 회사별로 차이가 있지만 대체로 5만원 이상이면 자유롭게 적립할 수 있는 상품이 많다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "단 10년간 부모가 적립해 주는 금액이 1500만원을 넘지 않아야 증여세를 내지 않는다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "어린이펀드는 장기투자를 목적으로 하는 만큼 주식 편입 비율이 60% 이상인 경우가 많다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "판매 수수료는 연간 2% 내외다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "펀드 상품에 따라 어린이를 위한 다양한 혜택을 준다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "우리은행과 우리투자증권 등이 판매하는 우리-쥬니어네이버적립식펀드는 납입 금액이 30만원 이상이면 1년 동안 무료 상해보험에 가입해 준다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "미래에셋이 출시한 우리아이 3억 만들기 펀드는 가입한 자녀가 방학 중에 경제교실 등에 참여할 수 있는 기회를 준다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 3개월마다 신탁재산운용보고서를 보내 아이들이 경제에 대한 관심을 갖도록 유도하고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "동양종금증권이 판매하는 우리아이꿈나무적립식펀드랩은 어린이 상해보험에 매년 무료가입해 주고 월 20만원 이상 3년 이상 적립한 고객을 상대로 추첨해 어린이 경제 캠프에 참가하도록 해준다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "신영증권의 주니어경제박사 주식형펀드는 어린이뿐 아니라 성인 한 명에 대해 무료상해보험에 가입해준다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "증여 신고 등의 대행 서비스를 한다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "현대증권의 주식형 사과나무통장 상품은 반드시 매월 10만원 이상을 적립하는 상품이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "미리 정한 나이에 상품을 해지하지 않고도 일정한 교육비를 지급받을 수 있도록 했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "지난해부터 판매하기 시작한 어린이펀드는 주가가 오르면서 현재 50~100%의 수익률을 내는 상품도 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "주식에 투자하는 어린이펀드는 투자상품인 만큼 원금 손실이 날 가능성이 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "그러나 장기투자를 하는 상품의 특성상 주식시장이 장기적으로 침체하지만 않는다면 원금 손실이 날 가능성은 작다는 것이 판매사들의 설명이다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'케바케'인 어린이 펀드 상품... 다양한 혜택에 관심",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

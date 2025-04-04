@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196457",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[와글와글e동네] 땜빵? 짤방!",
+    "newsSubTitle": "",
+    "newsContent": "어디선가 게시물이 등장하면, 어김없이 나타나는 그 이름! 짤방('짤림 방지'의 줄임말)!! '짤방'을 아시나요?\n사진이나 동영상을 올리는 게시판에 글만 올릴 때, 삭제되는 것을 막기 위해 내용과 상관없는 사진 혹은 동영상을 올리는 것을 말합니다.\n처음에는 그야말로 '땜빵'을 위한 것이었지만, 지금에 와선 그 자체로 네티즌들의 즐거움이 되고 있습니다.\n방송 프로그램의 재미있는 순간을 캡처하거나, 만화책 등에서 상황에 맞는 이미지를 찾아 올리기도 합니다.\n때론 서슴없이 편집도 하고요.\n짤방의 세계에도 스타는 있습니다.\n짤방보이, 싱하형, 신돈이 그 주인공이죠.\n그 중 '짤방계의 지존'으로 통하는 짤방보이의 인기는 동방신기에 맞먹을 정도라네요.\n원조 짤방보이(사진(上))에 더해 짤방보이 닮은꼴(사진(下)) 찾기도 유행이랍니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "어디선가 게시물이 등장하면, 어김없이 나타나는 그 이름! 짤방('짤림 방지'의 줄임말)!! '짤방'을 아시나요?",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사진이나 동영상을 올리는 게시판에 글만 올릴 때, 삭제되는 것을 막기 위해 내용과 상관없는 사진 혹은 동영상을 올리는 것을 말합니다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "처음에는 그야말로 '땜빵'을 위한 것이었지만, 지금에 와선 그 자체로 네티즌들의 즐거움이 되고 있습니다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "방송 프로그램의 재미있는 순간을 캡처하거나, 만화책 등에서 상황에 맞는 이미지를 찾아 올리기도 합니다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "때론 서슴없이 편집도 하고요.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "짤방의 세계에도 스타는 있습니다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "짤방보이, 싱하형, 신돈이 그 주인공이죠.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그 중 '짤방계의 지존'으로 통하는 짤방보이의 인기는 동방신기에 맞먹을 정도라네요.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "원조 짤방보이(사진(上))에 더해 짤방보이 닮은꼴(사진(下)) 찾기도 유행이랍니다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "요즘 네티즌들의 최고 유행은 바로 '짤방'… \"아무것도 안 보고 이것만 봐요\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

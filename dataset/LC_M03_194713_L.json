@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194713",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "뉴라이트 목소리 담은 '시대정신'",
+    "newsSubTitle": "재단 기관지로 재창간",
+    "newsContent": "보수 성향의 계간지 '시대정신'이 최근 발족한 '뉴라이트재단'(이사장 안병직 서울대 명예교수)의 기관지로 확대,재창간됐다.\n1970년대 좌파경제학자로 유명했던 안병직 서울대 명예교수가 발행인을 맡았다.\n뉴라이트(신보수) 사상운동을 주도해온 신지호 자유주의연대 대표와 이영훈(서울대 경제학).김영호(성신여대 정치외교학).김일영(성균관대 정치학).강규형(명지대 역사학) 교수, 복거일(소설가).이춘근(자유기업원 부원장)씨가 편집위원에 새로 합류했다.\n기존 편집위원인 김영환(북한민주화네트워크 연구위원).홍진표(자유주의연대 집행위원장) 씨도 편집위원으로 남았다.\n재창간호는 ''한국근현대사' 새 교과서 이렇게 만들자'는 특집을 마련했다.\n현행 고등학생용 '한국근현대사'가 민족민중항쟁사로 편향돼 있음을 비판하면서 근현대 한국사의 발전과정을 국제관계 중심으로 서술할 것을 제안하는 내용이다.\n역사학.정치학계의 원로인 유영익(연세대 국제대학원 석좌교수).최문형(한양대 명예교수).신복룡(건국대 교수).전용우(대전 노은중 교감)씨 4인이 '민중운동사에서 대한민국사로'를 주제로 대담했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "보수 성향의 계간지 '시대정신'이 최근 발족한 '뉴라이트재단'(이사장 안병직 서울대 명예교수)의 기관지로 확대,재창간됐다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1970년대 좌파경제학자로 유명했던 안병직 서울대 명예교수가 발행인을 맡았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뉴라이트(신보수) 사상운동을 주도해온 신지호 자유주의연대 대표와 이영훈(서울대 경제학).김영호(성신여대 정치외교학).김일영(성균관대 정치학).강규형(명지대 역사학) 교수, 복거일(소설가).이춘근(자유기업원 부원장)씨가 편집위원에 새로 합류했다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "기존 편집위원인 김영환(북한민주화네트워크 연구위원).홍진표(자유주의연대 집행위원장) 씨도 편집위원으로 남았다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "재창간호는 ''한국근현대사' 새 교과서 이렇게 만들자'는 특집을 마련했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "현행 고등학생용 '한국근현대사'가 민족민중항쟁사로 편향돼 있음을 비판하면서 근현대 한국사의 발전과정을 국제관계 중심으로 서술할 것을 제안하는 내용이다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "역사학.정치학계의 원로인 유영익(연세대 국제대학원 석좌교수).최문형(한양대 명예교수).신복룡(건국대 교수).전용우(대전 노은중 교감)씨 4인이 '민중운동사에서 대한민국사로'를 주제로 대담했다.",
+        "sentenceSize": 107
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "뉴라이트의 '시대정신', 편향된 근현대 한국사 발전과정 어떻게 서술했을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

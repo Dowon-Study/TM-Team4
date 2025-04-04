@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195527",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[헬스벨] 중년 두뇌 건강, DHA 풍부한 오메가3로 관리",
+    "newsSubTitle": "",
+    "newsContent": "중년에 접어들면 기억력이 조금씩 떨어진다.\n오늘 무슨 일을 했는지 깜빡깜빡한다.\n이런 경험이 있다면 중년의 경도인지장애를 조심해야 한다.\n경도인지장애 환자 중 10~15%는 1년 뒤, 80%는 6년 내에 치매로 진행하는 것으로 알려져 있다.\n치매는 평소 예방과 관리가 중요하다.\n충분한 영양 공급과 뇌혈관의 혈액순환 개선이 필요하다.\n두뇌를 건강하게 하는 대표적인 영양소로 오메가3가 꼽힌다.\n오메가3는 DHA와 혈행을 원활하게 해주는 EPA가 많이 들어 있다.\n특히 두뇌 건강을 위해서는 DHA 함량이 높은 오메가3를 섭취하는 것이 좋다.\n건강기능식품 전문 기업 종근당건강은 중년의 두뇌 건강 증진을 위해 프리미엄 오메가3 ‘프로메가 기억력’(사진) 할인행사를 진행한다. ‘프로메가 기억력’은 DHA 함량이 693㎎ 함유된 DHA 고함량 오메가3 제품으로 하루 오메가3 권장 섭취량을 채워준다.\n이 제품은 기억력 개선뿐 아니라 혈행, 혈중중성지질, 건조한 눈 개선에도 도움을 주는 4중 복합기능성 프리미엄 제품이다.\n이번 행사에서는 5세트 단위로 500명에 한해 유통 최저가로 판매한다.\n기간 2017년 5월 8~15일 문의 1644-1884",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중년에 접어들면 기억력이 조금씩 떨어진다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘 무슨 일을 했는지 깜빡깜빡한다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이런 경험이 있다면 중년의 경도인지장애를 조심해야 한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "경도인지장애 환자 중 10~15%는 1년 뒤, 80%는 6년 내에 치매로 진행하는 것으로 알려져 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "치매는 평소 예방과 관리가 중요하다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "충분한 영양 공급과 뇌혈관의 혈액순환 개선이 필요하다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두뇌를 건강하게 하는 대표적인 영양소로 오메가3가 꼽힌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오메가3는 DHA와 혈행을 원활하게 해주는 EPA가 많이 들어 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "특히 두뇌 건강을 위해서는 DHA 함량이 높은 오메가3를 섭취하는 것이 좋다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "건강기능식품 전문 기업 종근당건강은 중년의 두뇌 건강 증진을 위해 프리미엄 오메가3 ‘프로메가 기억력’(사진) 할인행사를 진행한다. ‘프로메가 기억력’은 DHA 함량이 693㎎ 함유된 DHA 고함량 오메가3 제품으로 하루 오메가3 권장 섭취량을 채워준다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 제품은 기억력 개선뿐 아니라 혈행, 혈중중성지질, 건조한 눈 개선에도 도움을 주는 4중 복합기능성 프리미엄 제품이다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이번 행사에서는 5세트 단위로 500명에 한해 유통 최저가로 판매한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "기간 2017년 5월 8~15일 문의 1644-1884",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중년 두뇌건강과 치매예방, 어떻게 관리해야 할까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

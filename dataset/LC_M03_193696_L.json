@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193696",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "사무실 안구건조증 예방법, \\\"20분마다 20초씩 먼 곳 봐야\\\"",
+    "newsSubTitle": "",
+    "newsContent": "안구건조증 예방법 '안구건조증 예방법'이 화제가 되고 있는 가운데, 사무실에서 일하는 직장인들을 위한 '안구건조증 예방법' 에도 관심이 쏠리고 있다.\n사무실에 가만히 앉아 컴퓨터를 들여다보는 작업은 눈에 악영향을 주기 쉽다.\n최근 한 연구에 의하면 하루에 7시간 이상 모니터를 들여다보는 것은 눈에 명백한 악영향을 미친다고 밝혀졌다.\n안구건조증은 약간의 불편과 고통을 주는 것에 그칠 수도 있지만, 악화되면 여러가지 문제를 일으킬 수 있다.\n이에 뉴욕의 검안사 디바 차드리가 권하는 '사무실 안구건조증 예방법'을 소개한다.\n안구건조증 예방법 1: 모니터 높이는 눈높이보다 약간 낮게 모니터 꼭대기를 눈높이보다 2.5cm정도 낮게 유지하라.\n이렇게 함으로써 당신의 안구 근육은 쓸데없는 수축운동을 최소화할수 있다.\n안구건조증 예방법 2: 눈과 모니터의 거리는 팔 길이만큼 눈과 모니터간의 거리는 최소한 당신의 팔 길이보다는 길게 유지하라.\n그보다 가까워지면 눈의 깜빡임이 줄어들고, 깜빡임 감소는 안구건조증으로 직결된다.\n안구건조증 예방법 3: 20분마다 20초 쉬어야 20분마다 20초간 최소 5미터보다 먼 곳을 바라보라.\n긴 시간 투자할 필요없이 잠시 휴식하는 것만으로도 큰 도움이 된다.\n안구건조증 예방법 4: 너무 밝아도, 너무 어두워도 안돼 60와트 전구를 이용하면 과도한 빛으로 눈부실 일도, 너무 적은 빛으로 안보일 일도 없다. 60와트 전구를 이용하지 않더라도, 빛이 과도하게 많거나 적은 환경은 피해야 한다.\n안구건조증 예방법 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "안구건조증 예방법 '안구건조증 예방법'이 화제가 되고 있는 가운데, 사무실에서 일하는 직장인들을 위한 '안구건조증 예방법' 에도 관심이 쏠리고 있다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사무실에 가만히 앉아 컴퓨터를 들여다보는 작업은 눈에 악영향을 주기 쉽다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 한 연구에 의하면 하루에 7시간 이상 모니터를 들여다보는 것은 눈에 명백한 악영향을 미친다고 밝혀졌다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "안구건조증은 약간의 불편과 고통을 주는 것에 그칠 수도 있지만, 악화되면 여러가지 문제를 일으킬 수 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 뉴욕의 검안사 디바 차드리가 권하는 '사무실 안구건조증 예방법'을 소개한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "안구건조증 예방법 1: 모니터 높이는 눈높이보다 약간 낮게 모니터 꼭대기를 눈높이보다 2.5cm정도 낮게 유지하라.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이렇게 함으로써 당신의 안구 근육은 쓸데없는 수축운동을 최소화할수 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "안구건조증 예방법 2: 눈과 모니터의 거리는 팔 길이만큼 눈과 모니터간의 거리는 최소한 당신의 팔 길이보다는 길게 유지하라.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그보다 가까워지면 눈의 깜빡임이 줄어들고, 깜빡임 감소는 안구건조증으로 직결된다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "안구건조증 예방법 3: 20분마다 20초 쉬어야 20분마다 20초간 최소 5미터보다 먼 곳을 바라보라.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "긴 시간 투자할 필요없이 잠시 휴식하는 것만으로도 큰 도움이 된다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "안구건조증 예방법 4: 너무 밝아도, 너무 어두워도 안돼 60와트 전구를 이용하면 과도한 빛으로 눈부실 일도, 너무 적은 빛으로 안보일 일도 없다. 60와트 전구를 이용하지 않더라도, 빛이 과도하게 많거나 적은 환경은 피해야 한다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "안구건조증 예방법 온라인 중앙일보",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'직딩'의 고질병 안구건조증, 심각해지기 전에 예방법을 알아보자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

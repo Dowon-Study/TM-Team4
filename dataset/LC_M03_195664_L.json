@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195664",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "중증 아토피, 줄기세포 치료로 완치 희망 열어",
+    "newsSubTitle": "서울성모·서울대 공동연구팀, 세계최초 임상 성공",
+    "newsContent": "난치성 자가면역 질환인 중증 아토피 피부염을 줄기세포를 이용해 치료하는 희망의 길이 열렸다.\n가톨릭대 서울성모병원 피부과 김태윤 교수와 서울대 수의대 강경선 교수 공동연구팀은 최근 중증 아토피를 앓는 환자에게 줄기세포를 이용한 임상시험 1상과 2a를 세계 최초로 수행했다.\n임상1상은 치료제의 안전성을, 2a는 안전성과 유효성을 검증하는 단계다.\n중등도 이상 난치성 아토피 피부염 환자 27명에게 줄기세포 치료제를 투여하고, 2~12주까지 관찰한 결과 임상 증상이 개선된 것으로 나타났다.\n혈액검사 결과에선 아토피 피부염의 중요 지표인 혈중 IgE 농도와 호산구 숫자가 감소했다.\n투여된 치료제 용량이 많을수록 효과가 좋았고, 유의한 부작용은 관찰되지 않았다.\n줄기세포 치료제는 자신의 세포가 아닌 다른 세포임에도 기본적으로 면역원성이 낮아 이식 후에 거부반응 등을 일으키지 않는다는 특징이 있다.\n특히 고용량 줄기세포가 투여된 환자의 절반 이상(55%)이 중증도가 50% 이상 감소했고, 가려움증 60%, 불면증 65% 감소했다.\n고용량 줄기세포가 투여된 환자 11명은 2주차부터 임상 증상이 통계적으로 유의하게 호전됐고, 11명 중 10명은 모니터링이 끝나는 3개월까지 증상이 지속 개선된 것으로 나타났다.\n임상시험에 사용된 강스템바이오텍 줄기세포 치료제 FURESTEM-AD는 동종 제대혈 줄기세포로 탁월한 면역조절기능을 인정받고 있다.\n이러한 면역조절기능은 지난해 아토피피부염 질환 모델동물실험에서 비만 세포의 활성과 탈과립을 억제해 증상개선 효과를 보였다.\n김태윤 교수는 “현재 전 세계적으로 줄기세포를 활용한 난치병 치료제 개발 경쟁이 치열하게 벌어지고 있는 가운데, 우리나라에서 줄기세포로 아토피 피부염 환자를 치료한 것은 의미 있는 성과”라며 “앞으로 추가연구를 통해 치료의 정확한 메커니즘을 밝히고 좀 더 많은 환자를 대상으로 안전성과 치료효과를 검증하는데 최선을 다할 것”이라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "난치성 자가면역 질환인 중증 아토피 피부염을 줄기세포를 이용해 치료하는 희망의 길이 열렸다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "가톨릭대 서울성모병원 피부과 김태윤 교수와 서울대 수의대 강경선 교수 공동연구팀은 최근 중증 아토피를 앓는 환자에게 줄기세포를 이용한 임상시험 1상과 2a를 세계 최초로 수행했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "임상1상은 치료제의 안전성을, 2a는 안전성과 유효성을 검증하는 단계다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "중등도 이상 난치성 아토피 피부염 환자 27명에게 줄기세포 치료제를 투여하고, 2~12주까지 관찰한 결과 임상 증상이 개선된 것으로 나타났다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "혈액검사 결과에선 아토피 피부염의 중요 지표인 혈중 IgE 농도와 호산구 숫자가 감소했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "투여된 치료제 용량이 많을수록 효과가 좋았고, 유의한 부작용은 관찰되지 않았다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "줄기세포 치료제는 자신의 세포가 아닌 다른 세포임에도 기본적으로 면역원성이 낮아 이식 후에 거부반응 등을 일으키지 않는다는 특징이 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히 고용량 줄기세포가 투여된 환자의 절반 이상(55%)이 중증도가 50% 이상 감소했고, 가려움증 60%, 불면증 65% 감소했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "고용량 줄기세포가 투여된 환자 11명은 2주차부터 임상 증상이 통계적으로 유의하게 호전됐고, 11명 중 10명은 모니터링이 끝나는 3개월까지 증상이 지속 개선된 것으로 나타났다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "임상시험에 사용된 강스템바이오텍 줄기세포 치료제 FURESTEM-AD는 동종 제대혈 줄기세포로 탁월한 면역조절기능을 인정받고 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이러한 면역조절기능은 지난해 아토피피부염 질환 모델동물실험에서 비만 세포의 활성과 탈과립을 억제해 증상개선 효과를 보였다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "김태윤 교수는 “현재 전 세계적으로 줄기세포를 활용한 난치병 치료제 개발 경쟁이 치열하게 벌어지고 있는 가운데, 우리나라에서 줄기세포로 아토피 피부염 환자를 치료한 것은 의미 있는 성과”라며 “앞으로 추가연구를 통해 치료의 정확한 메커니즘을 밝히고 좀 더 많은 환자를 대상으로 안전성과 치료효과를 검증하는데 최선을 다할 것”이라고 말했다.",
+        "sentenceSize": 189
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "간지럽고 보기까지 흉한 아토피에 효과 입증된 치료법은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

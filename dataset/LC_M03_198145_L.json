@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198145",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "‘책꾸러기’ 7월분 접수 20일까지",
+    "newsSubTitle": "",
+    "newsContent": "중앙일보·동원그룹 주최 ‘책꾸러기’ 캠페인 7월분 접수가 7월 20일까지 진행된다.\n만 6세 이하 어린이를 키우는 가정은 누구나 신청할 수 있으며, 신청 사연에 따라 1000가정을 선정해 매달 1권씩 1년 동안 어린이책을 무료로 보내준다.\n신청 접수는 인터넷 홈페이지(www.iqeqcq.com)와 우편(‘서울 중구 순화동 7번지 중앙일보사 문화부 책꾸러기 담당자 앞’ 또는 ‘서울 서초구 양재동 275번지 동원육영재단 책꾸러기 담당자 앞’)으로 받는다.\n신청할 때는 ‘7월의 추천도서’중 받고 싶은 책 한 권을 골라 표시해야 원하는 책을 받아볼 수 있다.\n당첨자 발표는 7월 27일이다.\n지난 20일까지 진행된 6월분 접수에는 총 5195명이 신청했으며, 이중 2000가정과 5월에 선정된 3000가정에는 7월 4일까지 희망 도서를 보내줄 계획이다.\n당초 6월에는 1000가정을 선정할 계획이었지만, 신청자가 몰려 당첨자 수를 2000가정으로 늘렸다.\n6월분 당첨자 명단은 인터넷 홈페이지에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중앙일보·동원그룹 주최 ‘책꾸러기’ 캠페인 7월분 접수가 7월 20일까지 진행된다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "만 6세 이하 어린이를 키우는 가정은 누구나 신청할 수 있으며, 신청 사연에 따라 1000가정을 선정해 매달 1권씩 1년 동안 어린이책을 무료로 보내준다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신청 접수는 인터넷 홈페이지(www.iqeqcq.com)와 우편(‘서울 중구 순화동 7번지 중앙일보사 문화부 책꾸러기 담당자 앞’ 또는 ‘서울 서초구 양재동 275번지 동원육영재단 책꾸러기 담당자 앞’)으로 받는다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신청할 때는 ‘7월의 추천도서’중 받고 싶은 책 한 권을 골라 표시해야 원하는 책을 받아볼 수 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당첨자 발표는 7월 27일이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 20일까지 진행된 6월분 접수에는 총 5195명이 신청했으며, 이중 2000가정과 5월에 선정된 3000가정에는 7월 4일까지 희망 도서를 보내줄 계획이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당초 6월에는 1000가정을 선정할 계획이었지만, 신청자가 몰려 당첨자 수를 2000가정으로 늘렸다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "6월분 당첨자 명단은 인터넷 홈페이지에서 확인할 수 있다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중앙일보·동원그룹 '이것' 진행... 1,000가정 매달 1권씩 1년 무료 증정",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194503",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Family건강] 프롤로 요법 아십니까",
+    "newsSubTitle": "만성요통·오십견·관절염 통증 ↓",
+    "newsContent": "'프롤로 요법을 아십니까'. 프롤로(Proliferation)는 증식이라는 뜻. 노화 또는 손상으로 약해진 세포조직을 증식시켜 강화한다는 개념이다.\n미국에선 1939년 조지 하켓 박사가 처음 치료에 적용해 지금은 관절질환에 광범위하게 사용되고 있다.\n1990년대 말 국내에 프롤로 요법을 처음 도입한 라파메디앙스 정형외과 김용욱 원장이 그동안 자신이 시술한 환자의 치료 성적을 내놨다.\n디스크 등 만성요통과 오십견.관절염 등 고질적인 관절 질환자 3548명에게 프롤로 요법을 적용한 결과 88.4%에서 호전된 것. 여기서 호전은 '아주 심한 통증'에서 '가벼운 운동을 해도 통증이 없는 정도'를 말한다.\n평균 치료 횟수는 관절질환을 앓은 기간이 5년인 경우엔 평균 3.8회, 그 이상 또는 수술 판정을 받은 환자는 5.4회였다.\n프롤로의 장점은 수술하지 않고 주사로 약물을 주입하는 것으로 치료가 끝난다는 것. 따라서 고령 환자나 당뇨병.고혈압 등 수술 부담이 큰 사람에게 적합하다.\n시술 방법은 까다롭지만 원리는 간단하다.\n약해진 인대나 건(힘줄)에 직접 약물을 주입해 인위적으로 염증을 만드는 것이다.\n염증이 생기면 인체는 스스로 회복을 위해 세포를 증식시켜 힘을 강화한다.\n일종의 자연치유력을 활용하는 것이다.\n김 원장은 \\\"예컨대 요통이 생기는 것은 척추 뼈를 붙들고 있는 인대와 힘줄이 약해져 디스크가 불안정해지기 때문\\\"이라며 \\\"이를 강화하면 흔들리던 척추가 바로 서면서 통증이 소실된다\\\"고 말했다.\n약물도 특별히 개발된 것이 아니다.\n농도가 짙은 포도당의 일종인 덱스트로스 용액이나 합성물질인 페놀 글리세롤 복합제 등을 사용한다.\n짙은 농도의 물질이 해당 부위에 탈수현상을 일으키고, 그 결과 염증반응이 나타난다.\n김 원장은 \\\"프롤로 요법이 안전하긴 하지만 정확하게 인대나 건 또는 손상된 물렁뼈에 놓아야 신경.혈관 손상.부종 등 부작용을 줄이면서 치료 효과를 높일 수 있다\\\"고 말했다.\n치료는 4주 간격으로 4~6회 시술한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'프롤로 요법을 아십니까'. 프롤로(Proliferation)는 증식이라는 뜻. 노화 또는 손상으로 약해진 세포조직을 증식시켜 강화한다는 개념이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미국에선 1939년 조지 하켓 박사가 처음 치료에 적용해 지금은 관절질환에 광범위하게 사용되고 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1990년대 말 국내에 프롤로 요법을 처음 도입한 라파메디앙스 정형외과 김용욱 원장이 그동안 자신이 시술한 환자의 치료 성적을 내놨다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "디스크 등 만성요통과 오십견.관절염 등 고질적인 관절 질환자 3548명에게 프롤로 요법을 적용한 결과 88.4%에서 호전된 것. 여기서 호전은 '아주 심한 통증'에서 '가벼운 운동을 해도 통증이 없는 정도'를 말한다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "평균 치료 횟수는 관절질환을 앓은 기간이 5년인 경우엔 평균 3.8회, 그 이상 또는 수술 판정을 받은 환자는 5.4회였다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "프롤로의 장점은 수술하지 않고 주사로 약물을 주입하는 것으로 치료가 끝난다는 것. 따라서 고령 환자나 당뇨병.고혈압 등 수술 부담이 큰 사람에게 적합하다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "시술 방법은 까다롭지만 원리는 간단하다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "약해진 인대나 건(힘줄)에 직접 약물을 주입해 인위적으로 염증을 만드는 것이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "염증이 생기면 인체는 스스로 회복을 위해 세포를 증식시켜 힘을 강화한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "일종의 자연치유력을 활용하는 것이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "김 원장은 \\\"예컨대 요통이 생기는 것은 척추 뼈를 붙들고 있는 인대와 힘줄이 약해져 디스크가 불안정해지기 때문\\\"이라며 \\\"이를 강화하면 흔들리던 척추가 바로 서면서 통증이 소실된다\\\"고 말했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "약물도 특별히 개발된 것이 아니다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "농도가 짙은 포도당의 일종인 덱스트로스 용액이나 합성물질인 페놀 글리세롤 복합제 등을 사용한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "짙은 농도의 물질이 해당 부위에 탈수현상을 일으키고, 그 결과 염증반응이 나타난다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "김 원장은 \\\"프롤로 요법이 안전하긴 하지만 정확하게 인대나 건 또는 손상된 물렁뼈에 놓아야 신경.혈관 손상.부종 등 부작용을 줄이면서 치료 효과를 높일 수 있다\\\"고 말했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "치료는 4주 간격으로 4~6회 시술한다.",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'프롤로 요법', 수술 없이 약물로 치료하는 이 시술의 인기 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

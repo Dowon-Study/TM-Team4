@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195811",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "장마철시작, 집안 습기와 곰팡이를 제거하려면?…눅눅한 이불은 이렇게",
+    "newsSubTitle": "",
+    "newsContent": "'장마철 습기와 곰팡이' 24일제주부터 장마 시작 소식이 알려지자, 장마철 습기와 곰팡이 제거가 화제가 되고 있다.\n장마철의 습한 날씨에는 집안 습도 관리에 신경을 써 줘야 한다.\n비가 오는 날씨엔 집안의 습기와 함께 몸에서 배출되는 땀으로 하루만 지나도 이불이 눅눅해 지기 쉽다.\n여름 침구는 부피도 크지 않은 편이라 일주일에 한번 이상은 세탁하는 것이 좋은데 가장 좋은 건조법은 해가 났을 때 직사광선 밑에 널어 말리는 것이다.\n장마로 인해 사정이 여의치 않다면 전기장판을 이불 밑에 깔고 1~2시간 정도 틀어주는 것도 좋은 방법이다.\n장마철에는 옷장에 습기제거제를 갖추는 것은 필수. 땀이 밴 옷들은 바로 세탁하며, 통풍이 잘 되도록 수납공간을 넉넉히 두는 것이 좋다.\n장마철만이라도 물걸레 대신 마른걸레로 먼지를 닦아주는 정도의 손질만 해 주는 것이 좋으며 서랍장 바닥에 신문지를 깔아두는 것도 습기를 제거 해가 좋다.\n벽은 대체로 환기가 잘 되는 곳이긴 하지만 창문틀에 고이는 빗물이 흘러내려 벽지에 곰팡이가 생길 수 있다.\n비가 올 때 빗물이 집안으로 들어오지 않도록 창문을 잘 닫아주는 게 좋다. '장마철 습기와 곰팡이' 온라인 중앙일보 '장마철 습기와 곰팡이'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'장마철 습기와 곰팡이' 24일제주부터 장마 시작 소식이 알려지자, 장마철 습기와 곰팡이 제거가 화제가 되고 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "장마철의 습한 날씨에는 집안 습도 관리에 신경을 써 줘야 한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "비가 오는 날씨엔 집안의 습기와 함께 몸에서 배출되는 땀으로 하루만 지나도 이불이 눅눅해 지기 쉽다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여름 침구는 부피도 크지 않은 편이라 일주일에 한번 이상은 세탁하는 것이 좋은데 가장 좋은 건조법은 해가 났을 때 직사광선 밑에 널어 말리는 것이다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "장마로 인해 사정이 여의치 않다면 전기장판을 이불 밑에 깔고 1~2시간 정도 틀어주는 것도 좋은 방법이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "장마철에는 옷장에 습기제거제를 갖추는 것은 필수. 땀이 밴 옷들은 바로 세탁하며, 통풍이 잘 되도록 수납공간을 넉넉히 두는 것이 좋다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "장마철만이라도 물걸레 대신 마른걸레로 먼지를 닦아주는 정도의 손질만 해 주는 것이 좋으며 서랍장 바닥에 신문지를 깔아두는 것도 습기를 제거 해가 좋다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "벽은 대체로 환기가 잘 되는 곳이긴 하지만 창문틀에 고이는 빗물이 흘러내려 벽지에 곰팡이가 생길 수 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "비가 올 때 빗물이 집안으로 들어오지 않도록 창문을 잘 닫아주는 게 좋다. '장마철 습기와 곰팡이' 온라인 중앙일보 '장마철 습기와 곰팡이'",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "장마철, 습기와 곰팡이와의 전쟁… 화제의 곰팡이 제거 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

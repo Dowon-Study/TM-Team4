@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197144",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "서울 지역 초·중·고생 25% 주의력 결핍 등 행동장애",
+    "newsSubTitle": "왜 산만한가 했더니 …",
+    "newsContent": "초등학교 4학년 장호(가명.10)는 유치원 때부터 겉옷.가방 등을 자주 잃어버리고 다녔다.\n학교 수업시간 중에도 딴 짓을 하거나 주변 친구들을 집적거려 수업을 방해했다.\n혼이 나도 소용이 없었다.\n장호는 최근 병원에서 주의력 결핍 과잉행동장애(ADHD)라는 병을 가진 것으로 진단받았다.\n늘 부산하고 때와 장소를 가리지 않고 충동적인 행동을 하는 이 증후군은 유치원 때부터 시작, 초등학교 2학년이 되면 증상이 명확해진다.\n뇌의 기능 이상이 원인이며 치료도 뇌의 이상을 교정해 주는 약물치료(정신 자극제)가 우선이다.\n장호처럼 ADHD를 가진 학생이 전체의 13.5%나 된다는 조사 결과가 나왔다.\n그동안 국내 의학계에서는 4~5% 정도 될 것으로 추산됐다.\n서울시학교보건진흥원은 최근 서울의 6~17세 학생의 부모 2672명에 대한 면접 조사를 토대로 '서울시 소아청소년 정신장애 유병률 조사'라는 보고서를 발표했다.\n조사는 2005년에 이뤄졌으며 서울대병원 소아정신과 조수철 박사 등 30여 명의 전문가가 공동으로 참여했다.\n보고서에 따르면 서울 초.중.고생 네 명 중 한 명꼴로 행동장애가 있는 것으로 나타났다.\n2672명의 학생 중 416명(15.6%)은 주변 사람이나 학교 생활 등 특정 대상에 공포증이 있었다.\n행동장애 중에는 ADHD가 차지하는 비율이 가장 많았고, 적대적 반항장애를 보이는 학생도 전체의 11.3%에 해당됐다.\n삼성서울병원 정신과 정유숙 교수는 \\\"중.고등학생 때는 물론 초등학생 때부터 유난히 산만하거나, 짜증을 많이 내거나, 성적 변화가 심하거나, 수면 장애 등의 증상을 보이면 조기에 정신과를 방문해 적극적인 치료를 해줘야 한다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "초등학교 4학년 장호(가명.10)는 유치원 때부터 겉옷.가방 등을 자주 잃어버리고 다녔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "학교 수업시간 중에도 딴 짓을 하거나 주변 친구들을 집적거려 수업을 방해했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "혼이 나도 소용이 없었다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "장호는 최근 병원에서 주의력 결핍 과잉행동장애(ADHD)라는 병을 가진 것으로 진단받았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "늘 부산하고 때와 장소를 가리지 않고 충동적인 행동을 하는 이 증후군은 유치원 때부터 시작, 초등학교 2학년이 되면 증상이 명확해진다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뇌의 기능 이상이 원인이며 치료도 뇌의 이상을 교정해 주는 약물치료(정신 자극제)가 우선이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "장호처럼 ADHD를 가진 학생이 전체의 13.5%나 된다는 조사 결과가 나왔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그동안 국내 의학계에서는 4~5% 정도 될 것으로 추산됐다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "서울시학교보건진흥원은 최근 서울의 6~17세 학생의 부모 2672명에 대한 면접 조사를 토대로 '서울시 소아청소년 정신장애 유병률 조사'라는 보고서를 발표했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "조사는 2005년에 이뤄졌으며 서울대병원 소아정신과 조수철 박사 등 30여 명의 전문가가 공동으로 참여했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "보고서에 따르면 서울 초.중.고생 네 명 중 한 명꼴로 행동장애가 있는 것으로 나타났다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "2672명의 학생 중 416명(15.6%)은 주변 사람이나 학교 생활 등 특정 대상에 공포증이 있었다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "행동장애 중에는 ADHD가 차지하는 비율이 가장 많았고, 적대적 반항장애를 보이는 학생도 전체의 11.3%에 해당됐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "삼성서울병원 정신과 정유숙 교수는 \\\"중.고등학생 때는 물론 초등학생 때부터 유난히 산만하거나, 짜증을 많이 내거나, 성적 변화가 심하거나, 수면 장애 등의 증상을 보이면 조기에 정신과를 방문해 적극적인 치료를 해줘야 한다\\\"고 말했다.",
+        "sentenceSize": 132
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "네 명 중 한 명이 행동장애… 충격적인 결과에 잠긴 서울시",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

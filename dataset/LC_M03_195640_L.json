@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195640",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "화이자, 아스트라 항생제 사업부 인수",
+    "newsSubTitle": "7억2500만달러 규모…AZ, 심혈관·당뇨병·신장병에 집중",
+    "newsContent": "아스트라제네카의 항생제 사업부문이 화이자에 매각된다.\n아스트라제네카는 화학합성 항생제 사업부문의 개발·발매 권한을 화이자에 넘기기로 합의했다고 지난 24일 밝혔다.\n매각 규모는 계약성사금 5억5000만 달러에 2019년 완전 인수 후 1억7500만원을 더해 총 7억2500만 달러 수준이다.\n여기에 발매·제조 및 허가취득 과정에서 중간 로열티로 최대 2억5000만 달러를, 매출 실적과 관련해 최대 6억 달러를 추가 지불키로 했다.\n화이자는 머렘(meropenem), 진포로(ceftaroline fosamil), 자비세프타(ceftazidime+avibactam)와 신약후보인 ATM-AVI(aztreonam+avibactam), CXL(ceftaroline fosamil+avibactam) 등의 항생제를 확보했다.\n아스트라제네카는 심혈관계 치료제와 항당뇨제, 만성신장병 치료제 등 주력 치료제에 더욱 집중한다는 계획이다.\n화이자의 이센셜 헬스 부문의 존 영 대표는 “이센셜 헬스 부문의 포트폴리오를 재편하면서 항감염제를 포함한 각종 치료제 영역에서 우리의 역량을 강화할 수 있게 됐다”고 기대했다.\n아스트라제네카 루크 미엘스 항생제 사업부문 대표는 “이번 합의로 환자들의 삶에 현격한 차이를 가져다 줄 수 있는 3개 주요 치료제 영역들에 투자하면서 전략적으로 한층 집중할 수 있는 태세를 갖추게 됐다”고 환영했다.\n화이자는 최근 기업 인수에 열을 올리는 모습이다.\n이달 1일 유전자 치료제 개발 업체인 뱀부 쎄러퓨틱스를 1억9300만 달러에 인수했다.\n23일엔 전립선암 치료제 개발 업체인 메디베이션 인수에도 성공했다.\n이에 앞서선 앨러간 인수에도 나섰으나 무산된 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아스트라제네카의 항생제 사업부문이 화이자에 매각된다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아스트라제네카는 화학합성 항생제 사업부문의 개발·발매 권한을 화이자에 넘기기로 합의했다고 지난 24일 밝혔다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "매각 규모는 계약성사금 5억5000만 달러에 2019년 완전 인수 후 1억7500만원을 더해 총 7억2500만 달러 수준이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여기에 발매·제조 및 허가취득 과정에서 중간 로열티로 최대 2억5000만 달러를, 매출 실적과 관련해 최대 6억 달러를 추가 지불키로 했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "화이자는 머렘(meropenem), 진포로(ceftaroline fosamil), 자비세프타(ceftazidime+avibactam)와 신약후보인 ATM-AVI(aztreonam+avibactam), CXL(ceftaroline fosamil+avibactam) 등의 항생제를 확보했다.",
+        "sentenceSize": 160
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아스트라제네카는 심혈관계 치료제와 항당뇨제, 만성신장병 치료제 등 주력 치료제에 더욱 집중한다는 계획이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "화이자의 이센셜 헬스 부문의 존 영 대표는 “이센셜 헬스 부문의 포트폴리오를 재편하면서 항감염제를 포함한 각종 치료제 영역에서 우리의 역량을 강화할 수 있게 됐다”고 기대했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아스트라제네카 루크 미엘스 항생제 사업부문 대표는 “이번 합의로 환자들의 삶에 현격한 차이를 가져다 줄 수 있는 3개 주요 치료제 영역들에 투자하면서 전략적으로 한층 집중할 수 있는 태세를 갖추게 됐다”고 환영했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "화이자는 최근 기업 인수에 열을 올리는 모습이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이달 1일 유전자 치료제 개발 업체인 뱀부 쎄러퓨틱스를 1억9300만 달러에 인수했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "23일엔 전립선암 치료제 개발 업체인 메디베이션 인수에도 성공했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이에 앞서선 앨러간 인수에도 나섰으나 무산된 바 있다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "화이자, 아스트라제네카 항생제 사업부문 가져온다... 인수 금액은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195736",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "담배 유해성? 정부가 직접 검증한다",
+    "newsSubTitle": "국가흡연폐해연구소 10월 개소, 담배 담배 화학 물질 분석 작업 수행",
+    "newsContent": "담배의 유해 성분을 실험·분석하는 정부 연구소가 다음달 문을 연다. 담배 회사들의 분석 자료 외에 정부가 직접 나서 담배 유해성을 평가하는 것은 이번이 처음이다.\n질병관리본부는 10월말 충북 오송의 본부 건물 내에 '국가흡연폐해연구소'를 개소할 계획이라고 21일 밝혔다.\n당초 8월 설치될 계획이었지만, 중동호흡기증후군(메르스) 사태로 시기가 다소 지연됐다.\n이 연구소는 국내 유통되는 담배 성분과 첨가물, 배출물(연기)의 분석 작업을 통해 건강과의 연관성을 파악 하는 업무를 담당한다.\n예를 들어 담배의 기본성분인 니코틴, 타르, 암모니아 등 유해 성분이 얼마나 들어있는지, 또 멘솔, 당류 등 첨가물질 등은 중독성과 어느 정도 연관성이 있는지, 간접흡연이 혈액, 소변, 모발 등 인체와 주변환경에 미치는 영향은 어느정도 인지 등을 파악하는 것이다.\n뿐만 아니라 동물이나 세포를 활용, 담배가 암이나 심혈관질환, 성장발달장애 등과 어떤연관성을 갖는지도 과학적으로 실험할계획이다.\n정부는 이를 위해 연구소에 연기표집장치, 스모킹 머신 등 실험 장비를 구축하는 한편,분석작업을 수행할연구 인력도 신규 채용한 것으로 전해졌다.\n내년 정부 예산안에도 연구소 장비 구입비, 재료비, 인건비, 교육 등의 명목으로 30억원의 예산이 책정돼 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "담배의 유해 성분을 실험·분석하는 정부 연구소가 다음달 문을 연다. 담배 회사들의 분석 자료 외에 정부가 직접 나서 담배 유해성을 평가하는 것은 이번이 처음이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "질병관리본부는 10월말 충북 오송의 본부 건물 내에 '국가흡연폐해연구소'를 개소할 계획이라고 21일 밝혔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당초 8월 설치될 계획이었지만, 중동호흡기증후군(메르스) 사태로 시기가 다소 지연됐다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 연구소는 국내 유통되는 담배 성분과 첨가물, 배출물(연기)의 분석 작업을 통해 건강과의 연관성을 파악 하는 업무를 담당한다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예를 들어 담배의 기본성분인 니코틴, 타르, 암모니아 등 유해 성분이 얼마나 들어있는지, 또 멘솔, 당류 등 첨가물질 등은 중독성과 어느 정도 연관성이 있는지, 간접흡연이 혈액, 소변, 모발 등 인체와 주변환경에 미치는 영향은 어느정도 인지 등을 파악하는 것이다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뿐만 아니라 동물이나 세포를 활용, 담배가 암이나 심혈관질환, 성장발달장애 등과 어떤연관성을 갖는지도 과학적으로 실험할계획이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "정부는 이를 위해 연구소에 연기표집장치, 스모킹 머신 등 실험 장비를 구축하는 한편,분석작업을 수행할연구 인력도 신규 채용한 것으로 전해졌다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "내년 정부 예산안에도 연구소 장비 구입비, 재료비, 인건비, 교육 등의 명목으로 30억원의 예산이 책정돼 있다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "담배의 유해성 분석·평가, 담배 회사가 아닌 정부가 직접 나서… 알고 보니?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

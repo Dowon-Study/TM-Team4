@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197257",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "약수터에서 치매유발성분 다량 검출",
+    "newsSubTitle": "",
+    "newsContent": "마산지역 약수터 2곳에서 노인성 치매를 유발하는 알루미늄이 기준치의 최고 3배 정도 검출됐다.\n마산시 수돗물 수질평가위원장 최동범 (崔東範.양덕2동) 시의원은 지난해 마산.창원지역 약수터 36곳을 3개월마다 조사한 결과 16~27곳이 먹는 물로는 부적합 것으로 조사됐다고 25일 밝혔다.\n특히 지난해 6월 검사에서 마산 팔용산 먼등골 두 곳의 약수터에서 노인성 치매를 유발하는 알루미늄이 각각 ℓ당 0.72㎎과 0.45㎎이 검출돼 기준치 (0.2㎎/ℓ) 를 2~3배 초과했다.\n시민들이 많이 찾는 완월폭포.서원곡 관해정.무학산 등나무 산장 등에서는 검출되지 않아야 할 대장균이 나왔다.\n진동 참샘.구산 수정우물의 경우 기준치 이상의 일반세균이 검출됐다.\n창원시 동정동 지세골과 대방동 대암산 약수터는 1995년 8월 여시니아균이 검출돼 폐쇄됐으나 이 같은 사실을 알리는 안내판이 전혀 없다.\n한편 지난해 11월 시민 1천8백6명을 대상으로 설문조사한 결과 62%인 1천1백20명이 수돗물을 식수로 사용하지 않고 있는 것으로 나타났다.\n崔의원은 \\\"수돗물과 약수터에 대한 시민들의 불신을 줄이기 위해서는 수돗물 처리시설을 현대화하고 수질처리과정을 감시할 수 있는 수질관리팀을 만들어야 한다\\\" 고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "마산지역 약수터 2곳에서 노인성 치매를 유발하는 알루미늄이 기준치의 최고 3배 정도 검출됐다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "마산시 수돗물 수질평가위원장 최동범 (崔東範.양덕2동) 시의원은 지난해 마산.창원지역 약수터 36곳을 3개월마다 조사한 결과 16~27곳이 먹는 물로는 부적합 것으로 조사됐다고 25일 밝혔다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 지난해 6월 검사에서 마산 팔용산 먼등골 두 곳의 약수터에서 노인성 치매를 유발하는 알루미늄이 각각 ℓ당 0.72㎎과 0.45㎎이 검출돼 기준치 (0.2㎎/ℓ) 를 2~3배 초과했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "시민들이 많이 찾는 완월폭포.서원곡 관해정.무학산 등나무 산장 등에서는 검출되지 않아야 할 대장균이 나왔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "진동 참샘.구산 수정우물의 경우 기준치 이상의 일반세균이 검출됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "창원시 동정동 지세골과 대방동 대암산 약수터는 1995년 8월 여시니아균이 검출돼 폐쇄됐으나 이 같은 사실을 알리는 안내판이 전혀 없다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 지난해 11월 시민 1천8백6명을 대상으로 설문조사한 결과 62%인 1천1백20명이 수돗물을 식수로 사용하지 않고 있는 것으로 나타났다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "崔의원은 \\\"수돗물과 약수터에 대한 시민들의 불신을 줄이기 위해서는 수돗물 처리시설을 현대화하고 수질처리과정을 감시할 수 있는 수질관리팀을 만들어야 한다\\\" 고 말했다.",
+        "sentenceSize": 94
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "약수터 2곳에서 기억력 싹둑 잘리는 노인성 치매 유발 물질 대량 검출",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

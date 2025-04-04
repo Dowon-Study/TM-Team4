@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196683",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 여름철 강한 자외선에도 피부 건강 돌봐",
+    "newsSubTitle": "",
+    "newsContent": "━ 웰빙제품 뉴트리 ‘에버콜라겐 인&업’ 강력한 자외선은 피부 노화와 잡티의 주범이다.\n따라서 여름철엔 피부 진피를 구성하는 콜라겐을 보충하는 것이 필요하다.\n하지만 콜라겐은 분자 크기가 크고 물에 녹지 않아 바르는 것만으로는 진피층까지 도달하기가 어렵다.\n건강기능식품 전문기업 뉴트리(Newtree)는 독보적 기술을 통해 자외선으로부터 피부 건강 유지는 물론 보습에도 도움을 줄 수 있는 ‘에버콜라겐 인&업’(사진)을 개발했다. ‘에버콜라겐 인&업’은 주성분으로 저분자콜라겐·비타민C·비오틴을, 부원료로 히알루론산과 엘라스틴을 함유해 진피의 3대 구성 성분이 모두 들어 있다.\n특히 저분자콜라겐펩타이드는 콜라겐을 진피층까지 깊이 침투시켜 흡수율이 높다.\n국내 최초로 식품의약품안전처로부터 이중 기능성 콜라겐 원료로 인정 받아 ‘자외선으로 손상된 피부 치유에도 도움을 줄 수 있다’는 사실을 입증한 바 있다. ‘에버콜라겐 인&업’은 4병(16주분)으로 구성돼 있으며 하루에 한 번 3정을 물과 함께 먹으면 된다.\n뉴트리는 ‘에버콜라겐 인&업’을 오는 17일(금)까지 500명에게 유통 최저가로 판매한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ 웰빙제품 뉴트리 ‘에버콜라겐 인&업’ 강력한 자외선은 피부 노화와 잡티의 주범이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "따라서 여름철엔 피부 진피를 구성하는 콜라겐을 보충하는 것이 필요하다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 콜라겐은 분자 크기가 크고 물에 녹지 않아 바르는 것만으로는 진피층까지 도달하기가 어렵다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "건강기능식품 전문기업 뉴트리(Newtree)는 독보적 기술을 통해 자외선으로부터 피부 건강 유지는 물론 보습에도 도움을 줄 수 있는 ‘에버콜라겐 인&업’(사진)을 개발했다. ‘에버콜라겐 인&업’은 주성분으로 저분자콜라겐·비타민C·비오틴을, 부원료로 히알루론산과 엘라스틴을 함유해 진피의 3대 구성 성분이 모두 들어 있다.",
+        "sentenceSize": 179
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 저분자콜라겐펩타이드는 콜라겐을 진피층까지 깊이 침투시켜 흡수율이 높다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "국내 최초로 식품의약품안전처로부터 이중 기능성 콜라겐 원료로 인정 받아 ‘자외선으로 손상된 피부 치유에도 도움을 줄 수 있다’는 사실을 입증한 바 있다. ‘에버콜라겐 인&업’은 4병(16주분)으로 구성돼 있으며 하루에 한 번 3정을 물과 함께 먹으면 된다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "뉴트리는 ‘에버콜라겐 인&업’을 오는 17일(금)까지 500명에게 유통 최저가로 판매한다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "수명 단축의 주범 자외선... 콜라겐으로 관리하세요",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

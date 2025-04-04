@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194394",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BookBriefing] 『현장에서 만난 20세기』 外",
+    "newsSubTitle": "",
+    "newsContent": "◆세계적인 사진작가그룹인 ‘매그넘’이 창립 60주년을 맞아 역사의 현장을 담은 보도사진을 골라 엮은 『현장에서 만난 20세기』(에릭 고두 글, 양영란 옮김, 256쪽, 5만4000원)가 나왔다.\n23개국 공동기획으로, 300여 점의 사진마다 설명과 당시 구호, 중요 어록과 연표를 실어 시대와 사건을 생생히 증언하는 효과를 거뒀다.\n◆세계 곳곳의 경이로운 건축물 70개에 대해 건축과정·공법은 물론 그에 얽힌 역사적 사건들을 정리한 『세계의 건축물 1·2』(알레산드라 카포디페로 외 엮음, 이순주· 이미숙 옮김, 뜨인돌, 각 권 320쪽, 각 7만원)이 출간됐다.\n고전 건축과 현대 건축으로 나눠 영국의 스톤 헨지부터 브라질의 ‘삼권광장’까지 풍성한 사진과 함께 소개한 건축문화백과다.\n◆올 노벨 문학상 수상자인 영국 작가 도리스 레싱의 대표작 『황금 노트북 1』(안재연·이은정 옮김, 뿔, 492쪽, 1만3000원)이 나왔다.\n한 여성 작가가 삶과 자유의 의미를 성찰하여, 여성 문제를 실험적 형식에 담아낸 20세기 고전으로 꼽히는 작품으로 한글판은 세 권으로 출간될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆세계적인 사진작가그룹인 ‘매그넘’이 창립 60주년을 맞아 역사의 현장을 담은 보도사진을 골라 엮은 『현장에서 만난 20세기』(에릭 고두 글, 양영란 옮김, 256쪽, 5만4000원)가 나왔다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "23개국 공동기획으로, 300여 점의 사진마다 설명과 당시 구호, 중요 어록과 연표를 실어 시대와 사건을 생생히 증언하는 효과를 거뒀다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "◆세계 곳곳의 경이로운 건축물 70개에 대해 건축과정·공법은 물론 그에 얽힌 역사적 사건들을 정리한 『세계의 건축물 1·2』(알레산드라 카포디페로 외 엮음, 이순주· 이미숙 옮김, 뜨인돌, 각 권 320쪽, 각 7만원)이 출간됐다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "고전 건축과 현대 건축으로 나눠 영국의 스톤 헨지부터 브라질의 ‘삼권광장’까지 풍성한 사진과 함께 소개한 건축문화백과다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◆올 노벨 문학상 수상자인 영국 작가 도리스 레싱의 대표작 『황금 노트북 1』(안재연·이은정 옮김, 뿔, 492쪽, 1만3000원)이 나왔다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한 여성 작가가 삶과 자유의 의미를 성찰하여, 여성 문제를 실험적 형식에 담아낸 20세기 고전으로 꼽히는 작품으로 한글판은 세 권으로 출간될 예정이다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "세계적 사진작가그룹 '매그넘', 창립 60주년 맞아 엮어낸 책은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

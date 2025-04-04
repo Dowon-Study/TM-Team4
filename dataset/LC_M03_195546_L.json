@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195546",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"중국발 미세먼지로 한·일 한 해 3만여 명 조기 사망\\\"",
+    "newsSubTitle": "",
+    "newsContent": "중국에서 유입된 미세먼지(PM2.5)로 인해 한국과 일본에서 한 해 3만900명이 조기 사망한다는 연구 결과가 발표됐다.\n중국 칭화대 중심의 국제 공동연구진은 30일 국제학술지 '네이처(Nature)'를 통해 미세먼지 이동이 세계인의 건강에 미치는 영향을 분석했다.\n미세먼지로 인한 지역별 조기 사망자 수가 산출된 것은 이번이 처음이다.\n연구진은 이번 연구에서 2007년 한 해 동안 228개국에서 제조업으로 발생한 미세먼지 농도와 이로 인해 심장병ㆍ뇌졸중ㆍ폐암 등 미세먼지로 인한 발병 우려가 높은 질병으로 일찍 사망한 사람 수 사이의 상관관계를 조사했다.\n연구진은 2007년 한 해 초미세먼지로 인해 조기 사망한 사람은 전 세계적으로 총 345만명에 달한다고 추정했다.\n또, 이 중 12%인 41만1100여명은 자국 외에서 날아온 미세먼지로 인해 사망한 것으로 분석됐다.\n특히 중국발 초미세먼지 때문에 한국과 일본은 3만900명이 조기 사망한 것으로 추산했다.\n연구진은 \\\"값싼 노동력을 추구하는 많은 기업이 중국에 공장을 세워 중국의 미세먼지 배출량이 전 세계에서 가장 많다\\\"며 \\\"바람이 흘러드는 한국과 일본에서 건강 피해가 크게 나왔다\\\"고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중국에서 유입된 미세먼지(PM2.5)로 인해 한국과 일본에서 한 해 3만900명이 조기 사망한다는 연구 결과가 발표됐다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "중국 칭화대 중심의 국제 공동연구진은 30일 국제학술지 '네이처(Nature)'를 통해 미세먼지 이동이 세계인의 건강에 미치는 영향을 분석했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "미세먼지로 인한 지역별 조기 사망자 수가 산출된 것은 이번이 처음이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연구진은 이번 연구에서 2007년 한 해 동안 228개국에서 제조업으로 발생한 미세먼지 농도와 이로 인해 심장병ㆍ뇌졸중ㆍ폐암 등 미세먼지로 인한 발병 우려가 높은 질병으로 일찍 사망한 사람 수 사이의 상관관계를 조사했다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연구진은 2007년 한 해 초미세먼지로 인해 조기 사망한 사람은 전 세계적으로 총 345만명에 달한다고 추정했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또, 이 중 12%인 41만1100여명은 자국 외에서 날아온 미세먼지로 인해 사망한 것으로 분석됐다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 중국발 초미세먼지 때문에 한국과 일본은 3만900명이 조기 사망한 것으로 추산했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구진은 \\\"값싼 노동력을 추구하는 많은 기업이 중국에 공장을 세워 중국의 미세먼지 배출량이 전 세계에서 가장 많다\\\"며 \\\"바람이 흘러드는 한국과 일본에서 건강 피해가 크게 나왔다\\\"고 설명했다.",
+        "sentenceSize": 110
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한국과 일본에서 한 해 3만900명이 조기 사망... 원인은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

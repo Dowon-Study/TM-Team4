@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198728",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "수도권 1주간 일평균 환자 40명 넘으면 거리두기 2단계 격상된다",
+    "newsSubTitle": "",
+    "newsContent": "앞으로 수도권에서 일일 지역발생 확진자가 1주간 평균 40명을 넘기면 현재 사회적 거리두기 1단계가 2단계로 격상될 수 있을 전망이다.\n이보다 인구 규모가 적은 충청·호남·경북권에서는 일일 평균 20명, 강원·제주는 10명을 넘을 때 거리두기 단계를 조정할 수 있다.\n중앙재난안전대책본부(중대본)은 17일 이같은 내용의 '지역별 사회적 거리두기 조정 기준'을 발표했다.\n중대본에 따르면 지역별 거리두기를 시행할 권역을 공동 의료대응 체계 등을 고려해 ▶수도권(서울·경기·인천) ▶충청권(대전·세종·충북·충남) ▶호남권(광주·전북·전남) ▶경북권(대구·경북) ▶경남권(부산·울산·경남) ▶강원 ▶제주 등 7개 권역으로 나눴다.\n또 거리두기 단계를 격상할 때 참고 기준을 '일주일간 평균 일일 확진자 수'로 설정했다.\n이 때 확진자는 해외 유입을 제외한 지역발생 사례만 따진다. 7개 권역별 인구수를 고려할 때, 수도권(서울·경기·인천)은 1주간 일일 확진자가 평균 40명을 넘을 때 2단계 격상을 검토할 수 있게 했다.\n경남권(부산·울산·경남)은 25명, 충청·호남·경북권은 20명, 강원·제주는 10명이 넘을 때로 설정됐다.\n중대본은 '일주일간 평균 일일 확진자 수' 외에 1주간 감염재생산지수(R값)도 고려하도록 했다.\n재생산지수란 감염병 환자 1명이 얼마나 많은 타인에게 바이러스를 옮기는지 보여주는 지표다.\n지수가 2이면 1명이 2명을 감염시킨다는 의미다.\n이와 관련 윤태호 방역총괄반장은 이날 브리핑에서 \\\"재생산지수는 아직 논의 중으로, 1.3 내외 수준으로 고려하고 있다\\\"고 말했다.\n서울에서 1주간 일평균 확진자가 40명을 넘고, 감염재생산지수도 1.3 내외라면 거리두기가 2단계로 격상될 거란 얘기다.\n중대본은 권역권 기준을 활용하되 특정 지방자치단체에서 확진자가 단기간 내 증가하는 경우엔 자체적으로 단계를 올릴 수 있도록 했다.\n가령 시·도 내 지역발생 일일 확진자 수가 10명 이상인 상황에서 확진자 수가 2배로 증가하는 일이 1주내 2회 이상 발생하는 경우 지자체장이 2단계 격상을 할 수 있다.\n그러나 중대본은 각 지자체가 거리두기 최고 수준인 3단계로 격상할 때는 필요성과 구체적 기준을 보건복지부, 질병관리본부와 미리 논의해 결정하도록 했다.\n3단계 방역 조치시 높은 사회적 비용이 발생하는 만큼 심층적 고려가 필요하다는 이유에서다.\n중대본이 지난달 28일 발표한 사회적 거리두기 3단계 방역 체계에서는 10인 이상 모임과 행사가 금지되고 고위험·중위험시설 운영이 중단되며, 등교 수업도 원격수업으로 전환된다.\n중대본은 앞서 지난달 28일 그동안 각종 거리두기 명칭을 '사회적 거리두기'로 통일하고, 코로나 유행 심각성 따라 1~3단계로 구분해 시행하기로 했다.\n또 단계별 방역 수칙을 제시했다.\n하지만 지역별 유행 상황이 달라 1~3단계를 전국에 일괄 적용하기가 어려운데다, 지역별 단계 조정의 명확한 기준도 부재했다.\n윤 반장은 \\\"지역별 단계 기준이 따로 없어 감염 확산 상황에 신속히 대응하는 데 어려움이 있었다\\\"며 \\\"앞으로 정부와 지자체 간 상시적인 협조체계를 구축해 대응 속도를 높이겠다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "앞으로 수도권에서 일일 지역발생 확진자가 1주간 평균 40명을 넘기면 현재 사회적 거리두기 1단계가 2단계로 격상될 수 있을 전망이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이보다 인구 규모가 적은 충청·호남·경북권에서는 일일 평균 20명, 강원·제주는 10명을 넘을 때 거리두기 단계를 조정할 수 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "중앙재난안전대책본부(중대본)은 17일 이같은 내용의 '지역별 사회적 거리두기 조정 기준'을 발표했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "중대본에 따르면 지역별 거리두기를 시행할 권역을 공동 의료대응 체계 등을 고려해 ▶수도권(서울·경기·인천) ▶충청권(대전·세종·충북·충남) ▶호남권(광주·전북·전남) ▶경북권(대구·경북) ▶경남권(부산·울산·경남) ▶강원 ▶제주 등 7개 권역으로 나눴다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 거리두기 단계를 격상할 때 참고 기준을 '일주일간 평균 일일 확진자 수'로 설정했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 때 확진자는 해외 유입을 제외한 지역발생 사례만 따진다. 7개 권역별 인구수를 고려할 때, 수도권(서울·경기·인천)은 1주간 일일 확진자가 평균 40명을 넘을 때 2단계 격상을 검토할 수 있게 했다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "경남권(부산·울산·경남)은 25명, 충청·호남·경북권은 20명, 강원·제주는 10명이 넘을 때로 설정됐다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "중대본은 '일주일간 평균 일일 확진자 수' 외에 1주간 감염재생산지수(R값)도 고려하도록 했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "재생산지수란 감염병 환자 1명이 얼마나 많은 타인에게 바이러스를 옮기는지 보여주는 지표다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "지수가 2이면 1명이 2명을 감염시킨다는 의미다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이와 관련 윤태호 방역총괄반장은 이날 브리핑에서 \\\"재생산지수는 아직 논의 중으로, 1.3 내외 수준으로 고려하고 있다\\\"고 말했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "서울에서 1주간 일평균 확진자가 40명을 넘고, 감염재생산지수도 1.3 내외라면 거리두기가 2단계로 격상될 거란 얘기다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "중대본은 권역권 기준을 활용하되 특정 지방자치단체에서 확진자가 단기간 내 증가하는 경우엔 자체적으로 단계를 올릴 수 있도록 했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "가령 시·도 내 지역발생 일일 확진자 수가 10명 이상인 상황에서 확진자 수가 2배로 증가하는 일이 1주내 2회 이상 발생하는 경우 지자체장이 2단계 격상을 할 수 있다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "그러나 중대본은 각 지자체가 거리두기 최고 수준인 3단계로 격상할 때는 필요성과 구체적 기준을 보건복지부, 질병관리본부와 미리 논의해 결정하도록 했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "3단계 방역 조치시 높은 사회적 비용이 발생하는 만큼 심층적 고려가 필요하다는 이유에서다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "중대본이 지난달 28일 발표한 사회적 거리두기 3단계 방역 체계에서는 10인 이상 모임과 행사가 금지되고 고위험·중위험시설 운영이 중단되며, 등교 수업도 원격수업으로 전환된다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "중대본은 앞서 지난달 28일 그동안 각종 거리두기 명칭을 '사회적 거리두기'로 통일하고, 코로나 유행 심각성 따라 1~3단계로 구분해 시행하기로 했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "또 단계별 방역 수칙을 제시했다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "하지만 지역별 유행 상황이 달라 1~3단계를 전국에 일괄 적용하기가 어려운데다, 지역별 단계 조정의 명확한 기준도 부재했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "윤 반장은 \\\"지역별 단계 기준이 따로 없어 감염 확산 상황에 신속히 대응하는 데 어려움이 있었다\\\"며 \\\"앞으로 정부와 지자체 간 상시적인 협조체계를 구축해 대응 속도를 높이겠다\\\"고 말했다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "발표된 '이것 조정 기준', 2단계 격상의 기준은 무엇일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

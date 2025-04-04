@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193362",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "게토레이 업체 인수한 누이 펩시 회장 2년 연속 ‘재계 최고 파워 여성’",
+    "newsSubTitle": "",
+    "newsContent": "인드라 누이(사진) 펩시 회장이 가장 영향력 있는 여성기업인으로 선정됐다.\n미국 경제잡지 포춘이 1일 발표한 ‘2007 재계에서 가장 영향력 있는 여성 50명’에서 인도 출신의 누이 회장은 2년 연속 1위에 올랐다.\n누이는 ‘게토레이’로 유명한 퀘이커 푸즈를 인수하는 데 핵심적 역할을 했고 지난해 매출 351억달러,영업이익 64억달러의 실적을 올려 펩시의 경영을 크게 개선시켰다고 포춘은 평가했다.\n2위는 제록스의 앤 멀케이 회장, 3위는 이베이의 멕 휘트먼 회장이 각각 올랐다.\n1~3위는 지난해와 같았다.\n이와 함께 가장 많은 보수를 받는 여성 기업인으로는 지난해 3000만 달러(약 274억원)의 연봉을 받은 조 크루즈 모건스탠리 공동사장이 선정됐다.\n야후의 수전 데커 부사장(2500만 달러),크레프트 푸즈의 아이린 로젠펠드 회장(1920만 달러),웨스턴 유니언의 CEO 크리스천 골드 CEO(1650만 달러),사페코의 CEO 파올라 레이놀즈(1390만 달러) 등이 뒤를 이었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "인드라 누이(사진) 펩시 회장이 가장 영향력 있는 여성기업인으로 선정됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미국 경제잡지 포춘이 1일 발표한 ‘2007 재계에서 가장 영향력 있는 여성 50명’에서 인도 출신의 누이 회장은 2년 연속 1위에 올랐다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "누이는 ‘게토레이’로 유명한 퀘이커 푸즈를 인수하는 데 핵심적 역할을 했고 지난해 매출 351억달러,영업이익 64억달러의 실적을 올려 펩시의 경영을 크게 개선시켰다고 포춘은 평가했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2위는 제록스의 앤 멀케이 회장, 3위는 이베이의 멕 휘트먼 회장이 각각 올랐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "1~3위는 지난해와 같았다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이와 함께 가장 많은 보수를 받는 여성 기업인으로는 지난해 3000만 달러(약 274억원)의 연봉을 받은 조 크루즈 모건스탠리 공동사장이 선정됐다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "야후의 수전 데커 부사장(2500만 달러),크레프트 푸즈의 아이린 로젠펠드 회장(1920만 달러),웨스턴 유니언의 CEO 크리스천 골드 CEO(1650만 달러),사페코의 CEO 파올라 레이놀즈(1390만 달러) 등이 뒤를 이었다.",
+        "sentenceSize": 128
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'세젤멋' 인드라 누이 펩시 회장, 가장 영향력 있는 여성기업인",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

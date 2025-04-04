@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197684",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "박경, '사재기 의혹 제기' 발언으로 첫 경찰 조사",
+    "newsSubTitle": "",
+    "newsContent": "가수 박경이 음원 사재기 저격 발언 이후 첫 경찰 조사를 받았다.\n10일 소속사 측에 따르면 박경은 9일 서울 성동경찰서에 자진 출석해 현재 경찰 조사가 진행 중인 정보통신망법 위반 혐의 형사고발·고소 건에 대해 피의자 신분으로 첫 조사를 받았다.\n앞서 박경은 지난해 11월 자신의 SNS에 \\\"바이브처럼 송하예처럼 임재현처럼 전상근처럼 장덕철처럼 황인욱처럼 '사재기' 좀 하고 싶다\\\"는 글을 올렸다.\n이는 멜론차트 사재기 논란을 정조준한 것으로, 해당 발언은 업로드 직후부터 큰 화제가 됐다.\n박경이 거론한 가수들은 사재기가 사실무근이라고 주장, 박경을 허위사실 적시에 따른 명예훼손 등을 포함한 정보통신망법 위반죄로 고소해 파장은 더욱 커졌다.\n박경은 지난해 11월 21일 입영 통지서를 받았으나 조사를 받기 위해 연기 신청을 했다.\n이번 자진 출석에 대해 박경 측은 \\\"코로나19 사태로 인해 조사 날짜가 많이 지연됐지만, 박경은 추후 진행되는 수사 협조 요청에도 성실하게 임할 예정\\\"이라고 입장을 전했다.\n이에 대해 한 법조계 관계자는 미디어SR에 \\\"사재기가 이뤄졌는지 아닌지와 별개로 실명을 거론한 건 법적 책임의 근거가 된다\\\"면서 \\\"형사고소 건이고 첫 조사를 받은 만큼 추가 소환 조사가 이뤄질 여지도 크다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 박경이 음원 사재기 저격 발언 이후 첫 경찰 조사를 받았다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 소속사 측에 따르면 박경은 9일 서울 성동경찰서에 자진 출석해 현재 경찰 조사가 진행 중인 정보통신망법 위반 혐의 형사고발·고소 건에 대해 피의자 신분으로 첫 조사를 받았다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 박경은 지난해 11월 자신의 SNS에 \\\"바이브처럼 송하예처럼 임재현처럼 전상근처럼 장덕철처럼 황인욱처럼 '사재기' 좀 하고 싶다\\\"는 글을 올렸다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이는 멜론차트 사재기 논란을 정조준한 것으로, 해당 발언은 업로드 직후부터 큰 화제가 됐다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박경이 거론한 가수들은 사재기가 사실무근이라고 주장, 박경을 허위사실 적시에 따른 명예훼손 등을 포함한 정보통신망법 위반죄로 고소해 파장은 더욱 커졌다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박경은 지난해 11월 21일 입영 통지서를 받았으나 조사를 받기 위해 연기 신청을 했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번 자진 출석에 대해 박경 측은 \\\"코로나19 사태로 인해 조사 날짜가 많이 지연됐지만, 박경은 추후 진행되는 수사 협조 요청에도 성실하게 임할 예정\\\"이라고 입장을 전했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 대해 한 법조계 관계자는 미디어SR에 \\\"사재기가 이뤄졌는지 아닌지와 별개로 실명을 거론한 건 법적 책임의 근거가 된다\\\"면서 \\\"형사고소 건이고 첫 조사를 받은 만큼 추가 소환 조사가 이뤄질 여지도 크다\\\"고 말했다.",
+        "sentenceSize": 125
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박경, `이 발언` 이후 첫 경찰조사 받아",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

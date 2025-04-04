@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198446",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "사후세계 에피소드 다룬 '환생구역'",
+    "newsSubTitle": "",
+    "newsContent": "사람이 죽으면 정말 평소 행동거지에 따라 가는 곳이 달라지는 것일까.\n극단 반딧불이의 '환생(還生) 구역' 은 누구나 궁금해하는 인간의 사후세계를 그리고 있다.\n무대는 가상의 저승심사구역. 천사장이 심사를 거쳐 영혼들을 천국행과 지상행으로 분류하는 과정에서 발생하는 에피소드들을 모았다.\n삭막한 무대지만 성가곡과 블루스.트로트 등 다양한 음악과 코믹한 대사는 젊은 관객들을 끌기에 충분하다.\n억울하게 살해된 영혼과 본드를 마신 젊은 영혼까지 다양한 인간군상이 등장한다.\n작가 장성희는 불교의 윤회적 환생관과 기독교적 생사관을 결합시켜 새로운 사후세계를 보여주고 있다.\n연출 최은승. 6월 10일까지 아리랑소극장. 오후 7시30분, 금.토 4시30분 추가, 일 3시.6시, 월 쉼. 02-764-8760.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "사람이 죽으면 정말 평소 행동거지에 따라 가는 곳이 달라지는 것일까.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "극단 반딧불이의 '환생(還生) 구역' 은 누구나 궁금해하는 인간의 사후세계를 그리고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "무대는 가상의 저승심사구역. 천사장이 심사를 거쳐 영혼들을 천국행과 지상행으로 분류하는 과정에서 발생하는 에피소드들을 모았다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "삭막한 무대지만 성가곡과 블루스.트로트 등 다양한 음악과 코믹한 대사는 젊은 관객들을 끌기에 충분하다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "억울하게 살해된 영혼과 본드를 마신 젊은 영혼까지 다양한 인간군상이 등장한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "작가 장성희는 불교의 윤회적 환생관과 기독교적 생사관을 결합시켜 새로운 사후세계를 보여주고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연출 최은승. 6월 10일까지 아리랑소극장. 오후 7시30분, 금.토 4시30분 추가, 일 3시.6시, 월 쉼. 02-764-8760.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인간의 사후세계는 어떤 모습일까? 극단 반딧불이의 '이 신작'을 따라가라",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

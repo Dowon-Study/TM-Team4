@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198323",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[홍혜걸객원의학전문기자의우리집주치의] 몸에 방사선 쬐면 …",
+    "newsSubTitle": "일본 암환자 3.2% 방사선 검사로 걸린 것",
+    "newsContent": "'누가 존 웨인을 죽였는가'. 일본의 반핵운동가 히로세 다카시는 존 웨인을 비롯해 게리 쿠퍼, 스티브 매퀸 등 할리우드 스타들이 한결같이 암으로 죽은 것은 우연이 아니라고 역설했습니다.\n이들 모두 사막지대에서 서부영화를 촬영했는데 촬영지가 냉전시대 수십 차례 핵실험이 실시된 네바다 사막 인근 지역이었다는 것이지요.\n1954년 영화 '정복자'의 촬영 이후 20여 년이 지난 후 주인공 존 웨인과 수잔 헤이워드가 모두 다발성 암으로 숨진 것은 잔류 방사능 때문이란 주장입니다.\n다소 과장은 있습니다만 방사능이 얼마나 해로운지 경각심을 갖게 하기엔 충분한 내용입니다.\n최근 방사선을 이용한 진단장비의 위험성을 경고한 소식들이 잇따라 터져나오고 있습니다.\n2004년 영국 옥스퍼드대가 15개국을 대상으로 조사한 결과 방사선 검사횟수가 많을수록 암이 잘 생기는 것으로 나타났습니다.\n1위를 차지한 일본의 경우 전체 암환자의 3.2%가 순전히 검사 때문에 발생했습니다.\n같은 해 미국 컬럼비아대는 복부를 비롯한 전신 컴퓨터단층촬영(CT) 검사를 한차례 받을 때 1200명 중 1명꼴로 암에 걸릴 수 있으며, 매년 1회씩 30년 동안 받을 경우 50명 중 1명이 암에 걸린다고 발표했습니다.\n2005년 미 국립과학원은 방사선 양이 적더라도 평생 누적되면 암 발생률이 증가할 수 있으며, 해롭지 않은 단위와 암을 유발할 수 있는 단위를 구분할 수 있는 분명한 경계선은 없다고 밝혔습니다.\n급기야 며칠 전엔 가장 적은 양의 방사선을 사용하는 흉부X선 검사조차 유방암 유전자가 있는 여성의 경우 유방암 발생률을 54%나 높인다는 미국 케이스웨스턴리저브대학의 연구결과가 나왔습니다.\n방사선을 사용한 진단검사와 방사선 피폭량은 대체로 다음과 같습니다.\n흉부X선검사 0.1mSv, 유방X선검사 0.7mSv, 위장관 투시검사 2mSv, 두경부 CT 2mSv, 복부 CT 10mSv 입니다.\n여기서 mSv(밀리시버트)란 피폭량의 단위로 사람이 1년 동안 자연계로부터 받는 총량은 3mSv 정도 됩니다.\n복부 CT의 경우 흉부X선 검사보다 100배 가까운 피폭량을 보입니다.\n그러나 CT를 나쁜 검사로 오해해선 곤란합니다.\nCT만큼 복부 종양을 효과적으로 찾아낼 수 있는 검사는 없습니다.\n다만 주의가 필요합니다.\n암 조기발견도 좋지만, 너무 자주 받게 되면 드물지만 오히려 암이 생길 수 있기 때문입니다.\n제 생각으론 암 위험요인이 많고 암을 의심할 만한 증세가 있다면 몰라도 건강한 사람이 매년 CT검사를 받는 것은 바람직하지 않다고 봅니다.\n이 경우 다소 정확도는 떨어지지만 방사선을 사용하지 않아 무해한 복부 초음파나 두경부의 경우 자기공명영상촬영(MRI)을 권장할 수 있겠습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'누가 존 웨인을 죽였는가'. 일본의 반핵운동가 히로세 다카시는 존 웨인을 비롯해 게리 쿠퍼, 스티브 매퀸 등 할리우드 스타들이 한결같이 암으로 죽은 것은 우연이 아니라고 역설했습니다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이들 모두 사막지대에서 서부영화를 촬영했는데 촬영지가 냉전시대 수십 차례 핵실험이 실시된 네바다 사막 인근 지역이었다는 것이지요.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1954년 영화 '정복자'의 촬영 이후 20여 년이 지난 후 주인공 존 웨인과 수잔 헤이워드가 모두 다발성 암으로 숨진 것은 잔류 방사능 때문이란 주장입니다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다소 과장은 있습니다만 방사능이 얼마나 해로운지 경각심을 갖게 하기엔 충분한 내용입니다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최근 방사선을 이용한 진단장비의 위험성을 경고한 소식들이 잇따라 터져나오고 있습니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2004년 영국 옥스퍼드대가 15개국을 대상으로 조사한 결과 방사선 검사횟수가 많을수록 암이 잘 생기는 것으로 나타났습니다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "1위를 차지한 일본의 경우 전체 암환자의 3.2%가 순전히 검사 때문에 발생했습니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "같은 해 미국 컬럼비아대는 복부를 비롯한 전신 컴퓨터단층촬영(CT) 검사를 한차례 받을 때 1200명 중 1명꼴로 암에 걸릴 수 있으며, 매년 1회씩 30년 동안 받을 경우 50명 중 1명이 암에 걸린다고 발표했습니다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "2005년 미 국립과학원은 방사선 양이 적더라도 평생 누적되면 암 발생률이 증가할 수 있으며, 해롭지 않은 단위와 암을 유발할 수 있는 단위를 구분할 수 있는 분명한 경계선은 없다고 밝혔습니다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "급기야 며칠 전엔 가장 적은 양의 방사선을 사용하는 흉부X선 검사조차 유방암 유전자가 있는 여성의 경우 유방암 발생률을 54%나 높인다는 미국 케이스웨스턴리저브대학의 연구결과가 나왔습니다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "방사선을 사용한 진단검사와 방사선 피폭량은 대체로 다음과 같습니다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "흉부X선검사 0.1mSv, 유방X선검사 0.7mSv, 위장관 투시검사 2mSv, 두경부 CT 2mSv, 복부 CT 10mSv 입니다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "여기서 mSv(밀리시버트)란 피폭량의 단위로 사람이 1년 동안 자연계로부터 받는 총량은 3mSv 정도 됩니다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "복부 CT의 경우 흉부X선 검사보다 100배 가까운 피폭량을 보입니다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "그러나 CT를 나쁜 검사로 오해해선 곤란합니다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "CT만큼 복부 종양을 효과적으로 찾아낼 수 있는 검사는 없습니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "다만 주의가 필요합니다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "암 조기발견도 좋지만, 너무 자주 받게 되면 드물지만 오히려 암이 생길 수 있기 때문입니다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "제 생각으론 암 위험요인이 많고 암을 의심할 만한 증세가 있다면 몰라도 건강한 사람이 매년 CT검사를 받는 것은 바람직하지 않다고 봅니다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "이 경우 다소 정확도는 떨어지지만 방사선을 사용하지 않아 무해한 복부 초음파나 두경부의 경우 자기공명영상촬영(MRI)을 권장할 수 있겠습니다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "암 조기 발견 하려다 '이것' 때문에 암이 생길 수 있다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

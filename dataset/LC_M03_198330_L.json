@@ -1,0 +1,294 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198330",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[홍혜걸객원의학전문기자의우리집주치의] 섭생의 중요성",
+    "newsSubTitle": "혈압도, 기분도 약으로 조절하지만 '바른 생활' 없이는 백약이 무효",
+    "newsContent": "한가지 여쭙겠습니다.\n여러분 앞에 A란 고혈압 치료제가 있습니다.\n이 약을 매일 5년 동안 복용하면 심장마비에 걸릴 확률을 33%까지 낮출 수 있다고 합니다.\n그렇다면 여러분은 '5년 동안 매일 복용'이란 번거로움을 기꺼이 감수하시겠습니까.\n아마 대부분 '그렇다'고 답변할 것입니다.\n이번엔 B란 고혈압 치료제가 있습니다.\n이 약을 매일 5년 동안 복용할 경우 100명 중 1명을 심장마비로부터 구하지만 어떤 사람이 심장마비에 걸릴지 미리 알 수 없다고 할 경우 어떻게 하시겠습니까.\n100명 중 99명은 이 약을 먹어도 심장마비 예방효과가 없다는 뜻으로 받아들일 것으로 여겨집니다.\n언뜻 A가 B보다 훨씬 좋은 약으로 보이지만 놀랍게도 이들은 서로 같은 약입니다.\n오늘날 가장 널리 처방되는 칼슘채널차단제란 고혈압 치료제지요.\n내용을 뜯어보면 다음과 같습니다.\n약을 먹지 않은 고혈압 환자가 향후 5년 이내 심장마비에 걸릴 확률은 3% 정도 됩니다.\n그러나 약을 먹게 되면 2% 정도가 심장마비에 걸립니다.\n절대적 수치로만 보면 약 복용 전후 심장마비 확률의 차이는 1%에 불과합니다.\n약을 복용함으로써 100명 중 1명의 심장마비만 예방한다는 뜻입니다.\n그러나 이를 상대적 수치로 표현하면 3%에서 2%로 감소하므로 33%나 줄어드는 것처럼 보입니다.\n똑같은 약이라도 효능을 어떻게 표현하느냐에 따라 환자의 반응이 엄청나게 달라지는 것이지요.\n제약회사 입장에선 당연히 33%란 상대적 감소를 강조할 것입니다.\n약을 먹어도 100명 중 2명은 심장마비에 걸린다는 사실은 슬쩍 외면합니다. 고혈압 치료제의 가치를 폄하하고자 함이 아닙니다.\n사실 고혈압 치료제만큼 효능이 잘 입증된 약도 드뭅니다. 제가 강조하고 싶은 것은 제약회사의 마케팅 속에 감추어진 약물의 한계입니다.\n첨단 신약이 쏟아져 나오고 있습니다.\n혈압은 물론 혈당과 콜레스테롤 수치도 약물로 떨어뜨려 줍니다.\n심지어 뱃살.식욕.기분까지 알약으로 조절할 수 있습니다.\n그러나 약물은 어디까지나 보조 수단일 뿐입니다.\n기본은 역시 올바른 섭생입니다.\n아무리 좋은 고혈압 치료제를 복용한다 해도 담배를 피우고, 운동하지 않고, 짜고 기름진 음식을 먹고, 과로와 스트레스 속에 산다면 무용지물입니다.\n오늘날 인류의 평균수명을 향상시키는 데 가장 기여한 요인으로 많은 학자가 동의하는 것은 항생제보다 상.하수도의 보급입니다.\n깨끗한 물을 확보함으로써 비로소 전염병에서 해방됐다고 보는 것이지요.\n첨단 항생제를 아무리 강력하게 투여해도 외과의사가 손을 제대로 소독하지 않고 수술하다 감염되면 복막염이나 패혈증으로 숨질 수 있습니다.\n진정 건강을 원하신다면 약물에 의존하기보다 섭생이란 기본에 충실해 주시길 재삼 당부합니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 30,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한가지 여쭙겠습니다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여러분 앞에 A란 고혈압 치료제가 있습니다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 약을 매일 5년 동안 복용하면 심장마비에 걸릴 확률을 33%까지 낮출 수 있다고 합니다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그렇다면 여러분은 '5년 동안 매일 복용'이란 번거로움을 기꺼이 감수하시겠습니까.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아마 대부분 '그렇다'고 답변할 것입니다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번엔 B란 고혈압 치료제가 있습니다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 약을 매일 5년 동안 복용할 경우 100명 중 1명을 심장마비로부터 구하지만 어떤 사람이 심장마비에 걸릴지 미리 알 수 없다고 할 경우 어떻게 하시겠습니까.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "100명 중 99명은 이 약을 먹어도 심장마비 예방효과가 없다는 뜻으로 받아들일 것으로 여겨집니다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "언뜻 A가 B보다 훨씬 좋은 약으로 보이지만 놀랍게도 이들은 서로 같은 약입니다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "오늘날 가장 널리 처방되는 칼슘채널차단제란 고혈압 치료제지요.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "내용을 뜯어보면 다음과 같습니다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "약을 먹지 않은 고혈압 환자가 향후 5년 이내 심장마비에 걸릴 확률은 3% 정도 됩니다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그러나 약을 먹게 되면 2% 정도가 심장마비에 걸립니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "절대적 수치로만 보면 약 복용 전후 심장마비 확률의 차이는 1%에 불과합니다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "약을 복용함으로써 100명 중 1명의 심장마비만 예방한다는 뜻입니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "그러나 이를 상대적 수치로 표현하면 3%에서 2%로 감소하므로 33%나 줄어드는 것처럼 보입니다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "똑같은 약이라도 효능을 어떻게 표현하느냐에 따라 환자의 반응이 엄청나게 달라지는 것이지요.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "제약회사 입장에선 당연히 33%란 상대적 감소를 강조할 것입니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "약을 먹어도 100명 중 2명은 심장마비에 걸린다는 사실은 슬쩍 외면합니다. 고혈압 치료제의 가치를 폄하하고자 함이 아닙니다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "사실 고혈압 치료제만큼 효능이 잘 입증된 약도 드뭅니다. 제가 강조하고 싶은 것은 제약회사의 마케팅 속에 감추어진 약물의 한계입니다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "첨단 신약이 쏟아져 나오고 있습니다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "혈압은 물론 혈당과 콜레스테롤 수치도 약물로 떨어뜨려 줍니다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "심지어 뱃살.식욕.기분까지 알약으로 조절할 수 있습니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "그러나 약물은 어디까지나 보조 수단일 뿐입니다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "기본은 역시 올바른 섭생입니다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "아무리 좋은 고혈압 치료제를 복용한다 해도 담배를 피우고, 운동하지 않고, 짜고 기름진 음식을 먹고, 과로와 스트레스 속에 산다면 무용지물입니다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "오늘날 인류의 평균수명을 향상시키는 데 가장 기여한 요인으로 많은 학자가 동의하는 것은 항생제보다 상.하수도의 보급입니다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "깨끗한 물을 확보함으로써 비로소 전염병에서 해방됐다고 보는 것이지요.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 29,
+        "sentenceContent": "첨단 항생제를 아무리 강력하게 투여해도 외과의사가 손을 제대로 소독하지 않고 수술하다 감염되면 복막염이나 패혈증으로 숨질 수 있습니다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 30,
+        "sentenceContent": "진정 건강을 원하신다면 약물에 의존하기보다 섭생이란 기본에 충실해 주시길 재삼 당부합니다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "건강하게 살기 위해 약보다 중요하게 챙겨야 할 '이것'은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 29,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 30,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

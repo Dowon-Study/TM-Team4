@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195499",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "'평범→얼짱' 메이크업으로 성형 수준 변신한 남성",
+    "newsSubTitle": "",
+    "newsContent": "최근 한 온라인커뮤니티에 올라온 게시글 속 남성의 메이크업 전후 모습이 화제다.\n지난 2일 태국의 한 뷰티 유튜버가 남성 메이크 오버 동영상을 공개했다.\n영상 속 남성은 지극히 평범한 모습을 보였으나 화장을 통해 남성은 크게 변했다.\n한 뷰티 유튜버는 우선 피부화장을 통해 남성의 들쑥날쑥한 피부색을 정리했다.\n이어 눈썹 화장을 하는 등 남성을 탈바꿈시켰다.\n마지막으로 남성의 헤어스타일까지 완성하며 메이크 오버는 마무리됐다.\n영상 속 남성은 처음과 180도 다른 모습을 보여주며 네티즌들의 관심을 끌어냈다.\n일부 네티즌들은 \\\"우와! 대박이다\\\" \\\"쉐딩은 매우 중요하다\\\" \\\"코가 완전 다른 사람이다\\\"는 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최근 한 온라인커뮤니티에 올라온 게시글 속 남성의 메이크업 전후 모습이 화제다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 2일 태국의 한 뷰티 유튜버가 남성 메이크 오버 동영상을 공개했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상 속 남성은 지극히 평범한 모습을 보였으나 화장을 통해 남성은 크게 변했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한 뷰티 유튜버는 우선 피부화장을 통해 남성의 들쑥날쑥한 피부색을 정리했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 눈썹 화장을 하는 등 남성을 탈바꿈시켰다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "마지막으로 남성의 헤어스타일까지 완성하며 메이크 오버는 마무리됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "영상 속 남성은 처음과 180도 다른 모습을 보여주며 네티즌들의 관심을 끌어냈다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "일부 네티즌들은 \\\"우와! 대박이다\\\" \\\"쉐딩은 매우 중요하다\\\" \\\"코가 완전 다른 사람이다\\\"는 등의 반응을 보였다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "성형이 의심되는 화제의 메이크업 전후 동영상은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

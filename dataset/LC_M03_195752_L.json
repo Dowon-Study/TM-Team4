@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195752",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "땅 속의 다이아몬드 '트러플'…\\\"지드래곤(GD) 냉장고에 트러플 있다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "트러플에 관심이 집중되고 있다.\n트러플은 세계 3대 식재료 중 하나로 한국의 산삼과 비교될 정도로 그 맛과 진귀함이 뛰어나다.\n우리말로는 송로 버섯이다.\n프랑스 3대 진미인 푸아그라, 달팽이 요리에 앞설 정도로 귀한 대접을 받는다.\n특히 트러플은 지난 1월 방송된 JTBC '냉장고를 부탁해' 소유진 편에 등장해 한 차례 화제를 모으기도 했다.\n소유진의 냉장고 속에는 세계 3대 진미 중 하나인 트러플(송로버섯)이 들어간 머스타드 소스가 있어 셰프들을 놀라게 했다.\n송로버섯은 100g 당 1000유로(약 125만 원)에 달할 정도로 고가의 식재료다.\n트러플은 강하면서도 독특한 향 때문에 소량만으로도 음식 전체 맛을 좌우한다.\n인공 재배가 안 되고 땅 속에서 자라기 때문에 유럽에서는 '땅 속의 다이아몬드'라 불리기도 한다.\n온라인 중앙일보 [사진 JTBC '냉장고를 부탁해' 방송화면 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "트러플에 관심이 집중되고 있다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "트러플은 세계 3대 식재료 중 하나로 한국의 산삼과 비교될 정도로 그 맛과 진귀함이 뛰어나다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "우리말로는 송로 버섯이다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "프랑스 3대 진미인 푸아그라, 달팽이 요리에 앞설 정도로 귀한 대접을 받는다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 트러플은 지난 1월 방송된 JTBC '냉장고를 부탁해' 소유진 편에 등장해 한 차례 화제를 모으기도 했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소유진의 냉장고 속에는 세계 3대 진미 중 하나인 트러플(송로버섯)이 들어간 머스타드 소스가 있어 셰프들을 놀라게 했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "송로버섯은 100g 당 1000유로(약 125만 원)에 달할 정도로 고가의 식재료다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "트러플은 강하면서도 독특한 향 때문에 소량만으로도 음식 전체 맛을 좌우한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "인공 재배가 안 되고 땅 속에서 자라기 때문에 유럽에서는 '땅 속의 다이아몬드'라 불리기도 한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 [사진 JTBC '냉장고를 부탁해' 방송화면 캡처]",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "세계 3대 식자재로 꼽히는 트러플, 한국말로 뭐라고 할까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

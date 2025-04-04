@@ -1,0 +1,258 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196420",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[week&CoverStory] 쌀·밥, 이게 궁금해요",
+    "newsSubTitle": "",
+    "newsContent": "Q. 심청이가 바친 ‘공양미 삼백 석’은 얼마나 되는 양인가요?\nA.석(石)은 한자말이고, 우리말은 ‘섬’이라고 합니다.\n1석은 180L로 쌀로 따지면 144㎏에 해당합니다.\n그러니 공양미 300석은 4만3200㎏이나 되는 양입니다.\n80㎏ 가마니로 540가마에 해당하지요.\n돈으로 따지면 현재 일반미 소비자가격이 10㎏에 2만5000원가량하므로 약 1억원 정도 되는 것으로 추정할 수 있습니다.\n한편 1석은 ‘장정 한 사람이 짊어질 수 있는 최대 용량’ ‘성인 한 사람이 일년에 먹는 양’ ‘짚으로 엮은 가마니에 담을 수 있는 양’이라는 등 이런저런 설이 있는데 정확한 유래는 잘 알려지지 않고 있습니다. (농협중앙회문화홍보부 맹석인 차장) Q. ‘밥이 보약’이란 말이 있는데 정말 보약이 되나요?\nA. 물론입니다.\n일단 쌀은 밀가루나 다른 곡물에 비해 소화가 잘 됩니다.\n그래서 아기에게 주는 최초의 이유식이 쌀로 만든 미음이지요.\n쌀은 탄수화물(79%) 외에 7%의 단백질을 함유하고 있습니다.\n이 단백질은 몸에 흡수돼 활용되는 정도가 다른 곡식에 비해 뛰어납니다.\n칼슘·철·인·칼륨·나트륨·마그네슘과 같은 미네랄도 풍부합니다.\n또 독소를 배출시키는 섬유질이나 비타민 B2 등 다양한 영양분이 있습니다.\n그러니 평생 밥만 잘 먹어도 건강을 걱정할 필요가 없지요. (호서대 식품영양학과 정혜경 교수) Q. 절밥이 더 맛있는 이유는 뭘까요?\nA. 절밥이라고 해서 밥 짓기에 특별한 노하우가 있는 건 아닙니다.\n일반적으로 절은 공기 좋고 물 맑은 산중에 위치하지요.\n그러니 물에 의해 밥맛이 좋을 수는 있을 겁니다.\n그렇지만 가장 설득력 있는 답은 절까지 올라가는 동안 신체의 대사가 활발해졌기 때문일 겁니다.\n땀을 흘리고 나면 밥맛에 앞서 입맛이 먼저 살아나잖아요. (산청 금수암 대안스님) Q. 즉석밥은 그냥 먹어도 되나요?\nA.즉석밥은 완전히 조리해서 나온 상품이기 때문에 그냥 먹어도 상관없습니다.\n단 쌀의 조직이 단단하게 결착되어 있어 맛이 확 떨어지지요.\n일부 소비자들은 즉석밥을 뜨거운 라면 국물에 바로 넣어 먹기도 한답니다.\n겉은 부드럽고 속은 꼬들꼬들해 더 맛있다나요.\n전자레인지에 돌리는 시간을 늘린다고 더 맛있는 것도 아니랍니다.\n쌀 조직이 어느 선까지 팽창하면 더 이상 늘어나지 않기 때문이죠. (CJ 박상면 부장)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 26,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "Q. 심청이가 바친 ‘공양미 삼백 석’은 얼마나 되는 양인가요?",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "A.석(石)은 한자말이고, 우리말은 ‘섬’이라고 합니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1석은 180L로 쌀로 따지면 144㎏에 해당합니다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러니 공양미 300석은 4만3200㎏이나 되는 양입니다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "80㎏ 가마니로 540가마에 해당하지요.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "돈으로 따지면 현재 일반미 소비자가격이 10㎏에 2만5000원가량하므로 약 1억원 정도 되는 것으로 추정할 수 있습니다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 1석은 ‘장정 한 사람이 짊어질 수 있는 최대 용량’ ‘성인 한 사람이 일년에 먹는 양’ ‘짚으로 엮은 가마니에 담을 수 있는 양’이라는 등 이런저런 설이 있는데 정확한 유래는 잘 알려지지 않고 있습니다. (농협중앙회문화홍보부 맹석인 차장) Q. ‘밥이 보약’이란 말이 있는데 정말 보약이 되나요?",
+        "sentenceSize": 169
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "A. 물론입니다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "일단 쌀은 밀가루나 다른 곡물에 비해 소화가 잘 됩니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그래서 아기에게 주는 최초의 이유식이 쌀로 만든 미음이지요.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "쌀은 탄수화물(79%) 외에 7%의 단백질을 함유하고 있습니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이 단백질은 몸에 흡수돼 활용되는 정도가 다른 곡식에 비해 뛰어납니다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "칼슘·철·인·칼륨·나트륨·마그네슘과 같은 미네랄도 풍부합니다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또 독소를 배출시키는 섬유질이나 비타민 B2 등 다양한 영양분이 있습니다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "그러니 평생 밥만 잘 먹어도 건강을 걱정할 필요가 없지요. (호서대 식품영양학과 정혜경 교수) Q. 절밥이 더 맛있는 이유는 뭘까요?",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "A. 절밥이라고 해서 밥 짓기에 특별한 노하우가 있는 건 아닙니다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "일반적으로 절은 공기 좋고 물 맑은 산중에 위치하지요.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "그러니 물에 의해 밥맛이 좋을 수는 있을 겁니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "그렇지만 가장 설득력 있는 답은 절까지 올라가는 동안 신체의 대사가 활발해졌기 때문일 겁니다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "땀을 흘리고 나면 밥맛에 앞서 입맛이 먼저 살아나잖아요. (산청 금수암 대안스님) Q. 즉석밥은 그냥 먹어도 되나요?",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "A.즉석밥은 완전히 조리해서 나온 상품이기 때문에 그냥 먹어도 상관없습니다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "단 쌀의 조직이 단단하게 결착되어 있어 맛이 확 떨어지지요.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "일부 소비자들은 즉석밥을 뜨거운 라면 국물에 바로 넣어 먹기도 한답니다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "겉은 부드럽고 속은 꼬들꼬들해 더 맛있다나요.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "전자레인지에 돌리는 시간을 늘린다고 더 맛있는 것도 아니랍니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "쌀 조직이 어느 선까지 팽창하면 더 이상 늘어나지 않기 때문이죠. (CJ 박상면 부장)",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우리가 몰랐던 쌀의 놀라운 가치... 1억 원에 인당수에 몸 던졌다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

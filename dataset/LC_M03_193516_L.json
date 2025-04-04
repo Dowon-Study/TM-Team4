@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193516",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "칼럼에서 소송으로...법정 공방과 새로운 사실[BOOK]",
+    "newsSubTitle": "",
+    "newsContent": "김정숙 버킷리스트의 진실 남정호 지음 진명출판사 2019년 6월 11일자 중앙일보에 ‘김정숙 여사의 버킷리스트?’란 제목의 칼럼이 실렸다.\n이 책의 저자인 남정호 중앙일보 논설위원의 글이었다.\n저자는 문재인 대통령의 해외 순방 빈도가 역대 최다 수준이라고 지적하며 “유독 관광지를 자주 찾는다는 느낌을 지울 수 없다”고 썼다.\n청와대는 “잘못된 정보를 옳지 않은 시선에서 나열한 사실 왜곡”이라며 정정보도 청구에 이어 소송을 걸었다.\n이 책은 그렇게 시작된 법정 공방의 과정과 결과를 담았다.\n재판 과정을 따라가다 보면 ‘버킷리스트’의 진실에 한 걸음 더 다가서게 된다.\n청와대가 법정에 제출한 자료를 통해 새로운 사실을 알게 된 덕택이다.\n가령 저자가 칼럼에서 지적한 ‘그리그의 집’ 방문은 애초 노르웨이 정부가 자국의 자랑거리라며 추천한 해양연구소 시찰 대신 청와대가 선택한 일정이었다.\n저자는 책 말미에 전ㆍ현 영부인 4명의 해외 순방 일정을 비교한 도표를 실었다.\n남편의 순방에 동행한 영부인이 현지에서 무엇을 했는지를 한눈에 볼 수 있다.\n저자의 칼럼 제목에 붙어있던 물음표를 느낌표로 바꿀지 말지를 판단하는 건 독자들의 몫이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김정숙 버킷리스트의 진실 남정호 지음 진명출판사 2019년 6월 11일자 중앙일보에 ‘김정숙 여사의 버킷리스트?’란 제목의 칼럼이 실렸다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 책의 저자인 남정호 중앙일보 논설위원의 글이었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "저자는 문재인 대통령의 해외 순방 빈도가 역대 최다 수준이라고 지적하며 “유독 관광지를 자주 찾는다는 느낌을 지울 수 없다”고 썼다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "청와대는 “잘못된 정보를 옳지 않은 시선에서 나열한 사실 왜곡”이라며 정정보도 청구에 이어 소송을 걸었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 책은 그렇게 시작된 법정 공방의 과정과 결과를 담았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "재판 과정을 따라가다 보면 ‘버킷리스트’의 진실에 한 걸음 더 다가서게 된다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "청와대가 법정에 제출한 자료를 통해 새로운 사실을 알게 된 덕택이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "가령 저자가 칼럼에서 지적한 ‘그리그의 집’ 방문은 애초 노르웨이 정부가 자국의 자랑거리라며 추천한 해양연구소 시찰 대신 청와대가 선택한 일정이었다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "저자는 책 말미에 전ㆍ현 영부인 4명의 해외 순방 일정을 비교한 도표를 실었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "남편의 순방에 동행한 영부인이 현지에서 무엇을 했는지를 한눈에 볼 수 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "저자의 칼럼 제목에 붙어있던 물음표를 느낌표로 바꿀지 말지를 판단하는 건 독자들의 몫이다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중앙일보, 김정숙 여사의 버킷리스트?...'TMI'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

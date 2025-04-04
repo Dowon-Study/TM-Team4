@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196071",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "대왕버섯 효능, 알고보니 항산화에 탁월…고혈압에도 도움 돼",
+    "newsSubTitle": "",
+    "newsContent": "대왕버섯, 아로니아, 가자미식해가 고혈압 건강식으로 주목받고 있다.\n4일 방송된 MBN ‘천기누설’은 ‘한 살 덜 먹기 프로젝트’라는 주제로 진행됐다.\n이날 방송에서는 노화의 가장 큰 적인 ‘활성 산소’를 없애는 다양한 항산화 식품과 사례가 전파를 탔다.\n이날 방송에서는 아로니아, 가자미 식해 등이 소개됐는데 무엇보다 관심을 끈 것은 바로 ‘대왕버섯’이다.\n실제 크기만큼이나 영양성분이 풍부하다고 해서 이름 붙여진 대왕버섯은 느타리버섯 과에 속하는 아위버섯의 한 종류로 식용버섯 가운데 그 크기가 가장 크다.\n또 각종 비타민과 아미노산을 풍부하게 함유하고 있어 그 맛과 향이 진하고 풍부하며, 대표 항산화 물질이라 할 수 있는 비타민C의 양이 석류의 약 40배, 사과의 60배 이상 많은 것으로 알려졌다.\n대왕버섯 속 칼륨은 나트륨 배출에 도움을 줘 나트륨 과잉으로 인한 고혈압 예방에 효과가 있다.\n한편 가자미 식해는 퇴행성 관절염 등 뼈 노화를 늦춰주고 아로니아는 가장 먼저 노화가 시작되는 눈 건강을 지켜준다.\n온라인 중앙일보 ‘대왕버섯 효능’‘대왕버섯 효능’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대왕버섯, 아로니아, 가자미식해가 고혈압 건강식으로 주목받고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "4일 방송된 MBN ‘천기누설’은 ‘한 살 덜 먹기 프로젝트’라는 주제로 진행됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서는 노화의 가장 큰 적인 ‘활성 산소’를 없애는 다양한 항산화 식품과 사례가 전파를 탔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 방송에서는 아로니아, 가자미 식해 등이 소개됐는데 무엇보다 관심을 끈 것은 바로 ‘대왕버섯’이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "실제 크기만큼이나 영양성분이 풍부하다고 해서 이름 붙여진 대왕버섯은 느타리버섯 과에 속하는 아위버섯의 한 종류로 식용버섯 가운데 그 크기가 가장 크다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 각종 비타민과 아미노산을 풍부하게 함유하고 있어 그 맛과 향이 진하고 풍부하며, 대표 항산화 물질이라 할 수 있는 비타민C의 양이 석류의 약 40배, 사과의 60배 이상 많은 것으로 알려졌다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "대왕버섯 속 칼륨은 나트륨 배출에 도움을 줘 나트륨 과잉으로 인한 고혈압 예방에 효과가 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 가자미 식해는 퇴행성 관절염 등 뼈 노화를 늦춰주고 아로니아는 가장 먼저 노화가 시작되는 눈 건강을 지켜준다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 ‘대왕버섯 효능’‘대왕버섯 효능’ [사진 중앙포토]",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "활성 산소 없애는 대왕버섯의 놀라운 효능은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

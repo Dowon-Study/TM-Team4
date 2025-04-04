@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198955",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "발레 부부의 은퇴 무대, 관객들은 “고맙다”는 팻말을 들었다",
+    "newsSubTitle": "",
+    "newsContent": "유니버설발레단(UBC)의 스타 무용수 부부 황혜민(39)과 엄재용(38)이 정상의 자리에서 마지막 무대를 펼쳤다.\n26일 서울 예술의전당 오페라극장에서 열린 드라마 발레 ‘오네긴’에서 두 사람은 은퇴 무대를 가졌다.\n세계적인 발레리나 강수진(국립발레단장) 역시 이 작품으로 은퇴 무대를 꾸민 바 있다.\n발레 ‘오네긴’은 바람둥이 기질의 자유분방한 도시 귀족 오네긴(엄재용)과 진실한 사랑을 갈망하는 순진한 시골 처녀 타티아나(황혜민)의 엇갈린 사랑을 그린 작품이다.\n1막에서 타티아나는 오네긴을 사랑하지만 오네긴은 그녀를 외면한다.\n결국 타티아나는 오네긴의 친구와 결혼을 하고 그제서야 오네긴은 뒤늦은 후회를 한다.\n타티아나에게 뒤늦게 갈구하는, 이뤄지지 않는 사랑의 춤이 3막을 구성한다.\n차이콥스키의 음악과 어우러지 처연한 이별 안무이자 두 사람의 은퇴 무대를 장식한 마지막 파드 되(pas de deux·2인무)는 관객들의 눈시울을 적시며 막을 내렸다.\n무대가 끝난 뒤 관객들은 “발레해줘서 고마워요”라는 팻말을 일제히 들었고 두 사람은 감격에 벅찬 표정으로 인사를 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유니버설발레단(UBC)의 스타 무용수 부부 황혜민(39)과 엄재용(38)이 정상의 자리에서 마지막 무대를 펼쳤다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "26일 서울 예술의전당 오페라극장에서 열린 드라마 발레 ‘오네긴’에서 두 사람은 은퇴 무대를 가졌다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "세계적인 발레리나 강수진(국립발레단장) 역시 이 작품으로 은퇴 무대를 꾸민 바 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "발레 ‘오네긴’은 바람둥이 기질의 자유분방한 도시 귀족 오네긴(엄재용)과 진실한 사랑을 갈망하는 순진한 시골 처녀 타티아나(황혜민)의 엇갈린 사랑을 그린 작품이다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "1막에서 타티아나는 오네긴을 사랑하지만 오네긴은 그녀를 외면한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "결국 타티아나는 오네긴의 친구와 결혼을 하고 그제서야 오네긴은 뒤늦은 후회를 한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "타티아나에게 뒤늦게 갈구하는, 이뤄지지 않는 사랑의 춤이 3막을 구성한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "차이콥스키의 음악과 어우러지 처연한 이별 안무이자 두 사람의 은퇴 무대를 장식한 마지막 파드 되(pas de deux·2인무)는 관객들의 눈시울을 적시며 막을 내렸다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "무대가 끝난 뒤 관객들은 “발레해줘서 고마워요”라는 팻말을 일제히 들었고 두 사람은 감격에 벅찬 표정으로 인사를 했다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "UBC 스타 무용수 부부, 정상의 자리에서 '이 무대' 펼쳐... 감격의 인사",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

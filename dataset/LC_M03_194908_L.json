@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194908",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "벗처럼 친근한 명사들의 독서실 찾아",
+    "newsSubTitle": "〈지금 읽고 있어요〉 이렇게 만들어져요",
+    "newsContent": "한 권의 책을 읽으면서 마음 속에 가진 느낌은 자신만의 느낌이겠지요.\n읽는 사람마다 책에 대한 소감은 다르게 나타납니다.\n그렇기 때문에 같은 책을 읽는 다른 사람은 어떤 느낌을 가지고 있을까.\n궁금합니다.\n더구나 그 사람이 우리가 평소에 가까이 아는 사람이라면 더욱 궁금하겠지요. '책을 가장 많이 읽을 것같은 연예인'으로 뽑혔던 한석규님은 지금 무슨 책을 읽고 있을까요?\n그 분은 지금 그 책을 읽으며 어떤 느낌을 갖고 있을까요.\n그런 궁금증을 〈지금 읽고 있어요〉에서 독자 분들과 함께 풀어갑니다.\n매일 쏟아져 나와 서점에 쌓이는 저 수많은 책들은 과연 누가 읽을 것이며, 그들에게 어떤 변화를 가져다 줄까요.\n평소에는 책 한 줄 읽지 않으면서, 언론에 나와 어떤 책을 읽는다는 식으로 너스레를 떠는 허울 뿐인 유명인사들을 우리는 거부합니다.\n한 권의 책, 한 줄의 글이라도 마음에 깊이 아로새길 줄 아는 우리 가까이의 오랜 벗들처럼 친근한 사람들의 독서실을 Books가 찾아갑니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한 권의 책을 읽으면서 마음 속에 가진 느낌은 자신만의 느낌이겠지요.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "읽는 사람마다 책에 대한 소감은 다르게 나타납니다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그렇기 때문에 같은 책을 읽는 다른 사람은 어떤 느낌을 가지고 있을까.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "궁금합니다.",
+        "sentenceSize": 6
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "더구나 그 사람이 우리가 평소에 가까이 아는 사람이라면 더욱 궁금하겠지요. '책을 가장 많이 읽을 것같은 연예인'으로 뽑혔던 한석규님은 지금 무슨 책을 읽고 있을까요?",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 분은 지금 그 책을 읽으며 어떤 느낌을 갖고 있을까요.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그런 궁금증을 〈지금 읽고 있어요〉에서 독자 분들과 함께 풀어갑니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "매일 쏟아져 나와 서점에 쌓이는 저 수많은 책들은 과연 누가 읽을 것이며, 그들에게 어떤 변화를 가져다 줄까요.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "평소에는 책 한 줄 읽지 않으면서, 언론에 나와 어떤 책을 읽는다는 식으로 너스레를 떠는 허울 뿐인 유명인사들을 우리는 거부합니다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한 권의 책, 한 줄의 글이라도 마음에 깊이 아로새길 줄 아는 우리 가까이의 오랜 벗들처럼 친근한 사람들의 독서실을 Books가 찾아갑니다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'지금 읽고 있어요'가 전하는 같은 책 다른 느낌… 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

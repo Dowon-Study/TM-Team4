@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193398",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[한입경제] '의료 서비스 만족도' 보건소 1위",
+    "newsSubTitle": "",
+    "newsContent": "보건소→한의원(한방병원)→종합병원→병.의원→약국. 의료기관에 대해 환자들이 느끼는 만족도 순서다.\n통계청이 전국의 만 15세 이상 7만 명을 대상으로 조사해 10일 발표한 '의료 서비스 만족도' 설문 결과에 따르면 보건소의 서비스에 대해 만족한다는 응답은 61.3%나 됐다.\n불만족은 7.8%에 불과했다.\n보건소의 인기는 소득 수준에 관계가 없는 걸로 나타났다.\n보건소에 대한 만족도는 월 평균 소득 100만원 미만 가구에서 64.4%였고, 600만원 이상의 고소득층 가구에서도 60.5%가 만족한다고 답했다.\n통계청은 보건소의 진료비가 저렴한 것이 높은 만족도로 이어졌다고 분석했다.\n한의원에 대한 만족도(50.7%)가 종합병원(45.2%)보다 높은 것도 특징이다.\n오래 기다려야 하는 종합병원에 비해 한의원이 좀 더 편하게 느껴진 것으로 나타났다.\n반면 약국에 대해선 만족한다는 응답이 24.4%로 보건소의 절반에도 미치지 못했다.\n의료 서비스에 대한 불만으로는 '비싼 진료비가'가 27.2%로 가장 많았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "보건소→한의원(한방병원)→종합병원→병.의원→약국. 의료기관에 대해 환자들이 느끼는 만족도 순서다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "통계청이 전국의 만 15세 이상 7만 명을 대상으로 조사해 10일 발표한 '의료 서비스 만족도' 설문 결과에 따르면 보건소의 서비스에 대해 만족한다는 응답은 61.3%나 됐다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "불만족은 7.8%에 불과했다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보건소의 인기는 소득 수준에 관계가 없는 걸로 나타났다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "보건소에 대한 만족도는 월 평균 소득 100만원 미만 가구에서 64.4%였고, 600만원 이상의 고소득층 가구에서도 60.5%가 만족한다고 답했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "통계청은 보건소의 진료비가 저렴한 것이 높은 만족도로 이어졌다고 분석했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한의원에 대한 만족도(50.7%)가 종합병원(45.2%)보다 높은 것도 특징이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오래 기다려야 하는 종합병원에 비해 한의원이 좀 더 편하게 느껴진 것으로 나타났다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "반면 약국에 대해선 만족한다는 응답이 24.4%로 보건소의 절반에도 미치지 못했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "의료 서비스에 대한 불만으로는 '비싼 진료비가'가 27.2%로 가장 많았다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "통계청, 의료 서비스 '가심비' 1위는 보건소···",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

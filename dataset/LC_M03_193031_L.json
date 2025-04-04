@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193031",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "김완선, 가수 인생 열어준 작곡가와 35년 만에 만나 수제 초콜릿 사업 시작",
+    "newsSubTitle": "",
+    "newsContent": "가수 김완선이 자신의 이름을 건 수제 초콜릿을 내놨다.\n지난 1월 30일 서울 강남구 논현동에서 열린 초콜릿 출시 기념행사에서 김완선은 “가수들은 저녁 공연과 행사 때문에 온종일 굶는 경우가 많다. (가수)전영록 오빠 같은 경우는 밤 10시에 공연이 있으면 그때까지 물도 안 마신다”며 “나는 무대 위에서 에너지를 내기 위해 차에 초콜릿을 비상식량으로 두고 자주 먹었는데 이왕이면 내게 잘 맞고 건강하게 먹을 수 있는 초콜릿이 있었으면 좋겠다는 생각에 선보이게 됐다”고 설명했다.\n초콜릿 이름은 ‘김완선 빈투바 초콜릿’이다.\n초콜릿의 원료인 카카오빈과 흑당이 주원료다.\n일반적으로 초콜릿에 사용하는 우유 등 첨가물을 넣지 않았다.\n특히 이번에 내놓은 초콜릿은 자신의 데뷔 시절을 함께 한 가수·작곡가 겸 사업가인 김창훈과 함께한 것으로 알려졌다.\n김창훈은 가수 겸 배우인 김창완의 동생으로 두 사람은 또 다른 형제와 함께 1970~80년대 밴드 ‘산울림’으로 활동했다.\n김완선과 인연은 김창훈씨이 ‘오늘밤’ ‘나홀로 뜰앞에서’ ‘슬픈 얼굴 보이긴 싫어’ 등 김완선의 1집·2집 정규 앨범 노래들을 만들면서 시작됐다.\n김완선은 행사에서 “(김창훈은)가수 인생을 시작하게 해준 분과 35년 만에 다시 사업 인생을 시작한다”며 감사의 뜻을 표했다.\n김완선은 초콜릿을 시작으로 향후 자신의 이름을 딴 다양한 상품을 개발해 선보일 예정이다.\n초콜릿은 최근 그가 오픈한 온라인몰 '김완선닷컴'과 일부 부티크 호텔 및 레스토랑에서 판매한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 김완선이 자신의 이름을 건 수제 초콜릿을 내놨다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 1월 30일 서울 강남구 논현동에서 열린 초콜릿 출시 기념행사에서 김완선은 “가수들은 저녁 공연과 행사 때문에 온종일 굶는 경우가 많다. (가수)전영록 오빠 같은 경우는 밤 10시에 공연이 있으면 그때까지 물도 안 마신다”며 “나는 무대 위에서 에너지를 내기 위해 차에 초콜릿을 비상식량으로 두고 자주 먹었는데 이왕이면 내게 잘 맞고 건강하게 먹을 수 있는 초콜릿이 있었으면 좋겠다는 생각에 선보이게 됐다”고 설명했다.",
+        "sentenceSize": 237
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "초콜릿 이름은 ‘김완선 빈투바 초콜릿’이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "초콜릿의 원료인 카카오빈과 흑당이 주원료다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "일반적으로 초콜릿에 사용하는 우유 등 첨가물을 넣지 않았다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 이번에 내놓은 초콜릿은 자신의 데뷔 시절을 함께 한 가수·작곡가 겸 사업가인 김창훈과 함께한 것으로 알려졌다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김창훈은 가수 겸 배우인 김창완의 동생으로 두 사람은 또 다른 형제와 함께 1970~80년대 밴드 ‘산울림’으로 활동했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김완선과 인연은 김창훈씨이 ‘오늘밤’ ‘나홀로 뜰앞에서’ ‘슬픈 얼굴 보이긴 싫어’ 등 김완선의 1집·2집 정규 앨범 노래들을 만들면서 시작됐다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김완선은 행사에서 “(김창훈은)가수 인생을 시작하게 해준 분과 35년 만에 다시 사업 인생을 시작한다”며 감사의 뜻을 표했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "김완선은 초콜릿을 시작으로 향후 자신의 이름을 딴 다양한 상품을 개발해 선보일 예정이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "초콜릿은 최근 그가 오픈한 온라인몰 '김완선닷컴'과 일부 부티크 호텔 및 레스토랑에서 판매한다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김완선, 가수 인생 '은인'과 35년 만에 재회... 새 사업 시작한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

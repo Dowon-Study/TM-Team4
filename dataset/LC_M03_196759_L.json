@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196759",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[신간] 『목, 디스크 정복』 外",
+    "newsSubTitle": "",
+    "newsContent": "신경외과 전문의 고도일 박사가 『목, 디스크 정복』을 펴냈다.\n척추관절질환은 신종 생활습관병으로 불린다.\n노화뿐 아니라 컴퓨터·스마트폰 사용에 따른 생활습관이 질환 발병에 큰 영향을 미친다.\n저자는 통증 완화에 효과적인 단계별 목·어깨 운동 프로그램을 제시한다.\n목 주위 근육을 강화하고 가슴뼈를 교정해 목뼈를 C자형으로 만드는 데 주안점을 둔다.\n목 건강에 도움이 되는 자세도 알려준다.\n고도일 지음, 푸른솔, 190쪽, 1만5000원. 걷기의 건강 효과를 담은 『병의 90%는 걷기만 해도 낫는다』가 발간됐다.\n저자는 걷기를 단순한 이동법이 아니라 뛰어난 운동기구이자 영양제로 꼽는다.\n걷기 운동이 생활습관병, 암, 치매, 우울증, 불면증, 위장질환에 얼마나 도움이 되는지 환자 사례를 들어 각각 설명한다.\n전 세계적으로 유행하는 척추 스트레칭 워킹, 노르딕 워킹, 체간 워킹 방법을 이해하기 쉽게 그림과 함께 실었다.\n나가오 가즈히로 지음, 북라이프, 208쪽, 1만3500원.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신경외과 전문의 고도일 박사가 『목, 디스크 정복』을 펴냈다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "척추관절질환은 신종 생활습관병으로 불린다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "노화뿐 아니라 컴퓨터·스마트폰 사용에 따른 생활습관이 질환 발병에 큰 영향을 미친다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "저자는 통증 완화에 효과적인 단계별 목·어깨 운동 프로그램을 제시한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "목 주위 근육을 강화하고 가슴뼈를 교정해 목뼈를 C자형으로 만드는 데 주안점을 둔다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "목 건강에 도움이 되는 자세도 알려준다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "고도일 지음, 푸른솔, 190쪽, 1만5000원. 걷기의 건강 효과를 담은 『병의 90%는 걷기만 해도 낫는다』가 발간됐다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "저자는 걷기를 단순한 이동법이 아니라 뛰어난 운동기구이자 영양제로 꼽는다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "걷기 운동이 생활습관병, 암, 치매, 우울증, 불면증, 위장질환에 얼마나 도움이 되는지 환자 사례를 들어 각각 설명한다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "전 세계적으로 유행하는 척추 스트레칭 워킹, 노르딕 워킹, 체간 워킹 방법을 이해하기 쉽게 그림과 함께 실었다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "나가오 가즈히로 지음, 북라이프, 208쪽, 1만3500원.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고도일, '목, 디스크 정복' 펴내... 최고의 통증 완화 운동 프로그램과 자세의 정석",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

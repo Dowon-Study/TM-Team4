@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_196286",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "'무도' 김태호 PD, 유재석과 손 잡고 신규 예능 준비 돌입",
+    "newsSubTitle": "",
+    "newsContent": "'무한도전'의 김태호 PD가 유재석과 손을 잡고 신작을 준비 중이다.\n9일 MBC 관계자는 미디어SR에 \\\"김태호 PD가 여러 신규 프로그램을 준비하고 있다. 시청자들이 함께 참여하는 크라우드 펀딩 기반의 창업 소재 프로그램도 있고, 토요일 저녁 시간대 프로그램으로 유재석과 함께 하는 콘텐츠도 논의 중이다\\\"고 밝혔다.\n김태호 PD는 MBC '무한도전'의 수장으로 프로그램의 기획 제작 등을 맡은 대표적인 스타 PD다.\n지난해 3월 31일 '무한도전'의 종영 이후 해외 연수를 다녀 온 김태호 PD는 신규 프로그램 제작을 위한 구상을 이어왔다.\n여러 갈래의 프로그램을 구상하고 있지만 구체적인 플랜은 정해져 있지 않은 것으로 알려졌다.\n관계자는 \\\"방송 시기와 편성에 대해서는 정해진 바가 없다\\\"면서 \\\"새로 하는 프로그램이 '무한도전'인 건 아니다\\\"고 선을 그었다.\n앞서 유재석과 좋은 호흡을 보였던 김태호 PD인 만큼 그가 선보일 신작에 관심이 쏠린다.\n특히 '무한도전' 종영 후 토요일 저녁 시간대의 예능에서 부진을 겪고 있는 MBC인 만큼 김태호 PD의 새 프로그램에 기대감이 더해지고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'무한도전'의 김태호 PD가 유재석과 손을 잡고 신작을 준비 중이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "9일 MBC 관계자는 미디어SR에 \\\"김태호 PD가 여러 신규 프로그램을 준비하고 있다. 시청자들이 함께 참여하는 크라우드 펀딩 기반의 창업 소재 프로그램도 있고, 토요일 저녁 시간대 프로그램으로 유재석과 함께 하는 콘텐츠도 논의 중이다\\\"고 밝혔다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김태호 PD는 MBC '무한도전'의 수장으로 프로그램의 기획 제작 등을 맡은 대표적인 스타 PD다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난해 3월 31일 '무한도전'의 종영 이후 해외 연수를 다녀 온 김태호 PD는 신규 프로그램 제작을 위한 구상을 이어왔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여러 갈래의 프로그램을 구상하고 있지만 구체적인 플랜은 정해져 있지 않은 것으로 알려졌다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "관계자는 \\\"방송 시기와 편성에 대해서는 정해진 바가 없다\\\"면서 \\\"새로 하는 프로그램이 '무한도전'인 건 아니다\\\"고 선을 그었다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 유재석과 좋은 호흡을 보였던 김태호 PD인 만큼 그가 선보일 신작에 관심이 쏠린다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히 '무한도전' 종영 후 토요일 저녁 시간대의 예능에서 부진을 겪고 있는 MBC인 만큼 김태호 PD의 새 프로그램에 기대감이 더해지고 있다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신작을 위해 손잡은 김태호 PD와 유재석, 무조건 히트한다!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

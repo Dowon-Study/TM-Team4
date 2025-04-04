@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198284",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[오기사의여행스케치] 르코르뷔지에 '사부아 주택'",
+    "newsSubTitle": "순례자 북적이는 근대 건축의 성지 차가운 기능미 속에 따뜻한 인간미 뭉클",
+    "newsContent": "여행 중의 답사는 또 다른 즐거움이다.\n물론 관광과 답사의 경계는 불명확할뿐더러 구분해야 하는 개념이 아닐 수도 있다.\n그럼에도 나름의 지식으로 무장하고 여행안내서엔 나오지 않는 뭔가를 찾아나서는 길은 분명 파리의 에펠탑을 보는 것과는 또 다른 감흥이다.\n20세기를 대표하는 건축가인 르코르뷔지에가 설계한 건물들을 보러 가는 길도 그랬다.\n파리 서쪽 푸아시는 수도권 전철 격인 RER을 타고 한 시간 반 정도 가야 하는 작은 도시다.\n수많은 관광객을 뒤로 하고 파리를 벗어났다.\n푸아시에는 르코르뷔지에가 1929년에 설계한 대표작 사부아 주택이 있다.\n이를 기원 삼아 세계 각지에 비로소 콘크리트와 유리로 된 상자형 건물들이 들어서게 된 것이다.\n사부아 주택은 푸아시 역에서 좀 떨어진 곳에 있었다.\n50번 버스를 타고 집 앞까지 갔다.\n이 작은 도시를 찾는 외국인들의 거의 유일한 목적지인 때문인지, 청소부 아저씨는 뭘 물을 듯 다가오는 동양인을 보자마자 한 곳을 가리키며 \\\"저기야, 저기\\\" 하고 알려 주셨다.\n대문을 지나 정원에 들어섰다.\n상자 모양의 새하얀 집은 르코르뷔지에가 주창한 근대 건축의 5원칙, 그러니까 '필로티(건물 전체 또는 일부를 기둥으로 들어올려 지상에서 분리한 것)''자유로운 평면''옥상정원''가로로 긴 창''자유로운 입면' 등을 완벽하게 구현하고 있었다.\n집 안은 특별한 시설 없이 집 자체를 보여 주는 전시 공간이었다.\n기하학적인 외부 모습과는 달리 내부 동선은 자유롭게 얽혀 있었다.\n각국에서 온 건축 순례자들이 조심스러운 발걸음으로 '건축적 산책'을 하고 있었다.\n문득 '한국의 아파트들은 이 집의 손자뻘쯤 되겠다'는 생각이 들었다.\n르코르뷔지에는 \\\"새로운 시대의 주택이란 살기 위한 기계\\\"라고 했다.\n그러나 그것은 기능성만을 추구하고자 함은 아니었다.\n직접 본 사부아 주택에는 분명 인간의 삶을 어루만지는 따뜻한 시선이 살아 있었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "여행 중의 답사는 또 다른 즐거움이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "물론 관광과 답사의 경계는 불명확할뿐더러 구분해야 하는 개념이 아닐 수도 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그럼에도 나름의 지식으로 무장하고 여행안내서엔 나오지 않는 뭔가를 찾아나서는 길은 분명 파리의 에펠탑을 보는 것과는 또 다른 감흥이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "20세기를 대표하는 건축가인 르코르뷔지에가 설계한 건물들을 보러 가는 길도 그랬다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "파리 서쪽 푸아시는 수도권 전철 격인 RER을 타고 한 시간 반 정도 가야 하는 작은 도시다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "수많은 관광객을 뒤로 하고 파리를 벗어났다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "푸아시에는 르코르뷔지에가 1929년에 설계한 대표작 사부아 주택이 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 기원 삼아 세계 각지에 비로소 콘크리트와 유리로 된 상자형 건물들이 들어서게 된 것이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "사부아 주택은 푸아시 역에서 좀 떨어진 곳에 있었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "50번 버스를 타고 집 앞까지 갔다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 작은 도시를 찾는 외국인들의 거의 유일한 목적지인 때문인지, 청소부 아저씨는 뭘 물을 듯 다가오는 동양인을 보자마자 한 곳을 가리키며 \\\"저기야, 저기\\\" 하고 알려 주셨다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "대문을 지나 정원에 들어섰다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "상자 모양의 새하얀 집은 르코르뷔지에가 주창한 근대 건축의 5원칙, 그러니까 '필로티(건물 전체 또는 일부를 기둥으로 들어올려 지상에서 분리한 것)''자유로운 평면''옥상정원''가로로 긴 창''자유로운 입면' 등을 완벽하게 구현하고 있었다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "집 안은 특별한 시설 없이 집 자체를 보여 주는 전시 공간이었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "기하학적인 외부 모습과는 달리 내부 동선은 자유롭게 얽혀 있었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "각국에서 온 건축 순례자들이 조심스러운 발걸음으로 '건축적 산책'을 하고 있었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "문득 '한국의 아파트들은 이 집의 손자뻘쯤 되겠다'는 생각이 들었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "르코르뷔지에는 \\\"새로운 시대의 주택이란 살기 위한 기계\\\"라고 했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "그러나 그것은 기능성만을 추구하고자 함은 아니었다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "직접 본 사부아 주택에는 분명 인간의 삶을 어루만지는 따뜻한 시선이 살아 있었다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "푸아시를 찾는 관광객들의 유일한 목적지인 '이곳'… 자체가 전시 공간 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

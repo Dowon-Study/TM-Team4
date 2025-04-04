@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198452",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "디딤무용단 북춤 '영고' 공연",
+    "newsSubTitle": "",
+    "newsContent": "디딤무용단(예술감독 국수호)은 오는 8-9월 미국 25개 도시 순회공연에 나서기에 앞서 올 정기공연 및 문예회관 개관 20주년 기념공연으로 26-28일 문예회관 대극장에서 '코리안 드럼-영고(迎鼓)'를 공연한다. 99년과 2000년 유럽에서 공연했던 '북의 대합주'의 신판이다.\n디딤무용단 관계자는 \\\"주로 타악에 의존하는 1시간 30분 동안의 공연이 관객에게 지루함을 주지 않도록 춤동작과 장단을 좀더 세련되게 보완했다\\\"고 설명했다.\n제1부는 '태초의 소리' '바람의 소리' '신을 부르는 소리' '부정놀이 북' '땅의소리', 제2부는 '붉은 혼' '놀이' '장구' '여백' '북의 대합주' 순으로 꾸며진다.\n꽹과리, 징에서부터 각종 전통 북이 총동원된다.\n국내 평단에서는 본격적인 예술작품이라기보다 행사용으로 적합한 공연물이라는 평가를 받아 왔다.\n디딤무용단은 이 작품으로 99년 네덜란드와 벨기에, 작년에는 스위스, 독일, 오스트리아, 영국, 네덜란드에서 공연했으며 올해는 미국 순회공연 후 일본으로 진출할 계획이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "디딤무용단(예술감독 국수호)은 오는 8-9월 미국 25개 도시 순회공연에 나서기에 앞서 올 정기공연 및 문예회관 개관 20주년 기념공연으로 26-28일 문예회관 대극장에서 '코리안 드럼-영고(迎鼓)'를 공연한다. 99년과 2000년 유럽에서 공연했던 '북의 대합주'의 신판이다.",
+        "sentenceSize": 155
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "디딤무용단 관계자는 \\\"주로 타악에 의존하는 1시간 30분 동안의 공연이 관객에게 지루함을 주지 않도록 춤동작과 장단을 좀더 세련되게 보완했다\\\"고 설명했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "제1부는 '태초의 소리' '바람의 소리' '신을 부르는 소리' '부정놀이 북' '땅의소리', 제2부는 '붉은 혼' '놀이' '장구' '여백' '북의 대합주' 순으로 꾸며진다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "꽹과리, 징에서부터 각종 전통 북이 총동원된다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "국내 평단에서는 본격적인 예술작품이라기보다 행사용으로 적합한 공연물이라는 평가를 받아 왔다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "디딤무용단은 이 작품으로 99년 네덜란드와 벨기에, 작년에는 스위스, 독일, 오스트리아, 영국, 네덜란드에서 공연했으며 올해는 미국 순회공연 후 일본으로 진출할 계획이다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "디딤무용단, '코리안 드럼-영고' 공연... 꽹과리-징에서부터 '이 악기'까지 총동원",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

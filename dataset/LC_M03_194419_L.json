@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194419",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "미국산 쇠고기 또 갈비뼈",
+    "newsSubTitle": "전량 반송 … 해당 미국 작업장 승인 취소",
+    "newsContent": "미국산 쇠고기에서 수입이 금지된 통뼈 형태의 갈비뼈가 또 나왔다.\n농림부는 이에 따라 지난달 24일 미국산 쇠고기 검역 중단 조치를 해제하면서 미국 측에 통보한 대로 해당 수입물량 15.5t 전부를 반송하고 해당 작업장의 한국 수출작업장 승인을 취소하기로 했다.\n농림부 국립수의과학검역원은 7월 29일 선적돼 검역 대기 중이던 미국산 쇠고기 1300상자를 검역한 결과 한 상자(17.9㎏)에서 수입이 금지된 갈비뼈가 발견됐다고 4일 밝혔다.\n이 쇠고기는 7월 29일 미국에서 선적돼 지난달 10일 부산항에 도착했다.\n해당 쇠고기를 도축한 가공 작업장은 스위프트로 7월 31일 갈비통뼈가 검출돼 이미 수출 선적 중단 조치를 받았던 곳이다.\n농림부는 척추 뼈가 나와 지난달 1일 미국산 쇠고기에 대한 검역을 중단했으나 미국 측으로부터 해명과 재발 방지 대책을 받은 뒤 지난달 27일 검역을 재개했다.\n이번 수출작업장 승인 취소 조치는 지난달 24일 발표대로 통뼈가 다시 발견되면 해당 작업장에 대해 새로운 수입 위생 조건이 발효될 때까지 수출선적을 중지시키고 등뼈 등 광우병 위험물질(SRM)이 검출되면 해당 작업장의 수출 승인 취소와 함께 미국산 쇠고기 검역을 중단하겠다는 방침에 따른 것이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미국산 쇠고기에서 수입이 금지된 통뼈 형태의 갈비뼈가 또 나왔다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "농림부는 이에 따라 지난달 24일 미국산 쇠고기 검역 중단 조치를 해제하면서 미국 측에 통보한 대로 해당 수입물량 15.5t 전부를 반송하고 해당 작업장의 한국 수출작업장 승인을 취소하기로 했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "농림부 국립수의과학검역원은 7월 29일 선적돼 검역 대기 중이던 미국산 쇠고기 1300상자를 검역한 결과 한 상자(17.9㎏)에서 수입이 금지된 갈비뼈가 발견됐다고 4일 밝혔다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 쇠고기는 7월 29일 미국에서 선적돼 지난달 10일 부산항에 도착했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "해당 쇠고기를 도축한 가공 작업장은 스위프트로 7월 31일 갈비통뼈가 검출돼 이미 수출 선적 중단 조치를 받았던 곳이다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "농림부는 척추 뼈가 나와 지난달 1일 미국산 쇠고기에 대한 검역을 중단했으나 미국 측으로부터 해명과 재발 방지 대책을 받은 뒤 지난달 27일 검역을 재개했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번 수출작업장 승인 취소 조치는 지난달 24일 발표대로 통뼈가 다시 발견되면 해당 작업장에 대해 새로운 수입 위생 조건이 발효될 때까지 수출선적을 중지시키고 등뼈 등 광우병 위험물질(SRM)이 검출되면 해당 작업장의 수출 승인 취소와 함께 미국산 쇠고기 검역을 중단하겠다는 방침에 따른 것이다.",
+        "sentenceSize": 165
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미국산 쇠고기에서 또 갈비뼈... 농림부의 조치는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

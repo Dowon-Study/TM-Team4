@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197083",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "“이번 AI 인체 감염 안 된다”",
+    "newsSubTitle": "이전과 다른 바이러스 … 국내 토착화 가능성 작아",
+    "newsContent": "올해 우리나라에서 발생한 조류 인플루엔자(AI)는 지금까지 사람에게 감염된 사례가 없는 종류인 것으로 밝혀졌다.\n국립수의과학검역원은 16일 역학조사위원회를 열고 이 같은 내용의 중간 역학조사 결과를 발표했다.\n검역원은 이번 AI 바이러스가 ‘2.3.2’ 계통 바이러스로 2003년과 2006년 국내에서 발견된 바이러스와 다르고, 그동안 중국 남부·홍콩·베트남 등에서 발견된 것과 같은 계통이라고 밝혔다.\n김기석 역학조사위원장(경북대 교수)은 “이 바이러스는 인도네시아 등에서 발견된 인체 감염 AI 바이러스와는 다르다”며 “닭과 오리 등에서 발생했을 뿐 전 세계적으로 인체 감염 사례가 보고되지 않은 종류”라고 말했다.\n김 위원장은 “변종 바이러스의 가능성도 사라졌다고 봐도 된다”고 덧붙였다.\n검역원은 지난달 처음 AI가 발생한 전북 김제·정읍과 충남 논산, 경기 평택 등의 AI 바이러스가 모두 동일하다는 사실도 확인했다.\n한 곳에서 발생한 뒤 전국으로 전파됐을 가능성이 크다.\n초기에 방역을 제대로 했으면 확산을 막을 수도 있었다는 얘기다.\n발생 원인에 대해 검역원은 철새를 통해 국내에 유입됐을 것으로 잠정 결론을 냈다.\n2003년과 2006년은 중국에 머물던 철새가 옮겨 왔지만, 이번에는 베트남 등 남쪽에서 올라온 철새를 통해 전파된 것으로 추정했다.\n그러나 이 같은 계통 차이 때문에 AI가 계절에 관계없이 토착화될 것으로 단정지을 수는 없다고 검역원은 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "올해 우리나라에서 발생한 조류 인플루엔자(AI)는 지금까지 사람에게 감염된 사례가 없는 종류인 것으로 밝혀졌다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국립수의과학검역원은 16일 역학조사위원회를 열고 이 같은 내용의 중간 역학조사 결과를 발표했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "검역원은 이번 AI 바이러스가 ‘2.3.2’ 계통 바이러스로 2003년과 2006년 국내에서 발견된 바이러스와 다르고, 그동안 중국 남부·홍콩·베트남 등에서 발견된 것과 같은 계통이라고 밝혔다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김기석 역학조사위원장(경북대 교수)은 “이 바이러스는 인도네시아 등에서 발견된 인체 감염 AI 바이러스와는 다르다”며 “닭과 오리 등에서 발생했을 뿐 전 세계적으로 인체 감염 사례가 보고되지 않은 종류”라고 말했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김 위원장은 “변종 바이러스의 가능성도 사라졌다고 봐도 된다”고 덧붙였다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "검역원은 지난달 처음 AI가 발생한 전북 김제·정읍과 충남 논산, 경기 평택 등의 AI 바이러스가 모두 동일하다는 사실도 확인했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한 곳에서 발생한 뒤 전국으로 전파됐을 가능성이 크다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "초기에 방역을 제대로 했으면 확산을 막을 수도 있었다는 얘기다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "발생 원인에 대해 검역원은 철새를 통해 국내에 유입됐을 것으로 잠정 결론을 냈다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "2003년과 2006년은 중국에 머물던 철새가 옮겨 왔지만, 이번에는 베트남 등 남쪽에서 올라온 철새를 통해 전파된 것으로 추정했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그러나 이 같은 계통 차이 때문에 AI가 계절에 관계없이 토착화될 것으로 단정지을 수는 없다고 검역원은 밝혔다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "썩어 문드러진 닭과 오리 사체… 한국 AI 인체 감염 사례 없다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

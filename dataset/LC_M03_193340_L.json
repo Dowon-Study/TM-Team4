@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193340",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[이야기가있는욕실] 타일 시트지로 값싸게 새단장",
+    "newsSubTitle": "",
+    "newsContent": "욕실은 관리를 조금만 소홀히 해도 가장 티가 나는 공간이 아닐까 합니다.\n거의 매일같이 사용하다 보니 타일 사이사이에 금이 가고 때가 끼더군요.\n손님이 왔을 때 민망스러울 정도였지만, 공사 비용이나 시간이 만만치 않아 고민만 하고 있었습니다.\n그런데 살림꾼 친구가 값이 저렴한 타일 시트지를 써보라고 귀띔해주더군요.\n잔금이 많이 간 욕조 옆 벽면을 시트지로 덮었더니 몰라보게 깔끔해졌습니다.\n접착식이라 혼자서도 쉽게 붙일 수 있고, 걸레로 쓱쓱 닦아주기만 하면 되니 관리도 간편합니다.\n화사해진 욕실 덕분에 집안 분위기도 덩달아 밝아졌습니다.\n유혜성(경기 고양시 장항2동) 중앙일보 Family와 욕실 전문업체 아메리칸 스탠다드가 ‘이야기가 있는 욕실’의 사연을 찾습니다.\n아메리칸 스탠다드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려주세요.\n매주 1명을 선정해 Family 지면에 소개하며, 50만원 상당의 욕실 제품도 드립니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "욕실은 관리를 조금만 소홀히 해도 가장 티가 나는 공간이 아닐까 합니다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "거의 매일같이 사용하다 보니 타일 사이사이에 금이 가고 때가 끼더군요.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "손님이 왔을 때 민망스러울 정도였지만, 공사 비용이나 시간이 만만치 않아 고민만 하고 있었습니다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그런데 살림꾼 친구가 값이 저렴한 타일 시트지를 써보라고 귀띔해주더군요.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "잔금이 많이 간 욕조 옆 벽면을 시트지로 덮었더니 몰라보게 깔끔해졌습니다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "접착식이라 혼자서도 쉽게 붙일 수 있고, 걸레로 쓱쓱 닦아주기만 하면 되니 관리도 간편합니다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "화사해진 욕실 덕분에 집안 분위기도 덩달아 밝아졌습니다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "유혜성(경기 고양시 장항2동) 중앙일보 Family와 욕실 전문업체 아메리칸 스탠다드가 ‘이야기가 있는 욕실’의 사연을 찾습니다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아메리칸 스탠다드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려주세요.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "매주 1명을 선정해 Family 지면에 소개하며, 50만원 상당의 욕실 제품도 드립니다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "타일 사이사이 금과 때 시트지로 '알잘딱깔센'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

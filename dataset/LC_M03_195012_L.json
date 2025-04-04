@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195012",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "\\\"유재석, 올 상반기 77억 넘게 벌었다…광고 모델료만 63억\\\"",
+    "newsSubTitle": "",
+    "newsContent": "방송인 유재석이 올해 상반기 77억원 넘는 매출을 올렸다는 주장이 나왔다.\n27일 Mnet 예능 프로그램 ‘티엠아이 쇼(TMI SHOW)’는 ‘2022년 상반기 톱티어급 매출을 올린 스타’를 주제로 방송했다.\n이 프로그램 측은 언론에 보도된 유재석의 방송 프로그램 및 광고 출연료를 토대로 유재석의 매출을 추산했다.\n해당 방송에 따르면 유재석은 상반기 최고 매출을 올린 스타 6위에 올랐다.\n특히 유재석은 광고 수입으로 수십억 원을 번 것으로 추정된다.\n유재석은 휴대전화, 비데, 식품 광고 등 올해 상반기 9개의 광고에 출연했다.\n유재석의 한 건당 광고 출연료는 6~7억원으로 알려져 있다.\n상반기 총 광고 모델료만 63억원에 달할 것으로 예상한다고 방송은 전했다.\n또 지상파, 케이블, 웹 예능 등을 섭렵한 유재석의 한 회당 출연료는 약 1500만원으로 추정됐다.\n그는 2022년 상반기 5개의 예능에 출연, 총 97회를 촬영했다.\n이에 유재석의 상반기 출연료가 14억5500만원가량이라고 방송 측은 주장했다.\n출연료와 광고비를 합산한 유재석의 상반기 매출은 77억5500만원으로 계산된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 유재석이 올해 상반기 77억원 넘는 매출을 올렸다는 주장이 나왔다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 Mnet 예능 프로그램 ‘티엠아이 쇼(TMI SHOW)’는 ‘2022년 상반기 톱티어급 매출을 올린 스타’를 주제로 방송했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 프로그램 측은 언론에 보도된 유재석의 방송 프로그램 및 광고 출연료를 토대로 유재석의 매출을 추산했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "해당 방송에 따르면 유재석은 상반기 최고 매출을 올린 스타 6위에 올랐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 유재석은 광고 수입으로 수십억 원을 번 것으로 추정된다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유재석은 휴대전화, 비데, 식품 광고 등 올해 상반기 9개의 광고에 출연했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유재석의 한 건당 광고 출연료는 6~7억원으로 알려져 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "상반기 총 광고 모델료만 63억원에 달할 것으로 예상한다고 방송은 전했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 지상파, 케이블, 웹 예능 등을 섭렵한 유재석의 한 회당 출연료는 약 1500만원으로 추정됐다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그는 2022년 상반기 5개의 예능에 출연, 총 97회를 촬영했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이에 유재석의 상반기 출연료가 14억5500만원가량이라고 방송 측은 주장했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "출연료와 광고비를 합산한 유재석의 상반기 매출은 77억5500만원으로 계산된다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유재석, 올 상반기 매출 77억... 회당 출연료가 1.500만 원?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

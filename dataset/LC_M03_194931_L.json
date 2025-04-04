@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194931",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "제5회 서울국제아트페어 전시회",
+    "newsSubTitle": "",
+    "newsContent": "99 서울국제아트페어 전시회(MANIF5!99)가 오는 11월5일부터 16일까지 서울 예술의전당 미술관(전관)에서 개최된다.\n제5회째인 이번 전시회에는 국내외 작가 128명이 출품한 1천2백여점의 작품이 전시된다.\n특히 이번 전시회에는 특별전으로 '한국미술 대표작가전'과 '아담과 이브전' 등이 준비돼 있어 눈길을 끈다. '한국미술 대표작가전'에는 세계적인 비디오 아티스트인 백남준씨를 비롯해 권옥연, 김흥수, 손동진, 황용엽 등 네명의 서양화가, 추상과 구상분야의 민경갑, 이인실, 구상조각의 태두라 할 수 있는 김영중, 현대조각의 장을 연 전뢰진 화백 등 원로 작가들이 대거 참여한다.\n태초의 여자(이브)에서 현대의 여자를 주제로 한 작품 68점이 출품되는 '아담과 이브전'에는 외국작가 24명과 국내작가 10명이 참가한다.\n또 젊은 화가들에게 길을 열어주기 위해 준비된 '비전 1,2부'에는 지난 5월 공모를 통해 선발된 35명의 신인작가들이 작품을 선보인다.\n이번 행사를 주최한 마니프(MANIF)조직위원회는 신인작가 35명 가운데 한 명에게 최우수상을 수여하고 2000년 프랑스 MAC2000展에서 개인전을 갖도록 주선할 계획이다. [서울=연합]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "99 서울국제아트페어 전시회(MANIF5!99)가 오는 11월5일부터 16일까지 서울 예술의전당 미술관(전관)에서 개최된다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "제5회째인 이번 전시회에는 국내외 작가 128명이 출품한 1천2백여점의 작품이 전시된다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 이번 전시회에는 특별전으로 '한국미술 대표작가전'과 '아담과 이브전' 등이 준비돼 있어 눈길을 끈다. '한국미술 대표작가전'에는 세계적인 비디오 아티스트인 백남준씨를 비롯해 권옥연, 김흥수, 손동진, 황용엽 등 네명의 서양화가, 추상과 구상분야의 민경갑, 이인실, 구상조각의 태두라 할 수 있는 김영중, 현대조각의 장을 연 전뢰진 화백 등 원로 작가들이 대거 참여한다.",
+        "sentenceSize": 209
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "태초의 여자(이브)에서 현대의 여자를 주제로 한 작품 68점이 출품되는 '아담과 이브전'에는 외국작가 24명과 국내작가 10명이 참가한다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 젊은 화가들에게 길을 열어주기 위해 준비된 '비전 1,2부'에는 지난 5월 공모를 통해 선발된 35명의 신인작가들이 작품을 선보인다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 행사를 주최한 마니프(MANIF)조직위원회는 신인작가 35명 가운데 한 명에게 최우수상을 수여하고 2000년 프랑스 MAC2000展에서 개인전을 갖도록 주선할 계획이다. [서울=연합]",
+        "sentenceSize": 105
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "11월 5일부터 16일까지 예술의전당 미술관에서 개최되는 전시회는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

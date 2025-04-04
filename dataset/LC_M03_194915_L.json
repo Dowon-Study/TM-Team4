@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194915",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[설연휴 볼거리] 악극 - '아버님전상서'",
+    "newsSubTitle": "",
+    "newsContent": "평소 부모에게 효도를 못해 죄송한 자녀라면 눈 여겨 볼 만하다.\n형식은 고리타분하게 느껴지는 신파극이지만 브로드웨이 뮤지컬에 크게 떨어지는 않는 대형무대와 첨단 기술장치로 다양한 볼거리를 선물한다.\n신파극답게 오랜만에 펑펑 눈물을 흘리며 가슴 속에 맺힌 회한을 씻어내는 계기도 된다.\n주제는 아버지의 한 많은 인생살이. 가족간의 사랑을 되새기는 설 연휴에 어울린다.\n각박한 시대를 살아가는 현대인에게 가족의 소중함을 새삼 일깨워 준다.\n드라마 '아들과 딸' '마당 깊은 집' 등을 통해 서민들의 얘기를 잔잔하게 그렸던 박진숙 작가가 처음으로 신파극 대본을 써 화제가 했다.\n홀어머니의 반대 때문에 결혼을 약속했던 여자를 저버리고 다른 여자와 가정을 꾸린 어촌 출신의 만재(이덕화) 가 서울.탄광촌을 전전하며 견뎌내야만 했던 기구한 인생이 가슴 시리게 펼쳐진다.\n가수 심수봉은 만재의 말 못하는 아내 순덕역으로 출연해 그 특유의 절절한 노래를 유감없이 들려준다. 6일까지 세종문화회관 대강당. 평일 오후 4시.7시, 연휴기간 오후 2시.6시. 02-368-1515.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "평소 부모에게 효도를 못해 죄송한 자녀라면 눈 여겨 볼 만하다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "형식은 고리타분하게 느껴지는 신파극이지만 브로드웨이 뮤지컬에 크게 떨어지는 않는 대형무대와 첨단 기술장치로 다양한 볼거리를 선물한다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신파극답게 오랜만에 펑펑 눈물을 흘리며 가슴 속에 맺힌 회한을 씻어내는 계기도 된다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "주제는 아버지의 한 많은 인생살이. 가족간의 사랑을 되새기는 설 연휴에 어울린다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "각박한 시대를 살아가는 현대인에게 가족의 소중함을 새삼 일깨워 준다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "드라마 '아들과 딸' '마당 깊은 집' 등을 통해 서민들의 얘기를 잔잔하게 그렸던 박진숙 작가가 처음으로 신파극 대본을 써 화제가 했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "홀어머니의 반대 때문에 결혼을 약속했던 여자를 저버리고 다른 여자와 가정을 꾸린 어촌 출신의 만재(이덕화) 가 서울.탄광촌을 전전하며 견뎌내야만 했던 기구한 인생이 가슴 시리게 펼쳐진다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "가수 심수봉은 만재의 말 못하는 아내 순덕역으로 출연해 그 특유의 절절한 노래를 유감없이 들려준다. 6일까지 세종문화회관 대강당. 평일 오후 4시.7시, 연휴기간 오후 2시.6시. 02-368-1515.",
+        "sentenceSize": 113
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "평소 부모에게 효도 못해 죄송하다면 추천할만한 연극!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

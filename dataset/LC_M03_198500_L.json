@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198500",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "Books Quiz 4회",
+    "newsSubTitle": "",
+    "newsContent": "1. 다음은 프랑스 작가 까뮈의 작품입니다.\n주인공 뫼르소는 '눈을 찌르는 듯한 강렬한 태양' 때문에 살인을 하죠.\n실존주의를 문학적으로 형상화한 이 작품의 제목은 무엇일까요?\n그 햇볕의 뜨거움을 견디지 못하여 나는 한 걸음 앞으로 나섰다.\n나는 그것이 어리석은 짓이며, 한 걸음 몸을 옮겨본댔자 태양으로부터 벗어날 수 없다는 것을 알고 있었다. ……\n나는 온몸이 긴장하여 손으로 피스톨을 힘있게 그러쥐었다.\n방아쇠가 당겨졌고 나는 권총 자루의 매끈한 배를 만졌다.\n그리하여 짤막하고도 요란스러운 소리와 함께 모든 것이 시작되었던 것이다.\n나는 땀과 태양을 떨쳐 버렸다.\n1)〈이방인〉 2)〈전락〉 3)〈페스트〉 ▶정답 보기 2. 다음은 영국 작가 토마스 하디 작품의 끝부분입니다. 영화로 여러 번 만들어지기도 했으며 여주인공 이름이 작품 제목이기도 하죠. 어떤 작품일까요? 그 탑의 끝에는 길고 높은 한 개의 깃대가 있었다. 그들의 눈은 그곳에 못박혔다. 8시를 알리는 종소리가 나고 2,3분 지났을 때, 무언가가 깃대 위로 서서히 올라가더니 미풍에 펄럭이기 시작했다. 검은 깃발이었다. '정의'는 이루어졌다. 1)〈폭풍의 언덕〉 2)〈위대한 유산〉 3)〈테스〉 ▶정답 보기 3. 다음은 시〈지옥에서 보낸 한 철〉의 첫부분입니다. 레오나르도 디카프리오가 영화〈토탈 이클립스〉에서 이 천재 시인의 삶을 열연하기도 했죠.\n이 시인의 이름은 무엇일까요?\n예전에, 내 기억이 정확하다면, 나의 삶은 모든 사람들이 가슴을 열고 온갓 술이 흐르는 축제였다.\n어느 날 저녁, 나는 무릎에 아름다움을 앉혔다.\n그런데 가만히 보니 그녀는 맛이 썼다.\n그래서 욕설을 퍼부어주었다.\n나는 정의에 대항했다.\n나는 도망쳤다.\n오 마녀들이여, 오 비참이여, 오 증오여, 내 보물은 바로 너희들에게 맡겨졌다.\n1)랭보 2)보들레르 3)플로베르 ▶정답 보기",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "1. 다음은 프랑스 작가 까뮈의 작품입니다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "주인공 뫼르소는 '눈을 찌르는 듯한 강렬한 태양' 때문에 살인을 하죠.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "실존주의를 문학적으로 형상화한 이 작품의 제목은 무엇일까요?",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 햇볕의 뜨거움을 견디지 못하여 나는 한 걸음 앞으로 나섰다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "나는 그것이 어리석은 짓이며, 한 걸음 몸을 옮겨본댔자 태양으로부터 벗어날 수 없다는 것을 알고 있었다. ……",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "나는 온몸이 긴장하여 손으로 피스톨을 힘있게 그러쥐었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "방아쇠가 당겨졌고 나는 권총 자루의 매끈한 배를 만졌다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그리하여 짤막하고도 요란스러운 소리와 함께 모든 것이 시작되었던 것이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "나는 땀과 태양을 떨쳐 버렸다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "1)〈이방인〉 2)〈전락〉 3)〈페스트〉 ▶정답 보기 2. 다음은 영국 작가 토마스 하디 작품의 끝부분입니다. 영화로 여러 번 만들어지기도 했으며 여주인공 이름이 작품 제목이기도 하죠. 어떤 작품일까요? 그 탑의 끝에는 길고 높은 한 개의 깃대가 있었다. 그들의 눈은 그곳에 못박혔다. 8시를 알리는 종소리가 나고 2,3분 지났을 때, 무언가가 깃대 위로 서서히 올라가더니 미풍에 펄럭이기 시작했다. 검은 깃발이었다. '정의'는 이루어졌다. 1)〈폭풍의 언덕〉 2)〈위대한 유산〉 3)〈테스〉 ▶정답 보기 3. 다음은 시〈지옥에서 보낸 한 철〉의 첫부분입니다. 레오나르도 디카프리오가 영화〈토탈 이클립스〉에서 이 천재 시인의 삶을 열연하기도 했죠.",
+        "sentenceSize": 362
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 시인의 이름은 무엇일까요?",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "예전에, 내 기억이 정확하다면, 나의 삶은 모든 사람들이 가슴을 열고 온갓 술이 흐르는 축제였다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "어느 날 저녁, 나는 무릎에 아름다움을 앉혔다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그런데 가만히 보니 그녀는 맛이 썼다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "그래서 욕설을 퍼부어주었다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "나는 정의에 대항했다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "나는 도망쳤다.",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "오 마녀들이여, 오 비참이여, 오 증오여, 내 보물은 바로 너희들에게 맡겨졌다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "1)랭보 2)보들레르 3)플로베르 ▶정답 보기",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "<Books Quiz 4회> 주인공 뫼르소는 '눈을 찌르는 듯한 강렬한 태양' 때문에 '이것'을 하죠",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

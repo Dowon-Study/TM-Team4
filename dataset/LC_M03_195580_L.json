@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195580",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "냄새는 없애고 구수함?영양은 그대로…효소원, ‘청순3.9’ 론칭",
+    "newsSubTitle": "",
+    "newsContent": "발효식품 전문기업 효소원이 ‘냄새 없는 청국장’ 전문 브랜드 ‘청순3.9’로 프랜차이즈 시장 공략에 나선다.\n효소원은 20년 간 쌓아온 발효 기술로 순수 청국장균을 직접 배양해서 만든 냄새 없는 청국장을 만들었다.\n콩을 발효시킨 청국장은 소화 흡수가 잘되고 영양 성분이 뛰어난 음식으로 손꼽히지만 특유의 쾌쾌한 냄새 때문에 대중화가 쉽지 않았다.\n청순3.9는 청국장 발효에 필요한 균을 순수 분리 배양시킨 후 외부공기를 차단한 청정 클린 룸(Clean-Room)에서 제조한 청국장이다.\n일반균이 없어 냄새가 나지 않는 것이 특징이다.\n일반적으로 청국장을 만드는데 쓰이는 대두(노란콩) 뿐 아니라 병아리콩, 렌틸콩, 서리태를 이용한 색다른 청국장도 개발했다.\n생청국 덮밥이라는 신 메뉴도 있다.\n효소원 관계자는 “청국장을 제조하는 발효균을 직접 배양하는 유일무이한 브랜드”라며 “10호 가맹점까지 가맹비를 50% 할인하는 혜택을 제공할 것”이라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "발효식품 전문기업 효소원이 ‘냄새 없는 청국장’ 전문 브랜드 ‘청순3.9’로 프랜차이즈 시장 공략에 나선다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "효소원은 20년 간 쌓아온 발효 기술로 순수 청국장균을 직접 배양해서 만든 냄새 없는 청국장을 만들었다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "콩을 발효시킨 청국장은 소화 흡수가 잘되고 영양 성분이 뛰어난 음식으로 손꼽히지만 특유의 쾌쾌한 냄새 때문에 대중화가 쉽지 않았다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "청순3.9는 청국장 발효에 필요한 균을 순수 분리 배양시킨 후 외부공기를 차단한 청정 클린 룸(Clean-Room)에서 제조한 청국장이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "일반균이 없어 냄새가 나지 않는 것이 특징이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일반적으로 청국장을 만드는데 쓰이는 대두(노란콩) 뿐 아니라 병아리콩, 렌틸콩, 서리태를 이용한 색다른 청국장도 개발했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "생청국 덮밥이라는 신 메뉴도 있다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "효소원 관계자는 “청국장을 제조하는 발효균을 직접 배양하는 유일무이한 브랜드”라며 “10호 가맹점까지 가맹비를 50% 할인하는 혜택을 제공할 것”이라고 말했다.",
+        "sentenceSize": 89
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "효소원 '청순 3.9' 론칭, 청국장 대중화 위한 시장 전략은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

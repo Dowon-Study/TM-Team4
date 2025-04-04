@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197989",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[양념 경제학] 계안, 고창, 담마진 … 무슨 뜻인지 아세요",
+    "newsSubTitle": "",
+    "newsContent": "‘객담’ ‘가역적’ ‘담즙울체’…. 처방전 없이 살 수 있는 일반의약품 설명서에 적힌 한자어들이다.\n무슨 뜻인지 추리조차 힘든 암호 같다.\n한국소비자원은 일반의약품 61개를 조사한 결과 56개(92%)의 포장 용기와 첨부 문서에서 어려운 용어를 1개 이상 찾아냈다고 29일 밝혔다.\n이들 제품에서는 ‘객담’ ‘가역적’ 등 식품의약품안전청이 쉽게 풀어 쓰라고 권고한 241개 한자 용어 중 60여 개가 아직도 쓰이고 있었다. ‘섬휘안점’ ‘유천포창’ ‘객출부전’ 같은 단어는 식의약청의 가이드라인에도 없어 뜻풀이마저 찾아보기 쉽지 않다.\n깨알 같은 글씨도 여전했다.\n당국은 글자 크기를 8포인트 이상으로 쓰도록 권고한다. 61개 약품의 포장재 55개, 용기 23개, 첨부 문서 46개 등 124개에 쓰인 글자 크기를 조사한 결과 한 개만 빼고 이를 지키지 않았다.\n글씨 크기가 6포인트보다 작은 경우도 절반 이상(82개·66%)이었다.\n김선환 소비자원 차장은 “일반의약품은 용법이나 용량·부작용에 관한 정보를 제품 설명서에서 얻기 때문에 표현과 활자 크기가 중요하다. 식의약청 가이드라인을 의무화하도록 건의하겠다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘객담’ ‘가역적’ ‘담즙울체’…. 처방전 없이 살 수 있는 일반의약품 설명서에 적힌 한자어들이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "무슨 뜻인지 추리조차 힘든 암호 같다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국소비자원은 일반의약품 61개를 조사한 결과 56개(92%)의 포장 용기와 첨부 문서에서 어려운 용어를 1개 이상 찾아냈다고 29일 밝혔다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들 제품에서는 ‘객담’ ‘가역적’ 등 식품의약품안전청이 쉽게 풀어 쓰라고 권고한 241개 한자 용어 중 60여 개가 아직도 쓰이고 있었다. ‘섬휘안점’ ‘유천포창’ ‘객출부전’ 같은 단어는 식의약청의 가이드라인에도 없어 뜻풀이마저 찾아보기 쉽지 않다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "깨알 같은 글씨도 여전했다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "당국은 글자 크기를 8포인트 이상으로 쓰도록 권고한다. 61개 약품의 포장재 55개, 용기 23개, 첨부 문서 46개 등 124개에 쓰인 글자 크기를 조사한 결과 한 개만 빼고 이를 지키지 않았다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "글씨 크기가 6포인트보다 작은 경우도 절반 이상(82개·66%)이었다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김선환 소비자원 차장은 “일반의약품은 용법이나 용량·부작용에 관한 정보를 제품 설명서에서 얻기 때문에 표현과 활자 크기가 중요하다. 식의약청 가이드라인을 의무화하도록 건의하겠다”고 말했다.",
+        "sentenceSize": 105
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일반의약품에 있는 깨알 같은 글씨, 어려운 용어들… `이것` 의무화로 개선한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

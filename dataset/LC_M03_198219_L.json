@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198219",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강단신] 한강성심병원 外",
+    "newsSubTitle": "",
+    "newsContent": "◆한강성심병원은 병원 1별관 4층에 근골격계 특수치료센터(센터장 오상용 산업의학과 교수)를 개설했다.\n디스크.턱관절.어깨 및 무릎 관절 통증을 수술이나 약물을 사용하지 않고 치료한다.\n주말 치료 프로그램과 재발 방지를 위한 예방교육도 실시할 예정.02-2639-5661. ◆듀오피부과는 5일 엑시머레이저 및 듀얼라이트 치료를 시행하는 '백반증&건선 치료센터'를 열었다.\n엑시머레이저는 308㎚ 파장대의 레이저 빔을 조사해 환부만 선택적으로 치료한다.\n얼굴.목.손 등 노출 부위엔 건강보험이 적용된다.\n02-922-3723. ◆아주대병원은 2일 '뇌졸중 집중치료실' 개소식을 하고, 본격적인 운영에 들어갔다.\n6개 병상으로 운영되며 5일간 입원해 집중치료를 받은 뒤 일반 병실로 이동한다..",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆한강성심병원은 병원 1별관 4층에 근골격계 특수치료센터(센터장 오상용 산업의학과 교수)를 개설했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "디스크.턱관절.어깨 및 무릎 관절 통증을 수술이나 약물을 사용하지 않고 치료한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "주말 치료 프로그램과 재발 방지를 위한 예방교육도 실시할 예정.02-2639-5661. ◆듀오피부과는 5일 엑시머레이저 및 듀얼라이트 치료를 시행하는 '백반증&건선 치료센터'를 열었다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "엑시머레이저는 308㎚ 파장대의 레이저 빔을 조사해 환부만 선택적으로 치료한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "얼굴.목.손 등 노출 부위엔 건강보험이 적용된다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "02-922-3723. ◆아주대병원은 2일 '뇌졸중 집중치료실' 개소식을 하고, 본격적인 운영에 들어갔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "6개 병상으로 운영되며 5일간 입원해 집중치료를 받은 뒤 일반 병실로 이동한다..",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한강성심병원, 디스크.턱관절 등 통증을 수술이나 '이것' 없이 치료해 화제!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

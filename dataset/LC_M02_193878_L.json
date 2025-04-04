@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193878",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "여기어때, '장애인 편의시설 숙소' 검색 기능 도입",
+    "newsSubTitle": "",
+    "newsContent": "숙박업체 여기어때(대표 심명섭)가 국내 O2O서비스 중 최초로 장애인 편의시설이 갖춰진 숙소를 검색할 수 있는 서비스를 도입했다.\n여기어때에서 예약 가능한 장애인 편의시설 숙소는 호텔, 리조트, 콘도, 펜션 등 1천 곳이며, 앱 하단 검색 메뉴에서 '장애인'으로 검색하면 해당 숙소들이 나온다.\n숙박 종류별로 검색하려면, 앱 메인화면에서 원하는 숙박 카테고리를 선택한 후 리스트 상단 '상세조건'에서 '장애인편의시설' 필터를 선택하면 된다.\n장애인 편의시설이 있는 숙소는 상세정보 페이지 '편의시설 및 서비스'에 '장애인편의' 표시를 확인할 수 있다.\n여기어때 측은 \\\"전국 숙박업체 5만여 곳 전수조사를 통해 숙박시설 내 장애인 편의시설 여부를 파악하고 호텔·리조트·콘도·펜션 등 1천 곳의 숙박정보에 '장애인 편의' 숙소로 표시했다\\\"라고 설명했다.\n심명섭 대표는 \\\"국내 1위 숙박 O2O 서비스 위상에 맞는 일과 사회에서의 역할을 고민했다\\\"며 \\\"이번 캠페인이 업계 전반으로 퍼져 여행·여가 산업이 성숙하는 계기가 되길 바란다\\\"고 말했다.\n한편, 여기어때는 지난 4월 취약계층의 이동권을 지원하는 국내 최대 모빌리티 전문 NGO 사단법인 그린라이트와 '장애인 등 관광 취약계층 여행활성화를 위한 배리어프리 숙박업체 확산 캠페인' 협약식을 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "숙박업체 여기어때(대표 심명섭)가 국내 O2O서비스 중 최초로 장애인 편의시설이 갖춰진 숙소를 검색할 수 있는 서비스를 도입했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여기어때에서 예약 가능한 장애인 편의시설 숙소는 호텔, 리조트, 콘도, 펜션 등 1천 곳이며, 앱 하단 검색 메뉴에서 '장애인'으로 검색하면 해당 숙소들이 나온다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "숙박 종류별로 검색하려면, 앱 메인화면에서 원하는 숙박 카테고리를 선택한 후 리스트 상단 '상세조건'에서 '장애인편의시설' 필터를 선택하면 된다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "장애인 편의시설이 있는 숙소는 상세정보 페이지 '편의시설 및 서비스'에 '장애인편의' 표시를 확인할 수 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여기어때 측은 \\\"전국 숙박업체 5만여 곳 전수조사를 통해 숙박시설 내 장애인 편의시설 여부를 파악하고 호텔·리조트·콘도·펜션 등 1천 곳의 숙박정보에 '장애인 편의' 숙소로 표시했다\\\"라고 설명했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "심명섭 대표는 \\\"국내 1위 숙박 O2O 서비스 위상에 맞는 일과 사회에서의 역할을 고민했다\\\"며 \\\"이번 캠페인이 업계 전반으로 퍼져 여행·여가 산업이 성숙하는 계기가 되길 바란다\\\"고 말했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 여기어때는 지난 4월 취약계층의 이동권을 지원하는 국내 최대 모빌리티 전문 NGO 사단법인 그린라이트와 '장애인 등 관광 취약계층 여행활성화를 위한 배리어프리 숙박업체 확산 캠페인' 협약식을 했다.",
+        "sentenceSize": 114
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여기어때, 이런 숙소도 검색할 수 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

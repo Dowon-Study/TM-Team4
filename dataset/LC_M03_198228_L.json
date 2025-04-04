@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198228",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[짤막소식] 서울 웨스틴조선호텔의 일식당 스시조 外",
+    "newsSubTitle": "",
+    "newsContent": "■서울 웨스틴조선호텔의 일식당 스시조는 오는 28일 '갈라 디너-다금바리, 그 신비한 맛의 향연'을 펼친다.\n다금바리의 부위별 회에 제주산 전복구이 등으로 이어지는 요리를 청주.와인과 함께 풀코스로 제공한다.\n지난해 이탈리아에서 열린 세계 음식의 향연에서 요리 거장으로 뽑힌 강창건 조리장을 특별 초빙해 자연산 다금바리로 회를 뜨는 장면도 시연한다.\n참가비 32만원. 02-317-0373. ■그랜드 하얏트 서울은 다음달 6일 미국 캘리포니아에서 가장 오래된 와이너리인 웬티 와이너리의 대표 에릭 웬티와 함께하는 와인 메이커스 디너를 마련한다.\n브르트 리저브 스파클링 와인 등 엄선한 6가지 웬티 와인과 함께 가재와 송어 카르파초, 푸아 그라를 곁들인 안심 스테이크 등 6가지 코스 메뉴를 맛볼 수 있다.\n참가비 15만5000원. 02-799-8161. ■르네상스 서울 호텔의 클럽 호라이즌 레스토랑은 이달 말까지 시푸드 페스티벌을 진행한다.\n토마토 캐비아의 바닷가재 테린(2만3000원), 호주산 바닷가재 요리(13만5000원) 등 다양한 해산물 메뉴가 선보인다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "■서울 웨스틴조선호텔의 일식당 스시조는 오는 28일 '갈라 디너-다금바리, 그 신비한 맛의 향연'을 펼친다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "다금바리의 부위별 회에 제주산 전복구이 등으로 이어지는 요리를 청주.와인과 함께 풀코스로 제공한다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난해 이탈리아에서 열린 세계 음식의 향연에서 요리 거장으로 뽑힌 강창건 조리장을 특별 초빙해 자연산 다금바리로 회를 뜨는 장면도 시연한다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "참가비 32만원. 02-317-0373. ■그랜드 하얏트 서울은 다음달 6일 미국 캘리포니아에서 가장 오래된 와이너리인 웬티 와이너리의 대표 에릭 웬티와 함께하는 와인 메이커스 디너를 마련한다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "브르트 리저브 스파클링 와인 등 엄선한 6가지 웬티 와인과 함께 가재와 송어 카르파초, 푸아 그라를 곁들인 안심 스테이크 등 6가지 코스 메뉴를 맛볼 수 있다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "참가비 15만5000원. 02-799-8161. ■르네상스 서울 호텔의 클럽 호라이즌 레스토랑은 이달 말까지 시푸드 페스티벌을 진행한다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "토마토 캐비아의 바닷가재 테린(2만3000원), 호주산 바닷가재 요리(13만5000원) 등 다양한 해산물 메뉴가 선보인다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서울 '이 호텔' 일식당... 갈라 디너-다금바리 '쇼' 펼쳐 눈길",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

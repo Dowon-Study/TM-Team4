@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194966",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "평론가 박철화씨 '문학적 지성' 출간",
+    "newsSubTitle": "열정과 냉정 사이로 문학의 현실 꼬집어",
+    "newsContent": "문학평론가 박철화(39)씨가 자신의 네번째 평론집 '문학적 지성'(이룸)을 출간했다.\n박씨는 2002년 가을 '관계의 언어''우리 문학에 대한 질문' 등을 잇따라 펴낸 바 있다. '문학'으로 '지성'을 수식케 한 평론집 제목의 배경이 궁금하다.\n박씨는 머릿말에서 \\\"문학적 지성이란 전체를 끌어안는 열정적인 사랑이며, 그 사랑까지도 성찰의 대상으로 삼는 치열하고도 냉정한 인식의 움직임\\\"이라고 밝혔다.\n또 \\\"문학적 지성이 현실을 넘어서려 한다는 점에서 낭만적 열정이며, 현실 도피가 아니라 새로운 인식을 통해 다시 현실로 돌아와 현실을 더 풍요롭게 한다는 점에서 성숙한 것이기 때문에 '성숙한 낭만'이라고 말할 수 있다\\\"고 밝혔다.\n박씨는 프랑스 대혁명 이후 시민사회의 출범과 맞물려 출현한 현대문학의 기원에 대한 폭넓은 독서 끝에 그런 통찰에 도달한 것으로 보인다.\n1부에 묶인 글들에서 그에 대한 언급을 만날 수 있다. 2,3부에는 문학적 지성을 통해 본 작품론들을 묶었고, 4,5부에는 신화.민족주의 등 문학 바깥에 관한 글들을 모았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "문학평론가 박철화(39)씨가 자신의 네번째 평론집 '문학적 지성'(이룸)을 출간했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박씨는 2002년 가을 '관계의 언어''우리 문학에 대한 질문' 등을 잇따라 펴낸 바 있다. '문학'으로 '지성'을 수식케 한 평론집 제목의 배경이 궁금하다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박씨는 머릿말에서 \\\"문학적 지성이란 전체를 끌어안는 열정적인 사랑이며, 그 사랑까지도 성찰의 대상으로 삼는 치열하고도 냉정한 인식의 움직임\\\"이라고 밝혔다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 \\\"문학적 지성이 현실을 넘어서려 한다는 점에서 낭만적 열정이며, 현실 도피가 아니라 새로운 인식을 통해 다시 현실로 돌아와 현실을 더 풍요롭게 한다는 점에서 성숙한 것이기 때문에 '성숙한 낭만'이라고 말할 수 있다\\\"고 밝혔다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박씨는 프랑스 대혁명 이후 시민사회의 출범과 맞물려 출현한 현대문학의 기원에 대한 폭넓은 독서 끝에 그런 통찰에 도달한 것으로 보인다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1부에 묶인 글들에서 그에 대한 언급을 만날 수 있다. 2,3부에는 문학적 지성을 통해 본 작품론들을 묶었고, 4,5부에는 신화.민족주의 등 문학 바깥에 관한 글들을 모았다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "평론가 박철화, 문학은 '낭만적 열정' '성숙한 낭만'이라 말해… 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

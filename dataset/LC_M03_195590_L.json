@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195590",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "한독, 싱가포르·말레이시아에 ‘케토톱’ 수출 계약",
+    "newsSubTitle": "인도네시아·베트남·필리핀 등 아시아 전역으로 케토톱 수출 확대 계획",
+    "newsContent": "[김진구 기자] 한독이 100억원 상당의 수출 계약을 체결했다.\n한독은 최근 아시아 지역 헬스케어 유통기업 쥴릭파마와 전략 제휴를 통해 내년부터 싱가포르와 말레이시아에 관절염 치료제 ‘케토톱(성분명 케토프로펜)’을 공급키로 했다.\n이후 인도네시아, 베트남, 필리핀 등 아시아 전역으로 수출 지역을 확대한다는 계획이다.\n싱가포르와 말레이시아의 외용소염진통제 시장은 2015년 기준 약 1947만 달러며, 연평균 성장률 11%로 2022년 3664만 달러까지 성장할 것으로 예상한다.\n또, 월드뱅크 리포트에 따르면 싱가포르는 60세 이상 고령 인구가 약 16%, 말레이시아는 9%로 고령화 사회에 진입했거나 진입을 눈앞에 두고 있어 골관절 관련 외용소염진통제 시장에 대한 성장 잠재력이 매우 높은 것으로 평가받는다.\n한독 김영진 회장은 “케토톱은 1994년 출시 후 22년 동안 국내 외용소염진통제 시장 1위 자리를 고수왔다. 글로벌 NSAID(비스테로이드 항염증제) 시장에서도 그 우수성을 인정받아 탑 브랜드로 성장할 수 있을 것”이라고 기대했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 한독이 100억원 상당의 수출 계약을 체결했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한독은 최근 아시아 지역 헬스케어 유통기업 쥴릭파마와 전략 제휴를 통해 내년부터 싱가포르와 말레이시아에 관절염 치료제 ‘케토톱(성분명 케토프로펜)’을 공급키로 했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이후 인도네시아, 베트남, 필리핀 등 아시아 전역으로 수출 지역을 확대한다는 계획이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "싱가포르와 말레이시아의 외용소염진통제 시장은 2015년 기준 약 1947만 달러며, 연평균 성장률 11%로 2022년 3664만 달러까지 성장할 것으로 예상한다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또, 월드뱅크 리포트에 따르면 싱가포르는 60세 이상 고령 인구가 약 16%, 말레이시아는 9%로 고령화 사회에 진입했거나 진입을 눈앞에 두고 있어 골관절 관련 외용소염진통제 시장에 대한 성장 잠재력이 매우 높은 것으로 평가받는다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한독 김영진 회장은 “케토톱은 1994년 출시 후 22년 동안 국내 외용소염진통제 시장 1위 자리를 고수왔다. 글로벌 NSAID(비스테로이드 항염증제) 시장에서도 그 우수성을 인정받아 탑 브랜드로 성장할 수 있을 것”이라고 기대했다.",
+        "sentenceSize": 130
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한독, 100억 원 상당의 수출 계약 체결한 효자 상품은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

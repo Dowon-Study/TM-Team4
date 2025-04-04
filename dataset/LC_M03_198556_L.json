@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198556",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[문화 캘린더] NDTⅢ 내한공연",
+    "newsSubTitle": "지리 킬리안과 NDT가 온다",
+    "newsContent": "'천재 안무가' 지리 킬리안(57)과 네덜란드 댄스시어터(NDT)가 온다.\n오는 27~30일 예술의전당 토월극장에서 세번째 내한 공연을 한다.\nNDT는 1959년에 창단됐다.\n네덜란드 국립발레단에서 이탈한 무용가 18명이 모여 꾸린 단체다.\n크게 주목받지 못하던 NDT는 75년 지리 킬리안이 예술감독에 취임하면서 급성장했다.\n이젠 특유의 실험성과 독창성으로 세계 최고의 현대무용단으로 평가받고 있다.\n킬리안의 안무에는 천재성이 번득인다.\n고난도의 신체적 테크닉과 무용수들의 동작마다 자연스럽게 배어있는 음악, 철학적 메시지를 어렵지 않게 풀어내는 그만의 유머 감각이 단연 돋보인다. 93년과 99년, 두 차례나 무용계의 아카데미상으로 불리는 '브누아 드 라 당스'에서 최우수 안무가상을 받기도 했다.\n또 2000년에는 니진스키상도 받았다.\nNDT에는 세개의 단체가 있다.\n최고의 기량을 지닌 32명의 무용수들이 포진한 'NDTⅠ'과 17~22세의 젊은 무용수로 구성된 'NDTⅡ', 그리고 40세 이상의 노련한 무용수들로 꾸린 'NDT Ⅲ'이다.\n이번 공연에선 'NDTⅢ'가 무대에 오른다.\n공연시간은 100분(휴식시간 30분 포함).'생일'에선 살아 움직이는 듯한 조명과 무용수들의 코믹한 움직임이 인상적이다.\n또 '시간이 시간을 필요로 할 때'는 인간의 욕망과 불안, 닿을 수 없는 이상을 노래하고 있다.\n찰리 채플린처럼 콧수염을 붙인 무용수가 부엌에서 요리하는 장면 등이 코믹하기 짝이 없다.\n마지막으로 '두 얼굴'은 가면을 쓴 무용수를 통해 소통에 관한 얘기를 풀어간다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'천재 안무가' 지리 킬리안(57)과 네덜란드 댄스시어터(NDT)가 온다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 27~30일 예술의전당 토월극장에서 세번째 내한 공연을 한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "NDT는 1959년에 창단됐다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "네덜란드 국립발레단에서 이탈한 무용가 18명이 모여 꾸린 단체다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "크게 주목받지 못하던 NDT는 75년 지리 킬리안이 예술감독에 취임하면서 급성장했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이젠 특유의 실험성과 독창성으로 세계 최고의 현대무용단으로 평가받고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "킬리안의 안무에는 천재성이 번득인다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "고난도의 신체적 테크닉과 무용수들의 동작마다 자연스럽게 배어있는 음악, 철학적 메시지를 어렵지 않게 풀어내는 그만의 유머 감각이 단연 돋보인다. 93년과 99년, 두 차례나 무용계의 아카데미상으로 불리는 '브누아 드 라 당스'에서 최우수 안무가상을 받기도 했다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 2000년에는 니진스키상도 받았다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "NDT에는 세개의 단체가 있다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "최고의 기량을 지닌 32명의 무용수들이 포진한 'NDTⅠ'과 17~22세의 젊은 무용수로 구성된 'NDTⅡ', 그리고 40세 이상의 노련한 무용수들로 꾸린 'NDT Ⅲ'이다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이번 공연에선 'NDTⅢ'가 무대에 오른다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "공연시간은 100분(휴식시간 30분 포함).'생일'에선 살아 움직이는 듯한 조명과 무용수들의 코믹한 움직임이 인상적이다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또 '시간이 시간을 필요로 할 때'는 인간의 욕망과 불안, 닿을 수 없는 이상을 노래하고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "찰리 채플린처럼 콧수염을 붙인 무용수가 부엌에서 요리하는 장면 등이 코믹하기 짝이 없다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "마지막으로 '두 얼굴'은 가면을 쓴 무용수를 통해 소통에 관한 얘기를 풀어간다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "내한공연 갖는 NDTⅢ '이것'을 주목하라",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

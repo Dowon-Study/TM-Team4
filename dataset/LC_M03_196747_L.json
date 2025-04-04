@@ -1,0 +1,240 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196747",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "‘바람만 불어도 관절이…’ 통풍 약에 ‘금’ 타먹었더니…치료 효과 5배↑·청색증↓",
+    "newsSubTitle": "통풍 치료제에 금 타먹으면 효능 획기적 개선된다는 연구 결과 나와 금 나노 입자를 통풍 치료제에 섞어마시면 치료 효과 개선 통풍 치료제의 대표적인 부작용인 청색증도 완화 신장 질환에도 응용 가능성 상존…네이처 자매지에 게재 ",
+    "newsContent": "금으로 통풍 치료 효능 높일 수 있다는 연구 결과가 나왔다.\n권인찬 광주과학기술원(GIST) 신소재공학부 교수팀은 ‘금 나노입자(nm)’를 이용한 통풍치료의 새로운 가능성을 발견했다고 22일 밝혔다.\n바람만 스쳐도 통증이 느껴진다는 ‘통풍(痛風)’은 국내에서만 30만명의 환자를 괴롭히는 만성 질환이다.\n통풍은 요산이 몸 안에 배출되지 않고 쌓여서 생기는 질병이다.\n요산은 ‘퓨린’이란 물질이 간에서 대사될 때 생기는 부산물로, 원래 소변 등으로 자연스럽게 인체에서 배출돼야 정상이다.\n신장병이나 일부 심순환계 질병도 요산 때문에 발생한다.\n통풍 치료제는 요산이 체외로 배출되지 않을 경우, 화학 작용을 통해 억지로 배출시켜 주는 원리를 이용한다.\n다시 말해, 통풍 치료는 요산 분해 효소를 주입하는 것이다.\n문제는 요산을 분해하는 통풍 치료제가 화학작용 과정에서 과산화수소를 생성한다는 것이다.\n이 과산화수소는 혈색소에 있는 철을 산화해, 산소 운반 능력을 저하시킨다.\n어느 정도의 과산화수소는 평범한 사람에게 큰 문제를 일으키지는 않지만, 과산화수소 분해 능력이 약한 사람의 경우 부작용이 발생한다.\n몸이 파랗게 변하는 청색증(메트헤모글로빈혈증)은 대표적인 부작용 중 하나다.\n연구진은 이 과산화수소를 분해하기 위해 요산분해효소에 불과 1nm~100nm 크기의 매우 미세한 금 입자(금 나노입자)를 넣어봤다.\n그랬더니 산소 기포가 발생하는 것을 발견했다.\n기포가 왜 발생하는지 추적했더니, 금 나노입자가 과산화수소를 분해하면서 발생하는 현상이었다.\n즉, 통풍 치료제의 부작용으로 발생하는 과산화수소를, 금 입자가 분해한다는 사실을 최초로 발견한 것이다.\n또 연구진은 크기가 작은 금 입자일수록, 표면적이 증가해 과산화수소를 분해하는 능력이 더 탁월하다는 사실도 확인했다.\n이와 함께 요산분해효소와 금 입자가 같이 있으면, 요산분해효소가 요산을 분해하는 속도도 최대 5배나 더 빨라진다는 사실도 발견했다.\n금 나노입자를 통풍 치료제에 넣을 때 통풍 치료 효과가 더 탁월해진다는 의미다.\n연구 결과만 놓고 보면, 통풍 환자가 통풍 치료제에 미세한 금 입자를 섞어 먹으면 치료 효과가 탁월해지면서 부작용까지 방지할 수 있다고 해석할 수 있다.\n단, 금 입자가 나노 크기로 미세해야 한다.\n또 아직 임상실험을 거치지 않은 기초연구 결과이기 때문에, 치료 효과를 높이는 가능성은 있지만 인체에 어떤 영향이 있을지는 증명되지 않았다.\n권인찬 교수는 “금 나노입자를 활용하면 바이오의약품 약효를 향상할 수 있다는 사실을 처음으로 보여줬다”며 “향후 동물실험·임상연구를 거쳐, 통풍·신장 질환 등 다양한 질병 치료에 적용할 수 있을 것”이라고 설명했다.\n미래창조과학부 지원으로 수행한 이번 연구는 저명한 국제 학술지 ‘사이언티픽 리포트(Scientific Report)’ 13일자에 게재됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 24,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "금으로 통풍 치료 효능 높일 수 있다는 연구 결과가 나왔다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "권인찬 광주과학기술원(GIST) 신소재공학부 교수팀은 ‘금 나노입자(nm)’를 이용한 통풍치료의 새로운 가능성을 발견했다고 22일 밝혔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "바람만 스쳐도 통증이 느껴진다는 ‘통풍(痛風)’은 국내에서만 30만명의 환자를 괴롭히는 만성 질환이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "통풍은 요산이 몸 안에 배출되지 않고 쌓여서 생기는 질병이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "요산은 ‘퓨린’이란 물질이 간에서 대사될 때 생기는 부산물로, 원래 소변 등으로 자연스럽게 인체에서 배출돼야 정상이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "신장병이나 일부 심순환계 질병도 요산 때문에 발생한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "통풍 치료제는 요산이 체외로 배출되지 않을 경우, 화학 작용을 통해 억지로 배출시켜 주는 원리를 이용한다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "다시 말해, 통풍 치료는 요산 분해 효소를 주입하는 것이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "문제는 요산을 분해하는 통풍 치료제가 화학작용 과정에서 과산화수소를 생성한다는 것이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 과산화수소는 혈색소에 있는 철을 산화해, 산소 운반 능력을 저하시킨다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "어느 정도의 과산화수소는 평범한 사람에게 큰 문제를 일으키지는 않지만, 과산화수소 분해 능력이 약한 사람의 경우 부작용이 발생한다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "몸이 파랗게 변하는 청색증(메트헤모글로빈혈증)은 대표적인 부작용 중 하나다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "연구진은 이 과산화수소를 분해하기 위해 요산분해효소에 불과 1nm~100nm 크기의 매우 미세한 금 입자(금 나노입자)를 넣어봤다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그랬더니 산소 기포가 발생하는 것을 발견했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "기포가 왜 발생하는지 추적했더니, 금 나노입자가 과산화수소를 분해하면서 발생하는 현상이었다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "즉, 통풍 치료제의 부작용으로 발생하는 과산화수소를, 금 입자가 분해한다는 사실을 최초로 발견한 것이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "또 연구진은 크기가 작은 금 입자일수록, 표면적이 증가해 과산화수소를 분해하는 능력이 더 탁월하다는 사실도 확인했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "이와 함께 요산분해효소와 금 입자가 같이 있으면, 요산분해효소가 요산을 분해하는 속도도 최대 5배나 더 빨라진다는 사실도 발견했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "금 나노입자를 통풍 치료제에 넣을 때 통풍 치료 효과가 더 탁월해진다는 의미다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "연구 결과만 놓고 보면, 통풍 환자가 통풍 치료제에 미세한 금 입자를 섞어 먹으면 치료 효과가 탁월해지면서 부작용까지 방지할 수 있다고 해석할 수 있다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "단, 금 입자가 나노 크기로 미세해야 한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "또 아직 임상실험을 거치지 않은 기초연구 결과이기 때문에, 치료 효과를 높이는 가능성은 있지만 인체에 어떤 영향이 있을지는 증명되지 않았다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "권인찬 교수는 “금 나노입자를 활용하면 바이오의약품 약효를 향상할 수 있다는 사실을 처음으로 보여줬다”며 “향후 동물실험·임상연구를 거쳐, 통풍·신장 질환 등 다양한 질병 치료에 적용할 수 있을 것”이라고 설명했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "미래창조과학부 지원으로 수행한 이번 연구는 저명한 국제 학술지 ‘사이언티픽 리포트(Scientific Report)’ 13일자에 게재됐다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "금만 있으면 통풍 완치 가능, 바람 따윈 이제 무섭지 않다!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

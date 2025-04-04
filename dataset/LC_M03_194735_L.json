@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194735",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"일 안 풀릴 땐 머리를 비워라\\\"",
+    "newsSubTitle": "나쁜 생각 땐 상황 더 악화 예일·하버드대서 실험",
+    "newsContent": "미국의 가수 밥 딜런의 노래 중에는 \\\"두 번 다시 생각하지 말아라. 그냥 있어도 괜찮아.(Don't Think Twice: It's all right)\\\"라는 노래가 있다.\n연초에는 이 노래 제목처럼 과거를 돌이키기보다는 차라리 아무 생각 안 하거나 전향적으로 생활하면 정신건강에 좋다는 것이 심리학자들의 연구 결과다.\n뉴욕 타임스 최근호에 따르면 예일대 수전 놀런-혹스머 심리학 교수는 기분이 우울하거나, 일이 잘 안 될 때 과거를 회상하거나 사고를 분석하는 게 되레 상황을 해롭게 한다는 것이다.\n실험은 약간 우울증이 있는 대학생들을 두 집단으로 나누어 한 집단은 자신에 대해 8분간 생각하게 하고, 다른 집단은 하늘을 떠가는 구름을 8분간 연상하게 했다.\n그 결과 자신에 대하여 생각한 집단은 더 우울해진 반면, 다른 집단은 기분이 나아졌다는 결론이 나왔다.\n하버드대 리처드 맥널리 심리학 교수의 연구도 비슷한 결과를 보인다.\n그의 연구에 따르면 9.11 테러, 대형 화재와 같은 참사를 당한 사람들이나 그 참사 현장에서 일했던 소방수.자원봉사자들에게 그때 사건을 다시 브리핑하면 오히려 그들을 우울해졌다.\n봉사를 할 때도 그냥 그런 기회를 가진 사람이, 왜 내가 그런 봉사를 하는가를 깊게 생각하는 사람보다 더 긍정적이고 친절한 봉사를 한다는 연구 결과도 있다.\n성균관대 심리학과 이정모 교수는 \\\"타인을 위하여 봉사하는 것을 내신 성적 점수를 따기 위해서나 시간 낭비라고 생각하는 우리나라 학생들은 생각을 바꿀 필요가 있다\\\"며 \\\"우리 자신에 대해 불만이 있을 때도 심각하게 반추나 분석하는 것은 좋지 않다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미국의 가수 밥 딜런의 노래 중에는 \\\"두 번 다시 생각하지 말아라. 그냥 있어도 괜찮아.(Don't Think Twice: It's all right)\\\"라는 노래가 있다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "연초에는 이 노래 제목처럼 과거를 돌이키기보다는 차라리 아무 생각 안 하거나 전향적으로 생활하면 정신건강에 좋다는 것이 심리학자들의 연구 결과다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뉴욕 타임스 최근호에 따르면 예일대 수전 놀런-혹스머 심리학 교수는 기분이 우울하거나, 일이 잘 안 될 때 과거를 회상하거나 사고를 분석하는 게 되레 상황을 해롭게 한다는 것이다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "실험은 약간 우울증이 있는 대학생들을 두 집단으로 나누어 한 집단은 자신에 대해 8분간 생각하게 하고, 다른 집단은 하늘을 떠가는 구름을 8분간 연상하게 했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 결과 자신에 대하여 생각한 집단은 더 우울해진 반면, 다른 집단은 기분이 나아졌다는 결론이 나왔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하버드대 리처드 맥널리 심리학 교수의 연구도 비슷한 결과를 보인다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그의 연구에 따르면 9.11 테러, 대형 화재와 같은 참사를 당한 사람들이나 그 참사 현장에서 일했던 소방수.자원봉사자들에게 그때 사건을 다시 브리핑하면 오히려 그들을 우울해졌다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "봉사를 할 때도 그냥 그런 기회를 가진 사람이, 왜 내가 그런 봉사를 하는가를 깊게 생각하는 사람보다 더 긍정적이고 친절한 봉사를 한다는 연구 결과도 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "성균관대 심리학과 이정모 교수는 \\\"타인을 위하여 봉사하는 것을 내신 성적 점수를 따기 위해서나 시간 낭비라고 생각하는 우리나라 학생들은 생각을 바꿀 필요가 있다\\\"며 \\\"우리 자신에 대해 불만이 있을 때도 심각하게 반추나 분석하는 것은 좋지 않다\\\"고 말했다.",
+        "sentenceSize": 146
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "돌아보고 반성하는 것이 언제나 옳진 않을 수 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

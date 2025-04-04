@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193491",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[신간] '유전자 시대의 적들'",
+    "newsSubTitle": "유전자 지도 둘러싼 ‘추한 게임’",
+    "newsContent": "유전자 시대의 적들 원제 The Common Thread, 존 설스턴·조지나 페리 지음 유은실 옮김, 사이언스북스, 432쪽, 1만8000원 인간 유전자야말로 우리시대 들어 막 뚜껑이 열리고 있는 판도라 상자이지만, 이 책은 그걸 둘러싼 복마전을 추적했다.\n그 복마전은 정치적 음모와 윤리적 착오로 복잡할 뿐더러 엽기적이기조차 하다는 것이 골자다.\n미국 등 18개 국가의 다국적 컨소시엄이 달려들어 추진해온 인간 유전체 계획(HGP)은 4년 전 빌 클린턴 미국 대통령과 토니 블레어 영국총리에 의해 공표됐지만 알고보니 속은 복잡했다.\n핵심은 정치적이고 윤리적인 사안들. ‘엄청 돈이 되는’ 프로젝트인지라 적지않은 과학자들이 유전정보의 특허를 주장했고, 이런 분위기에 미국 등 몇몇 나라와 셀레라 지노믹스 같은 기업들이 편승하면서 하마터면 유전자 지도는 독점의 수렁에 빠질 뻔했다는 것이다.\n이를 둘러싼 암투과정이 이 프로젝트에 참여했던 과학자의 입을 빌려 고발된다.\n고발자는 영국 쪽 연구를 주도했던 인물로 2002년에 노벨상을 수상한 존 설스턴. 저술에 함께 참여한 이는 과학저술 전문가 조지나 페리다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유전자 시대의 적들 원제 The Common Thread, 존 설스턴·조지나 페리 지음 유은실 옮김, 사이언스북스, 432쪽, 1만8000원 인간 유전자야말로 우리시대 들어 막 뚜껑이 열리고 있는 판도라 상자이지만, 이 책은 그걸 둘러싼 복마전을 추적했다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그 복마전은 정치적 음모와 윤리적 착오로 복잡할 뿐더러 엽기적이기조차 하다는 것이 골자다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "미국 등 18개 국가의 다국적 컨소시엄이 달려들어 추진해온 인간 유전체 계획(HGP)은 4년 전 빌 클린턴 미국 대통령과 토니 블레어 영국총리에 의해 공표됐지만 알고보니 속은 복잡했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "핵심은 정치적이고 윤리적인 사안들. ‘엄청 돈이 되는’ 프로젝트인지라 적지않은 과학자들이 유전정보의 특허를 주장했고, 이런 분위기에 미국 등 몇몇 나라와 셀레라 지노믹스 같은 기업들이 편승하면서 하마터면 유전자 지도는 독점의 수렁에 빠질 뻔했다는 것이다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이를 둘러싼 암투과정이 이 프로젝트에 참여했던 과학자의 입을 빌려 고발된다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "고발자는 영국 쪽 연구를 주도했던 인물로 2002년에 노벨상을 수상한 존 설스턴. 저술에 함께 참여한 이는 과학저술 전문가 조지나 페리다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'유전자 시대의 적들', 유전자 지도 둘러싼 인간들의 욕망을 '노빠꾸' 고발하다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

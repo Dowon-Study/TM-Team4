@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199087",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "쎄레브렉스 ‘심혈관계 위험’ 오해 풀어",
+    "newsSubTitle": "이부프로펜·나프록센 대비 위장관계 부작용은 오히려 적어",
+    "newsContent": "[김진구 기자] NSAID 계열 약물인 쎄레브렉스가 심혈관계 위험을 높인다는 오랜 편견을 불식시켰다.\n화이자는 지난 13일 미국 뉴올리언스에서 열린 미국심장협회(AHA) 학술대회에서 이같은 연구결과가 발표됐다고 21일 전했다.\n골관절염 또는 류머티스 관절염 환자는 증상을 억제하기 위해 매일 항염제를 복용한다.\n이 가운데 비스테로이드성 항염증 약물(NSAID)의 경우 지난 2004년 바이옥스(성분명 로페콕시브)가 심혈관계 부작용 문제로 시장에서 철수된 후 끊임없이 안전성에 대한 의문이 제기됐다.\n그동안 NSAID 대신 이부프로펜 또는 나프록센을 주로 사용한 이유다.\n그러나 이번에 발표된 연구에선 NSAID 계열 약물인 쎄레브렉스가 이부프로펜 또는 나프록센과 비교해 심혈관계 위험이 비슷한 것으로 나타났다.\n오히려 위장관계 위험은 낮은 것으로 나타났다.\n연구를 담당한 클리브랜드 클리닉 순환기내과 스티브 니센(Steve Nissen) 박사에 따르면 PRECISION 임상 연구는 나프록센이 세레콕시브를 포함한 다른 NSAID들 대비 더 나은 심혈관 결과를 나타낼 것이라는 그간의 추정을 반박한다.\n다만, 처방 약물의 장기간 사용에 대해 알아보기 위해 설계된 연구이기 때문에 저용량 NSAID를 불규칙하게 사용한 경우의 안전성 결과는 추론할 수 없다.\n화이자 프레다 루이스홀(Freda Lewis-Hall) 최고의학책임자는 “NSAID는 전 세계 수백만 관절염 환자에게 중요한 치료 옵션”이라며 “이번 연구 결과는 만성 관절염 증상의 장기적 치료에 사용되는 쎄레브렉스의 심혈관계 및 위장관계 안전성을 강조하고 있다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] NSAID 계열 약물인 쎄레브렉스가 심혈관계 위험을 높인다는 오랜 편견을 불식시켰다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "화이자는 지난 13일 미국 뉴올리언스에서 열린 미국심장협회(AHA) 학술대회에서 이같은 연구결과가 발표됐다고 21일 전했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "골관절염 또는 류머티스 관절염 환자는 증상을 억제하기 위해 매일 항염제를 복용한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 가운데 비스테로이드성 항염증 약물(NSAID)의 경우 지난 2004년 바이옥스(성분명 로페콕시브)가 심혈관계 부작용 문제로 시장에서 철수된 후 끊임없이 안전성에 대한 의문이 제기됐다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그동안 NSAID 대신 이부프로펜 또는 나프록센을 주로 사용한 이유다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 이번에 발표된 연구에선 NSAID 계열 약물인 쎄레브렉스가 이부프로펜 또는 나프록센과 비교해 심혈관계 위험이 비슷한 것으로 나타났다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오히려 위장관계 위험은 낮은 것으로 나타났다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구를 담당한 클리브랜드 클리닉 순환기내과 스티브 니센(Steve Nissen) 박사에 따르면 PRECISION 임상 연구는 나프록센이 세레콕시브를 포함한 다른 NSAID들 대비 더 나은 심혈관 결과를 나타낼 것이라는 그간의 추정을 반박한다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다만, 처방 약물의 장기간 사용에 대해 알아보기 위해 설계된 연구이기 때문에 저용량 NSAID를 불규칙하게 사용한 경우의 안전성 결과는 추론할 수 없다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "화이자 프레다 루이스홀(Freda Lewis-Hall) 최고의학책임자는 “NSAID는 전 세계 수백만 관절염 환자에게 중요한 치료 옵션”이라며 “이번 연구 결과는 만성 관절염 증상의 장기적 치료에 사용되는 쎄레브렉스의 심혈관계 및 위장관계 안전성을 강조하고 있다”고 말했다.",
+        "sentenceSize": 153
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "관절염 환자에게 중요한 치료제인 '이것'... 안전성은 과연",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

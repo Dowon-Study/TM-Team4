@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195778",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "분당서울대병원 '노인암 다학제' 진료 호평",
+    "newsSubTitle": "노인 암환자만을 위한 국내 유일의 다학제 진료",
+    "newsContent": "분당서울대병원의 ‘노인암 다학제’ 진료가 호평받고 있다. ‘노인 암’에 특화된 다양한 진료과 전문의들이 한자리에서 환자를 진료하는 것으로, 노인 암환자 치료의 ‘적정성’ 제고에 큰 영향을 미칠 것으로 기대된다.\n27일 분당서울대병원에 따르면 위암, 대장암, 폐암, 식도암에서 노인 환자 비율은 각각 46%, 50%, 58%, 64%에 달한다.\n하지만 청 · 장년층의 암과 구분되는 노인 암의 특성을 고려한 치료는 제대로 이루어지지 않고 있는 실정. 분당서울대학교병원 혈액종양내과 김진원 교수는 “다학제 진료는 환자 중심의 치료를 목표로 하기 때문에, 다양한 질환을 가지고 있는 노인 암 환자 치료에 큰 도움이 된다”고 설명했다.\n다학제 진료란 서로 다른 진료과 전문의들이 동시에 한 진료실에 모여 한 명의 환자를 진료하는 것이다.\n다양한 의견을 모아 최상의 진단 및 치료계획을 도출하면서 치료 기간을 단축한다.\n환자의 입장에서는 질환에 대한 궁금증을 한 자리에서 모두 해소할 수 있는데다 진료비를 줄일 수 있다는 장점이 있다.\n실제 최근 분당서울대학교병원에서 대장암 수술을 받은 김순자 씨(가명·여 · 69세)는 노인병내과 김광일 교수의 추천으로 ‘노인암 다학제’ 진료를 받았다.\n김 씨의 치료에는 여덟 명의 전문의가 의견을 모았다.\n복강경 수술은 외과 의사가, 수술 후 항암 치료는 혈액종양내과 의사가, 암의 형태와 진행 상태에 대해서는 영상의학과 의사가 나섰다.\n김씨는 수술 후 일상생활 가능 여부에 대해 분당서울대병원이 개발한 ‘노인포괄평가’ 점수를 통해 합병증이 낮을 가능성이 높다는 판단을 받았고, 현재 수술 후 항암치료를 받고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "분당서울대병원의 ‘노인암 다학제’ 진료가 호평받고 있다. ‘노인 암’에 특화된 다양한 진료과 전문의들이 한자리에서 환자를 진료하는 것으로, 노인 암환자 치료의 ‘적정성’ 제고에 큰 영향을 미칠 것으로 기대된다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 분당서울대병원에 따르면 위암, 대장암, 폐암, 식도암에서 노인 환자 비율은 각각 46%, 50%, 58%, 64%에 달한다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 청 · 장년층의 암과 구분되는 노인 암의 특성을 고려한 치료는 제대로 이루어지지 않고 있는 실정. 분당서울대학교병원 혈액종양내과 김진원 교수는 “다학제 진료는 환자 중심의 치료를 목표로 하기 때문에, 다양한 질환을 가지고 있는 노인 암 환자 치료에 큰 도움이 된다”고 설명했다.",
+        "sentenceSize": 159
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다학제 진료란 서로 다른 진료과 전문의들이 동시에 한 진료실에 모여 한 명의 환자를 진료하는 것이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다양한 의견을 모아 최상의 진단 및 치료계획을 도출하면서 치료 기간을 단축한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "환자의 입장에서는 질환에 대한 궁금증을 한 자리에서 모두 해소할 수 있는데다 진료비를 줄일 수 있다는 장점이 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "실제 최근 분당서울대학교병원에서 대장암 수술을 받은 김순자 씨(가명·여 · 69세)는 노인병내과 김광일 교수의 추천으로 ‘노인암 다학제’ 진료를 받았다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김 씨의 치료에는 여덟 명의 전문의가 의견을 모았다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "복강경 수술은 외과 의사가, 수술 후 항암 치료는 혈액종양내과 의사가, 암의 형태와 진행 상태에 대해서는 영상의학과 의사가 나섰다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "김씨는 수술 후 일상생활 가능 여부에 대해 분당서울대병원이 개발한 ‘노인포괄평가’ 점수를 통해 합병증이 낮을 가능성이 높다는 판단을 받았고, 현재 수술 후 항암치료를 받고 있다.",
+        "sentenceSize": 99
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "분당 서울대병원에서 실시하는 `다학제 진료`… 효과 좋은 환자는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

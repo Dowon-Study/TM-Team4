@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198480",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "동·서양 수학 비교 다룬 '구장산술 주비산경'",
+    "newsSubTitle": "",
+    "newsContent": "이 책은 동양 최고의 수학책과 천문학서 두 책을 번역하여 묶어 놓은 것이다.\n구장산술은 기원후 263년 위나라의 유휘가 주를 붙였고, 주비산경은 대략 3세기 인물로 추정되는 조상에 의해 편집됐다.\n구장이란 9개 장에 걸쳐 총 246개의 수학문제를 풀고 있다는 말이고, 주비는 주나라의 해시계를 가리키는 말. 그러고보면 산술이나 산경이란 계산에 관련된 책이라는 말이다.\n중국 고대의 교육커리큘럼은 기본적으로 예악사어서수(禮樂射御書數) 로 구성된 6예(藝) 였다.\n6예 가운데 마지막 항목이 바로 수(數) . 문제는 그 수에 대한 구체적 이미지를 재구성해 내기가 어려운 실정에서 이번 신간은 반가운 일이다.\n동양의 수학이란 주역의 점치기 정도로 알고 있는 사람들을 위해서라도 이 책의 가치는 충분하다.\n그런데 이 책은 일본은 물론 서양에서도 20여년 전에 이미 번역본이 나온 책이다.\n전통 한학을 공부한 전공자가 아닌 사회학자인 저자(차종천.성균관대 교수) 가 이 책을 번역한 계기도 영국 니덤연구소 체험이 바탕이 되었으며, 영역본을 참고했음을 밝히고 있다.\n동양학이나 과학사 전공자들의 분발을 촉구하는 대목이기도 하다.\n특히 주목해서 봐야할 점은 제시된 수학문제들이 모두 실생활과 밀접하게 관련되어 있다는 점이다.\n밭의 길이나 넓이를 재는 것이랄지 곡식의 교환비율을 이용해서 교환량을 계산하는 것등은 동양적 지평 속에는 '연역적 사고' 가 희귀하다는 점이다.\n동서의 수학의 길은 근본적으로 달랐을까?",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이 책은 동양 최고의 수학책과 천문학서 두 책을 번역하여 묶어 놓은 것이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "구장산술은 기원후 263년 위나라의 유휘가 주를 붙였고, 주비산경은 대략 3세기 인물로 추정되는 조상에 의해 편집됐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "구장이란 9개 장에 걸쳐 총 246개의 수학문제를 풀고 있다는 말이고, 주비는 주나라의 해시계를 가리키는 말. 그러고보면 산술이나 산경이란 계산에 관련된 책이라는 말이다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "중국 고대의 교육커리큘럼은 기본적으로 예악사어서수(禮樂射御書數) 로 구성된 6예(藝) 였다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "6예 가운데 마지막 항목이 바로 수(數) . 문제는 그 수에 대한 구체적 이미지를 재구성해 내기가 어려운 실정에서 이번 신간은 반가운 일이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "동양의 수학이란 주역의 점치기 정도로 알고 있는 사람들을 위해서라도 이 책의 가치는 충분하다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그런데 이 책은 일본은 물론 서양에서도 20여년 전에 이미 번역본이 나온 책이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "전통 한학을 공부한 전공자가 아닌 사회학자인 저자(차종천.성균관대 교수) 가 이 책을 번역한 계기도 영국 니덤연구소 체험이 바탕이 되었으며, 영역본을 참고했음을 밝히고 있다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "동양학이나 과학사 전공자들의 분발을 촉구하는 대목이기도 하다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "특히 주목해서 봐야할 점은 제시된 수학문제들이 모두 실생활과 밀접하게 관련되어 있다는 점이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "밭의 길이나 넓이를 재는 것이랄지 곡식의 교환비율을 이용해서 교환량을 계산하는 것등은 동양적 지평 속에는 '연역적 사고' 가 희귀하다는 점이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "동서의 수학의 길은 근본적으로 달랐을까?",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신간 <구장산술 주비산경>... 동양 최고의 수학책과 '이 책' 두 개를 묶어 놓은 책",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

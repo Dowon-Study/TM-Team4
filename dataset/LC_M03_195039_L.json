@@ -1,0 +1,231 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195039",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "소리없는 암살자 '췌장암', 이걸로 조기에 찾는다…정확도 94%",
+    "newsSubTitle": "",
+    "newsContent": "복통, 식욕부진, 체중감소…. 위장장애 증상과 뚜렷이 구분되지 않아 조기 진단이 어렵고 수술도 까다로운 췌장암. 전체 암 중 3%에 불과하지만 생존율은 극히 낮아 '소리 없는 암살자'란 별명을 가진 췌장암을 조기에 진단하는 방법이 고안됐다.\n14일 헬스데이뉴스 등에 따르면 스페인 국립암연구소(CNIO)와 유럽 분자생물학연구소는 분변 속의 특정 세균 구성을 보면 췌장암을 진단할 수 있다는 연구 결과를 발표했다.\n이 연구 결과는 영국 소화기내과 학회(British Society of Gastroenterology) 학술지 '위장관'(Gut) 최신호에 게재됐다.\n췌장은 간(肝) 아래쪽, 위장과 대장에 가까운 곳에 있으며, 길이는 15㎝가량이다.\n소화 효소를 분비하고 혈당을 조절하는 인슐린과 글루카곤 호르몬을 분비한다.\n위·대장에 가려져있다보니 복부 초음파로도 암을 찾아내기 어렵다.\nCT검사를 해야 잡아낸다.\n초기에 자각할만한 증상이 없다는 점도 조기 진단을 어렵게 한다.\n췌장암은 진단이 어려워 진단되면 이미 말기인 경우가 적지 않다.\n이 때문에 환자의 1년 이상 생존율은 25%, 10년 생존율은 5%에 불과하다.\n한국인이 많이 걸리는 주요 암 중 10위 안에 든다.\n의학계 곳곳에선 췌장암을 조기발견 하기 위한 연구를 진행해왔다.\n이번에 CNIO 등 연구진이 개발한 진단법은 췌장암 환자의 분변에 있는 박테리아를 분석하는 방법이다.\n분변속 27종의 박테리아를 분석해 84%의 정확도로 진단해낼 수 있다.\n여기에 기존 혈액검사를 통해 췌장암 진단에 사용되고 있는 췌장암 표지 단백질(CA19-9)을 추가하면 진단 정확도가 94%까지 올라간다.\n스페인의 췌장암 환자 57명(췌장암 초기 25명, 말기 32명), 만성 췌장염 환자 29명, 건강한 사람 50명(대조군)으로부터 분변 샘플을 채취해 분석한 결과, 가장 일반적인 형태의 췌장암인 '췌장 도관 선암종' 환자의 분변은 건강한 사람의 분변과 확연히 다른 세균 구성 특징을 지니고 있었다.\n췌장암 환자에게선 '메타노브레비박터스미티' '푸소박테륨누클레아툼' '알로스카르도비아옴니콜렌스' '베일로넬라아티피카' '박테로이데스 피네골디' 등 5종류의 박테리아가 많이 검출됐다.\n반면 '파에칼리박테륨프라우스니치' '박테로이데스 코프로콜라' '비피도박테륨비피둠' '롬보우치아티모넨시스' 등 4종류의 박테리아는 거의 없었다.\n연구팀은 췌장암 환자의 분변 세균 구성이 병기와 무관하게 나타났다고 덧붙였다.\n연구팀이 독일의 췌장암 환자 44명과 건강한 사람 32명을 대상으로 추가 실험을 진행한 결과 이 분변 검사법의 진단 정확도가 확인됐다.\n특히 이 분변 세균 진단법의 경우 인체에 고통을 주지 않는 '비침습적 검사법'인 데다가, 신속하고 비교적 비용이 들지 않는다는 것이 장점이다.\n윌리엄 캔스 미국암학회(ACS) 연구실장은 이번 연구 결과에 대해 \\\"매우 독특하고 획기적 발견\\\"이라고 평가했다.\n연구팀은 이 분변 세균 검사법에 대한 특허도 신청한 상태다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 23,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "복통, 식욕부진, 체중감소…. 위장장애 증상과 뚜렷이 구분되지 않아 조기 진단이 어렵고 수술도 까다로운 췌장암. 전체 암 중 3%에 불과하지만 생존율은 극히 낮아 '소리 없는 암살자'란 별명을 가진 췌장암을 조기에 진단하는 방법이 고안됐다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "14일 헬스데이뉴스 등에 따르면 스페인 국립암연구소(CNIO)와 유럽 분자생물학연구소는 분변 속의 특정 세균 구성을 보면 췌장암을 진단할 수 있다는 연구 결과를 발표했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 연구 결과는 영국 소화기내과 학회(British Society of Gastroenterology) 학술지 '위장관'(Gut) 최신호에 게재됐다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "췌장은 간(肝) 아래쪽, 위장과 대장에 가까운 곳에 있으며, 길이는 15㎝가량이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소화 효소를 분비하고 혈당을 조절하는 인슐린과 글루카곤 호르몬을 분비한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "위·대장에 가려져있다보니 복부 초음파로도 암을 찾아내기 어렵다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "CT검사를 해야 잡아낸다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "초기에 자각할만한 증상이 없다는 점도 조기 진단을 어렵게 한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "췌장암은 진단이 어려워 진단되면 이미 말기인 경우가 적지 않다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 때문에 환자의 1년 이상 생존율은 25%, 10년 생존율은 5%에 불과하다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "한국인이 많이 걸리는 주요 암 중 10위 안에 든다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "의학계 곳곳에선 췌장암을 조기발견 하기 위한 연구를 진행해왔다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이번에 CNIO 등 연구진이 개발한 진단법은 췌장암 환자의 분변에 있는 박테리아를 분석하는 방법이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "분변속 27종의 박테리아를 분석해 84%의 정확도로 진단해낼 수 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "여기에 기존 혈액검사를 통해 췌장암 진단에 사용되고 있는 췌장암 표지 단백질(CA19-9)을 추가하면 진단 정확도가 94%까지 올라간다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "스페인의 췌장암 환자 57명(췌장암 초기 25명, 말기 32명), 만성 췌장염 환자 29명, 건강한 사람 50명(대조군)으로부터 분변 샘플을 채취해 분석한 결과, 가장 일반적인 형태의 췌장암인 '췌장 도관 선암종' 환자의 분변은 건강한 사람의 분변과 확연히 다른 세균 구성 특징을 지니고 있었다.",
+        "sentenceSize": 165
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "췌장암 환자에게선 '메타노브레비박터스미티' '푸소박테륨누클레아툼' '알로스카르도비아옴니콜렌스' '베일로넬라아티피카' '박테로이데스 피네골디' 등 5종류의 박테리아가 많이 검출됐다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "반면 '파에칼리박테륨프라우스니치' '박테로이데스 코프로콜라' '비피도박테륨비피둠' '롬보우치아티모넨시스' 등 4종류의 박테리아는 거의 없었다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "연구팀은 췌장암 환자의 분변 세균 구성이 병기와 무관하게 나타났다고 덧붙였다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "연구팀이 독일의 췌장암 환자 44명과 건강한 사람 32명을 대상으로 추가 실험을 진행한 결과 이 분변 검사법의 진단 정확도가 확인됐다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "특히 이 분변 세균 진단법의 경우 인체에 고통을 주지 않는 '비침습적 검사법'인 데다가, 신속하고 비교적 비용이 들지 않는다는 것이 장점이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "윌리엄 캔스 미국암학회(ACS) 연구실장은 이번 연구 결과에 대해 \\\"매우 독특하고 획기적 발견\\\"이라고 평가했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "연구팀은 이 분변 세균 검사법에 대한 특허도 신청한 상태다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "조기 진단 어렵다는 췌장암, 독특하고 획기적인 검사 방법 나왔다는데... ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197267",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[생활·실용] 올림픽 금메달리스트",
+    "newsSubTitle": "배드민턴 따라해봐요",
+    "newsContent": "올림픽 금메달리스트 방수현의 배드민턴 교본 방수현 지음, 예가, 276쪽, 1만원 좁은 장소에서 누구나 손쉽게 즐길 수 있는 배드민턴. 2004 아테네올림픽에서 남자복식 금메달 1개 외에 은메달 2개와 동메달 1개를 딸 정도로 효자종목이기도 하다.\n국내 동호인 1000만명을 헤아리는 배드민턴을 체계적으로 배울 수 있는 교본이 나왔다.\n1996년 아틀랜타 올림픽 여자단식 금메달리스트 방수현(32)이 20년 선수 경험을 바탕으로 썼다.\n방씨가 직접 시범을 보인 사진 100여컷과 함께 입문자부터 중급 이상 선수를 위한 훈련 요령을 담았다.\n방씨를 지도했던 대교눈높이의 서명원 감독이 감수했다.\n대표팀 시절 각종 복지시설 지원에 앞장서 ‘셔틀콕 천사’라는 별명을 얻었던 방씨는 원래 꿈이 수녀였다.\n96년 올림픽 결승에서 금메달이 확정되던 순간 코트에 무릎을 꿇고 성호를 긋던 모습은 아직도 팬들의 뇌리에 남아 있다.\n96년 재미 신경외과 의사 신헌균(35)씨와 결혼한 뒤 미국으로 건너가 현재 댈라스에서 동호인 클럽을 지도하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "올림픽 금메달리스트 방수현의 배드민턴 교본 방수현 지음, 예가, 276쪽, 1만원 좁은 장소에서 누구나 손쉽게 즐길 수 있는 배드민턴. 2004 아테네올림픽에서 남자복식 금메달 1개 외에 은메달 2개와 동메달 1개를 딸 정도로 효자종목이기도 하다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국내 동호인 1000만명을 헤아리는 배드민턴을 체계적으로 배울 수 있는 교본이 나왔다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1996년 아틀랜타 올림픽 여자단식 금메달리스트 방수현(32)이 20년 선수 경험을 바탕으로 썼다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "방씨가 직접 시범을 보인 사진 100여컷과 함께 입문자부터 중급 이상 선수를 위한 훈련 요령을 담았다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방씨를 지도했던 대교눈높이의 서명원 감독이 감수했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "대표팀 시절 각종 복지시설 지원에 앞장서 ‘셔틀콕 천사’라는 별명을 얻었던 방씨는 원래 꿈이 수녀였다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "96년 올림픽 결승에서 금메달이 확정되던 순간 코트에 무릎을 꿇고 성호를 긋던 모습은 아직도 팬들의 뇌리에 남아 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "96년 재미 신경외과 의사 신헌균(35)씨와 결혼한 뒤 미국으로 건너가 현재 댈라스에서 동호인 클럽을 지도하고 있다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "따끔한 채찍을 휘두르듯 금빛 스매쉬를 내리 꽂던 방수현 선수... 배드민턴 교본 출간해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

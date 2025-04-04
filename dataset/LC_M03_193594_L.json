@@ -1,0 +1,267 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193594",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 잠시도 참기 어려운 소변, 과민성 방광 의심해봐야",
+    "newsSubTitle": "약물·물리치료, 방광재활훈련 잘못된 생활습관 개선 병행 예민해진 방광의 기능 회복을",
+    "newsContent": "기고 심봉석 이대목동병원 비뇨의학과 교수 소변은 자연스러운 생리 현상이다.\n오늘 하루 소변을 언제 어디서 얼마만큼 봤는지 기억하지 못한다.\n하지만 소변을 배출하는 과정은 대단히 복잡하고 섬세하다.\n소변은 신장에서 만들어져 방광에 저장됐다가 요도를 통해 배출된다.\n방광은 소변이 차는 동안 서서히 늘어나 압력을 느끼지 않도록 한다.\n대개 400㏄ 정도의 소변이 방광에 모이면 요의를 대뇌의 배뇨 중추에 전달한다.\n이후 뇌는 상황에 따라 방광이 수축해 요도 괄약근이 열리면서 소변을 배출하고, 그렇지 않으면 방광의 근육과 요도를 둘러싸고 있는 괄약근을 제어해 소변을 참는다.\n그런데 배뇨의 과정에서 다양한 문제가 생길 수 있다.\n전립샘이 커지면 소변을 보기 힘들고 요도 괄약근이 약해지면 소변이 새는 요실금이 생긴다.\n과민성 방광은 소변이 방광에 차는 과정에서 문제가 생긴 것이다.\n방광의 감각이 예민해져 소변이 조금만 차도 급박하게 요의를 느낀다.\n시도 때도 없이 소변을 자주 보거나 화장실에서 미처 준비도 하기 전 소변을 참지 못해 소변이 새는 낭패를 겪는다.\n수시로 화장실을 급하게 들락거리니 업무 능력도 떨어진다.\n밤에도 자주 화장실을 찾아 숙면을 취하기 어려워 몸이 피곤해진다.\n자존감도 떨어진다.\n나만 왜 그럴까 하는 우울증과 수치심에 사회생활에도 지장이 온다.\n언제 소변이 마려울지 모른다는 불안감으로 성관계를 기피해 부부 생활에도 지장을 준다.\n과민성 방광의 발병 원인은 명확하지 않지만 스트레스·운동부족·비만·음주·흡연·변비 등이 위험 요인이다.\n30·40대 여성에게 흔하다.\n남성은 50대 이후 전립샘비대증의 2차 증상으로 동반되는 경우가 많다.\n치료는 약물요법, 물리치료와 방광 재활훈련을 병행해 방광의 기능을 회복하면서 잘못된 생활습관을 개선한다.\n방광·요도를 자극해 소변량을 늘리는 카페인·탄산음료의 섭취를 삼간다.\n담배는 방광에 허혈성 염증을 일으킬 수 있어 반드시 금연한다.\n물은 한번에 많이 마시지 말고 조금씩 자주 마신다.\n단 야간 빈뇨를 줄이기 위해 밤에는 수분 섭취를 최대한 피한다.\n평소 아랫배를 따뜻하게 찜질하면 방광·골반 근육의 긴장을 풀어줘 과민성 방광 증상을 완화할 수 있다.\n또 마그네슘·아연·비타민E 등을 비롯해 호박씨에 풍부한 폴리페놀과 콩의 이소플라본 성분을 먹으면 방광에 진정 효과가 있어 도움이 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 27,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "기고 심봉석 이대목동병원 비뇨의학과 교수 소변은 자연스러운 생리 현상이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘 하루 소변을 언제 어디서 얼마만큼 봤는지 기억하지 못한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 소변을 배출하는 과정은 대단히 복잡하고 섬세하다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "소변은 신장에서 만들어져 방광에 저장됐다가 요도를 통해 배출된다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방광은 소변이 차는 동안 서서히 늘어나 압력을 느끼지 않도록 한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "대개 400㏄ 정도의 소변이 방광에 모이면 요의를 대뇌의 배뇨 중추에 전달한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 뇌는 상황에 따라 방광이 수축해 요도 괄약근이 열리면서 소변을 배출하고, 그렇지 않으면 방광의 근육과 요도를 둘러싸고 있는 괄약근을 제어해 소변을 참는다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그런데 배뇨의 과정에서 다양한 문제가 생길 수 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "전립샘이 커지면 소변을 보기 힘들고 요도 괄약근이 약해지면 소변이 새는 요실금이 생긴다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "과민성 방광은 소변이 방광에 차는 과정에서 문제가 생긴 것이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "방광의 감각이 예민해져 소변이 조금만 차도 급박하게 요의를 느낀다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "시도 때도 없이 소변을 자주 보거나 화장실에서 미처 준비도 하기 전 소변을 참지 못해 소변이 새는 낭패를 겪는다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "수시로 화장실을 급하게 들락거리니 업무 능력도 떨어진다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "밤에도 자주 화장실을 찾아 숙면을 취하기 어려워 몸이 피곤해진다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "자존감도 떨어진다.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "나만 왜 그럴까 하는 우울증과 수치심에 사회생활에도 지장이 온다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "언제 소변이 마려울지 모른다는 불안감으로 성관계를 기피해 부부 생활에도 지장을 준다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "과민성 방광의 발병 원인은 명확하지 않지만 스트레스·운동부족·비만·음주·흡연·변비 등이 위험 요인이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "30·40대 여성에게 흔하다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "남성은 50대 이후 전립샘비대증의 2차 증상으로 동반되는 경우가 많다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "치료는 약물요법, 물리치료와 방광 재활훈련을 병행해 방광의 기능을 회복하면서 잘못된 생활습관을 개선한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "방광·요도를 자극해 소변량을 늘리는 카페인·탄산음료의 섭취를 삼간다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "담배는 방광에 허혈성 염증을 일으킬 수 있어 반드시 금연한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "물은 한번에 많이 마시지 말고 조금씩 자주 마신다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "단 야간 빈뇨를 줄이기 위해 밤에는 수분 섭취를 최대한 피한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "평소 아랫배를 따뜻하게 찜질하면 방광·골반 근육의 긴장을 풀어줘 과민성 방광 증상을 완화할 수 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "또 마그네슘·아연·비타민E 등을 비롯해 호박씨에 풍부한 폴리페놀과 콩의 이소플라본 성분을 먹으면 방광에 진정 효과가 있어 도움이 된다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "잠시도 참기 어려운 소변, 할많하않 과민성 방광 의심",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198028",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[짤막소식] 롯데월드 外",
+    "newsSubTitle": "",
+    "newsContent": "■ 롯데월드는 15일부터 5월 31일까지 가면축제를 연다. 이탈리아에서 직접 공수해온 수십 가지 가면들이 등장하는 ‘환타지 마스크 퍼레이드’, 세계 각국의 가면·탈 등을 한자리에서 볼 수 있는 ‘세계 가면 전시회’ 등이 열린다.\nwww.lotteworld.com, 02-411-2000. ■ 63씨월드는 4월 30일까지 개구리 특별전을 연다. 몸 전체가 알록달록한 무당개구리, 토마토처럼 화려한 빛깔을 가지고 있는 토마토개구리 등 10여 종 80마리가 전시된다.\n입장료 어른 1만2000원, 청소년 1만1000원, 어린이 1만원. www.63.co.kr, 02-789-5663. ■ 아침고요수목원은 5월 25일까지 ‘야생화의 보고, 백두·한라 야생화 전시회’를 연다. 백두산과 한라산의 희귀 야생화 약 300여 종을 만나볼 수 있다.\nwww.morningcalm.co.kr, 1544-6703 ■ ‘스포츠 월드’ 김산환 기자가 남미 여행에세이 『라틴홀릭』을 펴냈다.\n4개월간 과테말라 안티과, 마야 유적, 쿠바 등을 돌아본 기록을 편지글 형식에 담았다.\n랜덤하우스 간, 344쪽, 1만3000원. ■ 온라인투어는 중국 상하이·항저우·쑤저우 등을 돌아보는 4일짜리 상품을 내놨다.\n상하이 임시정부청사와 동방명주탑, 항저우의 서호, 동방문화원 등을 둘러보는 일정. 대한항공을 이용하며 숙박과 식사, 관광지 입장료, 유류할증료 등을 포함해 22만9000원부터. www.onlinetour.co.kr, 02-3705-8110.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "■ 롯데월드는 15일부터 5월 31일까지 가면축제를 연다. 이탈리아에서 직접 공수해온 수십 가지 가면들이 등장하는 ‘환타지 마스크 퍼레이드’, 세계 각국의 가면·탈 등을 한자리에서 볼 수 있는 ‘세계 가면 전시회’ 등이 열린다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "www.lotteworld.com, 02-411-2000. ■ 63씨월드는 4월 30일까지 개구리 특별전을 연다. 몸 전체가 알록달록한 무당개구리, 토마토처럼 화려한 빛깔을 가지고 있는 토마토개구리 등 10여 종 80마리가 전시된다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "입장료 어른 1만2000원, 청소년 1만1000원, 어린이 1만원. www.63.co.kr, 02-789-5663. ■ 아침고요수목원은 5월 25일까지 ‘야생화의 보고, 백두·한라 야생화 전시회’를 연다. 백두산과 한라산의 희귀 야생화 약 300여 종을 만나볼 수 있다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "www.morningcalm.co.kr, 1544-6703 ■ ‘스포츠 월드’ 김산환 기자가 남미 여행에세이 『라틴홀릭』을 펴냈다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "4개월간 과테말라 안티과, 마야 유적, 쿠바 등을 돌아본 기록을 편지글 형식에 담았다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "랜덤하우스 간, 344쪽, 1만3000원. ■ 온라인투어는 중국 상하이·항저우·쑤저우 등을 돌아보는 4일짜리 상품을 내놨다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "상하이 임시정부청사와 동방명주탑, 항저우의 서호, 동방문화원 등을 둘러보는 일정. 대한항공을 이용하며 숙박과 식사, 관광지 입장료, 유류할증료 등을 포함해 22만9000원부터. www.onlinetour.co.kr, 02-3705-8110.",
+        "sentenceSize": 134
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "5월 31일까지 이곳에서 '세계 가면 전시회' 열린다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

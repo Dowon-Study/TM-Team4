@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196465",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "희귀·난치병 지원 늘렸지만 …",
+    "newsSubTitle": "건보 적용 안 되는 검사 많아 간병 서비스 지원도 태부족",
+    "newsContent": "희귀.난치성 질환에 대한 정부의 의료비 지원은 지난해부터 크게 늘어났다.\n그러나 건강보험이 적용되지 않는 검사와 진료비가 많아 환자와 가족의 경제적 어려움은 여전하다.\n2004년에는 혈우병 등 11개 질환에 대해서만 진료비 지원이 됐으나 지난해 지원 대상 질환이 71종으로 늘었다.\n올해는 89종으로 확대됐다.\n또 지난달 21일부터 질병관리본부는 희귀.난치성 질환 센터 홈페이지(helpline.cdc.go.kr)에서 구체적 지원 내용과 신청 방법, 전문병원 검색 등의 서비스를 하고 있다.\n그러나 선진국에 비하면 이제 시작 단계라고 할 수 있다.\n질병 분류 체계가 다르긴 하지만 선진국에선 4000~6000개 희귀 질환에 의료비를 지원한다.\n특히 우리나라는 재활시설 이용이나 보조기구 구매, 간병 서비스 등 간접적인 의료비 지원은 전체 수요의 10%도 충족하지 못하는 실정이다.\n더 큰 문제는 희귀.난치성 질환에 대한 기초 조사가 부족해 지원 확대를 위한 중장기 계획을 세우기 힘들다는 것이다.\n대상자 선정 방식도 복잡해 환자 가족이 지원 사실 자체를 모르거나 신청을 해도 한 달 가까이 무작정 기다려야 하는 실정이다.\n전문가들은 \\\"희귀.난치성 질환은 질환별 환자 수는 적지만 전체 환자 수는 총 인구의 5~10%에 이르는 것으로 추정된다\\\"며 \\\"의료 기술의 발달로 상당수 질환은 경제적 부담만 덜어주면 충분히 치료 가능하다\\\"고 지적했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "희귀.난치성 질환에 대한 정부의 의료비 지원은 지난해부터 크게 늘어났다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그러나 건강보험이 적용되지 않는 검사와 진료비가 많아 환자와 가족의 경제적 어려움은 여전하다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "2004년에는 혈우병 등 11개 질환에 대해서만 진료비 지원이 됐으나 지난해 지원 대상 질환이 71종으로 늘었다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "올해는 89종으로 확대됐다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 지난달 21일부터 질병관리본부는 희귀.난치성 질환 센터 홈페이지(helpline.cdc.go.kr)에서 구체적 지원 내용과 신청 방법, 전문병원 검색 등의 서비스를 하고 있다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 선진국에 비하면 이제 시작 단계라고 할 수 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "질병 분류 체계가 다르긴 하지만 선진국에선 4000~6000개 희귀 질환에 의료비를 지원한다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히 우리나라는 재활시설 이용이나 보조기구 구매, 간병 서비스 등 간접적인 의료비 지원은 전체 수요의 10%도 충족하지 못하는 실정이다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "더 큰 문제는 희귀.난치성 질환에 대한 기초 조사가 부족해 지원 확대를 위한 중장기 계획을 세우기 힘들다는 것이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "대상자 선정 방식도 복잡해 환자 가족이 지원 사실 자체를 모르거나 신청을 해도 한 달 가까이 무작정 기다려야 하는 실정이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "전문가들은 \\\"희귀.난치성 질환은 질환별 환자 수는 적지만 전체 환자 수는 총 인구의 5~10%에 이르는 것으로 추정된다\\\"며 \\\"의료 기술의 발달로 상당수 질환은 경제적 부담만 덜어주면 충분히 치료 가능하다\\\"고 지적했다.",
+        "sentenceSize": 125
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "희귀, 난치성 질환 지원 늘렸다지만… 선진국에 비하면 형편없는 실정",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

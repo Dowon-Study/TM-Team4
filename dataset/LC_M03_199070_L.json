@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199070",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "'바나나맛 젤리' 제조·판매 금지…이유는?",
+    "newsSubTitle": "",
+    "newsContent": "'바나나맛 젤리'의 제조 및 판매가 금지된다.\n용기 디자인이 유사하는 이유에서다.\n빙그레는 31일 자사의 '바나나맛 우유'와 용기 디자인이 유사한 바나나맛 젤리 제품을 제조하고 판매한 다이식품, 한국금차도, 준 인터내셔널 등을 상대로 제기한 부정경쟁행위금지 가처분 소송에서 승소했다고 밝혔다.\n문제가 된 제품 포장지에는 빙그레의 바나나맛 우유 용기와 모양이 비슷한 그림이 그려져 있다.\n내용물인 젤리 모양도 바나나맛 우유와 유사하다.\n재판부는 바나나맛 젤리의 용기 모양이 1974년 출시된 빙그레 바나나맛 우유만의 고유한 디자인임을 인정했다.\n상품표지로서의 출처표시기능을 손상해 피해를 준 '부정경쟁행위'에 해당한다고 판시했다.\n빙그레 측은 \\\"앞으로도 자사의 브랜드 자산을 침해하는 어떠한 행위에 대해서도 단호하고 강력하게 대응해나갈 방침\\\"이라며 손해배상 청구 등 추가적인 민?형사상 조치도 검토 중이라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'바나나맛 젤리'의 제조 및 판매가 금지된다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "용기 디자인이 유사하는 이유에서다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "빙그레는 31일 자사의 '바나나맛 우유'와 용기 디자인이 유사한 바나나맛 젤리 제품을 제조하고 판매한 다이식품, 한국금차도, 준 인터내셔널 등을 상대로 제기한 부정경쟁행위금지 가처분 소송에서 승소했다고 밝혔다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "문제가 된 제품 포장지에는 빙그레의 바나나맛 우유 용기와 모양이 비슷한 그림이 그려져 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "내용물인 젤리 모양도 바나나맛 우유와 유사하다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "재판부는 바나나맛 젤리의 용기 모양이 1974년 출시된 빙그레 바나나맛 우유만의 고유한 디자인임을 인정했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "상품표지로서의 출처표시기능을 손상해 피해를 준 '부정경쟁행위'에 해당한다고 판시했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "빙그레 측은 \\\"앞으로도 자사의 브랜드 자산을 침해하는 어떠한 행위에 대해서도 단호하고 강력하게 대응해나갈 방침\\\"이라며 손해배상 청구 등 추가적인 민?형사상 조치도 검토 중이라고 밝혔다.",
+        "sentenceSize": 105
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "빙그레, '이 회사들' 상대로 제기한 소송에서 승소해 바나나맛 우유 지켰다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

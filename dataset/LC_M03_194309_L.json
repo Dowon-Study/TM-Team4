@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194309",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[알림] 애완견과 함께 달리세요",
+    "newsSubTitle": "5월 4일 드라이랜드 대회",
+    "newsContent": "대한독스포츠연맹(KFSS)과 중앙일보 문화사업국이 후원하는 ‘제6회 한국 드라이랜드 대회’가 5월 4일 미사리 조정공원에서 개최된다.\n드라이랜드는 캐니크로스, 카팅, 바이크저링 등을 통칭하는 용어. 캐니크로스는 ‘개와 함께 달린다’는 의미로 사람과 개가 한 팀이 돼 일정한 거리를 달려 순위를 가리는 스포츠. 유럽을 중심으로 50여 개 나라에서 즐기고 있다.\n카팅은 바퀴 달린 개썰매를 말하며, 바이크저링은 개를 자전거 앞에 묶은 뒤 사람과 개가 협력해 목표 지점까지 가는 경기다.\n◇참가자격=개의 경우 생후 6개월 이상이면 나이·크기·암수 제한이 없으며(난폭견이나 발정견은 제외), 사람은 개를 통제할 수 있는 나이면 가능하다.\n◇종목=캐니크로스는 ▶주니어(초등학교 6학년 이하) 남녀 각 500m ▶남성 소형·대형견/여성 소형·대형견 각 1.6㎞ ▶남성·여성 4.8㎞(대형견·소형견 구분 없음) ▶커플 1.6㎞(대형견·소형견 구분 없음)로 구분된다.\n바이크저링은 1dog 1.6 ㎞, 스쿠터링 1dog 1.6 ㎞, 카팅 2dog 1.1㎞ 등이다.\n◇이벤트=풍선 날리기 등 이벤트 게임과 참가자 전원에게 경품도 지급된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대한독스포츠연맹(KFSS)과 중앙일보 문화사업국이 후원하는 ‘제6회 한국 드라이랜드 대회’가 5월 4일 미사리 조정공원에서 개최된다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "드라이랜드는 캐니크로스, 카팅, 바이크저링 등을 통칭하는 용어. 캐니크로스는 ‘개와 함께 달린다’는 의미로 사람과 개가 한 팀이 돼 일정한 거리를 달려 순위를 가리는 스포츠. 유럽을 중심으로 50여 개 나라에서 즐기고 있다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "카팅은 바퀴 달린 개썰매를 말하며, 바이크저링은 개를 자전거 앞에 묶은 뒤 사람과 개가 협력해 목표 지점까지 가는 경기다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "◇참가자격=개의 경우 생후 6개월 이상이면 나이·크기·암수 제한이 없으며(난폭견이나 발정견은 제외), 사람은 개를 통제할 수 있는 나이면 가능하다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◇종목=캐니크로스는 ▶주니어(초등학교 6학년 이하) 남녀 각 500m ▶남성 소형·대형견/여성 소형·대형견 각 1.6㎞ ▶남성·여성 4.8㎞(대형견·소형견 구분 없음) ▶커플 1.6㎞(대형견·소형견 구분 없음)로 구분된다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "바이크저링은 1dog 1.6 ㎞, 스쿠터링 1dog 1.6 ㎞, 카팅 2dog 1.1㎞ 등이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "◇이벤트=풍선 날리기 등 이벤트 게임과 참가자 전원에게 경품도 지급된다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "반려견과 함께하는 스포츠 대회가 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

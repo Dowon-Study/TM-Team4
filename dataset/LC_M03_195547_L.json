@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195547",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[health&] 자극없는 간편한 코세척으로 황사·미세먼지 제거",
+    "newsSubTitle": "",
+    "newsContent": "에스에이치팜·네일메드 봄에는 중금속이 함유된 미세먼지와 황사가 건강을 위협한다.\n호흡기를 통해 우리 몸에 들어온 미세먼지는 폐에 흡착되어 각종 호흡기 질환을 유발할 수 있다.\n외출 후 간단한 비강세척만으로 환절기 코 건강을 관리하는 데 도움을 준다.\n비강 세척의 선두주자 네일메드가 한국의 에스에이치팜과 협약을 체결하고 한국의 코세척기 시장에 본격 진출했다.\n네일메드는 미국에서 네티팟으로 널리 알려진 비강세척용 의료기기 판매 선두 기업이다.\n네일메드는 세계 최초로 코세척기를 11개국에 특허 등록하고 현재 비강세척기 분야에서 가장 높은 점유율을 차지하고 있다.\n에스에이치팜은 지난 2월 이비인후과 개원의사회에서 홍보부스를 열고 네일메드 홍보를 시작했다.\n임상심포지움 세션에서는 이승훈 고려의대 교수가 부비동세척을 주제로 발표를 했다.\n북미 의사들이 가장 많이 추천하는 코세척기 ‘네일메드 사이너스린스’는 박테리아 제거에 탁월한 바이카보네이트 성분이 함유되어 있다.\n이 성분은 부비강 내부의 각종 염증을 일으키는 원인을 제거해 준다.\n정제된 물에 적합한 비율로 조합된 가루를 녹여 간편하게 코를 세척할 수 있는 제품이다.\n네일메드 사이너스린스는 자극이 없으며 약물을 사용하지 않고 증상을 완화시켜주기 때문에 임산부도 사용이 가능한 점이 장점이다.\n방창주 에스에이치팜의 상무는 “이번 학회 참여를 시작으로 의료인을 비롯한 일반인에게도 비강 세척의 중요성을 널리 알릴 계획”이라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "에스에이치팜·네일메드 봄에는 중금속이 함유된 미세먼지와 황사가 건강을 위협한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "호흡기를 통해 우리 몸에 들어온 미세먼지는 폐에 흡착되어 각종 호흡기 질환을 유발할 수 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "외출 후 간단한 비강세척만으로 환절기 코 건강을 관리하는 데 도움을 준다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "비강 세척의 선두주자 네일메드가 한국의 에스에이치팜과 협약을 체결하고 한국의 코세척기 시장에 본격 진출했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "네일메드는 미국에서 네티팟으로 널리 알려진 비강세척용 의료기기 판매 선두 기업이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "네일메드는 세계 최초로 코세척기를 11개국에 특허 등록하고 현재 비강세척기 분야에서 가장 높은 점유율을 차지하고 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "에스에이치팜은 지난 2월 이비인후과 개원의사회에서 홍보부스를 열고 네일메드 홍보를 시작했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "임상심포지움 세션에서는 이승훈 고려의대 교수가 부비동세척을 주제로 발표를 했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "북미 의사들이 가장 많이 추천하는 코세척기 ‘네일메드 사이너스린스’는 박테리아 제거에 탁월한 바이카보네이트 성분이 함유되어 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 성분은 부비강 내부의 각종 염증을 일으키는 원인을 제거해 준다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "정제된 물에 적합한 비율로 조합된 가루를 녹여 간편하게 코를 세척할 수 있는 제품이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "네일메드 사이너스린스는 자극이 없으며 약물을 사용하지 않고 증상을 완화시켜주기 때문에 임산부도 사용이 가능한 점이 장점이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "방창주 에스에이치팜의 상무는 “이번 학회 참여를 시작으로 의료인을 비롯한 일반인에게도 비강 세척의 중요성을 널리 알릴 계획”이라고 말했다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "자극 없이 콧속 황사, 미세먼지 제거 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196702",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[라이프 트렌드] 꿀벌·꽃가루가 만든 영양소 50여 가지",
+    "newsSubTitle": "종근당건강 '비폴렌' 할인 판매",
+    "newsContent": "비폴렌은 꿀벌이 자신의 타액과 미세한 꽃가루를 뭉쳐 만든 작은 덩어리다.\n20여 가지 아미노산과 비타민·미네랄·피토케미컬 등 50여 가지 생리활성 물질이 함유돼 있다.\n종근당건강 어스투어스(EARTH to US)의 꽃가루(화분) 제품인 ‘비폴렌’(사진)은 양봉 역사의 본고장이자 온화한 지중해성 기후의 스페인에서 채집한 비폴렌을 원료로 한다.\n화학적 공정 없이 원물을 그대로 채취한 뒤 자연에서 건조했다.\n색소나 첨가물이 포함되지 않은 100% 자연 원물 제품으로 꽃향까지 그대로 담았다.\n종근당건강 ‘비폴렌’은 기호에 따라 하루 한 번 5g 정도를 그대로 섭취하거나 꿀·요구르트·우유·샐러드에 곁들여 즐기면 된다.\n화학 첨가물이 들어가지 않은 자연식품이므로 장기 보관할 때는 냉장·냉동 보관한다.\n이달 23~30일 선착순 500명에게 ‘비폴렌’을 유통 최저가로 할인 판매한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "비폴렌은 꿀벌이 자신의 타액과 미세한 꽃가루를 뭉쳐 만든 작은 덩어리다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20여 가지 아미노산과 비타민·미네랄·피토케미컬 등 50여 가지 생리활성 물질이 함유돼 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "종근당건강 어스투어스(EARTH to US)의 꽃가루(화분) 제품인 ‘비폴렌’(사진)은 양봉 역사의 본고장이자 온화한 지중해성 기후의 스페인에서 채집한 비폴렌을 원료로 한다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "화학적 공정 없이 원물을 그대로 채취한 뒤 자연에서 건조했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "색소나 첨가물이 포함되지 않은 100% 자연 원물 제품으로 꽃향까지 그대로 담았다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "종근당건강 ‘비폴렌’은 기호에 따라 하루 한 번 5g 정도를 그대로 섭취하거나 꿀·요구르트·우유·샐러드에 곁들여 즐기면 된다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "화학 첨가물이 들어가지 않은 자연식품이므로 장기 보관할 때는 냉장·냉동 보관한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이달 23~30일 선착순 500명에게 ‘비폴렌’을 유통 최저가로 할인 판매한다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "꿀벌과 꽃가루가 만든 영양소 수십 가지 모두 비폴렌에… 전국 최저가 판매 중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

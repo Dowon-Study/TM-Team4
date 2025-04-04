@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194397",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[week&CoverStory] 즉석밥에 '추청쌀'만 쓰는 이유는",
+    "newsSubTitle": "",
+    "newsContent": "라면 국물과 단짝 친구, 고슬고슬한 즉석밥맛의 비결은 무엇일까.\nCJ의 ‘햇반’을 담당하는 박상면 부장과 함께 즉석밥 만드는 과정을 알아봤다.\n박 부장에 따르면 밥맛을 결정하는 데는 ▶쌀의 품종 ▶생산지의 기후와 토질 ▶쌀의 보관 상태 ▶밥 짓는 물과 방법 등이 중요하다.\n이 중 쌀의 품종은 ‘추청’을 고집한다.\n박 부장은 “한국 사람들은 찰기가 있으며 씹을 때 조직의 느낌이 살아있는 맛을 선호하는데 ‘추청’은 한국인의 입맛에 가장 잘 맞는다”고 설명했다.\nCJ 측은 제품을 처음 내놓았을 때 경기도 이천 지역의 쌀만 사용했다.\n지금은 경기·충청·전라 등 전국 각지의 농협과 계약 재배를 한다.\n벼를 수확한 뒤 연구원이 직접 산지로 찾아가 수분도 15% 안팎인 벼를 골라낸다.\n수확한 벼는 껍질째 10도 이하에서 저온 저장하고 밥 짓기 하루 전에 도정한다.\n밥을 만들 때는 세 번 이상 정수한 물로 쌀을 씻고 불린다.\n특수 제작된 솥에서 고온고압으로 밥을 지은 뒤 무균실에서 산소를 차단하는 특수 재질 용기로 밥을 포장한다.\n박 부장은 “진공 상태로 만들기 때문에 방부제가 안 들어가도 밥이 상하지 않는다”고 설명했다.\n이렇게 포장된 밥은 식으면서 조직끼리 서로 붙는다.\n이를 전자레인지에 넣고 짧은 시간에 강한 열을 가하면 조직이 팽창하면서 갓 지은 밥처럼 부풀어 오른다.\n이에 비해 뜨거운 물로 서서히 데우면 밥맛도 상대적으로 떨어진다.\n즉석밥 시장은 연간 1200억원 규모다.\n매년 10% 이상 성장하고 있다.\nCJ 외에도 오뚜기·농심·동원 등 4개사가 경쟁하고 있다.\n후발 주자인 오뚜기는 ‘카레밥’ ‘짜장밥’ 등 레토르트밥에 주력하고 있고, 농심은 ‘라밥’ 등으로 라면 시장의 우위를 활용하고 있다.\n농심 최호민 차장은 “즉석밥을 사는 사람들은 주로 혼자 사는 사람, 학생 등으로 라면 소비자와 겹친다. 매장에서 라면 소비자에게 즉석밥을 끼워주면서 제품 인지도를 넓히고 있다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "라면 국물과 단짝 친구, 고슬고슬한 즉석밥맛의 비결은 무엇일까.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "CJ의 ‘햇반’을 담당하는 박상면 부장과 함께 즉석밥 만드는 과정을 알아봤다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박 부장에 따르면 밥맛을 결정하는 데는 ▶쌀의 품종 ▶생산지의 기후와 토질 ▶쌀의 보관 상태 ▶밥 짓는 물과 방법 등이 중요하다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 중 쌀의 품종은 ‘추청’을 고집한다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박 부장은 “한국 사람들은 찰기가 있으며 씹을 때 조직의 느낌이 살아있는 맛을 선호하는데 ‘추청’은 한국인의 입맛에 가장 잘 맞는다”고 설명했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "CJ 측은 제품을 처음 내놓았을 때 경기도 이천 지역의 쌀만 사용했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지금은 경기·충청·전라 등 전국 각지의 농협과 계약 재배를 한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "벼를 수확한 뒤 연구원이 직접 산지로 찾아가 수분도 15% 안팎인 벼를 골라낸다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "수확한 벼는 껍질째 10도 이하에서 저온 저장하고 밥 짓기 하루 전에 도정한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "밥을 만들 때는 세 번 이상 정수한 물로 쌀을 씻고 불린다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "특수 제작된 솥에서 고온고압으로 밥을 지은 뒤 무균실에서 산소를 차단하는 특수 재질 용기로 밥을 포장한다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "박 부장은 “진공 상태로 만들기 때문에 방부제가 안 들어가도 밥이 상하지 않는다”고 설명했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이렇게 포장된 밥은 식으면서 조직끼리 서로 붙는다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이를 전자레인지에 넣고 짧은 시간에 강한 열을 가하면 조직이 팽창하면서 갓 지은 밥처럼 부풀어 오른다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "이에 비해 뜨거운 물로 서서히 데우면 밥맛도 상대적으로 떨어진다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "즉석밥 시장은 연간 1200억원 규모다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "매년 10% 이상 성장하고 있다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "CJ 외에도 오뚜기·농심·동원 등 4개사가 경쟁하고 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "후발 주자인 오뚜기는 ‘카레밥’ ‘짜장밥’ 등 레토르트밥에 주력하고 있고, 농심은 ‘라밥’ 등으로 라면 시장의 우위를 활용하고 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "농심 최호민 차장은 “즉석밥을 사는 사람들은 주로 혼자 사는 사람, 학생 등으로 라면 소비자와 겹친다. 매장에서 라면 소비자에게 즉석밥을 끼워주면서 제품 인지도를 넓히고 있다”고 말했다.",
+        "sentenceSize": 104
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우리가 모르는 고슬고슬한 즉석밥맛의 비결이 있다? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

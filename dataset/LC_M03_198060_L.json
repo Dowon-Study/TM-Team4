@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198060",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "'마지막 탱고' 30만 인파",
+    "newsSubTitle": "",
+    "newsContent": "아르헨티나의 세계적인 발레리노 훌리오 보카의 고별 공연을 보기 위해 30여만 명이 22일(현지시간) 부에노스아이레스 도심 광장에 모였다.\n보카는 이날 삼바와 재즈, 탱고를 추며 정열적인 무대를 선보였다. [부에노스아이레스 AP·AFP=연합뉴스]아르헨티나 출신의 세계적인 무용수 훌리오 보카(40)의 마지막 공연을 보기 위해 부에노스아이레스 시내의 오벨리스크 앞에 22일(현지시간) 약 30만 명의 시민이 모여들었다.\n보카는 이날 환호하는 관중 앞에서 라틴의 삼바와 재즈, 탱고 춤을 선보였다.\n그는 탱고와 발레를 결합시킨 춤을 개발했으며, 영화 '탱고'에도 출연해 탱고의 세계화에 기여했다.\n그는 이번 공연을 끝으로 25년간의 발레 인생을 뒤로하고 은퇴한다.\n이번 공연을 위해 아르헨티나에서 가장 넓은 오벨리스크 앞 '훌리오 9가'의 차량 통행이 전면 차단됐고, 900㎡의 대형 2층 야외무대가 설치됐다.\n최지영 기자 ◆훌리오 보카=아르헨티나 출신의 세계적인 발레리노(남성 발레 무용수)다. 4세 때 발레를 시작해 18세 때 모스크바 국제 발레대회에서 금메달을 딴 뒤 아메리칸 발레시어터의 단원으로 활약했다.\n보카는 은퇴 뒤에도 발레 아르헨티노의 단장직은 계속 맡을 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아르헨티나의 세계적인 발레리노 훌리오 보카의 고별 공연을 보기 위해 30여만 명이 22일(현지시간) 부에노스아이레스 도심 광장에 모였다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보카는 이날 삼바와 재즈, 탱고를 추며 정열적인 무대를 선보였다. [부에노스아이레스 AP·AFP=연합뉴스]아르헨티나 출신의 세계적인 무용수 훌리오 보카(40)의 마지막 공연을 보기 위해 부에노스아이레스 시내의 오벨리스크 앞에 22일(현지시간) 약 30만 명의 시민이 모여들었다.",
+        "sentenceSize": 155
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "보카는 이날 환호하는 관중 앞에서 라틴의 삼바와 재즈, 탱고 춤을 선보였다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 탱고와 발레를 결합시킨 춤을 개발했으며, 영화 '탱고'에도 출연해 탱고의 세계화에 기여했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 이번 공연을 끝으로 25년간의 발레 인생을 뒤로하고 은퇴한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 공연을 위해 아르헨티나에서 가장 넓은 오벨리스크 앞 '훌리오 9가'의 차량 통행이 전면 차단됐고, 900㎡의 대형 2층 야외무대가 설치됐다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최지영 기자 ◆훌리오 보카=아르헨티나 출신의 세계적인 발레리노(남성 발레 무용수)다. 4세 때 발레를 시작해 18세 때 모스크바 국제 발레대회에서 금메달을 딴 뒤 아메리칸 발레시어터의 단원으로 활약했다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "보카는 은퇴 뒤에도 발레 아르헨티노의 단장직은 계속 맡을 예정이다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이 사람의 고별 공연 위해 30만 명이 모인 부에노스아이레스... 대체 누구길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

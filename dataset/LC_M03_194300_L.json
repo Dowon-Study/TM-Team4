@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194300",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[이야기가있는욕실] 장미 타일 붙이니 화사",
+    "newsSubTitle": "",
+    "newsContent": "10년 된 욕실을 얼마 전 리모델링했어요.\n욕실이 그다지 큰 편이 아니라서 한두 군데 포인트를 주기로 했죠.\n칙칙했던 벽면을 환한 흰색 타일로 시공하고, 두 살 딸아이가 좋아하는 장미 모양 타일로 포인트를 주었어요.\n별다른 장식을 하지 않아도 욕실이 화사해 보이더라고요.\n공간이 한층 넓어보이기도 했고요.\n이제 손님이 놀러올 때면 욕실부터 들어가 보라고 자랑하기 바쁘답니다.\n김이남(전북 전주시 완산구 삼천동1가) 중앙일보와 욕실전문업체 아메리칸 스탠다드가 ‘이야기가 있는 욕실’의 사연을 찾습니다.\n아메리칸 스탠다드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려 주세요.\n매주 1명을 선정해 소개하며, 50만원 상당의 욕실 제품도 드립니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "10년 된 욕실을 얼마 전 리모델링했어요.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "욕실이 그다지 큰 편이 아니라서 한두 군데 포인트를 주기로 했죠.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "칙칙했던 벽면을 환한 흰색 타일로 시공하고, 두 살 딸아이가 좋아하는 장미 모양 타일로 포인트를 주었어요.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "별다른 장식을 하지 않아도 욕실이 화사해 보이더라고요.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "공간이 한층 넓어보이기도 했고요.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이제 손님이 놀러올 때면 욕실부터 들어가 보라고 자랑하기 바쁘답니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김이남(전북 전주시 완산구 삼천동1가) 중앙일보와 욕실전문업체 아메리칸 스탠다드가 ‘이야기가 있는 욕실’의 사연을 찾습니다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아메리칸 스탠다드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려 주세요.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "매주 1명을 선정해 소개하며, 50만원 상당의 욕실 제품도 드립니다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "욕실의 변신은 무죄... 어떻게 바뀌었나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

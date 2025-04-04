@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198388",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/즐겨읽기] '장인'은 '살아가는 방식'입니다",
+    "newsSubTitle": "",
+    "newsContent": "아름다운 외길 장인 에이 로쿠스케 지음, 양은숙 옮김 지훈, 216쪽, 9000원 에이 로쿠스케(72.永六輔)는 방송작가.사회자.가수 등으로 활동하는 일본의 원로 방송인이다.\n서양식 미터법이 들어오면서 일본 전래의 도량형법인 척관법이 폐지되자 그는 재래식 곱자와 경척을 몰래 만들어 팔고 척관법 부활을 위한 연극 운동을 벌였을 만큼 전통 문화 지킴이로 이름났다.\n죽음에 관한 연구에도 열성이어서 그가 쓴 '다이오조(大往生: 편안한 죽음)' 연작은 베스트셀러가 됐다.\n한마디로 재기 넘치는 팔방미인형 문화인이 그다.\n에이가 1996년에 쓴 '쇼쿠닌(職人)'을 우리말로 옮긴 이 책은 그가 만나고 취재했던 장인의 말과 세계를 현장감 넘치게 전한다.\n그 자신이 '방송 장인'이기에 장인과 잘 통했을 법하다.\n장인은 직업이 아니라 '살아가는 방식'이기 때문이다.\n\\\"고생이란 참아야 할 게 아니야. 고생은 즐기는 것이라네.\\\" \\\"200년 묵은 나무를 쓰면 200년은 쓸 일을 해야지. 그렇지 않으면 나무에 대한 예의가 아니니까.\\\"\\\"직업엔 귀천이 없다고 생각하지만 살아가는 방식에는 귀천이 있지요.\\\" \\\"죽어버릴라구 말이야, 긴 세월 내내 식칼을 노려보다가 말이야, 그래 가지구…주방장이 돼버렸지.\\\" 장인의 말은 장인답다.\n전통 장인이 제 대접을 못받고 사라져가는 우리 현실을 되새기게 하는 구절구절이 아릿하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아름다운 외길 장인 에이 로쿠스케 지음, 양은숙 옮김 지훈, 216쪽, 9000원 에이 로쿠스케(72.永六輔)는 방송작가.사회자.가수 등으로 활동하는 일본의 원로 방송인이다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서양식 미터법이 들어오면서 일본 전래의 도량형법인 척관법이 폐지되자 그는 재래식 곱자와 경척을 몰래 만들어 팔고 척관법 부활을 위한 연극 운동을 벌였을 만큼 전통 문화 지킴이로 이름났다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "죽음에 관한 연구에도 열성이어서 그가 쓴 '다이오조(大往生: 편안한 죽음)' 연작은 베스트셀러가 됐다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한마디로 재기 넘치는 팔방미인형 문화인이 그다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "에이가 1996년에 쓴 '쇼쿠닌(職人)'을 우리말로 옮긴 이 책은 그가 만나고 취재했던 장인의 말과 세계를 현장감 넘치게 전한다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 자신이 '방송 장인'이기에 장인과 잘 통했을 법하다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "장인은 직업이 아니라 '살아가는 방식'이기 때문이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "\\\"고생이란 참아야 할 게 아니야. 고생은 즐기는 것이라네.\\\" \\\"200년 묵은 나무를 쓰면 200년은 쓸 일을 해야지. 그렇지 않으면 나무에 대한 예의가 아니니까.\\\"\\\"직업엔 귀천이 없다고 생각하지만 살아가는 방식에는 귀천이 있지요.\\\" \\\"죽어버릴라구 말이야, 긴 세월 내내 식칼을 노려보다가 말이야, 그래 가지구…주방장이 돼버렸지.\\\" 장인의 말은 장인답다.",
+        "sentenceSize": 205
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "전통 장인이 제 대접을 못받고 사라져가는 우리 현실을 되새기게 하는 구절구절이 아릿하다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이것'은 직업이 아니라 살아가는 방식입니다... 일본 유명 방송인이 쓴 취재기",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

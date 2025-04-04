@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194853",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "'2001 신춘문예 당선시집' 출간",
+    "newsSubTitle": "",
+    "newsContent": "'생기와 활력이 들어 있는 시' '새로움을 찾으려는 패기' '발랄한 감수성' …. 올해 신춘문예로 등단한 시인들의 작품에 대한 평론가들의 심사평들이다.\n새내기들의 참신한 시를 따로 묶어 보는 재미도 마찬가지일 것이다.\n12년째 신춘문예 시부문 당선자들의 당선작과 신작을 묶어 펴내온 문학세계사가 『2001 신춘문예 당선시집』을 내놓았다.\n지난해 여름 신춘문예를 대신한 새로운 등용문으로 실시된 중앙일보 '중앙신인문학상' 에 당선된 서광일씨와 올해초 발표된 주요 중앙.지방 일간지 시부문 당선자등 시인 11명과 시조시인 3명의 작품을 담았다.\n작가별로 당선작과 당선소감.심사평, 그리고 신작시 5편씩을 실었다.\n올해 당선작에선 1990년대까지도 남아있던 '현실참여' 의 짐을 느낄 수 없다.\n대신 참신한 감수성과 함께 어려운 현실을 따뜻하게 관찰하는 세밀한 눈길, 이를 다시 글로 옮기는 당당한 묘사를 읽을 수 있다.\n세 명의 시조시인 역시 전통형식의 단아함에 폭넓은 서정을 담아 시조의 가능성을 보여주었다는 평가다.\n새로운 세기의 문을 여는 문단의 한 흐름을 느끼게해주는 선집이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'생기와 활력이 들어 있는 시' '새로움을 찾으려는 패기' '발랄한 감수성' …. 올해 신춘문예로 등단한 시인들의 작품에 대한 평론가들의 심사평들이다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "새내기들의 참신한 시를 따로 묶어 보는 재미도 마찬가지일 것이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "12년째 신춘문예 시부문 당선자들의 당선작과 신작을 묶어 펴내온 문학세계사가 『2001 신춘문예 당선시집』을 내놓았다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난해 여름 신춘문예를 대신한 새로운 등용문으로 실시된 중앙일보 '중앙신인문학상' 에 당선된 서광일씨와 올해초 발표된 주요 중앙.지방 일간지 시부문 당선자등 시인 11명과 시조시인 3명의 작품을 담았다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "작가별로 당선작과 당선소감.심사평, 그리고 신작시 5편씩을 실었다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "올해 당선작에선 1990년대까지도 남아있던 '현실참여' 의 짐을 느낄 수 없다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "대신 참신한 감수성과 함께 어려운 현실을 따뜻하게 관찰하는 세밀한 눈길, 이를 다시 글로 옮기는 당당한 묘사를 읽을 수 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "세 명의 시조시인 역시 전통형식의 단아함에 폭넓은 서정을 담아 시조의 가능성을 보여주었다는 평가다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "새로운 세기의 문을 여는 문단의 한 흐름을 느끼게해주는 선집이다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "평론가들의 심사평 '발랄한 감수성'…. 알고 보니?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

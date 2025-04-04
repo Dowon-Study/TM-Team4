@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195487",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "알고 보면 아기에 위험하다는 이 자세",
+    "newsSubTitle": "",
+    "newsContent": "부모가 아기를 가슴에 올려놓은 채 잠드는 자세가 유아에겐 치명적이라는 주장이 제기돼 눈길을 끈다.\n아기의 안전한 수면에 대한 전문적인 자문을 제공하는 재단인 The Lullaby Trusts는 아기를 안고 소파 또는 안락의자에 잠들었을 때 아기가 질식사할 위험이 있을 뿐만 아니라 영아 사망 증후군 (SIDS) 위험을 50배가량 증가시킬 수 있다고 경고했다.\n잉글랜드와 웨일스에서 영아 사망 증후군을 겪은 유아의 6분의 1가량이 소파에서 부모와 함께 잠들었던 것으로 조사됐다고 덧붙였다.\n재단의 이 같은 경고는 미국에 거주하는 한 아버지가 유아 돌연사 증후군으로 아들을 잃었다는 사실을 최근 공개한 후 나왔다.\n미국 켄터키 출신의 샘 한케 박사는 지난 2010년, 생후 4주 된 아들 찰리를 가슴에 얹은 채 깜빡 잠들었다.\n몇 시간 후에 잠에서 깬 그는 아들이 더는 숨을 쉬지 않는다는 것을 알게 됐다.\n아들을 잃은 후 그는 안전한 수면에 대한 인식을 높이기 위해 찰리의 이름을 딴 재단을 설립했다.\n재단은 \\\"아기를 가슴에 올려놓고 소파에 앉아 있을 때 잠이 오면, 아기를 아기 바구니나 아기용 침대 등 안전한 장소로 옮겨 눕히라\\\"고 조언했다.\n이어 \\\"술을 마셨거나 피곤한 상태일 때, 부부 중 한 명이라도 담배를 피울 때, 아기가 미숙아(37주 이하)일 때는 부모가 침대에서 아기와 같이 잠자지 않아야 한다\\\"고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "부모가 아기를 가슴에 올려놓은 채 잠드는 자세가 유아에겐 치명적이라는 주장이 제기돼 눈길을 끈다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아기의 안전한 수면에 대한 전문적인 자문을 제공하는 재단인 The Lullaby Trusts는 아기를 안고 소파 또는 안락의자에 잠들었을 때 아기가 질식사할 위험이 있을 뿐만 아니라 영아 사망 증후군 (SIDS) 위험을 50배가량 증가시킬 수 있다고 경고했다.",
+        "sentenceSize": 145
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "잉글랜드와 웨일스에서 영아 사망 증후군을 겪은 유아의 6분의 1가량이 소파에서 부모와 함께 잠들었던 것으로 조사됐다고 덧붙였다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "재단의 이 같은 경고는 미국에 거주하는 한 아버지가 유아 돌연사 증후군으로 아들을 잃었다는 사실을 최근 공개한 후 나왔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "미국 켄터키 출신의 샘 한케 박사는 지난 2010년, 생후 4주 된 아들 찰리를 가슴에 얹은 채 깜빡 잠들었다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "몇 시간 후에 잠에서 깬 그는 아들이 더는 숨을 쉬지 않는다는 것을 알게 됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아들을 잃은 후 그는 안전한 수면에 대한 인식을 높이기 위해 찰리의 이름을 딴 재단을 설립했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "재단은 \\\"아기를 가슴에 올려놓고 소파에 앉아 있을 때 잠이 오면, 아기를 아기 바구니나 아기용 침대 등 안전한 장소로 옮겨 눕히라\\\"고 조언했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이어 \\\"술을 마셨거나 피곤한 상태일 때, 부부 중 한 명이라도 담배를 피울 때, 아기가 미숙아(37주 이하)일 때는 부모가 침대에서 아기와 같이 잠자지 않아야 한다\\\"고 덧붙였다.",
+        "sentenceSize": 101
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'The Lullaby Trusts'가 경고하는 아기 질식사 자세는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195582",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "겨울에도 얼려먹으면 '갑'인 음식 5가지",
+    "newsSubTitle": "",
+    "newsContent": "\\\"겨울에 먹는 아이스크림이 진리\\\" 많은 네티즌들이 동조한 한 온라인 커뮤니티의 문장이다.\n이와 같은 분위기 덕분에 한 블로그에 올라온 '얼려먹으면 맛이 배가 되는 마성의 음식 5가지'가 네티즌들의 시선을 끌고 있다.\n블로그에선 \\\"그냥 먹어도 맛있지만 얼려먹으면 그 맛이 배가 되는 음식들\\\"이라며 5가지 음식을 소개했다.\n1. 쿨피스 어린 시절부터 즐겨먹어온 '가성비갑' 쿨피스다.\n2. 초코파이 얼린 초코파이와 우유 한 컵이면 고급디저트 부럽지 않다.\n몽쉘·빅파이도 얼려먹으면 색다른 맛이니 도전을 추천한다. 3. 블루베리 시력 건강에도 좋은 블루베리는 얼려먹으면 더 맛있는 음식 중 하나다.\n4. 초코하임 과거 초코하임 CF서 얼려먹기를 추천한 제품이다.\n5. 홍시 홍시를 그냥 먹어도 맛있지만 얼려먹으면 샤베트 부럽지 않다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"겨울에 먹는 아이스크림이 진리\\\" 많은 네티즌들이 동조한 한 온라인 커뮤니티의 문장이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이와 같은 분위기 덕분에 한 블로그에 올라온 '얼려먹으면 맛이 배가 되는 마성의 음식 5가지'가 네티즌들의 시선을 끌고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "블로그에선 \\\"그냥 먹어도 맛있지만 얼려먹으면 그 맛이 배가 되는 음식들\\\"이라며 5가지 음식을 소개했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "1. 쿨피스 어린 시절부터 즐겨먹어온 '가성비갑' 쿨피스다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2. 초코파이 얼린 초코파이와 우유 한 컵이면 고급디저트 부럽지 않다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "몽쉘·빅파이도 얼려먹으면 색다른 맛이니 도전을 추천한다. 3. 블루베리 시력 건강에도 좋은 블루베리는 얼려먹으면 더 맛있는 음식 중 하나다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "4. 초코하임 과거 초코하임 CF서 얼려먹기를 추천한 제품이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "5. 홍시 홍시를 그냥 먹어도 맛있지만 얼려먹으면 샤베트 부럽지 않다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'얼려 먹으면 맛이 배가 되는 마성의 음식 5가지'... 어떤 것들일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

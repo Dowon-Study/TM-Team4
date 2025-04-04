@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193064",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"제왕절개 분만으로 태어난 어린이 비만 될 가능성 높다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "제왕절개 분만이 비만과 연관이 있다는 동물실험 결과가 나왔다.\n11일 영국의 과학전문지 사이언티스트는 미국 뉴욕대학 의대 중개의학연구실의 마리아 도밍게스-벨로 박사가 제왕절개로 태어난 쥐는 정상적으로 출생한 쥐보다 자라면서 몸집이 훨씬 커진다는 연구결과를 발표했다고 보도했다.\n제왕절개 방식으로 출생시킨 쥐 34마리와 정상적으로 태어난 쥐 35마리의 체중 변화를 지켜본 결과 생후 15주에 제왕절개 분만 쥐들이 정상 분만 쥐들보다 몸무게가 평균 33%나 무거운 것으로 나타났다고 도밍게스-벨로 박사는 밝혔다.\n제왕절개 분만 쥐의 경우 특히 암쥐의 체중 증가가 두드러져 정상 분만 쥐보다 체중이 무려 70%나 더 불어났다.\n숫쥐는 제왕절개로 태어났어도 정상 분만 숫쥐와의 체중 차이가 15%밖에 나지 않았다.\n인간의 경우도 제왕절개 분만과 비만 사이의 연관성을 보여주는 역학조사 결과들이 있다.\n그 이유는 출생 때 모체의 세균총(microbiome)이 자녀에게 전달되어야 하는데 제왕절개가 이를 가로막기 때문이라는 학설이 유력하다.\n모체로부터 받은 세균총이 태어난 아기의 초기 발달 과정에서 면역계와 대사 시스템을 \\\"교육\\\"시킬 수 있다는 것이다.\n도밍게스-벨로 박사는 이 두 그룹의 쥐들이 젖을 뗀 4주쯤 후인 생후 8주에 장(腸)에 서식하는 세균총의 분포를 분석해봤다.\n그 결과 암쥐, 숫쥐 가릴 것 없이 제왕절개 분만 그룹과 정상 분만 그룹 사이에 세균총의 균형이 크게 다른 것으로 나타났다.\n제왕절개 분만 그룹은 정상 분만 그룹보다 락토바실러스균과 에리시펠로트릭스균이 훨씬 많았지만 박테로이데스균, 루미노코카시에균, 라크노스피라세균, 클로스트리디알레스균이 현저히 적었다.\n제왕절개 그룹에서 부족한 것으로 나타난 박테리아들은 이전 연구에서 몸집이 작은 쥐들에서 많이 발견된 종류들이다.\n세계보건기구(WHO)에 따르면 제왕절개 분만이 의학적으로 불가피한 경우는 10~15%다.\n그러나 무통 분만을 위한 선택적 제왕절개 분만이 크게 늘어나면서 최근에는 브라질, 도미니카, 이란 등 일부 국가에서는 전체적인 제왕절개 분만율이 50%에 이르고 있다.\n미국도 33%나 된다고 국립질병통제센터(CDC)는 밝히고 있다.\n이 연구결과는 '과학발전'(Science Advances) 온라인판(10월 11일 자)에 실렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "제왕절개 분만이 비만과 연관이 있다는 동물실험 결과가 나왔다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 영국의 과학전문지 사이언티스트는 미국 뉴욕대학 의대 중개의학연구실의 마리아 도밍게스-벨로 박사가 제왕절개로 태어난 쥐는 정상적으로 출생한 쥐보다 자라면서 몸집이 훨씬 커진다는 연구결과를 발표했다고 보도했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "제왕절개 방식으로 출생시킨 쥐 34마리와 정상적으로 태어난 쥐 35마리의 체중 변화를 지켜본 결과 생후 15주에 제왕절개 분만 쥐들이 정상 분만 쥐들보다 몸무게가 평균 33%나 무거운 것으로 나타났다고 도밍게스-벨로 박사는 밝혔다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "제왕절개 분만 쥐의 경우 특히 암쥐의 체중 증가가 두드러져 정상 분만 쥐보다 체중이 무려 70%나 더 불어났다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "숫쥐는 제왕절개로 태어났어도 정상 분만 숫쥐와의 체중 차이가 15%밖에 나지 않았다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "인간의 경우도 제왕절개 분만과 비만 사이의 연관성을 보여주는 역학조사 결과들이 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 이유는 출생 때 모체의 세균총(microbiome)이 자녀에게 전달되어야 하는데 제왕절개가 이를 가로막기 때문이라는 학설이 유력하다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "모체로부터 받은 세균총이 태어난 아기의 초기 발달 과정에서 면역계와 대사 시스템을 \\\"교육\\\"시킬 수 있다는 것이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "도밍게스-벨로 박사는 이 두 그룹의 쥐들이 젖을 뗀 4주쯤 후인 생후 8주에 장(腸)에 서식하는 세균총의 분포를 분석해봤다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그 결과 암쥐, 숫쥐 가릴 것 없이 제왕절개 분만 그룹과 정상 분만 그룹 사이에 세균총의 균형이 크게 다른 것으로 나타났다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "제왕절개 분만 그룹은 정상 분만 그룹보다 락토바실러스균과 에리시펠로트릭스균이 훨씬 많았지만 박테로이데스균, 루미노코카시에균, 라크노스피라세균, 클로스트리디알레스균이 현저히 적었다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "제왕절개 그룹에서 부족한 것으로 나타난 박테리아들은 이전 연구에서 몸집이 작은 쥐들에서 많이 발견된 종류들이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "세계보건기구(WHO)에 따르면 제왕절개 분만이 의학적으로 불가피한 경우는 10~15%다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그러나 무통 분만을 위한 선택적 제왕절개 분만이 크게 늘어나면서 최근에는 브라질, 도미니카, 이란 등 일부 국가에서는 전체적인 제왕절개 분만율이 50%에 이르고 있다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "미국도 33%나 된다고 국립질병통제센터(CDC)는 밝히고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "이 연구결과는 '과학발전'(Science Advances) 온라인판(10월 11일 자)에 실렸다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "제왕절개 분만이 자연분만보다 가능성 높아... 동물 실험으로 밝혀냈다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

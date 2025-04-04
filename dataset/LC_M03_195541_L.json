@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195541",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 의료계 소식 노인의학센터 개소 외 2건",
+    "newsSubTitle": "",
+    "newsContent": "의료계 소식 ━ 노인의학센터 문 열어 이대목동병원이 최근 노인 환자에게 보다 전문화된 의료 서비스를 제공하는 ‘노인의학센터’를 개소했다.\n노인은 종합병원 내원 시 하루 2~3개 이상의 진료과를 동시에 방문하고 복용하게 되는 약물도 다섯 가지가 넘는 경우가 많다.\n균형감각, 공간지각력 등이 저하된 상태여서 낯선 병원에서 각종 사고 위험도 높다.\n노인의학센터는 노인의학 분야의 명의로 꼽히는 이홍수 가정의학과 교수가 센터장을 맡았다.\n노인 환자가 병원 방문 시 진료·검사·수납 등을 편리하게 마칠 수 있도록 자원봉사자가 환자마다 배정돼 전 진료 과정을 가족처럼 도와준다.\n전용 수납창구도 신설했다.\n채혈·채뇨와 영상 검사 촬영 시에도 노인 환자 우선 진료 시스템을 구축해 병원 내 체류시간을 최소화할 예정이다.\n문의 02-2650-5069. ━ 최첨단 무균 병동 증설 고대안암병원이 기존 11병상이었던 무균 병상을 두 배 수준으로 증설한다. 84병동에 21병상 규모다.\n무균병동에는 조혈모세포 이식 환자, 항암치료 격리 환자 등이 입원해 치료받는다.\n공간을 확장하고 중앙 공기여과장치, 오염물질 제거를 위한 에어 샤워 등을 설치했다.\n입원 중인 환자의 맥박과 호흡, 체온 등 주요 생체 신호를 실시간으로 파악할 수 있는 모니터링 시스템도 도입해 환자 안전을 강화하는 등 중증 질환자에게 최상의 의료서비스를 제공할 예정이다.\n━ 응급의료센터 새 단장 성균관의대 강북삼성병원이 최근 감염병에 대응하기 위해 응급의료센터를 리모델링했다.\n새단장한 응급의료센터는 국가 지정 병상 수준의 음압 격리실(1실)과 일반 격리 병실(2실)을 갖췄다.\n감염병 의심 환자와 일반 응급환자를 분류할 수 있는 선별진료실을 응급의료센터 내부에 설치했다.\n진료 공간도 확충했다.\n센터 내 모든 병상당 간격을 1.5m 이상 늘리고 경증 환자 전용 진료실(2실)을 신설해 환자들이 보다 편안하게 치료받을 수 있도록 했다.\n또 응급의료센터 내 소아침대 3대를 설치해 소아 환자가 성인 환자와 분리돼 보다 안정적인 상태에서 전문적인 진료를 받을 수 있는 환경을 조성했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "의료계 소식 ━ 노인의학센터 문 열어 이대목동병원이 최근 노인 환자에게 보다 전문화된 의료 서비스를 제공하는 ‘노인의학센터’를 개소했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "노인은 종합병원 내원 시 하루 2~3개 이상의 진료과를 동시에 방문하고 복용하게 되는 약물도 다섯 가지가 넘는 경우가 많다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "균형감각, 공간지각력 등이 저하된 상태여서 낯선 병원에서 각종 사고 위험도 높다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "노인의학센터는 노인의학 분야의 명의로 꼽히는 이홍수 가정의학과 교수가 센터장을 맡았다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "노인 환자가 병원 방문 시 진료·검사·수납 등을 편리하게 마칠 수 있도록 자원봉사자가 환자마다 배정돼 전 진료 과정을 가족처럼 도와준다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전용 수납창구도 신설했다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "채혈·채뇨와 영상 검사 촬영 시에도 노인 환자 우선 진료 시스템을 구축해 병원 내 체류시간을 최소화할 예정이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "문의 02-2650-5069. ━ 최첨단 무균 병동 증설 고대안암병원이 기존 11병상이었던 무균 병상을 두 배 수준으로 증설한다. 84병동에 21병상 규모다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "무균병동에는 조혈모세포 이식 환자, 항암치료 격리 환자 등이 입원해 치료받는다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "공간을 확장하고 중앙 공기여과장치, 오염물질 제거를 위한 에어 샤워 등을 설치했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "입원 중인 환자의 맥박과 호흡, 체온 등 주요 생체 신호를 실시간으로 파악할 수 있는 모니터링 시스템도 도입해 환자 안전을 강화하는 등 중증 질환자에게 최상의 의료서비스를 제공할 예정이다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "━ 응급의료센터 새 단장 성균관의대 강북삼성병원이 최근 감염병에 대응하기 위해 응급의료센터를 리모델링했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "새단장한 응급의료센터는 국가 지정 병상 수준의 음압 격리실(1실)과 일반 격리 병실(2실)을 갖췄다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "감염병 의심 환자와 일반 응급환자를 분류할 수 있는 선별진료실을 응급의료센터 내부에 설치했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "진료 공간도 확충했다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "센터 내 모든 병상당 간격을 1.5m 이상 늘리고 경증 환자 전용 진료실(2실)을 신설해 환자들이 보다 편안하게 치료받을 수 있도록 했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "또 응급의료센터 내 소아침대 3대를 설치해 소아 환자가 성인 환자와 분리돼 보다 안정적인 상태에서 전문적인 진료를 받을 수 있는 환경을 조성했다.",
+        "sentenceSize": 81
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "노인의학센터 개소... 일반 병원과 어떤 점이 다를까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

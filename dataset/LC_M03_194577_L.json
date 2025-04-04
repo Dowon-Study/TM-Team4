@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194577",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "'악몽' 자주 꾸면 '자살' 시도 가능성 높다",
+    "newsSubTitle": "",
+    "newsContent": "수면장애, 특히 악몽이나 가위눌림을 자주 경험하는 사람일수록 자살 시도를 자주 하는 것으로 나타났다.\n이와 같은 사실은 스웨덴 살그렌스카 대학병원 간호사인 Sjostrom팀이 18-68세 사이 165명의 성인을 대상으로 진행한 연구결과 나타났다.\n연구결과 89%에 해당하는 대부분의 환자들이 깊게 잠들지 못하는 증상(73%), 수면을 계속 유지 못하는 장애(69%), 새벽에 깨어나는 증상(60%) 등의 최소 한 가지 이상 수면 장애를 보였다.\n특히 3명의 환자중 2명에 해당하는 66%가 악몽을 꾼 경험이 있는 것으로 조사된 가운데 악몽을 자주 꾸는 사람일수록 자살 기도를 할 위험이 높은 것으로 나타났다.\n정신질환 등 자살기도 빈도에 영향을 줄 수 있는 다른 인자의 보정후에도 연구팀은 자주 악몽을 꾸는 사람들이 그렇지 않은 환자에 비해 자살을 기도할 위험성이 4배 높은 것으로 나타났다고 말했다.\n연구팀은 그러나 악몽과 자살기도와 인과관계가 있는 것은 아니라고 말했다. 【서울=메디컬투데이/뉴시스】",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "수면장애, 특히 악몽이나 가위눌림을 자주 경험하는 사람일수록 자살 시도를 자주 하는 것으로 나타났다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이와 같은 사실은 스웨덴 살그렌스카 대학병원 간호사인 Sjostrom팀이 18-68세 사이 165명의 성인을 대상으로 진행한 연구결과 나타났다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연구결과 89%에 해당하는 대부분의 환자들이 깊게 잠들지 못하는 증상(73%), 수면을 계속 유지 못하는 장애(69%), 새벽에 깨어나는 증상(60%) 등의 최소 한 가지 이상 수면 장애를 보였다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 3명의 환자중 2명에 해당하는 66%가 악몽을 꾼 경험이 있는 것으로 조사된 가운데 악몽을 자주 꾸는 사람일수록 자살 기도를 할 위험이 높은 것으로 나타났다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정신질환 등 자살기도 빈도에 영향을 줄 수 있는 다른 인자의 보정후에도 연구팀은 자주 악몽을 꾸는 사람들이 그렇지 않은 환자에 비해 자살을 기도할 위험성이 4배 높은 것으로 나타났다고 말했다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구팀은 그러나 악몽과 자살기도와 인과관계가 있는 것은 아니라고 말했다. 【서울=메디컬투데이/뉴시스】",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "악몽 자주 꾸면 자살 시도 위험 얼마나 높을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

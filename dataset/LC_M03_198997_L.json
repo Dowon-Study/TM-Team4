@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198997",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[한 끗 리빙] 오이는 신문지로 낱개 포장 ­… 밀폐용기 넣어두면 오래 가",
+    "newsSubTitle": "",
+    "newsContent": "오이는 금방 무르고 곰팡이가 쉽게 생긴다.\n수분을 많이 머금고 있는 데다 추위에 약해 냉장고 속에 보관해도 냉해를 입기 때문이다.\n싱싱한 상태로 오이를 오래 보관하려면 하나씩 신문지로 둘둘 말아 뚜껑이 있는 용기에 넣는 게 가장 좋다.\n신문지가 오이 주변 습기를 빨아들이고 찬 공기까지 차단해 줘서다.\n신선한 오이를 그냥 비닐에 담아 냉장고에 넣을 경우 길어야 5일 정도 싱싱함이 유지되지만 이렇게 하나씩 오이를 싸서 넣으면 10일까지도 싱싱한 상태가 유지된다.\n하나씩 포장한 오이는 냉장실의 찬 기운이 비교적 적은 아래쪽에, 꼭지 부분이 위로 가도록 세워 놓는다.\n세워 둘 땐 페트병을 활용하면 좋다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오이는 금방 무르고 곰팡이가 쉽게 생긴다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "수분을 많이 머금고 있는 데다 추위에 약해 냉장고 속에 보관해도 냉해를 입기 때문이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "싱싱한 상태로 오이를 오래 보관하려면 하나씩 신문지로 둘둘 말아 뚜껑이 있는 용기에 넣는 게 가장 좋다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신문지가 오이 주변 습기를 빨아들이고 찬 공기까지 차단해 줘서다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신선한 오이를 그냥 비닐에 담아 냉장고에 넣을 경우 길어야 5일 정도 싱싱함이 유지되지만 이렇게 하나씩 오이를 싸서 넣으면 10일까지도 싱싱한 상태가 유지된다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하나씩 포장한 오이는 냉장실의 찬 기운이 비교적 적은 아래쪽에, 꼭지 부분이 위로 가도록 세워 놓는다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "세워 둘 땐 페트병을 활용하면 좋다.",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "금세 무르고 곰팡이 생기는 '이것', 오래 보관하고 싶다면 이렇게",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

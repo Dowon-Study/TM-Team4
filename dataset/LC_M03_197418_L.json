@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197418",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "한국다케다, 액티넘EX 플러스 후속작은 '액티넘 EX골드'",
+    "newsSubTitle": "활성 비타민 B1·B6·B1·E 함유, 체내 흡수·활성 강화",
+    "newsContent": "[김진구 기자] 한국다케다제약은 눈의 피로, 근육통, 신경통, 어깨·목 결림, 요통, 오십견, 손발 저림 증상에 도움이 되는 고함량 활성비타민 ‘액티넘 이엑스 골드(Actinum EX Gold)’를 국내에 출시했다.\n액티넘은 다케다제약이 60년 이상 일본과 아시아 지역에서 판매하고 있는 아리나민(Alinamin)의 국내 상품명이다.\n2014년 IMS 데이터 기준 아시아 태평양 지역에서 비타민 부문 판매 1위를 차지했다.\n액티넘 이엑스 골드는 앞서 출시된 액티넘 이엑스 플러스(Actinum EX Plus)에 이은 두 번째 비타민이다.\n한국다케다제약 마헨더 나야크 대표는 “다케다제약은 60년 이상 비타민을 연구해 온 노하우를 바탕으로 액티넘 이엑스 플러스에 이어 액티넘 이엑스 골드를 한국에 발매했다”고 말했다.\n한국다케다제약 컨슈머헬스케어 사업부 배연희 상무는 “액티넘 이엑스 골드가 눈의 피로는 물론 목?어깨 통증 및 결림, 손발 저림, 근육통 등 각종 통증 관리가 필요한 소비자들에게 도움이 되길 바란다” 고 말했다.\n액티넘 이엑스 골드는 활성비타민 B1, 푸르설티아민 및 활성형 비타민 B6·B12, 엽산, 비타민E를 포함하고 있다.\n특히 손상된 신경 회복에 관여하는 활성형 비타민 B12인 ‘메코발라민’ 을 함유하고 있다.\n또한 액티넘 이엑스 골드는 눈의 피로와 목 결림, 어깨 결림 등 다양한 통증 개선 효과를 2건의 연구에서 확인한 바 있다.\n액티넘 이엑스 골드는 식후 즉시 1일 3회, 1회당 1정을 경구 복용한다.\n별도 처방 없이 약국에서 구입 가능하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 한국다케다제약은 눈의 피로, 근육통, 신경통, 어깨·목 결림, 요통, 오십견, 손발 저림 증상에 도움이 되는 고함량 활성비타민 ‘액티넘 이엑스 골드(Actinum EX Gold)’를 국내에 출시했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "액티넘은 다케다제약이 60년 이상 일본과 아시아 지역에서 판매하고 있는 아리나민(Alinamin)의 국내 상품명이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "2014년 IMS 데이터 기준 아시아 태평양 지역에서 비타민 부문 판매 1위를 차지했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "액티넘 이엑스 골드는 앞서 출시된 액티넘 이엑스 플러스(Actinum EX Plus)에 이은 두 번째 비타민이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한국다케다제약 마헨더 나야크 대표는 “다케다제약은 60년 이상 비타민을 연구해 온 노하우를 바탕으로 액티넘 이엑스 플러스에 이어 액티넘 이엑스 골드를 한국에 발매했다”고 말했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한국다케다제약 컨슈머헬스케어 사업부 배연희 상무는 “액티넘 이엑스 골드가 눈의 피로는 물론 목?어깨 통증 및 결림, 손발 저림, 근육통 등 각종 통증 관리가 필요한 소비자들에게 도움이 되길 바란다” 고 말했다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "액티넘 이엑스 골드는 활성비타민 B1, 푸르설티아민 및 활성형 비타민 B6·B12, 엽산, 비타민E를 포함하고 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히 손상된 신경 회복에 관여하는 활성형 비타민 B12인 ‘메코발라민’ 을 함유하고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또한 액티넘 이엑스 골드는 눈의 피로와 목 결림, 어깨 결림 등 다양한 통증 개선 효과를 2건의 연구에서 확인한 바 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "액티넘 이엑스 골드는 식후 즉시 1일 3회, 1회당 1정을 경구 복용한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "별도 처방 없이 약국에서 구입 가능하다.",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "액티넘EX 플러스 뛰어 넘은 액티넘 EX골드 출시, 근육통 때려 잡는 효과",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

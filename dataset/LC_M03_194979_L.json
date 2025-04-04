@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194979",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[틴틴/키즈] '내 친구 윈딕시'",
+    "newsSubTitle": "개 덕분에 친구가 생겼어요",
+    "newsContent": "'엄마 없는 나만 이렇게 슬픈 것일까.'열살 소녀 오팔은 어느 날 윈딕시라는 개 한 마리를 얻게 된다.\n덩치는 크지만 비쩍 마르고 고약한 냄새까지 나는 윈딕시. 그러나 그 볼품 없는 개 때문에 오팔은 세상의 다른 외로운 영혼들을 만나게 된다.\n도서관 사서인 프래니 할머니는 사랑하는 사람들이 모두 세상을 떠났고, 아만다는 동생이 죽어서 얼굴을 언제나 찌푸린 채로 다닌다.\n아내가 죽은 뒤 마음의 문을 닫아버린 오팔의 아빠도 마찬가지다.\n누구와도 쉽게 친해지는 윈딕시 덕분에 오팔은 이런 이웃들과 친구가 된다.\n사람들은 저마다 상처가 있다는 진실도 깨닫는다.\n남은 사람들이 서로의 슬픔을 나누면서 새로운 사람을 만나 새 사랑을 찾게 된다.\n2001년 뉴베리 아너상을 받은 이 감동적인 작품 속에서 \\\"떠나고 싶어하는 것을 붙들 방법은 없다. 곁에 있을 때 사랑해 주는 수밖에\\\"라는 구절이 특히 귓가를 맴돈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'엄마 없는 나만 이렇게 슬픈 것일까.'열살 소녀 오팔은 어느 날 윈딕시라는 개 한 마리를 얻게 된다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "덩치는 크지만 비쩍 마르고 고약한 냄새까지 나는 윈딕시. 그러나 그 볼품 없는 개 때문에 오팔은 세상의 다른 외로운 영혼들을 만나게 된다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "도서관 사서인 프래니 할머니는 사랑하는 사람들이 모두 세상을 떠났고, 아만다는 동생이 죽어서 얼굴을 언제나 찌푸린 채로 다닌다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아내가 죽은 뒤 마음의 문을 닫아버린 오팔의 아빠도 마찬가지다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "누구와도 쉽게 친해지는 윈딕시 덕분에 오팔은 이런 이웃들과 친구가 된다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사람들은 저마다 상처가 있다는 진실도 깨닫는다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "남은 사람들이 서로의 슬픔을 나누면서 새로운 사람을 만나 새 사랑을 찾게 된다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "2001년 뉴베리 아너상을 받은 이 감동적인 작품 속에서 \\\"떠나고 싶어하는 것을 붙들 방법은 없다. 곁에 있을 때 사랑해 주는 수밖에\\\"라는 구절이 특히 귓가를 맴돈다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "개로 인해 소녀 오팔이 세상의 다른 외로운 영혼들을 만나게 되는 이야기를 다룬 책은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

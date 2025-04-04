@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198930",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "금연 후 혈당 올라 걱정? \\\"심혈관계 사망 위험 32% 낮춰\\\"",
+    "newsSubTitle": "분당서울대·서울대병원 공동 연구 결과. 심근경색 사망 위험도는 74%나 낮아",
+    "newsContent": "[박정렬 기자] 담배를 끊고 난 직후 혈당이 올라가는 사람이 많다.\n이 때문에 흡연자들은 \\\"금연하면 오히려 건강에 나쁘다\\\"며 오해(?)를 하기도 한다.\n결론부터 말하면 금연시 혈당 변화가 있을 수 있지만, 심뇌혈관 질환 예방에는 분명한 효과가 있으므로 반드시 금연하는 게 좋다.\n분당서울대병원 가정의학과 이기헌 교수와 서울대병원 가정의학과 박상민 교수 연구팀은 국민건강보험공단 빅데이터를 활용해 금연 후 혈당변화가 나타난 40세 이상 남성을 대상으로 혈당변화와 심뇌혈관질환 발생·사망 위험간의 상관관계를 연구한 결과를 30일 공개했다.\n연구팀은 2002~2003년과 2004~2005년, 총 두 번 건강검진을 받은 40세 이상 남성 12만7006명을 대상으로 금연 후 혈당증가와 심뇌혈관질환의 발생 및 사망위험의 연관성을 분석했다.\n실제 담배를 끊은 뒤 초기에는 식욕을 억제하고 에너지 소비를 늘리는 니코틴의 효과가 사라지면서 혈당이 올라간다.\n이 때문에 일부 흡연자는 금연이 또 다른 '건강 위험 신호'가 될 수 있다고 확대 해석하기도 한다.\n하지만 연구 결과, 금연으로 인한 혈당 증가와 관계없이, 심뇌혈관질환 발생 및 사망위험이 감소했다.\n세부적으로 금연 후 혈당이 증가한 사람은 흡연을 계속한 사람에 비해 심뇌혈관질환 발생 및 사망 위험이 각각 17%와 32% 감소했다.\n특히 심근경색증의 발생 및 사망 위험도는 흡연자에 비해 각각 40%, 74% 감소하는 것으로 나타났다.\n서울대병원 가정의학과 박상민 교수는 “금연 후 혈당이 증가하는 현상이 뒤따르는 것은 맞지만 이는 심뇌혈관질환 발생 및 사망에 거의 영향을 미치지 않는다”며 “오히려 심뇌혈관 질환을 예방하는 효과가 더 크다”고 전했다.\n분당서울대병원 가정의학과 이기헌 교수도 “금연을 통한 심뇌혈관 질환 예방 효과는 너무나 뚜렷하다\\\"며 \\\"여전히 금연은 흡연자에게 있어 제 1의 건강 전략임이 분명하다”고 강조했다.\n한편, 이번 연구 결과는 국제 학술지 ‘사이언티픽 리포트(Scientific Report)’ 최 신호에 실렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[박정렬 기자] 담배를 끊고 난 직후 혈당이 올라가는 사람이 많다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 때문에 흡연자들은 \\\"금연하면 오히려 건강에 나쁘다\\\"며 오해(?)를 하기도 한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "결론부터 말하면 금연시 혈당 변화가 있을 수 있지만, 심뇌혈관 질환 예방에는 분명한 효과가 있으므로 반드시 금연하는 게 좋다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "분당서울대병원 가정의학과 이기헌 교수와 서울대병원 가정의학과 박상민 교수 연구팀은 국민건강보험공단 빅데이터를 활용해 금연 후 혈당변화가 나타난 40세 이상 남성을 대상으로 혈당변화와 심뇌혈관질환 발생·사망 위험간의 상관관계를 연구한 결과를 30일 공개했다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연구팀은 2002~2003년과 2004~2005년, 총 두 번 건강검진을 받은 40세 이상 남성 12만7006명을 대상으로 금연 후 혈당증가와 심뇌혈관질환의 발생 및 사망위험의 연관성을 분석했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "실제 담배를 끊은 뒤 초기에는 식욕을 억제하고 에너지 소비를 늘리는 니코틴의 효과가 사라지면서 혈당이 올라간다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 때문에 일부 흡연자는 금연이 또 다른 '건강 위험 신호'가 될 수 있다고 확대 해석하기도 한다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 연구 결과, 금연으로 인한 혈당 증가와 관계없이, 심뇌혈관질환 발생 및 사망위험이 감소했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "세부적으로 금연 후 혈당이 증가한 사람은 흡연을 계속한 사람에 비해 심뇌혈관질환 발생 및 사망 위험이 각각 17%와 32% 감소했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "특히 심근경색증의 발생 및 사망 위험도는 흡연자에 비해 각각 40%, 74% 감소하는 것으로 나타났다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "서울대병원 가정의학과 박상민 교수는 “금연 후 혈당이 증가하는 현상이 뒤따르는 것은 맞지만 이는 심뇌혈관질환 발생 및 사망에 거의 영향을 미치지 않는다”며 “오히려 심뇌혈관 질환을 예방하는 효과가 더 크다”고 전했다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "분당서울대병원 가정의학과 이기헌 교수도 “금연을 통한 심뇌혈관 질환 예방 효과는 너무나 뚜렷하다\\\"며 \\\"여전히 금연은 흡연자에게 있어 제 1의 건강 전략임이 분명하다”고 강조했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "한편, 이번 연구 결과는 국제 학술지 ‘사이언티픽 리포트(Scientific Report)’ 최 신호에 실렸다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "금연 후 오르는 '이 수치'에 걱정... 계속해도 괜찮을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

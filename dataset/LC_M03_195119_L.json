@@ -1,0 +1,249 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195119",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 코로나19 팬데믹 이후 암 환자 검진·치료 위태롭다",
+    "newsSubTitle": "",
+    "newsContent": "전문의 칼럼 김태원 대한종양내과학회 이사장 “장 수술은 잘됐습니다. 그런데 간 전이가 좀 있어서 항암제 치료를 시작해야 합니다.” 대장암 수술 후 외래에 오신 환자분께 건넨 말이다.\n환자는 지난해 초에 국가암검진을 하려고 했는데, 신종 코로나바이러스 감염증(코로나19) 때문에 검진을 미뤘다고 한다.\n소화불량과 체중 감소가 있었고, 결국 대장 내시경에서 대장암 진단을 받았다.\n안타깝게 수술장에서 간 전이가 발견돼 장 폐색이 있는 대장암만 수술로 제거했다.\n코로나19가 장기화하면서 암 환자들의 진료가 위태로워지고 있다.\n실제로 매년 증가하던 암 환자가 지난해 1월부터 9월까지 23만2777명으로 6270명(2.6%) 줄었다.\n검진이 늦어지면서 암이 늦게 발견되기도 한다.\n수도권과 강원도 소재 3개 병원의 조사에 따르면 지난해 2월부터 6월까지 수술이 가능하지 않은 4기 폐암이 이전 3년간 같은 기간에 비해 12%나 늘었다.\n코로나19 감염 우려로 병원 방문이나 검진을 미뤘기 때문이다.\n국가암검진을 받은 비율도 줄었다.\n지난해 10월 말 기준으로 암 검진을 받는 사람이 평소보다 10% 이상 감소한 것으로 보고됐다.\n암은 조기에 발견할수록 사망률이 낮아진다.\n자궁경부암 검진은 자궁경부암에 의한 사망을 64% 줄이고 위 내시경과 유방암 검진은 위암과 유방암 사망률을 각각 49%, 18% 줄인다.\n항암제나 방사선 치료를 제때 받는 것도 중요하다.\n두경부암에서는 방사선 치료가 늦어지면 사망 위험이 9% 올라간다.\n대장암은 수술 후에 재발 방지를 위한 항암제 치료 시작이 늦춰지면 사망 위험이 13% 높아진다.\n겨울철에 코로나19 확진자가 다시 늘고 있다.\n백신 소식이 있기는 하지만 코로나19가 쉽게 물러날 것 같지 않다.\n의심 증상이 있는 환자는 가급적 빨리, 그리고 국가암검진 대상자는 대상 기간에 검진받아야 한다.\n검진 주기는 매 2년이다.\n짝수 해 출생자는 짝수년이, 홀수 해 출생자는 홀수년이 암 검진 대상이다.\n지난해 대상자 중 검진을 받지 못한 경우는 올해 6월까지 연장해서 검사를 받을 수 있다.\n암과의 전쟁은 화재 진압과 비슷하다.\n조기 진단을 못하고 암 꽁무니를 추적해서는 승리하기 어렵고 이기더라도 후유증이 크다.\n로봇 수술, 양성자 치료, 면역항암제들이 도입됐지만 암 치료의 가장 확실한 방법은 여전히 ‘조기 발견’이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 25,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전문의 칼럼 김태원 대한종양내과학회 이사장 “장 수술은 잘됐습니다. 그런데 간 전이가 좀 있어서 항암제 치료를 시작해야 합니다.” 대장암 수술 후 외래에 오신 환자분께 건넨 말이다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "환자는 지난해 초에 국가암검진을 하려고 했는데, 신종 코로나바이러스 감염증(코로나19) 때문에 검진을 미뤘다고 한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소화불량과 체중 감소가 있었고, 결국 대장 내시경에서 대장암 진단을 받았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "안타깝게 수술장에서 간 전이가 발견돼 장 폐색이 있는 대장암만 수술로 제거했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "코로나19가 장기화하면서 암 환자들의 진료가 위태로워지고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "실제로 매년 증가하던 암 환자가 지난해 1월부터 9월까지 23만2777명으로 6270명(2.6%) 줄었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "검진이 늦어지면서 암이 늦게 발견되기도 한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "수도권과 강원도 소재 3개 병원의 조사에 따르면 지난해 2월부터 6월까지 수술이 가능하지 않은 4기 폐암이 이전 3년간 같은 기간에 비해 12%나 늘었다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "코로나19 감염 우려로 병원 방문이나 검진을 미뤘기 때문이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "국가암검진을 받은 비율도 줄었다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "지난해 10월 말 기준으로 암 검진을 받는 사람이 평소보다 10% 이상 감소한 것으로 보고됐다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "암은 조기에 발견할수록 사망률이 낮아진다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "자궁경부암 검진은 자궁경부암에 의한 사망을 64% 줄이고 위 내시경과 유방암 검진은 위암과 유방암 사망률을 각각 49%, 18% 줄인다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "항암제나 방사선 치료를 제때 받는 것도 중요하다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "두경부암에서는 방사선 치료가 늦어지면 사망 위험이 9% 올라간다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "대장암은 수술 후에 재발 방지를 위한 항암제 치료 시작이 늦춰지면 사망 위험이 13% 높아진다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "겨울철에 코로나19 확진자가 다시 늘고 있다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "백신 소식이 있기는 하지만 코로나19가 쉽게 물러날 것 같지 않다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "의심 증상이 있는 환자는 가급적 빨리, 그리고 국가암검진 대상자는 대상 기간에 검진받아야 한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "검진 주기는 매 2년이다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "짝수 해 출생자는 짝수년이, 홀수 해 출생자는 홀수년이 암 검진 대상이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "지난해 대상자 중 검진을 받지 못한 경우는 올해 6월까지 연장해서 검사를 받을 수 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "암과의 전쟁은 화재 진압과 비슷하다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "조기 진단을 못하고 암 꽁무니를 추적해서는 승리하기 어렵고 이기더라도 후유증이 크다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "로봇 수술, 양성자 치료, 면역항암제들이 도입됐지만 암 치료의 가장 확실한 방법은 여전히 ‘조기 발견’이다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코로나19 기간, 암 환자 늘어난 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

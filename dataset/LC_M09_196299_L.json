@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M09_196299",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "방송·연예",
+    "newsTitle": "아이 취급받자 집나간 프레디",
+    "newsSubTitle": "null",
+    "newsContent": "(니켈로디언 밤 9시) 프레디 독립 만세 편. 프레디는 엄마가 자신을 어린이 취급하자 집을 나간다.\n엄마는 마음이 약해져 원하는 것을 다 들어줄 테니 들어오라고 말한다.\n아이칼리 팀은 애완동물 촬영 사업을 시작한다.\n호응이 좋자 전문 사진작가가 찾아와 항의하고 심지어 스튜디오까지 부순다.\n경찰에 신고해도 소용없자 아이칼리 팀은 사진작가의 고양이를 납치한다.\n고양이를 돌려주는 조건으로 사진 촬영 사업을 계속하게 내버려둘 것을 제의한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "(니켈로디언 밤 9시) 프레디 독립 만세 편. 프레디는 엄마가 자신을 어린이 취급하자 집을 나간다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "엄마는 마음이 약해져 원하는 것을 다 들어줄 테니 들어오라고 말한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아이칼리 팀은 애완동물 촬영 사업을 시작한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "호응이 좋자 전문 사진작가가 찾아와 항의하고 심지어 스튜디오까지 부순다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "경찰에 신고해도 소용없자 아이칼리 팀은 사진작가의 고양이를 납치한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "고양이를 돌려주는 조건으로 사진 촬영 사업을 계속하게 내버려둘 것을 제의한다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "스튜디오 부순 일에 앙심 품어... 가족 납치·협박 '경악'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

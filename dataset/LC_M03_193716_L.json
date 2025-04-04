@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193716",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "분당차병원, 간병인 없는 포괄간호병동 본격 운영",
+    "newsSubTitle": "전문 간호인력이 24시간 수준 높은 간호 실시",
+    "newsContent": "차의과학대학교 분당차병원(원장 지훈상)이 환자와 보호자의 간병부담을 해소하고 입원서비스의 질을 향상시키기 위해 포괄간호병동 운영을 시작했다고 26일 밝혔다.\n포괄간호병동은 보호자나 간병인이 병실 내에 상주하지 않고, 환자의 입원서비스를 전문 간호인력이 24시간 동안 전적으로 제공하는 제도다.\n입원기간 중 전문 간호인력은 환자의 자가 간호 증진을 위해 환자의 활동능력 범위에서 일상생활을 스스로 할 수 있도록 돕는다.\n또 기본적인 간호에서 수준을 높인 안전하고 질 높은 간호를 24시간 동안 제공한다.\n정해진 시간에 한해서만 보호자나 방문객의 면회가 가능하기 때문에 체계적인 감염관리가 이루어진다.\n보호자나 간병인의 상주로 인한 감염, 소음 등의 문제가 없어 환자가 쾌적한 환경에서 안정적으로 치료받을 수 있다.\n이는 환자의 입원생활을 보다 편안하고 안정적으로 유지시켜 주어 질병의 빠른 회복을 도울 뿐 아니라, 건강보험의 적용으로 간병비에 대한 부담도 덜 수 있다.\n분당차병원은 6층 전체병동(80병상)을 포괄간호병동으로 지정했다.\n24시간동안 환자의 상태를 관찰하고 신속하고 안전한 간호서비스를 제공하기 위해 서브스테이션, 환자모니터링 시설, 간호 호출시스템 등을 포함한 안전시설 전반을 재정비했다.\n이용 대상은 입원환자 중 포괄간호병동의 이용에 동의한 모든 환자다.\n산업재해, 자동차보험 대상 환자, 격리 대상 환자, 신경외과, 재활의학과, 정신건강의학과 환자는 이용이 제한된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "차의과학대학교 분당차병원(원장 지훈상)이 환자와 보호자의 간병부담을 해소하고 입원서비스의 질을 향상시키기 위해 포괄간호병동 운영을 시작했다고 26일 밝혔다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "포괄간호병동은 보호자나 간병인이 병실 내에 상주하지 않고, 환자의 입원서비스를 전문 간호인력이 24시간 동안 전적으로 제공하는 제도다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "입원기간 중 전문 간호인력은 환자의 자가 간호 증진을 위해 환자의 활동능력 범위에서 일상생활을 스스로 할 수 있도록 돕는다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 기본적인 간호에서 수준을 높인 안전하고 질 높은 간호를 24시간 동안 제공한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정해진 시간에 한해서만 보호자나 방문객의 면회가 가능하기 때문에 체계적인 감염관리가 이루어진다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "보호자나 간병인의 상주로 인한 감염, 소음 등의 문제가 없어 환자가 쾌적한 환경에서 안정적으로 치료받을 수 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이는 환자의 입원생활을 보다 편안하고 안정적으로 유지시켜 주어 질병의 빠른 회복을 도울 뿐 아니라, 건강보험의 적용으로 간병비에 대한 부담도 덜 수 있다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "분당차병원은 6층 전체병동(80병상)을 포괄간호병동으로 지정했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "24시간동안 환자의 상태를 관찰하고 신속하고 안전한 간호서비스를 제공하기 위해 서브스테이션, 환자모니터링 시설, 간호 호출시스템 등을 포함한 안전시설 전반을 재정비했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이용 대상은 입원환자 중 포괄간호병동의 이용에 동의한 모든 환자다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "산업재해, 자동차보험 대상 환자, 격리 대상 환자, 신경외과, 재활의학과, 정신건강의학과 환자는 이용이 제한된다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "분당차병원, 병간호부담 해소·입원 서비스 향상을 위해 '레게노'한 포괄간호병동 운영 본격화",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

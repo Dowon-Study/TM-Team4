@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195566",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "위암 재발 미리 알아내는 ‘유전자 검사법’ 개발",
+    "newsSubTitle": "분당서울대병원, 미국 MD앤더슨 암센터 공동 개발",
+    "newsContent": "[김진구 기자] 위암은 재발 위험이 높은 암에 속한다.\n수술 후에도 정기적으로 검사를 받아야 한다.\n일반적으로 조기(1~2기) 위암은 5~10%, 3기 이상은 40~70%가 재발하는 것으로 보고된다.\n최근 위암의 재발을 예측하는 검사법이 개발돼 주목을 받는다.\n특히 암의 크기나 개수와는 관계없이 위암 세포의 유전적 특성에 따라 예측하는 방법으로, 정확성을 크게 높였다는 평이다.\n분당서울대병원 암센터 이근욱 교수, 미국 텍사스대 MD 앤더슨 암병원 이주석 교수는 공동으로 1기부터 4기까지 표현되는 암의 병기와는 별개로 환자별 암 유전체 분석을 통해 재발 위험을 분석할 수 있는 유전자 검사법을 개발했다.\n공동연구팀은 수술을 받은 위암 환자 267명의 암 유전체를 분석해 암의 재발 및 사망위험을 높이는 유전자 156개를 추출, 분석했다.\n이 과정에서 암 유전자가 얼마나 발현되는지 평가하는 ‘재발위험척도(RRS)’라는 기준을 개발했다.\n이에 따라 최종적으로 검사가 쉬우면서 위암 재발 가능성을 정확하게 예측하는 유전자 6개(IGFBP4, SFRP4,SPOCK1, SULF1, THBS, GADD45B)를 선별했다.\n실제 이 유전자 6개를 새로운 환자 317명의 표본으로 확인한 결과 재발 위험도가 성공적으로 예측됐다.\n기존에는 위암 재발을 예측하는 마땅한 검사법이 없었다.\n그러나 이번 연구로 인해 위암 재발 여부를 객관적·독립적으로 예측할 수 있게 됐다.\n분당서울대병원 이근욱 교수(혈액종양내과)는 “각 환자가 가진 암세포의 특성에 따라 위암의 재발 위험을 예측할 수 있는 방법을 개발했고, 이 검사법이 진료 현장에 적용하기에 쉽다는 것에 큰 의미가 있다”며, “향후 검사법의 신뢰성을 높일 수 있는 추가적 연구가 진행될 예정”이라고 말했다.\n한편, 이번 연구 결과는 암 관련 저명 학술지인 ‘Clinical Cancer Research’에 발표됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 위암은 재발 위험이 높은 암에 속한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "수술 후에도 정기적으로 검사를 받아야 한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일반적으로 조기(1~2기) 위암은 5~10%, 3기 이상은 40~70%가 재발하는 것으로 보고된다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최근 위암의 재발을 예측하는 검사법이 개발돼 주목을 받는다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 암의 크기나 개수와는 관계없이 위암 세포의 유전적 특성에 따라 예측하는 방법으로, 정확성을 크게 높였다는 평이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "분당서울대병원 암센터 이근욱 교수, 미국 텍사스대 MD 앤더슨 암병원 이주석 교수는 공동으로 1기부터 4기까지 표현되는 암의 병기와는 별개로 환자별 암 유전체 분석을 통해 재발 위험을 분석할 수 있는 유전자 검사법을 개발했다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "공동연구팀은 수술을 받은 위암 환자 267명의 암 유전체를 분석해 암의 재발 및 사망위험을 높이는 유전자 156개를 추출, 분석했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 과정에서 암 유전자가 얼마나 발현되는지 평가하는 ‘재발위험척도(RRS)’라는 기준을 개발했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이에 따라 최종적으로 검사가 쉬우면서 위암 재발 가능성을 정확하게 예측하는 유전자 6개(IGFBP4, SFRP4,SPOCK1, SULF1, THBS, GADD45B)를 선별했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "실제 이 유전자 6개를 새로운 환자 317명의 표본으로 확인한 결과 재발 위험도가 성공적으로 예측됐다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "기존에는 위암 재발을 예측하는 마땅한 검사법이 없었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그러나 이번 연구로 인해 위암 재발 여부를 객관적·독립적으로 예측할 수 있게 됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "분당서울대병원 이근욱 교수(혈액종양내과)는 “각 환자가 가진 암세포의 특성에 따라 위암의 재발 위험을 예측할 수 있는 방법을 개발했고, 이 검사법이 진료 현장에 적용하기에 쉽다는 것에 큰 의미가 있다”며, “향후 검사법의 신뢰성을 높일 수 있는 추가적 연구가 진행될 예정”이라고 말했다.",
+        "sentenceSize": 160
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "한편, 이번 연구 결과는 암 관련 저명 학술지인 ‘Clinical Cancer Research’에 발표됐다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "위암 재발 예측 가능한 '유전자 검사법' 어떻게 개발되었나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198980",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "식후 30분 지나 약 복용? 이제 식사 '직후'에 먹으세요",
+    "newsSubTitle": "서울대병원 약사위원회 결정, 복약 순응도 향상 기대",
+    "newsContent": "[김선영 기자] 서울대병원이 가장 기본적인 복약 지도 내용 중 하나였던 '식사 후 30분 복용' 기준을 '식사 직후'로 변경키로 했다.\n지금껏 의약계에는 '식사를 한 후 30분이 지나 약을 복용해야 한다'는 복약 기준이 있었다.\n하지만 이는 식품의약품안전처 허가사항에 존재하지 않는 관행이었다.\n환자는 밥을 먹고 30분이 넘기를 기다리다 약 먹는 것을 잊어버리기 일쑤였다.\n약은 종류와 성격에 따라 ‘식후’, ‘식전’, ‘취침 전’ 등 지정된 용법이 있다.\n음식물과 함께 섭취할 때 약효가 높아지거나 위 점막을 보호할 필요가 있는 때는 '식후' 복용이 원칙이다.\n반대로 음식물이 약의 체내 흡수를 방해하거나 식전 복용에 약효가 잘 나타날 때는 '식전'에 먹어야 한다. ‘취침 전’에 약을 먹는 경우는 변비약처럼 아침에 배변 효과를 기대하거나 졸음을 유발하는 항히스타민제가 포함돼 있을 때다. ‘식사 후 30분’ 처방은 약물로 인한 속 쓰림을 예방하고, 몸속에서 약이 일정한 농도를 유지할 수 있도록 돕기 위해서였다.\n그러나 병원에서는 여러 약을 복용하면 시간에 맞춰 약물 복용이 어렵다는 민원이 지속적으로 제기돼 왔다.\n특히 ‘식사 후 30분’ 약 복용은 의학적 근거가 부족하다.\n다른 나라에서는 이런 복약기준을 따르지 않고 있다.\n이에 따라 서울대병원 약사위원회는 지속적인 논의를 거쳐 복약용법을 변경키로 했다.\n약사위원회 위원장을 맡고 있는 신장내과 김연수 교수는 “이번 변경은 의료진 중심이 아닌 환자 중심 처방을 위한 병원 내부 노력의 결과물”이라며 “약 섭취가 제때 이뤄지면 치료효과에도 긍정적인 결과를 가져올 것으로 기대한다”고 말했다.\n약제부장 조윤숙 약사는 “이번 변경은 처방을 보다 간소화 시켜 병원 내 조제 대기시간을 줄이는 데도 도움이 될 것”이라고 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김선영 기자] 서울대병원이 가장 기본적인 복약 지도 내용 중 하나였던 '식사 후 30분 복용' 기준을 '식사 직후'로 변경키로 했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지금껏 의약계에는 '식사를 한 후 30분이 지나 약을 복용해야 한다'는 복약 기준이 있었다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 이는 식품의약품안전처 허가사항에 존재하지 않는 관행이었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "환자는 밥을 먹고 30분이 넘기를 기다리다 약 먹는 것을 잊어버리기 일쑤였다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "약은 종류와 성격에 따라 ‘식후’, ‘식전’, ‘취침 전’ 등 지정된 용법이 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "음식물과 함께 섭취할 때 약효가 높아지거나 위 점막을 보호할 필요가 있는 때는 '식후' 복용이 원칙이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "반대로 음식물이 약의 체내 흡수를 방해하거나 식전 복용에 약효가 잘 나타날 때는 '식전'에 먹어야 한다. ‘취침 전’에 약을 먹는 경우는 변비약처럼 아침에 배변 효과를 기대하거나 졸음을 유발하는 항히스타민제가 포함돼 있을 때다. ‘식사 후 30분’ 처방은 약물로 인한 속 쓰림을 예방하고, 몸속에서 약이 일정한 농도를 유지할 수 있도록 돕기 위해서였다.",
+        "sentenceSize": 197
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러나 병원에서는 여러 약을 복용하면 시간에 맞춰 약물 복용이 어렵다는 민원이 지속적으로 제기돼 왔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "특히 ‘식사 후 30분’ 약 복용은 의학적 근거가 부족하다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "다른 나라에서는 이런 복약기준을 따르지 않고 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이에 따라 서울대병원 약사위원회는 지속적인 논의를 거쳐 복약용법을 변경키로 했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "약사위원회 위원장을 맡고 있는 신장내과 김연수 교수는 “이번 변경은 의료진 중심이 아닌 환자 중심 처방을 위한 병원 내부 노력의 결과물”이라며 “약 섭취가 제때 이뤄지면 치료효과에도 긍정적인 결과를 가져올 것으로 기대한다”고 말했다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "약제부장 조윤숙 약사는 “이번 변경은 처방을 보다 간소화 시켜 병원 내 조제 대기시간을 줄이는 데도 도움이 될 것”이라고 강조했다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'그동안의 약 복용 시간은 잊으세요'... 서울대 병원, 이 방법으로 복약 지도 내용 변경",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196090",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "아라비카 원두 특징…\\\"다른 원두보다 카페인 함량 낮다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "아라비카 원두 특징이 화제다.\n아라비카 원두는 주로 에티오피아의 남동 고산지대에서 생산된다.\n브라질, 콜롬비아, 멕시코 등 남아메리카 전 지역에서 생산되며 에티오피아의 아비시니 고원, 탄자니아, 케냐 등 아프리카 등지와 인도, 인도네시아 등의 아시아 국가에서도 생산된다.\n아라비카 원두는 전 세계 커피 생산량의 70%를 차지한다.\n아라비카종은 기계를 이용한 대량 재배가 불가능하기 때문에 사람 손으로 일일이 심고 수확해야 한다.\n아라비카종은 커피 나무를 심은지 3~4년이 되면 꽃이 피기 시작한다. 5년이 지나면 생두의 수확이 가능하다.\n아라비카 원두는 주로 녹색빛을 띠며 타원형으로 납작하고 길쭉한 모양이다.\n아라비카종은 평균 기온은 15~24도, 강수량은 1200~1500mm 정도의 기후에서 잘 자라며 다 자랄 경우의 높이는 4~6m 정도다.\n아라비카종은 높은 지대에서 자랄수록 서늘한 기후 때문에 열매가 서서히 익어 밀도가 단단해진다.\n이 때문에 높은 지대에서 재배될수록 질이 좋은 것으로 인정된다.\n아라비카종은 다른 커피 나무에 비해 병충해에 약하며 기온이 30도 이상으로 올라가게 되면 나무에 심각한 타격을 받게 된다는 단점을 지니기도 한다.\n한편 아라비카 원두는 로부스타나 다른 원두의 맛에 비해 부드럽고 카페인의 함량도 0.8~1.5% 더 낮기 때문에 하루 커피를 2~3잔씩 마시는 사람들도 부담 없이 즐길 수 있다.\n온라인 중앙일보 ‘아라비카 원두 특징’ [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아라비카 원두 특징이 화제다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아라비카 원두는 주로 에티오피아의 남동 고산지대에서 생산된다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "브라질, 콜롬비아, 멕시코 등 남아메리카 전 지역에서 생산되며 에티오피아의 아비시니 고원, 탄자니아, 케냐 등 아프리카 등지와 인도, 인도네시아 등의 아시아 국가에서도 생산된다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아라비카 원두는 전 세계 커피 생산량의 70%를 차지한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아라비카종은 기계를 이용한 대량 재배가 불가능하기 때문에 사람 손으로 일일이 심고 수확해야 한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아라비카종은 커피 나무를 심은지 3~4년이 되면 꽃이 피기 시작한다. 5년이 지나면 생두의 수확이 가능하다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아라비카 원두는 주로 녹색빛을 띠며 타원형으로 납작하고 길쭉한 모양이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아라비카종은 평균 기온은 15~24도, 강수량은 1200~1500mm 정도의 기후에서 잘 자라며 다 자랄 경우의 높이는 4~6m 정도다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아라비카종은 높은 지대에서 자랄수록 서늘한 기후 때문에 열매가 서서히 익어 밀도가 단단해진다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 때문에 높은 지대에서 재배될수록 질이 좋은 것으로 인정된다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "아라비카종은 다른 커피 나무에 비해 병충해에 약하며 기온이 30도 이상으로 올라가게 되면 나무에 심각한 타격을 받게 된다는 단점을 지니기도 한다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "한편 아라비카 원두는 로부스타나 다른 원두의 맛에 비해 부드럽고 카페인의 함량도 0.8~1.5% 더 낮기 때문에 하루 커피를 2~3잔씩 마시는 사람들도 부담 없이 즐길 수 있다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "온라인 중앙일보 ‘아라비카 원두 특징’ [사진 중앙포토]",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "화제가 되고 있는 아라비카 원두의 특징은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

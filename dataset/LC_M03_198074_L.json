@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198074",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[알림] 김대진과 함께 클래식의 세계로",
+    "newsSubTitle": "예술의전당 청소년음악회",
+    "newsContent": "중앙일보와 예술의전당이 함께 주최하는 ‘2007 예술의전당 청소년음악회-김대진의 음악교실’이 11월 24일, 12월 15일 열립니다.\n이 공연은 문화시대의 주역이 될 청소년들에게 필수적인 음악 지식을 전달하고, 교향악에 대한 폭넓은 이해를 도와주기 위해 기획된 국내 최고의 청소년 클래식 프로그램입니다.\n인기 피아니스트 김대진(사진)의 명쾌한 해설과 지휘, 강남심포니의 연주를 통해 청소년 및 클래식 입문자들을 재미있고 놀라운 클래식의 세계로 안내합니다.\n11월 공연에서는 작곡가 베를리오즈의 ‘환상교향곡’을 통해 교향곡이 가지고 있는 특성을 알아보며, 12월에는 시벨리우스를 소개합니다.\n색다른 클래식 음악의 세계로 빠져보시기 바랍니다.\n◆일시 및 주제:11월 24일 오후 5시(베를리오즈의 환상여행)/12월 15일 오후 5시(시벨리우스의 서정과 서사) ◆장소:예술의전당 콘서트홀 ◆출연 및 프로그램:예술의전당 홈페이지 참조(www.sac.or.kr) ◆입장권:S석(일반 1만5000원, 청소년 1만2000원), A석(일반 1만원, 청소년 8000원) ◆예매:티켓링크 1588-7890, www.ticketlink.co.kr/ 인터파크 1544-1555 www.interpark.com",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중앙일보와 예술의전당이 함께 주최하는 ‘2007 예술의전당 청소년음악회-김대진의 음악교실’이 11월 24일, 12월 15일 열립니다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 공연은 문화시대의 주역이 될 청소년들에게 필수적인 음악 지식을 전달하고, 교향악에 대한 폭넓은 이해를 도와주기 위해 기획된 국내 최고의 청소년 클래식 프로그램입니다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "인기 피아니스트 김대진(사진)의 명쾌한 해설과 지휘, 강남심포니의 연주를 통해 청소년 및 클래식 입문자들을 재미있고 놀라운 클래식의 세계로 안내합니다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "11월 공연에서는 작곡가 베를리오즈의 ‘환상교향곡’을 통해 교향곡이 가지고 있는 특성을 알아보며, 12월에는 시벨리우스를 소개합니다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "색다른 클래식 음악의 세계로 빠져보시기 바랍니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "◆일시 및 주제:11월 24일 오후 5시(베를리오즈의 환상여행)/12월 15일 오후 5시(시벨리우스의 서정과 서사) ◆장소:예술의전당 콘서트홀 ◆출연 및 프로그램:예술의전당 홈페이지 참조(www.sac.or.kr) ◆입장권:S석(일반 1만5000원, 청소년 1만2000원), A석(일반 1만원, 청소년 8000원) ◆예매:티켓링크 1588-7890, www.ticketlink.co.kr/ 인터파크 1544-1555 www.interpark.com",
+        "sentenceSize": 250
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인기 피아니스트 김대진과 함께하는 클래식 음악 교실이 이곳에서 열린다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

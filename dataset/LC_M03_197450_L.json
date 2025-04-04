@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197450",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "제왕절개 흉터 제거, 상처 아물때 바로 해야 효과↑",
+    "newsSubTitle": "흉터 부풀고 정상 피부 침범하면 병원 찾아야",
+    "newsContent": "오는 10일은 ‘임산부의 날’이다.\n고령산모가 늘면서 이들의 출산과 산후조리에 대한 사회적 배려와 관심이 더욱 강조되고 있다.\n이들이 주로 찾는 수술로 제왕절개가 있는데, 이로 인한 흉터는 산모에게 부담을 주고, 자신감 저하는 물론 심한 경우 산후 우울증의 원인이 되기도 한다.\n흉터는 제왕절개 수술의 범위와 염증의 정도 등에 따라 개인차가 있다.\n보통 붉은색의 돌출된 선상 흉터로 나타나며 가려움증을 동반하기도 한다.\n만일 흉터가 부풀어 오르고 정상 피부의 영역까지 커지는 증상이 나타난다면 켈로이드 흉터일 가능성이 높다.\n이 때는 병원을 찾아 정밀진단을 받는 것이 좋다.\n연세대 강남 세브란스병원 피부과 노미령 교수는 “켈로이드의 경우 약물 주사 요법, 레이저, 수술 등을 통해 흉터 병변 완화가 가능하다”며 적극적인 치료를 권했다.\n보통 재왕절개로 인한 흉터는 바르는 치료제를 이용해 집에서도 효과적으로 관리할 수 있다.\n대표적 치료제인 '더마틱스 울트라'는 흉터를 잠재우고, 붉게 변색된 부분을 흐리게 완화시키는 효과가 있다.\n미국, 유럽, 아시아의 흉터치료 가이드 라인에서 1차 치료제로 추천한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오는 10일은 ‘임산부의 날’이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "고령산모가 늘면서 이들의 출산과 산후조리에 대한 사회적 배려와 관심이 더욱 강조되고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이들이 주로 찾는 수술로 제왕절개가 있는데, 이로 인한 흉터는 산모에게 부담을 주고, 자신감 저하는 물론 심한 경우 산후 우울증의 원인이 되기도 한다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "흉터는 제왕절개 수술의 범위와 염증의 정도 등에 따라 개인차가 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "보통 붉은색의 돌출된 선상 흉터로 나타나며 가려움증을 동반하기도 한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "만일 흉터가 부풀어 오르고 정상 피부의 영역까지 커지는 증상이 나타난다면 켈로이드 흉터일 가능성이 높다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 때는 병원을 찾아 정밀진단을 받는 것이 좋다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연세대 강남 세브란스병원 피부과 노미령 교수는 “켈로이드의 경우 약물 주사 요법, 레이저, 수술 등을 통해 흉터 병변 완화가 가능하다”며 적극적인 치료를 권했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "보통 재왕절개로 인한 흉터는 바르는 치료제를 이용해 집에서도 효과적으로 관리할 수 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "대표적 치료제인 '더마틱스 울트라'는 흉터를 잠재우고, 붉게 변색된 부분을 흐리게 완화시키는 효과가 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "미국, 유럽, 아시아의 흉터치료 가이드 라인에서 1차 치료제로 추천한다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "끔찍한 제왕절개 흉터 어떻게 치료할까",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

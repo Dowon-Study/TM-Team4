@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193383",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[병원평가] 닥터 J 가 말하는 평가 의의",
+    "newsSubTitle": "",
+    "newsContent": "가족 중에 누가 암에 걸리면 당장 어떤 병원에 가야 하는지 막막합니다.\n병원에 대한 정보가 그만큼 없기 때문입니다.\n입소문만 듣고 병원을 결정하기도 합니다.\n지방에 사는 사람은 무작정 서울의 큰 병원을 찾아왔다가 돈만 잔뜩 쓰고 치료를 제대로 받지 못하기도 합니다.\n그래서 중앙일보는 암 수술을 많이 하는 병원의 순위를 공개합니다.\n병원 정보에 갈증을 느끼는 환자들에게 유용한 정보가 될 것이라는 기대에서입니다.\n물론 수술 건수가 많은 병원이 반드시 좋은 병원은 아닙니다.\n그러나 수술을 많이 하는 병원일수록 환자의 생존율이 높다는 연구 결과는 국내외에 많습니다.\n진료의 질을 평가하는 중요한 기준이라는 의미입니다.\n이번 분석 결과에 '평가'라는 용어를 사용한 것도 그런 이유에서입니다.\n또 이번을 시작으로 보다 정교한 병원 평가가 이뤄져야 한다는 바람도 있습니다.\n미국에서는 병원협회나 각 보험사.언론사.시민단체 등이 다양한 형태로 병원의 정보를 제공합니다.\n병원을 평가해 순위를 매기기도 합니다.\n병원은 좋은 평가를 받으려고 서로 경쟁하고, 환자는 많은 정보를 갖고 병원을 선택할 수 있는 것이지요.\n◆ 내일은 백내장.치질.인공관절 수술 편이 나갑니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가족 중에 누가 암에 걸리면 당장 어떤 병원에 가야 하는지 막막합니다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "병원에 대한 정보가 그만큼 없기 때문입니다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "입소문만 듣고 병원을 결정하기도 합니다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지방에 사는 사람은 무작정 서울의 큰 병원을 찾아왔다가 돈만 잔뜩 쓰고 치료를 제대로 받지 못하기도 합니다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그래서 중앙일보는 암 수술을 많이 하는 병원의 순위를 공개합니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "병원 정보에 갈증을 느끼는 환자들에게 유용한 정보가 될 것이라는 기대에서입니다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "물론 수술 건수가 많은 병원이 반드시 좋은 병원은 아닙니다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러나 수술을 많이 하는 병원일수록 환자의 생존율이 높다는 연구 결과는 국내외에 많습니다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "진료의 질을 평가하는 중요한 기준이라는 의미입니다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이번 분석 결과에 '평가'라는 용어를 사용한 것도 그런 이유에서입니다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "또 이번을 시작으로 보다 정교한 병원 평가가 이뤄져야 한다는 바람도 있습니다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "미국에서는 병원협회나 각 보험사.언론사.시민단체 등이 다양한 형태로 병원의 정보를 제공합니다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "병원을 평가해 순위를 매기기도 합니다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "병원은 좋은 평가를 받으려고 서로 경쟁하고, 환자는 많은 정보를 갖고 병원을 선택할 수 있는 것이지요.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "◆ 내일은 백내장.치질.인공관절 수술 편이 나갑니다.",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "입소문만 듣고 가면 '케바케'인 병원... 진료의 질 평가 정보 중요 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

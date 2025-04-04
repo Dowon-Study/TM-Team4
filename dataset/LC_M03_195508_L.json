@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195508",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "서울대 연구팀 \\\"수면 무호흡증, 암세포 키운다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "흔히 '코골이'로 불리는 수면 무호흡증은 우리나라 국민 10명 중 2명이 가진 질환으로 알려졌다.\n이러한 수면 무호흡증이 암의 성장 속도에 영향을 미친다는 연구결과가 나왔다.\n신현우 서울대병원 이비인후과 교수팀은 22일, 수면 무호흡증의 대표적인 증상인 간헐적 저산소가 암 종양이 커지는 속도에 영향을 미치는 것으로 드러났다고 밝혔다.\n이번 연구결과는 국제학술지 '암표적'(Oncotarget) 최근호에 게재됐다.\n연구팀은 암세포를 이식한 쥐를 저산소 상태에 노출시켜 간접적으로 둘의 연관성을 입증했다.\n경증 저산소 군(시간당 10회 저산소 노출)과 중증 저산소 군(시간당 20회 저산소 노출)의 쥐를 비교한 결과, 중증 저산소 군의 암 종양 무게가 경증 저산소 군 대비 2.5배 더 증가한 것으로 드러난 것이다.\n암 종양의 유전자를 분석한 결과, 저산소 적응 반응에 역할을 하는 단백질인 'HIF-1α'가 활발한 작용을 보임으로써 하위 단백질과 함께 암세포를 성장시킨 것으로 파악됐다.\n연구팀을 이끈 신 교수는 \\\"암세포가 저산소에 빈번하게 노출되면 신생 혈관·산소·영양 공급을 늘리기 때문에 성장이 더 많이 이뤄지는 것으로 확인됐다\\\"며 \\\"수면 무호흡증처럼 몸에 저산소 상태가 자주 나타나면 암세포 성장 가능성이 더 크다\\\"고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "흔히 '코골이'로 불리는 수면 무호흡증은 우리나라 국민 10명 중 2명이 가진 질환으로 알려졌다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이러한 수면 무호흡증이 암의 성장 속도에 영향을 미친다는 연구결과가 나왔다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신현우 서울대병원 이비인후과 교수팀은 22일, 수면 무호흡증의 대표적인 증상인 간헐적 저산소가 암 종양이 커지는 속도에 영향을 미치는 것으로 드러났다고 밝혔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 연구결과는 국제학술지 '암표적'(Oncotarget) 최근호에 게재됐다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연구팀은 암세포를 이식한 쥐를 저산소 상태에 노출시켜 간접적으로 둘의 연관성을 입증했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "경증 저산소 군(시간당 10회 저산소 노출)과 중증 저산소 군(시간당 20회 저산소 노출)의 쥐를 비교한 결과, 중증 저산소 군의 암 종양 무게가 경증 저산소 군 대비 2.5배 더 증가한 것으로 드러난 것이다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "암 종양의 유전자를 분석한 결과, 저산소 적응 반응에 역할을 하는 단백질인 'HIF-1α'가 활발한 작용을 보임으로써 하위 단백질과 함께 암세포를 성장시킨 것으로 파악됐다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연구팀을 이끈 신 교수는 \\\"암세포가 저산소에 빈번하게 노출되면 신생 혈관·산소·영양 공급을 늘리기 때문에 성장이 더 많이 이뤄지는 것으로 확인됐다\\\"며 \\\"수면 무호흡증처럼 몸에 저산소 상태가 자주 나타나면 암세포 성장 가능성이 더 크다\\\"고 밝혔다.",
+        "sentenceSize": 141
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국제학술지 '암표적'에 게재된 코골이와 암의 상관관계는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

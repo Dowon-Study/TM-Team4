@@ -1,0 +1,258 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_192929",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[편집자레터] 동업자 정신이 아쉬운 때",
+    "newsSubTitle": "",
+    "newsContent": "매에는 장사 없다고들 하지요.\n우리 출판계는 이번 초여름 유례없는 불황을 겪었습니다.\n크기에 상관없이 신음을 내더니만 드디어 흉흉한 소문이 흘러 다닙니다.\n어느 출판사에선 직원의 30%를 감원하고도 앞으로 추가 감원계획이 있다더라, 어느 곳엔 제1 금융권에서 대출을 해주지 않는다더라 하는 이야기들입니다.\n더한 소문도 있습니다.\n어떤 출판사는 지업사에서 종이를 대주지 않기로 했다더라, 이름이 알려진 모 출판사에선 직원 월급을 못 준다더라란 풍문까지 돕니다.\n물론 당사자들은 모두 부인하긴 합니다. “어디서 그런 얘기를 들었냐”고 항의성 질문을 하기도 합니다.\n설사 그런 소문들이, 말 하기 좋아하는 사람들이 지어낸 이야기라 할지라도 그럴만한 상황이 있는 것으로 짐작됩니다.\n그래서 출판계의 시름은 깊어갑니다.\n이런 상황에 차마 믿기 힘든 이야기를 들었습니다.\n재력이 있는 출판사에서 좋은 조건으로 내세워 유망 저자들을 싹쓸이하려 한다는 겁니다.\n그 조건이 기가 막혔습니다.\n모모 신문에 광고를 내주겠다, 초판 판매를 보장하고 대형 서점의 베스트셀러 순위에 2, 3주간 머물게 해주겠다는 내용이랍니다.\n이 이야기를 전해준 출판인은 “이제 소규모 출판사는 설 자리가 없다”며 한숨을 쉬더군요.\n전해 들은 이야기라 “설마, 그렇게까지야…”싶었죠.\n하지만 며칠 뒤 만난 어느 저자는 지난해 같은 출판사에서 “2만 부 인세는 보장한다”며 영입 제의를 받은 적이 있다고 털어놓더군요.\n출판도 사업이니 있는 집에서 저자들을 싹쓸이할 수도 있겠습니다.\n저자들에게 좋은 대우를 해준다는 데 손가락질할 일도 아니죠.\n그런데 입맛이 썼습니다.\n인위적으로 베스트셀러를 만들 수 있다는 그 ‘자신감’ 때문이었습니다.\n또 그렇게 무리한 마케팅을 하자면 책값도 올려야 하고, 팔리는 책 위주로 내다보면 독서문화를 왜곡하지 않을까 걱정도 됐습니다.\n무엇보다 다른 소규모 출판사에서 키워낸 저자들을 그렇게 빼가는 것은 몰염치한 행위입니다.\n남의 ‘재산’을 빼돌리는 격이니까요.\n프로 스포츠에서 빈볼이나 과격한 파울을 보면 ‘동업자 정신’이 아쉽다고들 하지요.\n출판계에서도 동업자 정신을 기대하면 무리일까요?\n책끼리는 어차피 경쟁관계도 아니고 너나 할 것 없이 어려운 마당에 말입니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 26,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "매에는 장사 없다고들 하지요.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우리 출판계는 이번 초여름 유례없는 불황을 겪었습니다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "크기에 상관없이 신음을 내더니만 드디어 흉흉한 소문이 흘러 다닙니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "어느 출판사에선 직원의 30%를 감원하고도 앞으로 추가 감원계획이 있다더라, 어느 곳엔 제1 금융권에서 대출을 해주지 않는다더라 하는 이야기들입니다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "더한 소문도 있습니다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "어떤 출판사는 지업사에서 종이를 대주지 않기로 했다더라, 이름이 알려진 모 출판사에선 직원 월급을 못 준다더라란 풍문까지 돕니다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "물론 당사자들은 모두 부인하긴 합니다. “어디서 그런 얘기를 들었냐”고 항의성 질문을 하기도 합니다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "설사 그런 소문들이, 말 하기 좋아하는 사람들이 지어낸 이야기라 할지라도 그럴만한 상황이 있는 것으로 짐작됩니다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그래서 출판계의 시름은 깊어갑니다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이런 상황에 차마 믿기 힘든 이야기를 들었습니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "재력이 있는 출판사에서 좋은 조건으로 내세워 유망 저자들을 싹쓸이하려 한다는 겁니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그 조건이 기가 막혔습니다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "모모 신문에 광고를 내주겠다, 초판 판매를 보장하고 대형 서점의 베스트셀러 순위에 2, 3주간 머물게 해주겠다는 내용이랍니다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이 이야기를 전해준 출판인은 “이제 소규모 출판사는 설 자리가 없다”며 한숨을 쉬더군요.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "전해 들은 이야기라 “설마, 그렇게까지야…”싶었죠.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "하지만 며칠 뒤 만난 어느 저자는 지난해 같은 출판사에서 “2만 부 인세는 보장한다”며 영입 제의를 받은 적이 있다고 털어놓더군요.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "출판도 사업이니 있는 집에서 저자들을 싹쓸이할 수도 있겠습니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "저자들에게 좋은 대우를 해준다는 데 손가락질할 일도 아니죠.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "그런데 입맛이 썼습니다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "인위적으로 베스트셀러를 만들 수 있다는 그 ‘자신감’ 때문이었습니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "또 그렇게 무리한 마케팅을 하자면 책값도 올려야 하고, 팔리는 책 위주로 내다보면 독서문화를 왜곡하지 않을까 걱정도 됐습니다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "무엇보다 다른 소규모 출판사에서 키워낸 저자들을 그렇게 빼가는 것은 몰염치한 행위입니다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "남의 ‘재산’을 빼돌리는 격이니까요.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "프로 스포츠에서 빈볼이나 과격한 파울을 보면 ‘동업자 정신’이 아쉽다고들 하지요.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "출판계에서도 동업자 정신을 기대하면 무리일까요?",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "책끼리는 어차피 경쟁관계도 아니고 너나 할 것 없이 어려운 마당에 말입니다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "동업자 정신을 기대하는 것은 과한 욕심일까요?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

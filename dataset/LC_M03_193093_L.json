@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193093",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "챔픽스 제품설명서에 블랙박스 경고문 삭제",
+    "newsSubTitle": "FDA ‘심각한 신경정신학적 이상반응’ 경고 삭제 승인",
+    "newsContent": "[김진구 기자] 미국 식품의약국(FDA)은 지난 16일 챔픽스(성분명 바레니클린)의 제품설명서에서 ‘심각한 신경정신학적 이상반응’에 대한 블랙박스 경고문을 삭제할 것을 최종 승인했다.\n경고문 삭제는 2016년 ‘란셋(The Lancet)’에 발표된 연구결과에 기반을 두고 있다.\n최근 FDA 산하 정신약물학자문위원회(PDAC)와 약물안전성·위험성관리자문위원회(DSARM)에서도 이런 권고안을 발표한 바 있다.\n제품설명서에는 앞으로 신경정신학적 안전성에 관한 내용과 부프로피온 및 니코틴패치 대비 높은 금연치료 효과에 대한 내용도 함께 실릴 예정이다.\n화이자 의학부 최고책임자인 프레다 루이스-홀 박사(Freda Lewis-Hall)는 “최대 규모의 금연치료 보조요법 비교 임상연구인 EAGLES에 기반한 FDA의 챔픽스 블랙박스 경고문 삭제 결정을 기쁘게 생각한다”고 말했다.\n심각한 신경정신학적 이상반응은 기분변화(우울증 및 조증 포함), 정신질환, 환각, 편집증, 망상, 살인 상상, 공격성, 적개심, 불안, 공황, 자살기도, 자살 시도, 자살 등을 의미한다.\n지금까지는 챔픽스를 먹으며 금연을 시도하는 흡연자는 이런 이상반응이 나타나는지 살피고, 이상반응이 나타났을 땐 즉각 의료진과 상의토록 했다.\n얼마 전 발표된 대규모 임상연구에선 정신질환 유무와 관계없이 위약 또는 다른 금연보조제(니코틴패치·니코틴껌)과 비교해 중등도 혹은 중증의 이상반응률을 유의하게 증가시키지 않았다는 결론이 나왔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 미국 식품의약국(FDA)은 지난 16일 챔픽스(성분명 바레니클린)의 제품설명서에서 ‘심각한 신경정신학적 이상반응’에 대한 블랙박스 경고문을 삭제할 것을 최종 승인했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "경고문 삭제는 2016년 ‘란셋(The Lancet)’에 발표된 연구결과에 기반을 두고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 FDA 산하 정신약물학자문위원회(PDAC)와 약물안전성·위험성관리자문위원회(DSARM)에서도 이런 권고안을 발표한 바 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "제품설명서에는 앞으로 신경정신학적 안전성에 관한 내용과 부프로피온 및 니코틴패치 대비 높은 금연치료 효과에 대한 내용도 함께 실릴 예정이다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "화이자 의학부 최고책임자인 프레다 루이스-홀 박사(Freda Lewis-Hall)는 “최대 규모의 금연치료 보조요법 비교 임상연구인 EAGLES에 기반한 FDA의 챔픽스 블랙박스 경고문 삭제 결정을 기쁘게 생각한다”고 말했다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "심각한 신경정신학적 이상반응은 기분변화(우울증 및 조증 포함), 정신질환, 환각, 편집증, 망상, 살인 상상, 공격성, 적개심, 불안, 공황, 자살기도, 자살 시도, 자살 등을 의미한다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지금까지는 챔픽스를 먹으며 금연을 시도하는 흡연자는 이런 이상반응이 나타나는지 살피고, 이상반응이 나타났을 땐 즉각 의료진과 상의토록 했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "얼마 전 발표된 대규모 임상연구에선 정신질환 유무와 관계없이 위약 또는 다른 금연보조제(니코틴패치·니코틴껌)과 비교해 중등도 혹은 중증의 이상반응률을 유의하게 증가시키지 않았다는 결론이 나왔다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "제품설명서에서 경고문 삭제 승인... 최고책임자 \"기쁘게 생각\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

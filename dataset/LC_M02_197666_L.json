@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_197666",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "\\\"스윙스 VS 버벌진트\\\"...'쇼미더머니8', 확 달라진 프로듀서 라인업",
+    "newsSubTitle": "",
+    "newsContent": "국내 최장수 힙합 프로그램으로 꼽히는 '쇼미더머니8'이 프로듀서 체제의 대대적인 변화를 단행한다.\n올 여름 방송 예정인 Mnet '쇼미더머니8'은 기존의 4팀 체제가 아닌 두 개의 크루 체제를 새롭게 도입, 변화에 나선다.\n두 팀의 크루로 나뉜 래퍼들은 랩 배틀에서 정면으로 맞붙게 된다.\n먼저, 핫한 레이블의 수장 스윙스와 래퍼 매드클라운, 키드밀리가 한 팀을 이룬다.\n여기에 촉망 받고 있는 비트메이커 보이콜드가 가세할 예정이다.\n이에 맞서 폭넓은 음악 스펙트럼을 보여준 버벌진트와 개성파 프로듀서 기리보이, 비와이, 독특한 스타일로 트렌드를 만들어가는 비트메이커 밀릭이 한 팀을 이뤄 대결을 벌인다.\n이에 대해 '쇼미더머니8' 측은 미디어SR에 \\\" 빠르게 변화하는 힙합 장르의 트렌드에 발맞춰 각자 포지션이 뚜렷한 인물들로 크루 구성원들을 발탁했다\\\"고 설명했다.\n국내 힙합의 역사를 아우르는 선배 아티스트부터 '쇼미더머니'의 기존 시즌에서 독보적 존재감을 드러냈던 현역 아티스트는 물론, 차세대 국내 힙합을 이끌 신예 비트메이커들까지 총망라해 지난 시즌과 차별화된 재미를 선사한다는 각오다.\n대결 구도를 강화해 서바이벌의 묘미와 긴장감이 더욱 극대화될 전망. '쇼미더머니8'은 올 여름 방송을 앞두고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국내 최장수 힙합 프로그램으로 꼽히는 '쇼미더머니8'이 프로듀서 체제의 대대적인 변화를 단행한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "올 여름 방송 예정인 Mnet '쇼미더머니8'은 기존의 4팀 체제가 아닌 두 개의 크루 체제를 새롭게 도입, 변화에 나선다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 팀의 크루로 나뉜 래퍼들은 랩 배틀에서 정면으로 맞붙게 된다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "먼저, 핫한 레이블의 수장 스윙스와 래퍼 매드클라운, 키드밀리가 한 팀을 이룬다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여기에 촉망 받고 있는 비트메이커 보이콜드가 가세할 예정이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 맞서 폭넓은 음악 스펙트럼을 보여준 버벌진트와 개성파 프로듀서 기리보이, 비와이, 독특한 스타일로 트렌드를 만들어가는 비트메이커 밀릭이 한 팀을 이뤄 대결을 벌인다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 대해 '쇼미더머니8' 측은 미디어SR에 \\\" 빠르게 변화하는 힙합 장르의 트렌드에 발맞춰 각자 포지션이 뚜렷한 인물들로 크루 구성원들을 발탁했다\\\"고 설명했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "국내 힙합의 역사를 아우르는 선배 아티스트부터 '쇼미더머니'의 기존 시즌에서 독보적 존재감을 드러냈던 현역 아티스트는 물론, 차세대 국내 힙합을 이끌 신예 비트메이커들까지 총망라해 지난 시즌과 차별화된 재미를 선사한다는 각오다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "대결 구도를 강화해 서바이벌의 묘미와 긴장감이 더욱 극대화될 전망. '쇼미더머니8'은 올 여름 방송을 앞두고 있다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대대적 변화 강행하는 `쇼미더머니8` 새롭게 도입하는 체제는 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194736",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "에이즈 감염자 4000만 명 돌파",
+    "newsSubTitle": "유엔 보고서 올해에만 310만 명 사망 … 모자 감염 급증",
+    "newsContent": "전 세계의 에이즈(후천성면역결핍증) 감염자가 사상 처음 4000만 명을 넘었다고 유엔이 21일 밝혔다.\n에이스 감염자는 2003년 3750만 명에서 지난해 3940만 명, 올해 4030만 명으로 늘었다.\n1981년 첫 발병 보고 이후 지난해까지 2600만 명이 숨졌다.\n유엔에이즈계획(UNAIDS)과 세계보건기구(WHO)는 이날 인도 뉴델리에서 세계 에이즈의 날(12월 1일)을 앞두고 '유엔 에이즈 감염 현황 보고서'를 공동 발표했다.\n다음은 보고서 요지.\n어린이.청소년이 에이즈 확산에 무방비로 노출되고 있다.\n올해 사망자 310만 명 중 15세 미만이 50만 명 이상이다.\n또 신규 감염자 중 절반 이상이 15~24세다.\n유엔에이즈계획은 \\\"어린이 사망자가 많은 것은 어머니로부터 태아로 전해지는 '모자 감염' 때문이라고 밝혔다. 대륙별로는 사하라 이남 아프리카가 최대 피해 지역이다. 감염자 수만 전 세계 환자의 64%인 2580만 명이다. 그 다음 위험지대는 아시아다. 마약.매춘 등으로 감염자가 급증하면서다. 인도는 510만 명으로 추정돼 아시아 각국 중 최대 규모다. 인도네시아.베트남과 중국 남부, 파키스탄의 확산 속도도 우려된다. 한편 유엔에이즈계획은 에이즈 바이러스 억제 약품인 '항(抗) 레트로바이러스'의 치료 효과를 주장하며 생산량을 늘려야 한다고 밝혔다. 보고서는 \\\"최근 2년간 저개발국가 100만 명 이상이 이 약품으로 생명을 연장하고 있다\\\"고 주장했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전 세계의 에이즈(후천성면역결핍증) 감염자가 사상 처음 4000만 명을 넘었다고 유엔이 21일 밝혔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "에이스 감염자는 2003년 3750만 명에서 지난해 3940만 명, 올해 4030만 명으로 늘었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1981년 첫 발병 보고 이후 지난해까지 2600만 명이 숨졌다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유엔에이즈계획(UNAIDS)과 세계보건기구(WHO)는 이날 인도 뉴델리에서 세계 에이즈의 날(12월 1일)을 앞두고 '유엔 에이즈 감염 현황 보고서'를 공동 발표했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다음은 보고서 요지.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "어린이.청소년이 에이즈 확산에 무방비로 노출되고 있다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "올해 사망자 310만 명 중 15세 미만이 50만 명 이상이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 신규 감염자 중 절반 이상이 15~24세다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "유엔에이즈계획은 \\\"어린이 사망자가 많은 것은 어머니로부터 태아로 전해지는 '모자 감염' 때문이라고 밝혔다. 대륙별로는 사하라 이남 아프리카가 최대 피해 지역이다. 감염자 수만 전 세계 환자의 64%인 2580만 명이다. 그 다음 위험지대는 아시아다. 마약.매춘 등으로 감염자가 급증하면서다. 인도는 510만 명으로 추정돼 아시아 각국 중 최대 규모다. 인도네시아.베트남과 중국 남부, 파키스탄의 확산 속도도 우려된다. 한편 유엔에이즈계획은 에이즈 바이러스 억제 약품인 '항(抗) 레트로바이러스'의 치료 효과를 주장하며 생산량을 늘려야 한다고 밝혔다. 보고서는 \\\"최근 2년간 저개발국가 100만 명 이상이 이 약품으로 생명을 연장하고 있다\\\"고 주장했다.",
+        "sentenceSize": 367
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전 세계 에이즈 감염자 수 사상 최고... 얼마나 늘었나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

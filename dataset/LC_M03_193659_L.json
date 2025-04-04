@@ -1,0 +1,249 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193659",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "많아도 모자라도 문제, 내게 맞는 수면 시간은?",
+    "newsSubTitle": "정신 활동 많이하는 사람은 8시간 가까이 자야 건강",
+    "newsContent": "[이민영 기자] 몇 시간을 자는 것이 몸에 가장 좋을까?\n잠은 적게 자도 문제이지만 과하게 자도 건강에 좋지 않다.\n일반적으로 성인은 하루에 7~8시간을 잠에 배분해야 건강한 것으로 알려져있다.\n그렇지만 개인의 건강 상태에 따라 적정 수면 시간이 다르다.\n임신 중이거나 병을 앓고 있는 경우, 며칠 간 과로하거나 스트레스가 쌓여있으면 잠자는 시간을 늘려야한다.\n수면이 이런 스트레스 상황을 완화하는 덕이다.\n수면은 낮에 소모되거나 손상된 중추 신경의 기능을 회복하는 역할을 한다.\n수면이 부족해지면 어떤 증상이 나타날까.\n먼저 일의 능률이나 생산성이 떨어진다.\n수면 시간을 아낀다고 생산적인 일을 할수 있는게 아니란 뜻이다.\n신체, 정신 기능이 떨어지면서 일의 효율성이 떨어진다.\n평소보다 4시간을 덜 자면 반응 속도는 45% 가량 느려진다.\n하룻밤을 새우면 반응 시간은 평소의 두배 가까이 길어진다는 연구도 있다.\n우울증과 같은 정신 질환, 궤양·심장병·비만·노화 같은 신체 질환에도 잘 노출된다.\n한국건강관리협회 건강증진의원 김지연 과장은“수면이 부족하면 암세포나 바이러스 등 면역질환에 취약해지고 백혈구의 활동성이 떨어진다\\\"고 말했다.\n특히 정신적인 활동을 많이 하는 사람은 충분히 잠을 자야 능률이 높아진다.\n너무 많이 자도 문제다.\n수면 과다는 우울증의 대표적인 징후 중 하나다.\n수면 시간이 과해졌다고 생각이 들면 원인을 먼저 파악해야한다.\n밤에 숙면을 취하지 못해 늦잠이나 낮잠때문에 수면 시간이 늘었으면 수면무호흡증이나 하지불안증후군이 원인일 수 있다.\n이 외에 수면 과다증인 기면증 같은 질병이 원인일 수 있으므로 수면 패턴을 먼저 관찰해봐야한다.\n한국인 적정 수면시간은 연령에 따라 다르다.\n태어나서 6개월까지는 하루에 18~20시간 정도 잠을 잔다.\n성장하면서 수면시간이 줄면서 청소년기엔 9시간, 성인은 대략 7~8시간 정도로 자는 게 건강한 것으로 알려진다.\n김지연 과장은 \\\"공부나 일을 위해 수면시간을 무조건 줄이거나 피로를 푼다고 수면시간을 무조건 늘리는 것보다는 자신만의 적절한 수면시간을 찾아 규칙적인 수면습관을 갖는 것이 먼저\\\"라고 조언했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 25,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[이민영 기자] 몇 시간을 자는 것이 몸에 가장 좋을까?",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "잠은 적게 자도 문제이지만 과하게 자도 건강에 좋지 않다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일반적으로 성인은 하루에 7~8시간을 잠에 배분해야 건강한 것으로 알려져있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그렇지만 개인의 건강 상태에 따라 적정 수면 시간이 다르다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "임신 중이거나 병을 앓고 있는 경우, 며칠 간 과로하거나 스트레스가 쌓여있으면 잠자는 시간을 늘려야한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "수면이 이런 스트레스 상황을 완화하는 덕이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "수면은 낮에 소모되거나 손상된 중추 신경의 기능을 회복하는 역할을 한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "수면이 부족해지면 어떤 증상이 나타날까.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "먼저 일의 능률이나 생산성이 떨어진다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "수면 시간을 아낀다고 생산적인 일을 할수 있는게 아니란 뜻이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "신체, 정신 기능이 떨어지면서 일의 효율성이 떨어진다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "평소보다 4시간을 덜 자면 반응 속도는 45% 가량 느려진다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "하룻밤을 새우면 반응 시간은 평소의 두배 가까이 길어진다는 연구도 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "우울증과 같은 정신 질환, 궤양·심장병·비만·노화 같은 신체 질환에도 잘 노출된다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "한국건강관리협회 건강증진의원 김지연 과장은“수면이 부족하면 암세포나 바이러스 등 면역질환에 취약해지고 백혈구의 활동성이 떨어진다\\\"고 말했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "특히 정신적인 활동을 많이 하는 사람은 충분히 잠을 자야 능률이 높아진다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "너무 많이 자도 문제다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "수면 과다는 우울증의 대표적인 징후 중 하나다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "수면 시간이 과해졌다고 생각이 들면 원인을 먼저 파악해야한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "밤에 숙면을 취하지 못해 늦잠이나 낮잠때문에 수면 시간이 늘었으면 수면무호흡증이나 하지불안증후군이 원인일 수 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "이 외에 수면 과다증인 기면증 같은 질병이 원인일 수 있으므로 수면 패턴을 먼저 관찰해봐야한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "한국인 적정 수면시간은 연령에 따라 다르다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "태어나서 6개월까지는 하루에 18~20시간 정도 잠을 잔다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "성장하면서 수면시간이 줄면서 청소년기엔 9시간, 성인은 대략 7~8시간 정도로 자는 게 건강한 것으로 알려진다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "김지연 과장은 \\\"공부나 일을 위해 수면시간을 무조건 줄이거나 피로를 푼다고 수면시간을 무조건 늘리는 것보다는 자신만의 적절한 수면시간을 찾아 규칙적인 수면습관을 갖는 것이 먼저\\\"라고 조언했다.",
+        "sentenceSize": 109
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "개인 건강 상태에 따라 다르다, '완내스' 수면 시간 찾자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

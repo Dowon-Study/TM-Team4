@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194710",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[디카에세이] 늪, 진주를 품다",
+    "newsSubTitle": "",
+    "newsContent": "나는/ 도시의 빛깔로는 읽을 수 없는/ 아득한 수면을 말하려는 것이 아니다.\n/ 두루미 부리로는 짚을 수 없는/ 늪에 잠긴/ 별빛의 역사를 말하려는 것도 아니다.\n/ 솔바람 즈믄 몸짓도/ 다가설 수 없는/ 원초적 설움 누운 곳에서 / 나는 언어의 빈 그물로 울고 있는 것이다.\n- 권기호 '우포늪(부분)' 이원재(37.회사원.대구시 장기동) '느낌'이 있는 사진을 기다립니다.\n채택된 분께는 원고료를, 월간 최우수작 한 편엔 Canon에서 디카 IXUS55를 드립니다.\n간단한 설명과 함께 주소.전화번호를 꼭 써주십시오.\n보내실 e-메일 주소는입니다.\n5월 최우수작으로는 26일자에 실린 송성현씨의 작품 '나비의 프러포즈'가 선정됐습니다.\n디지털카메라는 댁으로 보내드립니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "나는/ 도시의 빛깔로는 읽을 수 없는/ 아득한 수면을 말하려는 것이 아니다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "/ 두루미 부리로는 짚을 수 없는/ 늪에 잠긴/ 별빛의 역사를 말하려는 것도 아니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "/ 솔바람 즈믄 몸짓도/ 다가설 수 없는/ 원초적 설움 누운 곳에서 / 나는 언어의 빈 그물로 울고 있는 것이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "- 권기호 '우포늪(부분)' 이원재(37.회사원.대구시 장기동) '느낌'이 있는 사진을 기다립니다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "채택된 분께는 원고료를, 월간 최우수작 한 편엔 Canon에서 디카 IXUS55를 드립니다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "간단한 설명과 함께 주소.전화번호를 꼭 써주십시오.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "보내실 e-메일 주소는입니다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "5월 최우수작으로는 26일자에 실린 송성현씨의 작품 '나비의 프러포즈'가 선정됐습니다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "디지털카메라는 댁으로 보내드립니다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'느낌'있는 사진 보내면 캐논 디지털 카메라 준다, 참여 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

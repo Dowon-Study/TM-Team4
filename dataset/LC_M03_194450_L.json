@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194450",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "미술작품 가격인증제 첫 도입",
+    "newsSubTitle": "‘2007 아트스타 100 축전’ … 1000여 점 판매 큰 장터18~22일 서울 코엑스",
+    "newsContent": "원로 및 중견에서 20~30대 신진에 이르는 90명의 작품 1000여 점을 판매하는 대규모 미술장터가 18~22일 서울 삼성동 코엑스 인도양홀에서 열린다.\n제목은 ‘2007 아트스타100 축전’. 주관은 박영덕·박여숙·조현 등 국내 5개 화랑이 만든 미술품 유통회사 ㈜한국미술투자와 100억원 규모의 미술품 투자펀드 ‘스타아트펀드’, 한국 미술협회가 공동으로 맡았다.\n참여 작가 중 원로·중견 45명은 운영위에서 초청했고 젊은 작가 45명은 670여 명이 응모한 공모전을 통해 선발됐다.\n전시를 기획한 한국미술투자㈜의 이인홍 이사는 “애초 100명의 작가를 초대했는데 일부는 특정 화랑에 전속돼있거나 인기가 높아 당장 내놓을 작품이 없는 탓에 90명만 참여하게 됐다”고 말했다.\n젊은 작가로는 권인경·김한나·박경범·안승환 등이, 원로·중견 작가로는 윤중식·정상화·황유엽·전뢰진·구자승·김구림·서승원·김재학 등이 참여했다.\n이들은 각자 3~6평 크기의 부스에서 개인전 형식으로 10여 점씩을 내놓는다.\n작품값은 점당 100만원에서부터 5억원(보리밭 작가 이숙자의 250호 대작)까지 다양하다.\n이 행사의 특징은 가격 인증제와 작품 등급제를 도입했다는 점이다.\n작가가 자기 작품의 기준가격을 제출하면 10명 안팎의 심사위원회가 검토해 타당하다고 확인해 주는 것이 인증제다.\n때와 장소에 따라 바뀌는 미술품 가격에 객관적 지표를 부여하기 위한 제도다.\n인증을 받으면 “이 가격표는 스타아트 펀드의 작품 구매시 기준가격으로 사용됩니다”란 문구를 작품 가격 옆에 붙인다.\n위원회와 작가의 협의를 통해서도 가격이 인증되지 않을 경우엔 문구가 없는 일반가격표를 붙이게 된다.\n작품 등급제는 원로작가, 평론가, 화랑대표로 구성된 심사위원 10명이 운영한다.\n각 작가의 작품 중 심사위원 5명 이상에게서 ‘최상’이라고 인정을 받은 것에 ‘극상’등급을 매긴다.\n올해는 시범적으로 극상 등급만 운영하지만 차츰 5개의 등급으로 세분할 방침이다.\n행사를 후원하는 골든브릿지 자산운용의 서정기 문화콘텐츠 운용본부장은 “국내 미술시장은 30명의 작가가 경매총액의 85%를 점유하는 등 이른바 쏠림현상이 심해 저변 확대가 시급하다”며 “이번 축전은 세계 미술계에서 두각을 보이는 유망작가와 실력에 비해 저평가된 중견들에 초점을 맞췄다”고 밝혔다.\n출품작 중 일부는 ‘스타펀드’에도 편입할 계획이라고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "원로 및 중견에서 20~30대 신진에 이르는 90명의 작품 1000여 점을 판매하는 대규모 미술장터가 18~22일 서울 삼성동 코엑스 인도양홀에서 열린다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "제목은 ‘2007 아트스타100 축전’. 주관은 박영덕·박여숙·조현 등 국내 5개 화랑이 만든 미술품 유통회사 ㈜한국미술투자와 100억원 규모의 미술품 투자펀드 ‘스타아트펀드’, 한국 미술협회가 공동으로 맡았다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "참여 작가 중 원로·중견 45명은 운영위에서 초청했고 젊은 작가 45명은 670여 명이 응모한 공모전을 통해 선발됐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전시를 기획한 한국미술투자㈜의 이인홍 이사는 “애초 100명의 작가를 초대했는데 일부는 특정 화랑에 전속돼있거나 인기가 높아 당장 내놓을 작품이 없는 탓에 90명만 참여하게 됐다”고 말했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "젊은 작가로는 권인경·김한나·박경범·안승환 등이, 원로·중견 작가로는 윤중식·정상화·황유엽·전뢰진·구자승·김구림·서승원·김재학 등이 참여했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이들은 각자 3~6평 크기의 부스에서 개인전 형식으로 10여 점씩을 내놓는다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "작품값은 점당 100만원에서부터 5억원(보리밭 작가 이숙자의 250호 대작)까지 다양하다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 행사의 특징은 가격 인증제와 작품 등급제를 도입했다는 점이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "작가가 자기 작품의 기준가격을 제출하면 10명 안팎의 심사위원회가 검토해 타당하다고 확인해 주는 것이 인증제다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "때와 장소에 따라 바뀌는 미술품 가격에 객관적 지표를 부여하기 위한 제도다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "인증을 받으면 “이 가격표는 스타아트 펀드의 작품 구매시 기준가격으로 사용됩니다”란 문구를 작품 가격 옆에 붙인다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "위원회와 작가의 협의를 통해서도 가격이 인증되지 않을 경우엔 문구가 없는 일반가격표를 붙이게 된다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "작품 등급제는 원로작가, 평론가, 화랑대표로 구성된 심사위원 10명이 운영한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "각 작가의 작품 중 심사위원 5명 이상에게서 ‘최상’이라고 인정을 받은 것에 ‘극상’등급을 매긴다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "올해는 시범적으로 극상 등급만 운영하지만 차츰 5개의 등급으로 세분할 방침이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "행사를 후원하는 골든브릿지 자산운용의 서정기 문화콘텐츠 운용본부장은 “국내 미술시장은 30명의 작가가 경매총액의 85%를 점유하는 등 이른바 쏠림현상이 심해 저변 확대가 시급하다”며 “이번 축전은 세계 미술계에서 두각을 보이는 유망작가와 실력에 비해 저평가된 중견들에 초점을 맞췄다”고 밝혔다.",
+        "sentenceSize": 164
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "출품작 중 일부는 ‘스타펀드’에도 편입할 계획이라고 덧붙였다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "처음으로 '미술작품 가격 인증제' 도입... 참여한 작가들은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

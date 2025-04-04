@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198610",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "독일이 러시아를 침공한 날, 카프카가 일기에 쓴 것은[BOOK]",
+    "newsSubTitle": "",
+    "newsContent": "봄의 제전 모드리스 엑스타인스 지음 최파일 옮김 글항아리 건조한 전쟁사는 희생자 규모, 전쟁 원인 분석을 전하기 바쁘다. 1차 세계대전 전후에 대한 두툼한 사회문화사라고 할 이 책은 다르다.\n다음과 같은 구절이 보인다.\n\\\"독일이 러시아에 선전포고-오후에 수영.\\\" 1914년 8월 2일 작가 카프카의 일기다.\n그해 여름, 예년과 다른 독일의 화창한 날씨가 독일 군중을 이상 열기로 몰아넣어 결국 전쟁으로 이어졌다는 것이다.\n물론 날씨야 방아쇠에 불과했다.\n역사학자인 저자는 급격한 산업화와 도시화, 관리와 효율성의 강조, 수도 베를린의 개방성, 바그너의 예술 미학, 영국·프랑스의 자유주의 위선에 대한 반감 등을 버무려 전쟁도 불사했던 당대 독일의 시대정신을 복원한다.\n이런 방식으로 전쟁의 성격과 의미, 린드버그의 대서양 횡단과 레마르크의 소설『서부전선 이상 없다』가 전후 망각과 기억의 틈바구니에서 어떻게 세계적인 관심을 받았는지를 조명했다. '봄의 제전'은 스트라빈스키가 작곡한 모더니즘 발레 작품. 지나치게 시대를 앞서간 급진성에 반발한 초연 관객 40명이 쫓겨났다고 한다.\n이 예술작품의 미학이 전쟁과 결부돼 반복 변주된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "봄의 제전 모드리스 엑스타인스 지음 최파일 옮김 글항아리 건조한 전쟁사는 희생자 규모, 전쟁 원인 분석을 전하기 바쁘다. 1차 세계대전 전후에 대한 두툼한 사회문화사라고 할 이 책은 다르다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "다음과 같은 구절이 보인다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "\\\"독일이 러시아에 선전포고-오후에 수영.\\\" 1914년 8월 2일 작가 카프카의 일기다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그해 여름, 예년과 다른 독일의 화창한 날씨가 독일 군중을 이상 열기로 몰아넣어 결국 전쟁으로 이어졌다는 것이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "물론 날씨야 방아쇠에 불과했다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "역사학자인 저자는 급격한 산업화와 도시화, 관리와 효율성의 강조, 수도 베를린의 개방성, 바그너의 예술 미학, 영국·프랑스의 자유주의 위선에 대한 반감 등을 버무려 전쟁도 불사했던 당대 독일의 시대정신을 복원한다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이런 방식으로 전쟁의 성격과 의미, 린드버그의 대서양 횡단과 레마르크의 소설『서부전선 이상 없다』가 전후 망각과 기억의 틈바구니에서 어떻게 세계적인 관심을 받았는지를 조명했다. '봄의 제전'은 스트라빈스키가 작곡한 모더니즘 발레 작품. 지나치게 시대를 앞서간 급진성에 반발한 초연 관객 40명이 쫓겨났다고 한다.",
+        "sentenceSize": 174
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 예술작품의 미학이 전쟁과 결부돼 반복 변주된다.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "독일이 러시아 침공한 날, 카프카가 일기에 쓴 '이것'은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

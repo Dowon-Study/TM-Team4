@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193086",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "영국 NICE, 대장암 치료제 ‘얼비툭스’ 권고사항 확대",
+    "newsSubTitle": "RAS 정상형 전이성 대장암 환자 대상",
+    "newsContent": "[김진구 기자] 영국 국립보건임상연구원(NICE)이 머크의 얼비툭스를 전이 부위 상관없이 RAS 정상형인 전이성 대장암 환자 대상 1차 치료제로 사용할 것을 권고했다.\n머크는 최근 NICE의 최종평가결정안(FAD)을 발표 소식을 전했다.\n이전 NICE 권고안은 암이 간에만 전이된 환자에게만 FOLFIRI 또는 FOLFOX 병용요법으로 얼비툭스 사용을 권고했다.\n하여 사용범위가 확대된 것이다.\n얼비툭스는 전 세계적으로 표준 1차 치료제로 사용되는 치료제다.\n유럽종양학회(ESMO) 및 미국 국립종합암네트워크(NCCN) 가이드라인 상에도 얼비툭스는 RAS 정상형 전이성 대장암 환자 대상 1차 치료제로 권고되고 있다.\n얼비툭스는 현재 90개 이상 국가에서 판매되고 있으며, 약 48만명이 전이성 대장암 치료를 위해 투약을 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김진구 기자] 영국 국립보건임상연구원(NICE)이 머크의 얼비툭스를 전이 부위 상관없이 RAS 정상형인 전이성 대장암 환자 대상 1차 치료제로 사용할 것을 권고했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "머크는 최근 NICE의 최종평가결정안(FAD)을 발표 소식을 전했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이전 NICE 권고안은 암이 간에만 전이된 환자에게만 FOLFIRI 또는 FOLFOX 병용요법으로 얼비툭스 사용을 권고했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하여 사용범위가 확대된 것이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "얼비툭스는 전 세계적으로 표준 1차 치료제로 사용되는 치료제다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유럽종양학회(ESMO) 및 미국 국립종합암네트워크(NCCN) 가이드라인 상에도 얼비툭스는 RAS 정상형 전이성 대장암 환자 대상 1차 치료제로 권고되고 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "얼비툭스는 현재 90개 이상 국가에서 판매되고 있으며, 약 48만명이 전이성 대장암 치료를 위해 투약을 받았다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영국 국립보건임상연구원, 권고 사항 확대",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

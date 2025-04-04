@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197974",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[이야기가있는욕실] 샤워부스 대신 바닥에 둥근 턱",
+    "newsSubTitle": "",
+    "newsContent": "거실과 안방에 각각 욕실과 화장실이 하나씩 있습니다.\n안방 화장실에선 간단한 세수 정도만 하고, 샤워는 주로 거실 욕실을 이용했지요.\n날씨가 더워지니 아들 두 녀석이 서로 먼저 샤워를 하겠다며 다투었습니다.\n고민 끝에 안방 작은 화장실도 욕실로 개조했어요.\n한 쪽 벽면에 샤워기를 설치하고, 바닥에는 둥근 턱을 만들었지요.\n천장에는 샤워커튼을 달았습니다.\n샤워부스를 설치했으면 돈이 많이 들고 공간도 좁아진 느낌이 들었겠지요.\n이혜원(서울 서초구 방배동) 중앙일보와 욕실전문업체 아메리칸 스탠다드가 ‘이야기가 있는 욕실’의 사연을 찾습니다.\n아메리칸 스탠다드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려주세요.\n매주 1명을 선정해 소개하며, 50만원 상당의 욕실 제품도 드립니다.\n1588-5903. ▶ 중앙일보 라이프스타일 섹션 '레인보우' 홈 가기",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "거실과 안방에 각각 욕실과 화장실이 하나씩 있습니다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "안방 화장실에선 간단한 세수 정도만 하고, 샤워는 주로 거실 욕실을 이용했지요.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "날씨가 더워지니 아들 두 녀석이 서로 먼저 샤워를 하겠다며 다투었습니다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "고민 끝에 안방 작은 화장실도 욕실로 개조했어요.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한 쪽 벽면에 샤워기를 설치하고, 바닥에는 둥근 턱을 만들었지요.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "천장에는 샤워커튼을 달았습니다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "샤워부스를 설치했으면 돈이 많이 들고 공간도 좁아진 느낌이 들었겠지요.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이혜원(서울 서초구 방배동) 중앙일보와 욕실전문업체 아메리칸 스탠다드가 ‘이야기가 있는 욕실’의 사연을 찾습니다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아메리칸 스탠다드 홈페이지(www.americanstandard.co.kr)에 사연과 사진을 함께 올려주세요.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "매주 1명을 선정해 소개하며, 50만원 상당의 욕실 제품도 드립니다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "1588-5903. ▶ 중앙일보 라이프스타일 섹션 '레인보우' 홈 가기",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "`이야기가 있는 욕실` 사연에 선정되면 받을 수 있는 '이것'은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

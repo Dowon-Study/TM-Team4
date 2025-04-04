@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198965",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 항산화 성분 셀레늄 풍부한 브라질너트",
+    "newsSubTitle": "",
+    "newsContent": "헬스벨 알짜 정보 종근당건강 어스투어스(EARTH to US)가 ‘브라질너트’(사진) 할인 행사를 진행한다.\n브라질너트는 페루·브라질·볼리비아의 아마존 밀림에서만 자생하는 나무 열매의 씨앗이다.\n열매의 두꺼운 껍질을 반으로 가르면 8~20여 개의 씨앗이 들어 있는데 마카다미아와 비슷한 식감과 질감으로 고소한 맛이 풍부하다.\n특히 필수 미네랄 성분인 셀레늄(Se)이 많이 들어 있다.\n항산화 성분인 셀레늄은 유해산소로부터 세포를 보호하는 데 필요한 필수영양소다.\n미국 농림부(USDA) 기준으로 브라질너트 한 알에는 약 76㎍의 셀레늄이 함유돼 있다.\n단 한 알만 섭취해도 성인 기준 셀레늄 1일 권장 섭취량(60㎍)을 채울 수 있다.\n종근당건강 어스투어스의 ‘브라질너트’는 페루 아마존 밀림의 신선한 원물을 그대로 담았다.\n불투명 지퍼백을 사용해 투명 파우치 대비 산소 투과 방지도를 약 89배 높였다.\n산소와 빛을 완벽하게 차단해 원물의 신선함을 유지한다. ‘브라질너트’는 그냥 생으로 먹거나 요구르트·아이스크림·샐러드와 함께 즐길 수 있다.\n종근당건강은 이번 행사 기간 동안 선착순 500명에게 ‘브라질너트’를 유통 최저가에 판매한다.\n제품 문의와 구입은 전화를 통해 할 수 있다.\n기간 11월 6~13일 문의 1644-0884",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "헬스벨 알짜 정보 종근당건강 어스투어스(EARTH to US)가 ‘브라질너트’(사진) 할인 행사를 진행한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "브라질너트는 페루·브라질·볼리비아의 아마존 밀림에서만 자생하는 나무 열매의 씨앗이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "열매의 두꺼운 껍질을 반으로 가르면 8~20여 개의 씨앗이 들어 있는데 마카다미아와 비슷한 식감과 질감으로 고소한 맛이 풍부하다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 필수 미네랄 성분인 셀레늄(Se)이 많이 들어 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "항산화 성분인 셀레늄은 유해산소로부터 세포를 보호하는 데 필요한 필수영양소다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "미국 농림부(USDA) 기준으로 브라질너트 한 알에는 약 76㎍의 셀레늄이 함유돼 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "단 한 알만 섭취해도 성인 기준 셀레늄 1일 권장 섭취량(60㎍)을 채울 수 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "종근당건강 어스투어스의 ‘브라질너트’는 페루 아마존 밀림의 신선한 원물을 그대로 담았다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "불투명 지퍼백을 사용해 투명 파우치 대비 산소 투과 방지도를 약 89배 높였다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "산소와 빛을 완벽하게 차단해 원물의 신선함을 유지한다. ‘브라질너트’는 그냥 생으로 먹거나 요구르트·아이스크림·샐러드와 함께 즐길 수 있다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "종근당건강은 이번 행사 기간 동안 선착순 500명에게 ‘브라질너트’를 유통 최저가에 판매한다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "제품 문의와 구입은 전화를 통해 할 수 있다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "기간 11월 6~13일 문의 1644-0884",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "필수 미네랄 셀레늄 풍부한 '이것', 종근당 어스투어스에서 가성비까지 챙겨 먹자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

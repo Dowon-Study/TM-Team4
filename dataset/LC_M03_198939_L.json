@@ -1,0 +1,240 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198939",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "햄버거 등 '정크푸드' 자주 먹으면 몸이 세균으로 인식…인체 해롭다",
+    "newsSubTitle": "독일 대학 주도 국제 연구팀 분석 결과 패스트푸드 등 정크푸드 장기복용할 경우 면역체계의 유전체 변화로 염증 반응 급증 정상 식사로 바꿔도 한동안 변화 지속돼",
+    "newsContent": "햄버거 등 이른바 ‘정크푸드’를 자주 먹으면 사람 몸이 이를 유해 세균으로 인식해 건강을 해친다는 연구결과가 나왔다.\n독일 본대학, 미국 매사추세츠 의대, 네덜란드 흐로닝언대학 의대 등이 함께한 국제 공동연구팀의 연구 결과다.\n최근 유명 국제학술지 ‘셀(Cell)’에 실린 이번 연구 결과에 따르면 정크푸드를 유해 세균으로 인식하는 면역체계 변화는 정상 식단으로 바뀐 뒤에도 상당 기간 남아 당뇨와 동맥경화 등을 일으킬 수 있다. ‘쓰레기음식’이란 뜻의 정크푸드는 지방과 탄수화물이 많아 열량은 많으면서도 섬유질과 비타민을 비롯한 다른 영양소는 적거나 없는 음식이다.\n햄버거 등 패스트푸드 등을 주로 가리킨다.\n특히 설탕 같은 감미료와 소금, 인공색소와 방부제 등 각종 첨가물로 인해 건강에 해롭다고 알려져 있다.\n본 대학의 아이케 라츠 교수가 주축이 된 연구팀은 정크푸드가 실제 어떤 식으로 어느 만큼 면역체계에 영향을 주는지를 알아보는 연구를 했다.\n이를 위해 쥐들에게 고지방, 고당분, 저섬유질의 ‘서구식 음식’을 한 달 동안 급식하며 생체 내 변화를 살펴봤다.\n그 결과 쥐의 몸 전체에서 강력한 급성 염증성 반응이 일어났다.\n쥐 혈액 속의 과립성 백혈구와 단핵 백혈구를 비롯한 특정 면역세포들의 수가 급증했다.\n이는 유해 세균에 감염되면 나타나는 반응과 유사했다.\n세균 등 유해물질이 침입하면, 우리 몸의 자연 면역체계는 백혈구 등 면역세포로 대항한다.\n이것이 염증반응으로 나타난다.\n그런데 세균이 아닌 정크푸드를 먹었을 뿐인데 인체가 신속하게 강력하고 많은 방어세력을 동원해 급성 염증반응이 나타난 것이다.\n또 유전체를 분석한 결과 면역세포들의 골수 전구체의 유전자가 재프로그래밍(변화)한 것으로 나타났다.\n정크푸드를 끊고 표준식단으로 전환하자 급성 염증반응은 사라지기 시작했다.\n하지만 표준식단 전환 4주 뒤에도 변화한 유전자 중 많은 수가 그대로 활성화된 상태로 남아 있었다.\n이른바 기억에 의한 ‘면역 훈련’이 이뤄진 것이다.\n연구팀에 따르면 자연 면역체계가 기억력을 갖고 다는 건 최근에야 발견됐다.\n이는 감염이 되면 인체 방어력이 일종의 경보발령을 울리고 유지해 새로운 공격에 더 빨리 대응할 수 있게 하는 것으로 면역 훈련이라고도 한다.\n정크푸드에 이 훈련이 이뤄졌다면 면역세포들에 세균뿐만 아니라 정크푸드를 유해물질로 인식하는 센서가 있다는 뜻이다.\n쥐들의 혈액세포를 검사한 결과 유해물질을 인식하고 대항해 배출하는 데 관여하는 염증 조절 수용체 NLRB 3가 작용한 유전자적 증거가 발견됐다.\n이를 정리하면 정크푸드를 섭취하면 면역체계가 공격성을 강하게 띠도록 교란되고, 유전적 변화가 일어나 공격성이 장기간 유지된다는 것이다.\n라츠 교수 연구팀은 과도한 면역반응, 염증은 혈관 질환이나 당뇨병 등 여러 질병을 일으킬 수 있다고 우려했다.\n예를 들어 혈관 벽에 찌꺼기들이 쌓이게 돼 죽상동맥경화증이 유발되고, 혈전(핏덩이)이 모세혈관을 막아 심근경색이나 뇌졸중 등을 일으킬 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 24,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "햄버거 등 이른바 ‘정크푸드’를 자주 먹으면 사람 몸이 이를 유해 세균으로 인식해 건강을 해친다는 연구결과가 나왔다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "독일 본대학, 미국 매사추세츠 의대, 네덜란드 흐로닝언대학 의대 등이 함께한 국제 공동연구팀의 연구 결과다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 유명 국제학술지 ‘셀(Cell)’에 실린 이번 연구 결과에 따르면 정크푸드를 유해 세균으로 인식하는 면역체계 변화는 정상 식단으로 바뀐 뒤에도 상당 기간 남아 당뇨와 동맥경화 등을 일으킬 수 있다. ‘쓰레기음식’이란 뜻의 정크푸드는 지방과 탄수화물이 많아 열량은 많으면서도 섬유질과 비타민을 비롯한 다른 영양소는 적거나 없는 음식이다.",
+        "sentenceSize": 190
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "햄버거 등 패스트푸드 등을 주로 가리킨다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 설탕 같은 감미료와 소금, 인공색소와 방부제 등 각종 첨가물로 인해 건강에 해롭다고 알려져 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "본 대학의 아이케 라츠 교수가 주축이 된 연구팀은 정크푸드가 실제 어떤 식으로 어느 만큼 면역체계에 영향을 주는지를 알아보는 연구를 했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 위해 쥐들에게 고지방, 고당분, 저섬유질의 ‘서구식 음식’을 한 달 동안 급식하며 생체 내 변화를 살펴봤다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그 결과 쥐의 몸 전체에서 강력한 급성 염증성 반응이 일어났다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "쥐 혈액 속의 과립성 백혈구와 단핵 백혈구를 비롯한 특정 면역세포들의 수가 급증했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이는 유해 세균에 감염되면 나타나는 반응과 유사했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "세균 등 유해물질이 침입하면, 우리 몸의 자연 면역체계는 백혈구 등 면역세포로 대항한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이것이 염증반응으로 나타난다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그런데 세균이 아닌 정크푸드를 먹었을 뿐인데 인체가 신속하게 강력하고 많은 방어세력을 동원해 급성 염증반응이 나타난 것이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "또 유전체를 분석한 결과 면역세포들의 골수 전구체의 유전자가 재프로그래밍(변화)한 것으로 나타났다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "정크푸드를 끊고 표준식단으로 전환하자 급성 염증반응은 사라지기 시작했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "하지만 표준식단 전환 4주 뒤에도 변화한 유전자 중 많은 수가 그대로 활성화된 상태로 남아 있었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이른바 기억에 의한 ‘면역 훈련’이 이뤄진 것이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "연구팀에 따르면 자연 면역체계가 기억력을 갖고 다는 건 최근에야 발견됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "이는 감염이 되면 인체 방어력이 일종의 경보발령을 울리고 유지해 새로운 공격에 더 빨리 대응할 수 있게 하는 것으로 면역 훈련이라고도 한다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "정크푸드에 이 훈련이 이뤄졌다면 면역세포들에 세균뿐만 아니라 정크푸드를 유해물질로 인식하는 센서가 있다는 뜻이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "쥐들의 혈액세포를 검사한 결과 유해물질을 인식하고 대항해 배출하는 데 관여하는 염증 조절 수용체 NLRB 3가 작용한 유전자적 증거가 발견됐다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "이를 정리하면 정크푸드를 섭취하면 면역체계가 공격성을 강하게 띠도록 교란되고, 유전적 변화가 일어나 공격성이 장기간 유지된다는 것이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "라츠 교수 연구팀은 과도한 면역반응, 염증은 혈관 질환이나 당뇨병 등 여러 질병을 일으킬 수 있다고 우려했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "예를 들어 혈관 벽에 찌꺼기들이 쌓이게 돼 죽상동맥경화증이 유발되고, 혈전(핏덩이)이 모세혈관을 막아 심근경색이나 뇌졸중 등을 일으킬 수 있다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'정크푸드' 자주 먹으면 내 몸이 나를 '이것'으로 인식한다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

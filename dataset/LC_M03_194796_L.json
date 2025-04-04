@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194796",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "출판 혁명 예측과 달리 'e-북' 아직은...",
+    "newsSubTitle": "",
+    "newsContent": "기존 출판시장의 판도를 뒤집어 놓을 것으로 기대됐던 전자책(e-북)이 죽을 쑤고 있다.\n사는 사람이 거의 없어 1천부 이상 팔리는 전자책을 찾기 힘들고, 손가락에 꼽을 정도의 전자책만이 텍스트를 디지털화하는 데 들어가는 수백달러의 비용을 간신히 건지고 있을 따름이다.\n이는 1년 전 마이크로소프트(MS).반스&노블닷컴 등 전자책 관련업체들이 2005년에는 전자책이 전체 책 시장의 10%를 차지할 것이라고 장담하던 것과 영 다른 모습이다.\n당시 관련 업체들은 전자책이 인터넷에서 내려받기 때문에 종이책보다 값이 싸고, 컬러 이미지와 동영상.소리 등이 첨가돼 종이책보다 역동적인 책 읽기가 가능하다고 주장했다.\n뉴욕타임스도 최근 전자책 시대가 도래할 것이라는 예측이 성급했으며 당분간 종이책의 지배는 불가피하다고 보도했다.\n전자책 보급 실패의 한 원인은 기술적인 문제다.\n출판업자들은 읽는 데 불편해도 데스크톱보다는 팜톱 등 운반할 수 있는 컴퓨터가 전자책에 적합하다고 보고 있는데, 이들 컴퓨터를 운용하는 MS의 소프트웨어가 대부분의 전자책을 읽지 못하는 문제가 있다.\n이는 많은 출판업자들이 불법 복제를 우려해 MS사의 소프트웨어로는 전자책을 읽지 못하도록 하고 있기 때문이다.\n출판업자들은 MS사가 전자책의 불법 복제를 해결할 수 있는 강력한 안전장치를 갖춘 소프트웨어를 개발할 것을 요구하고 있다.\n전자책 독서용 단말기 보급도 지지부진하다.\nRCA 브랜드로 전자책 독서용 단말기를 생산하는 톰슨 멀티미디어사는 예상보다 판매가 부진하다고 밝혔다.\n출판업자들은 이 단말기가 전화선을 통해 전자책을 다운로드받는 데다 인터넷 접속이 안되는 단점으로 인해 판매대수가 4만대를 밑돌 것으로 추산하고 있다.\n게다가 사용자의 70%는 선물로 제공받았다.\n현재 판매는 부진해도 많은 출판업자들은 여전히 가능성을 믿고 있다.\n이들은 고전을 무료로 전자책으로 제공하는 버지니아대학 도서관 전자책 센터에서 '이상한 나라의 앨리스' 나 '맥베스' 등 1천6백여 종류의 전자책이 3백만회 이상 다운로드됐다는 사실을 든다.\nAOL타임워너사의 전자책 담당 사장인 로런스 커시바움은 \\\"전자책 시대가 곧 도래할 것이라는 예측은 성급했지만 전자책 산업은 도약단계에 있다\\\" 며 \\\"도약기간이 예상보다 길 수는 있지만 전자책 사업을 줄이기보다는 더욱 확장해야 할 때\\\" 라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "기존 출판시장의 판도를 뒤집어 놓을 것으로 기대됐던 전자책(e-북)이 죽을 쑤고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사는 사람이 거의 없어 1천부 이상 팔리는 전자책을 찾기 힘들고, 손가락에 꼽을 정도의 전자책만이 텍스트를 디지털화하는 데 들어가는 수백달러의 비용을 간신히 건지고 있을 따름이다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이는 1년 전 마이크로소프트(MS).반스&노블닷컴 등 전자책 관련업체들이 2005년에는 전자책이 전체 책 시장의 10%를 차지할 것이라고 장담하던 것과 영 다른 모습이다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당시 관련 업체들은 전자책이 인터넷에서 내려받기 때문에 종이책보다 값이 싸고, 컬러 이미지와 동영상.소리 등이 첨가돼 종이책보다 역동적인 책 읽기가 가능하다고 주장했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "뉴욕타임스도 최근 전자책 시대가 도래할 것이라는 예측이 성급했으며 당분간 종이책의 지배는 불가피하다고 보도했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전자책 보급 실패의 한 원인은 기술적인 문제다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "출판업자들은 읽는 데 불편해도 데스크톱보다는 팜톱 등 운반할 수 있는 컴퓨터가 전자책에 적합하다고 보고 있는데, 이들 컴퓨터를 운용하는 MS의 소프트웨어가 대부분의 전자책을 읽지 못하는 문제가 있다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이는 많은 출판업자들이 불법 복제를 우려해 MS사의 소프트웨어로는 전자책을 읽지 못하도록 하고 있기 때문이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "출판업자들은 MS사가 전자책의 불법 복제를 해결할 수 있는 강력한 안전장치를 갖춘 소프트웨어를 개발할 것을 요구하고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "전자책 독서용 단말기 보급도 지지부진하다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "RCA 브랜드로 전자책 독서용 단말기를 생산하는 톰슨 멀티미디어사는 예상보다 판매가 부진하다고 밝혔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "출판업자들은 이 단말기가 전화선을 통해 전자책을 다운로드받는 데다 인터넷 접속이 안되는 단점으로 인해 판매대수가 4만대를 밑돌 것으로 추산하고 있다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "게다가 사용자의 70%는 선물로 제공받았다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "현재 판매는 부진해도 많은 출판업자들은 여전히 가능성을 믿고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "이들은 고전을 무료로 전자책으로 제공하는 버지니아대학 도서관 전자책 센터에서 '이상한 나라의 앨리스' 나 '맥베스' 등 1천6백여 종류의 전자책이 3백만회 이상 다운로드됐다는 사실을 든다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "AOL타임워너사의 전자책 담당 사장인 로런스 커시바움은 \\\"전자책 시대가 곧 도래할 것이라는 예측은 성급했지만 전자책 산업은 도약단계에 있다\\\" 며 \\\"도약기간이 예상보다 길 수는 있지만 전자책 사업을 줄이기보다는 더욱 확장해야 할 때\\\" 라고 말했다.",
+        "sentenceSize": 141
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "책 시장 점령 예고했던 전자책... 너무 성급했던걸까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198030",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[유태우의서금요법] 손목 통증",
+    "newsSubTitle": "",
+    "newsContent": "손목관절 환자가 의외로 많다.\n손목을 움직일 때는 물론 가만히 있어도 통증을 느끼고, 글을 쓰거나 컴퓨터를 쓸 수 없을 정도로 기능 장애를 호소한다.\n손목은 뼈·혈관·신경 조직이 매우 복잡하게 얽혀 있는 데다 충격에 약하기 때문에 한 번 손상을 받으면 오래 가고, 치료가 되지 않는다.\n통증 위치도 제각각이다.\n손목관절 안쪽인 요골, 새끼손가락 쪽인 척골, 관절 중간 부분, 손목관절 밖(손등 쪽)인 엄지손가락 쪽 관절, 손목관절 중간, 척골 쪽 통증들이다.\n가장 큰 원인은 충격이다.\n스트레스로 인해 교감신경이 긴장된 상태에서 손목관절을 갑자기 사용하면 유연성이 떨어져 손상을 입는다.\n또 심한 운동이나 타박상을 입어도 나타난다.\n따라서 손목관절을 많이 쓰거나, 스트레스를 많이 받는 사람은 평소 손목관절을 앞뒤로 움직이는 운동을 매일 20~30회씩 하면 손목 손상을 예방할 수 있다.\n일단 통증이 생기면 손목 사용을 줄이고, 손목을 편하게 휴식시킨다.\n이때 통증을 푼다고 어설프게 손으로 주무르면 더욱 악화된다.\n오히려 압박붕대로 묶어 고정시키는 편이 더 낳다.\n서금요법에선 먼저 상응부위를 찾는다.\n압진봉의 자루(또는 볼펜 자루)로 약간 압력을 가해 눌러보면 가장 예민하게 반응하는 지점이 있다.\n에서 C9·K10·G11·D3·L3·H3번이 그곳이다.\n또 아래위로 눌러보면 더 많은 곳에서도 압통점이 생긴다.\n이 부위에 순금침봉을 접촉하고, 살짝 눌러 약간 아프도록 자극한다.\n한 곳에 10~20초씩 자극하고, 30~40분간 반복한다.\n그런 다음 유색 서암봉을 제일 아픈 지점에 3~5시간 붙여놓는다.\n매일 이처럼 자극하면 통증이 가벼워지지만 몇 년 된 통증은 장기간의 시술이 필요하다.\n유태우 고려수지침학회장 www.soojichim.com",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "손목관절 환자가 의외로 많다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "손목을 움직일 때는 물론 가만히 있어도 통증을 느끼고, 글을 쓰거나 컴퓨터를 쓸 수 없을 정도로 기능 장애를 호소한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "손목은 뼈·혈관·신경 조직이 매우 복잡하게 얽혀 있는 데다 충격에 약하기 때문에 한 번 손상을 받으면 오래 가고, 치료가 되지 않는다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "통증 위치도 제각각이다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "손목관절 안쪽인 요골, 새끼손가락 쪽인 척골, 관절 중간 부분, 손목관절 밖(손등 쪽)인 엄지손가락 쪽 관절, 손목관절 중간, 척골 쪽 통증들이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "가장 큰 원인은 충격이다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "스트레스로 인해 교감신경이 긴장된 상태에서 손목관절을 갑자기 사용하면 유연성이 떨어져 손상을 입는다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 심한 운동이나 타박상을 입어도 나타난다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "따라서 손목관절을 많이 쓰거나, 스트레스를 많이 받는 사람은 평소 손목관절을 앞뒤로 움직이는 운동을 매일 20~30회씩 하면 손목 손상을 예방할 수 있다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "일단 통증이 생기면 손목 사용을 줄이고, 손목을 편하게 휴식시킨다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이때 통증을 푼다고 어설프게 손으로 주무르면 더욱 악화된다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "오히려 압박붕대로 묶어 고정시키는 편이 더 낳다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "서금요법에선 먼저 상응부위를 찾는다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "압진봉의 자루(또는 볼펜 자루)로 약간 압력을 가해 눌러보면 가장 예민하게 반응하는 지점이 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "에서 C9·K10·G11·D3·L3·H3번이 그곳이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "또 아래위로 눌러보면 더 많은 곳에서도 압통점이 생긴다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "이 부위에 순금침봉을 접촉하고, 살짝 눌러 약간 아프도록 자극한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "한 곳에 10~20초씩 자극하고, 30~40분간 반복한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "그런 다음 유색 서암봉을 제일 아픈 지점에 3~5시간 붙여놓는다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "매일 이처럼 자극하면 통증이 가벼워지지만 몇 년 된 통증은 장기간의 시술이 필요하다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "유태우 고려수지침학회장 www.soojichim.com",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일상생활 힘들게 하는 손목 통증... 이 방법으로 예방해보자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

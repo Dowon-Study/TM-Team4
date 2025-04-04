@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195777",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "고소한 성게미역국 끓이는 법 '주목', 불린 미역 박박 문지른 뒤에…",
+    "newsSubTitle": "",
+    "newsContent": "‘성게미역국 끓이는 법’ 성게미역국 끓이는 법이 회제다.\n최근 네티즌들 사이에서 성게미역국 끓이는 법이 주목받고 있다.\n성게미역국은 미역을 참기름에 볶다가 거의 익으면 성게알을 넣어 끓인 미역국을 말한다.\n성게미역국 끓이는 법은 먼저 미역을 물에 충분히 불려 바락바락 문질러 씻은 후 참기름을 넣어 볶다가 물을 부어 끓인다.\n한참 끓여 거의 다 익어갈 때 성게알을 넣고 마늘즙, 후춧가루, 간장, 소금, 깨소금을 넣어 살짝 끓여 낸다.\n성게의 식용 부분은 난소로서 생식 및 염장품, 건조 제품이 있으며 일본에서는 가공품인 운단을 고급 횟집에서 이용하고 있다.\n또한 식욕이 없을 때 먹으면 좋으며, 색이 짙은 황색의 성게알은 씁쓸한 맛이 있어 술안주로 좋고, 옅은 황색의 성게알은 죽이나 반찬용으로 좋다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘성게미역국 끓이는 법’ 성게미역국 끓이는 법이 회제다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 네티즌들 사이에서 성게미역국 끓이는 법이 주목받고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "성게미역국은 미역을 참기름에 볶다가 거의 익으면 성게알을 넣어 끓인 미역국을 말한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "성게미역국 끓이는 법은 먼저 미역을 물에 충분히 불려 바락바락 문질러 씻은 후 참기름을 넣어 볶다가 물을 부어 끓인다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한참 끓여 거의 다 익어갈 때 성게알을 넣고 마늘즙, 후춧가루, 간장, 소금, 깨소금을 넣어 살짝 끓여 낸다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "성게의 식용 부분은 난소로서 생식 및 염장품, 건조 제품이 있으며 일본에서는 가공품인 운단을 고급 횟집에서 이용하고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 식욕이 없을 때 먹으면 좋으며, 색이 짙은 황색의 성게알은 씁쓸한 맛이 있어 술안주로 좋고, 옅은 황색의 성게알은 죽이나 반찬용으로 좋다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "네티즌 사이에서 주목받는 `성게미역국` 맛있게 끓이는 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

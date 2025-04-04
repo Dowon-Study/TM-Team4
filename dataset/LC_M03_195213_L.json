@@ -1,0 +1,204 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195213",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 폐렴은 70세 이상 각종 질환자의 사망 원인 1위",
+    "newsSubTitle": "",
+    "newsContent": "전문의 칼럼 박소정 이대목동병원 호흡기내과 교수 폐렴은 우리나라 10대 사망 원인 중 5위를 차지할 정도로 위험한 질환이다.\n특히 70세 이상 노년층 환자에게선 사망 원인 1위를 차지한다.\n폐렴은 노인 및 고위험군에 치명적이다.\n만성질환이나 암 치료 때도 결국에는 폐렴 합병증으로 사망한다. 2009년 신종플루가 크게 유행했을 때도 실제 주 사망 원인은 폐렴 합병증이었다.\n요양원·요양병원 입소자나 병원에 다니는 만성 질환자의 경우엔 항생제 내성균에 의한 폐렴 발생 위험도가 높다.\n단순한 감기, 기관지염에 대한 항생제 처방, 단순한 증상 호전으로 환자가 자의로 약을 끊는 경우 등으로 항생제 내성균이 증가하기 때문이다.\n폐렴은 심한 경우 패혈증으로 진행한다.\n폐의 염증이 광범위하게 발생해 산소 교환에 장애가 발생하면 호흡부전이 오고 심장·신장 등의 주요 장기 부전을 일으켜 사망에 이른다.\n단순 폐렴이 폐에만 국한된 질환이라면, 중증 폐렴은 폐뿐 아니라 심장·콩팥·간 등의 주요 장기 부전을 일으키게 된다.\n이를 치료하기 위해 많은 종류의 항생제·승압제·수면제 및 인공호흡기 등을 포함한 첨단 의료 시설을 총동원해 치료하는 토털 케어가 필요하다.\n적절한 초기 항생제 및 정확한 진단법 선택은 폐렴 치료 성공의 핵심이다.\n폐렴은 폐렴구균이 가장 많은 원인으로 알려져 있으나 수십 가지의 다른 세균이나 바이러스가 원인일 수 있다.\n환자의 다양한 위험 인자를 따져 어떤 균을 타깃으로 초기 항생제를 선택할지 결정하는 것은 항상 어려운 문제다.\n폐렴은 증상이 뚜렷하지 않아 악화한 상태로 응급실을 찾는 경우가 많다.\n일반 감기가 2주 이상 지속하는 경우는 없으므로 감기 증상이 오랫동안 낫지 않으면 병원을 반드시 찾을 것을 권한다.\n항상 손을 자주 씻고 노약자나 만성 폐 질환이 있는 사람은 미세먼지가 많은 날엔 가급적 외출을 피하고 사람이 많은 곳에서는 마스크를 착용하는 게 필수다.\n흔히 폐렴 예방접종이라고 불리는 폐렴구균 백신 접종은 65세 이상의 노인에게 추천된다.\n만성 질환자의 경우 65~84%의 예방 효과를 기대할 수 있다.\n하지만 폐렴구균 외에도 다양한 균이 폐렴의 원인이 될 수 있으므로 폐렴구균 예방접종을 했다고 폐렴에 걸리지 않을 것이라고 자신하는 것은 금물이다.\n독감도 심하면 폐렴을 유발할 수 있으므로 독감 예방접종도 필수다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 20,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전문의 칼럼 박소정 이대목동병원 호흡기내과 교수 폐렴은 우리나라 10대 사망 원인 중 5위를 차지할 정도로 위험한 질환이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특히 70세 이상 노년층 환자에게선 사망 원인 1위를 차지한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "폐렴은 노인 및 고위험군에 치명적이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "만성질환이나 암 치료 때도 결국에는 폐렴 합병증으로 사망한다. 2009년 신종플루가 크게 유행했을 때도 실제 주 사망 원인은 폐렴 합병증이었다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "요양원·요양병원 입소자나 병원에 다니는 만성 질환자의 경우엔 항생제 내성균에 의한 폐렴 발생 위험도가 높다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "단순한 감기, 기관지염에 대한 항생제 처방, 단순한 증상 호전으로 환자가 자의로 약을 끊는 경우 등으로 항생제 내성균이 증가하기 때문이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "폐렴은 심한 경우 패혈증으로 진행한다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "폐의 염증이 광범위하게 발생해 산소 교환에 장애가 발생하면 호흡부전이 오고 심장·신장 등의 주요 장기 부전을 일으켜 사망에 이른다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "단순 폐렴이 폐에만 국한된 질환이라면, 중증 폐렴은 폐뿐 아니라 심장·콩팥·간 등의 주요 장기 부전을 일으키게 된다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이를 치료하기 위해 많은 종류의 항생제·승압제·수면제 및 인공호흡기 등을 포함한 첨단 의료 시설을 총동원해 치료하는 토털 케어가 필요하다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "적절한 초기 항생제 및 정확한 진단법 선택은 폐렴 치료 성공의 핵심이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "폐렴은 폐렴구균이 가장 많은 원인으로 알려져 있으나 수십 가지의 다른 세균이나 바이러스가 원인일 수 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "환자의 다양한 위험 인자를 따져 어떤 균을 타깃으로 초기 항생제를 선택할지 결정하는 것은 항상 어려운 문제다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "폐렴은 증상이 뚜렷하지 않아 악화한 상태로 응급실을 찾는 경우가 많다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "일반 감기가 2주 이상 지속하는 경우는 없으므로 감기 증상이 오랫동안 낫지 않으면 병원을 반드시 찾을 것을 권한다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "항상 손을 자주 씻고 노약자나 만성 폐 질환이 있는 사람은 미세먼지가 많은 날엔 가급적 외출을 피하고 사람이 많은 곳에서는 마스크를 착용하는 게 필수다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "흔히 폐렴 예방접종이라고 불리는 폐렴구균 백신 접종은 65세 이상의 노인에게 추천된다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "만성 질환자의 경우 65~84%의 예방 효과를 기대할 수 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "하지만 폐렴구균 외에도 다양한 균이 폐렴의 원인이 될 수 있으므로 폐렴구균 예방접종을 했다고 폐렴에 걸리지 않을 것이라고 자신하는 것은 금물이다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "독감도 심하면 폐렴을 유발할 수 있으므로 독감 예방접종도 필수다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "70세 이상 노년층 환자 사망 원인 1위 차지하는 폐렴... 어떻게 진행되나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197149",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BookBriefing] 율리시스 外",
+    "newsSubTitle": "",
+    "newsContent": "◆20세기 세계문학의 최고봉으로 꼽히는 아일랜드 소설가 제임스 조이스의 '율리시스'(김종건 옮김, 생각의 나무, 1324쪽, 3만8000원)이 출간됐다.\n옮긴이가 반세기에 걸쳐 세 번째 옮긴 것으로 4000여개의 주석, 희귀 화보 48쪽, 작품해설 등이 더해져 결정본이라 할 수 있다.\n◆도서출판 일출봉이 과학교양서 시리즈 '천재들의 과학노트'(캐서린 쿨렌 외 지음, 김충섭 외 옮김, 전 8권 각 9700원) 중 천문 우주과학.해양학.대기과학 편 세 권을 펴냈다.\n생물학, STS(과학 기술 사회) 등 8개 분야에서 개척적 역할을 한 10명씩 선정해 그들의 생애와 사회적 배경, 이론 등을 알기 쉬게 소개해 과학에 대한 이해를 높일 수 있다.\n◆깊이 있는 인문사회과학서를 내온 아카넷이 청소년들에게 고전의 가치와 중요성을 알려주는 '고전으로 가는 길'(김한 외 지음, 동국대 교양교육원 엮음, 704쪽, 1만8000원)을 출간했다.\n예술, 사회, 철학, 과학 등 4개 분야의 동서양 고전 100권을 골라 핵심부분을 소개하고 전공학자들의 해제를 붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆20세기 세계문학의 최고봉으로 꼽히는 아일랜드 소설가 제임스 조이스의 '율리시스'(김종건 옮김, 생각의 나무, 1324쪽, 3만8000원)이 출간됐다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "옮긴이가 반세기에 걸쳐 세 번째 옮긴 것으로 4000여개의 주석, 희귀 화보 48쪽, 작품해설 등이 더해져 결정본이라 할 수 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "◆도서출판 일출봉이 과학교양서 시리즈 '천재들의 과학노트'(캐서린 쿨렌 외 지음, 김충섭 외 옮김, 전 8권 각 9700원) 중 천문 우주과학.해양학.대기과학 편 세 권을 펴냈다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "생물학, STS(과학 기술 사회) 등 8개 분야에서 개척적 역할을 한 10명씩 선정해 그들의 생애와 사회적 배경, 이론 등을 알기 쉬게 소개해 과학에 대한 이해를 높일 수 있다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◆깊이 있는 인문사회과학서를 내온 아카넷이 청소년들에게 고전의 가치와 중요성을 알려주는 '고전으로 가는 길'(김한 외 지음, 동국대 교양교육원 엮음, 704쪽, 1만8000원)을 출간했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "예술, 사회, 철학, 과학 등 4개 분야의 동서양 고전 100권을 골라 핵심부분을 소개하고 전공학자들의 해제를 붙였다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "[BookBriefing] 자라나는 우리들의 뇌에 '지식의 융단폭격' 날려줄 교양서 추천!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

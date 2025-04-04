@@ -1,0 +1,258 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193693",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 자각 증상 꼼꼼히 적은 ‘두통일기’ 쓰세요",
+    "newsSubTitle": "학계 리포트 - 편두통 환자 수칙 7계명",
+    "newsContent": "두통은 10명 중 9명이 경험할 만큼 흔하다.\n대한두통학회가 만성편두통 환자를 상대로 조사한 결과 만성편두통 환자의 80% 이상이 한 달에 2주 이상 두통 증상을 겪지만 3개월 내 병원을 찾은 경우는 23%에 불과했다.\n두통에 대한 정보가 부족하고 치료에 소극적인 환자가 많다.\n대한두통학회 김병건(을지대 을지병원 신경과) 회장은 “두통은 치료가 필요한 질환이어서 자신의 증상을 정확히 파악하고 올바른 정보를 활용해 제대로 관리해야 한다”고 강조했다.\n대한두통학회 대국민 캠페인 대한두통학회는 ‘두통도 병이다’라는 슬로건으로 대국민 캠페인을 시작했다.\n두통에 대한 인식 개선과 올바른 정보를 전달하기 위해서다.\n이를 위해 ‘편두통 환자가 꼭 알아야 수칙 7계명’을 제시했다.\n첫째, 두통의 원인에 대해 정확하게 알아야 한다.\n원인에 따라 진단·치료방법, 예후가 다르다.\n자신의 증상을 기록한 ‘두통일기’를 쓰면 정확한 진단에 도움이 된다.\n둘째, 좋은 의사를 찾아야 한다.\n구토나 눈의 통증도 편두통의 증상에 속한다.\n대한두통학회는 두통이 교육과정에 포함된 신경과 전문의, 두통학회 교육을 받은 전문의 진료를 받기를 권한다.\n셋째, 생활습관을 바꾼다.\n규칙적인 생활과 유산소 운동, 스트레칭, 명상을 가까이 하고 스트레스와 술·커피는 멀리한다.\n수면도 중요하다.\n수면부족·수면과다도 두통을 일으킬 수 있다.\n넷째, 효과적인 진통제를 찾아야 한다.\n가벼운 두통은 일반진통제로 조절될 수 있지만 심한 두통은 전문약 사용을 고려할 필요가 있다.\n다섯째, 진통제를 남용해선 안 된다.\n주 2, 3회 이상 진통제를 복용하면 진통제로 인한 두통이 발생할 수 있다.\n만성 편두통 환자 중 73% 이상이 진통제를 과다 복용하고 있다는 조사도 있다.\n여섯째, 편두통이 지속된다면 예방적 치료를 받는다.\n예방 치료제로는 심혈관계 약물, 항우울제, 항경련제 등이 있다.\n보톡스 치료도 일정 부분 도움이 될 수 있다.\n마지막은 평소와 다른 증상과 통증이 동반되면 즉시 의사를 찾는 것이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 26,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "두통은 10명 중 9명이 경험할 만큼 흔하다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "대한두통학회가 만성편두통 환자를 상대로 조사한 결과 만성편두통 환자의 80% 이상이 한 달에 2주 이상 두통 증상을 겪지만 3개월 내 병원을 찾은 경우는 23%에 불과했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두통에 대한 정보가 부족하고 치료에 소극적인 환자가 많다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대한두통학회 김병건(을지대 을지병원 신경과) 회장은 “두통은 치료가 필요한 질환이어서 자신의 증상을 정확히 파악하고 올바른 정보를 활용해 제대로 관리해야 한다”고 강조했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "대한두통학회 대국민 캠페인 대한두통학회는 ‘두통도 병이다’라는 슬로건으로 대국민 캠페인을 시작했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "두통에 대한 인식 개선과 올바른 정보를 전달하기 위해서다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 위해 ‘편두통 환자가 꼭 알아야 수칙 7계명’을 제시했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "첫째, 두통의 원인에 대해 정확하게 알아야 한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "원인에 따라 진단·치료방법, 예후가 다르다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "자신의 증상을 기록한 ‘두통일기’를 쓰면 정확한 진단에 도움이 된다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "둘째, 좋은 의사를 찾아야 한다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "구토나 눈의 통증도 편두통의 증상에 속한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "대한두통학회는 두통이 교육과정에 포함된 신경과 전문의, 두통학회 교육을 받은 전문의 진료를 받기를 권한다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "셋째, 생활습관을 바꾼다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "규칙적인 생활과 유산소 운동, 스트레칭, 명상을 가까이 하고 스트레스와 술·커피는 멀리한다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "수면도 중요하다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "수면부족·수면과다도 두통을 일으킬 수 있다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "넷째, 효과적인 진통제를 찾아야 한다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "가벼운 두통은 일반진통제로 조절될 수 있지만 심한 두통은 전문약 사용을 고려할 필요가 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "다섯째, 진통제를 남용해선 안 된다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "주 2, 3회 이상 진통제를 복용하면 진통제로 인한 두통이 발생할 수 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "만성 편두통 환자 중 73% 이상이 진통제를 과다 복용하고 있다는 조사도 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "여섯째, 편두통이 지속된다면 예방적 치료를 받는다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "예방 치료제로는 심혈관계 약물, 항우울제, 항경련제 등이 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "보톡스 치료도 일정 부분 도움이 될 수 있다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "마지막은 평소와 다른 증상과 통증이 동반되면 즉시 의사를 찾는 것이다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대한두통학회, '두통도 병이다' 슬로건으로 대국민 '건강 기원 챌린지' 시작… 워라밸도 연관 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

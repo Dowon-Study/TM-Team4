@@ -1,0 +1,195 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193349",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Family건강] 조심! 스키 탈 땐 무릎 … 보드 탈 땐 손목",
+    "newsSubTitle": "넘어지는 연습 해둬야 부상 줄여",
+    "newsContent": "스키 시즌이 돌아왔다.\n설원 스포츠인 스키와 스노 보드는 짜릿한 스릴을 느끼게 하는 만큼 부상 위험도 높다.\n스키의 부상 부위는 무릎(35%)·머리(20%)·손과 손가락(12.5%)·어깨(7.6%) 순.(스코틀랜드 스키부상연구소) 가장 취약한 곳은 무릎 앞 전방 십자인대다.\n하체가 스키에 고정된 채 상체만 돌아간 상태로 넘어졌을 때 발생한다.\n간혹 외상성 관절염으로 발전한다.\n스노 보드 부상은 손목·발목·무릎·머리 순서로 발생한다.(대한스노우보드협회 자료) 손목 골절이 잦은 것은 균형을 잃고 넘어질 때 폴 대신 손목으로 땅을 짚기 때문. 따라서 보드를 타는 사람은 반드시 손목보호대를 착용해야 한다.\n스키어는 대개 옆으로, 보드를 타는 사람은 앞뒤 수직으로 넘어진다.\n이것이 보드 애호가의 뇌손상 위험이 큰 이유다.\n최선의 뇌손상 예방법은 헬멧 착용. 스키 부상을 최소화하려면 팔을 뻗고 옆으로 넘어지는 연습이 필요하다.\n경희대병원 정형외과 정덕환 교수는 “팔을 뻗으면 다리가 자연히 모아지게 돼 전방 십자인대 부상 위험이 줄어든다”고 말했다.\n보드를 타는 사람은 넘어질 때 앉는 자세를 취해 체중이 엉덩이에 실리게 한다.\n치아도 겨울 스포츠 애호가들이 다치기 쉬운 부위다.\n낙상·충돌로 인해 치아에 금이 가거나 깨지거나 빠지는 것. 심하면 잇몸 뼈나 턱뼈가 부러지기도 한다.\n가장 흔한 부상은 치아가 빠지는 것이다.\n주로 위 앞니가 빠진다.\n서울 이롬치과 김종배 원장은 “빠진 치아를 즉시 생리식염수나 우유에 담아 1시간 내에 치과에 오면 치아를 살릴 수도 있다”고 말했다.\n빠진 치아를 혀 밑에 넣어 오거나, 젖은 수건에 치아를 감싸는 것도 훌륭한 대안이다.\n빠진 치아에 흙·이물질이 묻었다고 해서 손으로 털어내는 것은 금물. 미세하게 붙어 있는 잇몸조직이나 치아뿌리가 손상될 수 있어서다.\n최선의 치아 손상 예방법은 마우스 가드를 착용하는 것이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 19,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "스키 시즌이 돌아왔다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "설원 스포츠인 스키와 스노 보드는 짜릿한 스릴을 느끼게 하는 만큼 부상 위험도 높다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "스키의 부상 부위는 무릎(35%)·머리(20%)·손과 손가락(12.5%)·어깨(7.6%) 순.(스코틀랜드 스키부상연구소) 가장 취약한 곳은 무릎 앞 전방 십자인대다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하체가 스키에 고정된 채 상체만 돌아간 상태로 넘어졌을 때 발생한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "간혹 외상성 관절염으로 발전한다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "스노 보드 부상은 손목·발목·무릎·머리 순서로 발생한다.(대한스노우보드협회 자료) 손목 골절이 잦은 것은 균형을 잃고 넘어질 때 폴 대신 손목으로 땅을 짚기 때문. 따라서 보드를 타는 사람은 반드시 손목보호대를 착용해야 한다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "스키어는 대개 옆으로, 보드를 타는 사람은 앞뒤 수직으로 넘어진다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이것이 보드 애호가의 뇌손상 위험이 큰 이유다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "최선의 뇌손상 예방법은 헬멧 착용. 스키 부상을 최소화하려면 팔을 뻗고 옆으로 넘어지는 연습이 필요하다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "경희대병원 정형외과 정덕환 교수는 “팔을 뻗으면 다리가 자연히 모아지게 돼 전방 십자인대 부상 위험이 줄어든다”고 말했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "보드를 타는 사람은 넘어질 때 앉는 자세를 취해 체중이 엉덩이에 실리게 한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "치아도 겨울 스포츠 애호가들이 다치기 쉬운 부위다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "낙상·충돌로 인해 치아에 금이 가거나 깨지거나 빠지는 것. 심하면 잇몸 뼈나 턱뼈가 부러지기도 한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "가장 흔한 부상은 치아가 빠지는 것이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "주로 위 앞니가 빠진다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "서울 이롬치과 김종배 원장은 “빠진 치아를 즉시 생리식염수나 우유에 담아 1시간 내에 치과에 오면 치아를 살릴 수도 있다”고 말했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "빠진 치아를 혀 밑에 넣어 오거나, 젖은 수건에 치아를 감싸는 것도 훌륭한 대안이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "빠진 치아에 흙·이물질이 묻었다고 해서 손으로 털어내는 것은 금물. 미세하게 붙어 있는 잇몸조직이나 치아뿌리가 손상될 수 있어서다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "최선의 치아 손상 예방법은 마우스 가드를 착용하는 것이다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "스키 부상 '크리' 가장 많이 터지는 곳은 무릎",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

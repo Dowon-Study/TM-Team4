@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195761",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "보건소장, 행정직도 모자라 간호·약무직까지 확대?",
+    "newsSubTitle": "의협, 지역보건법 시행령·시행규칙 개정안 철회 요구",
+    "newsContent": "대한의사협회가 보건복지부가 입법예고한 '지역보건법 시행령 및 시행규칙 개정안'의 철회를 요구하고 나섰다.\n시대에 역행하는 조치라는 이유에서다.\n의협은 20일 이와 관련한 성명을 통해 이번 개정안을 강도 높게 비판했다.\n먼저 보건소장 임용범위 확대를 문제 삼았다.\n현행 지역보건법 시행령에 따르면 보건소장은 의사 면허자 중 기초 자치단체장이 임용하는 것이 원칙이다.\n단, 의사 충원이 곤란할 경우 보건의무 직군 공무원을 보건소장으로 임용할 수 있다.\n개정안은 의사 충원이 곤란할 경우 임용할 수 있는 직군을 대폭 확대했다.\n보건, 식품위생, 의료기술, 의무, 약무, 간호, 보건진료 직렬의 공무원 중에서 임용이 가능하도록 했다.\n의협은 \\\"(현재도) 잦은 보건소장 교체 및 공개적인 보건소장 임용절차 없이 임의적인 일반 행정직 공무원을 임용하는 등 문제의 심각성이 지속적으로 나타나고 있다\\\"며 \\\"(이번 개정안은) 의사 보건소장이 아닌 전문성이 결여된 공무원들의 무분별한 임용범위 확대를 추진하는 것\\\"이라고 지적했다.\n특히 보건소가 단순 행정업무에 국한해 보여주기식 보건소 운영 행태를 조장하게 될 것이라고 우려했다.\n의협은 건강생활지원센터도 문제 삼았다.\n기존 보건소 업무와 중복이 될 수 있고 진료위주의 사업으로 전락할 수 있다는 것이다.\n의협은 \\\"건강생활지원센터를 각 지자체가 무분별하게 설립 시 추가예산을 투입해야 해 비용낭비가 예상된다\\\"며 \\\"지자체간 서비스격차, 과다 상버비 지출로 인한 예산 낭비를 초래할 것\\\"이라고 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대한의사협회가 보건복지부가 입법예고한 '지역보건법 시행령 및 시행규칙 개정안'의 철회를 요구하고 나섰다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "시대에 역행하는 조치라는 이유에서다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "의협은 20일 이와 관련한 성명을 통해 이번 개정안을 강도 높게 비판했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "먼저 보건소장 임용범위 확대를 문제 삼았다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "현행 지역보건법 시행령에 따르면 보건소장은 의사 면허자 중 기초 자치단체장이 임용하는 것이 원칙이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "단, 의사 충원이 곤란할 경우 보건의무 직군 공무원을 보건소장으로 임용할 수 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "개정안은 의사 충원이 곤란할 경우 임용할 수 있는 직군을 대폭 확대했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "보건, 식품위생, 의료기술, 의무, 약무, 간호, 보건진료 직렬의 공무원 중에서 임용이 가능하도록 했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "의협은 \\\"(현재도) 잦은 보건소장 교체 및 공개적인 보건소장 임용절차 없이 임의적인 일반 행정직 공무원을 임용하는 등 문제의 심각성이 지속적으로 나타나고 있다\\\"며 \\\"(이번 개정안은) 의사 보건소장이 아닌 전문성이 결여된 공무원들의 무분별한 임용범위 확대를 추진하는 것\\\"이라고 지적했다.",
+        "sentenceSize": 163
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "특히 보건소가 단순 행정업무에 국한해 보여주기식 보건소 운영 행태를 조장하게 될 것이라고 우려했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "의협은 건강생활지원센터도 문제 삼았다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "기존 보건소 업무와 중복이 될 수 있고 진료위주의 사업으로 전락할 수 있다는 것이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "의협은 \\\"건강생활지원센터를 각 지자체가 무분별하게 설립 시 추가예산을 투입해야 해 비용낭비가 예상된다\\\"며 \\\"지자체간 서비스격차, 과다 상버비 지출로 인한 예산 낭비를 초래할 것\\\"이라고 강조했다.",
+        "sentenceSize": 112
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대한의사협회, 보건복지부 입법안 철회 요구… 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

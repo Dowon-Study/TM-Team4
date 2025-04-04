@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198533",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[신간] 똥교회 목사의 들꽃 피는 마을 이야기",
+    "newsSubTitle": "갈 곳 없는 아이들과 한살림",
+    "newsContent": "똥교회 목사의 들꽃 피는 마을 이야기, 김현수 지음 청어람미디어, 244쪽, 8900원 우리 시대 종교가 할 수 있는 일은 무엇일까.\n교단의 성장과 확대가 아닌 말 그대로 이웃과 함께하는 ‘나눔’과 ‘섬김’의 종교는 어디에 있을까.\n굳이 종교라는 거창한 단어를 들이대지 않아도 좋다.\n신간은 종교라는 틀을 넘어 ‘거리로 내몰린’ 청소년과 함께 ‘그룹 홈’이라는 대안가정을 10년간 해오고 있는 한 목사의 얘기다.\n또 그를 중심으로 이 시대 무너진 가정을 일으켜 세우려는 사람들의 경험담이기도 하다.\n신간은 풋풋하다.\n1994년 어느 날 밤 갑자기 교회에 ‘무단 침입’해온 아이 여덟명과 인연을 맺기 시작, 아예 그들과 한 가정을 이루고, 이후 그 경험을 주변과 나누며 현재 모두 열 가정으로 불어난 ‘들꽃 피는 마을’의 훈훈한 사연이 고스란히 담겨 있다. ‘똥교회’는 10년 전 김 목사가 사역했던 경기도 안산 노동교회에 아이들이 밤새 ‘일’을 보고 그냥 달아난 사건을 가리키는 말이다. ‘들꽃 피는 마을’은 ‘들꽃 피는 학교’로도 유명하다.\n공동체 가정과 공동체 교육을 성공적으로 정착시켜왔다. ‘온 세상이 배움터, 모든 이가 교사’라는 신념을 몸으로 실천해온 아름다운 사람들 속으로 들어가보자.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "똥교회 목사의 들꽃 피는 마을 이야기, 김현수 지음 청어람미디어, 244쪽, 8900원 우리 시대 종교가 할 수 있는 일은 무엇일까.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "교단의 성장과 확대가 아닌 말 그대로 이웃과 함께하는 ‘나눔’과 ‘섬김’의 종교는 어디에 있을까.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "굳이 종교라는 거창한 단어를 들이대지 않아도 좋다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신간은 종교라는 틀을 넘어 ‘거리로 내몰린’ 청소년과 함께 ‘그룹 홈’이라는 대안가정을 10년간 해오고 있는 한 목사의 얘기다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 그를 중심으로 이 시대 무너진 가정을 일으켜 세우려는 사람들의 경험담이기도 하다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "신간은 풋풋하다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "1994년 어느 날 밤 갑자기 교회에 ‘무단 침입’해온 아이 여덟명과 인연을 맺기 시작, 아예 그들과 한 가정을 이루고, 이후 그 경험을 주변과 나누며 현재 모두 열 가정으로 불어난 ‘들꽃 피는 마을’의 훈훈한 사연이 고스란히 담겨 있다. ‘똥교회’는 10년 전 김 목사가 사역했던 경기도 안산 노동교회에 아이들이 밤새 ‘일’을 보고 그냥 달아난 사건을 가리키는 말이다. ‘들꽃 피는 마을’은 ‘들꽃 피는 학교’로도 유명하다.",
+        "sentenceSize": 238
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "공동체 가정과 공동체 교육을 성공적으로 정착시켜왔다. ‘온 세상이 배움터, 모든 이가 교사’라는 신념을 몸으로 실천해온 아름다운 사람들 속으로 들어가보자.",
+        "sentenceSize": 86
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신간 <똥교회 목사의 들꽃 피는 마을 이야기>... 교단의 확대가 아닌 이러한 종교는 어디에 있을까",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

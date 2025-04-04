@@ -1,0 +1,222 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198740",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "면세품 재고 판매…1시간 만에 가장 먼저 품절된 제품은",
+    "newsSubTitle": "",
+    "newsContent": "코로나19 영향으로 창고에 쌓였던 면세점 명품 브랜드 재고들이 시중에 풀렸다.\n백화점 정가 대비 최고 50% 저렴하게 책정된 가격에 오늘 오전 한때 판매 사이트 서버가 마비되는 등 소동을 겪었다.\n결국 10시에 판매를 시작하고 하루도 안 된 오후 5시경 약 200여개 판매 품목 중 10개 품목만 남기고 모두 품절됐다.\n신세계인터내셔날이 운영하는 온라인 쇼핑몰 ‘에스아이빌리지’는 오늘 오전 10시부터 면세품 재고 판매를 시작했다.\n발렌시아가, 생로랑, 보테가 베네타, 발렌티노 4개 브랜드 200여 품목을 백화점 정상가 대비 많게는 50%까지 할인된 가격으로 내놓은 것. 국내서 인기가 많은 명품 브랜드인 데다 할인 폭도 커서 반응은 생각보다 폭발적이었다.\n평소 20만 명이 접속해도 문제 없는 사이트였지만 사람이 몰릴 것을 대비해 서버를 증설했음에도 불구하고, 오전 10시 오픈을 기해 15만 명이 일시에 몰리면서 서버가 다운됐다.\n신세계인터내셔날 관계자에 따르면, 외부 광고 없이 이번주 월요일부터 에스아이빌리지 홈페이지에서만 면세품 재고 판매를 알리는 예고 팝업을 띄웠다고 한다.\n접속이 지연되는 상황에서도 약 한 시간 만에 세 개의 품목이 가장 먼저 품절됐다.\n생로랑의 루루 모노그램 미디움 체인 숄더백(204만4000원), 발렌시아가 익스플로러 파우치 스트랩(51만2000원), 발렌티노 로고 리본 크로스백(143만5000원)이다.\n각각 백화점 정상가 대비 90만6000원, 27만5000원, 88만5000원 할인된 가격이다.\n평소 면세점에서 구매하는 것보다 최고 40% 정도 저렴하다는 설명이다.\n기존 면세품에 적용됐던 ‘600달러 이상 구매 한도’도 따로 적용받지 않았다.\n오늘 예약 주문한 제품은 통관 절차를 거쳐 최대 6월 25일까지 배송받는다.\n면세품이 시중에 풀린 것은 이번이 처음이다.\n지난 4월 말 관세청이 6개월 동안 한시적으로 면세품 내수 판매를 허용하면서다.\n판매 가격은 수입 통관 절차 등 세금이 포함된 원가에 물류비, 상품화 작업비, 카드 수수료 등을 고려해 책정됐다.\n같은 신세계 그룹 계열사인 SSG닷컴에서도 이날 오전 9시에 지방시, 펜디 두 개 브랜드의 면세품 재고 판매를 시작했다.\n백화점 정가 대비 최고 46~47% 할인된 가격이다.\nSSG닷컴에서 품절된 상품은 아직 없다.\n또 다른 대기업 면세점을 운영 중인 롯데와 신라 역시 면세품 재고 판매에 나설 예정이다.\n롯데는 오는 26일부터 정부 주도 세일기간과 정기 세일이 겹치는 ‘대한민국 동행 세일’ 기간에 면세품 재고 판매를 시작한다는 설명이다.\n신라 면세점도 브랜드와 리스트, 판매 시기를 조율해서 6월 안에 재고 판매를 시작할 계획이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 22,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "코로나19 영향으로 창고에 쌓였던 면세점 명품 브랜드 재고들이 시중에 풀렸다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "백화점 정가 대비 최고 50% 저렴하게 책정된 가격에 오늘 오전 한때 판매 사이트 서버가 마비되는 등 소동을 겪었다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "결국 10시에 판매를 시작하고 하루도 안 된 오후 5시경 약 200여개 판매 품목 중 10개 품목만 남기고 모두 품절됐다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신세계인터내셔날이 운영하는 온라인 쇼핑몰 ‘에스아이빌리지’는 오늘 오전 10시부터 면세품 재고 판매를 시작했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "발렌시아가, 생로랑, 보테가 베네타, 발렌티노 4개 브랜드 200여 품목을 백화점 정상가 대비 많게는 50%까지 할인된 가격으로 내놓은 것. 국내서 인기가 많은 명품 브랜드인 데다 할인 폭도 커서 반응은 생각보다 폭발적이었다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "평소 20만 명이 접속해도 문제 없는 사이트였지만 사람이 몰릴 것을 대비해 서버를 증설했음에도 불구하고, 오전 10시 오픈을 기해 15만 명이 일시에 몰리면서 서버가 다운됐다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "신세계인터내셔날 관계자에 따르면, 외부 광고 없이 이번주 월요일부터 에스아이빌리지 홈페이지에서만 면세품 재고 판매를 알리는 예고 팝업을 띄웠다고 한다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "접속이 지연되는 상황에서도 약 한 시간 만에 세 개의 품목이 가장 먼저 품절됐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "생로랑의 루루 모노그램 미디움 체인 숄더백(204만4000원), 발렌시아가 익스플로러 파우치 스트랩(51만2000원), 발렌티노 로고 리본 크로스백(143만5000원)이다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "각각 백화점 정상가 대비 90만6000원, 27만5000원, 88만5000원 할인된 가격이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "평소 면세점에서 구매하는 것보다 최고 40% 정도 저렴하다는 설명이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "기존 면세품에 적용됐던 ‘600달러 이상 구매 한도’도 따로 적용받지 않았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "오늘 예약 주문한 제품은 통관 절차를 거쳐 최대 6월 25일까지 배송받는다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "면세품이 시중에 풀린 것은 이번이 처음이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "지난 4월 말 관세청이 6개월 동안 한시적으로 면세품 내수 판매를 허용하면서다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "판매 가격은 수입 통관 절차 등 세금이 포함된 원가에 물류비, 상품화 작업비, 카드 수수료 등을 고려해 책정됐다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "같은 신세계 그룹 계열사인 SSG닷컴에서도 이날 오전 9시에 지방시, 펜디 두 개 브랜드의 면세품 재고 판매를 시작했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "백화점 정가 대비 최고 46~47% 할인된 가격이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "SSG닷컴에서 품절된 상품은 아직 없다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "또 다른 대기업 면세점을 운영 중인 롯데와 신라 역시 면세품 재고 판매에 나설 예정이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "롯데는 오는 26일부터 정부 주도 세일기간과 정기 세일이 겹치는 ‘대한민국 동행 세일’ 기간에 면세품 재고 판매를 시작한다는 설명이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "신라 면세점도 브랜드와 리스트, 판매 시기를 조율해서 6월 안에 재고 판매를 시작할 계획이다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코로나로 창고에 쌓였던 '이 제품' 재고 판매... 판매 사이트 서버는 마비 상태",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

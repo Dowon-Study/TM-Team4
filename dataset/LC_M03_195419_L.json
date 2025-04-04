@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195419",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "알루미늄 냄비에 오래 끓이면 안 되는 음식 4가지",
+    "newsSubTitle": "",
+    "newsContent": "알루미늄 냄비에서 조리할 때 산도나 염도가 높은 음식일수록 알루미늄이 많이 배출된다는 연구결과가 나왔다.\n경기도보건환경연구원이 지난해 3~12월 시중에서 판매 중인 알루미늄 냄비 56개에 구연산 용액(PH3.5)을 넣어 끓인 결과 세라믹 등으로 코팅이 되지 않은 47개 냄비에서 평균 23.90㎎/L, 최대 115.21㎎/L의 알루미늄이 녹아 흘러나왔다.\n코딩된 나머지 9개는 평균 1.78㎎/L, 최대 8.72㎎/L로 비교적 적었다.\n이 가운데 김치찌개·피클·김치라면·된장찌개는 다른 음식에 비해 알루미늄 용출량이 많은 편에 속했다.\n김치찌개의 경우 평균 9.86 mg/kg로 가장 많은 알루미늄양이 검출됐다.\n이어 피클(2.86 mg/kg), 김치라면(2.34 mg/kg), 된장찌개(1.64 mg/kg) 순으로 알루미늄양이 용출됐다.\n이들 음식의 산도(pH)·염도(%)는 각각 김치찌개 4.6·0.98, 피클 3.8·0.38, 김치라면 4.4, 0.55, 된장찌개 5.7·1.02였다.\n경기도보건환경연구원 관계자는 \\\"인체에 유해한 수준은 아니지만, 산도나 염도가 높은 음식일수록 알루미늄 냄비에서 알루미늄이 많이 용출되는 만큼 산도나 염도가 높은 음식 조리에 알루미늄 냄비를 장기간 사용하지 말아야 한다\\\"고 말했다.\n한편 알루미늄은 자연에 존재하는 금속 원소로 지각 중 산소, 규소 다음으로 많은 원소다.\n가공되지 않은 천연 식품 중에도 자연적으로 함유돼 있다.\n국제식품규격위원회(CODEX) 식품사용 허용기준은 200∼520mg/kg 이하로 생선류 200㎎/㎏, 파스타·국수 300㎎/㎏, 절임채소해조류 520㎎/㎏ 등이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "알루미늄 냄비에서 조리할 때 산도나 염도가 높은 음식일수록 알루미늄이 많이 배출된다는 연구결과가 나왔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "경기도보건환경연구원이 지난해 3~12월 시중에서 판매 중인 알루미늄 냄비 56개에 구연산 용액(PH3.5)을 넣어 끓인 결과 세라믹 등으로 코팅이 되지 않은 47개 냄비에서 평균 23.90㎎/L, 최대 115.21㎎/L의 알루미늄이 녹아 흘러나왔다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "코딩된 나머지 9개는 평균 1.78㎎/L, 최대 8.72㎎/L로 비교적 적었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 가운데 김치찌개·피클·김치라면·된장찌개는 다른 음식에 비해 알루미늄 용출량이 많은 편에 속했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김치찌개의 경우 평균 9.86 mg/kg로 가장 많은 알루미늄양이 검출됐다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 피클(2.86 mg/kg), 김치라면(2.34 mg/kg), 된장찌개(1.64 mg/kg) 순으로 알루미늄양이 용출됐다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이들 음식의 산도(pH)·염도(%)는 각각 김치찌개 4.6·0.98, 피클 3.8·0.38, 김치라면 4.4, 0.55, 된장찌개 5.7·1.02였다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "경기도보건환경연구원 관계자는 \\\"인체에 유해한 수준은 아니지만, 산도나 염도가 높은 음식일수록 알루미늄 냄비에서 알루미늄이 많이 용출되는 만큼 산도나 염도가 높은 음식 조리에 알루미늄 냄비를 장기간 사용하지 말아야 한다\\\"고 말했다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 알루미늄은 자연에 존재하는 금속 원소로 지각 중 산소, 규소 다음으로 많은 원소다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "가공되지 않은 천연 식품 중에도 자연적으로 함유돼 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "국제식품규격위원회(CODEX) 식품사용 허용기준은 200∼520mg/kg 이하로 생선류 200㎎/㎏, 파스타·국수 300㎎/㎏, 절임채소해조류 520㎎/㎏ 등이다.",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "알루미늄 냄비에 조리할 때 주의해야 할 음식 4가지는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

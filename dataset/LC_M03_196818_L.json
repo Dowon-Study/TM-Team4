@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196818",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "음식/맛집",
+    "newsTitle": "'프라이드 치킨' 칼로리의 반전, 알보고니 탕수육·족발 보다 낮네 '깜짝'",
+    "newsSubTitle": "",
+    "newsContent": "‘프라이드 치킨 칼로리’ '고열량 음식' 대명사인 프라이드 치킨 칼로리의 반전, 알보고니 해물탕보다 낮아 최근 프라이드 치킨 칼로리가 화제다.\n한국소비자원에서 발표한 자료에 따르면 프라이드 치킨 1인분의 칼로리는 299kcal로 탕수육(481kcal)보다 낮았다.\n특히 깐풍기 1인분의 칼로리는 616kcal로 프라이드 치킨의 두 배를 훌쩍 뛰어넘는다.\n의외로 프라이드 치킨의 칼로리가 같은 양의 다른 음식보다 낮았던 것이 알려져 화제가 되고 있다.\n특히 닭고기를 조각내서 뜨거운 기름에서 튀겨낸 프라이드 치킨(fried chicken)에는 미국 남부의 농장지대에서 일했던 흑인 노예들의 애환이 담겨 있다고 알려졌다.\n과거 닭을 오븐에 구워서 먹는 ‘로스트 치킨’에는 살이 많은 부위만 사용을 하고 날개와 발, 목은 버렸는데 이를 흑인 노예들이 주워와 기름에 튀긴 것이 후라이드 치킨이라고 한다.\n프라이드 치킨 칼로리를 접한 네티즌들은 “프라이드 치킨 칼로리, 의외로 낮네”, “프라이드 치킨 칼로리, 잘못 알려져 있었네”, “프라이드 치킨 칼로리, 유래가 있었구나” 등의 반응을 보였다.\n온라인 중앙일보 ‘프라이드 치킨 칼로리’",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘프라이드 치킨 칼로리’ '고열량 음식' 대명사인 프라이드 치킨 칼로리의 반전, 알보고니 해물탕보다 낮아 최근 프라이드 치킨 칼로리가 화제다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국소비자원에서 발표한 자료에 따르면 프라이드 치킨 1인분의 칼로리는 299kcal로 탕수육(481kcal)보다 낮았다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 깐풍기 1인분의 칼로리는 616kcal로 프라이드 치킨의 두 배를 훌쩍 뛰어넘는다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "의외로 프라이드 치킨의 칼로리가 같은 양의 다른 음식보다 낮았던 것이 알려져 화제가 되고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 닭고기를 조각내서 뜨거운 기름에서 튀겨낸 프라이드 치킨(fried chicken)에는 미국 남부의 농장지대에서 일했던 흑인 노예들의 애환이 담겨 있다고 알려졌다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "과거 닭을 오븐에 구워서 먹는 ‘로스트 치킨’에는 살이 많은 부위만 사용을 하고 날개와 발, 목은 버렸는데 이를 흑인 노예들이 주워와 기름에 튀긴 것이 후라이드 치킨이라고 한다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "프라이드 치킨 칼로리를 접한 네티즌들은 “프라이드 치킨 칼로리, 의외로 낮네”, “프라이드 치킨 칼로리, 잘못 알려져 있었네”, “프라이드 치킨 칼로리, 유래가 있었구나” 등의 반응을 보였다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 ‘프라이드 치킨 칼로리’",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "프라이드 치킨 칼로리, 알고보니 족발보다 낮다… 네티즌들의 폭발적인 반응",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195878",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "학력 수준 따라 당뇨병 발생률 8배까지 차이나",
+    "newsSubTitle": "아주대 김대중 교수팀 한국인 1만4000명 대상 분석",
+    "newsContent": "학력 수준에 따라 당뇨병 발생 위험이 최고 8배까지 차이 나는 것으로 밝혀졌다.\n아주대병원 내분비대사내과 김대중 교수팀은 한국인의 학력ㆍ소득 수준에 따른 당뇨병 유병률을 조사한 결과 이같이 드러났다고 밝혔다.\n이 결과는 보건복지부가 실시한 2010년ㆍ2012년 국민건강영양조사의 원 자료를 분석한 것(대면 조사 포함)으로 SCI 등재 국제학술지인 ‘연세 메디컬 저널(Yonsei Medical Journal, YMJ)’ 최근호에 소개됐다.\n연구논문(Effect of Socio-Economic Status on the Prevalence of Diabetes, 사회ㆍ경제적 지위가 당뇨병 발병에 미치는 영향)에 따르면 교육 기간이 12년 이상인 30∼64세 여성을 기준(1)으로 학력별 당뇨병 발생 위험을 비교했을 때 교육 기간이 10∼12년이면 2.1, 7∼9년이면 5.1, 7년 미만이면 8이었다.\n이는 이 연령대 최저 학력 여성의 당뇨병 발생 위험이 최고 학력 여성보다 8배나 높다는 의미다.\n30∼64세 남성의 당뇨병 발생 위험도 학력에 따라 5.8배까지 차이를 보였다(교육 기간 12년 이상 1, 10∼12년 2, 7∼9년 4.2, 7년 미만 5.8). 그러나 65세 이상 노인에선 학력에 따른 당뇨병 발생 위험 차이가 눈에 띄지 않았다.\n65세 이상 남성 노인의 경우 최저 학력 노인의 당뇨병 발생 위험이 최고 학력 노인보다 오히려 약간 낮았다.\n김 교수팀은 논문에서 “노화(aging)가 당뇨병의 워낙 강력한 위험 요인이어서 당뇨병 발생에 미치는 사회ㆍ경제적 영향력이 크게 희석된 결과”로 해석했다.\n남부 독일에서 1653명의 당뇨병 환자를 대상으로 한 연구에서도 고연령 층에선 사회ㆍ경제적 지위와 당뇨병 유병률이 이렇다 할 상관성을 보이지 않는 것으로 나타났다.\n또 30∼64세 연령대에선 가계 수입에 따른 당뇨병 발생 위험의 격차도 상당한 것으로 밝혀졌다.\n가계 소득이 상위 25% 이내인 30∼64세 여성을 기준(1)으로 가계 소득별 당뇨병 발생 위험을 비교하면 소득 상위 25∼50%가 2, 소득 하위 25∼50%가 2.7, 소득 하위 25% 이내가 5였다.\n최저 소득자와 최고 소득자의 당뇨병 발생 위험이 5배나 벌어진 셈이다.\n이 연령대 남성에서도 소득 하위 25% 이내이면 상위 25% 이내인 사람보다 당뇨병 발생 위험이 1.9배나 높았다.\n하지만 65세 이상 노인에선 남녀 모두 소득이 당뇨병 발생 위험에 별 영향을 미치지 못하는 것으로 조사됐다.\n오히려 저소득 노인이 고소득 노인보다 당뇨병 발생 위험이 약간 낮았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "학력 수준에 따라 당뇨병 발생 위험이 최고 8배까지 차이 나는 것으로 밝혀졌다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아주대병원 내분비대사내과 김대중 교수팀은 한국인의 학력ㆍ소득 수준에 따른 당뇨병 유병률을 조사한 결과 이같이 드러났다고 밝혔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 결과는 보건복지부가 실시한 2010년ㆍ2012년 국민건강영양조사의 원 자료를 분석한 것(대면 조사 포함)으로 SCI 등재 국제학술지인 ‘연세 메디컬 저널(Yonsei Medical Journal, YMJ)’ 최근호에 소개됐다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연구논문(Effect of Socio-Economic Status on the Prevalence of Diabetes, 사회ㆍ경제적 지위가 당뇨병 발병에 미치는 영향)에 따르면 교육 기간이 12년 이상인 30∼64세 여성을 기준(1)으로 학력별 당뇨병 발생 위험을 비교했을 때 교육 기간이 10∼12년이면 2.1, 7∼9년이면 5.1, 7년 미만이면 8이었다.",
+        "sentenceSize": 202
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이는 이 연령대 최저 학력 여성의 당뇨병 발생 위험이 최고 학력 여성보다 8배나 높다는 의미다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "30∼64세 남성의 당뇨병 발생 위험도 학력에 따라 5.8배까지 차이를 보였다(교육 기간 12년 이상 1, 10∼12년 2, 7∼9년 4.2, 7년 미만 5.8). 그러나 65세 이상 노인에선 학력에 따른 당뇨병 발생 위험 차이가 눈에 띄지 않았다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "65세 이상 남성 노인의 경우 최저 학력 노인의 당뇨병 발생 위험이 최고 학력 노인보다 오히려 약간 낮았다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김 교수팀은 논문에서 “노화(aging)가 당뇨병의 워낙 강력한 위험 요인이어서 당뇨병 발생에 미치는 사회ㆍ경제적 영향력이 크게 희석된 결과”로 해석했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "남부 독일에서 1653명의 당뇨병 환자를 대상으로 한 연구에서도 고연령 층에선 사회ㆍ경제적 지위와 당뇨병 유병률이 이렇다 할 상관성을 보이지 않는 것으로 나타났다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또 30∼64세 연령대에선 가계 수입에 따른 당뇨병 발생 위험의 격차도 상당한 것으로 밝혀졌다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "가계 소득이 상위 25% 이내인 30∼64세 여성을 기준(1)으로 가계 소득별 당뇨병 발생 위험을 비교하면 소득 상위 25∼50%가 2, 소득 하위 25∼50%가 2.7, 소득 하위 25% 이내가 5였다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "최저 소득자와 최고 소득자의 당뇨병 발생 위험이 5배나 벌어진 셈이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이 연령대 남성에서도 소득 하위 25% 이내이면 상위 25% 이내인 사람보다 당뇨병 발생 위험이 1.9배나 높았다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "하지만 65세 이상 노인에선 남녀 모두 소득이 당뇨병 발생 위험에 별 영향을 미치지 못하는 것으로 조사됐다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "오히려 저소득 노인이 고소득 노인보다 당뇨병 발생 위험이 약간 낮았다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "학력ㆍ소득 수준이 당뇨병에 미치는 영향은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

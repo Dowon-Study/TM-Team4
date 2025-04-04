@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194375",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[최윤희·권혁재의‘날마다 행복’] 으앗앗 …… 악~",
+    "newsSubTitle": "",
+    "newsContent": "으앗앗 …… 악~ 낙엽 길을 신나게 달려가는 소년~ 낙엽이 좋아서 품속에 가득 안고 달려간다.\n소년은 낙엽의 무엇에 반한 것일까?\n출렁출렁한 낙엽의 파도? 바삭바삭한 낙엽의 소리? 낙엽 속에서 소년은 마냥 행복하다.\n낙엽이 있어서 소년은 마냥 신난다. 이 낙엽을 엄마 머리에 뿌려야지.\n울 엄마 헤어스타일 낙엽으로 멋지게 치장해 드려야지.\n꿈에 부풀어 달려가는 소년의 발밑에서 낙엽들은 사망선고를 한다.\n으앗앗 …… 악~ 낙엽 몸이 통째로 부서진다.\n부서져! 세상엔~ 이렇게 아름다운 ‘단체사망’도 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "으앗앗 …… 악~ 낙엽 길을 신나게 달려가는 소년~ 낙엽이 좋아서 품속에 가득 안고 달려간다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소년은 낙엽의 무엇에 반한 것일까?",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "출렁출렁한 낙엽의 파도? 바삭바삭한 낙엽의 소리? 낙엽 속에서 소년은 마냥 행복하다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "낙엽이 있어서 소년은 마냥 신난다. 이 낙엽을 엄마 머리에 뿌려야지.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "울 엄마 헤어스타일 낙엽으로 멋지게 치장해 드려야지.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "꿈에 부풀어 달려가는 소년의 발밑에서 낙엽들은 사망선고를 한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "으앗앗 …… 악~ 낙엽 몸이 통째로 부서진다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "부서져! 세상엔~ 이렇게 아름다운 ‘단체사망’도 있다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소년, 낙엽 하나로 이렇게 행복할 수 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

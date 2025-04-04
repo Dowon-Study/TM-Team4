@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198590",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "한국의 정치발전, 무엇이 문제인가",
+    "newsSubTitle": "민준기 지음, 을유문화사, 1만5천원 민주주의의 한국화 과정은?",
+    "newsContent": "8.15 해방 이후부터 김영삼 대통령의 문민정부 시기까지 50여 년 동안의 한국정치를 '민주주의의 한국화 과정'이란 색다른 관점에서 분석한 책이다.\n흔히 이 시기를 '한국의 민주화 과정'으로 보는 것과 차이가 있다.\n저자 민준기 경희대 명예교수는 해방 이후 한국의 정치발전 과정을 민주주의의 적응기로 보는 동시에 전통적인 한국의 정서와 문화의 특성을 배제하지 않는다.\n서양식 민주주의가 한국의 문화적 전통과 만나 지난 50년간 한국화 과정을 밟아왔다는 식의 애정어린 시각을 바탕에 깔고 비판을 전개해 나가는 것이다.\n눈길을 끄는 것은 이 책의 제5부에서 문민정부의 개혁을 평가하는 대목이다.\n저자는 \\\"김영삼 정부의 개혁 정치는 성공한 것도 있었지만 그보다 실패한 사례가 더 많았다\\\"면서 \\\"개혁이 성공하기 위해서는 페이비언 전략(서서히 가지를 뻗는 식)과 전격 작전(뿌리째 뽑는)의 전술을 혼합하는 것이 바람직하다\\\"고 말했다.\n배영대 기자 *** 바로잡습니다 ◇12일자 ‘행복한 책읽기’ S7면에 소개된 책『한국의 정치발전, 무엇이 문제인가』기사 제목 중 ‘이희수 지음, 일빛’은 ‘민준기 지음, 을유문화사’의 잘못이기에 로 바로잡습니다.\n또 S5면에 소개된 소설 『인간의 힘』기사 제목 중 ‘성적제’는 ‘성석제’의 잘못이므로 바로잡습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "8.15 해방 이후부터 김영삼 대통령의 문민정부 시기까지 50여 년 동안의 한국정치를 '민주주의의 한국화 과정'이란 색다른 관점에서 분석한 책이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "흔히 이 시기를 '한국의 민주화 과정'으로 보는 것과 차이가 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "저자 민준기 경희대 명예교수는 해방 이후 한국의 정치발전 과정을 민주주의의 적응기로 보는 동시에 전통적인 한국의 정서와 문화의 특성을 배제하지 않는다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서양식 민주주의가 한국의 문화적 전통과 만나 지난 50년간 한국화 과정을 밟아왔다는 식의 애정어린 시각을 바탕에 깔고 비판을 전개해 나가는 것이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "눈길을 끄는 것은 이 책의 제5부에서 문민정부의 개혁을 평가하는 대목이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "저자는 \\\"김영삼 정부의 개혁 정치는 성공한 것도 있었지만 그보다 실패한 사례가 더 많았다\\\"면서 \\\"개혁이 성공하기 위해서는 페이비언 전략(서서히 가지를 뻗는 식)과 전격 작전(뿌리째 뽑는)의 전술을 혼합하는 것이 바람직하다\\\"고 말했다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "배영대 기자 *** 바로잡습니다 ◇12일자 ‘행복한 책읽기’ S7면에 소개된 책『한국의 정치발전, 무엇이 문제인가』기사 제목 중 ‘이희수 지음, 일빛’은 ‘민준기 지음, 을유문화사’의 잘못이기에 로 바로잡습니다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 S5면에 소개된 소설 『인간의 힘』기사 제목 중 ‘성적제’는 ‘성석제’의 잘못이므로 바로잡습니다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이 관점'에서 분석한 한국 정치발전의 문제는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

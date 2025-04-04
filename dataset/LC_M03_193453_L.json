@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193453",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "송진순씨, 대학졸업 32년만에 첫 조각전",
+    "newsSubTitle": "",
+    "newsContent": "\\\"선생님은 내 삶과 예술의 정신적 지주나 다름없다. 다시 조각을 할 수 있게 해 준 분도 선생님이시다\\\" 조각가 송진순씨가 첫 개인전을 앞두고 스승인 전뢰진(예술원 회원) 홍익대 명예교수에게 보내는 헌사는 각별하다.\n오는 16일부터 22일까지 서울 관훈동 백송화랑에서 열리는 그의 개인전은 대학 졸업 후 32년만에 처음 갖는 것이다.\n송씨는 홍익대 미술대에서 전 교수로부터 조각을 배웠다.\n그러나 남편을 따라줄곧 외국생활을 하는 바람에 작품에 몰입하기 힘들었다.\n50고개를 훨씬 넘긴 지금에 와서 개인전을 갖는 감회는 그래서 더욱 크다.\n이번 전시작은 작가의 말처럼 스승의 조각을 빼다 박았다고 할 만큼 흡사하다.\n스승의 삶과 정신, 그리고 기법을 고스란히 계승하고 있는 셈이다.\n출품작은 등. 이중 초기작인 는 여인이 무릎을 꿇고 앉아 단아하게 기도하는 모습으로 유연한 곡선과 간략한 세부묘사가 돋보인다.\n하얀 대리석을 주재료로 사용한다는 점에서도 스승을 닮았다.\n맑고 깨끗한 이미지의 흰 대리석에 소녀와 꽃, 포도덩굴, 물고기, 소라 등 자연의 순수한 아름다움을새겨넣고 있는 것이다.\n동양과 서양의 미를 조화롭게 표현했다는 점도 눈여겨볼만하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"선생님은 내 삶과 예술의 정신적 지주나 다름없다. 다시 조각을 할 수 있게 해 준 분도 선생님이시다\\\" 조각가 송진순씨가 첫 개인전을 앞두고 스승인 전뢰진(예술원 회원) 홍익대 명예교수에게 보내는 헌사는 각별하다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 16일부터 22일까지 서울 관훈동 백송화랑에서 열리는 그의 개인전은 대학 졸업 후 32년만에 처음 갖는 것이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "송씨는 홍익대 미술대에서 전 교수로부터 조각을 배웠다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러나 남편을 따라줄곧 외국생활을 하는 바람에 작품에 몰입하기 힘들었다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "50고개를 훨씬 넘긴 지금에 와서 개인전을 갖는 감회는 그래서 더욱 크다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 전시작은 작가의 말처럼 스승의 조각을 빼다 박았다고 할 만큼 흡사하다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "스승의 삶과 정신, 그리고 기법을 고스란히 계승하고 있는 셈이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "출품작은 등. 이중 초기작인 는 여인이 무릎을 꿇고 앉아 단아하게 기도하는 모습으로 유연한 곡선과 간략한 세부묘사가 돋보인다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하얀 대리석을 주재료로 사용한다는 점에서도 스승을 닮았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "맑고 깨끗한 이미지의 흰 대리석에 소녀와 꽃, 포도덩굴, 물고기, 소라 등 자연의 순수한 아름다움을새겨넣고 있는 것이다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "동양과 서양의 미를 조화롭게 표현했다는 점도 눈여겨볼만하다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "송진순씨, 대학졸업 후 첫 조각전 열어, '최애' 스승님의 기법 계승했다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

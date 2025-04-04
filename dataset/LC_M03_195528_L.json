@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195528",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "‘34만원’ 에르메스 젤리슈즈 순식간에 ‘품절’",
+    "newsSubTitle": "",
+    "newsContent": "명품 브랜드 에르메스에서 처음으로 출시한 젤리슈즈 ‘누드(Nude)’가 순식간에 품절 되며 소비자들 사이에서 뜨거운 인기를 끌고 있다.\n에르메스는 지난 1월 말 국내 매장에서 젤리슈즈 ‘누드’를 판매하기 시작했다.\n젤리슈즈의 가격은 34만원이다.\n젤리슈즈는 고무나 폴리에틸렌으로 만든 여성용 여름 샌들이다.\n젤리슈즈 ‘누드’는 발등 부분에 여러 겹의 체인이 있어 슬리퍼처럼 신는 제품이다.\n에르메스가 젤리슈즈를 내놓은 것은 이번이 처음이다.\n이 제품은 수백만 원을 호가하는 제품을 파는 명품 브랜드인 에르메스에서는 보기 드문 가격이라 품절사태를 빚었다.\n관련 업계에 따르면 최근 젊은 여성에게 젤리슈즈가 유행하면서 에르메스도 이에 맞춰 관련 제품을 내놓은 것으로 보인다.\n가죽 명가로 잘 알려진 에르메스가 젤리 소재를 쓴 것은 상당히 이례적이라는 평가다.\n에르메스 젤리슈즈는 국내에 판매된 지 3개월 넘었지만, 여전히 제품을 구하려는 사람들의 문의 글이 줄을 잇고 있다.\n국내 매장에서 품귀 현상을 빚으면서 해외 구매대행을 통해 사거나 웃돈을 얹어주고라도 사려는 소비자들이 늘고 있다.\n일부 중고 사이트에서는 40만원이 넘는 가격에 거래된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "명품 브랜드 에르메스에서 처음으로 출시한 젤리슈즈 ‘누드(Nude)’가 순식간에 품절 되며 소비자들 사이에서 뜨거운 인기를 끌고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "에르메스는 지난 1월 말 국내 매장에서 젤리슈즈 ‘누드’를 판매하기 시작했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "젤리슈즈의 가격은 34만원이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "젤리슈즈는 고무나 폴리에틸렌으로 만든 여성용 여름 샌들이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "젤리슈즈 ‘누드’는 발등 부분에 여러 겹의 체인이 있어 슬리퍼처럼 신는 제품이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "에르메스가 젤리슈즈를 내놓은 것은 이번이 처음이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 제품은 수백만 원을 호가하는 제품을 파는 명품 브랜드인 에르메스에서는 보기 드문 가격이라 품절사태를 빚었다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "관련 업계에 따르면 최근 젊은 여성에게 젤리슈즈가 유행하면서 에르메스도 이에 맞춰 관련 제품을 내놓은 것으로 보인다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "가죽 명가로 잘 알려진 에르메스가 젤리 소재를 쓴 것은 상당히 이례적이라는 평가다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "에르메스 젤리슈즈는 국내에 판매된 지 3개월 넘었지만, 여전히 제품을 구하려는 사람들의 문의 글이 줄을 잇고 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "국내 매장에서 품귀 현상을 빚으면서 해외 구매대행을 통해 사거나 웃돈을 얹어주고라도 사려는 소비자들이 늘고 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "일부 중고 사이트에서는 40만원이 넘는 가격에 거래된다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에르메스 젤리슈즈 순식간에 '품절'... 대체 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

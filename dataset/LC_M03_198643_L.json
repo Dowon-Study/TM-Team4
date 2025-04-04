@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198643",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "화가 존원의 'UNTITLED', 부산 갤러리 전시",
+    "newsSubTitle": "",
+    "newsContent": "화가 존원의 ‘UNTITLED’ 작품이 롯데월드몰 전시장에서 부산 해운대 100층 LCT 전망대에 위치한 GALLERY THE SKY로 옮겨져 9월 3일부터 전시된다.\n이 작품은 올해 초 전시되어 있던 그림 앞에 놓인 붓과 페인트가 관람객의 참여를 위한 것으로 착각해 20대 커플이 그림에 낙서한 사건이 있었다.\n기획사 측은 이를 경찰에 신고했다가 훼손에 고의성이 없었다고 판단하고 신고를 취소해 사건은 현장에서 종결됐다.\n커플은 \\\"벽에 낙서가 돼 있고, 붓과 페인트가 있다 보니 낙서를 해도 되는 줄 알았다\\\"라고 전했다.\n사건 발생 후 복원비용 등 법적 문제에 대한 내용으로 국내뿐 아니라 세계적 매스컴에 이슈가 되었으며, 이로 인해 작품은 더욱 유명세를 치르게 됨으로써 작품의 가격은 2배 이상 상승, 10억 원 이상 호가하는 기현상이 발생하였다.\n한편, 이 작품은 세계적 그라피티 예술가로 꼽히는 존원이 2016년 내한해 그린 작품이다.\n현재는 복원되어 부산갤러리 초고층에서 바다, 전망을 그림과 동시에 감상할 수 있다 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "화가 존원의 ‘UNTITLED’ 작품이 롯데월드몰 전시장에서 부산 해운대 100층 LCT 전망대에 위치한 GALLERY THE SKY로 옮겨져 9월 3일부터 전시된다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 작품은 올해 초 전시되어 있던 그림 앞에 놓인 붓과 페인트가 관람객의 참여를 위한 것으로 착각해 20대 커플이 그림에 낙서한 사건이 있었다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "기획사 측은 이를 경찰에 신고했다가 훼손에 고의성이 없었다고 판단하고 신고를 취소해 사건은 현장에서 종결됐다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "커플은 \\\"벽에 낙서가 돼 있고, 붓과 페인트가 있다 보니 낙서를 해도 되는 줄 알았다\\\"라고 전했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사건 발생 후 복원비용 등 법적 문제에 대한 내용으로 국내뿐 아니라 세계적 매스컴에 이슈가 되었으며, 이로 인해 작품은 더욱 유명세를 치르게 됨으로써 작품의 가격은 2배 이상 상승, 10억 원 이상 호가하는 기현상이 발생하였다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 이 작품은 세계적 그라피티 예술가로 꼽히는 존원이 2016년 내한해 그린 작품이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "현재는 복원되어 부산갤러리 초고층에서 바다, 전망을 그림과 동시에 감상할 수 있다 온라인 중앙일보",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "세계적인 그라피디 예술가 존원 '이 작품' 부산 GALLERY THE SKY에서 전시",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

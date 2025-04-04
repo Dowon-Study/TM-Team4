@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194683",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "남북 작가 모임 '민족문학인협회' 만든다",
+    "newsSubTitle": "29일 금강산에서 결성식 … 고은씨 남측 대표 기관지 발행, 문학상 제정 등 공동 추진키로",
+    "newsContent": "분단 이후 처음으로 남북 작가들만의 단일 조직이 출범한다. 6.15 민족문학인협회 남측협의회(회장 고은)는 18일 서울 민족문학작가회의 사무실에서 기자회견을 열어 \\\"29일 금강산에서 남북작가 100여 명이 모여 민족문학인협회 결성식을 치른다\\\"고 발표했다.\n결성식은 29일 오후 금강산 호텔 공연극장에서 개최되며, 이후 열리는 '금강산 문학의 밤'은 남북 작가단체의 첫 공동 행사가 된다.\n민족문학인협회 구성은 지난해 7월 평양 등지에서 열렸던 민족작가대회 때 결의했다.\n양측 실무진은 1년 여의 협상 끝에 이달 초 협회 결성을 합의했다.\n단체는 남과 북에서 8명씩으로 구성된 공동회장단 회의에서 주요 안건을 결정한다.\n민족작가대회 개최, 협회 기관지 발행, 문학상 제정 등 지난해 평양에서 결의했던 사안들을 우선 처리할 예정이다.\n남측협의회 회장으로는 고은 시인이 결정됐으며 백낙청.신경림.송기숙.김남조씨 등이 고문을 맡기로 했다.\n민족문학작가회의와 한국문인협회 소속 작가 모두가 참여하는 범 문단 조직을 표방한다.\n북측에서도 조선작가동맹 중앙위원회 김덕철 부위원장이 북측협회 회장을, 장혜명 '통일문학' 편집국장이 부회장을 맡는 등 북측 주요 작가 대부분이 협회 집행부에 이름을 올렸다.\n고은 회장은 \\\"남북이 만나는 것은 당위가 아니라 현실의 문제\\\"라며 \\\"남북 문학단체가 모이는 것도 통일을 위한 작은 역할을 감당하는 것\\\"이라고 소감을 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "분단 이후 처음으로 남북 작가들만의 단일 조직이 출범한다. 6.15 민족문학인협회 남측협의회(회장 고은)는 18일 서울 민족문학작가회의 사무실에서 기자회견을 열어 \\\"29일 금강산에서 남북작가 100여 명이 모여 민족문학인협회 결성식을 치른다\\\"고 발표했다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "결성식은 29일 오후 금강산 호텔 공연극장에서 개최되며, 이후 열리는 '금강산 문학의 밤'은 남북 작가단체의 첫 공동 행사가 된다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "민족문학인협회 구성은 지난해 7월 평양 등지에서 열렸던 민족작가대회 때 결의했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "양측 실무진은 1년 여의 협상 끝에 이달 초 협회 결성을 합의했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "단체는 남과 북에서 8명씩으로 구성된 공동회장단 회의에서 주요 안건을 결정한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "민족작가대회 개최, 협회 기관지 발행, 문학상 제정 등 지난해 평양에서 결의했던 사안들을 우선 처리할 예정이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "남측협의회 회장으로는 고은 시인이 결정됐으며 백낙청.신경림.송기숙.김남조씨 등이 고문을 맡기로 했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "민족문학작가회의와 한국문인협회 소속 작가 모두가 참여하는 범 문단 조직을 표방한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "북측에서도 조선작가동맹 중앙위원회 김덕철 부위원장이 북측협회 회장을, 장혜명 '통일문학' 편집국장이 부회장을 맡는 등 북측 주요 작가 대부분이 협회 집행부에 이름을 올렸다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "고은 회장은 \\\"남북이 만나는 것은 당위가 아니라 현실의 문제\\\"라며 \\\"남북 문학단체가 모이는 것도 통일을 위한 작은 역할을 감당하는 것\\\"이라고 소감을 밝혔다.",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "분단 이후 첫 남북 작가 단일 조직 출범... 앞으로의 행보는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_197101",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[Family건강] 보톡스로 만성두통 치료",
+    "newsSubTitle": "장시간 신경-근육이완 효과 뛰어나",
+    "newsContent": "보톡스를 이용해 두통을 치료하고 있다. ‘두통과 보톡스’. 쉽게 어울리지 않는 단어의 조합이다.\n하지만 보톡스를 이용할 경우 그동안 해결하기 어려웠던 편두통을 비롯한 만성두통을 근본적으로 다스릴 수 있다는 연구결과가 나왔다.\n신사통증클리닉 고준석·유경아 박사팀은 “3년간 500명의 만성두통 및 편두통 환자에 신경치료와 보톡스를 병행 시술한 결과, 85%의 환자에서 통증 개선 효과가 나타났다”고 최근 밝혔다.\n여기서 두통은 뇌종양이나 동맥류 같은 기질적 이상이 아닌 긴장성 두통을 말한다.\n인체는 스트레스를 받으면 머리와 목 뒤쪽 근육이 경직되고, 그 결과 주변 혈관 및 신경이 압박을 받아 혈액순환에 장애가 온다.\n뇌세포에 산소와 영양이 제때 공급되지 않아 노폐물이 쌓이고, 뇌빈혈 상태에 빠지는 것. 두통이 심한 경우 구역·구토가 생기는 것은 이런 이유 때문이다.\n또 스트레스에 의한 신경 압박은 신경자체의 통증을 유발할 뿐 아니라 신경가지를 따라 올라가면서 다시 근육을 위축시키는 악순환을 되풀이한다.\n목 주변 다른 부위 신경을 흥분시켜 목·어깨·등·팔의 결림과 저림을 호소하게 만드는 것이다.\n근섬유화가 진행돼 근육이 뭉치는 현상도 나타난다.\n스트레칭·지압과 같은 수기요법, 또는 붙이는 소염진통제로는 회복되지 않는 단계가 된다는 것. 증상이 심할 때는 인체 자율신경의 균형을 깨뜨려 소화가 안 되고, 불면증, 대장 기능이 떨어지는 복합질환을 야기하기도 한다.\n이런 경우 지금까지는 신경치료만을 했다.\n희석한 마취제를 주입해 긴장된 신경을 이완시켜주는 것이다.\n문제는 이러한 시술 효과가 한시적이어서 스트레스가 발생하면 신경이 다시 곤두선다는 것이다.\n이를 해결해주는 것이 바로 보톡스다. 고 원장은 “보톡스는 장시간 신경과 근육이완 효과를 지니고 있어 두통 재발을 방지할 뿐 아니라 신경치료 효과를 배가시킬 수 있다”고 말했다.\n특히 보톡스는 신경계로 전달되는 통증 경로를 차단하고, 혈관확장을 통해 근육 내 통증물질을 체외로 배출하는 역할도 한다. 고 원장은 “편두통 역시 긴장성 두통에서 비롯되는 경우가 많다”며 “이 경우에도 근본치료를 위해선 두통약으로 일시적인 진정을 시키기보다 자율신경 기능을 회복시켜주는 적극적인 치료가 필요하다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "보톡스를 이용해 두통을 치료하고 있다. ‘두통과 보톡스’. 쉽게 어울리지 않는 단어의 조합이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하지만 보톡스를 이용할 경우 그동안 해결하기 어려웠던 편두통을 비롯한 만성두통을 근본적으로 다스릴 수 있다는 연구결과가 나왔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신사통증클리닉 고준석·유경아 박사팀은 “3년간 500명의 만성두통 및 편두통 환자에 신경치료와 보톡스를 병행 시술한 결과, 85%의 환자에서 통증 개선 효과가 나타났다”고 최근 밝혔다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여기서 두통은 뇌종양이나 동맥류 같은 기질적 이상이 아닌 긴장성 두통을 말한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "인체는 스트레스를 받으면 머리와 목 뒤쪽 근육이 경직되고, 그 결과 주변 혈관 및 신경이 압박을 받아 혈액순환에 장애가 온다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뇌세포에 산소와 영양이 제때 공급되지 않아 노폐물이 쌓이고, 뇌빈혈 상태에 빠지는 것. 두통이 심한 경우 구역·구토가 생기는 것은 이런 이유 때문이다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 스트레스에 의한 신경 압박은 신경자체의 통증을 유발할 뿐 아니라 신경가지를 따라 올라가면서 다시 근육을 위축시키는 악순환을 되풀이한다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "목 주변 다른 부위 신경을 흥분시켜 목·어깨·등·팔의 결림과 저림을 호소하게 만드는 것이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "근섬유화가 진행돼 근육이 뭉치는 현상도 나타난다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "스트레칭·지압과 같은 수기요법, 또는 붙이는 소염진통제로는 회복되지 않는 단계가 된다는 것. 증상이 심할 때는 인체 자율신경의 균형을 깨뜨려 소화가 안 되고, 불면증, 대장 기능이 떨어지는 복합질환을 야기하기도 한다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이런 경우 지금까지는 신경치료만을 했다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "희석한 마취제를 주입해 긴장된 신경을 이완시켜주는 것이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "문제는 이러한 시술 효과가 한시적이어서 스트레스가 발생하면 신경이 다시 곤두선다는 것이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이를 해결해주는 것이 바로 보톡스다. 고 원장은 “보톡스는 장시간 신경과 근육이완 효과를 지니고 있어 두통 재발을 방지할 뿐 아니라 신경치료 효과를 배가시킬 수 있다”고 말했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "특히 보톡스는 신경계로 전달되는 통증 경로를 차단하고, 혈관확장을 통해 근육 내 통증물질을 체외로 배출하는 역할도 한다. 고 원장은 “편두통 역시 긴장성 두통에서 비롯되는 경우가 많다”며 “이 경우에도 근본치료를 위해선 두통약으로 일시적인 진정을 시키기보다 자율신경 기능을 회복시켜주는 적극적인 치료가 필요하다”고 말했다.",
+        "sentenceSize": 180
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "만성두통에 화끈한 한 방… 보톡스로 할 수 있다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198602",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "감튀족 울린 금자씨 또 왔다...감자값, 1년 전보다 두배 폭등",
+    "newsSubTitle": "",
+    "newsContent": "패스트푸드 프랜차이즈에서 최근 감자튀김 판매가 중단되는 사태가 잇따르고 있다.\n수급 불안정으로 인한 올해 초 ‘감튀 품절 대란’이 다시 한번 발생할 수 있다는 우려가 나온다.\n25일 관련 업계에 따르면 최근 샌드위치 브랜드인 써브웨이는 이달 초 공식 홈페이지에 감자를 원재료로 하는 ‘웨지포테이토’ 메뉴의 일시 판매 중단을 공지했다.\n써브웨이 측은 “이상 기후에 따른 감자 수확량 감소와 지속적인 물류대란으로 인해 수급이 불안정하여 웨지 포테이토 제품의 판매가 한시적으로 중단된다”고 안내했다.\n회사는 “빠른 시간 내 공급이 정상화될 수 있도록 최선을 다하겠다”고 덧붙였다.\n써브웨이 뿐 아니라 롯데리아와 버거킹 등 버거 프랜차이즈 일부 매장에서 감자튀김 판매가 중단되는 상황이 발생했다.\n실제 전날(24일) 요기요, 배달의민족, 쿠팡이츠 등 주요 배달 앱과 일부 버거킹 오프라인 매장에서 역시 감자튀김 주문이 불가능했다.\n이에 감자튀김 대신 어니언링이나 치킨너깃 등 다른 사이드 메뉴를 주문하도록 했다.\n다만 버거킹 측은 통관 문제로 인한 일시적인 공급 제한일 뿐 본질적 수급 문제는 아니며 25일부터는 정상 공급이 가능하다고 선을 그었다.\n롯데리아도 일부 지점에서 기본 프렌치프라이 대신 단면이 구불구불한 모양의 ‘프링클 컷’ 감자튀김을 제공하는 상황이다.\n감자 수급 다변화를 위해 유럽에서 제품을 수입하면서 프링클 컷 형태를 제공하게 됐다는 것이다.\n프랜차이즈 업체들이 감자 메뉴 공급에 어려움을 겪는 것은 기후 변화 등으로 주요 수입국인 미국의 감자 생산량이 급감한 데 더해 코로나19로 인한 물류 불안까지 겹친 영향으로 업계에서는 분석하고 있다.\n한편 국내에서도 감자 가격이 크게 치솟고 있다.\n최근 감자 20kg 도매가격(20일 기준)은 6만300원으로 1년 전(3만1940원)의 두 배 수준으로 폭등했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "패스트푸드 프랜차이즈에서 최근 감자튀김 판매가 중단되는 사태가 잇따르고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "수급 불안정으로 인한 올해 초 ‘감튀 품절 대란’이 다시 한번 발생할 수 있다는 우려가 나온다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "25일 관련 업계에 따르면 최근 샌드위치 브랜드인 써브웨이는 이달 초 공식 홈페이지에 감자를 원재료로 하는 ‘웨지포테이토’ 메뉴의 일시 판매 중단을 공지했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "써브웨이 측은 “이상 기후에 따른 감자 수확량 감소와 지속적인 물류대란으로 인해 수급이 불안정하여 웨지 포테이토 제품의 판매가 한시적으로 중단된다”고 안내했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "회사는 “빠른 시간 내 공급이 정상화될 수 있도록 최선을 다하겠다”고 덧붙였다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "써브웨이 뿐 아니라 롯데리아와 버거킹 등 버거 프랜차이즈 일부 매장에서 감자튀김 판매가 중단되는 상황이 발생했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "실제 전날(24일) 요기요, 배달의민족, 쿠팡이츠 등 주요 배달 앱과 일부 버거킹 오프라인 매장에서 역시 감자튀김 주문이 불가능했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 감자튀김 대신 어니언링이나 치킨너깃 등 다른 사이드 메뉴를 주문하도록 했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다만 버거킹 측은 통관 문제로 인한 일시적인 공급 제한일 뿐 본질적 수급 문제는 아니며 25일부터는 정상 공급이 가능하다고 선을 그었다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "롯데리아도 일부 지점에서 기본 프렌치프라이 대신 단면이 구불구불한 모양의 ‘프링클 컷’ 감자튀김을 제공하는 상황이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "감자 수급 다변화를 위해 유럽에서 제품을 수입하면서 프링클 컷 형태를 제공하게 됐다는 것이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "프랜차이즈 업체들이 감자 메뉴 공급에 어려움을 겪는 것은 기후 변화 등으로 주요 수입국인 미국의 감자 생산량이 급감한 데 더해 코로나19로 인한 물류 불안까지 겹친 영향으로 업계에서는 분석하고 있다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "한편 국내에서도 감자 가격이 크게 치솟고 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "최근 감자 20kg 도매가격(20일 기준)은 6만300원으로 1년 전(3만1940원)의 두 배 수준으로 폭등했다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "패스트푸드 가게에서 생긴 '이 일'때문에… 감튀족이 울게 된 사연",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

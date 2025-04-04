@@ -1,0 +1,213 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196549",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "질펀한 육담 북에도 있었네",
+    "newsSubTitle": "'야담 삼천리'",
+    "newsContent": "금강산 앞뒷 집에 처녀 총각이 살고 있었더란다.\n물론 옛날 얘기다.\n처녀가 콧대가 높아 말도 한번 붙여보지 못한 총각이 꾀를 냈다.\n\\\"땔나무 해줄께\\\" 덜렁 따라 나선 처녀에게 한 짐을 커다랗게 올려줬다.\n멜빵은 일부러 짧게 했다.\n처녀가 지게를 지고 막 일어설 참 총각이 뒤에서 슬쩍 잡아당겼다.\n새짐 무게에 꼼짝없이 처녀가 거꾸로 하늘에 솟았다.\n훤희 드러난 두 다리를 동동거리면서. 두 다리를 쥐고 총각이 물었다.\n\\\"나하고 살래?\\\" 처녀가 반항을 했다.\n\\\"새짐부터 벗구\\\" 궁지를 모면하려 애쓰는 처녀 가랑이에 총각이 자기 물건을 들이대고 으름짱을 놨다.\n\\\"살래 안살래?\\\" 처녀가 다시 앙탈을 했다.\n\\\"아이, 새짐 벗구…\\\" 북한 사회과학원이 엮어내고 남북한이 공동으로 펴낸 단행본 1호를 기록한 '야담 삼천리' 의 한 대목이다.\n물론 처녀 총각의 결혼으로 이어지는 해피앤딩임이 분명한 이 이야기 제목은 '새짐 벗구…' . 뒷맛이 개운하고 슬그머니 웃음이 나올 육담 한토막이다. '야담 삼천리' 에는 이런 1백10여편이 실려있다.\n제법 야스러운 이야기도 생각 이상으로 많지만, 평범한 것도 상당수이다. '남북한 최초의 공식협약, 동시출간본' 이라는 책의 머리에 실린 머리띠도 눈에 확 들어온다.\n남북간에 공유하는 이런 정서를 토대로 한 단행본의 출간이 의미깊다.\n사실 옛 이야기는 책에 밝히고 있듯 조선시대의 '용재총화' '어우야담' 등 고전 30여종에서 일차로 추린 뒤, 북한 땅의 민담을 채록해 재구성한 것이다.\n현암사측은 앞으로 모두 10권으로 펴내겠다고 밝히고 있다.\n사회과학원측은 머릿말에서 이렇게 말한다.\n\\\"선조들의 옛 이야기에는 민족의 기상이 들어있고, 한편의 짧은 해학과 풍자에도 기지와 낭만이 깃들어있다. 남 몰래 얼굴 붉히는 육담에도 교훈이 들어있다.\\\" 책의 표기는 원문의 맛을 내기 위해 북한의 '조선말 대사전' 을 따랐다.\n꼼꼼히 읽어보면, 서술이 날렵하다기 보다는 다소 어눌함을 발견할 수 있다.\n그것은 원문의 번역 탓일 수도 있고, 그들이 감각적인 표현을 삼가고 있기 때문일 수도있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 21,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "금강산 앞뒷 집에 처녀 총각이 살고 있었더란다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "물론 옛날 얘기다.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "처녀가 콧대가 높아 말도 한번 붙여보지 못한 총각이 꾀를 냈다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "\\\"땔나무 해줄께\\\" 덜렁 따라 나선 처녀에게 한 짐을 커다랗게 올려줬다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "멜빵은 일부러 짧게 했다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "처녀가 지게를 지고 막 일어설 참 총각이 뒤에서 슬쩍 잡아당겼다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "새짐 무게에 꼼짝없이 처녀가 거꾸로 하늘에 솟았다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "훤희 드러난 두 다리를 동동거리면서. 두 다리를 쥐고 총각이 물었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "\\\"나하고 살래?\\\" 처녀가 반항을 했다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "\\\"새짐부터 벗구\\\" 궁지를 모면하려 애쓰는 처녀 가랑이에 총각이 자기 물건을 들이대고 으름짱을 놨다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "\\\"살래 안살래?\\\" 처녀가 다시 앙탈을 했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "\\\"아이, 새짐 벗구…\\\" 북한 사회과학원이 엮어내고 남북한이 공동으로 펴낸 단행본 1호를 기록한 '야담 삼천리' 의 한 대목이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "물론 처녀 총각의 결혼으로 이어지는 해피앤딩임이 분명한 이 이야기 제목은 '새짐 벗구…' . 뒷맛이 개운하고 슬그머니 웃음이 나올 육담 한토막이다. '야담 삼천리' 에는 이런 1백10여편이 실려있다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "제법 야스러운 이야기도 생각 이상으로 많지만, 평범한 것도 상당수이다. '남북한 최초의 공식협약, 동시출간본' 이라는 책의 머리에 실린 머리띠도 눈에 확 들어온다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "남북간에 공유하는 이런 정서를 토대로 한 단행본의 출간이 의미깊다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "사실 옛 이야기는 책에 밝히고 있듯 조선시대의 '용재총화' '어우야담' 등 고전 30여종에서 일차로 추린 뒤, 북한 땅의 민담을 채록해 재구성한 것이다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "현암사측은 앞으로 모두 10권으로 펴내겠다고 밝히고 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "사회과학원측은 머릿말에서 이렇게 말한다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "\\\"선조들의 옛 이야기에는 민족의 기상이 들어있고, 한편의 짧은 해학과 풍자에도 기지와 낭만이 깃들어있다. 남 몰래 얼굴 붉히는 육담에도 교훈이 들어있다.\\\" 책의 표기는 원문의 맛을 내기 위해 북한의 '조선말 대사전' 을 따랐다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "꼼꼼히 읽어보면, 서술이 날렵하다기 보다는 다소 어눌함을 발견할 수 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "그것은 원문의 번역 탓일 수도 있고, 그들이 감각적인 표현을 삼가고 있기 때문일 수도있다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "들으면 누구나 까무러치는 육담과 패담, 고상한 척하는 북에도 있다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

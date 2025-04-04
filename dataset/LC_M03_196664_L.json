@@ -1,0 +1,312 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196664",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "2030은 경추·A형 간염, 4050은 암, 60대는 치매",
+    "newsSubTitle": "연령대별 추천 건강검진 항목",
+    "newsContent": "[김선영 기자] 건강검진은 질병의 조기 발견과 예방을 위해 한다.\n하지만 항목이 많아 어떤 것을 선택해야 할지 몰라 난감할 수 있다.\n연령대별로 주의해야 할 질환이 조금씩 다르다.\n효율적인 건강검진을 위해 권장 항목을 알아두면 좋다.\n최근 젊은 층에서 경추(척추)질환과 우울증 발생이 늘고 있다.\n20~30대에는 증상이 있어도 질병인 줄 모르거나 대수롭지 않게 넘기기 쉽다.\n건강검진에서 척추뼈 상태를 확인할 수 있는 X선 검사와 정신건강평가를 받으면 조기 발견에 도움이 된다.\nA형 간염도 20~30대가 취약한 질환이다.\n서울의과학연구소 공동연구팀의 조사 결과에 따르면 2014년 A형 간염 항체 보유율이 20대 20.2%, 30대 32.4%에 불과했다.\n50대 이상은 90% 이상이다.\n항체가 있으면 바이러스가 몸에 들어와도 방어하기 때문에 간염으로 진행되지 않는다.\n젊은 층은 건강검진 때 A형 간염 검사를 받아 항체 유무를 확인하는 게 좋다.\nA형 간염은 급성 간부전으로 악화돼 생명이 위태로워질 수 있다.\n항체가 없으면 예방접종을 해야 한다. 40~50대에는 암 발생률이 증가한다.\n최근 사망률이 증가한 대장암은 요주의 암이다.\n전문가들은 가족 중에 대장암 환자가 있으면 40세부터, 없으면 50세부터 대장 내시경 검사를 하라고 권한다.\n국가 암 검진은 50세 이상일 때 대변에서 혈액이 나온 경우(분변잠혈검사)에만 무료 대장 내시경 검사를 지원한다.\n대장 내시경 검사가 분변잠혈검사보다 암을 조기 발견하는 데 훨씬 정확하다.\n대장암의 씨앗인 용종이 나와도 바로 제거할 수 있다.\n미세한 가슴 통증 있으면 관상동맥 석회화 CT를 폐암은 암 사망 원인 1위다.\n조기 발견하려면 30년 이상 흡연자는 저선량 흉부 컴퓨터단층촬영(CT)을 하는 게 좋다.\n저선량 CT는 일반 CT보다 방사선량이 적고 X선 검사보다 정확하다.\n만성질환이 있거나 담배를 피우는 중년층은 혈관 건강을 가장 걱정한다.\n미세한 가슴 통증이 있다면 관상동맥 석회화 CT 검사를 고려할 수 있다.\n칼슘이 쌓여 혈관이 딱딱하게 굳는 석회화 현상을 수치화하는 검사로, 관상동맥이 좁아진 정도를 알 수 있다. 45세 이상 남성, 55세 이상 여성은 증상이 없어도 경동맥(뇌로 가는 혈관) 초음파 검사를 받아 볼 만하다.\n경동맥의 혈관 벽 두께를 측정해 심뇌혈관질환 위험도를 예측한다.\n갑작스러운 뇌졸중·심근경색 발생을 대비하는 데 도움이 된다.\n폐경기에는 여성호르몬이 줄어 뼈가 약해진다.\n골다공증 위험이 커 골밀도 검사를 받는 게 좋다.\n국가 생애 전환기 검진(66세)에 골밀도 검사가 포함돼 있지만 평균 폐경 나이인 50세 여성은 골밀도 검사를 받는 게 좋다. 60대는 치매 검사를 챙겨야 한다.\n인지기능 검사가 기본이다.\n기억력·집중력이 떨어진다고 느낄 때는 뇌 CT·자기공명영상촬영(MRI) 같은 정밀검사를 받아 볼 필요가 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 32,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[김선영 기자] 건강검진은 질병의 조기 발견과 예방을 위해 한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하지만 항목이 많아 어떤 것을 선택해야 할지 몰라 난감할 수 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연령대별로 주의해야 할 질환이 조금씩 다르다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "효율적인 건강검진을 위해 권장 항목을 알아두면 좋다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최근 젊은 층에서 경추(척추)질환과 우울증 발생이 늘고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "20~30대에는 증상이 있어도 질병인 줄 모르거나 대수롭지 않게 넘기기 쉽다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "건강검진에서 척추뼈 상태를 확인할 수 있는 X선 검사와 정신건강평가를 받으면 조기 발견에 도움이 된다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "A형 간염도 20~30대가 취약한 질환이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "서울의과학연구소 공동연구팀의 조사 결과에 따르면 2014년 A형 간염 항체 보유율이 20대 20.2%, 30대 32.4%에 불과했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "50대 이상은 90% 이상이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "항체가 있으면 바이러스가 몸에 들어와도 방어하기 때문에 간염으로 진행되지 않는다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "젊은 층은 건강검진 때 A형 간염 검사를 받아 항체 유무를 확인하는 게 좋다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "A형 간염은 급성 간부전으로 악화돼 생명이 위태로워질 수 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "항체가 없으면 예방접종을 해야 한다. 40~50대에는 암 발생률이 증가한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "최근 사망률이 증가한 대장암은 요주의 암이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "전문가들은 가족 중에 대장암 환자가 있으면 40세부터, 없으면 50세부터 대장 내시경 검사를 하라고 권한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "국가 암 검진은 50세 이상일 때 대변에서 혈액이 나온 경우(분변잠혈검사)에만 무료 대장 내시경 검사를 지원한다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "대장 내시경 검사가 분변잠혈검사보다 암을 조기 발견하는 데 훨씬 정확하다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "대장암의 씨앗인 용종이 나와도 바로 제거할 수 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "미세한 가슴 통증 있으면 관상동맥 석회화 CT를 폐암은 암 사망 원인 1위다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "조기 발견하려면 30년 이상 흡연자는 저선량 흉부 컴퓨터단층촬영(CT)을 하는 게 좋다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "저선량 CT는 일반 CT보다 방사선량이 적고 X선 검사보다 정확하다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "만성질환이 있거나 담배를 피우는 중년층은 혈관 건강을 가장 걱정한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "미세한 가슴 통증이 있다면 관상동맥 석회화 CT 검사를 고려할 수 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "칼슘이 쌓여 혈관이 딱딱하게 굳는 석회화 현상을 수치화하는 검사로, 관상동맥이 좁아진 정도를 알 수 있다. 45세 이상 남성, 55세 이상 여성은 증상이 없어도 경동맥(뇌로 가는 혈관) 초음파 검사를 받아 볼 만하다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "경동맥의 혈관 벽 두께를 측정해 심뇌혈관질환 위험도를 예측한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 27,
+        "sentenceContent": "갑작스러운 뇌졸중·심근경색 발생을 대비하는 데 도움이 된다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 28,
+        "sentenceContent": "폐경기에는 여성호르몬이 줄어 뼈가 약해진다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 29,
+        "sentenceContent": "골다공증 위험이 커 골밀도 검사를 받는 게 좋다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 30,
+        "sentenceContent": "국가 생애 전환기 검진(66세)에 골밀도 검사가 포함돼 있지만 평균 폐경 나이인 50세 여성은 골밀도 검사를 받는 게 좋다. 60대는 치매 검사를 챙겨야 한다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 31,
+        "sentenceContent": "인지기능 검사가 기본이다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 32,
+        "sentenceContent": "기억력·집중력이 떨어진다고 느낄 때는 뇌 CT·자기공명영상촬영(MRI) 같은 정밀검사를 받아 볼 필요가 있다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "건강검진 미리 안 받으면 사망까지 이르러... 2030은 A형 간염·4050은 암, 조기발견 중요",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 27,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 28,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 29,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 30,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 31,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 32,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195399",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "\\\"혈중 'GGT' 수치로 뇌졸중 예측 가능\\\"",
+    "newsSubTitle": "서울대병원·고대구로병원 공동 연구팀 세계 최초 확인",
+    "newsContent": "[박정렬 기자] 뇌졸중은 후유증이 무서운 병이다.\n발병 후 빠른 시간 내 치료받지 않으면 마비·언어장애 등 치명적인 후유증으로 남은 삶의 질이 크게 떨어진다.\n문제는 뇌혈관 건강을 사전에 알기가 어렵다는 점이다. 고혈압·고지혈증 등 만성질환과 흡연 등이 뇌졸중 위험을 높이긴 하지만, 실제 일반인이 눈으로 확인할 수 있는 뇌졸중 '위험 지표'는 없는 상황이었다.\n하지만 이제 혈액 검사로 뇌졸중 위험을 사전에 알고 대처하는 게 가능해질 전망이다.\n국내 연구진이 세계 최초로 뇌졸중 발생을 예측할 수 있는 혈중 지표를 개발하면서다.\n서울대병원 신경과 이승훈 교수·양욱진 전공의와 고대구로병원 신경과 김치경 교수 공동 연구팀은 20일 \\\"한국인 45만 51000명의 건강보험공단 자료를 분석한 결과 ‘감마글루타밀전이효소(Gamma-Glutamyl Transferase, 이하 GGT)’ 수치가 높을수록 뇌졸중 발생 위험이 높다는 사실을 확인했다\\\"고 밝혔다.\nGGT는 음주 정도나 간질환을 평가할 때 활용하는 수치다.\n우리나라는 그간 알코올 섭취 지표로 활용하기 위해 GGT를 측정해왔다. 고대구로병원 김치경 교수는 \\\"GGT는 음주 뿐 아니라 전신의 활성산소 정도를 반영하는 데, 이것이 뇌혈관 질환 발생과 밀접한 연관이 있다는 것이 종전의 연구들로 밝혀졌다\\\"며 \\\"이를 바탕으로 고혈압, 당뇨병, 고지혈증, 흡연 등 기존에 알려진 뇌졸중 위험인자를 보정한 뒤 오로지 GGT 수치와 뇌졸중의 연관성을 검증하게 됐다\\\"고 설명했다.\n연구팀의 분석에 따르면 GGT 수치가 높은 경우(남자 53 IU/L이상, 여자 23 IU/L이상) 향후 뇌졸중의 발생 위험도는 39% 증가했다.\n뇌졸중은 크게 뇌혈관이 막히는 뇌경색과 터지는 뇌출혈로 나뉘는데, 수치가 높을 때 뇌경색은 45%, 뇌출혈은 46% 위험도가 각각 증가한 것으로 확인됐다.\n서울대병원 이승훈 교수는 \\\"‘GGT’가 독립적인 뇌졸중 예측 지표라는 것을 세계 최초로 증명한 연구\\\"라며“정상 성인의 뇌졸중 예방대책에 GGT가 활용될 수 있을 것으로 기대한다\\\"고 말했다.\n이번 연구는 보건복지부·한국보건산업진흥원 질환극복기술개발사업, 과학기술정보통신부 기초연구사업, 고려대 구로병원 및 한국뇌졸중의학연구원의 지원으로 이뤄졌다.\n지난해 유럽뇌졸중학회에서 발표됐고, 최근 뇌신경학 분야 최고 학술지인 신경학연보(Annals of Neurology)에 게재됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[박정렬 기자] 뇌졸중은 후유증이 무서운 병이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "발병 후 빠른 시간 내 치료받지 않으면 마비·언어장애 등 치명적인 후유증으로 남은 삶의 질이 크게 떨어진다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "문제는 뇌혈관 건강을 사전에 알기가 어렵다는 점이다. 고혈압·고지혈증 등 만성질환과 흡연 등이 뇌졸중 위험을 높이긴 하지만, 실제 일반인이 눈으로 확인할 수 있는 뇌졸중 '위험 지표'는 없는 상황이었다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 이제 혈액 검사로 뇌졸중 위험을 사전에 알고 대처하는 게 가능해질 전망이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "국내 연구진이 세계 최초로 뇌졸중 발생을 예측할 수 있는 혈중 지표를 개발하면서다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서울대병원 신경과 이승훈 교수·양욱진 전공의와 고대구로병원 신경과 김치경 교수 공동 연구팀은 20일 \\\"한국인 45만 51000명의 건강보험공단 자료를 분석한 결과 ‘감마글루타밀전이효소(Gamma-Glutamyl Transferase, 이하 GGT)’ 수치가 높을수록 뇌졸중 발생 위험이 높다는 사실을 확인했다\\\"고 밝혔다.",
+        "sentenceSize": 181
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "GGT는 음주 정도나 간질환을 평가할 때 활용하는 수치다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "우리나라는 그간 알코올 섭취 지표로 활용하기 위해 GGT를 측정해왔다. 고대구로병원 김치경 교수는 \\\"GGT는 음주 뿐 아니라 전신의 활성산소 정도를 반영하는 데, 이것이 뇌혈관 질환 발생과 밀접한 연관이 있다는 것이 종전의 연구들로 밝혀졌다\\\"며 \\\"이를 바탕으로 고혈압, 당뇨병, 고지혈증, 흡연 등 기존에 알려진 뇌졸중 위험인자를 보정한 뒤 오로지 GGT 수치와 뇌졸중의 연관성을 검증하게 됐다\\\"고 설명했다.",
+        "sentenceSize": 232
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "연구팀의 분석에 따르면 GGT 수치가 높은 경우(남자 53 IU/L이상, 여자 23 IU/L이상) 향후 뇌졸중의 발생 위험도는 39% 증가했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "뇌졸중은 크게 뇌혈관이 막히는 뇌경색과 터지는 뇌출혈로 나뉘는데, 수치가 높을 때 뇌경색은 45%, 뇌출혈은 46% 위험도가 각각 증가한 것으로 확인됐다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "서울대병원 이승훈 교수는 \\\"‘GGT’가 독립적인 뇌졸중 예측 지표라는 것을 세계 최초로 증명한 연구\\\"라며“정상 성인의 뇌졸중 예방대책에 GGT가 활용될 수 있을 것으로 기대한다\\\"고 말했다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이번 연구는 보건복지부·한국보건산업진흥원 질환극복기술개발사업, 과학기술정보통신부 기초연구사업, 고려대 구로병원 및 한국뇌졸중의학연구원의 지원으로 이뤄졌다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "지난해 유럽뇌졸중학회에서 발표됐고, 최근 뇌신경학 분야 최고 학술지인 신경학연보(Annals of Neurology)에 게재됐다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "후유증이 무서운 병 '뇌졸중'... 수치만으로 예측 가능?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

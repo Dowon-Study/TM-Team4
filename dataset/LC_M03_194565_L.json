@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194565",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BookBriefing] '홍루몽' 外",
+    "newsSubTitle": "",
+    "newsContent": "◆ 중국 고전문학의 걸작으로 꼽히는 '홍루몽'(조설근.고악 지음, 안의운.김광렬 옮김, 대돈방 그림, 청계, 각 300쪽 내외, 각 9500원)이 완역됐다.\n전 12권. 1978~82년 중국 출판사를 통해 평양에서 출간됐던 다섯 권짜리 '홍루몽'의 전면개정판이다.\n현대 한국어의 감각에 맞춰 문체를 다듬고, 고유명사와 시사(詩詞)의 한자원문을 병기했다.\n◆ 세계 문학의 고전과 문제작 1001편을 가려뽑은 '죽기 전에 읽어야 할 책 1001권'(박누리 옮김, 마로니에북스, 960쪽, 3만9000원)이 나왔다.\n영국 서섹스대 영문학 교수인 피터 박스올이 책임편집을 맡고 소설가.시인.평론가.언론인.학자 등으로 이뤄진 필자집단 100명이 선정했다.\n셰익스피어 작품부터 스티븐 킹의 '샤이닝'이나 아멜리 노통브의 '두려움과 떨림' 등 최근작까지 두루 소개됐다.\n◆ 인류사의 주요 마지막 장면 140여 개를 모은 '마지막에 대한 백과사전'(이안 해리슨 지음, 이경식 옮김, 휴먼앤북스, 284쪽, 3만3000원)이 나왔다.\n사진 150여장과 함께 도도새, 태즈메이니아 호랑이, 아즈텍과 잉카문명, 증기기관차, 마릴린 먼로와 제임스 딘 등 기념비적이거나 비극으로 끝난 최후의 장면에 대한 해설이 담겼다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆ 중국 고전문학의 걸작으로 꼽히는 '홍루몽'(조설근.고악 지음, 안의운.김광렬 옮김, 대돈방 그림, 청계, 각 300쪽 내외, 각 9500원)이 완역됐다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "전 12권. 1978~82년 중국 출판사를 통해 평양에서 출간됐던 다섯 권짜리 '홍루몽'의 전면개정판이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "현대 한국어의 감각에 맞춰 문체를 다듬고, 고유명사와 시사(詩詞)의 한자원문을 병기했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "◆ 세계 문학의 고전과 문제작 1001편을 가려뽑은 '죽기 전에 읽어야 할 책 1001권'(박누리 옮김, 마로니에북스, 960쪽, 3만9000원)이 나왔다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "영국 서섹스대 영문학 교수인 피터 박스올이 책임편집을 맡고 소설가.시인.평론가.언론인.학자 등으로 이뤄진 필자집단 100명이 선정했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "셰익스피어 작품부터 스티븐 킹의 '샤이닝'이나 아멜리 노통브의 '두려움과 떨림' 등 최근작까지 두루 소개됐다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "◆ 인류사의 주요 마지막 장면 140여 개를 모은 '마지막에 대한 백과사전'(이안 해리슨 지음, 이경식 옮김, 휴먼앤북스, 284쪽, 3만3000원)이 나왔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "사진 150여장과 함께 도도새, 태즈메이니아 호랑이, 아즈텍과 잉카문명, 증기기관차, 마릴린 먼로와 제임스 딘 등 기념비적이거나 비극으로 끝난 최후의 장면에 대한 해설이 담겼다.",
+        "sentenceSize": 99
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중국 고전 걸작 '홍루몽' 전면 개정... 어떻게 달라졌을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

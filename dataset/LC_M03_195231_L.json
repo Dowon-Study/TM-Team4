@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195231",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "무궁화 뿌리서 폐암 세포 증식 막는 신물질 3종 발견",
+    "newsSubTitle": "",
+    "newsContent": "우리나라 국화 무궁화에서 폐암 세포 증식을 억제하는 효과를 가진 새로운 항암 물질이 발견됐다.\n산림청 국립산림과학원은 20일 충북대 약학대 이미경 교수팀과 공동으로 무궁화 뿌리 추출물에서 폐암 세포 증식을 억제하는 천연 화합물 6종을 분리한 결과 신물질 3종을 발견했다고 밝혔다.\n국립산림과학원 연구진은 이들 물질에 무궁화의 이름을 따 각각 '무궁알렌(Mugungalenes) A, B, C'라는 이름을 붙였다.\n무궁알렌B에서는 암세포 증식을 50% 억제하는 농도인 'IC50'(the half maximal inhibitory concentration)의 최소값이 0.26μM로 나타나 다른 물질들에 비해 상대적으로 뛰어난 항암 효과가 입증됐다.\n이번 연구 결과는 유럽천연물학회가 발간하는 식물 화학 분야 세계적 학술지 '파이토케미스트리 레터즈'(Phytochemistry Letters) 최신 호에 게재됐다.\n향후 식물 성분 추출물을 활용한 항암제 연구개발 분야에 크게 기여할 것으로 기대된다.\n국내 특허도 출원 중이다.\n이석우 국립산림과학원 산림자원개량연구과장은 \\\"동의보감에도 등장하는 무궁화의 약용 소재 개발 가능성을 현대과학으로 구명했다는데 큰 의미가 있다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "우리나라 국화 무궁화에서 폐암 세포 증식을 억제하는 효과를 가진 새로운 항암 물질이 발견됐다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "산림청 국립산림과학원은 20일 충북대 약학대 이미경 교수팀과 공동으로 무궁화 뿌리 추출물에서 폐암 세포 증식을 억제하는 천연 화합물 6종을 분리한 결과 신물질 3종을 발견했다고 밝혔다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국립산림과학원 연구진은 이들 물질에 무궁화의 이름을 따 각각 '무궁알렌(Mugungalenes) A, B, C'라는 이름을 붙였다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "무궁알렌B에서는 암세포 증식을 50% 억제하는 농도인 'IC50'(the half maximal inhibitory concentration)의 최소값이 0.26μM로 나타나 다른 물질들에 비해 상대적으로 뛰어난 항암 효과가 입증됐다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 연구 결과는 유럽천연물학회가 발간하는 식물 화학 분야 세계적 학술지 '파이토케미스트리 레터즈'(Phytochemistry Letters) 최신 호에 게재됐다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "향후 식물 성분 추출물을 활용한 항암제 연구개발 분야에 크게 기여할 것으로 기대된다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "국내 특허도 출원 중이다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이석우 국립산림과학원 산림자원개량연구과장은 \\\"동의보감에도 등장하는 무궁화의 약용 소재 개발 가능성을 현대과학으로 구명했다는데 큰 의미가 있다\\\"고 말했다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무궁화 뿌리 추출물에서 발견한 항암 물질 3종... 폐암 정복 가능해질까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193614",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[건강한 가족] 초미세먼지 99.95% 잡고 유해물질 제거",
+    "newsSubTitle": "",
+    "newsContent": "━ [웰빙 제품] 다이슨 퓨어 쿨 공기청정기 심한 미세먼지와 황사, 꽃가루로 외출이 두려운 계절이다.\n미세먼지는 호흡기와 심혈관 질환을 유발하고, 꽃가루는 알레르기성 비염과 기관지 천식을 악화시킨다.\n영국 기술 기업 다이슨의 ‘퓨어 쿨 공기청정기’(사진)는 실내로 유입되거나 집 안에서 발생한 각종 오염물질을 제거해준다.\n자동으로 오염물질을 감지하고 유해 가스와 초미세 입자를 제거하는 동시에 깨끗한 공기가 방 전체로 빠르게 퍼지도록 설계된 제품이다.\n다이슨 ‘퓨어 쿨 공기청정기’의 H13-A 등급 헤파(HEPA) 필터는 9m 길이로 200번 접혀 공기청정기 본체를 360도로 감싸고 PM0.1(0.1㎛ 이하) 미세먼지까지 99.95% 잡아낸다.\n함께 탑재된 활성 탄소 필터는 ‘트리스(Tris)’로 덮여 있어 벽지·바닥재와 조리 과정 등에서 나오는 포름알데히드·벤젠 같은 유해 성분 제거도 돕는다.\n이 제품은 다이슨만의 ‘에어 멀티플라이어’ 기술과 350도 회전 기능을 이용해 깨끗한 공기를 집 안 곳곳으로 빠르게 분사한다.\n초당 최대 290L의 정화된 공기를 내뿜어 빠르게 실내 공기를 정화한다.\n바람의 방향도 원하는 대로 조절할 수 있다.\n찬 바람이 필요하지 않을 때는 공기청정기 뒷면의 분사 모드를 조절해 뒷면으로 바람이 나오게 할 수 있다.\n정화된 공기로 시원한 바람을 쐬고 싶다면 전면 모드를 사용하면 된다.\n공기의 질도 감시할 수 있다.\n다이슨만의 알고리즘을 이용한 3개의 센서로 실내 공기 질을 측정해 LCD창에 보여준다.\n미세먼지(PM2.5)와 VOCs(휘발성유기화합물), 이산화질소의 농도, 온·습도 수치를 알려줘 실내 공기를 깨끗하게 관리할 수 있도록 돕는다.\n집 밖에서도 모바일 애플리케이션을 통해 집 안의 공기 상태를 확인하며 제어할 수 있다.\n이 공기청정기는 실제 가정과 유사한 환경에서 철저한 실험을 거쳐 개발됐다.\n실험은 일반 가정의 거실이나 방의 크기에 가까운 27㎡의 실험실에서 진행했다.\n총9개의 센서가 각각 5초마다 실내 공기 질 데이터를 수집해 정화된 공기가 공간 전체에 균일하게 감지되는지 테스트해 설계됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ [웰빙 제품] 다이슨 퓨어 쿨 공기청정기 심한 미세먼지와 황사, 꽃가루로 외출이 두려운 계절이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미세먼지는 호흡기와 심혈관 질환을 유발하고, 꽃가루는 알레르기성 비염과 기관지 천식을 악화시킨다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영국 기술 기업 다이슨의 ‘퓨어 쿨 공기청정기’(사진)는 실내로 유입되거나 집 안에서 발생한 각종 오염물질을 제거해준다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "자동으로 오염물질을 감지하고 유해 가스와 초미세 입자를 제거하는 동시에 깨끗한 공기가 방 전체로 빠르게 퍼지도록 설계된 제품이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다이슨 ‘퓨어 쿨 공기청정기’의 H13-A 등급 헤파(HEPA) 필터는 9m 길이로 200번 접혀 공기청정기 본체를 360도로 감싸고 PM0.1(0.1㎛ 이하) 미세먼지까지 99.95% 잡아낸다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "함께 탑재된 활성 탄소 필터는 ‘트리스(Tris)’로 덮여 있어 벽지·바닥재와 조리 과정 등에서 나오는 포름알데히드·벤젠 같은 유해 성분 제거도 돕는다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 제품은 다이슨만의 ‘에어 멀티플라이어’ 기술과 350도 회전 기능을 이용해 깨끗한 공기를 집 안 곳곳으로 빠르게 분사한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "초당 최대 290L의 정화된 공기를 내뿜어 빠르게 실내 공기를 정화한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "바람의 방향도 원하는 대로 조절할 수 있다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "찬 바람이 필요하지 않을 때는 공기청정기 뒷면의 분사 모드를 조절해 뒷면으로 바람이 나오게 할 수 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "정화된 공기로 시원한 바람을 쐬고 싶다면 전면 모드를 사용하면 된다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "공기의 질도 감시할 수 있다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "다이슨만의 알고리즘을 이용한 3개의 센서로 실내 공기 질을 측정해 LCD창에 보여준다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "미세먼지(PM2.5)와 VOCs(휘발성유기화합물), 이산화질소의 농도, 온·습도 수치를 알려줘 실내 공기를 깨끗하게 관리할 수 있도록 돕는다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "집 밖에서도 모바일 애플리케이션을 통해 집 안의 공기 상태를 확인하며 제어할 수 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "이 공기청정기는 실제 가정과 유사한 환경에서 철저한 실험을 거쳐 개발됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "실험은 일반 가정의 거실이나 방의 크기에 가까운 27㎡의 실험실에서 진행했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "총9개의 센서가 각각 5초마다 실내 공기 질 데이터를 수집해 정화된 공기가 공간 전체에 균일하게 감지되는지 테스트해 설계됐다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미세먼지·황사·꽃가루로 외출 힘든 계절, '레게노' 찍을 다이슨 공기청정기 등장",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

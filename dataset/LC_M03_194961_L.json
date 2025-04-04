@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194961",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[생활·실용] 커피 볶는 커피집 ‘비미남경 이야기’",
+    "newsSubTitle": "소문난 커피집의 비밀들",
+    "newsContent": "커피 볶는 커피집 ‘비미남경 이야기’ 이동진 지음,영진닷컴,167쪽,9000원 서울 이화여대 앞 스타벅스 맞은 편 계단 골목에는 ‘비미남경(妃美男慶)’이란 커피집이 있다.\n열 평 남짓한 작은 공간이다.\n코 앞까지 가서도 좀체 찾기 힘들만큼 후미진 곳에 있다.\n그런데도 멀리서 택시를 타고 오는 손님이 있을만큼 소문난 커피집이다.\n커피를 만드는 대기업에서도 찾아와 조언을 구할 정도다.\n이유가 뭘까. ‘비미남경’을 운영하는 저자는 커피에 담긴 비밀을 털어 놓는다.\n이 곳에선 ‘커피는 생선’이라고 여긴다.\n오랜 기간 배를 싣고 들여와 국내에서도 장기간 창고에 보관하는 커피는 이미 ‘상한 생선’이란 말이다.\n또 커피메이커도 사용하지 않는다.\n일일이 사람의 손으로 정교하게 커피를 뽑아낸다.\n저자는 “커피에서 중요한 것은 기술이 아니라 커피를 대하는 자세와 손님에 대한 배려”라고 말한다. 5∼10%의 손실을 감수하고서도 손으로 결점이 있는 커피 원두를 가려내는 작업도 커피 맛을 높이는 비결이다. ‘비미남경’은 1998년 일본의 커피 장인 호시노의 도움을 받아 재일교포 마츠바라가 처음 세웠다.\n일본에서 대학을 졸업한 저자는 우연한 기회에 마츠바라 사장을 알게 되면서 커피에 깃든 철학과 예술에 빠져 들었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "커피 볶는 커피집 ‘비미남경 이야기’ 이동진 지음,영진닷컴,167쪽,9000원 서울 이화여대 앞 스타벅스 맞은 편 계단 골목에는 ‘비미남경(妃美男慶)’이란 커피집이 있다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "열 평 남짓한 작은 공간이다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "코 앞까지 가서도 좀체 찾기 힘들만큼 후미진 곳에 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그런데도 멀리서 택시를 타고 오는 손님이 있을만큼 소문난 커피집이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "커피를 만드는 대기업에서도 찾아와 조언을 구할 정도다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이유가 뭘까. ‘비미남경’을 운영하는 저자는 커피에 담긴 비밀을 털어 놓는다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 곳에선 ‘커피는 생선’이라고 여긴다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오랜 기간 배를 싣고 들여와 국내에서도 장기간 창고에 보관하는 커피는 이미 ‘상한 생선’이란 말이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 커피메이커도 사용하지 않는다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "일일이 사람의 손으로 정교하게 커피를 뽑아낸다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "저자는 “커피에서 중요한 것은 기술이 아니라 커피를 대하는 자세와 손님에 대한 배려”라고 말한다. 5∼10%의 손실을 감수하고서도 손으로 결점이 있는 커피 원두를 가려내는 작업도 커피 맛을 높이는 비결이다. ‘비미남경’은 1998년 일본의 커피 장인 호시노의 도움을 받아 재일교포 마츠바라가 처음 세웠다.",
+        "sentenceSize": 170
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "일본에서 대학을 졸업한 저자는 우연한 기회에 마츠바라 사장을 알게 되면서 커피에 깃든 철학과 예술에 빠져 들었다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "커피 볶는 커피집 ‘비미남경 이야기’의 저자, 커피는 '상한 생선'… 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

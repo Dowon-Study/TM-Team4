@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_199146",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "도시를 떠나 어촌에서 새로운 인생을",
+    "newsSubTitle": "",
+    "newsContent": "귀어귀촌 종합센터 : www.sealife.go.kr 귀어귀촌 종합센터 바로가기 ‘귀농만 있냐, 귀어도 있다’. 요즘 답답한 도시를 떠나 어촌으로 이주하려는 사람들이 늘고 있다.\n귀어귀촌 종합센터에서는 귀어 희망인들의 준비과정을 돕는다.\n어촌 출신으로 도시에 나갔다 다시 어촌으로 돌아오는 U턴, 도시에만 살던 사람이 어촌으로 이주하는 I턴, 어촌 출신 도시 거주자가 연고가 없는 어촌으로 옮겨가는 J턴 등 방식과 배경도 다양하다.\n제2의 인생 설계에는 꼼꼼한 사전 준비가 필요하다.\n내가 당장 귀어를 해도 될지 스스로 진단해 보는 귀어귀촌 체크리스트와 준비도테스트 등을 제공하고 있다.\n각종 정부 지원책과 품목별 창업기술지원 방안도 소개하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "귀어귀촌 종합센터 : www.sealife.go.kr 귀어귀촌 종합센터 바로가기 ‘귀농만 있냐, 귀어도 있다’. 요즘 답답한 도시를 떠나 어촌으로 이주하려는 사람들이 늘고 있다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "귀어귀촌 종합센터에서는 귀어 희망인들의 준비과정을 돕는다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "어촌 출신으로 도시에 나갔다 다시 어촌으로 돌아오는 U턴, 도시에만 살던 사람이 어촌으로 이주하는 I턴, 어촌 출신 도시 거주자가 연고가 없는 어촌으로 옮겨가는 J턴 등 방식과 배경도 다양하다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "제2의 인생 설계에는 꼼꼼한 사전 준비가 필요하다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "내가 당장 귀어를 해도 될지 스스로 진단해 보는 귀어귀촌 체크리스트와 준비도테스트 등을 제공하고 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "각종 정부 지원책과 품목별 창업기술지원 방안도 소개하고 있다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "답답한 도시를 떠나려는 희망인들을 돕는 '그곳'... 어떤 것들이 제공되나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

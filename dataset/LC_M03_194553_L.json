@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194553",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "생활/문화 일반",
+    "newsTitle": "[와글와글e동네] '만능맨' USB",
+    "newsSubTitle": "",
+    "newsContent": "\\\"업무 시간에 '싸이질'을 하고 있는데 직장 상사가 나타났다면? 즉시 발밑의 페달을 밟으세요. 모든 인터넷창이 숨겨집니다.\\\" USB 포트는 디지털 카메라 같은 외장용 기기를 PC와 연결할 때 쓰는 것이 보통인데요, 이 USB를 이용한 갖가지 아이디어 상품들이 네티즌의 눈길을 끌고 있습니다.\n페달을 밟으면 인터넷 창이 숨겨지는 스위치, 마우스를 클릭할 때마다 찌릿찌릿한 저주파가 몸에 붙인 패드에 전해지는 안마기가 특히 인기입니다.\nUSB에 연결한 뒤 컵이나 캔을 올려놓고 스위치를 켜면 음료가 데워지는 컵받침도 있습니다.\nUSB에 전원을 꽂으면 따뜻해지는 장갑이나 슬리퍼는 추운 겨울에 제격이지요.\n면도기.가습기.스탠드는 물론 앉은 자세를 교정해 주는 경보 장치도 있습니다.\n경보 장치 사용법은 간단합니다.\nUSB에 연결한 뒤 모니터 위에 올려 두기만 하면 PC 앞에 앉은 사람이 모니터에 지나치게 가까이 갈 경우 경보음이 울립니다.\nUSB 기술이 이대로 발전한다면 라면 끓이는 기계도 곧 나오지 않을까요.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"업무 시간에 '싸이질'을 하고 있는데 직장 상사가 나타났다면? 즉시 발밑의 페달을 밟으세요. 모든 인터넷창이 숨겨집니다.\\\" USB 포트는 디지털 카메라 같은 외장용 기기를 PC와 연결할 때 쓰는 것이 보통인데요, 이 USB를 이용한 갖가지 아이디어 상품들이 네티즌의 눈길을 끌고 있습니다.",
+        "sentenceSize": 164
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "페달을 밟으면 인터넷 창이 숨겨지는 스위치, 마우스를 클릭할 때마다 찌릿찌릿한 저주파가 몸에 붙인 패드에 전해지는 안마기가 특히 인기입니다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "USB에 연결한 뒤 컵이나 캔을 올려놓고 스위치를 켜면 음료가 데워지는 컵받침도 있습니다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "USB에 전원을 꽂으면 따뜻해지는 장갑이나 슬리퍼는 추운 겨울에 제격이지요.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "면도기.가습기.스탠드는 물론 앉은 자세를 교정해 주는 경보 장치도 있습니다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "경보 장치 사용법은 간단합니다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "USB에 연결한 뒤 모니터 위에 올려 두기만 하면 PC 앞에 앉은 사람이 모니터에 지나치게 가까이 갈 경우 경보음이 울립니다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "USB 기술이 이대로 발전한다면 라면 끓이는 기계도 곧 나오지 않을까요.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "음료 데우고 안마까지... USB 기술 어디까지 가능할까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

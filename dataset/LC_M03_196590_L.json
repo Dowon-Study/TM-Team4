@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196590",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "경주솔거미술관, 카자흐스탄서 박대성화백 작품 전시",
+    "newsSubTitle": "",
+    "newsContent": "경주엑스포대공원 솔거미술관이 카자흐스탄에서 박대성 화박 작품전을 열었다.\n이번 작품전은 주 카자흐스탄 한국문화원이 한-카 수교 30주년을 축하하고, 상호문화 교류의 해를 맞아 기획했다. ‘THE ETERNAL’이란 제목으로 6월 24일부터 카자흐스탄 국립박물관에서 열리고 있는 전시는 오는 8월 14일까지로, 전통과 현대가 어우러진 23점의 수묵산수화와 함께 박대성 화백의 화첩도 소개됐다.\n전시 작품은 박대성 화백의 섬세하고도 담대한 붓질과 먹의 농담의 조절을 통해 그려낸 한국의 아름다운 수묵화들이다.\n특히 자연경관을 실제로 보는 느낌을 주는 파노라마 형태의 사실적인 작품은 카자흐스탄 국민들과 거주 한국인들에게 많은 주목을 받을 것으로 기대된다.\n박 화백은 카자흐스탄 전시에 앞서 지난 4월에는 주독일문화원의 초대로 베를린에서 ‘眞景時代:The Eternal(진경시대:영원한)’ 이름으로 전시회를 가져 한국 수묵화의 아름다움을 알렸다.\n연이은 해외전시는 올 하반기 미국과 이탈리아도 예정돼 있으며, 이는 경주솔거미술관이 한국화의 세계화·브랜드화를 위해 소장 작가인 박 화백의 해외 진출 프로젝트의 일환으로 추진된 것이다.\n류희림 경주엑스포대공원 대표는 “솔거미술관 소장 작가인 박대성 화백의 작품이 해외에서도 큰 인기를 누리고 있다는 소식을 듣고 있다”며 “솔거미술관이 한국화 브랜딩의 세계화 전초기지 역할을 할 수 있도록 노력을 아끼지 않겠다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "경주엑스포대공원 솔거미술관이 카자흐스탄에서 박대성 화박 작품전을 열었다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번 작품전은 주 카자흐스탄 한국문화원이 한-카 수교 30주년을 축하하고, 상호문화 교류의 해를 맞아 기획했다. ‘THE ETERNAL’이란 제목으로 6월 24일부터 카자흐스탄 국립박물관에서 열리고 있는 전시는 오는 8월 14일까지로, 전통과 현대가 어우러진 23점의 수묵산수화와 함께 박대성 화백의 화첩도 소개됐다.",
+        "sentenceSize": 177
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "전시 작품은 박대성 화백의 섬세하고도 담대한 붓질과 먹의 농담의 조절을 통해 그려낸 한국의 아름다운 수묵화들이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 자연경관을 실제로 보는 느낌을 주는 파노라마 형태의 사실적인 작품은 카자흐스탄 국민들과 거주 한국인들에게 많은 주목을 받을 것으로 기대된다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박 화백은 카자흐스탄 전시에 앞서 지난 4월에는 주독일문화원의 초대로 베를린에서 ‘眞景時代:The Eternal(진경시대:영원한)’ 이름으로 전시회를 가져 한국 수묵화의 아름다움을 알렸다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연이은 해외전시는 올 하반기 미국과 이탈리아도 예정돼 있으며, 이는 경주솔거미술관이 한국화의 세계화·브랜드화를 위해 소장 작가인 박 화백의 해외 진출 프로젝트의 일환으로 추진된 것이다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "류희림 경주엑스포대공원 대표는 “솔거미술관 소장 작가인 박대성 화백의 작품이 해외에서도 큰 인기를 누리고 있다는 소식을 듣고 있다”며 “솔거미술관이 한국화 브랜딩의 세계화 전초기지 역할을 할 수 있도록 노력을 아끼지 않겠다”고 말했다.",
+        "sentenceSize": 131
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "솔거미술관, 카자흐스탄에서 박대성 화백 작품전 열어... 눈을 뗄 수 없이 아름다운 수묵화들",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

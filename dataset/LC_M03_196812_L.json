@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196812",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "국내 최초 난소암 면역세포치료제 임상시험 승인",
+    "newsSubTitle": "분당차병원 주원덕 교수팀, 재발성 상피성 난소암 환자 6명 대상",
+    "newsContent": "난소암 면역세포치료제 임상시험이 국내에서 처음으로 승인됐다.\n차의과학대학교 분당차병원 주원덕 교수팀은 국내 최초로 재발된 난소암 환자에서 항암화학요법과 동시에 자가 면역세포치료요법을 치료를 병행해 안전성과 유효성을 테스트하는 연구자 주도 임상시험을 식품의약품 안전처로부터 승인 받았다고 밝혔다.\n상피성 난소암은 가장 치사율이 높은 여성암으로 조기 발견이 어려워 대부분 3기 이상의 진행성 암으로 진단된다.\n수술과 항암화학요법으로 치료하더라도 대부분 재발한다.\n특히 재발을 반복하면 항암제 저항성이 생겨 결국 복강내 종양과 복수가 장폐색을 일으키고 면역저하로 인한 패혈성 쇼크로 사망에 이르는 난치병이다.\n이 치료법의 핵심인 면역세포치료제를 만들기 위해서는 먼저 환자 자신의 말초혈액에서 백혈구의 일종인 림프구를 분리한 후 특이 항원과 면역 자극 싸이토카인인 인터루킨 2(IL-2)를 첨가해 배양한다.\n이를 암세포를 공격하는 가장 강력한 림프구 세포인 자연살해세포(NK 세포), 자연살해T세포(NK-T 세포) 등으로 분화∙증식시킨 후 환자에게 투여한다. 3주 간격의 항암화학요법과 병행하며, 항암제 투여 후 1주째와 2주째에 면역세포치료제를 투여한다.\n임상시험 참가자는 3주기의 항암화학요법과 더불어 최대 6회의 면역세포치료제를 투여 받는다.\n대부분의 재발성 난소암 환자는 장기간의 항암화학요법으로 면역기능이 저하된 상태다.\n면역세포치료제는 면역력을 증강시킬 뿐 아니라 항암화학요법으로 인한 합병증을 감소시켜 삶의 질을 향상시킬 것으로 기대된다.\n자기 혈액에서 추출된 세포를 사용하기 때문에 면역 억제 치료가 필요 없어 부작용이 적고, 정맥주사로 간편하게 투여할 수 있는 장점이 있다.\n주원덕 교수는“최근 면역세포가 종양을 공격한다는 많은 연구 결과를 토대로 암 치료에서 T림프구, 수지상세포, 자연살해세포 등을 이용한 면역치료법이 활발하게 연구되고 있다\\\"고 말했다.\n이번 임상시험은 1단계에서 3명에 대해 면역세포치료제 투여 후 안전성 평가를 통해 2단계에서 추가 3명에 대해 진행한다.\n대상은 만 20세 이상 65세 미만, 조직학적 검사에서 상피성 난소암으로 확진되고 표준치료 종료 후 6개월 이후에 재발한 환자 등 진료 및 검사를 통해 연구에 참여 가능 여부를 결정한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "난소암 면역세포치료제 임상시험이 국내에서 처음으로 승인됐다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "차의과학대학교 분당차병원 주원덕 교수팀은 국내 최초로 재발된 난소암 환자에서 항암화학요법과 동시에 자가 면역세포치료요법을 치료를 병행해 안전성과 유효성을 테스트하는 연구자 주도 임상시험을 식품의약품 안전처로부터 승인 받았다고 밝혔다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "상피성 난소암은 가장 치사율이 높은 여성암으로 조기 발견이 어려워 대부분 3기 이상의 진행성 암으로 진단된다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "수술과 항암화학요법으로 치료하더라도 대부분 재발한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 재발을 반복하면 항암제 저항성이 생겨 결국 복강내 종양과 복수가 장폐색을 일으키고 면역저하로 인한 패혈성 쇼크로 사망에 이르는 난치병이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 치료법의 핵심인 면역세포치료제를 만들기 위해서는 먼저 환자 자신의 말초혈액에서 백혈구의 일종인 림프구를 분리한 후 특이 항원과 면역 자극 싸이토카인인 인터루킨 2(IL-2)를 첨가해 배양한다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 암세포를 공격하는 가장 강력한 림프구 세포인 자연살해세포(NK 세포), 자연살해T세포(NK-T 세포) 등으로 분화∙증식시킨 후 환자에게 투여한다. 3주 간격의 항암화학요법과 병행하며, 항암제 투여 후 1주째와 2주째에 면역세포치료제를 투여한다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "임상시험 참가자는 3주기의 항암화학요법과 더불어 최대 6회의 면역세포치료제를 투여 받는다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "대부분의 재발성 난소암 환자는 장기간의 항암화학요법으로 면역기능이 저하된 상태다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "면역세포치료제는 면역력을 증강시킬 뿐 아니라 항암화학요법으로 인한 합병증을 감소시켜 삶의 질을 향상시킬 것으로 기대된다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "자기 혈액에서 추출된 세포를 사용하기 때문에 면역 억제 치료가 필요 없어 부작용이 적고, 정맥주사로 간편하게 투여할 수 있는 장점이 있다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "주원덕 교수는“최근 면역세포가 종양을 공격한다는 많은 연구 결과를 토대로 암 치료에서 T림프구, 수지상세포, 자연살해세포 등을 이용한 면역치료법이 활발하게 연구되고 있다\\\"고 말했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이번 임상시험은 1단계에서 3명에 대해 면역세포치료제 투여 후 안전성 평가를 통해 2단계에서 추가 3명에 대해 진행한다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "대상은 만 20세 이상 65세 미만, 조직학적 검사에서 상피성 난소암으로 확진되고 표준치료 종료 후 6개월 이후에 재발한 환자 등 진료 및 검사를 통해 연구에 참여 가능 여부를 결정한다.",
+        "sentenceSize": 104
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "통증은 더 적고, 효과는 더 좋은 난소암 면역세포치료제 세계 최초 임상시험 승인... ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

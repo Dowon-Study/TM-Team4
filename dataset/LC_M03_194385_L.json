@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194385",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[사이언스브리핑] 사이클로트론 연구센터 外",
+    "newsSubTitle": "",
+    "newsContent": "◆암 진단용 방사성 동위원소 생산과 방사선의학 연구를 위한 사이클로트론 연구센터가 경북대와 조선대에 이어 부산대에도 설치됐다.\n과학기술부는 부산대 사이클로트론연구센터가 8일 문을 열었다고 발표했다.\n이 센터는 첨단 암 진단 기기인 ‘양전자 방출 단층촬영기(PET)’에 이용되는 방사성 의약품을 생산해 부산·경남권역의 PET센터에 보급하고 관련 연구용으로 사용하기 위해 설치됐다.\n사이클로트론은 2002년 한국원자력의학원에서 개발한 것으로 의료기기 업체인 삼영유니텍이 기술이전을 받아 생산했다.\n◆한국철도기술연구원은 8일 경기도 의왕시에서 철도종합연구동을 준공했다.\n연구동은 차량시스템 시험동, 철도안전시스템 분석동, 철도 안전 실험동, 차량부품 시험동 등 총 8동의 연구시설로 구성됐다.\n◆한국지질자원연구원 자원활용소재연구부 안지환 박사가 일본소재물성학회로부터 우수연구논문상을 최근 받았다.\n수상 우수연구논문 제목은 ‘생활폐기물 소각재로부터 염소 제거’다.\n안 박사는 15년간 국내·외 저명 학술지 게재 73편, 국제학술발표 145건, 국내학술발표 115건, 국내·외 특허 등록 32건 등 활발한 연구 활동을 하고 있다.\n◆고등과학원은 9일부터 10일까지 ‘분자 및 나노 전자 소자’에 관한 워크숍을 원내 강당에서 연다. 강사로는 미국 캘리포니아공대 마크 보크래쓰 교수 등 5명이다.\nDNA를 이용한 나노 구조물의 자기 조립, 새로운 형태의 주사 터널 현미경(STM)을 이용한 DNA 분자 하나의 전자 구조 규명 등 나노 기술과 바이오 기술의 융합 연구 결과가 발표될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆암 진단용 방사성 동위원소 생산과 방사선의학 연구를 위한 사이클로트론 연구센터가 경북대와 조선대에 이어 부산대에도 설치됐다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과학기술부는 부산대 사이클로트론연구센터가 8일 문을 열었다고 발표했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 센터는 첨단 암 진단 기기인 ‘양전자 방출 단층촬영기(PET)’에 이용되는 방사성 의약품을 생산해 부산·경남권역의 PET센터에 보급하고 관련 연구용으로 사용하기 위해 설치됐다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사이클로트론은 2002년 한국원자력의학원에서 개발한 것으로 의료기기 업체인 삼영유니텍이 기술이전을 받아 생산했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "◆한국철도기술연구원은 8일 경기도 의왕시에서 철도종합연구동을 준공했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연구동은 차량시스템 시험동, 철도안전시스템 분석동, 철도 안전 실험동, 차량부품 시험동 등 총 8동의 연구시설로 구성됐다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "◆한국지질자원연구원 자원활용소재연구부 안지환 박사가 일본소재물성학회로부터 우수연구논문상을 최근 받았다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "수상 우수연구논문 제목은 ‘생활폐기물 소각재로부터 염소 제거’다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "안 박사는 15년간 국내·외 저명 학술지 게재 73편, 국제학술발표 145건, 국내학술발표 115건, 국내·외 특허 등록 32건 등 활발한 연구 활동을 하고 있다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "◆고등과학원은 9일부터 10일까지 ‘분자 및 나노 전자 소자’에 관한 워크숍을 원내 강당에서 연다. 강사로는 미국 캘리포니아공대 마크 보크래쓰 교수 등 5명이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "DNA를 이용한 나노 구조물의 자기 조립, 새로운 형태의 주사 터널 현미경(STM)을 이용한 DNA 분자 하나의 전자 구조 규명 등 나노 기술과 바이오 기술의 융합 연구 결과가 발표될 예정이다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방사성 의약품 생산부터 연구까지... 사이클로트론 연구센터가 설치된 곳은 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

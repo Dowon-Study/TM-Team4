@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194976",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "이호철·황석영씨 소설 등 한국작품 中 진출 잇따라",
+    "newsSubTitle": "문학도 韓流",
+    "newsContent": "문학도 한류(韓流) 바람? 최근 중국에서 한국의 정통 문학작품이 잇따라 번역.출간되고 있다.\n지난달 초 중국 상하이(上海)시에서는 이호철(사진)의 장편소설 '북녘사람 남녘사람' 중국어판 출판기념회가 열렸다.\n남북한 분단 문제를 다룬 책이 까다롭던 출판 검열을 통과할 만큼 중국의 문호가 개방된 점이 이 자리에서 화제로 떠올랐다.\n이에 앞서 지난해 하반기에는 '공경적 폭력'(홍성원 단편선).'나그네'(박목월 시선집).'미란'(윤대녕 장편소설) 중국어판이 나왔다.\n번역이 진행 중인 책도 여럿이다.\n한용운의 '님의 침묵', 황석영의 '오래된 정원' '손님', 김원일.윤흥길 등의 단편 소설을 엮은'한국분단소설선'이 곧 출간될 예정이며, 은희경의 소설 '마이너 리그'도 출판 계약이 이뤄졌다.\n이들 작품의 중국 진출은 모두 한국문학번역원의 지원에 힘입었다.\n정부예산으로 운영되는 번역원은 2001년부터 해외 번역본에 권당 1천5백만원가량의 번역비와 최고 5천권까지 출판할 수 있는 비용을 지급하고 있다.\n번역원 관계자는 \\\"중국에서 추리소설 등의 대중소설은 1백종이 넘게 번역돼 판매되고 있지만 정통 문학작품은 이제 시작 단계\\\"라며 \\\"중국 지식인층을 겨냥한 번역 작업이 더욱 활발해질 것\\\"이라고 전망했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "문학도 한류(韓流) 바람? 최근 중국에서 한국의 정통 문학작품이 잇따라 번역.출간되고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난달 초 중국 상하이(上海)시에서는 이호철(사진)의 장편소설 '북녘사람 남녘사람' 중국어판 출판기념회가 열렸다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "남북한 분단 문제를 다룬 책이 까다롭던 출판 검열을 통과할 만큼 중국의 문호가 개방된 점이 이 자리에서 화제로 떠올랐다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 앞서 지난해 하반기에는 '공경적 폭력'(홍성원 단편선).'나그네'(박목월 시선집).'미란'(윤대녕 장편소설) 중국어판이 나왔다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "번역이 진행 중인 책도 여럿이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한용운의 '님의 침묵', 황석영의 '오래된 정원' '손님', 김원일.윤흥길 등의 단편 소설을 엮은'한국분단소설선'이 곧 출간될 예정이며, 은희경의 소설 '마이너 리그'도 출판 계약이 이뤄졌다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이들 작품의 중국 진출은 모두 한국문학번역원의 지원에 힘입었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "정부예산으로 운영되는 번역원은 2001년부터 해외 번역본에 권당 1천5백만원가량의 번역비와 최고 5천권까지 출판할 수 있는 비용을 지급하고 있다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "번역원 관계자는 \\\"중국에서 추리소설 등의 대중소설은 1백종이 넘게 번역돼 판매되고 있지만 정통 문학작품은 이제 시작 단계\\\"라며 \\\"중국 지식인층을 겨냥한 번역 작업이 더욱 활발해질 것\\\"이라고 전망했다.",
+        "sentenceSize": 115
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중국에 부는 한류 바람... 이젠 문학이다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

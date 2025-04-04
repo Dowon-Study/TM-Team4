@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195755",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "환자 5명 살리고 하늘로 떠난 새내기 의사",
+    "newsSubTitle": "길병원 인턴, 교통사고 뇌사 후 심장·간·신장 기증",
+    "newsContent": "불의의 사고로 뇌사 상태에 빠진 새내기 의사가 장기기증으로 환자 다섯 명을 살리고 하늘로 떠났다.\n가천대 길병원 인턴 故조수원(31)씨는 자병원인 철원 길병원에서 파견 근무 중이던 지난 1일 교통사고로 머리를 크게 다쳤다.\n엠뷸런스로 환자를 다른 병원에 이송하고 병원으로 복귀하는 중이었다.\n현장에서 의식을 잃은 조씨는 안타깝게 회복하지 못하고 뇌사 상태에 빠졌다.\n조씨의 부모는 환자를 살리는 의사가 되고자 했던 아들의 뜻을 존중해 장기를 기증하기로 결정했다.\n결국 조씨는 26일 자신의 심장과 간, 신장(2), 췌도를 다섯 명의 응급 환자에게 이식하고 세상을 떠났다.\n조씨 부모는 \\\"환자를 살리는 의사가 되고자 했던 아들의 뜻을 존중해 장기를 기증하기로 마음먹었다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "불의의 사고로 뇌사 상태에 빠진 새내기 의사가 장기기증으로 환자 다섯 명을 살리고 하늘로 떠났다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "가천대 길병원 인턴 故조수원(31)씨는 자병원인 철원 길병원에서 파견 근무 중이던 지난 1일 교통사고로 머리를 크게 다쳤다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "엠뷸런스로 환자를 다른 병원에 이송하고 병원으로 복귀하는 중이었다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "현장에서 의식을 잃은 조씨는 안타깝게 회복하지 못하고 뇌사 상태에 빠졌다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "조씨의 부모는 환자를 살리는 의사가 되고자 했던 아들의 뜻을 존중해 장기를 기증하기로 결정했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "결국 조씨는 26일 자신의 심장과 간, 신장(2), 췌도를 다섯 명의 응급 환자에게 이식하고 세상을 떠났다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "조씨 부모는 \\\"환자를 살리는 의사가 되고자 했던 아들의 뜻을 존중해 장기를 기증하기로 마음먹었다\\\"고 말했다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "불의의 사고로 뇌사 상태에 빠진 의사, 환자 5명 살려… 어쩌다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_194412",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "영국 의사 '긴팔 가운 - 넥타이' 금지",
+    "newsSubTitle": "항생제 안 듣는 수퍼 박테리아 예방 위해",
+    "newsContent": "영국 의사들은 내년부터 병원에서 소매가 긴 흰 가운을 입지 못하고 넥타이를 맬 수 없다.\n시계나 목걸이 등 장신구도 착용할 수 없다.\n환자들에게 세균이 감염되는 것을 막기 위한 조치다.\nAP통신은 18일 영국 정부가 이런 내용을 골자로 하는 새 의료규칙을 만들었다고 보도했다.\n영국의 새 의료규칙에 따르면 지금까지 남자 의사들이 맸던 넥타이는 병원에서 추방된다.\n앨런 존슨 영국 보건부 장관은 \\\"의사들이 넥타이를 거의 세탁하지 않은 채 매일 매고 있다\\\"고 금지 이유를 밝혔다.\n그는 이어 \\\"넥타이는 환자들을 돌보는데 아무런 도움이 되지 않을 뿐 아니라 병균이 기생하는 곳임이 밝혀졌다\\\"고 덧붙였다.\nAP통신은 2004년 미국 뉴욕의 병원을 대상으로 한 조사에서도 의사들의 넥타이에서 전염성 병원균이 많이 발견됐다고 전했다.\n존슨 장관은 \\\"내년부터 발효되는 새 규칙은 의사들이 지금껏 입어오던 소매가 긴 흰 가운 착용도 금지한다\\\"며 \\\"세균이 살 수 있는 장식용 손톱이나 장신구.시계도 마찬가지로 금지 대상\\\"이라고 말했다.\n그는 \\\"팔꿈치 아래로는 맨살이 드러나는 옷이라야 대부분의 항생제가 듣지 않는 치명적인 '메티실린 내성 황색 포도구균(MRSA)' 박테리아의 확산을 막는 데 도움이 될 것\\\"이라고 덧붙였다.\n수퍼 박테리아로 알려진 MRSA는 영국 병원에서 혈액 감염의 핵심 원인으로 지목되고 있다.\n이 균은 항생제로는 좀처럼 죽지 않기 때문에 의료당국은 병원 위생 개선을 통해 MRSA의 확산을 막는데 초점을 맞추고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영국 의사들은 내년부터 병원에서 소매가 긴 흰 가운을 입지 못하고 넥타이를 맬 수 없다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "시계나 목걸이 등 장신구도 착용할 수 없다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "환자들에게 세균이 감염되는 것을 막기 위한 조치다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "AP통신은 18일 영국 정부가 이런 내용을 골자로 하는 새 의료규칙을 만들었다고 보도했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "영국의 새 의료규칙에 따르면 지금까지 남자 의사들이 맸던 넥타이는 병원에서 추방된다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앨런 존슨 영국 보건부 장관은 \\\"의사들이 넥타이를 거의 세탁하지 않은 채 매일 매고 있다\\\"고 금지 이유를 밝혔다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 이어 \\\"넥타이는 환자들을 돌보는데 아무런 도움이 되지 않을 뿐 아니라 병균이 기생하는 곳임이 밝혀졌다\\\"고 덧붙였다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "AP통신은 2004년 미국 뉴욕의 병원을 대상으로 한 조사에서도 의사들의 넥타이에서 전염성 병원균이 많이 발견됐다고 전했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "존슨 장관은 \\\"내년부터 발효되는 새 규칙은 의사들이 지금껏 입어오던 소매가 긴 흰 가운 착용도 금지한다\\\"며 \\\"세균이 살 수 있는 장식용 손톱이나 장신구.시계도 마찬가지로 금지 대상\\\"이라고 말했다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그는 \\\"팔꿈치 아래로는 맨살이 드러나는 옷이라야 대부분의 항생제가 듣지 않는 치명적인 '메티실린 내성 황색 포도구균(MRSA)' 박테리아의 확산을 막는 데 도움이 될 것\\\"이라고 덧붙였다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "수퍼 박테리아로 알려진 MRSA는 영국 병원에서 혈액 감염의 핵심 원인으로 지목되고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이 균은 항생제로는 좀처럼 죽지 않기 때문에 의료당국은 병원 위생 개선을 통해 MRSA의 확산을 막는데 초점을 맞추고 있다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영국 의사들, 내년부터 긴팔-넥타이 금지... 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

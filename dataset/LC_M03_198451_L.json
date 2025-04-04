@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198451",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "산부인과 전문의가 인간복제 다룬 소설 내",
+    "newsSubTitle": "",
+    "newsContent": "전자공학도 출신이자 산부인과 전문의인 김달수(사진) 씨가 전문가적 시각에서 인간복제의 허와 실을 다룬 소설 『그날은 온다』(오늘.8천원) 를 최근 펴냈다.\n김씨는 \\\"과학문명의 발달로 인해 변질되어 가는 인간의 존엄성에 대한 의문을 갖게 되었는데 그 의문은 21세기를 개척할 우리들이 풀고 넘어가야 하는 과제인 동시에 인류의 공통 주제\\\" 라며 이 소설의 집필동기를 밝히고 있다.\n서기 2016년, 비밀리에 우수한 두뇌 소유자를 대량으로 복제해 국제시장에 팔려는 프로젝트에 가담한 핵심연구원 두 남녀의 유골을 받은 인공지능연구소 소장의 회고로 이 작품은 시작된다.\n복제인간 실험과정과 반윤리성.위험성을 제3자 입장에서 살피기 위해서다.\n사이버 섹스등 10, 20년 후를 다룬 가상 소설이면서도 작품 곳곳에서 유전공학적 지식을 전하면서 그 문제점을 독자와 함께 생각하게 한다.\n김씨는 \\\"미래에는 싫든 좋든 복제인간과 함께 살아갈 것이기에 그 때를 대비한 새로운 가치관을 정립해나가야 한다\\\" 며 복제인간 시대의 도래를 기정사실로 받아들였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전자공학도 출신이자 산부인과 전문의인 김달수(사진) 씨가 전문가적 시각에서 인간복제의 허와 실을 다룬 소설 『그날은 온다』(오늘.8천원) 를 최근 펴냈다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김씨는 \\\"과학문명의 발달로 인해 변질되어 가는 인간의 존엄성에 대한 의문을 갖게 되었는데 그 의문은 21세기를 개척할 우리들이 풀고 넘어가야 하는 과제인 동시에 인류의 공통 주제\\\" 라며 이 소설의 집필동기를 밝히고 있다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서기 2016년, 비밀리에 우수한 두뇌 소유자를 대량으로 복제해 국제시장에 팔려는 프로젝트에 가담한 핵심연구원 두 남녀의 유골을 받은 인공지능연구소 소장의 회고로 이 작품은 시작된다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "복제인간 실험과정과 반윤리성.위험성을 제3자 입장에서 살피기 위해서다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사이버 섹스등 10, 20년 후를 다룬 가상 소설이면서도 작품 곳곳에서 유전공학적 지식을 전하면서 그 문제점을 독자와 함께 생각하게 한다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김씨는 \\\"미래에는 싫든 좋든 복제인간과 함께 살아갈 것이기에 그 때를 대비한 새로운 가치관을 정립해나가야 한다\\\" 며 복제인간 시대의 도래를 기정사실로 받아들였다.",
+        "sentenceSize": 92
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "산부인과 전문의가 쓴 사이버 '이 소설'... 관심 집중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

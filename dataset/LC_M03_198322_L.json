@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198322",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[알림] 중앙신인문학상 응모 서두르세요",
+    "newsSubTitle": "31일까지",
+    "newsContent": "제7회 중앙 신인문학상 마감이 17일 남았습니다.\n중앙 신인문학상은 이달 31일까지 도착한 응모작만을 심사합니다.\n응모자 여러분께서는 서둘러 주십시오.\n공모 대상은 단편소설.시.평론 세 부문입니다.\n해당 부문 기성작가는 응모할 수 없습니다.\n당선작은 중앙일보 창간 기념일인 9월 22일 즈음해 본지 지면에 발표합니다.\n많은 응모 바랍니다.\n◆ 공모 부문=▶단편소설: 200자 원고지 80장 안팎(상금 1000만 원)▶시: 5편 이상(상금 500만 원)▶평론: 200자 원고지 60장 안팎(상금 500만 원) ◆ 접수 방법=▶접수처: 서울 중구 순화동 7번지 중앙일보 문화부 '중앙 신인문학상' 담당자 앞(우편번호 100-759)▶마감: 8월 31일(당일 도착분까지 유효) ◆ 응모 요령=▶응모작은 문단에서 등단을 인정하는 모든 매체(신문.잡지.단행본.인터넷 등)에서 발표된 적 없는 순수 창작물이어야 합니다.\n원고는 원고지나 A4 용지에 출력한 것이어야 합니다.\n디스켓이나 e-메일, 팩스로는 접수하지 않습니다.\n▶원고 겉봉에 '중앙 신인문학상 응모작'이라고 적고, 응모 부문(시.소설.평론)을 밝혀야 합니다.\n원고 표지에는 이름.주민번호.주소.전화번호를 적어야 합니다.\n응모 원고는 반환하지 않습니다.\n◆ 문의=중앙일보 중앙 신인문학상 담당자(02-751-5606, 5617)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "제7회 중앙 신인문학상 마감이 17일 남았습니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "중앙 신인문학상은 이달 31일까지 도착한 응모작만을 심사합니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "응모자 여러분께서는 서둘러 주십시오.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공모 대상은 단편소설.시.평론 세 부문입니다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "해당 부문 기성작가는 응모할 수 없습니다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "당선작은 중앙일보 창간 기념일인 9월 22일 즈음해 본지 지면에 발표합니다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "많은 응모 바랍니다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "◆ 공모 부문=▶단편소설: 200자 원고지 80장 안팎(상금 1000만 원)▶시: 5편 이상(상금 500만 원)▶평론: 200자 원고지 60장 안팎(상금 500만 원) ◆ 접수 방법=▶접수처: 서울 중구 순화동 7번지 중앙일보 문화부 '중앙 신인문학상' 담당자 앞(우편번호 100-759)▶마감: 8월 31일(당일 도착분까지 유효) ◆ 응모 요령=▶응모작은 문단에서 등단을 인정하는 모든 매체(신문.잡지.단행본.인터넷 등)에서 발표된 적 없는 순수 창작물이어야 합니다.",
+        "sentenceSize": 262
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "원고는 원고지나 A4 용지에 출력한 것이어야 합니다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "디스켓이나 e-메일, 팩스로는 접수하지 않습니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "▶원고 겉봉에 '중앙 신인문학상 응모작'이라고 적고, 응모 부문(시.소설.평론)을 밝혀야 합니다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "원고 표지에는 이름.주민번호.주소.전화번호를 적어야 합니다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "응모 원고는 반환하지 않습니다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "◆ 문의=중앙일보 중앙 신인문학상 담당자(02-751-5606, 5617)",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "제 7회 중앙 신인문학상, '이것' 서두르세요!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

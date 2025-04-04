@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193701",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "내향성 발톱 치료법, 10대에서 가장 많이 나타나…심하면 걷기도 힘들어",
+    "newsSubTitle": "",
+    "newsContent": "내향성 발톱 치료법 내향성 발톱 치료법에 대한 네티즌들의 관심이 뜨겁다.\n손, 발톱이 살을 파고들면서 염증이 생기는 '내향성 손·발톱' 환자가 꾸준히 증가하는 가운데 10대에게 가장 많이 발생하는 것으로 나타났다.\n국민건강보험공단 분석 결과 내향성 손발톱 환자는 지난 2010년 18만 4천여 명에서 2014년 19만 6천 명으로 매년 평균 1.6％씩 증가했다.\n나이별로 보면 남성과 여성 모두 10대에서 가장 많이 발생했고 30대 이하 환자는 남성이, 40대 이상에는 여성 환자가 많았다.\n내향성 발톱은 엄지발가락에서 가장 많이 나타난다.\n걷거나 뛸 때 압박이 많은 부위에 잘 나타나는 것이다.\n처음에는 발가락이 붓고 가벼운 통증이 일어나지만 심해지면 진물이 나고 발톱 주변이 곪아 걷기가 힘든 지경에 이를 수도 있다.\n내향성 발톱이 심하다면 발톱 판 옆면을 제거한 뒤 위를 덮고 있는 가장자리 발톱 주름을 제거하는 수술로 치료할 수 있다.\n증상이 심하지 않다면 파고 들어간 발톱 모서리와 그 아래 살 사이에 솜이나 치과용 치실 등을 끼워 넣어주면 수술 없이 치료 가능하다.\n한편 건강보험공단은 \\\"조기치료가 중요하다\\\"며 \\\"되도록 발톱을 일자로 깎고 발이 조이는 하이힐이나 꽉 끼는 신발은 피해야 한다\\\"고 당부했다.\n온라인중앙일보 내향성 발톱 치료법",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "내향성 발톱 치료법 내향성 발톱 치료법에 대한 네티즌들의 관심이 뜨겁다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "손, 발톱이 살을 파고들면서 염증이 생기는 '내향성 손·발톱' 환자가 꾸준히 증가하는 가운데 10대에게 가장 많이 발생하는 것으로 나타났다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국민건강보험공단 분석 결과 내향성 손발톱 환자는 지난 2010년 18만 4천여 명에서 2014년 19만 6천 명으로 매년 평균 1.6％씩 증가했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "나이별로 보면 남성과 여성 모두 10대에서 가장 많이 발생했고 30대 이하 환자는 남성이, 40대 이상에는 여성 환자가 많았다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "내향성 발톱은 엄지발가락에서 가장 많이 나타난다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "걷거나 뛸 때 압박이 많은 부위에 잘 나타나는 것이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "처음에는 발가락이 붓고 가벼운 통증이 일어나지만 심해지면 진물이 나고 발톱 주변이 곪아 걷기가 힘든 지경에 이를 수도 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "내향성 발톱이 심하다면 발톱 판 옆면을 제거한 뒤 위를 덮고 있는 가장자리 발톱 주름을 제거하는 수술로 치료할 수 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "증상이 심하지 않다면 파고 들어간 발톱 모서리와 그 아래 살 사이에 솜이나 치과용 치실 등을 끼워 넣어주면 수술 없이 치료 가능하다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 건강보험공단은 \\\"조기치료가 중요하다\\\"며 \\\"되도록 발톱을 일자로 깎고 발이 조이는 하이힐이나 꽉 끼는 신발은 피해야 한다\\\"고 당부했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인중앙일보 내향성 발톱 치료법",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "내향성 발톱, 심해지면 걷기도 힘들어... '쌉소름', 조기 치료 강조",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

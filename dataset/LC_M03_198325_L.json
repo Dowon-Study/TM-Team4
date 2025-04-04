@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198325",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "공연/전시",
+    "newsTitle": "[미술계쪽지] 서울 공간 국제판화비엔날레 外",
+    "newsSubTitle": "",
+    "newsContent": "◆공간그룹이 주최하는 제14회 서울 공간 국제판화비엔날레에서 폴란드 작가 마르타 레흐의 '20.09'(사진)가 대상을 차지했다.\n우수상은 미국 작가 마이클 고로와 룩셈부르크 작가 이사벨 루츠가 공동수상했다.\n대상 수상자는 미화 1만 달러, 우수상 수상자는 미화 5000달러를 상금으로 받는다.\n올 판화비엔날레에는 55개국 406명 작가가 756점을 출품했다.\n수상작과 입선작 등 100여 점은 9월7일부터 10월8일까지 서울시립미술관에서 전시된다.\n02-3670-3629. ◆사진작가 김중만씨의 사진집 '섹슈얼리 이노선트'가 미메시스에서 나왔다.\n김씨가 20대 때인 1975년 찍은 초기 사진으로 16일까지 경기도 양평의 사진갤러리 와(瓦)에서 국내에 처음 선보이고 있는 작품이다.\n인간과 자연 사이의 관계를 여성의 몸과 자유로운 시선으로 잡았다.\n031-955-4021. ◆올 가을 잇따라 막을 올리는 광주(9월 8일), 상하이(9월 5일), 싱가포르(9월 4일) 비엔날레 셋을 둘러볼 수 있는 패키지 여행상품이 나왔다.\n아시아권 3개 비엔날레를 묶은 투어 상품으로 각 비엔날레 3박4일 코스에 비엔날레가 끝나는 11월 15일까지 유효하며 일정 조정이 가능하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "◆공간그룹이 주최하는 제14회 서울 공간 국제판화비엔날레에서 폴란드 작가 마르타 레흐의 '20.09'(사진)가 대상을 차지했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우수상은 미국 작가 마이클 고로와 룩셈부르크 작가 이사벨 루츠가 공동수상했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대상 수상자는 미화 1만 달러, 우수상 수상자는 미화 5000달러를 상금으로 받는다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "올 판화비엔날레에는 55개국 406명 작가가 756점을 출품했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "수상작과 입선작 등 100여 점은 9월7일부터 10월8일까지 서울시립미술관에서 전시된다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "02-3670-3629. ◆사진작가 김중만씨의 사진집 '섹슈얼리 이노선트'가 미메시스에서 나왔다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김씨가 20대 때인 1975년 찍은 초기 사진으로 16일까지 경기도 양평의 사진갤러리 와(瓦)에서 국내에 처음 선보이고 있는 작품이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "인간과 자연 사이의 관계를 여성의 몸과 자유로운 시선으로 잡았다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "031-955-4021. ◆올 가을 잇따라 막을 올리는 광주(9월 8일), 상하이(9월 5일), 싱가포르(9월 4일) 비엔날레 셋을 둘러볼 수 있는 패키지 여행상품이 나왔다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "아시아권 3개 비엔날레를 묶은 투어 상품으로 각 비엔날레 3박4일 코스에 비엔날레가 끝나는 11월 15일까지 유효하며 일정 조정이 가능하다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서울 공간 국제판화비엔날레에 대상은 '이 작가'가 수상",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_198043",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[이달의웰빙상품] “일상 생활하며 복근 운동하세요”",
+    "newsSubTitle": "",
+    "newsContent": "일상생활을 하면서 복근운동을 하는 운동기기(사진)가 선보였다.\n국내판매원인 ㈜넥솔브는 벨트를 허리에 두르고, 버튼을 누르면 벨트 안쪽 3개의 패드에서 나오는 저주파 신호가 복부의 운동신경 밀집부위를 자극하는 복부강화기구 ‘슬렌터톤’을 온라인 오픈마켓 및 국내 5대 홈쇼핑에서 판매하고 있다고 밝혔다.\n기기의 특징은 복부 자극을 받는 동안 업무를 진행하거나, 가볍게 산책·쇼핑할 수 있다는 것이다.\n미국 라크로세대 존 포카리 교수가 남녀 각 12명과 비교 그룹 각 8명을 대상으로 8주간 임상 시험한 결과 슬렌더톤 사용 그룹의 복근 강도가 49% 증가했으며, 복근 지구력은 72% 증가한 것으로 나타났다.\n또 복근이 생기면서 허리둘레는 평균 1.4인치 감소했다.\n이 프로그램은 1∼99단계까지 내장돼 단계별로 20~30분 정도의 시간이 소요된다.\n일본 쓰쿠바 국립대학의 임상 결과에선 30분 착용으로 윗몸 일으키기 200회 효과가 있었다.\n2004년 미국 식품의약국(FDA)과 2006년 한국 식품의약품안전청(KFDA)에서 복부강화 기기로 인증을 받았다.\n아일랜드 기업인 바이오메디컬 리서치사 제품. 남녀용 19만9000원. 문의: 1577-6610, www.slendertone.co.kr",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일상생활을 하면서 복근운동을 하는 운동기기(사진)가 선보였다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국내판매원인 ㈜넥솔브는 벨트를 허리에 두르고, 버튼을 누르면 벨트 안쪽 3개의 패드에서 나오는 저주파 신호가 복부의 운동신경 밀집부위를 자극하는 복부강화기구 ‘슬렌터톤’을 온라인 오픈마켓 및 국내 5대 홈쇼핑에서 판매하고 있다고 밝혔다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "기기의 특징은 복부 자극을 받는 동안 업무를 진행하거나, 가볍게 산책·쇼핑할 수 있다는 것이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미국 라크로세대 존 포카리 교수가 남녀 각 12명과 비교 그룹 각 8명을 대상으로 8주간 임상 시험한 결과 슬렌더톤 사용 그룹의 복근 강도가 49% 증가했으며, 복근 지구력은 72% 증가한 것으로 나타났다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 복근이 생기면서 허리둘레는 평균 1.4인치 감소했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 프로그램은 1∼99단계까지 내장돼 단계별로 20~30분 정도의 시간이 소요된다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "일본 쓰쿠바 국립대학의 임상 결과에선 30분 착용으로 윗몸 일으키기 200회 효과가 있었다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "2004년 미국 식품의약국(FDA)과 2006년 한국 식품의약품안전청(KFDA)에서 복부강화 기기로 인증을 받았다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아일랜드 기업인 바이오메디컬 리서치사 제품. 남녀용 19만9000원. 문의: 1577-6610, www.slendertone.co.kr",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이 운동기기만 있으면 어디서나 복근운동이 가능해진다... 어디서 판매되나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

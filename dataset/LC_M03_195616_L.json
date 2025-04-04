@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195616",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "다빈치 Xi용 '테이블 모션 테크놀로지' 국내 출시",
+    "newsSubTitle": "로봇수술기와 연동되어 움직이는 최초의 통합형 수술대",
+    "newsContent": "인튜이티브 서지컬 코리아는 오는 6일 다빈치 Xi 로봇수술기를 위한 테이블 모션 테크놀로지(Integrated Table Motion)를 아시아 최초로 국내에서 출시한다고 밝혔다.\n테이블 모션 테크놀로지는 인튜이티브 서지컬의 최신형 로봇수술기인 다빈치 Xi 시스템과 트럼프 메디컬의 고급 전동식 수술대인 트루 시스템(TruSystemTM) 7000dV를 결합시켜주는 기술이다.\n수술용 로봇 팔이 환자의 몸에 삽입되어 있는 상태에서도 수술대가 움직이면서 로봇 수술기가 실시간으로 수술대의 각도와 위치를 파악해 로봇 팔 위치를 조정한다.\n수술 중 언제든지 전동식 수술대의 위치를 재조정해 수술 부위에 대한 접근성과 수술 부위의 노출 및 수술 가능 범위를 극대화하고, 집도의가 가장 이상적인 각도에서 수술을 진행할 수 있도록 돕는다.\n이 기술은 실시간으로 음성 및 화면을 통하여 수술팀에 수술대의 움직임과 관련된 정보를 전달하고 보다 쉽게 조작하기 위해 지능형 리모컨으로도 사용 가능하다.\n인튜이티브 서지컬 코리아 손승완 부사장은 “테이블 모션 테크놀로지는 의료진이 복잡한 수술을 잘 수행할 수 있도록 보다 나은 기술을 제공하고자 인튜이티브 서지컬이 제시한 또 하나의 혁신”이라며 “이 제품을 통해 수술실 안의 의사와 수술 팀이 한 단계 더 진화한 협업을 할 수 있기를 기대한다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "인튜이티브 서지컬 코리아는 오는 6일 다빈치 Xi 로봇수술기를 위한 테이블 모션 테크놀로지(Integrated Table Motion)를 아시아 최초로 국내에서 출시한다고 밝혔다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "테이블 모션 테크놀로지는 인튜이티브 서지컬의 최신형 로봇수술기인 다빈치 Xi 시스템과 트럼프 메디컬의 고급 전동식 수술대인 트루 시스템(TruSystemTM) 7000dV를 결합시켜주는 기술이다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "수술용 로봇 팔이 환자의 몸에 삽입되어 있는 상태에서도 수술대가 움직이면서 로봇 수술기가 실시간으로 수술대의 각도와 위치를 파악해 로봇 팔 위치를 조정한다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "수술 중 언제든지 전동식 수술대의 위치를 재조정해 수술 부위에 대한 접근성과 수술 부위의 노출 및 수술 가능 범위를 극대화하고, 집도의가 가장 이상적인 각도에서 수술을 진행할 수 있도록 돕는다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 기술은 실시간으로 음성 및 화면을 통하여 수술팀에 수술대의 움직임과 관련된 정보를 전달하고 보다 쉽게 조작하기 위해 지능형 리모컨으로도 사용 가능하다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "인튜이티브 서지컬 코리아 손승완 부사장은 “테이블 모션 테크놀로지는 의료진이 복잡한 수술을 잘 수행할 수 있도록 보다 나은 기술을 제공하고자 인튜이티브 서지컬이 제시한 또 하나의 혁신”이라며 “이 제품을 통해 수술실 안의 의사와 수술 팀이 한 단계 더 진화한 협업을 할 수 있기를 기대한다”고 말했다.",
+        "sentenceSize": 168
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아시아 최초, 다빈치 Xi 로봇수술기를 위해 국내에 출시되는 제품은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_196507",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "책",
+    "newsTitle": "[BOOK/깊이 읽기] '힘 = 정의' 네오콘 시조의 믿음",
+    "newsSubTitle": "",
+    "newsContent": "부활하는 네오콘의 대부 레오 스트라우스 박성래 지음, 김영사 354쪽, 1만5900원 \\\"부시 행정부의 대북정책 기조는 '레짐 체인지(regime change)'가 아니고 '레짐 프랜스포메이션(regime transformation)'이다.\\\" 지난해 12월 한국 국회 대표단이 미국을 방문해 들었던 이 말. \\\"정권 교체가 아닌 체제 전환을 말한다\\\" \\\"지도자가 바뀌는 레임 체인지 대신 정권 형태를 변형하기만 하면 된다는 뜻이다\\\"등 해석이 구구했지만 지은이에 따르면 '레짐 체인지'는 우두머리를 권좌에서 몰아내는 데 그치지 않는다.\n미국식 민주주의 이식은 물론 경제.문화.도덕 등 한 나라의 형상을 완전히 미국식으로 바꾸는 것을 뜻한다. '레짐 트랜스포메이션'은 사회의 본질까지 변형한다는 의미라는 것이다.\n지은이는 조지 W 부시 대통령 정권을 지배하고 있는 네오콘(신보수주의자)을 알아야 미 행정부의 속내를 파악할 수 있다고 강조한다.\n그래서 이 책에서 네오콘의 사상적 기원인 정치철학자 레오 스트라우스 교수(1899~1973)의 사상을 해부한다.\n스트라우스에게 힘은 곧 정의였다.\n그는 민주주의를 지킬 수 있는 길은 힘으로 전세계를 민주화하는 길밖에 없다고 주장했다.\n또 평화는 인간을 타락시킨다고 강조했다.\n대중은 항상 싸워야할 적이 필요하다고는 말도 했다.\n부시 행정부의 공격적이고 호전적인 외교노선이 어디서 비롯했는지를 짐작할 수 있는 대목이다.\n전체적으로 쉬운 서술이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "부활하는 네오콘의 대부 레오 스트라우스 박성래 지음, 김영사 354쪽, 1만5900원 \\\"부시 행정부의 대북정책 기조는 '레짐 체인지(regime change)'가 아니고 '레짐 프랜스포메이션(regime transformation)'이다.\\\" 지난해 12월 한국 국회 대표단이 미국을 방문해 들었던 이 말. \\\"정권 교체가 아닌 체제 전환을 말한다\\\" \\\"지도자가 바뀌는 레임 체인지 대신 정권 형태를 변형하기만 하면 된다는 뜻이다\\\"등 해석이 구구했지만 지은이에 따르면 '레짐 체인지'는 우두머리를 권좌에서 몰아내는 데 그치지 않는다.",
+        "sentenceSize": 301
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미국식 민주주의 이식은 물론 경제.문화.도덕 등 한 나라의 형상을 완전히 미국식으로 바꾸는 것을 뜻한다. '레짐 트랜스포메이션'은 사회의 본질까지 변형한다는 의미라는 것이다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지은이는 조지 W 부시 대통령 정권을 지배하고 있는 네오콘(신보수주의자)을 알아야 미 행정부의 속내를 파악할 수 있다고 강조한다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그래서 이 책에서 네오콘의 사상적 기원인 정치철학자 레오 스트라우스 교수(1899~1973)의 사상을 해부한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "스트라우스에게 힘은 곧 정의였다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 민주주의를 지킬 수 있는 길은 힘으로 전세계를 민주화하는 길밖에 없다고 주장했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 평화는 인간을 타락시킨다고 강조했다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "대중은 항상 싸워야할 적이 필요하다고는 말도 했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "부시 행정부의 공격적이고 호전적인 외교노선이 어디서 비롯했는지를 짐작할 수 있는 대목이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "전체적으로 쉬운 서술이다.",
+        "sentenceSize": 14
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "단번에 우두머리를 권좌에서 몰락시키는 '레짐 체인지' ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

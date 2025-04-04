@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_193553",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "[속보]예고대로 코로나 신규 113명…115일만에 세 자릿수",
+    "newsSubTitle": "",
+    "newsContent": "질병관리본부 중앙방역대책본부는 25일 0시 기준 신종 코로나바이러스 감염증(코로나19) 신규 환자가 113명 늘어 총 누적 환자가 1만4092명이 됐다고 밝혔다.\n신규 환자 가운데 지역 발생은 27명이었고 해외 유입은 86명이었다.\n신규 환자가 세 자릿수를 기록한 것은 지난 4월 1일 101명 이후 116일 만이다.\n전날 이라크 건설 현장에서 귀국한 우리 근로자 가운데 확진자가 36명 나오고, 부산항에 들어온 러시아 원양어선 선원 등 확진자가 32명 나오는 등 해외 유입 환자가 급증한 영향이 컸다.\n해외 유입 86명 중 검염단계에서 81명이 확인됐고, 5명은 지역사회에서 확인됐다.\n지역 거주지나 임시생활시설에서 자가격리 중 양성 판정을 받았다는 의미다.\n국가별로 보면 미국 3명, 프랑스 2명, 탄자니아 1명, 알제리 2명, 이라크 36명, 러시아 34명, 필리핀 5명, 일본 2명, 인도 1명이다.\n국내 지역 발생 환자 27명은 서울 11명, 경기 11명, 부산 5명이었다.\n또 이날 0시 기준 신규 격리해제자는 49명으로 총 1만2866명(91.3%)이 격리해제 돼, 현재 928명이 격리 중이다.\n위·중증 환자는 15명이며, 사망자는 0명으로 누적 사망자는 298명(치명률 2.11%)이다.\n권준욱 중앙방역대책본부 부본부장은 전날 브리핑에서 이날 확진자가 100명을 넘어설 것을 예고하며 \\\"특정 요인에 의한 일시적인 상황인 만큼 코로나19 상황이 악화했다는 오해가 없었으면 한다\\\"고 당부했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "질병관리본부 중앙방역대책본부는 25일 0시 기준 신종 코로나바이러스 감염증(코로나19) 신규 환자가 113명 늘어 총 누적 환자가 1만4092명이 됐다고 밝혔다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "신규 환자 가운데 지역 발생은 27명이었고 해외 유입은 86명이었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신규 환자가 세 자릿수를 기록한 것은 지난 4월 1일 101명 이후 116일 만이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전날 이라크 건설 현장에서 귀국한 우리 근로자 가운데 확진자가 36명 나오고, 부산항에 들어온 러시아 원양어선 선원 등 확진자가 32명 나오는 등 해외 유입 환자가 급증한 영향이 컸다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "해외 유입 86명 중 검염단계에서 81명이 확인됐고, 5명은 지역사회에서 확인됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지역 거주지나 임시생활시설에서 자가격리 중 양성 판정을 받았다는 의미다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "국가별로 보면 미국 3명, 프랑스 2명, 탄자니아 1명, 알제리 2명, 이라크 36명, 러시아 34명, 필리핀 5명, 일본 2명, 인도 1명이다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "국내 지역 발생 환자 27명은 서울 11명, 경기 11명, 부산 5명이었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 이날 0시 기준 신규 격리해제자는 49명으로 총 1만2866명(91.3%)이 격리해제 돼, 현재 928명이 격리 중이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "위·중증 환자는 15명이며, 사망자는 0명으로 누적 사망자는 298명(치명률 2.11%)이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "권준욱 중앙방역대책본부 부본부장은 전날 브리핑에서 이날 확진자가 100명을 넘어설 것을 예고하며 \\\"특정 요인에 의한 일시적인 상황인 만큼 코로나19 상황이 악화했다는 오해가 없었으면 한다\\\"고 당부했다.",
+        "sentenceSize": 114
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코로나 신규 확진 113명, 누적 환자 만 명 넘어... '쌉소름'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

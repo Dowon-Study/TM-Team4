@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M03_195715",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "건강정보",
+    "newsTitle": "위암 표적치료·유방암 치료제 등 기술 이전 195건",
+    "newsSubTitle": "TLO협의체 기술료 수입, 지난해 267억에서 올해 420억 껑충",
+    "newsContent": "보건의료 연구개발(R&D) 성과를 활용한 기술 이전 및 기술료 수입이 크게 증가했다.\n보건복지부에 따르면 보건의료 기술사업화 전담 조직인 TLO 협의체의 올해 기술 이전은 총 195건으로 지난해(40건)의 387.5% 증가했다.\n기술 이전, 노하우, 물질이전 등에 따른 기술료 수입 역시 267억 원에서 420억 원으로 57.3%로 대폭 늘었다.\nTLO(Technology Licensing Office) 협의체는 대학, 연구기관 등의 지적재산을 체계적으로 관리해 이를 사업화할 수 있도록 기술 마케팅 등을 지원하는 조직이다.\n2013년 출범 당시 28개 기관에서 현재 45개 기관으로 확대됐다.\n특히 올해는 위암 표적치료용 항암제와 유방암 치료제 기술이 이전됐다.\n복지부는 “고액의 기술료 수입을 거두는 고품질의 기술로 관련 분야 연구자의 관심도 제고와 향후 기술 사업화에 대한 방향을 제시했다”고 밝혔다.\n복지부는 협의체 구성원 간 성공 사례를 공유할 수 있는 기회와 보건의료 TLO를 지속적으로 확대·강화하기 위해 관련 프로그램 및 정책 방향을 지속적으로 점검하는 한편, 기술사업화를 추진하는 과정에서 발견되는 장애요인을 발굴해 개선·보완해 나갈 계획이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "보건의료 연구개발(R&D) 성과를 활용한 기술 이전 및 기술료 수입이 크게 증가했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보건복지부에 따르면 보건의료 기술사업화 전담 조직인 TLO 협의체의 올해 기술 이전은 총 195건으로 지난해(40건)의 387.5% 증가했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "기술 이전, 노하우, 물질이전 등에 따른 기술료 수입 역시 267억 원에서 420억 원으로 57.3%로 대폭 늘었다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "TLO(Technology Licensing Office) 협의체는 대학, 연구기관 등의 지적재산을 체계적으로 관리해 이를 사업화할 수 있도록 기술 마케팅 등을 지원하는 조직이다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2013년 출범 당시 28개 기관에서 현재 45개 기관으로 확대됐다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 올해는 위암 표적치료용 항암제와 유방암 치료제 기술이 이전됐다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "복지부는 “고액의 기술료 수입을 거두는 고품질의 기술로 관련 분야 연구자의 관심도 제고와 향후 기술 사업화에 대한 방향을 제시했다”고 밝혔다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "복지부는 협의체 구성원 간 성공 사례를 공유할 수 있는 기회와 보건의료 TLO를 지속적으로 확대·강화하기 위해 관련 프로그램 및 정책 방향을 지속적으로 점검하는 한편, 기술사업화를 추진하는 과정에서 발견되는 장애요인을 발굴해 개선·보완해 나갈 계획이다.",
+        "sentenceSize": 141
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "TLO 협의체, 기술 이전 및 수입 대폭 증가! 지난해 대비 무려...?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M09_193960",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "방송·연예",
+    "newsTitle": "구보타 할머니 ‘신비의 육아법’",
+    "newsSubTitle": "null",
+    "newsContent": "세계의 교육현장 ‘일본’(EBS 저녁 8시) 2회. 잠자는 뇌를 깨우다-구보타 할머니의 영유아 교육법 편. 최근 일본 언론의 주목을 받으며 화제가 된 79살의 할머니가 있다.\n바로 0~3살 영유아 아이들의 뇌 발달을 돕는 육아법을 개발한 구보타 가요코 할머니다.\n누구나 쉽게 따라할 수 있을 만큼 간단한 방법에 뇌과학자 남편의 이론을 접목해 더욱 유명해졌다.\n핵심은 좋은 자세로 건강하고 균형 잡힌 몸을 만들고, 오감을 끊임없이 자극해 아이의 지능을 발달하도록 만드는 것이라고 한다.\n또 엄격하고 일관성 있는 부모의 태도가 중요하다고 강조한다.\n구보타 할머니가 수업하는 현장을 찾고, 할머니를 만나 개발 과정과 실제로 어떤 효과가 나타났는지 등을 묻는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세계의 교육현장 ‘일본’(EBS 저녁 8시) 2회. 잠자는 뇌를 깨우다-구보타 할머니의 영유아 교육법 편. 최근 일본 언론의 주목을 받으며 화제가 된 79살의 할머니가 있다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "바로 0~3살 영유아 아이들의 뇌 발달을 돕는 육아법을 개발한 구보타 가요코 할머니다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "누구나 쉽게 따라할 수 있을 만큼 간단한 방법에 뇌과학자 남편의 이론을 접목해 더욱 유명해졌다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "핵심은 좋은 자세로 건강하고 균형 잡힌 몸을 만들고, 오감을 끊임없이 자극해 아이의 지능을 발달하도록 만드는 것이라고 한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 엄격하고 일관성 있는 부모의 태도가 중요하다고 강조한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "구보타 할머니가 수업하는 현장을 찾고, 할머니를 만나 개발 과정과 실제로 어떤 효과가 나타났는지 등을 묻는다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영유아 뇌 발달에 탁월하다는 '구보타 육아법', 효과는 어땠을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

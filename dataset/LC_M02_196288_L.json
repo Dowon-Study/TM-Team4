@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_196288",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "아이즈원, 日 인기 고공행진...韓 걸그룹 최초 신인 매출 1위 기록",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 아이즈원이 일본에서 인기몰이 중이다.\n지난 20일 일본 최대 음반판매량 집계 사이트 오리콘이 공개한 자료에 따르면, 아이즈원은 올해 상반기 아티스트별 세일즈 부문 신인랭킹에서 1위를 차지했다.\n아이즈원은 지난해 12월 24일부터 올해 6월 17일까지 집계한 세일즈 랭킹에서 총 5억 1000만 엔의 매출을 올렸다.\n이는 한화 약 55억 2400만 원에 달한다.\n이에 대해 아이즈원 측은 미디어SR에 \\\"이번 매출 랭킹 1위는 한국 여성 그룹으로서 세운 최초의 기록이다. 현지에서 아이즈원이 좋은 반응을 얻고 있다\\\"고 귀띔했다.\n아이즈원은 지난 2월 6일 발표한 일본 데뷔 싱글 '좋아한다고 말하게 하고 싶어'를 발매했다.\n이는 첫 주만에 22만 2000장의 판매고를 올리며 주간 싱글 랭킹 2위를 기록하는 등 화제를 모았다.\n지난 4월 국내에서 발매한 미니앨범 '하트아이즈' 또한 일본 내에서 주간 앨범 랭킹 4위에 오르는 등 인기 궤도에 오른 모양새다.\n이에 힘입어 아이즈원은 일본 활동을 이어나간다.\n오는 26일에는 일본에서의 두 번째 싱글 '부에노스 아이레스'(Buenos Aires)를 발표하며, 이에 앞서 21일 일본 TV아사히 '뮤직스테이션'에 출연해 동명의 타이틀 곡 '부에노스 아이레스' 무대를 선보일 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 아이즈원이 일본에서 인기몰이 중이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 20일 일본 최대 음반판매량 집계 사이트 오리콘이 공개한 자료에 따르면, 아이즈원은 올해 상반기 아티스트별 세일즈 부문 신인랭킹에서 1위를 차지했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아이즈원은 지난해 12월 24일부터 올해 6월 17일까지 집계한 세일즈 랭킹에서 총 5억 1000만 엔의 매출을 올렸다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이는 한화 약 55억 2400만 원에 달한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 대해 아이즈원 측은 미디어SR에 \\\"이번 매출 랭킹 1위는 한국 여성 그룹으로서 세운 최초의 기록이다. 현지에서 아이즈원이 좋은 반응을 얻고 있다\\\"고 귀띔했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아이즈원은 지난 2월 6일 발표한 일본 데뷔 싱글 '좋아한다고 말하게 하고 싶어'를 발매했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이는 첫 주만에 22만 2000장의 판매고를 올리며 주간 싱글 랭킹 2위를 기록하는 등 화제를 모았다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난 4월 국내에서 발매한 미니앨범 '하트아이즈' 또한 일본 내에서 주간 앨범 랭킹 4위에 오르는 등 인기 궤도에 오른 모양새다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이에 힘입어 아이즈원은 일본 활동을 이어나간다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "오는 26일에는 일본에서의 두 번째 싱글 '부에노스 아이레스'(Buenos Aires)를 발표하며, 이에 앞서 21일 일본 TV아사히 '뮤직스테이션'에 출연해 동명의 타이틀 곡 '부에노스 아이레스' 무대를 선보일 예정이다.",
+        "sentenceSize": 124
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일본에서 따라올 자 없는 아이즈원, 차트 휩쓸어",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "LC_M02_193217",
+    "newsCategory": "생활&문화",
+    "newsSubcategory": "",
+    "newsTitle": "박유천, 이번엔 경찰 접대 의혹...경찰 \\\"내부 진상 파악 中\\\"",
+    "newsSubTitle": "",
+    "newsContent": "가수 겸 배우 박유천(33)이 과거 경찰을 집으로 불러 접대했다는 의혹에 휩싸였다.\n30일 경찰에 따르면 서울지방경찰청 청문감사담당관실은 최근 박유천의 접대 관련 소문을 입수하고 사실관계를 확인 중이다.\n소문은 이렇다.\n박유천이 성폭행 혐의로 고소돼 서울 강남경찰서에서 조사를 받던 2016년경 그가 경찰 관계자를 집으로 초대, 식사 자리를 가졌다는 것. 당시 경찰은 한달여간의 수사를 통해 박유천이 피소된 성폭행 사건 4건에 대해 무혐의로 판단, 불기소 의견으로 검찰에 송치한 바 있다.\n이에 대해 경찰 관계자는 미디어SR에 \\\"그런 이야기를 접했으나 아직 진위 여부가 판가름 나지 않아서 사실 관계 확인을 해보려 한다. 잘못이 있다고 판명된다면 이에 따른 조치가 있겠지만 현재로선 사실 파악 중인 단계\\\"라고 말했다.\n한편, 박유천은 마약 투약 혐의로 물의를 빚은 뒤 연예계를 은퇴한 상태다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 겸 배우 박유천(33)이 과거 경찰을 집으로 불러 접대했다는 의혹에 휩싸였다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "30일 경찰에 따르면 서울지방경찰청 청문감사담당관실은 최근 박유천의 접대 관련 소문을 입수하고 사실관계를 확인 중이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소문은 이렇다.",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박유천이 성폭행 혐의로 고소돼 서울 강남경찰서에서 조사를 받던 2016년경 그가 경찰 관계자를 집으로 초대, 식사 자리를 가졌다는 것. 당시 경찰은 한달여간의 수사를 통해 박유천이 피소된 성폭행 사건 4건에 대해 무혐의로 판단, 불기소 의견으로 검찰에 송치한 바 있다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 대해 경찰 관계자는 미디어SR에 \\\"그런 이야기를 접했으나 아직 진위 여부가 판가름 나지 않아서 사실 관계 확인을 해보려 한다. 잘못이 있다고 판명된다면 이에 따른 조치가 있겠지만 현재로선 사실 파악 중인 단계\\\"라고 말했다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 박유천은 마약 투약 혐의로 물의를 빚은 뒤 연예계를 은퇴한 상태다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박유천 '노답' 이번엔 경찰 접대 의혹",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}
