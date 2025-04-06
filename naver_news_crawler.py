@@ -72,14 +72,15 @@ class NaverNewsCrawler:
                 if extract_content:
                     if self._is_naver_news_link(link):
                         print(f"[DEBUG] Extracting content from: {link}")
-                        content = self._extract_main_content(link)
+                        content, category = self._extract_main_content(link)
                         if content.strip() == "":
                             print("[DEBUG] Content extraction failed, skipping item.")
-                            continue  # 본문이 없으면 저장 안함
+                            continue
                         item["content"] = content
+                        item["category"] = category
                     else:
                         print("[DEBUG] Not a Naver link, skipping item.")
-                        continue  # 네이버 뉴스 링크가 아니면 저장 안함
+                        continue
 
                 results.append(item)
                 print(f"[DEBUG] Appended item to results (total {len(results)})")
@@ -140,32 +141,39 @@ class NaverNewsCrawler:
         return True
 
     def _extract_main_content(self, url):
-        # 네이버 뉴스 기사 본문에서 텍스트를 추출하는 메소드
         try:
             resp = requests.get(url, timeout=5)
             if resp.status_code != 200:
                 print(f"[ERROR] Failed to fetch content: {url}, Status Code: {resp.status_code}")
-                return ""
+                return "", "기타"
 
             soup = BeautifulSoup(resp.text, "html.parser")
 
-            # 네이버 뉴스 기사 본문은 <article id="dic_area"> 내부에 있음
+            # 본문 추출
             article_tag = soup.find("article", {"id": "dic_area"})
             if not article_tag:
                 print("[DEBUG] <article id='dic_area'> not found.")
-                return ""
+                return "", "기타"
 
-            # 모든 하위 태그에서 텍스트만 추출
             text = article_tag.get_text(separator="\n", strip=True)
             if not text:
                 print("[DEBUG] Article content is empty.")
-                return ""
+                return "", "기타"
 
-            return text
+            # 카테고리 추출
+            category = "기타"
+            category_section = soup.find("div", class_="media_end_categorize")
+            if category_section:
+                em_tag = category_section.find("em", class_="media_end_categorize_item")
+                if em_tag:
+                    category = em_tag.get_text(strip=True)
+
+            return text, category
         except requests.exceptions.RequestException as e:
             print(f"[ERROR] RequestException during content fetch: {e}")
-            return ""
+            return "", "기타"
 
 
     def _is_naver_news_link(self, url):
         return ("news.naver.com" in url) or ("n.news.naver.com" in url)
+
