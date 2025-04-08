@@ -1,0 +1,9 @@
+KoNLPy
+PyKoSpacing
+SOYNLP
+pandas
+numpy
+jupyter
+scikit-learn
+matplotlib
+seaborn
