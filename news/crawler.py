@@ -82,7 +82,7 @@ def extract_article_paragraphs(url):
             content_div = soup.find('div', sel)
             if content_div:
                 text = content_div.get_text(strip=True, separator=' ')
-                text = re.sub(r'\s+', ' ', text).strip()  # 줄바꿈 등 제거하고 공백 정리
+                text = re.sub(r'\s+', ' ', text).strip()  # 줄바꿈 제거하고 공백 정리
 
                 # 문장 단위로 분리
                 sentences = re.split(r'(?<=[.!?]) +', text)
