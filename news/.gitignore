@@ -1,0 +1,12 @@
+# JSON 출력 파일과 폴더 제외
+outputs/
+*.json
+
+# 환경 변수 파일도 추가로 보호
+.env
+
+# Pycache 및 기타 불필요 파일
+__pycache__/
+*.pyc
+
+db.sqlite3
