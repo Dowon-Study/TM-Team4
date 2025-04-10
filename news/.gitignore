@@ -2,6 +2,9 @@
 outputs/
 *.json
 
+outputs/
+*.csv
+
 # 환경 변수 파일도 추가로 보호
 .env
 
