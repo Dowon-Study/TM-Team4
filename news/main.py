@@ -11,7 +11,7 @@ from difflib import SequenceMatcher
 import csv
 from sentence_transformers import SentenceTransformer, util
 import hashlib
-from .crawler import (convert_to_desktop_url, extract_article_paragraphs, classify_label,)
+from .crawler import (convert_to_desktop_url, extract_article_paragraphs)
 
 load_dotenv()  # 환경 변수(.env) 불러오기
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2") # Sentence Transformer 모델 로드 (한 번만 로드)
@@ -21,7 +21,7 @@ def make_paragraph_key(sentences):
     text = " ".join(sentences[:5])
     return text
 
-# 중복 검사 함수 (제목 + 앞 5문장 기준 + 임베딩 벡터 비교)
+# 중복 검사 및 카테고리 추출 수정
 def check_duplicate_paragraph(paragraph_sentences, title, collected_paragraphs, threshold=0.85, embed_threshold=0.85):
     summary_part = make_paragraph_key(paragraph_sentences)
     summary_part_with_title = title + "\n" + summary_part
@@ -49,7 +49,8 @@ def check_duplicate_paragraph(paragraph_sentences, title, collected_paragraphs, 
     collected_paragraphs.append(summary_part_with_title)
     return False
 
-@require_GET  # GET 메소드를 이용해 API 요청
+# 수정된 JSON 저장 코드
+@require_GET
 def get_news_by_date(request):
     date = request.GET.get('date')
     query = request.GET.get('query', '뉴스')
@@ -119,10 +120,11 @@ def get_news_by_date(request):
                 continue
 
             title = BeautifulSoup(item['title'], "html.parser").get_text()
-            paragraph_sentences = extract_article_paragraphs(link)
+            paragraph_sentences, category = extract_article_paragraphs(link)
 
             print(f"🔗 {link}")
             print(f"📄 본문 요약: {paragraph_sentences[:5]}")  # 앞 5문장 요약
+            print(f"📊 카테고리: {category}")
 
             if isinstance(paragraph_sentences, str):
                 print(f"[크롤링 실패] {link} → 이유: {paragraph_sentences}")
@@ -139,7 +141,7 @@ def get_news_by_date(request):
 
             combined_text = "\n".join(paragraph_sentences)
             collected_paragraphs.append(title + "\n" + "\n".join(paragraph_sentences[:2]))
-            label = classify_label(combined_text + " " + title)
+            label = category  # 카테고리 직접 받아오는 값
 
             result_data.append({
                 "title": title,
@@ -191,8 +193,11 @@ def get_news_by_date(request):
             output_dir.mkdir(parents=True, exist_ok=True)
             output_path = output_dir / f"{safe_news_id}.json"
 
-            with open(output_path, "w", encoding="utf-8") as f:
-                json.dump(output_data, f, ensure_ascii=False, indent=2)
+            try:
+                with open(output_path, "w", encoding="utf-8") as f:
+                    json.dump(output_data, f, ensure_ascii=False, indent=2)
+            except Exception as e:
+                print(f"[파일 저장 실패] {e}")
 
             # CSV 저장 로직 (문장 단위)
             with open(csv_output_path, "a", newline='', encoding='utf-8') as csvfile:
@@ -218,4 +223,4 @@ def get_news_by_date(request):
 
         start += 100
 
-    return JsonResponse({"data": result_data}) 
+    return JsonResponse({"data": result_data})
